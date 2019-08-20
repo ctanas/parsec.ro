@@ -1,0 +1,24 @@
+---
+author: "Claudiu"
+date: 2019-06-06
+title: Buletin Cosmic nr. 40
+weight: 10
+---
+
+După o lună de zile petrecută pe orbită, cuplată cu Stația Spațială Internațională, capsula **Dragon CRS-17** a revenit în noaptea de duminică spre luni cu bine înapoi pe Pământ. De fapt, capsula a amerizat în apele Oceanului Atlantic, pentru că Dragon nu poate să aterizeze la sol, deși această caracteristică urmează să fie implementată în iterațiile viitoare ale capsulei. A fost a doua revenire prin atmosferă pentru capsulă, pentru că exact același vehicul a fost folosită și în misiunea CRS-12 din vara anului 2017. Următoarea capsulă Dragon (care va purta indicativul CRS-18) se pregătește deja pentru lansarea programată luna iulie. Însă SpaceX nu se pregătește doar pentru lansarea următoarei capsule Dragon spre ISS, dar tot la finalul acestei luni este planificată și a treia lansare Falcon Heavy, cea mai puternică rachetă operațională în prezent, care va urca pe orbită câțiva sateliți pentru Departamentul de Apărare al Statelor Unite, parte a procesului de certificare a noului lansator pentru încărcături utile sensibile pentru securitate națională americană.
+
+---
+
+La doar o zi distanță după plecarea capsulei Dragon CRS-17, un alt vehicul a părăsit Stația Spațială Internațională: nava cargo rusă **Progress MS-10**. Aceasta a petrecut 200 de zile în spațiu, cuplată cu modulul Zvezda din sectorul rusesc al ISS. La trei ore și șase minute după decuplare, motoarele navei Progress MS-10 au fost pornite în direcția de mers pentru frânare și deorbitare, resturile navei ajungând în Oceanul Pacific la ora 15:29, pentur că spre deosebire de capsula Dragon, Progress nu este proiectat să reziste trecerii prin atmosferă. Următorul vehicul care va părăsi Stația Spațială Internațională va fi capsula Soyuz MS-11, care va aduce pe Pământ pe Anne McClain, David Saint-Jaques și Oleg Kononenko, trei din cei șase astronauți prezenți la bordul ISS.
+
+---
+
+O rachetă **Proton-M** a reușit vineri searaprima lansare din 2019, după un ritm mai scăzut în ultimii ani datorită numeroaselor probleme tehnice care au urmărit lansatorul greu rusesc. Satelitul de telecomunicații Yamal-601 al companiei ruse Gazprom Space Systems a fost lansat cu succes de la Baikonur, dar unele probleme cu propulsia proprie a satelitului, fără legătură cu lansatorul Proton, întârzie deplasarea sa pe orbita geostaționară dorită. Yamal-601 (care are o masă de 5.7 tone) a fost construit de Thales Alenia Space pentru compania Gazprom Space Systems. Peste 400 de rachete Proton au fost lansate din anii ‘60, din care peste 100 au fost modelul Proton-M, folosit din 2001. Următoarea lansare Proton este programată pentru 21 iunie, când va fi lansat telescopul spațial Spektr-RG, folosit pentru observații în domeniul razelor X.
+
+---
+
+Northrop Grumman Innovation Systems (**NGIS**), divizie din cadrul Northrop Grumman formată după absorbirea companiei Orbital Systems, a efectuat joia trecută primul test al treptei primare a viitoarei rachete OmegA. Această rachetă cu combustibil solid a evoluat din boosterele auxiliare ale navetei spațiale (care vor echipa și viitoare rachetă SLS a Agenției Spațiale Americane). Deși spre finalul testului duza motorului a explodat, NGIS a declarat că testul a fost unul reușit și că vor investiga anomalia care a dus la dezintegrarea duzei. Deși prima treapta OmegA este similară cu boosterul auxiliar al SLS, duzele sunt diferite. Combustibilul solid oferă unele avantaje față de cel lichid, motoarele cu combustibil solid odată pornite nu mai pot fi oprite și nici puterea lor nu poate fi variată în timp real, așa cum se întâmplă în cazul motoarelor cu combustibil lichid.
+
+---
+
+Programul **Artemis** își ia avânt și NASA pare să-și concentreze serios eforturile spre Lună. A anunțat de curând că trei companii private vor primii fonduri pentru a livra încărcături utile pe Lună până în 2021, parte a noului program Commercial Lunar Payload Services (CLPS). Astrobotic va primi 79.5 milioane de dolari pentru a lansa 14 încărcături pe Lună, în zona Lacus Mortis până în iulie 2021. Astrobotic colaborează cu Airbus, United launch Alliance (care va furniza și o rachetă Atlas V pentur lansare) sau... DHL; Intuitive Machines primește 77 milioane de dolari și își propune să lanseze 5 încărcături spre Oceanus Procellarum, tot până în iulie 2021, dar folosind o rachetă Falcon 9. Intuitive Machines colaborează cu Boeing în acest sens; Orbit Beyond va primi 97 milioane de dolari pentru a transporta 4 încărcături spre Lună, pe câmpia de lavă denumită Mare Imbrium (unde a ajuns și Apollo 15), până în septembrie 2020, tot cu ajutorul unei rachete Falcon 9.
