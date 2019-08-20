@@ -8,16 +8,24 @@ theme = "alageek"
 title = "parsec.ro"
 
 [params]
-copyright = "©2009-2019 parsec.ro | un site de Claudiu Tănăselia"
+copyright = "©2009-2019 parsec.ro | un site de Claudiu Tănăselia."
 copyrightUrl = "https://www.parsec.ro"
-faviconfile = "https://gokmengorgen.net/img/laughing-man-favicon.png"
+faviconfile = "/blog/i/favicon.ico"
 latestpostcount = 5
-logofile = "https://i.imgur.com/GVtzkol.png"
+logofile = "/blog/i/logo.png"
 highlightjs = false
 
 [[params.best_posts]]
-title = "Migrate to Hugo from Jekyll"
-url = "/blog/migrate-from-jekyll/"
+title = "Lansări orbitale în 2019"
+url = "/blog/lansari2019/"
+
+[[params.best_posts]]
+title = "Sonde interplanetare"
+url = "/blog/sonde/"
+
+[[params.best_posts]]
+title = "Stația Spațială Internațională"
+url = "/blog/iss/"
 
 [[menu.primary]]
 identifier = "blog"
@@ -26,14 +34,20 @@ url = "/blog/"
 weight = 10
 
 [[menu.primary]]
+identifier = "FAQ"
+name = "FAQ"
+url = "/faq/"
+weight = 20
+
+[[menu.primary]]
 identifier = "about"
 name = "Despre site"
 url = "/about/"
-weight = 20
+weight = 30
 
 [[menu.secondary]]
 identifier = "patreon"
-name = "Susține pe Patreon!"
+name = "Donează prin Patreon"
 url = "https://www.patreon.com/bePatron?u=10637849"
 weight = 110
 

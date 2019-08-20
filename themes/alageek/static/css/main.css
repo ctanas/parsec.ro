@@ -303,3 +303,15 @@ h6 {
         margin-right: 0;
     }
 }
+
+    tr th, tr td {
+      font-family: courier;
+      font-size: small;
+      padding: $padding-8 $padding-16;
+      line-height: 1;
+      border: $padding-1 solid $gray-200;
+    }
+
+tr:nth-child(even) {background: #E7E9E9}
+tr:nth-child(odd) {background: #FFF}
+ 

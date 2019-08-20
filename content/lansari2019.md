@@ -110,10 +110,14 @@ Lansările efectuate de Arianespace sunt incluse la /Europa/, iar lansările Ele
 
 *MOL* -- orbită Molniya.
 
-* Note de subsol
+## Note de subsol
 
 [fn:1] Tentativa unei companii chinezești private de a pune pe orbăită un satelit s-a încheiat cu un eșec după ce controlul rachetei a fost pierdut imediat după seprarea primei trepte.
+
 [fn:2] Probleme cu a treia treaptă a rachetei Changzheng.
+
 [fn:3] Prima lansare eșuată pentru racheta Vega, datorită unor probleme cu treapta secundară.
+
 [fn:4] Prima lansare orbitală reușită a unei companii private din China.
+
 [fn:5] Racheta a pus satelitul pe orbita corectă, dar ulterior acesta a suferit probleme tehnice.
