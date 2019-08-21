@@ -6,6 +6,7 @@ copyright = "Copyright © 2008–2018, Steve Francia and the Hugo Authors; all r
 paginate = 3
 theme = "alageek"
 title = "parsec.ro"
+DefaultContentLanguage = "ro"
 
 [params]
 copyright = "©2009-2019 parsec.ro | un site de Claudiu Tănăselia."
