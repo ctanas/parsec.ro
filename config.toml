@@ -18,15 +18,15 @@ highlightjs = false
 
 [[params.best_posts]]
 title = "Lansări orbitale în 2019"
-url = "/blog/lansari2019/"
+url = "/lansari2019/"
 
 [[params.best_posts]]
 title = "Sonde interplanetare"
-url = "/blog/sonde/"
+url = "/sonde/"
 
 [[params.best_posts]]
 title = "Stația Spațială Internațională"
-url = "/blog/iss/"
+url = "/iss/"
 
 [[menu.primary]]
 identifier = "blog"

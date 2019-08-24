@@ -304,14 +304,30 @@ h6 {
     }
 }
 
-    tr th, tr td {
-      font-family: courier;
-      font-size: small;
-      padding: $padding-8 $padding-16;
-      line-height: 1;
-      border: $padding-1 solid $gray-200;
-    }
+/* User modification */
 
-tr:nth-child(even) {background: #E7E9E9}
-tr:nth-child(odd) {background: #FFF}
- 
+/* Table customization */
+    tr th, tr td {
+    font-family: Cousine;      /* Monospace font, for better data display */
+    font-size: small;          /* Small fonts, to fit more data */
+    line-height: 1.4;          /* No need to waste much space */
+    padding: 0px 0px 0px 12px; /* Make it more readeable, leave some space between columns,*/
+    }                          /* maybe there's a more elegant solution to it?*/
+
+table {
+    margin-left: 20px;         /* Crudely align the table with the rest of th text */
+}
+
+tr:nth-child(even) {
+    background: #e5f2f2        /* Every other line is colore */
+    } 
+
+tr:nth-child(odd) {
+    background: #FFF           /* for better readability */
+    }     
+
+/* Footnotes customization */ 
+.footnotes {
+    font-size: 75%;            /* Separating the footnotes from main body by */
+    line-height: 1.2rem;       /* smaller fonts and less line space*/
+}
