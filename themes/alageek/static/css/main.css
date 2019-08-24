@@ -304,9 +304,10 @@ h6 {
     }
 }
 
-/* User modification */
+/* hic sunt dracones */
 
 /* Table customization */
+
     tr th, tr td {
     font-family: Cousine;      /* Monospace font, for better data display */
     font-size: small;          /* Small fonts, to fit more data */
@@ -327,6 +328,7 @@ tr:nth-child(odd) {
     }     
 
 /* Footnotes customization */ 
+
 .footnotes {
     font-size: 75%;            /* Separating the footnotes from main body by */
     line-height: 1.2rem;       /* smaller fonts and less line space*/
