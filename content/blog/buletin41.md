@@ -2,7 +2,7 @@
 author: "Claudiu"
 date: 2019-06-25
 title: Buletin Cosmic nr. 41
-weight: 10
+tags: [ExoMars, ISS, SpaceX, "Falcon Heavy", "Ariane 5"]
 ---
 
 Roverul american **Curiosity** a detectat cea mai mare concentrație de metan măsurată vreodată în atmosfera marțiană: 21 ppb (micrograme pe kilogram), în timp ce sonda europeană Trace gas Orbiter (TGO), parte a misiunii ExoMars, trimisă acolo în 2016 tocmai pentru a măsura concentrația de metan din atmosferă, nu a identificat încă misteriosul metan marțian, cel puțin nu la concentrații mai mari decât limita de detecție a instrumentelor de la bord (limita de detecție a instrumentelor TGO fiind mai mică decât valoarea găsită de Curiosity). Asta după ce în 2004, primele date privind concentrația de metan din atmosfera marțiană au fost obținute de sonda europeană Mars Express (10 ppb), rezultate ce au rămas controversate mulți ani. Anul viitor, în a doua parte a misiunii ExoMars, pe Marte va fi trimis un nou rover, de această dată european, care va ajuta la descifrarea enigmei metanului marțian. Acest gaz este extrem de important, deoarece el poate avea două origini: fie poate proveni din roci, prin procese chimice naturale, fie este produs al metabolismului unor organisme vii, iar acest scenariu este unul extrem de interesant dacă vorbim despre Marte.
