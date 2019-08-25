@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Lansări orbitale în 2019'
 bookToc: false
 ---
@@ -66,23 +66,31 @@ bookToc: false
 | 58 | 19.08 1212 | Electron         | BRO-1          | SUA     | Mahia LC-1      | LEO   | Succes       |
 
 
-* Abrevieri folosite în tabele
+## Abrevieri folosite în tabele
 
-*LEO* -- orbită terestră joasă (/Low Earth Orbit)/;
+LEO
+: orbită terestră joasă (/Low Earth Orbit)/;
 
-*ISS* -- lansare spre Stația Spațială Internațională (/International Space Station/), care se află pe LEO;
+ISS
+: lansare spre Stația Spațială Internațională (/International Space Station/), care se află pe LEO;
 
-*SSO* -- orbită heliosincronă (/Sun-Synchronous Orbit/), un caz special de LEO;
+SSO
+: orbită heliosincronă (/Sun-Synchronous Orbit/), un caz special de LEO;
 
-*MEO* -- orbită terestră medie (/Medium Earth Orbit/);
+MEO
+: orbită terestră medie (/Medium Earth Orbit/);
 
-*GEO* -- orbită geosuncronă (/GEOsynchronous orbit/);
+GEO
+: orbită geosuncronă (/GEOsynchronous orbit/);
 
-*LL2* -- punctul Lagrange L2 Pământ-Lună;
+LL2
+: punctul Lagrange L2 Pământ-Lună;
 
-*SNC* -- orbită selenocentrică (lunară);
+SNC
+: orbită selenocentrică (lunară);
 
-*MOL* -- orbită Molniya.
+MOL
+: orbită Molniya.
 
 ## Note de subsol
 
