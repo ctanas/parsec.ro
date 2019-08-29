@@ -1,11 +1,11 @@
----
-author: "Claudiu"
-date: 2019-03-06
-title: Buletin Cosmic nr. 30
-weight: 10
----
++++
+title = "Buletin Cosmic nr. 30"
+author = ["Claudiu"]
+date = 2019-03-06
+draft = false
++++
 
-Sâmbătă dimineața, la ora 09:49:03 fix, de pe rampa LC-39A de la centrul spațial Kennedy a decolat o rachetă **Falcon 9** cu o misiune cu totul specială. În vârful rachetei s-a aflat prima capsulă **Dragon-2** sau **Crew Dragon**, proiectată de compania SpaceX pentru a transporta astronauți pe orbită. Nu au fost astronauți la bord vineri, doar un manechin dotat cu o mulțime de senzori și botezat Ripley, dar dacă misiunea se desfășoară fără incidente, în câteva luni Statele Unite vor lansa din nou astronauți, după o pauză de peste 2800 de zile.
+Sâmbătă dimineața, la ora 09:49:03 fix, de pe rampa LC-39A de la centrul spațial Kennedy a decolat o rachetă Falcon 9 cu o misiune cu totul specială. În vârful rachetei s-a aflat prima capsulă Dragon-2 sau Crew Dragon, proiectată de compania SpaceX pentru a transporta astronauți pe orbită. Nu au fost astronauți la bord vineri, doar un manechin dotat cu o mulțime de senzori și botezat Ripley, dar dacă misiunea se desfășoară fără incidente, în câteva luni Statele Unite vor lansa din nou astronauți, după o pauză de peste 2800 de zile.
 
 În 8 iulie 2011, naveta spațială Atlantis a fost ultimul vehicul care a lansat astronauți americani în spațiu, după retragerea flotei de navete NASA fiind nevoită să cumpere locuri în capsula Soyuz pentru a ajunge pe Stația Spațială Internațională. Însă acest lucru se va schimba în curând, datorită programului de stimulare a sectorului privat pentru a veni cu soluții în ceea ce privește lansarea astronauților pe orbita terestră joasă.
 
@@ -19,4 +19,4 @@ Dragon-2 va părăsi Stația Spațială Internațională vineri și va reveni î
 
 Boeing are o întârziere de câteva luni față de SpaceX, având primul zbor test fără echipaj programat pentru această vară, urmând ca primii astronauți să urce la bordul capsulei CST-100 Starliner (și propulsată de o rachetă Atlas V modificată în acest sens) abia anul viitor. Atât Dragon-2 cât și Starliner vor putea lansa în viitor câte 7 astronauți, marcând astfel sfârșitul monopolului capsulei Soyuz în ceea ce privește lansările de echipaj spre Stația Spațială Internațională.
 
-Versiunea audio a acestui articol o puteți găsi pe site-ul [Radio România Cultural](https://radioromaniacultural.ro/%EF%BB%BFde-data-asta-doar-despre-dragon/).
+Versiunea audio a acestui articol o puteți găsi pe site-ul Radio România Cultural.

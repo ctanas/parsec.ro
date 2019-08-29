@@ -1,11 +1,11 @@
----
-author: "Claudiu"
-date: 2019-05-22
-title: Buletin Cosmic nr. 38
-weight: 10
----
++++
+title = "Buletin Cosmic nr. 38"
+author = ["Claudiu"]
+date = 2019-05-22
+draft = false
++++
 
-**Artemis** este numele noului program prin care NASA dorește ca astronauții americani să ajungă în 2024 pe Lună. Program, recent botezat, a fost anunțat de vicepreședintele Mike Pence acum aproape 2 luni de zile, de la Huntsville, Alabama, în cadul unei conferințe de presă în urma unei întâlniri a Consiliului Național Spațial, reactivat de actuala administrație de la Casa Albă.
+Artemis este numele noului program prin care NASA dorește ca astronauții americani să ajungă în 2024 pe Lună. Program, recent botezat, a fost anunțat de vicepreședintele Mike Pence acum aproape 2 luni de zile, de la Huntsville, Alabama, în cadul unei conferințe de presă în urma unei întâlniri a Consiliului Național Spațial, reactivat de actuala administrație de la Casa Albă.
 
 Artemis, zeița Lunii în mitologia greacă, este sora geamănă a lui Apollo și denumirea se potrivește și mai bine dacă ne aducem aminte că NASA insistă ca o femeie să fie parte a primului echipaj care va aseleniza în 2024. Un nume excelent pentru reîntoarcerea pe Lună, dacă mă întrebați pe mine și dacă ne prefacem că ignorăm faptul că Artemis l-a omorât pe Orion. Sperăm să nu fie cazul, având în vedere că Orion este și numele capsulei care a supraviețuit programului Constellation și capsula urmează să fie folosită și în programul Artemis.
 

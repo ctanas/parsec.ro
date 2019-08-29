@@ -18,7 +18,7 @@ highlightjs = false
 
 [[params.best_posts]]
 title = "Lansări orbitale în 2019"
-url = "/lansari2019/"
+url = "/lansari/"
 
 [[params.best_posts]]
 title = "Sonde interplanetare"
