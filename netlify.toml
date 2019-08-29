@@ -1,0 +1,9 @@
+[build]
+  publish = "/public"
+  command = "hugo --gc --themesDir themes"
+
+[build.environment]
+  HUGO_VERSION = "0.57.2"
+  HUGO_THEME = "alageek"
+  HUGO_BASEURL = "/"
+  
