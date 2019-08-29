@@ -11,9 +11,9 @@ DefaultContentLanguage = "ro"
 [params]
 copyright = "©2009-2019 parsec.ro | un site de Claudiu Tănăselia."
 copyrightUrl = "https://www.parsec.ro"
-faviconfile = "/blog/i/favicon.ico"
+faviconfile = "/img/favicon.ico"
 latestpostcount = 5
-logofile = "/blog/i/logo.png"
+logofile = "/img/logo.png"
 highlightjs = false
 
 [[params.best_posts]]
