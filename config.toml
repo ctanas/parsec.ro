@@ -49,7 +49,7 @@ weight = 30
 [[menu.secondary]]
 identifier = "patreon"
 name = "Donează prin Patreon"
-url = "https://www.patreon.com/bePatron?u=10637849"
+url = "https://www.patreon.com/superparsec"
 weight = 110
 
 [[menu.footer]]
