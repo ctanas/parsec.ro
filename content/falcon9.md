@@ -77,6 +77,11 @@ draft = false
 1.  2019-06-25 N/A **STP-2**, FH-centru&nbsp;[^fn:5]
 
 
+## B1058 {#b1058}
+
+1.  20XX-XX-XX XXX Dragon DM-2[^fn:6]
+
+
 ## Abrevieri {#abrevieri}
 
 OCISLY
@@ -104,3 +109,4 @@ LZ-4
 [^fn:3]: Prima treaptă nu a fost recuperată, fiind nevoie de toată puterea disponibilă a rachetei.
 [^fn:4]: Recuperat inițial pe barjă, dar pierdut ulterior datorită condițiilor meteo.
 [^fn:5]: Recuperarea pe barja OCISLY nu a reușit.
+[^fn:6]: Este treapta primară care urmează să fie folosită în prima misiune cu echipaj uman a SpaceX; a efectuat primul test static în 29 august 2019.

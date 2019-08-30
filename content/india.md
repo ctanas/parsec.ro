@@ -1,5 +1,5 @@
 +++
-title = "Programul spațial Indian"
+title = "Programul spațial indian"
 author = ["Claudiu"]
 draft = false
 +++

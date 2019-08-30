@@ -1,4 +1,4 @@
-author = "Claudiu Tănăselia"
+author = "Claudiu"
 baseurl = "/"
 canonifyurls = true
 languageCode = "ro"
@@ -21,12 +21,12 @@ title = "Lansări orbitale în 2019"
 url = "/lansari/"
 
 [[params.best_posts]]
-title = "Sonde interplanetare"
-url = "/sonde/"
+title = "Programul spațial iranian"
+url = "/iran/"
 
 [[params.best_posts]]
-title = "Stația Spațială Internațională"
-url = "/iss/"
+title = "Naveta secretă X-37B"
+url = "/x37b/"
 
 [[menu.primary]]
 identifier = "blog"

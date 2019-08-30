@@ -1,13 +1,13 @@
 blog_posts:
     other: "Postări"
 latest_posts:
-    other: "Cele mai recente"
+    other: "Buletine Cosmice"
 page_not_found_description:
     other: "Pagina pe care o cauți nu există"
 page_not_found_link:
     other: "Vizitează pagina principală"
 pinned:
-    other: "Importante"
+    other: "Articole principale"
 posts_about:
     other: "Articole despre {{ .Title }}"
 reading_time:

@@ -68,6 +68,8 @@ draft = false
 | 57 | 19.08 | 1203 | Changzheng-3B/G2 | Chinasat-18    | China   | Xichang         | GEO   | Succes[^fn:5] |
 | 58 | 19.08 | 1212 | Electron         | BRO-1          | SUA     | Mahia LC-1      | LEO   | Succes        |
 | 59 | 22.08 | 0338 | Soyuz-2.1a       | Soyuz MS-14    | Rusia   | Baikonur 31/6   | ISS   | Succes        |
+| 60 | 22.08 | 1606 | Delta IV Medium  | GPS-III SV02   | SUA     | CC SLC-37B      | MEO   | Succes        |
+| 61 | 30.08 | 1700 | Rokot            | Kosmos-2540    | Rusia   | Plesetsk 133/3  | LEO   | Succes        |
 
 
 ### Abrevieri folosite în tabele {#abrevieri-folosite-în-tabele}
@@ -85,7 +87,7 @@ MEO
 : orbită terestră medie (_Medium Earth Orbit_);
 
 GEO
-: orbită geosuncronă (_GEOsynchronous orbit_);
+: orbită geosincronă (_GEOsynchronous orbit_);
 
 LL2
 : punctul Lagrange L2 Pământ-Lună;
@@ -96,12 +98,10 @@ SNC
 MOL
 : orbită Molniya.
 
----
-
 
 ### Note de subsol {#note-de-subsol}
 
-[^fn:1]: Tentativa unei companii chinezești private de a pune pe orbăită un satelit s-a încheiat cu un eșec după ce controlul rachetei a fost pierdut imediat după seprarea primei trepte.
+[^fn:1]: Tentativa unei companii chinezești private de a pune pe orbită un satelit s-a încheiat cu un eșec după ce controlul rachetei a fost pierdut imediat după seprarea primei trepte.
 [^fn:2]: Probleme cu a treia treaptă a rachetei Changzheng.
 [^fn:3]: Prima lansare eșuată pentru racheta Vega, datorită unor probleme cu treapta secundară.
 [^fn:4]: Prima lansare orbitală reușită a unei companii private din China.
