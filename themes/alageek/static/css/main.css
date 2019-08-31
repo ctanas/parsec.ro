@@ -355,3 +355,7 @@ figcaption {
 	line-height: 1rem;
 	padding: 5px;
 }
+
+figure-number {
+    display: none;
+}
