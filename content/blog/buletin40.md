@@ -2,6 +2,7 @@
 title = "Buletin Cosmic nr. 40"
 author = ["Claudiu"]
 date = 2019-06-06
+tags = ["crs17", "progress", "ms10", "proton", "omega"]
 draft = false
 +++
 

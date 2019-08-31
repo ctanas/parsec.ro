@@ -2,6 +2,7 @@
 title = "Buletin Cosmic nr. 28"
 author = ["Claudiu"]
 date = 2019-02-20
+tags = ["opportuniy", "marte", "mer"]
 draft = false
 +++
 

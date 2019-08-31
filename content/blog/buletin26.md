@@ -2,6 +2,7 @@
 title = "Buletin Cosmic nr. 26"
 author = ["Claudiu"]
 date = 2019-02-06
+tags = ["deltaivheavy", "parker", "change4", "raptor", "meteor", "meteorit"]
 draft = false
 +++
 

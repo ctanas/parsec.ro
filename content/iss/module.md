@@ -1,57 +1,51 @@
 +++
-title = "Stația Spațială Internațională"
+title = "Module"
 author = ["Claudiu"]
 draft = false
 +++
 
-## Module {#module}
-
-
-### Zarya (FGB) {#zarya--fgb}
+## Zarya (FGB) {#zarya--fgb}
 
 Primul element al ISS este un modul rusesc, destinat inițial pentru fosta stație MIR și construit după șablonul modulelor folosite de către vechea stație spațială sovietică. Lansat în 20 noiembrie 1998 de la Baikonur de către o rachetă Proton-K, a așteptat două luni pe orbită până când a fost cuplat cu modulul american Unity. În primele faze ale construcției stației spațiale, modulul Zarya (sau FGB), era autosuficient, fiind capabil să genereze energie electrică folosind cele două panouri solare atașate, asigura comunicațiile cu solul și era manevrabil, putându-și modifica parametrii orbitali. În prezent, o dată cu extinderea stației, Zarya este folosit pentru depozitarea de materiale și pentru propulsia necesară manevrelor ISS, însă este un modul esențial, fără de care ISS nu poate funcționa. Are două sasuri laterale care permit andocarea navelor Progress și Soyuz și este echipat cu o serie de propulsoare pentru manevre orbitale: 2 principale (folosite de obicei pentru ridicare altitudinii) și 36 de propulsoare de mici dimensiuni, pentru ajustarea orientării. Zarya poate găzdui 5.4 tone de combustibil.
 
 
-### Unity (Node-1) {#unity--node-1}
+## Unity (Node-1) {#unity--node-1}
 
 Unity (sau Node-1) este primul din cele trei noduri ale stației și primul element care s-a cuplat cu Zarya în 1998. Unity a fost lansat la bordul navetei spațiale Endeavour (STS-88) în 4 decembrie 1998. Sasul american Quest, poarta prin care astronauții pot ieși în spațiu, se află atașat de Unity. Când naveta spațială ajungea la ISS și nu transporta elemente majore ale stației, purta de obicei în cală un modul presurizat pentru transportul proviziilor spre ISS și al deșeurilor de pe ISS pe Pământ. Naveta se cupla de ISS și cu brațul robotic muta modulul Leonardo din cală, cuplându-l cu modulul Unity pe durata misiunii, pentru ca echipajul să poată avea acces mai ușor la acesta. În 2011, ultima misiune a navetei Discovery (STS-133) a cuplat definitiv modulul Leondardo de nodul Unity, unde este în prezent folosit pentru depozitare.
 
 
-### Zvezda {#zvezda}
+## Zvezda {#zvezda}
 
 Lansat în 12 iulie 2000 la bordul unui propulsor Proton-K, Zvezda a fost primul modul rusesc destinat pentru a fi ocupat de echipaj uman, dar nu a fost primul element al ISS lansat, el fiind ulterior conectat de ansamblul format deja din Zarya și Unity. Are o lungime de 13 metri și un diametru de 4.3 metri. Cele 32 de motoare de mică putere îi asigură orientarea în spațiu, iar 2 propulsoare pot asista restul modulelor implicate în manevrele orbitare ale ISS. Zvezda este cuplat direct cu Zarya, care este conectat cu Unity prin sasul PMA1.
 
 
-### Destiny {#destiny}
+## Destiny {#destiny}
 
 Modul american, după cum îi spune și numele, construit de NASA în colaborare cu Boeing, a fost primul modul destinat aproape în totalitate cercetării. A ajuns în spațiu în 7 februarie 2001, fiind transportat de naveta Atlantis (STS-98). Conține spații dedicate în exclusivitatea diverselor experimente științifice care au loc la bordul stației plus o fereastră cu un diametru de 51 cm, care este aproape în permanență îndreptată spre Pământ. Experimentele din Unity sunt grupate, formând un fel de rafturi, sau platforme pentru experimente din aceiași gamă. Doar în Unity există 25 de asemenea rafturi. Spre exemplu, raftul HRF (Human Resarch Facility) include echipamente științifice pentru diverse experiențe medicale: teste pentru plămâni, instrumente cu ultrasunete pentru studiul inimii, computere sau alte echipamente medicale. MSG (Microgravity Science Glovebox) oferă un mediu contorlat pentru diverse experimente de microgravitație, având filtre și un sistem de ventilație separat de restul stației și un post dotat cu mănuși pentru manipularea obiectelor din incinta cu atmosferă controlată.
 
 Între Unity și Destiny se află o structură metalică compusă din opt grinzi de care sunt montate diverse experimente, pompe care recirculă amoniacul cu rol în răcirea interiorului stației și două brațe robotice: Canadarm 2, o variantă îmbunătățită a brațului robotic aflat în dotarea navetei spațiale și Dextre, un fel de mână robotizată, cu mai multe grade de libertate, care poate efectua astfel operațiuni mai complexe decât Canadarm 2. Controlul acestor brațe se realizează din modulul Destiny.
 
 
-### Harmony (Node-2) {#harmony--node-2}
+## Harmony (Node-2) {#harmony--node-2}
 
 Al doilea nod al stației și ultimul pe axa principală de simetrie este tot un modul american: Harmony (sau Node-2). ISS se termină cu portul PMA2 al nodului Harmony, nod care face legătura cu două module: Columbus la tribord și Kibo la babord și oferă porturi de andocare pentru capsula Dragon, lansată de SpaceX. A fost adus pe orbită de către naveta Discovery (STS-120) în 2007 și modulul permite trecerea spre modulul japonez Kibo și cel european Columbus. La capătul modulului se află un port de andocare denumit PMA-2, folosit în trecut de vehiculul european ATV și în prezent de cel japonez HTV. În prezent, peste PMA-2 a fost montat adaptorul IDA-2, care permite andocarea vehiculelor comerciale la viteze mai mici decât o făceau ATV și HTV.
 
 
-### Columbus {#columbus}
+## Columbus {#columbus}
 
 Contribuția europeană majoră la Stația Spațială Internațională, modulul Columbus, a ajuns în spațiu în 2008, în cala navetei Atlantis (STS-122) și este în prezent montat în stânga nodului 2 Harmony. Columbus, la fel ca Destiny, este dedicat cercetării științifice, fiind practic un laborator orbital, cu instalații pentru studii din domeniul științei materialelor, fizicii fluidelor, bio-științe și diverse alte aplicații.
 
 
-### Kibo (JEM) {#kibo--jem}
+## Kibo (JEM) {#kibo--jem}
 
 Laboratorul japonez Kibo (sau JEM - _Japanese Experiment Module_) a avut nevoie de trei lansări pentru a fi complet asamblat în dreapta modulului Unity: STS-123 (Endeavour), STS-124 (Discovery) și STS-127 (Endeavour), între martie 2008 și iulie 2009. Acesta nu conține doar un simplu modul, ci două, la care este atașată și o platformă unde se pot plasa experimente care să fie expuse vidului cosmic, cu ajutorul unui braț robotic. Kibo permite și lansarea de sateliți de mici dimensiuni care pot fi pregătiți pentru lansare în interiorul stației.
 
 
-### Tranquility (Node-3) {#tranquility--node-3}
+## Tranquility (Node-3) {#tranquility--node-3}
 
 Tranquility (sau Node-3), este plasat în dreapta lui Unity (Node-1) și oferă acces la portul de andocare PMA3 dar și la un element spectaculos, Cupola, un modul construit de ESA ș lansat în 2010 cu naveta Endeavour (STS-130). Având 7 ferestre, Cupola este folosit ca observator, oferind o priveliște nu doar extrem de plăcută ochiului, dar și vitală pentru diverse experimente științifice de la bord sau pentru manevre de mentenanță (printr-o mai bună vizibilitate asupra operațiunilor efectuate cu brațul robotic, andocări sau activități extravehiculare). Tranquility găzduiește și toaleta sectorului american al stației.
 
 
-### Rassvet (MRM-1) {#rassvet--mrm-1}
+## Rassvet (MRM-1) {#rassvet--mrm-1}
 
 Lansat în 14 mai 2010 cu naveta Atlantis (STS-132), modulul rusesc de mici dimensiuni Rassvet (sau MRM-1, Mini Research Module 1) este atașat de Zarya și oferă Stației Spațiale încă un port de andocare pentru navele vizitatoare, asta pe lângă un plus de spațiu interior, folosit pentru stocare.
-
-
-## Expediții {#expediții}

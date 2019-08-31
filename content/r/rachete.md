@@ -1,7 +1,7 @@
 +++
 title = "Lansatoare orbitale active"
 author = ["Claudiu"]
-draft = false
+draft = true
 +++
 
 ## SUA {#sua}

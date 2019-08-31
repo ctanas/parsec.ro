@@ -2,6 +2,7 @@
 title = "Buletin Cosmic nr. 25"
 author = ["Claudiu"]
 date = 2019-01-25
+tags = ["progress", "ms09", "pslv", "microsatr", "newshepard", "blueorigin"]
 draft = false
 +++
 

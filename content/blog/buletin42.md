@@ -1,6 +1,7 @@
 +++
 title = "Buletin Cosmic nr. 42"
 author = ["Claudiu"]
+tags = ["iran"]
 draft = true
 +++
 

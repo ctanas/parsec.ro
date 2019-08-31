@@ -2,6 +2,7 @@
 title = "Buletin Cosmic nr. 33"
 author = ["Claudiu"]
 date = 2019-03-27
+tags = ["meteor", "eva", "bennu", "osirisrex", "vega", "boeing"]
 draft = false
 +++
 

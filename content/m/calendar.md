@@ -1,7 +1,7 @@
 +++
 title = "Calendar Cosmic"
 author = ["Claudiu"]
-draft = false
+draft = true
 +++
 
 ## Ianuarie {#ianuarie}

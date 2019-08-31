@@ -2,6 +2,7 @@
 title = "Buletin Cosmic nr. 34"
 author = ["Claudiu"]
 date = 2019-04-03
+tags = ["artemis", "india", "pslv", "osm", "eva", "electron"]
 draft = false
 +++
 

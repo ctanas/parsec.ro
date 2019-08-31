@@ -1,5 +1,0 @@
-+++
-title = "Programul Artemis"
-author = ["Claudiu"]
-draft = false
-+++

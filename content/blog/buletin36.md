@@ -2,6 +2,7 @@
 title = "Buletin Cosmic nr. 36"
 author = ["Claudiu"]
 date = 2019-04-17
+tags = ["beresheet", "falconheavy", "change4"]
 draft = false
 +++
 

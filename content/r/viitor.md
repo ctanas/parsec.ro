@@ -1,7 +1,7 @@
 +++
 title = "Lansatoare orbitale viitoare"
 author = ["Claudiu"]
-draft = false
+draft = true
 +++
 
 ## SLS {#sls}

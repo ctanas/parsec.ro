@@ -2,6 +2,7 @@
 title = "Buletin Cosmic nr. 38"
 author = ["Claudiu"]
 date = 2019-05-22
+tags = ["artemis"]
 draft = false
 +++
 

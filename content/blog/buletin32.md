@@ -2,6 +2,7 @@
 title = "Buletin Cosmic nr. 32"
 author = ["Claudiu"]
 date = 2019-03-20
+tags = ["sls", "deltaivmedium", "apollo"]
 draft = false
 +++
 

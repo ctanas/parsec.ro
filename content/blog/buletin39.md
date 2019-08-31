@@ -2,6 +2,7 @@
 title = "Buletin Cosmic nr. 39"
 author = ["Claudiu"]
 date = 2019-05-29
+tags = ["spacex", "starlink"]
 draft = false
 +++
 

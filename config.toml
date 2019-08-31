@@ -19,15 +19,15 @@ highlightjs = false
 
 [[params.best_posts]]
 title = "Lansări orbitale în 2019"
-url = "/lansari/"
+url = "/r/lansari/"
 
 [[params.best_posts]]
 title = "Programul spațial iranian"
-url = "/iran/"
+url = "/p/iran/"
 
 [[params.best_posts]]
 title = "Naveta secretă X-37B"
-url = "/x37b/"
+url = "/m/x37b/"
 
 [[menu.primary]]
 identifier = "blog"
