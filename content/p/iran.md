@@ -26,7 +26,9 @@ Urmează trei lansări eșuate pentru Iran, neconfirmate oficial, în 23 mai 201
 
 Agenția Spațială din Iran a prezentat în 2010 noul său propulsor, Simorgh, care în 2016 a efectuat primul său suborbital, urmat de un eșec un an mai târziu. Simorgh poate urca un satelit de 60-100 de kilograme până la o altitudine de 500 km. După Simorgh, ISA plănuiește să construiască o rachetă mai puternică, Qoqnoos, despre care însă nu a oferit prea multe detalii.
 
-Pentru 2019 au fost programate trei lansări, însă toate trei s-au soldat cu un eșec. În 15 ianuarie, satelitul Payam este distrus când a doua treaptă a rachetei Simorgh suferă o problemă tehnică, al doilea eșec consecutiv pentru Simorgh. Câteva zile mai târziu, în 7 februarie, o rachetă Safir 1-B nu reușește să urce pe orbită satelitul Dousti, iar în 29 august 2019, sateliții americani[^fn:2],[^fn:3] au fotografiat o rampă de lansare avariată în urma unei explozii recente: se pare că o rachetă Safir era pregătită pentru zbor, având la bord satelitul Nahid-1, dar în timpul alimentării cu combustibil s-a produs o deflagrație care a distrus racheta și a avariat rampa de lansare.
+Pentru 2019 au fost programate trei lansări, însă toate trei s-au soldat cu un eșec. În 15 ianuarie, satelitul Payam este distrus când a doua treaptă a rachetei Simorgh suferă o problemă tehnică, al doilea eșec consecutiv pentru Simorgh. Câteva zile mai târziu, în 7 februarie, o rachetă Safir 1-B nu reușește să urce pe orbită satelitul Dousti, iar în 29 august 2019, sateliții americani[^fn:2],[^fn:3] au fotografiat o rampă de lansare avariată în urma unei explozii recente: se pare că o rachetă Safir era pregătită pentru zbor, având la bord satelitul Nahid-1, dar în timpul alimentării cu combustibil s-a produs o deflagrație care a distrus racheta și a avariat rampa de lansare[^fn:4].
+
+{{< figure src="/img/rampasenmam.jpg" caption="Figure 1: Rampa de lansare a rachetei Safir, avariate în jurul datei de 29 august." >}}
 
 Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lansările au avut loc de la Centrul Spațial Imam Khomeini, aflat în sud-estul provinciei Semnan.
 
@@ -59,3 +61,4 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 [^fn:1]: Omid nu a fost însă primul satelit iranian care a ajuns pe orbită, însă a fost primul care a ajuns în spațiu lansat de o rachetă iraniană. În 2005, Sina-1 a fost lansat de către o rachetă rusească Kosmos-3M de la baza din Plesetsk.
 [^fn:2]: <https://www.npr.org/2019/08/29/755406765/iranian-rocket-launch-ends-in-failure-images-show>
 [^fn:3]: <https://www.reuters.com/article/us-iran-space-launch-failure/iranian-satellite-launch-fails-due-to-technical-issues-official-idUSKCN1VJ2HK>
+[^fn:4]: <https://twitter.com/realDonaldTrump/status/1167493371973255170> (imagine probabil surprinsă de satelitul de spionaj USA-224/NROL-49, a cărui traiectorie trece exact pe deasupra rampei respective, la ora la care a fost surprinsă fotografia).
