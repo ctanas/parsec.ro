@@ -317,6 +317,7 @@ h6 {
 
 table {
     margin-left: 20px;         /* Crudely align the table with the rest of th text */
+	margin-bottom: 25px;
 }
 
  table.center {
