@@ -28,6 +28,34 @@ Agenția Spațială din Iran a prezentat în 2010 noul său propulsor, Simorgh, 
 
 Pentru 2019 au fost programate trei lansări, însă toate trei s-au soldat cu un eșec. În 15 ianuarie, satelitul Payam este distrus când a doua treaptă a rachetei Simorgh suferă o problemă tehnică, al doilea eșec consecutiv pentru Simorgh. Câteva zile mai târziu, în 7 februarie, o rachetă Safir 1-B nu reușește să urce pe orbită satelitul Dousti, iar în 29 august 2019, sateliții americani[^fn:2],[^fn:3] au fotografiat o rampă de lansare avariată în urma unei explozii recente: se pare că o rachetă Safir era pregătită pentru zbor, având la bord satelitul Nahid-1, dar în timpul alimentării cu combustibil s-a produs o deflagrație care a distrus racheta și a avariat rampa de lansare.
 
+Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lansările au avut loc de la Centrul Spațial Imam Khomeini, aflat în sud-estul provinciei Semnan.
+
+| Data       | Lansator    | Încărcătură                | Rezultat | Observații                |
+|------------|-------------|----------------------------|----------|---------------------------|
+| 02.11 2006 | Kavoshgar-1 | fără încărcătură           | Success  | Zbor atmosferic           |
+| 25.02.2007 | Kavoshgar-1 | Kavosh                     | Success  | Zbor atmosferic           |
+| 04.02.2008 | Kavoshgar-1 | fără încărcătură           | Success  | Zbor suborbital           |
+| 16.08.2008 | Safir-1     | DemoSat                    | Success  | Primul satelit iranian    |
+| 26.11.2008 | Kavoshgar-2 | Capsulă fără ocupanți      | Success  | Zbor atmosferic           |
+| 02.02.2009 | Safir-1     | Omid                       | Success  | Primul satelit funcțional |
+| 03.02.2010 | Kavoshgar-3 | Capsulă cu șopârle         | Success  | Zbor atmosferic           |
+| 15.03.2011 | Kavoshgar-4 | Capsulă fără ocupanți      | Success  | Zbor suborbital           |
+| 15.06.2011 | Safir-1A    | Rasad-1                    | Success  | Satelit funcțional        |
+| 15.09.2011 | Kavoshgar-5 | Capsulă cu o primată       | Eșec     | Zbor suborbital           |
+| 03.02.2012 | Safir-1B    | Navid                      | Success  | Satelit funcțional        |
+| 23.05.2012 | Kavoshgar-6 | DemoSat                    | Eșec     | Zbor suborbital           |
+| 28.01.2013 | Kavoshgar-7 | Capsulă Pishgam cu primată | Success  | Zbor suborbital           |
+| 14.12.2013 | Kavoshgar-8 | Capsulă Pishgam cu primată | Success  | Zbor suborbital           |
+| 02.02.2015 | Safir-1B    | Fajr                       | Success  | Satelit funcțional        |
+| 19.04.2016 | Simorgh     | fără încărcătură           | Success  | Zbor suborbital           |
+| 27.07.2017 | Simorgh     | fără încărcătură           | Eșec     | Defecțiunea treptei 2     |
+| 15.01.2019 | Simorgh     | Payam                      | Eșec     | Defecțiunea treptei 3     |
+| 05.02.2019 | Safir       | Doosti                     | Eșec     | Lansare eșuată            |
+| 29.08.2019 | Safir       | Nahid-1                    | Eșec     | Explozie pe rampă         |
+
+
+## Note de subsol {#note-de-subsol}
+
 [^fn:1]: Omid nu a fost însă primul satelit iranian care a ajuns pe orbită, însă a fost primul care a ajuns în spațiu lansat de o rachetă iraniană. În 2005, Sina-1 a fost lansat de către o rachetă rusească Kosmos-3M de la baza din Plesetsk.
 [^fn:2]: <https://www.npr.org/2019/08/29/755406765/iranian-rocket-launch-ends-in-failure-images-show>
 [^fn:3]: <https://www.reuters.com/article/us-iran-space-launch-failure/iranian-satellite-launch-fails-due-to-technical-issues-official-idUSKCN1VJ2HK>
