@@ -69,7 +69,8 @@ draft = false
 | 58 | 19.08 | 1212 | Electron         | BRO-1          | SUA     | Mahia LC-1      | LEO   | Succes        |
 | 59 | 22.08 | 0338 | Soyuz-2.1a       | Soyuz MS-14    | Rusia   | Baikonur 31/6   | ISS   | Succes        |
 | 60 | 22.08 | 1606 | Delta IV Medium  | GPS-III SV02   | SUA     | CC SLC-37B      | MEO   | Succes        |
-| 61 | 30.08 | 1700 | Rokot            | Kosmos-2540    | Rusia   | Plesetsk 133/3  | LEO   | Succes        |
+| 61 | 30.08 | 1700 | Rokot            | Geo-IK-2       | Rusia   | Plesetsk 133/3  | LEO   | Succes        |
+| 62 | 31.08 | 0241 | Kuaizhou-1A      | KX-09          | China   | Jiuquan         | LEO   | Succes        |
 
 
 ### Abrevieri folosite în tabele {#abrevieri-folosite-în-tabele}
