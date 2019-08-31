@@ -72,6 +72,8 @@ draft = false
 | 61 | 30.08 | 1700 | Rokot            | Geo-IK-2       | Rusia   | Plesetsk 133/3  | LEO   | Succes        |
 | 62 | 31.08 | 0241 | Kuaizhou-1A      | KX-09          | China   | Jiuquan         | LEO   | Succes        |
 
+{{< figure src="/img/fh2019.jpg" caption="Figure 1: Lansarea Falcon Heavy din 11 aprilie 2019 cu satelitul de telecomunicații Arabsat-6A (_Foto: SpaceX_)" >}}
+
 
 ### Abrevieri folosite în tabele {#abrevieri-folosite-în-tabele}
 

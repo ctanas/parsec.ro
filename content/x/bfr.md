@@ -1,5 +1,5 @@
 +++
-title = "BFR (Spaceship)"
+title = "BFR"
 author = ["Claudiu"]
 draft = true
 +++
