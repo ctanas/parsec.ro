@@ -334,7 +334,7 @@ tr:nth-child(odd) {
 
 /* Footnotes customization */ 
 
-footnotes {
+.footnotes {
     font-size: 75%;            /* Separating the footnotes from main body by */
     line-height: 1.2rem;       /* smaller fonts and less line space*/
 }
@@ -349,7 +349,7 @@ img {
 /* Making the captions prettier */
 
 figcaption {
-	font-size: 80%;
+	font-size: 100%;
 	font-family: monospace;
 	line-height: 1rem;
 }
