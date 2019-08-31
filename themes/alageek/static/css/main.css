@@ -317,8 +317,12 @@ h6 {
 
 table {
     margin-left: 20px;         /* Crudely align the table with the rest of th text */
-	
 }
+
+ table.center {
+    margin-left:auto; 
+    margin-right:auto;
+  }
 
 tr:nth-child(even) {
     background: #e5f2f2        /* Every other line is colore */
