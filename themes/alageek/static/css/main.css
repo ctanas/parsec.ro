@@ -352,4 +352,5 @@ figcaption {
 	font-size: 100%;
 	font-family: monospace;
 	line-height: 1rem;
+	padding: 5px;
 }
