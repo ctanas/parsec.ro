@@ -25,3 +25,8 @@ Site-ul de față este un proiect în care investesc de peste 10 ani timp, energ
 Dacă doriți și vă place ce găsiți pe parsec.ro, puteți susține acest proiect prin platforma [Patreon](<https://www.patreon.com/superparsec>).
 
 Mulțumesc [Bradbura Productions](<https://www.facebook.com/Brandbura/>) pentru ofertă, răbdare și munca depusă pro-bono pentru noul logo!
+
+
+## Detalii tehnice {#detalii-tehnice}
+
+Site-ul de față este generat din [Emacs](<https://www.gnu.org/software/emacs/>) folosind pachetul [ox-hugo](<https://ox-hugo.scripter.co/>) pentru transformarea [fișierului sursă](<https://github.com/ctanas/parsec-source>) din _org-mode_ în _Markdown_. [Hugo](<https://gohugo.io/>) preia aceste fișiere și generează fișerele statice HTML, îmbrăcate frumos într-o variantă ușor modificată a temei [alageek](<https://github.com/gkmngrgn/hugo-alageek-theme>), fișiere care sunt împinse în GitHub după fiecare modificare. [Netlify](<https://www.netlify.com/>) preia modificările din [GitHub](<https://github.com/ctanas/parsec-alageek>), generează o nouă versiune a paginilor modificate de fiecare dată când e cazul și afișează conținutul pe care îl aveți în fața voastră. Avantajul este că în acest fel sunt folosite exclusiv unelte open-source, iar întreg conținutul site-ul este menținut în format text, ușor de întreținut, modificat și arhivat pe o perioadă nedeterminată de timp.
