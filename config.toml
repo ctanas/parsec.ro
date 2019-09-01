@@ -19,6 +19,10 @@ logofile = "/img/logo.png"
 highlightjs = false
 
 [[params.best_posts]]
+title = "Stația Spațială Internațională"
+url = "/iss/intro/"
+
+[[params.best_posts]]
 title = "Lansări orbitale în 2019"
 url = "/r/lansari/"
 
