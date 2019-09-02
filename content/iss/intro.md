@@ -1,5 +1,5 @@
 +++
-title = "Stația Spațială Internațională"
+title = "Intro"
 author = ["Claudiu"]
 draft = false
 +++

@@ -36,22 +36,22 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 
 | Data       | Lansator    | Încărcătură                | Rezultat | Observații                |
 |------------|-------------|----------------------------|----------|---------------------------|
-| 02.11 2006 | Kavoshgar-1 | fără încărcătură           | Success  | Zbor atmosferic           |
-| 25.02.2007 | Kavoshgar-1 | Kavosh                     | Success  | Zbor atmosferic           |
-| 04.02.2008 | Kavoshgar-1 | fără încărcătură           | Success  | Zbor suborbital           |
-| 16.08.2008 | Safir-1     | DemoSat                    | Success? | Primul satelit iranian    |
-| 26.11.2008 | Kavoshgar-2 | Capsulă fără ocupanți      | Success  | Zbor atmosferic           |
-| 02.02.2009 | Safir-1     | Omid                       | Success  | Primul satelit funcțional |
-| 03.02.2010 | Kavoshgar-3 | Capsulă cu șopârle         | Success  | Zbor atmosferic           |
-| 15.03.2011 | Kavoshgar-4 | Capsulă fără ocupanți      | Success  | Zbor suborbital           |
-| 15.06.2011 | Safir-1A    | Rasad-1                    | Success  | Satelit funcțional        |
+| 02.11 2006 | Kavoshgar-1 | fără încărcătură           | Succes   | Zbor atmosferic           |
+| 25.02.2007 | Kavoshgar-1 | Kavosh                     | Succes   | Zbor atmosferic           |
+| 04.02.2008 | Kavoshgar-1 | fără încărcătură           | Succes   | Zbor suborbital           |
+| 16.08.2008 | Safir-1     | DemoSat                    | Succes?  | Primul satelit iranian    |
+| 26.11.2008 | Kavoshgar-2 | Capsulă fără ocupanți      | Succes   | Zbor atmosferic           |
+| 02.02.2009 | Safir-1     | Omid                       | Succes   | Primul satelit funcțional |
+| 03.02.2010 | Kavoshgar-3 | Capsulă cu șopârle         | Succes   | Zbor atmosferic           |
+| 15.03.2011 | Kavoshgar-4 | Capsulă fără ocupanți      | Succes   | Zbor suborbital           |
+| 15.06.2011 | Safir-1A    | Rasad-1                    | Succes   | Satelit funcțional        |
 | 15.09.2011 | Kavoshgar-5 | Capsulă cu o primată       | Eșec     | Zbor suborbital           |
-| 03.02.2012 | Safir-1B    | Navid                      | Success  | Satelit funcțional        |
+| 03.02.2012 | Safir-1B    | Navid                      | Succes   | Satelit funcțional        |
 | 23.05.2012 | Kavoshgar-6 | DemoSat                    | Eșec     | Zbor suborbital           |
-| 28.01.2013 | Kavoshgar-7 | Capsulă Pishgam cu primată | Success  | Zbor suborbital           |
-| 14.12.2013 | Kavoshgar-8 | Capsulă Pishgam cu primată | Success  | Zbor suborbital           |
-| 02.02.2015 | Safir-1B    | Fajr                       | Success  | Satelit funcțional        |
-| 19.04.2016 | Simorgh     | fără încărcătură           | Success  | Zbor suborbital           |
+| 28.01.2013 | Kavoshgar-7 | Capsulă Pishgam cu primată | Succes   | Zbor suborbital           |
+| 14.12.2013 | Kavoshgar-8 | Capsulă Pishgam cu primată | Succes   | Zbor suborbital           |
+| 02.02.2015 | Safir-1B    | Fajr                       | Succes   | Satelit funcțional        |
+| 19.04.2016 | Simorgh     | fără încărcătură           | Succes   | Zbor suborbital           |
 | 27.07.2017 | Simorgh     | fără încărcătură           | Eșec     | Defecțiunea treptei 2     |
 | 15.01.2019 | Simorgh     | Payam                      | Eșec     | Defecțiunea treptei 3     |
 | 05.02.2019 | Safir       | Doosti                     | Eșec     | Lansare eșuată            |
