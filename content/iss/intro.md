@@ -2,7 +2,7 @@
 title = "Stația Spațială Internațională"
 author = ["Claudiu"]
 draft = false
-images = "/img/iss.jpg"
+images = ["/img/iss.jpg"]
 +++
 
 :: [Module](<https://www.parsec.ro/iss/module>) :: [Expediții](<https://www.parsec.ro/iss/expeditii>)
