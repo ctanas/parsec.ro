@@ -1,6 +1,7 @@
 +++
 title = "Buletin Cosmic nr. 42"
 author = ["Claudiu"]
+date = 2019-09-03
 tags = ["iran", "safir", "aeolus", "starlink", "spacex", "india", "chandrayaan", "x37b"]
 draft = false
 +++
