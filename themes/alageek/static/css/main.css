@@ -359,3 +359,7 @@ figcaption {
 figure-number {
     display: none;
 }
+
+img.center {
+    display:block;
+}
