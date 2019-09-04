@@ -35,9 +35,9 @@ title = "Naveta secretă X-37B"
 url = "/m/x37b/"
 
 [[menu.primary]]
-identifier = "blog"
+identifier = "bul"
 name = "Buletin cosmic"
-url = "/blog/"
+url = "/bul/"
 weight = 10
 
 [[menu.primary]]
