@@ -4,58 +4,24 @@ author = ["Claudiu"]
 draft = true
 +++
 
-## Lunar Reconaissance Orbiter (LRO) {#lunar-reconaissance-orbiter--lro}
-
-
-## Chang'E-3 și Yutu {#chang-e-3-și-yutu}
-
-
-## Chang'E-4 și Yutu-2 {#chang-e-4-și-yutu-2}
-
-
-## Parker {#parker}
-
-
-## BepiColombo {#bepicolombo}
-
-
-## Akatsuki {#akatsuki}
-
-
-## Mars Odyssey {#mars-odyssey}
-
-
-## Mars Express (MEX) {#mars-express--mex}
-
-
-## Mars Reconnaissance Orbiter (MRO) {#mars-reconnaissance-orbiter--mro}
-
-
-## Mars Orbiter Mission (MOM) {#mars-orbiter-mission--mom}
-
-
-## Trace Gas Orbiter (TGO) {#trace-gas-orbiter--tgo}
-
-
-## MAVEN (Mars Atmosphere and Volatile Evolution missioN) {#maven--mars-atmosphere-and-volatile-evolution-mission}
-
-
-## InSight {#insight}
-
-
-## Juno {#juno}
-
-
-## OSIRIS-REx {#osiris-rex}
-
-
-## Hayabusa2 {#hayabusa2}
-
-
-## New Horizon {#new-horizon}
-
-
-## Voyager-1 {#voyager-1}
-
-
-## Voyager-2 {#voyager-2}
+| Nume sondă                  | Lansare | Agenție | Rachetă | Țintă   | Stare                       |
+|-----------------------------|---------|---------|---------|---------|-----------------------------|
+| Lunar Reconaissance Orbiter |         |         |         | Luna    | pe orbita Lunii             |
+| Chang'E-3/Yutu              |         |         |         | Luna    | lander/rover                |
+| Chang'E-4/Yutu-2            |         |         |         | Luna    | lander/rover                |
+| Parker                      |         |         |         | Soare   | pe orbita Soarelui          |
+| BepiColombo                 |         |         |         | Mercur  | în drum spre Mercur         |
+| Akatsuki                    |         |         |         | Venus   | pe orbita lui Venus         |
+| Mars Odyssey                |         |         |         | Marte   | pe orbita lui Marte         |
+| Mars Express                |         |         |         | Marte   | pe orbita lui Marte         |
+| Mars Reconaissance Orbiter  |         |         |         | Marte   | pe orbita lui Marte         |
+| Mangalayaan                 |         |         |         | Marte   | pe orbita lui Marte         |
+| Trace Gas Orbiter           |         |         |         | Marte   | pe orbita lui Marte         |
+| MAVEN                       |         |         |         | Marte   | pe orbita lui Marte         |
+| InSight                     |         |         |         | Marte   | lander                      |
+| Juno                        |         |         |         | Jupiter | pe orbita lui Jupiter       |
+| OSRIS-REx                   |         |         |         | Bennu   | pe orbita asteroidului      |
+| Hayabusa-2                  |         |         |         | Ryugu   | în vecinătarea asteroidului |
+| New Horizon                 |         |         |         | Pluto   | dincolo de Ultima Thule     |
+| Voyager-1                   |         |         |         |         | dincolo de Sistemul Solar   |
+| Voyager-2                   |         |         |         |         | dincolo de Sistemul Solar   |
