@@ -1,4 +1,4 @@
-#+hugo_base_dir: ../
+#+hugo_base_dir: ../parsec-alageek/
 #+author: Claudiu
 
 * Index
@@ -150,7 +150,6 @@ Construcția ISS a însemnat asamblare pe orbită a [modulelor componente](https
 | Soyuz MS-13    | 20.07.2019 | Soyuz-FG   | Zvezda  | 20.07.2019 | 26.08.2019 | DA         |
 | Soyuz MS-13    | 20.07.2019 | Soyuz-FG   | Poisk   | 26.08.2019 | /06.02.2020/ | DA         |
 | Progress MS-12 | 31.07.2019 | Soyuz-2.1a | Pirs    | 31.07.2019 | ??         | NU         |
-| Soyuz MS-14    | 22.08.2019 | Soyuz-2.1a | Zvezda  | 27.08.2019 | /06.09.2019/ | DA         |
 
 *** Câți astronauți sunt de obicei la bordul ISS?
 
@@ -287,12 +286,13 @@ STS-1 12 aprilie 1981 (2098 zile de la ASTP)
 :EXPORT_FILE_NAME: jurnal
 :END:
 
+- 06.08.2019 :: Soyuz MS-14 revine cu bine înapoi pe Pământ;
 - 27.08.2019 :: Soyuz MS-14 andochează la portul /Zvezda;/
-Dragon CRS-18 se desprinde de modulul /Harmony/ și revine cu bine pe Pământ.
-- 26.08.2019 :: Skortsov, Parmitano și Morgan urcă la bordul Soyuz MS-13 și mută capsula de la portul /Zvezda/ la /Poisk/. 
+Dragon CRS-18 se desprinde de modulul /Harmony/ și revine cu bine pe Pământ;
+- 26.08.2019 :: Skortsov, Parmitano și Morgan urcă la bordul Soyuz MS-13 și mută capsula de la portul /Zvezda/ la /Poisk/; 
 - 24.08.2019 :: Soyuz MS-14 nu reușește andocarea la portul /Poisk/ din cauza unui amplificator de semnal de pe ISS;
 - 22.08.2019 :: Soyuz MS-14 este lansată spre ISS, fără echipaj la bord, pentru a testa integrarea cu noua rachetă Soyuz-2.1b, care urmează să fie folosită din 2020 pentru lansarea de astronauți; 
-- 21.08.2019 :: EVA-60 (6 ore, 32 minute): Hague și Morgan au montat adaptorul IDA-3 la modulul /Harmony
+- 21.08.2019 :: EVA-60 (6 ore, 32 minute): Hague și Morgan au montat adaptorul IDA-3 la modulul /Harmony/.
 - 20.07.2019 :: Soyuz MS-13 andochează cu ISS la portul /Zvezda/;
 - 24.06.2019 :: Începe Expediția 60
 
@@ -381,28 +381,30 @@ Este doar începutul unei serii interesante de lansări pentru China în acest a
 :EXPORT_FILE_NAME: india 
 :END:
 
-Pentru India, racheta de cursă lungă este în prezent PSLV, sau Polar Satellite Launch Vehicle (indienii nu au prea multă imaginație când vine vorba de a-și boteza racehtele, din păcate, în ciuda unei mitologii bogate), unul dintre cele patru lansatoare indiene folosite de-a lungul timpului și cea mai de succes rachetă indiană, cu doar două nereușite în 41 de lansări, din 1993 și până în prezent. 
+*** Intro
 
-Însă programul spațial indian a început din 1979, tot cu un eșec, când o defecțiune la a doua treaptă a rachetei Satellite Launch Vehicle a însemnat sfârșitul prematur al zborului (nu este nimic neobișnuit ca primele zboruri ale unei rachete noi să se încheie cu pierderea acesteia). Un an mai târziu, SLV pune pe orbită satelitul Rohini-1 (RS-1) și marchează astfel începutul programului spațial indian. Însă SLV era un vehicul modest, în patru trepte, care putea urca pe orbită joasă o masă de doar 40 de kilograme, mult prea puțin pentru sateliți cu adevărați utili. Așa că India a început dezvoltarea Augmented (sau Advanced) Satellite Launch Vehicle (ASLV). Aceasta a fost practic o rachetă SLV îmbunătățită, cu două boostere suplimenate care aveau rol de primă treaptă (boosterul central era pornit doar după consumarea combustibilului din boosterele adiacente), urcând pe orbită încărcături de trei ori mai grele decât SLV.
+Pentru India, racheta de cursă lungă este în prezent PSLV, sau /Polar Satellite Launch Vehicle/ (indienii nu au prea multă imaginație când vine vorba de a-și boteza racehtele, din păcate, în ciuda unei mitologii bogate), unul dintre cele patru lansatoare indiene folosite de-a lungul timpului și cea mai de succes rachetă indiană, cu doar două nereușite în aproape 50 de lansări, din 1993 și până în prezent. 
 
-Toate lansările au avut (și au în continuare) loc de la centrul spațial Satish Dhawan, cunoscut și sub numele Sriharikota High Altitude Range (SHAR). Primele două tentative de lansare ASLV au fost sortite eșecului: în 1987 și 1988, cele două rachete lansate nu au ajuns să-și ducă la sfârșit misiunea. Un succes parțial are loc cu ocazia celei de-a treia lansări (mai 1992), însă satelitul, plasat pe o orbită diferită decât cea programată inițial, nu poate fi folosit la întreaga capacitate, așa că este planificat o nouă misiune. Din fericire, ultimul zbor al unei rachete ASLV a fost unul norocos și satelitul SROSS-C2 a putut să preia sarcinile predecesorului său, SROSS-C. Se întâmpla în 4 mai 1994. Centrul spațial Satish Dhawan (Sriharikota, Nellore, Andhra Pradesh, India) este dotat cu 2 rampe de lansare operaționale, 1 retrasă din uz (folosită pentru SLV și ASLV) și una aflată în construcție.
-Încă din 1993, India testează un nou propulsor, denumit PSLV (Polar Satelitte Launch Vehicle), care se va dovedi mult mai robust. Din cele 25 de lansări, doar 2 au eșuat (primul eșec fiind chiar primul zbor, din 20 septembrie 1993), ceea ce este remarcabil, dacă privim la istoria primelor zboruri indiene. Ultimul zbor problematic al rachetei PSLV a fost în 29 septembrie 1997. Prima încărcătură comercială lansată de PSLV a fost satelitul AGILE al agenției spațiale italiene, lansat în aprilie 2007 și care a fost folosit pentru observații astronomice în raze gama.
+Însă programul spațial indian a început din 1979, cu un eșec, când o defecțiune la a doua treaptă a rachetei SLV ( /Satellite Launch Vehicle/) a însemnat sfârșitul prematur al zborului (nu este nimic neobișnuit ca primele zboruri ale unei rachete noi să se încheie cu pierderea acesteia). Un an mai târziu, SLV pune pe orbită satelitul Rohini-1 (RS-1) și marchează astfel începutul programului spațial indian. Însă SLV era un vehicul modest, în patru trepte, care putea urca pe orbită joasă o masă de doar 40 de kilograme, mult prea puțin pentru sateliți cu adevărați utili. Așa că India a început dezvoltarea /Augmented/ (sau /Advanced/) /Satellite Launch Vehicle/ (ASLV). Aceasta a fost practic o rachetă SLV îmbunătățită, cu două boostere suplimenate care aveau rol de primă treaptă (boosterul central era pornit doar după consumarea combustibilului din boosterele adiacente), urcând pe orbită încărcături de trei ori mai grele decât SLV.
+
+Toate lansările au avut (și au în continuare) loc de la centrul spațial /Satish Dhawan/, cunoscut și sub numele /Sriharikota High Altitude Range/ (SHAR). Primele două tentative de lansare ASLV au fost sortite eșecului: în 1987 și 1988, cele două rachete lansate nu au ajuns să-și ducă la sfârșit misiunea. Un succes parțial are loc cu ocazia celei de-a treia lansări (mai 1992), însă satelitul, plasat pe o orbită diferită decât cea programată inițial, nu poate fi folosit la întreaga capacitate, așa că este planificat o nouă misiune. Din fericire, ultimul zbor al unei rachete ASLV a fost unul norocos și satelitul SROSS-C2 a putut să preia sarcinile predecesorului său, SROSS-C. Se întâmpla în 4 mai 1994. Centrul spațial /Satish Dhawan/ (Sriharikota, Nellore, Andhra Pradesh, India) este dotat cu 2 rampe de lansare operaționale, 1 retrasă din uz (folosită pentru SLV și ASLV) și una aflată în construcție.
+
+Încă din 1993, India testează un nou propulsor, denumit PSLV (/Polar Satelitte Launch Vehicle/), care se va dovedi mult mai robust. Din cele aproape 50 de lansări, doar 2 au eșuat (primul eșec fiind chiar primul zbor, din 20 septembrie 1993), ceea ce este remarcabil, dacă privim la istoria primelor zboruri indiene. Ultimul zbor problematic al rachetei PSLV a fost în 29 septembrie 1997. Prima încărcătură comercială lansată de PSLV a fost satelitul AGILE al agenției spațiale italiene, lansat în aprilie 2007 și care a fost folosit pentru observații astronomice în raze gama.
 
 *** Lansatoare
-
 **** PSLV
 
 India folosește astăzi trei configurații pentru racheta PSLV: PSLV-G, varianta standard, în patru trepte și 6 propulsoare auxiliare, care poate lansa peste 1.5 tone pe orbită terestră joasă. PSLV-CA (core alone) este practic varianta PSLV-G dar fără cele 6 propulsoare auxiliare și asta înseamnă bineînțeles și o masă redusă, la puțin peste 1.1 tone utile ridicate pe orbită. A treia și cea mai puternică este PSLV-XL, care este dotată cu propulsoare auxiliare mai puternice și care poate să urce 1.8 tone pe orbită.
 
-PSLV este o rachetă interesantă, pentru că cele patru trepte sunt alimentate cu combustibil solid și lichid și sunt dispuse alternativ. Iată cum arată o secvență de lansare pentru o rachetă PSLV: propulsoarele PS1 (sau S-139) cu combustibil solid ale primei trepte pornesc când numărătoarea inversă ajunge la zero. După 0.42 secunde, este aprinsă prima pereche de boostere, urmate de a doua pereche de boostere, la 0.20 de secunde distanță. A treia pereche de boostere este activată abia la 25 de secunde după lansare. Prima pereche își termină combustibilul după 68.9 secunde și se desprind de lansator, urmate la 0.2 secunde de a doua pereche iar a treia pereche le urmează după 23 de secunde. La un minut și 50 secunde, prima treaptă își termină complet combustibilul solid și are loc prima separare la o altitudine de peste 50 de kilometri. Motorul cu combustibil lichid Vikas, atașat celei de-a doua trepte, este activat imediat, pentru a propulsa racheta mai departe. După 4 minute și 23 de secunde de la lansare are loc a doua separare (se desprinde deci a doua treaptă) și pornirea propulsoarelor PS3 (sau S-7) cu combustibil  solid ale celei de-a treia trepte, care ard pentru 70 de secunde. După terminarea combustibilului și separare, ultima treaptă, propulsată de 2 motoare L-2-5 (cu combustibil lichid), este activată doar când racheta ajunge în poziția optimă pentru inserția orbitală. Avem așadar o dispunere alternativă, motoare cu combustibil solid, lichid, solid și iar lichid. Prima treaptă și boosterele sunt alimentate cu HTPB, un compus al butadienei, motorul Vikas cu tetraoxid de azot iar cel de-al patrulea motor cu MMH, un compus al hidrazinei.
+PSLV este o rachetă interesantă, pentru că cele patru trepte sunt alimentate cu combustibil solid și lichid și sunt dispuse alternativ. Iată cum arată o secvență de lansare pentru o rachetă PSLV: propulsoarele PS1 (sau S-139) cu combustibil solid ale primei trepte pornesc când numărătoarea inversă ajunge la zero. După 0.42 secunde, este aprinsă prima pereche de boostere, urmate de a doua pereche de boostere, la 0.20 de secunde distanță. A treia pereche de boostere este activată abia la 25 de secunde după lansare. Prima pereche își termină combustibilul după 68.9 secunde și se desprind de lansator, urmate la 0.2 secunde de a doua pereche iar a treia pereche le urmează după 23 de secunde. La un minut și 50 secunde, prima treaptă își termină complet combustibilul solid și are loc prima separare la o altitudine de peste 50 de kilometri. Motorul cu combustibil lichid Vikas, atașat celei de-a doua trepte, este activat imediat, pentru a propulsa racheta mai departe. După 4 minute și 23 de secunde de la lansare are loc a doua separare (se desprinde deci a doua treaptă) și pornirea propulsoarelor PS3 (sau S-7) cu combustibil solid ale celei de-a treia trepte, care ard pentru 70 de secunde. După terminarea combustibilului și separare, ultima treaptă, propulsată de 2 motoare L-2-5 (cu combustibil lichid), este activată doar când racheta ajunge în poziția optimă pentru inserția orbitală. Avem așadar o dispunere alternativă, motoare cu combustibil solid, lichid, solid și iar lichid. Prima treaptă și boosterele sunt alimentate cu HTPB, un compus al butadienei, motorul Vikas cu tetraoxid de azot iar cel de-al patrulea motor cu MMH, un compus al hidrazinei.
 
-Lansatorul indian are câteva lansări memorabile care merită amintite. În 22 octombrie 2008, o rachetă PSLV-XL lansa sonda Chandrayaan-1, prima sondă indiană care a ajuns pe orbită în jurul Lunii. Aceasta a fost funcțională până în 28 august 2009, mai repede decât anticipau inginerii indieni, însă Chandrayaan-1 a făcut o descoperire extrem de importantă: a confirmat prezența apei pe Lună. Nu vă imaginați că Luna adăpostește rezervoare de apă sau râuri curgătoare, mai degrabă molecule de apă prezente în regolit, praful fin care acoperă întreaga suprafață selenară.
+Lansatorul indian are câteva lansări memorabile care merită amintite. În 22 octombrie 2008, o rachetă PSLV-XL lansa sonda Chandrayaan-1, prima sondă indiană care a ajuns pe orbită în jurul Lunii. Aceasta a fost funcțională până în 28 august 2009, deși inginerii indieni sperau pentru o perioadă mai lungă de activitate, însă Chandrayaan-1 a făcut o descoperire extrem de importantă: a confirmat prezența apei pe Lună. Nu vă imaginați că Luna adăpostește rezervoare de apă sau râuri curgătoare, mai degrabă molecule de apă prezente în regolit, praful fin care acoperă întreaga suprafață selenară.
 
-În 5 noiembrie 2013, o rachetă PSLV-XL lansa prima sondă indiană care avea ca destinație planeta Marte, MOM (Mars Orbiter Mission sau, informal, Mangalyaan, dacă vă place mai mult sanscrita), cu două săptămâni înainte ca NASA să lanseze sonda MAVEN, care avea aceeași destinație. MAVEN, fiind lansată cu ajutorul unei rachete Atlas V (în configurația 401), avea să ajungă pe orbita marțiană în 22 septembrie 2014, în timp ce MOM a ajuns cu două zile mai târziu. Și mai există o diferență semnificativă între cele două sonde: dacă MAVEN a costat peste 670 de milioane de dolari, MOM a costat doar 71 de milioane de dolari, adică cu peste jumătate de miliard de dolari mai puțin. Ca să punem lucrurile într-o altă perspectivă, filmul Gravity din 2013, cu Sandra Bullock și George Clooney, a avut un buget de 100 de milioane de dolari. Sonda lunară Chandrayaan-1 a costat 60 de milioane de dolari. Atât MAVEN cât și MOM se află în acest moment pe orbita planetei Marte, alături de alte patru sonde (două europene și două americane).
+În 5 noiembrie 2013, o rachetă PSLV-XL lansa prima sondă indiană care avea ca destinație planeta Marte, MOM (/Mars Orbiter Mission/ sau, informal, /Mangalyaan/, dacă vă place mai mult sanscrita), cu două săptămâni înainte ca NASA să lanseze sonda MAVEN, care avea aceeași destinație. MAVEN, fiind lansată cu ajutorul unei rachete Atlas V (în configurația 401), avea să ajungă pe orbita marțiană în 22 septembrie 2014, în timp ce MOM a ajuns cu două zile mai târziu. Și mai există o diferență semnificativă între cele două sonde: dacă MAVEN a costat peste 670 de milioane de dolari, MOM a costat doar 71 de milioane de dolari, adică cu peste jumătate de miliard de dolari mai puțin. Ca să punem lucrurile într-o altă perspectivă, filmul Gravity din 2013, cu Sandra Bullock și George Clooney, a avut un buget de 100 de milioane de dolari. Sonda lunară Chandrayaan-1 a costat 60 de milioane de dolari. Atât MAVEN cât și MOM se află în acest moment pe orbita planetei Marte, alături de alte patru sonde (două europene și două americane).
 
-În acest an, în data de 15 februarie, al 37-lea zbor operațional al lansatorului PSLV stabilea un record în materie de număr de sateliți lansați pe orbită simultan: nu mai puțin de 104! Racheta a reușit să urce în spațiu satelitul Cartosat 2D, dar și alți 103 sateliți de mici dimensiuni, dintre care 88 de sateliți fac parte din constelația Dove, parte a proiectului companiei Planet Lab Inc. de a avea acces la imagini în timp real, continue, cu suprafața Pământului. Cei 80 de sateliți s-au alăturat celor 56 deja existenți, completând astfel constelația, care va deveni funcțională în perioadă următoare. Rezoluția oferită este inferioară observatoarelor dedicate, dar acești sateliți pot oferi rapid imagini cu orice punct de pe suprafața planetei aproape imediat. Alți 8 sateliți (de câte 4.6 kilograme fiecare) sunt folosiți pentru validarea modelelor de previziuni meteorologice și aparțin companiei Spire Global. Restul sateliților aparțin diverselor universități sau altor instituții interesate de a avea o platformă cubesat pe orbită. Precedentul record i-a aparținut Rusiei, care în 2014 a reușit să lanseze, folosind o rachetă Dnepr, 37 de sateliți. Recordul NASA este de doar 29 de sateliți lansați simultan, record care datează din 2013.
+În 15 februarie 2017, al 37-lea zbor operațional al lansatorului PSLV stabilea un record în materie de număr de sateliți lansați pe orbită simultan: nu mai puțin de 104! Racheta a reușit să urce în spațiu satelitul Cartosat 2D, dar și alți 103 sateliți de mici dimensiuni, dintre care 88 de sateliți fac parte din constelația Dove, parte a proiectului companiei Planet Lab Inc. de a avea acces la imagini în timp real, continue, cu suprafața Pământului. Cei 80 de sateliți s-au alăturat celor 56 deja existenți, completând astfel constelația, care va deveni funcțională în perioadă următoare. Rezoluția oferită este inferioară observatoarelor dedicate, dar acești sateliți pot oferi rapid imagini cu orice punct de pe suprafața planetei aproape imediat. Alți 8 sateliți (de câte 4.6 kilograme fiecare) sunt folosiți pentru validarea modelelor de previziuni meteorologice și aparțin companiei Spire Global. Restul sateliților aparțin diverselor universități sau altor instituții interesate de a avea o platformă cubesat pe orbită. Precedentul record i-a aparținut Rusiei, care în 2014 a reușit să lanseze, folosind o rachetă Dnepr, 37 de sateliți. Recordul NASA este de doar 29 de sateliți lansați simultan, record care datează din 2013.
 
-Între 2013 și 2016, PSLV-XL a lansat 7 sateliți de geolocație, parte a sistemului regional IRNSS (Indian Regional Navigation Satellite System), un sistem similar cu cel american (GPS), rusesc (GLONASS) sau european (Galileo), dar care spre deosebire de acestea, acoperă doar o suprafață redusă a globului, nefiind un sistem global de poziționare: Oceanul Indian, India, estul Africii, China și vestul Australiei, o zonă suficientă însă pentru nevoile Indiei și pentru ca aceasta să nu depindă de alte sisteme de poziționare prin satelit.
+Între 2013 și 2016, PSLV-XL a lansat 7 sateliți de geolocație, parte a sistemului regional IRNSS (/Indian Regional Navigation Satellite System/ sau, mai recent, redenumit /NAVIC/ -- /NAVigation with Indian Constellation/), un sistem similar cu cel american (GPS), rusesc (GLONASS) sau european (Galileo), dar care spre deosebire de acestea, acoperă doar o suprafață redusă a globului, nefiind un sistem global de poziționare: Oceanul Indian, India, estul Africii, China și vestul Australiei, o zonă suficientă însă pentru nevoile Indiei și pentru ca aceasta să nu depindă de alte sisteme de poziționare prin satelit.
 
 Forma și poziționarea Indiei fac ca orbitele polare să fie preferate în cazul misiunilor de observare, meteorologice sau de cartografiere, motiv pentru care PSLV, după cum îi spune și numele, are ca principale misiuni lansarea sateliților care folosesc acest tip de orbită. O orbită polară înseamnă că traiectoria satelitului face ca acesta să treacă pe deasupra celor doi poli. Un caz special de orbită polară este orbita heliosincronă, utilă atunci când satelitul trebuie să fie deasupra unui punct fix la aceași oră. Orbitele polare, heliosincrone, sunt de obicei la altitudini între 400-800 kilometri. Însă sateliții de telecomunicații trebuie să ajungă pe orbite geostaționare, care să le permită să fie mereu deasupra unui punct fix de pe Pământ și pentru acest lucru ei trebuie să urce până la altitudini de 30000 kilometri.
 
@@ -410,17 +412,46 @@ Forma și poziționarea Indiei fac ca orbitele polare să fie preferate în cazu
 
 **** GSLV
 
-GLSV este o variantă mai puternică a PSLV, care poate transporta încărcături mai grele pe orbită, fiind în special folosită pentru orbite geostaționare, după cum îi spune și numele (Geosynchronous Satellite Launch Vehicle).
-Dezvoltată oarecum în paralel cu PSLV, GSLV renunță la propulsoarele auxiliare cu combustibil solid, în favoarea celor cu combustibil lichid, de dimensiuni mai mari, în timp ce treapta a treia și a patra este înlocuită cu o singură treaptă propulsată de un motor alimentat cu oxigen și hidrogen lichid. Primul zbor, din 2001, nu este nici el unul de care indienii să fie mândrii, satelitul GSAT-1 ajungând pe o orbită mai joasă decât fusese planificat inițial. Al doilea și al treilea zbor GSLV, din 2003 și respectiv 2004, sunt un succes, dar urmează 4 eșecuri consecutive, între 2006 și 2010. Între timp, în 2010, motorul KVD-1M al celei de-a doua trepte, construit în urma unei colabărări dintre Rusia și India, este înlocuit cu un motor produs în intregime de către India. Acestă modificare face ca racheta să fie denumită GSLV Mark II, adică a doua iterație. Din 2014, GSLV Mark II a avut patru lansări fără probleme, câte una în fiecare an, urcând pe orbită geostaționară sateliții indieni GSAT-14, GSAT-16, INSAT-3DR și respectiv GSAT-9, fiecare cu o masă de aproximativ 2 tone, iar alte trei lansări GSLV Mark II sunt programate pentru finalul acestui an. 
+GLSV este o variantă mai puternică a PSLV, care poate transporta încărcături mai grele pe orbită, fiind în special folosită pentru orbite geostaționare, după cum îi spune și numele (/Geosynchronous Satellite Launch Vehicle/).
+
+Dezvoltată oarecum în paralel cu PSLV, GSLV renunță la propulsoarele auxiliare cu combustibil solid, în favoarea celor cu combustibil lichid, de dimensiuni mai mari, în timp ce treapta a treia și a patra este înlocuită cu o singură treaptă propulsată de un motor alimentat cu oxigen și hidrogen lichid. Primul zbor, din 2001, nu este nici el unul de care indienii să fie mândrii, satelitul GSAT-1 ajungând pe o orbită mai joasă decât fusese planificat inițial. Al doilea și al treilea zbor GSLV, din 2003 și respectiv 2004, sunt un succes, dar urmează 4 eșecuri consecutive, între 2006 și 2010. Între timp, în 2010, motorul KVD-1M al celei de-a doua trepte, construit în urma unei colabărări dintre Rusia și India, este înlocuit cu un motor produs în intregime de către India. Acestă modificare face ca racheta să fie denumită GSLV Mark II, adică a doua iterație a rachetei. 
+
+Din 2014, GSLV Mark II a avut șase lansări fără probleme, aproximativ câte una în fiecare an, urcând pe orbită geostaționară sateliții indieni GSAT-14, GSAT-16, INSAT-3DR, GSAT-9, GSAT-6A și GSAT-7A (ultimele două lansări folosind o variantă îmbunătățită a motorului Vikas), fiecare cu o masă de aproximativ 2 tone.
 
 **** GSLV Mark III
-
 Deși numele pare să indice o nouă iterație a rachetei GSLV Mark II, GSLV Mark III este un vehicul nou: două boostere cu combustibil solid (dotate cu motoare S200, alimentate cu HTPB) propulsează racheta în prima fază a zborului. Abia după 114 secunde după lansare pornește și motorul Vikas al rachetei centrale L110, (alimentat cu tetraoxid de azot), o variantă evoluată din motorul european Viking care propulsa rachetele Ariane 1, 2, 3 și 4. Cele două boostere laterale se consumă și se desprind de rachetă la 26 de secunde după ce motorul principal al rachetei centrale a pornit. După mai bine de 3 minute are loc o nouă separare și a treia treaptă, care arde oxigen și hidrogen lichid, este activată pentru mai bine de 10 minute.
 
-GSLV Mark III este mândria Indiei în materie de rachete și până acum a funcționat fără probleme: nu a avut mai mult de două zboruri, dar India a scăpat de blestemul primelor lansări eșuate ale unei rachete noi. Este de departe cel mai puternic lansator de care dispune India, putând lansa peste 3 tone pe orbită geostaționară (cu mult sub posibilitățile Ariane 5, de pildă, care poate lansa sateliți de trei ori mai grei) și până acum a avut două zboruri, amebele încheiate cu succes, deși primul, care a avut loc în 2014, a fost unul suborbital (încărcătura de la bord nu a ajuns să fie plasată pe orbită). Ritmul pe care ISRO speră să-l poată menține este de aproximativ o lansare GSLV Mark III pe an, următoarea fiind planificată pentru ianuarie 2018.
+GSLV Mark III a funcționat până acum fără probleme: nu a avut mai mult de patru zboruri, dar India a scăpat de blestemul primelor lansări eșuate ale unei rachete noi. Este de departe cel mai puternic lansator de care dispune India, putând lansa peste 3 tone pe orbită geostaționară (cu mult sub posibilitățile Ariane 5, de pildă, care poate lansa sateliți de trei ori mai grei) și până acum a avut două zboruri, amebele încheiate cu succes, deși primul, care a avut loc în 2014, a fost unul suborbital (încărcătura de la bord nu a ajuns să fie plasată pe orbită). Ritmul pe care ISRO speră să-l poată menține este de aproximativ o lansare GSLV Mark III pe an.
+
+**** ULV
+În viitor, India plănuiește să înlocuiască actualele rachete cu un lansator modular, denumit /United Launch Vehicle/ (ULV). Acesta ar avea diverse versiuni, în funcție de încărcătură și destinația acesteia, diferențiate prin boosterele auxiliare (S13, S60, S139, S200), în timp ce partea centrală a rachetei va rămâne constantă.
+
+Sunt planificate patru variante pentru ULV:
+- șase boostere S13, va putea lansa 1.5 tone pe GTO și 4.5 tone pe LEO;
+- două boostere S60, va putea lansare 3 tone pe GTO și 10 tone pe LEO;
+- două boostere S138, va putea lansa 4.5 tone pe GTO și 12 tone pe LEO;
+- două boostere S200, va putea lansare 6 tone pe GTO și 15 tone pe LEO.
+
+După ce noua rachetă va deveni operațională, India dorește și o versiune grea a acesteia, denumită HLV, care va fi capabilă să lanseze 10 tone pe GTO
+   
+
+*** Sonde interplanetare
+**** Chandrayaan-1
+
+**** Mangalayaan
+
+**** Chandrayaan-2
 
 *** RLV-TD
-Dincolo de rachete și sonde marțiene și selenare, ISRO lucrează și la un vehicul orbital reutilizabil. Aflat deocamdată în faza de teste, la scară redusă, primul zbor al Reusable Launch Vehicle-Technology Demonstrator (RLV-TD) a avut loc anul trecut, când vehiculul fără echipaj la bord, a fost lansat până la o altitudine de 65 kilometri, folosind un propulsor HS9 (deci nu a ajuns în spațiu, convenția este că spațiul începe după 100 de kilometri). De aici, acesta a revenit spre apele Oceanului Indian, testând revenirea prin atmosferă la o viteză de cinci ori mai mare decât cea a sunetului. Zborul vehicului de 1.5 tone a durat 12 minute și a fost considerat un succes, fiind testate sistemul de ghidare și control, scutul termic și navigarea autonomă. Forma acestuia seamănă cu cea a navetei OTV a forțelor aeriene ale SUA, însă dimensiunile vehiculului indian sunt mai reduse și acesta nici nu a mai fost recuperat în urma zborului.
+Dincolo de rachete și sonde marțiene și selenare, ISRO lucrează și la un vehicul orbital reutilizabil. Aflat deocamdată în faza de teste, la scară redusă, primul zbor al Reusable Launch Vehicle-Technology Demonstrator (RLV-TD) a avut loc în 23 mai 2016, când vehiculul fără echipaj la bord, a fost lansat până la o altitudine de 65 kilometri, folosind un propulsor HS9 (deci nu a ajuns în spațiu, convenția este că spațiul începe după 80 sau 100 de kilometri). De aici, acesta a revenit spre apele Oceanului Indian, testând revenirea prin atmosferă la o viteză de cinci ori mai mare decât cea a sunetului. Zborul vehicului de 1.5 tone a durat 12 minute și a fost considerat un succes, fiind testate sistemul de ghidare și control, scutul termic și navigarea autonomă. Forma acestuia seamănă cu cea a navetei OTV a forțelor aeriene ale SUA, însă dimensiunile vehiculului indian sunt mai reduse și acesta nici nu a mai fost recuperat în urma zborului.
+
+*** Zboruri cu echipaj uman (programul Gaganyaan)
+În august 2018, premierul Indiei anunța că în mai puțin de 4 ani, primii astronauți indienii vor fi lansați pe orbită folosind capsule și rachete (GLSV Mk.III) proprii.
+
+Planul este ca în 2021, o capsulă de 3.7 tone să poată lansa la o altitudine de 400 km un echipaj format din doi sau trei astronauți și care să revină cu bine în Oceanul Indian. Pentru acest lucru, racheta GSLV Mk.III trebuie să fie certificată pentru zbor uman, dar deocamdată lucrurile arată excelent pentru cel mai puternic propulsor indian, care nu a suferit deocamdată nici o lansare eșuată.
+
+Sunt programate două teste, primul în decembrie 2020 și al doilea în iulie 2021, iar dacă acestea vor decurge conform planului, s-a putea ca în decembrie 2021 să vedem primul echipaj indian pe orbită, lansat de o rachetă indiană.
+
 
 ** Programul spațial iranian
 :PROPERTIES:
@@ -756,7 +787,7 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 :END:
 
 *** Ianuarie
-
+    
 *** Februarie
 
 *** Martie
@@ -839,43 +870,27 @@ Următoarea misiune X-37B (probabil vehiculul 2) este planificată pentru a fi l
 :EXPORT_FILE_NAME: sonde 
 :END:
 
-*** Lunar Reconaissance Orbiter (LRO)
-
-*** Chang'E-3 și Yutu
-
-*** Chang'E-4 și Yutu-2
-
-*** Parker
-
-*** BepiColombo
-
-*** Akatsuki
-
-*** Mars Odyssey
-
-*** Mars Express (MEX)
-
-*** Mars Reconnaissance Orbiter (MRO)
-
-*** Mars Orbiter Mission (MOM)
-
-*** Trace Gas Orbiter (TGO)
-
-*** MAVEN (Mars Atmosphere and Volatile Evolution missioN)
-
-*** InSight
-
-*** Juno
-
-*** OSIRIS-REx
-
-*** Hayabusa2
-
-*** New Horizon
-
-*** Voyager-1
-
-*** Voyager-2
+| Nume sondă                  | Lansare | Agenție | Rachetă | Țintă   | Stare                       |
+|-----------------------------+---------+---------+---------+---------+-----------------------------|
+| Lunar Reconaissance Orbiter |         |         |         | Luna    | pe orbita Lunii             |
+| Chang'E-3/Yutu              |         |         |         | Luna    | lander/rover                |
+| Chang'E-4/Yutu-2            |         |         |         | Luna    | lander/rover                |
+| Parker                      |         |         |         | Soare   | pe orbita Soarelui          |
+| BepiColombo                 |         |         |         | Mercur  | în drum spre Mercur         |
+| Akatsuki                    |         |         |         | Venus   | pe orbita lui Venus         |
+| Mars Odyssey                |         |         |         | Marte   | pe orbita lui Marte         |
+| Mars Express                |         |         |         | Marte   | pe orbita lui Marte         |
+| Mars Reconaissance Orbiter  |         |         |         | Marte   | pe orbita lui Marte         |
+| Mangalayaan                 |         |         |         | Marte   | pe orbita lui Marte         |
+| Trace Gas Orbiter           |         |         |         | Marte   | pe orbita lui Marte         |
+| MAVEN                       |         |         |         | Marte   | pe orbita lui Marte         |
+| InSight                     |         |         |         | Marte   | lander                      |
+| Juno                        |         |         |         | Jupiter | pe orbita lui Jupiter       |
+| OSRIS-REx                   |         |         |         | Bennu   | pe orbita asteroidului      |
+| Hayabusa-2                  |         |         |         | Ryugu   | în vecinătarea asteroidului |
+| New Horizon                 |         |         |         | Pluto   | dincolo de Ultima Thule     |
+| Voyager-1                   |         |         |         |         | dincolo de Sistemul Solar   |
+| Voyager-2                   |         |         |         |         | dincolo de Sistemul Solar   |
 
 ** TODO Meteoriți
 :PROPERTIES:
