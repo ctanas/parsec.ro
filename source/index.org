@@ -1,0 +1,1366 @@
+#+hugo_base_dir: ../
+#+author: Claudiu
+
+* Index
+:PROPERTIES:
+:EXPORT_HUGO_SECTION: /
+:EXPORT_FILE_NAME: _index
+:EXPORT_TITLE: știri din spațiu
+:END:
+
+** Site în lucru!
+
+Site-ul este în continuare în lucru, dar măcar acum urmează să adaug conținut, în timp ce forma, structura și workflow-ul sunt de acum fixe (sper). Am reușit să adun aici textul Buletinelor Cosmice din acest an, plus câteva articole de actualitate, aduse la zi, pe care le găsiți mai jos. Da, mai sunt câteva lucruri de finisat și de aranjat, nu prea sunt poze, mai trebuie puțin aranjat CSS-ul, dar în mare cam ăsta este noul parsec.ro.
+
+Mai multe articole și date, cât de curând!
+
+
+* About
+:PROPERTIES:
+:EXPORT_HUGO_SECTION: /
+:EXPORT_FILE_NAME: about
+:EXPORT_TITLE: Despre site
+:END:
+
+Site-ul parsec.ro este un site cu materiale despre explorarea spațiului, fără profit, fără mesaje publicitare, proiect care a început în 2009, după o vizită la Centrul Spațial Johnson al NASA, din Houston. 
+
+De ce parsec.ro? Din dorința de a prezenta știrile și evenimentele din domeniul explorării spațiului cosmic într-un mod cât mai corect, apropiat de realitate și fără note senzaționaliste. Nu veți găsi niciodată ştiri despre cum miroase spațiul cosmic, despre feţele misterioase de pe Marte sau despre baze americane secrete de pe fața nevăzută a Lunii. Site-ul este îngrijit de o singură persoană, în timpul liber, și mă bucur că am reușit de mai bine de 10 ani să mențin viu acest proiect și să adun în jurul lui o comunitate din ce în ce mai numeroasă.
+
+În timp, am evoluat de la un blog cu noutăți din domeniul explorării spațiului la un site care în prezent conține câteva articole în care sunt concentrate informațiile cu privire la activitățile spațiale curente, articole care vor fi aduse la zi pe măsură ce informațiile prezentate vor necesita acest lucru. Pentru un flux mai dens de știri, mă puteți urmări pe [Facebook](https://www.facebook.com/parsec.ro).
+
+*** Colaborări și prezențe media
+
+Sunt Claudiu Tănăselia și mă puteți auzi vorbind despre spațiu și rachete și la *Radio România Actualități* (săptămânal, în cadrul emisiunii [Printre stele](https://mega.nz/#F!tx01XK6T!_4vQ7DczBwS0KqjfAvkUhw) (din 2013) —realizator Alexandru Mironov, în fiecare luni, după ora 21:30), *Radio România Cultural* (în cadrul emisiunii Știința în cuvinte potrivite (între 2018-2019) și [Știința 360](https://radioromaniacultural.ro/stiinta/) (din 2019) —realizator Mihaela Ghiță, vineri, după ora 13:20). Mă puteți citi lunar în revista [Știință&Tehnică](https://stiintasitehnica.com/author/claudiu-tanaselia/) (din 2011) și ocazional în revistele [Research and Education](http://researchandeducation.ro/2019/04/25/sonde-interplanetare.html) sau [Sinteza](https://revistasinteza.ro/urmatorul-salt-urias-pentru-omenire/).
+
+Ocazional am mai apărut și la *Digi24* și *Digiworld* în cadrul emisiunii [Jurnalul de Științe](https://mega.nz/#!wt831ZaA!KNcWQBwl3hfBW9UP8jH_1_B0h9GLU0-g7mRB1unBx4I) (corespondență de la Centrul Spațial Kennedy din Florida), la [Digipedia](https://youtu.be/J0S44WemN7E) —realizator Teodora Safta, la *Columna TV*, în cadrul emisiunii Noi și Cerul —realizator Valentin Grigore sau la *TVR1* în emisiunea [Garantat 100%](https://youtu.be/ryHDIKA_njU) —realizator Cătălin Ștefănescu.
+
+*** Donații
+Site-ul de față este un proiect în care investesc de peste 10 ani timp, energie și resurse financiare, așa că orice donație din partea cititorilor este oricând binevenită și nu va face altceva decât să mă motiveze să scriu mai departe, mai mult și mai bine. 
+
+Dacă doriți și vă place ce găsiți pe parsec.ro, puteți susține acest proiect prin platforma [Patreon](https://www.patreon.com/superparsec).
+
+Mulțumesc [Bradbura Productions](https://www.facebook.com/Brandbura/) pentru ofertă, răbdare și munca depusă pro-bono pentru noul logo!
+
+*** Detalii tehnice
+
+Site-ul de față este generat din [Emacs](https://www.gnu.org/software/emacs/) folosind pachetul [ox-hugo](https://ox-hugo.scripter.co/) pentru transformarea [fișierului sursă](https://github.com/ctanas/parsec-source) din /org-mode/ în /Markdown/. [Hugo](https://gohugo.io/) preia aceste fișiere și generează fișerele statice HTML, îmbrăcate frumos într-o variantă ușor modificată a temei [alageek](https://github.com/gkmngrgn/hugo-alageek-theme), fișiere care sunt împinse în GitHub după fiecare modificare. [Netlify](https://www.netlify.com/) preia modificările din [GitHub](https://github.com/ctanas/parsec-alageek), generează o nouă versiune a paginilor modificate de fiecare dată când e cazul și afișează conținutul pe care îl aveți în fața voastră.
+
+
+* FAQ
+  :PROPERTIES:
+  :EXPORT_HUGO_SECTION: /
+  :EXPORT_FILE_NAME: faq
+  :END:
+
+** Ce reprezintă un parsec?
+
+Parsecul reprezintă o unitate de măsură a lungimii, folosită în astronomie. 1 parsec (pc) = 30.857×1012 km = 206.26×103 UA = 3.26156 ani-lumină. Cum s-a ajuns la această valoare? Dicționarul Enciclopedic 1993-2009 definește astfel parsecul: distanța egală cu depărtarea până la punctul din care raza medie a orbitei Pământului se vede sub unghi de o secundă. Imaginați-vă un triunghi dreptunghic în care cateta mai scurtă este distanța Pământ-Soare (distanță definită ca 1 unitate astronomică, 1 UA) iar unghiul dintre ipotenuză și cateta mai lungă este de 1 grad. Lungimea catetei mai lungi reprezintă exact 1 parsec.
+
+Sunt câteva motive pentru care am ales acest nume pentru site: are legătură cu spațiul, este neutru, este scurt, ușor de ținut minte, este identic cu varianta lui în limba engleză și, cel mai important, domeniul parsec.ro a fost disponibil în momentul în care l-am înregistrat :)
+
+** Este adevărat că aselenizarea nu a avut loc?
+
+Nu, nu este adevărat. Guvernele mint în general, dar aselenizarea a avut loc. Nici un secret nu poate fi păstrat de zeci de mii de oameni, câți au lucrat la programul Apollo. Gândiți-vă că eram în plin război rece și URSS abia ar fi așteptat o astfel de gafă din partea SUA (iar teoria că URSS și SUA au conspirat împreună este și mai neverosimilă). Astronauții au lăsat experimente pe suprafața Lunii, care funcționează și astăzi. Au fost aduse sute de kilograme de probe care au fost analizate în mai multe laboratoare din lume (iar dacă îmi spuneți că toată comunitatea științifică ia parte la această conspirație, din nou, este complet neverosimil). Locurile unde au aselenizat pot fi astăzi studiate de sonde plasate pe orbita Lunii. Japonia, India, China, Rusia au avut sonde pe orbita Lunii și au putut verifica urmele lăsate de misiunile Apollo. Au avut loc nu mai puțin de 6 aselenizări între iulie 1969 și decembrie 1972, de ce ar fi trucat cineva 6 aselenizări? Umbrele sunt în regulă, vă asigur, dacă nu mă credeți, verificați afară, pe Pământ, într-o zi cu soare. În plus, programul Apollo a fost continuarea programelor Mercury și Gemini, conform conspirației nici acestea nu au avut loc? Dar naveta spațială, Stația Spațială Internațională?
+
+*** Dar de ce a fluturat steagul pe Lună?
+
+Pentru că l-au fixat în solul lunar folosind o tijă, mișcările fiind transmise materialului din care era făcut steagul. Țineți cont că acesta mai avea o tijă în partea superioară, perpendiculară pe cea principală, pentru a-l menține într-o poziție corectă. Uitați-vă la imagini până la capăt și veți vedea că imediat ce astronauții iau mâna de pe steag, acesta îngheață într-o poziție și nu se mai mișcă, comportare imposibilă pe Pământ, într-un studio. 
+
+*** Cum au trecut astronauții de centurile Van Allen?
+
+Centurile Van Allen nu sunt niște câmpuri de forță invizibile, așa cum am văzut în Star Trek. Ele sunt compuse din particule beta și protoni, accelerați ce-i drept la viteze mari, dar relativ ușor de ecranat (mult mai ușor de ecranat decât ar fi fost radiațiile X sau gama, dar din fericire acestea nu se găsesc în centurile Van Allen). În plus, astronauții nu au zăbovit prea mult, grăbindu-se să ajungă pe Lună și din alte motive, dar pentru a se feri de orice pericol au ales o traiectorie unde aceste centuri nu erau foarte extinse. 
+
+** Care este diferența dintre un meteorit, asteroid și cometă?
+
+Asteroizii sunt corpuri care au orbitele de obicei plasate între Marte și Jupiter, formând centura de asteroizi a sistemului nostru solar. Sunt milioane de astfel de obiecte, cu dimensiuni de până la 1000 kilometri. Unii din acești asteroizi ajung să intersecteze și orbita Pământului, indicând posibilitatea unui impact cu planeta noastră. Când un astfel de asteroid ajunge în atmosferă, datorită frecării, devine incendescent și astfel vizibil de la depărtare, moment în care spunem că avem de-a face cu un meteor sau bolid, dacă dimensiunile sale sunt sensibil mai mari. Este posibil ca meteorii să ardă complet în atmosferă sau, dacă au mase suficient de mari, fragmente din aceștia să ajună pe suprafața pământului. Un astfel de fragment care a fost recuperat de la suprafața Pământului poartă numele de meteorit. Spre deosebire de asteroizi, care sunt pietroși sau metalici de cele mai multe roi, cometele au un nucleu format în principal din substanțe volatile (apă) și ele provin din străfundurile sistemului solar (norul lui Oort). Apropiindu-se de Soare, suprafața cometei se încălzește și se desprind fragmente care formează coama cometei, uneori vizibilă și cu ochiul liber. Cometele pot da un ocol Soarelui sau pot sfărși prin a fi devorate de acesta. Dacă supraviețuiesc ocolului, este posibil să se întoarcă la intervale regulate, însă orbita lor este mult alungită, comparativ cu orbitele altor corpuri din sistemul solar.
+
+** Care este diferența dintre un cosmonaut și astronaut?
+
+Diferența era ușor de făcut înainte de prăbușirea URSS-ului: cosmonauții erau cei care decolau spre spațiu la bordul capsulelor sovietice, iar astronauții erau americani, de cealaltă parte a Atlanticului. În timp, diferențele dintre cele două denumiri s-au estompat: naveta spațială a început să transporte astronauți din diverse state, iar astăzi capsulele rusești transportă americani pe orbită. Termenul de astronaut s-a încetățenit în prezent, de obicei cosmonaut este folosit doar pentru misiunile de dinainte de 1990, în care diferențele erau clare.
+
+** Cum ajung astronauții în spațiu?
+
+În prezent, într-un singur fel: folosind racheta Soyuz și capsula cu același nume. Din 1981 și până în 2011, SUA foloseau naveta spațială pentru accesul la orbită, însă o dat cu retragerea acesteia din uz, au rămas doar capsulele rusești. China a devenit din 2003 a treia națiune care poate transporta prin forțe proprii un echipaj uman pe orbită, dar o face independent de colaborarea SUA-Rusia și a avut până în prezent (2013) doar patru lansări.
+
+** Câți astronauți sunt, în prezent, în spațiu?
+
+Echipajul standard pe Stația Spațială Internațională este de 6 astronauți. În timpul schimbării acestora, se întâmplă să fie doar 3 (aceasta este capacitatea maximă a unei capsule Soyuz). Așadar, un răspuns cât de cât corect ar fi 6 sau 3. ISS este în permanent ocupată de un echipaj uman din 2000. Când naveta spațială era funcțională, aceasta putea transporta un echipaj de 7 persoane și putea rămâne pe orbită în jur de 10 zile. Uneori, un echipaj chinez se află pe cealaltă stație spațială Tiangong-1, dar pentru perioade scurte de timp și nu mai mult de 3 deodată.
+
+** De ce nu (mai) este Pluto planetă?
+
+Încă de la descoperirea sa din 1930, Pluto a fost o planetă atipică. În primul rând, planul orbitei sale este înclinat cu 17 grade, comparativ cu restul planetelor. Mai mult de atât, orbita lui Pluto o intersectează pe cea a lui Neptun, iar între 1979 și 1999, Pluto a fost mai aproape de Soare decât Neptun. În 1978 a fost descoperit Charon, un satelit al lui Pluto. Spre deosebire de restul planetelor cu sateliți, cuplul Pluto – Charon efectua o mișcare de rotație în jurul centrului de masă al sistemului format de cele două corpuri, aflat la o distanță deloc de neglijat de suprafața lui Pluto. Nici o altă planetă din sistemul solar nu avea un astfel de comportament, centrul de masă al sistemului de corpuri planetă-sateliți aflându-se mult sub suprafața corpului central.
+
+Observații recente au arătat că Pluto nu este decât un obiect din cele peste 70000 de corpuri cerești cu diametrul mai mare de 100 km ce formează așa-numita centură Kuiper, aflată după orbita lui Neptun. Pe măsură ce telescoapele deveneau tot mai puternice, astronomii au început să descopere tot mai multe obiecte în centura Kuiper: Quaoar (în 2002, cu un diametru apropiat de cel al lui Pluto), Haumea, Sedna (în 2003), Orcus (2004), Makemake (2005) și tot în 2005, Eris, un corp mai mare decât Pluto, aflat însă mai departe de Soare decât acesta. În 2007 a fost descoperit un planetoid cu aproximativ 50% mai mare decât Pluto, denumit deocamdată provizoriu OR10. Tot în 2005, telescopul Hubble a pus în evidență încă doi sateliți ai lui Pluto, Nix și Hydra iar în 2011 a fost descoperit al cincilea satelit, botezat Kerberos, Pluto semănând tot mai puțin cu o planetă, el fiind mai degrabă o colecție de obiecte cosmice care se rotesc în jurul centrului de masă comun.
+
+Toate aceste descoperiri i-au făcut pe astronomi să redefinească termenul planetă. Astfel, Uniunea Astronomică Internațională a votat în 2006 cele trei criterii după care un corp ceresc poate fi denumit planetă:
+
+1. Să fie pe orbită în jurul Soarelui. Evident, Pluto îndeplinea acest criteriu.
+2. Să aibă suficientă gravitație încât forma corpului să fie aproximativ sferică.
+3. Să nu împartă orbita în jurul Soarelui cu alte corpuri, altele decât sateliții proprii.
+
+Pluto bifează primele două criterii.
+
+La formarea sistemului solar, planetele au devenit obiectele principale din zona orbitei proprii în jurul Soarelui. În decursul celor 4 miliarde de ani, alte obiecte de pe aceiași orbită cu planetele ori s-au lovit de acestea, formând sateliți sau inele, ori au fost expulzate de pe orbită. Pluto împarte însă orbita sa cu alte 70000 de obiecte relativ similare din centura Kuiper.
+
+*Pluto, împreună cu Quaoar, Haumea, Makemake, Eris, Orcus, Sedna, Ceres și alte corpuri din sistemul solar, majoritatea dincolo de Neptun, au fost reclasificate ca planete pitice, îndeplinind priemele două criterii, dar nu și pe al treilea. Fie trebuia să extindem numărul planetelor pentru a le include și pe acestea (oricât de multe ar fi, nu știm încă exact), fie renunțăm la ideea că Pluto este o planetă și stabilim o definiție clară a planetei*.
+
+Pluto nu a fost însă uitat, sonda New Horizons l-a survolat în 2015, descoperind o suprafață uimitoare și plină de surprize, însă acest lucru nu-l aduce înapoi în rândul planetelor. Cu siguranță că și Sedna sau Makemake au secrete care așteaptă să fie descoperite în viitor, însă un lucru este cert: Pluto nu îndeplinește noile criteriile pentru a fi o planetă, el făcând acum parte din numeroasa familie a obiectelor trans-neptunice.
+
+** Cum pot cumpăra pământ pe Lună?
+
+Nu se poate. Dacă aveți un certificat care atestă că aveți o parcelă de pământ pe Lună atunci cu siguranță ați fost victima unei înșelătorii sau a unei glume. Luna nu aparține nici unui stat și nici unei companii, astfel că nu poate fi vorba despre un comerț de această natură. Puteți, în schimb, achiziționa bucăți din Lună care au ajuns pe Pământ sub formă de meteoriți.
+
+
+* ISS
+:PROPERTIES:
+:EXPORT_HUGO_SECTION: iss
+:END:
+
+** Intro
+:PROPERTIES:
+:EXPORT_FILE_NAME: intro
+:END:
+
+Stația Spațială Internațională (ISS -- /International Space Station/) este unul dintre cele mai de succes proiecte ale umanității, fiind un efort comun al cinci agenții spațiale: NASA (SUA), Roscosmos (Rusia), JAXA (Japonia), ESA (Europa) și Canada (CSA). Asamblarea ei pe orbită a început în 1998, odată cu lansarea primului modul, Zarya, și a fost formal încheiată în 2011 (deși unele module rusești urmează să fie lansate în perioada următoare: Nauka, Prichal, NEM-1 și NEM-2). Costurile construcției și menținerii sale pe orbită se ridică la aproximativ 150 miliarde de dolari.
+
+ISS se află pe orbită terestră joasă (aproximativ 400 km altitudine, înclinație orbitală 51.64°) iar la bordul său se află de obicei 6 astronauți, câte trei dintre ei rotindu-se la fiecare 6 luni. Stația Spațială Internațională este locuită permanent din 2 noiembrie 2000. Astronauții au la dispoziție 930 m^{3} spațiu interior și orbitează Pământul de 15 ori pe zi (înconjoară planeta fiecare 92 de minute).
+
+Construcția ISS a însemnat asamblare pe orbită a [modulelor componente](https://www.parsec.ro/iss/module). Centrul Spațial Jonhson a realizat un scurt [clip video](https://www.youtube.com/watch?v=yRqUPjl3tTQ) în care este prezentat acest proces. Două clipuri video, în care este prezentat câte un tur al ISS, pot ajuta la înțelegerea structurii interne a stației, clipuri realizate de [Sunita Williams](https://www.youtube.com/watch?v=doN4t5NKW-k) (durată 25:04) și [Steve Swanson](https://www.youtube.com/watch?v=QvTmdIhYnes) (ceva mai lung, cu o durată de 50:31).
+
+*** Câți astronauți sunt acum pe orbită?
+
+În prezent sunt 6 astronauți la bordul Stației Spațiale Internaționale, parte a misiunii denumită *Expediția 60*:
+
+| Nume             | Agn  | Sosire      |       Data | Plecare     |       Data |
+|------------------+------+-------------+------------+-------------+------------|
+| Alexei Ovchinin  | RSA  | Soyuz MS-12 | 15.03.2019 | Soyuz MS-12 | /03.10.2019/ |
+| Nick Hague       | NASA | Soyuz MS-12 | 15.03.2019 | Soyuz MS-12 | /03.10.2019/ |
+| Christina Koch   | NASA | Soyuz MS-12 | 15.03.2019 | Soyuz MS-13 | /06.02.2020/ |
+|------------------+------+-------------+------------+-------------+------------|
+| Alexadr Skortsov | RSA  | Soyuz MS-13 | 20.07.2019 | Soyuz MS-13 | /06.02.2020/ |
+| Luca Parmitano   | ESA  | Soyuz MS-13 | 20.07.2019 | Soyuz MS-13 | /06.02.2020/ |
+| Andrew Morgan    | NASA | Soyuz MS-13 | 20.07.2019 | Soyuz MS-15 | /01.04.2020/ |
+|------------------+------+-------------+------------+-------------+------------|
+
+*** Câte vehicule sunt în prezent andocate la ISS?
+
+| Vehicul        |    Lansare | Rachetă    | Port    |     Sosire | Plecare    | Recuperare |
+|----------------+------------+------------+---------+------------+------------+------------|
+| Soyuz MS-12    | 14.03.2019 | Soyuz-FG   | Rassvet | 15.03.2019 | /03.10.2019/ | DA         |
+| Soyuz MS-13    | 20.07.2019 | Soyuz-FG   | Zvezda  | 20.07.2019 | 26.08.2019 | DA         |
+| Soyuz MS-13    | 20.07.2019 | Soyuz-FG   | Poisk   | 26.08.2019 | /06.02.2020/ | DA         |
+| Progress MS-12 | 31.07.2019 | Soyuz-2.1a | Pirs    | 31.07.2019 | ??         | NU         |
+| Soyuz MS-14    | 22.08.2019 | Soyuz-2.1a | Zvezda  | 27.08.2019 | /06.09.2019/ | DA         |
+
+*** Câți astronauți sunt de obicei la bordul ISS?
+
+În prezent un echipaj complet este format din 6 astronauți. De două ori, numărul de astronauți a ajuns la 13, pe vremea când naveta spațială era folosită și la rotația echipajului (STS-127 și STS-131).
+
+*** Poate fi văzută ISS cu ochiul liber?
+
+Da! Datorită panourilor solare de mari dimensiuni, ISS poate fi văzută cu ușurință pe boltă, când trece deasupra noastră. Ea poate fi cel mai strălucitor obiect de pe cer, după Soare și Lună. Există mai multe aplicații pentru orice smartphone care pot indica poziția ISS în timp real, dar și oportunitățile de observare deasupra unei anumite locații. Sau puteți intra pe site-ul [[https://www.heavens-above.com][Heavens Above]], setați locația, după care găsiți mai multe detalii cu privire la minutul și ora la care are loc următoarea trecere (magnitudinea aparentă mai mică înseamnă că ISS se va vedea mai clar pe cer, de exemplu o observație cu magnitudinea aparentă de -3.9 este de preferat unei observații cu magnitudinea aparentă de 1.4).
+
+** Module
+:PROPERTIES:
+:EXPORT_FILE_NAME: module
+:END:
+
+Imaginile de mai jos ale modulelor ISS sunt publicate cu acceptul autorului și modelele originale pot fi găsite la pe site-ul [Behance]( https://www.behance.net/gallery/32371977/International-Space-Station-(ISS)) și [SpacecraftEarth](http://www.spacecraftearth.com/).
+
+*** Zarya (FGB)
+[[/img/zarya.jpg]]
+
+Primul element al ISS este un modul rusesc, destinat inițial pentru fosta stație MIR și construit după șablonul modulelor folosite de către vechea stație spațială sovietică. Lansat în 20 noiembrie 1998 de la Baikonur de către o rachetă Proton-K, a așteptat două luni pe orbită până când a fost cuplat cu modulul american Unity. În primele faze ale construcției stației spațiale, modulul Zarya (sau FGB), era autosuficient, fiind capabil să genereze energie electrică folosind cele două panouri solare atașate, asigura comunicațiile cu solul și era manevrabil, putându-și modifica parametrii orbitali. În prezent, o dată cu extinderea stației, Zarya este folosit pentru depozitarea de materiale și pentru propulsia necesară manevrelor ISS, însă este un modul esențial, fără de care ISS nu poate funcționa. Are două sasuri laterale care permit andocarea navelor Progress și Soyuz și este echipat cu o serie de propulsoare pentru manevre orbitale: 2 principale (folosite de obicei pentru ridicare altitudinii) și 36 de propulsoare de mici dimensiuni, pentru ajustarea orientării. Zarya poate găzdui 5.4 tone de combustibil.
+
+Zarya are trei porturi și este conectată cu Rassvet (MRM-1) la /nadir/, cu Unity la /prora/ (prin modulul de legătură PMA-1)  și cu Zvezda la /pupa/.
+
+*** Unity (Node-1)
+[[/img/unity.jpg]]
+Unity (sau Node-1) este primul din cele trei noduri ale stației și primul element care s-a cuplat cu Zarya în 1998. Unity a fost lansat la bordul navetei spațiale Endeavour (STS-88) în 4 decembrie 1998. Sasul american Quest, poarta prin care astronauții pot ieși în spațiu, se află atașat de Unity. Când naveta spațială ajungea la ISS și nu transporta elemente majore ale stației, purta de obicei în cală un modul presurizat pentru transportul proviziilor spre ISS și al deșeurilor de pe ISS pe Pământ. Naveta se cupla de ISS și cu brațul robotic muta modulul Leonardo din cală, cuplându-l cu modulul Unity pe durata misiunii, pentru ca echipajul să poată avea acces mai ușor la acesta. În 2011, ultima misiune a navetei Discovery (STS-133) a cuplat definitiv modulul Leondardo de nodul Unity, unde este în prezent folosit pentru depozitare.
+
+Unity are 6 porturi și este conectat cu Destiny la /prora/ (începând cu anul 2000, înainte fiind folosit ca port de andocate pentru naveta spațială), cu Zarya la /pupa/ (prin modulul de legătură PMA-1), cu Quest la /tribord/, cu Tranquility la /babord/ și cu grinda Z1 la /zenit/. La /nadir/, Unity primește de obicei vizita capsulei Cygnus (din 2015; între 2011 și 2015 aici a fost găzduit modulul Leondardo).
+
+Quest este un sas din care au loc ieșirile în spațiu în activitățile extravehiculare americane și este prezent la bordul stației din 2001 (adus de naveta spațială Atlantis, STS-104).
+
+*** Zvezda
+[[/img/zvezda.jpg]]
+Lansat în 12 iulie 2000 la bordul unui propulsor Proton-K, Zvezda a fost primul modul rusesc destinat pentru a fi ocupat de echipaj uman, dar nu a fost primul element al ISS lansat, el fiind ulterior conectat de ansamblul format deja din Zarya și Unity. Are o lungime de 13 metri și un diametru de 4.3 metri. Cele 32 de motoare de mică putere îi asigură orientarea în spațiu, iar 2 propulsoare pot asista restul modulelor implicate în manevrele orbitare ale ISS. Zvezda este cuplat direct cu Zarya prin portul de la /prora/, cu Poisk la /zenit/ și cu Pirs la /nadir/. Portul de la /pupa/ este folosit din 2006 pentru andocarea cu nava cargo Progress. 
+
+Pirs a fost conectat cu ISS în august 2001 și permite andocarea cu vehiculele Soyuz și Progress, dar și activități extravehiculare din sectorul rusesc al stației. În următoarea perioadă, Pirs va fi desprins de ISS pentru a face loc modulului Nauka.
+
+Poisk (MRM-2) este similar, ca formă și rol, cu Pirs și a fost cuplat cu ISS în 2009.
+
+*** Destiny (US Lab.)
+[[/img/destiny.jpg]]
+Modul american, după cum îi spune și numele, construit de NASA în colaborare cu Boeing, a fost primul modul destinat aproape în totalitate cercetării. A ajuns în spațiu în 7 februarie 2001, fiind transportat de naveta Atlantis (STS-98) și este plasat între modulele americane Unity și Harmony. Conține spații dedicate în exclusivitatea diverselor experimente științifice care au loc la bordul stației plus o fereastră cu un diametru de 51 cm (plasată la /nadir/), care este aproape în permanență îndreptată spre Pământ. Experimentele din Unity sunt grupate, formând un fel de rafturi, sau platforme pentru experimente din aceiași gamă. Doar în Unity există 25 de asemenea rafturi. Spre exemplu, raftul HRF (Human Resarch Facility) include echipamente științifice pentru diverse experiențe medicale: teste pentru plămâni, instrumente cu ultrasunete pentru studiul inimii, computere sau alte echipamente medicale. MSG (Microgravity Science Glovebox) oferă un mediu contorlat pentru diverse experimente de microgravitație, având filtre și un sistem de ventilație separat de restul stației și un post dotat cu mănuși pentru manipularea obiectelor din incinta cu atmosferă controlată.
+
+Între Unity și Destiny se află o structură metalică compusă din opt grinzi de care sunt montate diverse experimente, pompe care recirculă amoniacul cu rol în răcirea interiorului stației și două brațe robotice: Canadarm 2, o variantă îmbunătățită a brațului robotic aflat în dotarea navetei spațiale și Dextre, un fel de mână robotizată, cu mai multe grade de libertate, care poate efectua astfel operațiuni mai complexe decât Canadarm 2. Controlul acestor brațe se realizează din modulul Destiny.
+
+*** Harmony (Node-2)
+[[/img/harmony.jpg]]
+
+Al doilea nod al stației și ultimul pe axa principală de simetrie este tot un modul american: Harmony (sau Node-2). ISS se termină cu portul PMA-3 al nodului Harmony la /prora/. Harmony face legătura cu trei module: Columbus la /tribord/, Kibo la /babord/ și Destiny la /pupa/ și oferă trei porturi de andocare: PMA-2 (/pupa/), PMA-3 (/zenit/) și un alt port la /nadir/. A fost adus pe orbită de către naveta Discovery (STS-120) în 2007 și modulul permite trecerea spre modulul japonez Kibo și cel european Columbus de pe axa principală a ISS. La capătul modulului se afla în trecut port de andocare PMA-3, folosit de vehiculul european ATV de cel japonez HTV, însă acesta a fost mutat la /zenit/ și în locul lui a fost montat PMA-2. În prezent, peste PMA-3 a fost montat adaptorul IDA-2, care permite andocarea vehiculelor comerciale la viteze mai mici decât o făceau ATV și HTV.
+
+*** Columbus
+[[/img/columbus.jpg]]
+
+Contribuția europeană majoră la Stația Spațială Internațională, modulul Columbus, a ajuns în spațiu în 2008, în cala navetei Atlantis (STS-122). Columbus, la fel ca Destiny, este dedicat cercetării științifice, fiind practic un laborator orbital, cu instalații pentru studii din domeniul științei materialelor, fizicii fluidelor, bio-științe și diverse alte aplicații. Columbus este contectat de restul stației prin modulul Harmony.
+
+*** Kibo (JEM)
+[[/img/kibo.jpg]]
+
+Laboratorul japonez Kibo (sau JEM - /Japanese Experiment Module/) a avut nevoie de trei lansări pentru a fi complet asamblat în dreapta modulului Unity: STS-123 (Endeavour), STS-124 (Discovery) și STS-127 (Endeavour), între martie 2008 și iulie 2009. Acesta nu conține doar un simplu modul, ci două, la care este atașată și o platformă unde se pot plasa experimente care să fie expuse vidului cosmic, cu ajutorul unui braț robotic. Kibo permite și lansarea de sateliți de mici dimensiuni care pot fi pregătiți pentru lansare în interiorul stației.
+
+*** Tranquility (Node-3)
+[[/img/tranquility.jpg]]
+
+Tranquility (sau Node-3), este conectat cu Unity (Node-1) și oferă acces la Cupola, un modul construit de ESA și lansat în 2010 cu naveta Endeavour (STS-130). Având 7 ferestre, Cupola este folosit ca observator, oferind o priveliște nu doar extrem de plăcută ochiului, dar și vitală pentru diverse experimente științifice de la bord sau pentru manevre de mentenanță (printr-o mai bună vizibilitate asupra operațiunilor efectuate cu brațul robotic, andocări sau activități extravehiculare). Tranquility găzduiește și toaleta sectorului american al stației.
+
+La /tribord/, Tranquility este conectat cu Unity, la /prora/ este montat modulul Leonardo, la /pupa/ este în prezent conectat modulul gonflabil Bigelow (din 2016) iar la /nadir/ este montată Cupola.
+
+*** Rassvet (MRM-1)
+[[/img/rassvet.jpg]]
+
+Lansat în 14 mai 2010 cu naveta Atlantis (STS-132), modulul rusesc de mici dimensiuni Rassvet (sau MRM-1, Mini Research Module 1) este atașat de Zarya și oferă Stației Spațiale încă un port de andocare pentru navele vizitatoare rusești (de obicei Soyuz), asta pe lângă un plus de spațiu interior, folosit pentru stocare.
+
+** TODO Echipaj comercial
+:PROPERTIES:
+:EXPORT_FILE_NAME: ccdev 
+:END:
+
+SpaceX DM-1 (fără echipaj) – noiembrie 2018
+DM - Demo Mission
+
+Boeing OFT (fără echipaj) – fin. 2018, înc. 2019
+Orbital Flight Test
+Atlas V modificată pentru a zbura fără con protector
+
+SpaceX DM-2 – aprilie 2019
+
+Bob Behnken 
+STS-123, STS-130, ambele Endeavour, 
+6 EVA = 37 ore
+
+Doug Hurley 
+pilot STS-135, Endeavor STS-127
+
+Boeing CFT, mijloc 2019
+Crew Flight Test
+Eric Boe 
+Endeavour STS-126, Discovery STS-133
+
+Chris Ferguson 
+Atlantis STS-115, Endeavour STS-126, Atlantis STS-135
+
+Nicole Aunapu Mann 
+rookie
+
+SpaceX PCM-1 (2020)
+
+Post Certification Mission
+
+Victor Glover 
+rookie
+
+Mike Hopkins 
+Soyuz TMA-10M
+166 zile ISS
+2 EVA
+
+Boeing PCM-1 (2020)
+John Cassada
+rookie
+Sunita Williams
+322 zile pe în spațiu
+7 EVA
+Discovery STS-116
+Atlantis STS-117
+Soyuz TMA-05M
+
+General
+STS-135 lansare 8 iulie 2011 (2824 zile la 1 aprilie 2019)
+Apollo-Soyuz (ASTP)  15 iulie 1975
+STS-1 12 aprilie 1981 (2098 zile de la ASTP)
+
+** Jurnal
+:PROPERTIES:
+:EXPORT_FILE_NAME: jurnal
+:END:
+
+- 27.08.2019 :: Soyuz MS-14 andochează la portul /Zvezda;/
+Dragon CRS-18 se desprinde de modulul /Harmony/ și revine cu bine pe Pământ.
+- 26.08.2019 :: Skortsov, Parmitano și Morgan urcă la bordul Soyuz MS-13 și mută capsula de la portul /Zvezda/ la /Poisk/. 
+- 24.08.2019 :: Soyuz MS-14 nu reușește andocarea la portul /Poisk/ din cauza unui amplificator de semnal de pe ISS;
+- 22.08.2019 :: Soyuz MS-14 este lansată spre ISS, fără echipaj la bord, pentru a testa integrarea cu noua rachetă Soyuz-2.1b, care urmează să fie folosită din 2020 pentru lansarea de astronauți; 
+- 21.08.2019 :: EVA-60 (6 ore, 32 minute): Hague și Morgan au montat adaptorul IDA-3 la modulul /Harmony
+- 20.07.2019 :: Soyuz MS-13 andochează cu ISS la portul /Zvezda/;
+- 24.06.2019 :: Începe Expediția 60
+
+
+* Artemis 
+:PROPERTIES:
+:EXPORT_HUGO_SECTION: a
+:END:
+
+** TODO Artemis
+:PROPERTIES:
+:EXPORT_FILE_NAME: artemis
+:END:
+
+** TODO Space Launch System (SLS)
+:PROPERTIES:
+:EXPORT_FILE_NAME: sls
+:END:
+
+** TODO Gateway
+:PROPERTIES:
+:EXPORT_FILE_NAME: gateway
+:END:
+
+
+* Programe
+:PROPERTIES:
+:EXPORT_HUGO_SECTION: p
+:END:
+
+** TODO Programul spațial chinezesc
+:PROPERTIES:
+:EXPORT_FILE_NAME: china 
+:END:
+
+Programul spațial chinezesc este desfășurat de Agenția Spațială Chineză (vom folosi abrevierile folosite în presa anglo-saxonă, CNSA[fn^ch1]) prin Corporația Chineză a Științei și Tehnicii Aerospațiale (CASC[fn^ch2]), o entitate de stat care are o serie de alte instituții subordonate, dintre care cea mai importantă este Academia de Tehnologii pentru Lansări de Vehicule Spațiale (CALT[fn^ch3]), responsabilă cu construcția și operarea vehiculelor folosite pentru lansare (rachetele ChangZheng, sau Marșul cel Lung, denumite astfel după un eveniment din istoria Armatei  Roșii a Partidului Comunist din China, care a avut loc între 1934-1935).
+
+Prima iterație a rachetei Changzheng a fost folosită de două ori, între 1970 și 1971. Rachetele Changzheng-2, Changzheng-3 și Changzheng-4 sunt folosite din 1974 și, cu diversele lor variații[fn^ch4], unele sunt prezente și în ziua de azi, deși acestea urmează să fie înlocuite, în mare, cu Changzheng-5, Changzheng-6 și Changzheng-7. Înlocuirea este necesară pentru că vechile rachete foloseau combustibil toxic și erau lansate deasupra zonelor populate, prezentând un pericol tot mai crescut (și vizibil), în timp ce noile rachete folosesc tehnologii moderne, au combustibil mult mai puțin toxic, iar lansările au loc de pe insula Wenchang[fn^ch5] (unde ajung cu o barjă de la uzina din Tianjin, unde sunt asamblate) și astfel treptele folosite cad în Pacific.
+
+*** Rachete
+
+**** Changzheng-5
+***** Eșecul din 2 iulie 2017
+
+Primele probleme au început imediat după separarea celor patru boostere suplimentare cu combustibil lichid, la 5 minute și 47 de secunde după lansare de la ora 14:23, [[https://www.youtube.com/watch?v=LyKXiXTRAuI][când de la baza primei trepte s-au putut observa vapori de culoare albă, neașteptați și plasați oarecum asimetric]] (minutul 10:50 în această înregistrare).
+
+După terminarea combustibilului primei trepte, aceasta trebuia să se desprindă de a doua treaptă, la 465 de secunde după lansare, însă separarea a avut loc la 570 de secunde, cu 105 secunde mai târziu. Întârzierea s-a dovedit a fi fatală pentru soarta satelitului, pentru că deși motoarele celei de-a doua trepte au pornit, satelitul și cea de-a doua treaptă pierdeau altitudine, datorită timpului prea lung în care prima treaptă a rămas cuplată. Motoarele celei de-a doua trepte s-au oprit după trei minute, timp insuficient pentru a corecta traiectoria care ducea satelitul spre Pământ. Oricum, planul inițial era ca a doua treaptă să ardă pentru cel puțin 4 minute, pentru a plasa încărcătura pe orbită intermediară.
+
+Este al doilea eșec la rând pentru programul spațial chinezesc, după ce în precedenta lansare, treapta a doua a unei rachete Changzheng-3B a plasat satelitul Zhongxing-9A pe o orbită incorectă. Changzheng-5 urma să lanseze în noiembrie o misiune spre Lună, Chang’E 5, care cuprinde o sondă ce va ajunge pe suprafața Lunii, dar și un modul care urma să se întoarcă pe Pământ cu 2 kilograme de probe selenare. Acuma lansarea Chang’E 5 este incertă, până la stabilirea cauzelor evenimentului de astăzi. Changzheng-5 urma să aibă un program de aproximativ 2 lansări pe an, fiind o rachetă importantă în lansările necesare pentru viitoarea stație spațială chinezească.
+
+**** Changzheng-5B
+
+**** Changzheng-6
+
+**** Changzheng-7
+
+China se află în plin proces de restructurare a operațiunilor care țin de explorarea spațiului cosmic. Changzheng-6, un lansator de calibru ușor, a fost testat cu succes anul trecut. Astăzi pe rampa de lansare de la noul cosmodrom din Wenchang se află pentru prima dată un vehicul de clasă medie, Changzheng-7, care urmează să devină principalul lansator asiatic.
+
+Aceste noi lansatoare sunt dezvoltate în ultimii ani și folosesc combustibili lichid mult mai ecologic decât versiunile precedente. Kerosenul (RP-1) și oxigen lichid, oferă nu doar condiții mai ecologice, dar sunt și mai performante, fiind combustibilul folosit și de lansatoarele Atlas V și Falcon 9. Changzheng 2, 3 și 4 vor fi în viitor retrase din uz, după ce mai noile Changzheng 5, 6 și 7 își vor dovedi fiabilitatea. De fapt, racheta Changzheng-7 aflată acum pe rampa de lansare va lansa și o variantă redusă a capsulei care va transporta viitori taikonauți în spațiu.
+
+Changzheng-7 este o rachetă în două trepte, derivată din Changzheng 2F, singura folosită în prezent pentru zboruri cu echipaj uman. Este propulsată de 2 motoare YF-100 și un set de 4 boostere suplimentare cu combustibil lichid, fiecare cu câte un motor YF-100, deci un total de 6 motoare YF-100 în configurația standard. A doua treaptă folosește patru motoare YF-115. Pentru comparație, Changzheng-6 folosește un singur motor YF-100 pentru prima treaptă și un alt motor YF-115 pentru a doua treaptă. Racheta are un design modular, care îi permite în viitor să se adapteze mai multo tipuri de misiuni. De asemenea, este posibil ca în viitor se se discute despre refolosirea motoarelor YF-100.
+
+Lungă de 53 de metri, cu un diametru de 3.35 metri și cu o greutate pe rampa de lansare de aproape 600 de tone, Changzheng-7 este capabilă să transporte 13.5 tone pe orbită joasă și 5.5 tone pe orbita de transfer geostaționar. Pentru comparație, Falcon 9 poate urca peste 22 de tone pe orbită joasă și Atlas V aproape 19 tone. În primii ani,Changzheng-7 va fi folosită pentru transportul modulului cargo Tianzhou, venind astfel în sprijinul construcției noii stații spațiale chinezești. Tiangong-2 urmează să înlocuiască deja abandonata Tiangong-1. Însă Tiangon-2 nu este altceva decât un pas intermediar spre Tiangon-3. Prima lansare Tianzhou va fi cel mai probabil efectuată de Changzheng-7 în aprilie 2017. Până atunci va avea loc și lansarea inaugurală a rachetei de calibru greu Changzheng-5 (25 de tone spre orbita terestră joasă, similară cu actuala Delta IV Heavy), în toamna acestui an.
+
+Cosmodromul de la Wenchang a fost construit special pentru lansatoarele Changzheng-5 și Changzheng-7 și a costat 800 de milioane de dolari. Amplasarea rampelor este mai fericită, fiind mai apropiată de Ecuator și înconjurată de ocean, nu de zone populate. Asta înseamnă că lansările vor fi nu doar mai ecologice, dar și mai sigure, iar apropierea insulei Hainan de Ecuator oferă o oarecare economisire a combustibilului și deci performanțe sporite (19 grade, față de 28 de grade unde este plasat Cape Canaveral).
+
+Este doar începutul unei serii interesante de lansări pentru China în acest an. Urmează lansarea noii stații orbitale Tiangong-2, misiunea cu echipaj Shenzhou-11 (China nu a mai trimis în spațiu oameni din 2013) și inaugurarea lansatorului Changzheng-5. Pentru Changzheng-7, nu se cunoaște încă data exactă a lansării, doar un interval, 25-29 iunie.
+
+**** Changzheng-8 (proiect)
+
+**** Changzheng-9 (proiect)
+
+**** Changzheng-11
+
+*** Sectorul privat
+
+*** Note de subsol
+
+[fn^ch1]: CNSA — *China National Space Administration*
+[fn^ch2]: CASC — *China Aerospace Science and Technology Corporation*
+[fn^ch3]: CALT — *China Academy of Launch Vehicle Technology*
+[fn^ch4]: **Changzheng-2** (din 1974) are 6 variante, din care trei (2, 2A, 2E sunt retrase) iar restul de trei (2C, 2D, 2F—singura certificată pentru zboruri cu echipaj, fiind proiectată pentru capsula Shenzhou) sunt încă active; **Changzheng-3** a fost folosită de 13 ori între 1984 și 2000 și din 1994 are și variantele Changzheng-3A (folosită de 27 de ori, fără să înregistreze nici un eșec), Changzheng-3B (din 1996, care ulterior a evoluat în 3B/E, fiind cea mai puternică rachetă din generația veche) și Changzheng-3C (din 2008); **Changzheng-4** are și ea trei variante: Changzheng-4A (folosită de două ori, în 1988 și 1980), Changzheng-4B (activă din 1999) și Changzheng-4C (activă din 2006).
+[^5]: China are 4 centre de lansări orbitale: **Jiuquan** (Mongolia Interioară) —cel mai folosit centru de lansare din China, are trei sectoare, din care doar unul are două rampe active, una pentru Changzheng-2F, iar alta pentru Changzheng-2C, 2D și 4C; **Xichang** (regiunea Sichuan) —are două rampe active, folosite în special pentru lansări de sateliți geostaționari, pentru rachetele Changzheng-2E, 3A, 3B și 3C, respectiv Changzheng-2C, 3, 3A și 3B; **Taiyuan** (regiunea Shanxi) —folosit în special pentru lansări de sateliți heliosincroni, are trei rampe, folosite pentru rachetele Changzheng 1D, 2C, 4A, 4B, 4C, Changzheng 2C, 4B, 4C și respectiv Changzheng-6; **Wenchang** (insula Hainan) —cel mai nou centru de lansări orbitale, construit special pentru noua generație de rachete, Changzheng-5 și Changzheng-7.
+** TODO Programul spațial indian
+:PROPERTIES:
+:EXPORT_FILE_NAME: india 
+:END:
+
+Pentru India, racheta de cursă lungă este în prezent PSLV, sau Polar Satellite Launch Vehicle (indienii nu au prea multă imaginație când vine vorba de a-și boteza racehtele, din păcate, în ciuda unei mitologii bogate), unul dintre cele patru lansatoare indiene folosite de-a lungul timpului și cea mai de succes rachetă indiană, cu doar două nereușite în 41 de lansări, din 1993 și până în prezent. 
+
+Însă programul spațial indian a început din 1979, tot cu un eșec, când o defecțiune la a doua treaptă a rachetei Satellite Launch Vehicle a însemnat sfârșitul prematur al zborului (nu este nimic neobișnuit ca primele zboruri ale unei rachete noi să se încheie cu pierderea acesteia). Un an mai târziu, SLV pune pe orbită satelitul Rohini-1 (RS-1) și marchează astfel începutul programului spațial indian. Însă SLV era un vehicul modest, în patru trepte, care putea urca pe orbită joasă o masă de doar 40 de kilograme, mult prea puțin pentru sateliți cu adevărați utili. Așa că India a început dezvoltarea Augmented (sau Advanced) Satellite Launch Vehicle (ASLV). Aceasta a fost practic o rachetă SLV îmbunătățită, cu două boostere suplimenate care aveau rol de primă treaptă (boosterul central era pornit doar după consumarea combustibilului din boosterele adiacente), urcând pe orbită încărcături de trei ori mai grele decât SLV.
+
+Toate lansările au avut (și au în continuare) loc de la centrul spațial Satish Dhawan, cunoscut și sub numele Sriharikota High Altitude Range (SHAR). Primele două tentative de lansare ASLV au fost sortite eșecului: în 1987 și 1988, cele două rachete lansate nu au ajuns să-și ducă la sfârșit misiunea. Un succes parțial are loc cu ocazia celei de-a treia lansări (mai 1992), însă satelitul, plasat pe o orbită diferită decât cea programată inițial, nu poate fi folosit la întreaga capacitate, așa că este planificat o nouă misiune. Din fericire, ultimul zbor al unei rachete ASLV a fost unul norocos și satelitul SROSS-C2 a putut să preia sarcinile predecesorului său, SROSS-C. Se întâmpla în 4 mai 1994. Centrul spațial Satish Dhawan (Sriharikota, Nellore, Andhra Pradesh, India) este dotat cu 2 rampe de lansare operaționale, 1 retrasă din uz (folosită pentru SLV și ASLV) și una aflată în construcție.
+Încă din 1993, India testează un nou propulsor, denumit PSLV (Polar Satelitte Launch Vehicle), care se va dovedi mult mai robust. Din cele 25 de lansări, doar 2 au eșuat (primul eșec fiind chiar primul zbor, din 20 septembrie 1993), ceea ce este remarcabil, dacă privim la istoria primelor zboruri indiene. Ultimul zbor problematic al rachetei PSLV a fost în 29 septembrie 1997. Prima încărcătură comercială lansată de PSLV a fost satelitul AGILE al agenției spațiale italiene, lansat în aprilie 2007 și care a fost folosit pentru observații astronomice în raze gama.
+
+*** Lansatoare
+
+**** PSLV
+
+India folosește astăzi trei configurații pentru racheta PSLV: PSLV-G, varianta standard, în patru trepte și 6 propulsoare auxiliare, care poate lansa peste 1.5 tone pe orbită terestră joasă. PSLV-CA (core alone) este practic varianta PSLV-G dar fără cele 6 propulsoare auxiliare și asta înseamnă bineînțeles și o masă redusă, la puțin peste 1.1 tone utile ridicate pe orbită. A treia și cea mai puternică este PSLV-XL, care este dotată cu propulsoare auxiliare mai puternice și care poate să urce 1.8 tone pe orbită.
+
+PSLV este o rachetă interesantă, pentru că cele patru trepte sunt alimentate cu combustibil solid și lichid și sunt dispuse alternativ. Iată cum arată o secvență de lansare pentru o rachetă PSLV: propulsoarele PS1 (sau S-139) cu combustibil solid ale primei trepte pornesc când numărătoarea inversă ajunge la zero. După 0.42 secunde, este aprinsă prima pereche de boostere, urmate de a doua pereche de boostere, la 0.20 de secunde distanță. A treia pereche de boostere este activată abia la 25 de secunde după lansare. Prima pereche își termină combustibilul după 68.9 secunde și se desprind de lansator, urmate la 0.2 secunde de a doua pereche iar a treia pereche le urmează după 23 de secunde. La un minut și 50 secunde, prima treaptă își termină complet combustibilul solid și are loc prima separare la o altitudine de peste 50 de kilometri. Motorul cu combustibil lichid Vikas, atașat celei de-a doua trepte, este activat imediat, pentru a propulsa racheta mai departe. După 4 minute și 23 de secunde de la lansare are loc a doua separare (se desprinde deci a doua treaptă) și pornirea propulsoarelor PS3 (sau S-7) cu combustibil  solid ale celei de-a treia trepte, care ard pentru 70 de secunde. După terminarea combustibilului și separare, ultima treaptă, propulsată de 2 motoare L-2-5 (cu combustibil lichid), este activată doar când racheta ajunge în poziția optimă pentru inserția orbitală. Avem așadar o dispunere alternativă, motoare cu combustibil solid, lichid, solid și iar lichid. Prima treaptă și boosterele sunt alimentate cu HTPB, un compus al butadienei, motorul Vikas cu tetraoxid de azot iar cel de-al patrulea motor cu MMH, un compus al hidrazinei.
+
+Lansatorul indian are câteva lansări memorabile care merită amintite. În 22 octombrie 2008, o rachetă PSLV-XL lansa sonda Chandrayaan-1, prima sondă indiană care a ajuns pe orbită în jurul Lunii. Aceasta a fost funcțională până în 28 august 2009, mai repede decât anticipau inginerii indieni, însă Chandrayaan-1 a făcut o descoperire extrem de importantă: a confirmat prezența apei pe Lună. Nu vă imaginați că Luna adăpostește rezervoare de apă sau râuri curgătoare, mai degrabă molecule de apă prezente în regolit, praful fin care acoperă întreaga suprafață selenară.
+
+În 5 noiembrie 2013, o rachetă PSLV-XL lansa prima sondă indiană care avea ca destinație planeta Marte, MOM (Mars Orbiter Mission sau, informal, Mangalyaan, dacă vă place mai mult sanscrita), cu două săptămâni înainte ca NASA să lanseze sonda MAVEN, care avea aceeași destinație. MAVEN, fiind lansată cu ajutorul unei rachete Atlas V (în configurația 401), avea să ajungă pe orbita marțiană în 22 septembrie 2014, în timp ce MOM a ajuns cu două zile mai târziu. Și mai există o diferență semnificativă între cele două sonde: dacă MAVEN a costat peste 670 de milioane de dolari, MOM a costat doar 71 de milioane de dolari, adică cu peste jumătate de miliard de dolari mai puțin. Ca să punem lucrurile într-o altă perspectivă, filmul Gravity din 2013, cu Sandra Bullock și George Clooney, a avut un buget de 100 de milioane de dolari. Sonda lunară Chandrayaan-1 a costat 60 de milioane de dolari. Atât MAVEN cât și MOM se află în acest moment pe orbita planetei Marte, alături de alte patru sonde (două europene și două americane).
+
+În acest an, în data de 15 februarie, al 37-lea zbor operațional al lansatorului PSLV stabilea un record în materie de număr de sateliți lansați pe orbită simultan: nu mai puțin de 104! Racheta a reușit să urce în spațiu satelitul Cartosat 2D, dar și alți 103 sateliți de mici dimensiuni, dintre care 88 de sateliți fac parte din constelația Dove, parte a proiectului companiei Planet Lab Inc. de a avea acces la imagini în timp real, continue, cu suprafața Pământului. Cei 80 de sateliți s-au alăturat celor 56 deja existenți, completând astfel constelația, care va deveni funcțională în perioadă următoare. Rezoluția oferită este inferioară observatoarelor dedicate, dar acești sateliți pot oferi rapid imagini cu orice punct de pe suprafața planetei aproape imediat. Alți 8 sateliți (de câte 4.6 kilograme fiecare) sunt folosiți pentru validarea modelelor de previziuni meteorologice și aparțin companiei Spire Global. Restul sateliților aparțin diverselor universități sau altor instituții interesate de a avea o platformă cubesat pe orbită. Precedentul record i-a aparținut Rusiei, care în 2014 a reușit să lanseze, folosind o rachetă Dnepr, 37 de sateliți. Recordul NASA este de doar 29 de sateliți lansați simultan, record care datează din 2013.
+
+Între 2013 și 2016, PSLV-XL a lansat 7 sateliți de geolocație, parte a sistemului regional IRNSS (Indian Regional Navigation Satellite System), un sistem similar cu cel american (GPS), rusesc (GLONASS) sau european (Galileo), dar care spre deosebire de acestea, acoperă doar o suprafață redusă a globului, nefiind un sistem global de poziționare: Oceanul Indian, India, estul Africii, China și vestul Australiei, o zonă suficientă însă pentru nevoile Indiei și pentru ca aceasta să nu depindă de alte sisteme de poziționare prin satelit.
+
+Forma și poziționarea Indiei fac ca orbitele polare să fie preferate în cazul misiunilor de observare, meteorologice sau de cartografiere, motiv pentru care PSLV, după cum îi spune și numele, are ca principale misiuni lansarea sateliților care folosesc acest tip de orbită. O orbită polară înseamnă că traiectoria satelitului face ca acesta să treacă pe deasupra celor doi poli. Un caz special de orbită polară este orbita heliosincronă, utilă atunci când satelitul trebuie să fie deasupra unui punct fix la aceași oră. Orbitele polare, heliosincrone, sunt de obicei la altitudini între 400-800 kilometri. Însă sateliții de telecomunicații trebuie să ajungă pe orbite geostaționare, care să le permită să fie mereu deasupra unui punct fix de pe Pământ și pentru acest lucru ei trebuie să urce până la altitudini de 30000 kilometri.
+
+În septembrie 2002, o rachetă PSLV a lansat pentru prima dată un satelit pe o orbită geostaționară, dar satelitul avea doar 1 tonă. India avea nevoie de un lansator mai puternic, pentru a putea accesa și orbitele geostaționare.
+
+**** GSLV
+
+GLSV este o variantă mai puternică a PSLV, care poate transporta încărcături mai grele pe orbită, fiind în special folosită pentru orbite geostaționare, după cum îi spune și numele (Geosynchronous Satellite Launch Vehicle).
+Dezvoltată oarecum în paralel cu PSLV, GSLV renunță la propulsoarele auxiliare cu combustibil solid, în favoarea celor cu combustibil lichid, de dimensiuni mai mari, în timp ce treapta a treia și a patra este înlocuită cu o singură treaptă propulsată de un motor alimentat cu oxigen și hidrogen lichid. Primul zbor, din 2001, nu este nici el unul de care indienii să fie mândrii, satelitul GSAT-1 ajungând pe o orbită mai joasă decât fusese planificat inițial. Al doilea și al treilea zbor GSLV, din 2003 și respectiv 2004, sunt un succes, dar urmează 4 eșecuri consecutive, între 2006 și 2010. Între timp, în 2010, motorul KVD-1M al celei de-a doua trepte, construit în urma unei colabărări dintre Rusia și India, este înlocuit cu un motor produs în intregime de către India. Acestă modificare face ca racheta să fie denumită GSLV Mark II, adică a doua iterație. Din 2014, GSLV Mark II a avut patru lansări fără probleme, câte una în fiecare an, urcând pe orbită geostaționară sateliții indieni GSAT-14, GSAT-16, INSAT-3DR și respectiv GSAT-9, fiecare cu o masă de aproximativ 2 tone, iar alte trei lansări GSLV Mark II sunt programate pentru finalul acestui an. 
+
+**** GSLV Mark III
+
+Deși numele pare să indice o nouă iterație a rachetei GSLV Mark II, GSLV Mark III este un vehicul nou: două boostere cu combustibil solid (dotate cu motoare S200, alimentate cu HTPB) propulsează racheta în prima fază a zborului. Abia după 114 secunde după lansare pornește și motorul Vikas al rachetei centrale L110, (alimentat cu tetraoxid de azot), o variantă evoluată din motorul european Viking care propulsa rachetele Ariane 1, 2, 3 și 4. Cele două boostere laterale se consumă și se desprind de rachetă la 26 de secunde după ce motorul principal al rachetei centrale a pornit. După mai bine de 3 minute are loc o nouă separare și a treia treaptă, care arde oxigen și hidrogen lichid, este activată pentru mai bine de 10 minute.
+
+GSLV Mark III este mândria Indiei în materie de rachete și până acum a funcționat fără probleme: nu a avut mai mult de două zboruri, dar India a scăpat de blestemul primelor lansări eșuate ale unei rachete noi. Este de departe cel mai puternic lansator de care dispune India, putând lansa peste 3 tone pe orbită geostaționară (cu mult sub posibilitățile Ariane 5, de pildă, care poate lansa sateliți de trei ori mai grei) și până acum a avut două zboruri, amebele încheiate cu succes, deși primul, care a avut loc în 2014, a fost unul suborbital (încărcătura de la bord nu a ajuns să fie plasată pe orbită). Ritmul pe care ISRO speră să-l poată menține este de aproximativ o lansare GSLV Mark III pe an, următoarea fiind planificată pentru ianuarie 2018.
+
+*** RLV-TD
+Dincolo de rachete și sonde marțiene și selenare, ISRO lucrează și la un vehicul orbital reutilizabil. Aflat deocamdată în faza de teste, la scară redusă, primul zbor al Reusable Launch Vehicle-Technology Demonstrator (RLV-TD) a avut loc anul trecut, când vehiculul fără echipaj la bord, a fost lansat până la o altitudine de 65 kilometri, folosind un propulsor HS9 (deci nu a ajuns în spațiu, convenția este că spațiul începe după 100 de kilometri). De aici, acesta a revenit spre apele Oceanului Indian, testând revenirea prin atmosferă la o viteză de cinci ori mai mare decât cea a sunetului. Zborul vehicului de 1.5 tone a durat 12 minute și a fost considerat un succes, fiind testate sistemul de ghidare și control, scutul termic și navigarea autonomă. Forma acestuia seamănă cu cea a navetei OTV a forțelor aeriene ale SUA, însă dimensiunile vehiculului indian sunt mai reduse și acesta nici nu a mai fost recuperat în urma zborului.
+
+** Programul spațial iranian
+:PROPERTIES:
+:EXPORT_FILE_NAME: iran 
+:END:
+
+În 2009, Iran devine a 9 națiune capabilă să lanseze independent sateliți proprii, din cele 10 națiuni existente în acest moment are au această posibilitate (Coreea de Nord s-a alăturat acestui club select în 2012 prin lansarea în 12 decembrie a satelitului  Kwangmyŏngsŏng-3). O rachetă Safir-1 de producție proprie avea să lanseze în 2 februarie 2009 satelitul Omid, concomitent cu cea de-a 30-a aniversare a Revoluției Iraniene din 1979, după ce, cu câteva luni înainte, Iran reușea primul zbor orbital, dar fără un satelit funcțional la bordul treptei superioare a rachetei Safir-1.
+
+Agenția Spațială Iraniană (ISA) este fondată în 2004. Înainte de Safir, iranienii foloseau un propulsor în două (ulterior trei) trepte cu combustibil lichid, Kavoshgar, pentru zboruri suborbitale, care putea ajunge până la 200 kilometri altitudine, dar nu era suficient de puternic pentru a ajunge pe orbită. Kavoshgar este derivată din racheta balistică Shahab-3, la rândul ei de inspirație nord-coreeană (Nodong-1) și folosit în ultimii ani pentru diverse teste suborbitale. De astfel colaborarea dintre Iran și regimul de la Phenian în acest domeniu este una binecunoscută. Kavoshgar-1 zboară pentru prima dată în 4 februarie 2008, pe o traiectorie suborbitală, urmată de Kavoshgar-2 în noiembrie 2008.
+
+Safir-1 a fost lansată pentru prima dată în 17 august 2008 de la baza "Imam Khomeini" din Semnan, însă se pare că nu avea nici un satelit la bord. Chiar și dacă ar fi avut, acesta ar fi fost distrus de explozia care a avut loc la scurt timp după lansare, deși surse oficiale iraniene spun că zborul suborbital a fost un succes. A fost doar un test, pentru că a doua lansare Safir avea să plaseze primul satelit iranian pe orbită, în 2 februarie 2009. Omid nu era însă un satelit foarte complex: un cub cu latura de 40 centimetri, cântărind doar 27.3 kilograme. La fel ca și Sputnik, acesta conținea doar un transmițător radio, cu care oficialii de la Teheran putea dovedi relativ ușor că satelitul lor a ajuns pe orbită. În 25 aprilie 2009, satelitul Omid[fn:irn1] revine în atmosfera Pământului, după ce își încheie misiunea (bateriile de la bord s-au consumat în jurul date de 20 februarie). A parcurs peste 700 de orbite joase (246 x 377 km), la o înclinație de 55.5 grade.
+
+În 3 februarie 2010, la bordul rachetei Kavoshgar-3 ajung în spațiu, într-un zbor suborbital, un șobolan, două broaște țestoase și câțiva viermi.
+
+După succesul lansării satelitului Omid, Iranul a început să lucreze la dezvoltarea unei noi generații a rachetei Safir (denumită Safir-B), capabilă să urce încărcături de două ori mai grele pe orbită. Pentru acest lucru s-au folosit două boostere cu combustibil solid atașate rachetei principale. În 15 iunie 2011, o rachetă Safir-B1 transportă pe orbită (236 x 299 km) al doilea satelit iranian, Rasad-1, care a avut o masă de 15.3 kilograme. Dotat cu panouri solare pentru generarea electricității, Rasad-1 funcționează timp de 3 săptămâni, timp în care este folosit pentru observarea suprafeței terestre, având la bord o cameră cu o rezoluție de 150 metri/pixel. În 6 iulie 2011, Rasad-1 își încheie misiunea și se dezintegrează în atmosfera Pământului.
+
+Însă racheta Kavoshgar nu este uitată și este folosită de Iran pentru a încerca să lanseze o capsulă cu o maimuță spre orbită. Un test are loc în 11 martie 2011, când o rachetă Kavoshgar-4 lansează o capsulă fără ocupant. Din păcate, lansarea Kavoshgar-5 din septembrie 2011, în care se afla și o maimuță, este un eșec și mamiferul nu supraviețuiește.
+
+Iranienii îmbunătățesc și mai mult racheta Safir (construind variante 1-B) și în 3 februarie 2012 lansează satelitul Navid (Navid-e-Elm va Sana’t), care avea o masă de 50 de kilograme. Navid este folosit timp de 2 luni, pentru monitorizarea dezastrelor naturale și pentru observații meteorologice, până în 1 aprilie 2012. Prima imagine primită de la Navid a fost în 8 februarie 2012, la 5 zile după lansare.
+
+Urmează trei lansări eșuate pentru Iran, neconfirmate oficial, în 23 mai 2012, 1 octombrie 2012 și 20 martie 2014. Primele două tentative erau pentru lansarea noului satelit Fajr iar cea din 2013 trebuia să pună pe orbită satelitul Tadbir, o variantă evoluată a lui Navid. Acesta ar fi ajuns pe orbită dacă treapta superioară nu s-a oprit cu câteva secunde mai devreme, ceea ce e transformat tentative orbitală într-un zbor suborbital.
+
+În cele din urmă, în 2 februarie 2015, Iranul lansează satelitul Fajr (50 kilograme, Safir poate urca în spațiu maximum 60 kilograme), la exact 6 ani după primul succes orbital iranian. Fajr a rămas pe orbită timp de 23 de zile.
+
+În paralel în Iran continuă și programul Kavoshgar și Iranul afirmă că în 2013 a lansat de două ori câte o maimuță în spațiu, în două zboruri suborbitale din 29 ianuarie și 14 decembrie 2013, însă informația nu a putut fi verificată de o sursă externă Iranului. Pentru astfel de zboruri, Iranul folosește capsula Pishgam, care urmează să fie adaptată pentru a putea transporta și persoane în spațiu, în viitorul apropiat (până în 2019 pe orbită și până în 2025 pe Lună, conform declarațiilor oficiale de la Teheran, dar este clar că termenele sunt mult prea optimiste).
+
+Agenția Spațială din Iran a prezentat în 2010 noul său propulsor, Simorgh, care în 2016 a efectuat primul său suborbital, urmat de un eșec un an mai târziu. Simorgh poate urca un satelit de 60-100 de kilograme până la o altitudine de 500 km. După Simorgh, agenția spațială iraniană plănuiește să construiască o rachetă mai puternică, Qoqnoos, despre care însă nu se cunosc prea multe detalii.
+
+Pentru 2019 au fost programate trei lansări, însă toate trei s-au soldat cu un eșec. În 15 ianuarie, satelitul Payam este distrus când a doua treaptă a rachetei Simorgh suferă o problemă tehnică, al doilea eșec consecutiv pentru Simorgh. Câteva zile mai târziu, în 7 februarie, o rachetă Safir 1-B nu reușește să urce pe orbită satelitul Dousti, iar în 29 august 2019, un satelit american de spionaj[fn:irn2],[fn:irn3] a fotografiat o rampă de lansare avariată în urma unei explozii recente: se pare că o rachetă Safir era pregătită pentru zbor cu satelitul Nahid-1, dar în timpul alimentării cu combustibil s-a produs o deflagrație care a distrus racheta și a avariat rampa de lansare[fn:irn4].
+
+Ultimul satelit funcțional al Iranului a fost lansat deci în 2015, iar din 2017 și până în prezent au avut loc nu mai puțin de 4 eșecuri consecutive, câte două pentru fiecare lansator orbital (Safir și Simorgh), o serie de evenimente care va întârzia semnificativ planurile agenției spațiale iraniene pentru următorii ani.
+
+#+CAPTION: Rampa de lansare a rachetei Safir, avariate în jurul datei de 29 august.
+[[/img/rampasenmam.jpg]]
+
+Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lansările au avut loc de la Centrul Spațial "Imam Khomeini", aflat în sud-estul provinciei Semnan.
+
+|       Data | Lansator    | Încărcătură                | Rezultat | Observații                |
+|------------+-------------+----------------------------+----------+---------------------------|
+| 02.11 2006 | Kavoshgar-1 | fără încărcătură           | Succes   | Zbor atmosferic           |
+| 25.02.2007 | Kavoshgar-1 | Kavosh                     | Succes   | Zbor atmosferic           |
+| 04.02.2008 | Kavoshgar-1 | fără încărcătură           | Succes   | Zbor suborbital           |
+| 16.08.2008 | Safir-1     | DemoSat                    | Succes?  | Primul satelit iranian    |
+| 26.11.2008 | Kavoshgar-2 | Capsulă fără ocupanți      | Succes   | Zbor atmosferic           |
+| 02.02.2009 | Safir-1     | Omid                       | Succes   | Primul satelit funcțional |
+| 03.02.2010 | Kavoshgar-3 | Capsulă cu șopârle         | Succes   | Zbor atmosferic           |
+| 15.03.2011 | Kavoshgar-4 | Capsulă fără ocupanți      | Succes   | Zbor suborbital           |
+| 15.06.2011 | Safir-1A    | Rasad-1                    | Succes   | Satelit funcțional        |
+| 15.09.2011 | Kavoshgar-5 | Capsulă cu o primată       | Eșec     | Zbor suborbital           |
+| 03.02.2012 | Safir-1B    | Navid                      | Succes   | Satelit funcțional        |
+| 23.05.2012 | Kavoshgar-6 | DemoSat                    | Eșec     | Zbor suborbital           |
+| 28.01.2013 | Kavoshgar-7 | Capsulă Pishgam cu primată | Succes   | Zbor suborbital           |
+| 14.12.2013 | Kavoshgar-8 | Capsulă Pishgam cu primată | Succes   | Zbor suborbital           |
+| 02.02.2015 | Safir-1B    | Fajr                       | Succes   | Satelit funcțional        |
+| 19.04.2016 | Simorgh     | fără încărcătură           | Succes   | Zbor suborbital           |
+| 27.07.2017 | Simorgh     | fără încărcătură           | Eșec     | Defecțiunea treptei 2     |
+| 15.01.2019 | Simorgh     | Payam                      | Eșec     | Defecțiunea treptei 3     |
+| 05.02.2019 | Safir       | Doosti                     | Eșec     | Lansare eșuată            |
+| 29.08.2019 | Safir       | Nahid-1                    | Eșec     | Explozie pe rampă         |
+
+*** Note de subsol
+
+[fn:irn1] Omid nu a fost însă primul satelit iranian care a ajuns pe orbită, însă a fost primul care a ajuns în spațiu lansat de o rachetă iraniană. În 2005, Sina-1 a fost lansat de către o rachetă rusească Kosmos-3M de la baza din Plesetsk.
+[fn:irn2] https://www.npr.org/2019/08/29/755406765/iranian-rocket-launch-ends-in-failure-images-show
+[fn:irn3] https://www.reuters.com/article/us-iran-space-launch-failure/iranian-satellite-launch-fails-due-to-technical-issues-official-idUSKCN1VJ2HK
+[fn:irn4] https://twitter.com/realDonaldTrump/status/1167493371973255170 (imagine probabil surprinsă de satelitul de spionaj USA-224/NROL-49, a cărui traiectorie trece exact pe deasupra rampei respective, la ora la care a fost surprinsă fotografia).
+
+
+* SpaceX
+:PROPERTIES:
+:EXPORT_HUGO_SECTION: x
+:END:
+** Falcon 9 Block 5
+:PROPERTIES:
+:EXPORT_FILE_NAME: falcon9 
+:END:
+
+**** B1046
+
+1. 2018-05-11 OCISLY *Bangabandhu-1*
+2. 2018-08-07 OCISLY *Merah Putih*
+3. 2018-11-03 JRTI *SSO-A*
+
+**** B1047
+
+1. 2018-07-22 OCISLY *Telstar-19V*
+2. 2018-11-15 OCISLY *Es’hail-2*
+3. 2019-08-06 N/A *AMOS-17*
+
+**** B1048
+
+1. 2018-07-25 JRTI *Iridium-7*
+2. 2018-10-08 LZ4 *SAOCOM-1A*
+3. 2019-02-21 OCISLY *PSN-6*
+4. (2019-0X-XX OCISLY *Dragon-2*)[fn:B1048]
+
+**** B1049
+
+1. 2018-09-10 OCISLY *Telstar 18V*
+2. 2019-01-11 JRTI *Iridium-8*
+3. 2019-05-24 OCISLY *Starlink v0.9*
+
+**** B1050
+
+1. 2018-12-05 (LZ1) *Dragon CRS-16* [fn:B1050]
+
+**** B1051
+
+1. 2019-03-02 OCISLY *Dragon DM-1*
+2. 2019-06-12 LZ-4 *RADARSAT*
+
+**** B1052
+
+1. 2018-04-12 LZ-1 *Arabsat-6A*, FH-lateral
+2. 2019-06-25 LZ-1 *STP-2*, FH-lateral
+
+**** B1053
+
+1. 2018-04-12 LZ-1 *Arabsat-6A*, FH-lateral
+2. 2019-06-25 LZ-1 *STP-2*, FH-lateral
+
+**** B1054
+
+1. 2018-12-23 N/A *GPSIII-SV01* [fn:B1054]
+
+**** B1055
+
+1. 2018-04-12 OCISLY *Arabsat-6A*, FH-centru [fn:B1055]
+
+**** B1056
+
+1. 2019-05-04 OCISLY *Dragon CRS-17*
+2. 2019-07-25 OCISLY *Dragon CRS-18*
+
+**** B1057
+
+1. 2019-06-25 N/A *STP-2*, FH-centru [fn:B1057]
+
+**** B1058
+
+1. 20XX-XX-XX XXX Dragon DM-2[fn:B1058]
+
+**** Abrevieri
+
+- OCISLY :: Barja SpaceX *Of Course I Still Love You* de pe coasta de est, care deservește lansările de la Kennedy Space Center (rampa LC-39A) și Cape Canaveral (SLC-40);
+
+- JRTI :: Barja SpaceX *Just Read the Instructions* de pe coasta de vest, care deservește lansările de la Baza Aeriană Vandenberg (rampa SLC-41);
+
+- LZ-1, LZ-2 :: *Landing Zone 1 și 2* Fostul complex LC13 de la Cape Canaveral, închiriat de SpaceX, care a construit două zone unde boosterele Falcon pot reveni controlat la sol.
+
+- LZ-4 :: Fostul complex SLC-4W de la baza aeriană Vandenberg, închiriat de SpaceX, care a construit o zonă în care boosterul Falcon 9 poate reveni controla la sol.
+
+---
+
+**** Note
+
+[fn:B1048] Va fi folosit pentru sistemul de testare al anulării lansării capsulei Dragon-2 și probabil va fi distrus în urma activării motoarelor SuperDraco în timpul ascensiunii pe orbită.
+[fn:B1050] Programat să aterizeze pe LZ-1, în urma unei defecțiuni a ajuns în apa oceanului Atlantic, de unde a fost recuperat ulterior, avariat dar în mare parte intact, dar probabil nu va mai fi folosit
+[fn:B1054] Prima treaptă nu a fost recuperată, fiind nevoie de toată puterea disponibilă a rachetei.
+[fn:B1055] Recuperat inițial pe barjă, dar pierdut ulterior datorită condițiilor meteo.
+[fn:B1057] Recuperarea pe barja OCISLY nu a reușit.
+[fn:B1058] Este treapta primară care urmează să fie folosită în prima misiune cu echipaj uman a SpaceX; a efectuat primul test static în 29 august 2019.
+** TODO Dragon
+:PROPERTIES:
+:EXPORT_FILE_NAME: dragon 
+:END:
+
+** TODO BFR
+:PROPERTIES:
+:EXPORT_FILE_NAME: bfr
+:END:
+
+
+* Rachete
+:PROPERTIES:
+:EXPORT_HUGO_SECTION: r
+:END:
+
+** Lansări orbitale
+:PROPERTIES:
+:EXPORT_FILE_NAME: lansari
+:END:
+
+*** 2019
+
+| Nr |  Data |  Ora | Lansator         | Satelit        | Țara    | Rampa           | Ținta | Rezultat     |
+|----+-------+------+------------------+----------------+---------+-----------------+-------+--------------|
+|  1 | 10.01 | 1705 | Changzheng-3B/E  | Chinasat-2D    | China   | Xichang LC-2    | GEO   | Succes       |
+|  2 | 11.01 | 1531 | Falcon 9         | Iridium 66-75  | SUA     | VAFB SLC-4E     | LEO   | Succes       |
+|  3 | 15.01 |      | Simorgh          | AUTSAT-1       | Iran    | Semnan LP-2     | LEO   | Eșec         |
+|  4 | 18.01 | 0050 | Epsilon          | RAPIS-1        | Japonia | Uchinoura       | SSO   | Succes       |
+|  5 | 19.01 | 1905 | Delta IV Heavy   | NROL-71        | SUA     | VAFB SLC-6      | LEO   | Succes       |
+|  6 | 21.01 | 0542 | Changzheng-11    | Jilin-1        | China   | Jiuquan SLS-2   | LEO   | Succes       |
+|  7 | 24.01 | 1807 | PSLV-DL          | Microsat-R     | India   | S-Dhawan        | LEO   | Succes       |
+|----+-------+------+------------------+----------------+---------+-----------------+-------+--------------|
+|  8 | 05.02 |      | Safir-1B         | Dousti         | Iran    | Semnan LP-1     | LEO   | Eșec         |
+|  9 | 05.02 | 2101 | Ariane 5 ECA     | HellasSat-4    | Europa  | Kourou ELA-3    | GEO   | Succes       |
+| 10 | 21.02 | 1647 | Soyuz-2.1b       | EgyptSat-A     | Rusia   | Baikonur 31/6   | LEO   | Succes       |
+| 11 | 22.02 | 0145 | Falcon 9         | Nunsatara Satu | SUA     | CC SLC-40       | GEO   | Succes       |
+| 12 | 27.02 | 2137 | Soyuz ST-B       | Oneweb         | Europa  | Kourou ELS      | LEO   | Succes       |
+|----+-------+------+------------------+----------------+---------+-----------------+-------+--------------|
+| 13 | 02.03 | 0749 | Falcon 9         | Dragon2-DM1    | SUA     | KSC LC-39A      | ISS   | Succes       |
+| 14 | 09.03 | 1728 | Changzheng-3B/E  | Chinasat-6C    | China   | Xichang LC-2    | GEO   | Succes       |
+| 15 | 14.03 | 1914 | Soyuz-FG         | Soyuz MS-12    | Rusia   | Baikonur 1/5    | LEO   | Succes       |
+| 16 | 16.03 | 0026 | Delta-IV M+(5,4) | WGS-10         | SUA     | CC SLC-37B      | GEO   | Succes       |
+| 17 | 22.03 | 0150 | Vega             | PRISMA         | Europa  | Kourou ELV      | SSO   | Succes       |
+| 18 | 27.03 | 1039 | OS-M1            | Linque-1B      | China   | Jiquan SLS-2    | LEO   | Eșec[fn:1]   |
+| 19 | 28.03 | 2230 | Electron         | R3D2           | SUA     | Mahia LC-1      | LEO   | Succes       |
+| 20 | 31.03 | 1550 | Changzheng-3B/E  | Tianlian-2-01  | China   | Xichang LC-2    | GEO   | Succes       |
+|----+-------+------+------------------+----------------+---------+-----------------+-------+--------------|
+| 21 | 01.04 | 0357 | PSLV-QL          | EMISAT         | India   | S-Dhawan SLP    | LEO   | Succes       |
+| 22 | 04.04 | 1101 | Soyuz-2.1a       | Progress MS-11 | Rusia   | Baikonur 31/6   | ISS   | Succes       |
+| 23 | 04.04 | 1703 | Soyuz ST-B       | O3b            | Europa  | Kourou ELS      | MEO   | Succes       |
+| 24 | 11.04 | 2235 | Falcon Heavy     | Arabsat-6A     | SUA     | KSC LC-39A      | GEO   | Succes       |
+| 25 | 17.04 | 2046 | Antares 230      | Cygnus NG-11   | SUA     | MARS LP-0A      | ISS   | Succes       |
+| 26 | 20.04 | 1441 | Changzheng-3B/E  | Beidou-3       | China   | Xichang LC-3    | MEO   | Succes       |
+| 27 | 29.04 | 2252 | Changzheng-4B    | Tianhui        | China   | Taiyuan LC-9    | SSO   | Succes       |
+|----+-------+------+------------------+----------------+---------+-----------------+-------+--------------|
+| 28 | 04.05 | 0648 | Falcon 9         | Dragon CRS-17  | SUA     | CC SLC-40       | ISS   | Succes       |
+| 29 | 05.05 | 0600 | Electron         | Harbinger      | SUA     | Mahia LC-1      | LEO   | Succes       |
+| 30 | 17.05 | 1548 | Changzheng-3C    | BeiDou-2 G8    | China   | Xichang LC-2    | MEO   | Succes       |
+| 31 | 22.05 | 0000 | PSLV-CA          | RISAT-2B       | India   | S-Shawan FLP    | SSO   | Succes       |
+| 32 | 22.05 | 2249 | Changzheng-4C    | Yaogan-33      | China   | Taiyuan LC-9    | LEO   | Eșec[fn:2]   |
+| 33 | 24.05 | 0230 | Falcon 9         | Starlink-1     | SUA     | CC SLC-40       | LEO   | Succes       |
+| 34 | 27.05 | 0623 | Soyuz-2.1b       | GLONASS-M 758  | Rusia   | Plesetsk 43/4   | MEO   | Succes       |
+| 35 | 30.05 | 1742 | Proton-M         | Yamal-601      | Rusia   | Baikonur 200/39 | GEO   | Succes       |
+|----+-------+------+------------------+----------------+---------+-----------------+-------+--------------|
+| 36 | 05.06 | 0406 | Changzheng-11H   | Bufeng-1       | China   | Marea Galbenă   | LEO   | Succes       |
+| 37 | 12.06 | 1417 | Falcon 9         | RADARSAT       | SUA     | VAFB SLC-4E     | SSO   | Succes       |
+| 38 | 20.06 | 2141 | Ariane 5 ECA     | Eutelsat-7C    | Europa  | Kourou ELA-3    | GEO   | Succes       |
+| 39 | 24.06 | 1750 | Changzheng-3B/E  | BeiDou-3       | China   | Xichang LC-3    | MEO   | Succes       |
+| 40 | 25.06 | 0630 | Falcon Heavy     | STP-2          | SUA     | KSC LC-39A      | LEO   | Succes       |
+| 41 | 29.06 | 0430 | Electron         | BS-Global-3    | SUA     | Mahia LC-1      | LEO   | Succes       |
+|----+-------+------+------------------+----------------+---------+-----------------+-------+--------------|
+| 41 | 05.07 | 0541 | Soyuz-2.1b       | Meteor-M2-2    | Rusia   | Vostochny 1S    | SSO   | Succes       |
+| 42 | 10.07 | 1714 | Soyuz-2-1v       | Nivelir-L      | Rusia   | Plesetsk 43/4   | LEO   | Succes       |
+| 43 | 11.07 | 0153 | Vega             | FalconEye-1    | Europa  | Kourou ELV      | LEO   | Eșec[fn:3]   |
+| 44 | 13.07 | 1230 | Proton-M         | Spektr-RG      | Rusia   | Baikonur 81/24  | LL2   | Succes       |
+| 45 | 20.07 | 1628 | Soyuz-FG         | Soyuz MS-13    | Rusia   | Baikonur 1/5    | ISS   | Succes       |
+| 46 | 22.07 | 0913 | GSLV Mk.III      | Chandrayaan-2  | India   | S-Dhawan SLP    | SNC   | Succes       |
+| 47 | 25.07 | 0500 | Hyperbola-1      | CAS-7B         | China   | Jiuquan         | LEO   | Succes[fn:4] |
+| 48 | 25.07 | 2201 | Falcon 9         | Dragon CRS-18  | SUA     | CC SLC-40       | ISS   | Succes       |
+| 49 | 26.07 | 0357 | Changzheng-2C    | Yaogan-30      | China   | Xichang LC-3    | LEO   | Succes       |
+| 50 | 30.07 | 0556 | Soyuz-2.1a       | Meridian-8     | Rusia   | Plesetsk 43/4   | MOL   | Succes       |
+| 51 | 31.07 | 1210 | Soyuz-2.1a       | Progress MS-12 | Rusia   | Baikonur 31/6   | ISS   | Succes       |
+|----+-------+------+------------------+----------------+---------+-----------------+-------+--------------|
+| 52 | 05.08 | 2156 | Proton-M         | Blagovest-14L  | Rusia   | Baikonur 81/24  | GEO   | Succes       |
+| 53 | 06.08 | 1930 | Ariane 5 ECA     | EDRS-C         | Europa  | Kourou ELA-3    | GEO   | Succes       |
+| 54 | 06.08 | 2323 | Falcon 9         | Amos-17        | SUA     | CC SLC-40       | GEO   | Succes       |
+| 55 | 08.08 | 1013 | Atlas V 551      | AEHF-5         | SUA     | CC SLC-41       | GEO   | Succes       |
+| 56 | 17.08 | 0411 | Jielong-1        | QianSheng-1    | China   | Jiuquan         | SSO   | Succes       |
+| 57 | 19.08 | 1203 | Changzheng-3B/G2 | Chinasat-18    | China   | Xichang         | GEO   | Succes[fn:5] |
+| 58 | 19.08 | 1212 | Electron         | BRO-1          | SUA     | Mahia LC-1      | LEO   | Succes       |
+| 59 | 22.08 | 0338 | Soyuz-2.1a       | Soyuz MS-14    | Rusia   | Baikonur 31/6   | ISS   | Succes       |
+| 60 | 22.08 | 1606 | Delta IV Medium  | GPS-III SV02   | SUA     | CC SLC-37B      | MEO   | Succes       |
+| 61 | 30.08 | 1700 | Rokot            | Geo-IK-2       | Rusia   | Plesetsk 133/3  | LEO   | Succes       |
+| 62 | 31.08 | 0241 | Kuaizhou-1A      | KX-09          | China   | Jiuquan         | LEO   | Succes       |
+
+#+CAPTION: Lansarea Falcon Heavy din 11 aprilie 2019 cu satelitul de telecomunicații Arabsat-6A (/Foto: SpaceX/)
+[[/img/fh2019.jpg]]
+
+**** Abrevieri folosite în tabele
+
+- LEO ::  orbită terestră joasă (/Low Earth Orbit)/;
+- ISS ::  lansare spre Stația Spațială Internațională (/International Space Station/), care se află pe LEO;
+- SSO :: orbită heliosincronă (/Sun-Synchronous Orbit/), un caz special de LEO;
+- MEO :: orbită terestră medie (/Medium Earth Orbit/);
+- GEO :: orbită geosincronă (/GEOsynchronous orbit/);
+- LL2 :: punctul Lagrange L2 Pământ-Lună;
+- SNC :: orbită selenocentrică (lunară);
+- MOL :: orbită Molniya.
+
+**** Note de subsol
+
+[fn:1] Tentativa unei companii chinezești private de a pune pe orbită un satelit s-a încheiat cu un eșec după ce controlul rachetei a fost pierdut imediat după seprarea primei trepte.
+
+[fn:2] Probleme cu a treia treaptă a rachetei Changzheng.
+
+[fn:3] Prima lansare eșuată pentru racheta Vega, datorită unor probleme cu treapta secundară.
+
+[fn:4] Prima lansare orbitală reușită a unei companii private din China.
+
+[fn:5] Racheta a urcat satelitul pe orbita corectă, dar ulterior acesta a suferit probleme tehnice.
+
+** TODO Lansatoare orbitale viitoare
+:PROPERTIES:
+:EXPORT_FILE_NAME: viitor 
+:END:
+
+*** SLS
+
+*** Starship
+
+*** Vulcan
+
+*** Ariane-6
+
+*** Vega-C
+
+*** New Glenn
+
+*** OmegA
+
+*** Changzheng-9
+** TODO Lansatoare orbitale active
+:PROPERTIES:
+:EXPORT_FILE_NAME: rachete 
+:END:
+
+*** SUA
+
+*** Rusia
+
+*** China
+
+*** Europa
+
+*** Japonia
+
+*** India
+
+*** Iran
+
+
+* Materiale diverse
+:PROPERTIES:
+:EXPORT_HUGO_SECTION: m
+:END:
+
+** TODO Calendar Cosmic
+:PROPERTIES:
+:EXPORT_FILE_NAME: calendar 
+:END:
+
+*** Ianuarie
+
+*** Februarie
+
+*** Martie
+
+*** Aprilie
+
+*** Mai
+
+*** Iunie
+
+*** Iulie
+
+*** August
+
+*** Septembrie
+
+*** Noiembrie
+
+*** Decembrie
+** X-37B
+:PROPERTIES:
+:EXPORT_FILE_NAME: x37b 
+:END:
+
+X-37B este o navetă spațială dezvoltată de compania Boeing[fn:x37bb] pentru Forțele Aeriene ale Statelor Unite ale Americii (USAF). X-37B a evoluat din vehiculul X-37A al NASA, proiect care a început în 1999 și care a avut câteva zboruri atmosferice în 2006, dar care nu a zburat niciodată în spațiu. 
+
+Lungă de 8.9 metri, înaltă de 2.9 metri și cu o avengură a aripilor de 4.5 metri, X-37B ar putea încăpea în cala fostelor navete spațiale ale NASA (lucru care a fost planificat inițial, dar după accidentul navetei Columbia s-a optat pentru folosirea unor rachete clasice). De fapt, avengura aripilor nu este aleasă întâmplător, ea are această valoare pentru a putea încăpea în conul protector al rachetelor de astăzi, care au maximum 5 metri diametru. X-37B are o masă de aproximativ 5 tone și poate zbura pe orbită terestră joasă, la altitudini între 240 și 800 km altitudine. Pentru propulsie, X-37B folosește un motor cu combustibil hipergolic (tetraoxid de azot și hidrazină). 
+
+Boeing a construit până în prezent două astfel de vehicule și se crede că acestea zboară alternativ în misiuni, însă obiectivele misiunilor și detaliile parametrilor orbitali sunt de cele mai multe ori secrete, dar acest lucru nu-i împiedică pe astronomi să identifice X-37B pe orbită.
+
+#+CAPTION: Naveta spațială autonomă X-37B în 30 martie 2010, înainte de primul său zbor (/Foto: USAF/Boeing/) 
+[[/img/x37blanded.jpg]]
+
+*** OTV-1 (USA-212)
+
+Prima navetă X-37B (vehiculul 1) a fost lansată în spațiu în 23 aprilie 2010, ora 01:52, de o rachetă Atlas V 501 și a aterizat, 224 zile mai târziu, în 3 decembrie 2010, pe pista 12 de la baza aeriană Vandenberg, din California. Naveta a fost ulterior identificată de astronomii amatori pe o orbită 401x422 km, 40 grade înclinație, dar parametri orbitali s-au modificat de câteva ori în timpul misiunii. A fost primul vehicul care a aterizat autonom pe o pistă de aterizare după o misiune orbitală, după naveta spațială sovietică Buran (care a zburat pentru prima și singura dată în spațiu în 15 noiembrie 1998). Au fost observat cel puțin 5 modificări ale parametrilor orbitali cât timp naveta a fost în spațiu.
+
+*** OTV-2 (USA-226)
+
+A doua navetă X-37B (vehiculul 2) a fost lansată în spațiu în 6 martie 2011, ora 00:46, de o rachetă Atlas V 501 și a aterizat după 468 zile petrecute pe orbită, în 16 iunie 2012, pe pista 12 de la baza aeriană Vandenberg, din California. Au fost observate cel puțin trei schimbări ale orbitei, însă aceasta a oscilat mereu între 317-339 km altitudine când a fost surprinsă de astronomii amatori.
+
+*** OTV-3 (USA-240)
+
+Primul vehicul X-37B a zburat în a doua sa misiune în spațiu (și a treia misiune X-37B) între 11 decembrie 2012 și 17 octombrie 2014, petrecând astfel 674 zile pe orbită. Tot o rachetă Atlas V 501 a fost folosită pentru lansarea navetei în spațiu, iar revenirea pe Pământ s-a făcut tot la baza aeriană de la Vandenberg, California.
+
+*** OTV-4 (USA-261)
+
+Probabil a doua misiune a celui de-al doilea vehicul X-37B și a patra misiune OTV a început în 20 mai 2015, ora 18:05, de la Cape Canaveral și a durat 717 zile, naveta revenind pe Pământ în 7 mai 2017 pe [pista de la Kennedy Space Center, din Florida](https://www.youtube.com/watch?v=ybQRMzygiQQ). Unele surse au declarat că în cadrul acestei misiuni a fost studiat un sistem de propulsie electrică bazat pe efectul Hall, cu o putere de 4.5 kW, care folosesc electricitate și xenon pentru a genera impuls (sistem care urmează să fie integrat în familia de sateliți militari de telecomunicații AEHF ai USAF) dar și un experiment la NASA (METIS) care studiază comportarea câtorva materiale speciale expuse condițiilor extreme din spațiul cosmic.
+
+#+CAPTION: Al doilea vehicul X-37B, după încheierea celei de-a doua misiuni (OTV-4), în 7 mai 2017, pe pista de la Kennedy Space Center (/Foto: USAF/Boeing/)
+[[/img/x37bmen.jpg]]
+
+*** OTV-5 (USA-277)
+
+Naveta (probabil vehiculul 1) a fost [lansată în 7 septembrie 2017](https://www.youtube.com/watch?v=9M6Zvi-fFv4) de o rachetă Falcon 9[fn:f9otv5], de pe rampa LC-39A de la Kennedy Space Center, fiind pentru prima dată când nu a fost folosită o rachetă Atlas V pentru lansarea acestor navete. A fost găsită ulterior pe o orbită cu înclinația de 54.5 grade și la o altitudine de 356 km. În iulie 2019, astronomul olandez Ralf Vandebergh[fn:rf] a reușit să fotografieze naveta X-37B pe orbită, iar în imaginile surprinse de el se pot observa ușile deschise ale calei. La finalul lunii august, durata misiunii a depășit 720 de zile, OTV-5 devenind astfel cea mai longevivă misiune a navetei X-37B.
+
+*** OTV-6
+
+Următoarea misiune X-37B (probabil vehiculul 2) este planificată pentru a fi lansată în al doilea semestru al anului 2020 (după ce inițial data lansării a fost decembrie 2019), iar pentru acest lucru se va folosi o rachetă Atlas V 501 (misiunea denumită AFSPC-07).
+
+*** Rezumat
+
+|    Lansare | Misiune | Vehicul  | Lansator    | Rampă      | Denumire | Durată   |  Aterizare | Pistă aterizare |
+|------------+---------+----------+-------------+------------+----------+----------+------------+-----------------|
+| 22.04.2010 | OTV-1   | X-37B-1  | Atlas V 501 | CC SLC-41  | USA-212  | 224 zile | 03.12.2010 | VAFB RNY12      |
+| 05.03.2011 | OTV-2   | X-37B-2  | Atlas V 501 | CC SLC-41  | USA-226  | 468 zile | 16.06.2012 | VAFB RNY12      |
+| 11.12.2012 | OTV-3   | X-37B-1  | Atlas V 501 | CC SLC-41  | USA-240  | 674 zile | 17.10.2014 | VAFB RNY12      |
+| 20.05.2015 | OTV-4   | X-37B-2  | Atlas V 501 | CC SLC-41  | USA-261  | 717 zile | 07.05.2017 | KSC SLF         |
+| 07.09.2017 | OTV-5   | X-37B-1? | Falcon 9 B4 | KSC LC-39A | USA-277  | ??       |         ?? | ??              |
+|    Q2-2020 | OTV-6   | X-37B-2? | Atlas V 501 | CC SLC-41? | ??       | ??       |         ?? | ??              |
+
+*** Note de subsol
+
+[fn:f9otv5] https://www.spacex.com/news/2017/09/07/otv-5-mission
+[fn:rf] http://www.leonarddavid.com/caught-on-camera-secretive-space-plane/
+[fn:x37bb] https://www.boeing.com/defense/autonomous-systems/x37b/index.page
+
+** TODO Sonde interplanetare active
+:PROPERTIES:
+:EXPORT_FILE_NAME: sonde 
+:END:
+
+*** Lunar Reconaissance Orbiter (LRO)
+
+*** Chang'E-3 și Yutu
+
+*** Chang'E-4 și Yutu-2
+
+*** Parker
+
+*** BepiColombo
+
+*** Akatsuki
+
+*** Mars Odyssey
+
+*** Mars Express (MEX)
+
+*** Mars Reconnaissance Orbiter (MRO)
+
+*** Mars Orbiter Mission (MOM)
+
+*** Trace Gas Orbiter (TGO)
+
+*** MAVEN (Mars Atmosphere and Volatile Evolution missioN)
+
+*** InSight
+
+*** Juno
+
+*** OSIRIS-REx
+
+*** Hayabusa2
+
+*** New Horizon
+
+*** Voyager-1
+
+*** Voyager-2
+
+** TODO Meteoriți
+:PROPERTIES:
+:EXPORT_FILE_NAME: meteoriti 
+:END:
+
+*** Definiții
+
+*** Identificare
+
+*** Denumire
+
+*** Clasificare
+
+*** Catalog
+
+*** Meteoriți românești
+
+
+* Buletin Cosmic
+:PROPERTIES:
+:EXPORT_HUGO_SECTION: bul
+:END:
+
+** Buletin Cosmic nr. 42 :iran:safir:aeolus:starlink:spacex:india:chandrayaan:x37b:
+:PROPERTIES:
+:EXPORT_FILE_NAME: 042
+:EXPORT_DATE: 2019-09-03
+:END:
+
+A treia tentativă din 2019 de a lansa un satelit s-a soldat cu un nou eșec pentru Iran săptămâna trecută, când imagini capturate de sateliți americani au identificat o rampă de lansare grav avariată de explozia unei rachete Safir, probabil în timpul operațiunilor de alimentare cu combustibil. Iranul anunța în luna august că noul satelit Nahid-1 este gata de lansare, însă după lansările eșuate din ianuarie și februarie, iată că Iranul nu reușește nici de această dată să pună un satelit pe orbită și înregistrează al patrulea eșec consecutiv din 2017. În 2009, Iranul lansa primul satelit folosind o rachetă proprie, succes urmat de alți patru sateliți în anii următori, plus o serie de zboruri suborbitale, la care au luat parte și o serie de animale (din care nu toate au supraviețuit însă).
+
+#+CAPTION: Imagine cu rampa de lansare a rachetei Safir de la centrul spațial "Imam Khomeini", cel mai probabil surprinsă de satelitul de spionaj SUA-224 și făcută publică de Președintele Statelor Unite ([[https://twitter.com/realDonaldTrump/status/1167493371973255170][Sursa foto]]).
+[[/img/irantrump.jpg]]
+
+---
+
+Luni, pentru prima dată, un satelit ESA a fost nevoit să-și folosească propulsoarele de la bord pentru a evita coliziunea cu un satelit aparținând unei viitoare megaconstelații. Este vorba despre satelitul Aeolus, destinat observațiilor meteorologice și... satelitul Starlink 44. Dacă manevra de evitare nu ar fi fost făcută, cei doi sateliți s-ar fi apropiat la mai puțin de 10 km unul de altul și o viteză relativă de 14.4 km/s. Starlink 44 se află pe o orbită mai joasă decât majoritatea sateliților Starlink, ceea ce înseamnă că este unul dintre sateliții nefuncționale care sunt deorbitați și care se pare că nu mai este controlat de SpaceX. Pe orbită sunt deocamdată doar 60 de sateliți Starlink. Primii din cei câțiva mii planificați pentru a fi lansați în anii următori, iar acest eveniment va genera cu siguranță discuții cu privire la un control mai riguros al activităților orbitale.
+
+---
+
+Sonda indiană Chandrayaan-2, lansată în 22 iulie de o rachetă GSLV Mk. III, a reușit în 20 august inserția pe orbita Lunii și se pregătește de aselenizare. În dimineața zilei de luni, landerul Vikram  și roverul selenar Pragyan s-au despărțit de modulul sondei care va rămâne pe orbită, pentru a începe pregătirile pentru coborârea pe suprafață. Aselenizarea Chandrayaan-2 este programată pentru noaptea de vineri spre sâmbătă, în intervalul 22-01, ora României. Dacă va reuși acest lucru, India va deveni a patra țară care reușește aselenizarea unei sonde, după SUA, URSS și China și a doua țară din acest an, după ce sonda chinezească Chang'E-4 a ajuns pe fața nevăzută a Lunii iar misiunea israeliană Beresheet s-a încheiat cu prăbușirea sondei pe Lună.
+
+---
+
+X-37B, naveta spațială autonomă a Forțelor Aeriene SUA, lansată în 7 septembrie 2017 de o rachetă Falcon 9 se află în spațiu de peste 720 de zile, stabilind un record de longevitate pentru acest vehicul orbital despre care nu se cunosc prea multe lucruri. Ce știm este că Boeing a construit pentru Forțele Aeriene două astfel de vehicule, care zboră alternativ în spațiu, naveta actuală participând la a cincea astfel de misiune despre care nu avem detalii, dar despre care se zvonește că testează diverse materiale expuse condițiilor extreme din spațiu, dar și un tip nou de propulsor cu efect Hall. Astronomii amatori europeni au reușit să identifice naveta pe o orbită cu altitudinea de 356 km, înclinație orbitală 54.5 grade și chiar să o și fotografieze de la sol. Nu există indicii că vehiculul va ateriza prea curând iar viitoarea misiune OTV-6 programată inițial pentru lansare în decembrie a fost amânată pentru al doilea trimestru al anului viitor.
+
+** Buletin Cosmic nr. 41 :curiosity:soyuz:ms14:falconheavy:ariane5:
+:PROPERTIES:
+:EXPORT_FILE_NAME: 041 
+:EXPORT_DATE: 2019-06-25
+:END:
+
+Roverul american Curiosity a detectat cea mai mare concentrație de metan măsurată vreodată în atmosfera marțiană: 21 ppb (micrograme pe kilogram), în timp ce sonda europeană Trace gas Orbiter (TGO), parte a misiunii ExoMars, trimisă acolo în 2016 tocmai pentru a măsura concentrația de metan din atmosferă, nu a identificat încă misteriosul metan marțian, cel puțin nu la concentrații mai mari decât limita de detecție a instrumentelor de la bord (limita de detecție a instrumentelor TGO fiind mai mică decât valoarea găsită de Curiosity). Asta după ce în 2004, primele date privind concentrația de metan din atmosfera marțiană au fost obținute de sonda europeană Mars Express (10 ppb), rezultate ce au rămas controversate mulți ani. Anul viitor, în a doua parte a misiunii ExoMars, pe Marte va fi trimis un nou rover, de această dată european, care va ajuta la descifrarea enigmei metanului marțian. Acest gaz este extrem de important, deoarece el poate avea două origini: fie poate proveni din roci, prin procese chimice naturale, fie este produs al metabolismului unor organisme vii, iar acest scenariu este unul extrem de interesant dacă vorbim despre Marte.
+
+---
+
+Anne McClain (NASA), David Saint-Jaques (CSA) și Oleg Kononenko (RSA) au ajuns cu bine marți dimineața, la ora 05:47 (ora României și ora Moscovei) înapoi pe Pământ, la bordul capsulei Soyuz MS-11, după 204 zile petrecute în spațiu și 3264 de orbite în jurul Pământului, la bordul Stației Spațiale Internaționale. În prezent, pe stația spațială au mai rămas Christina Koch (NASA), Nick Hague (NASA) și Alexei Ohchinin (RSA) și se pregătesc să-i primească la bord, din 20 iulie pe Aleksandr Skvortsov (RSA), Luca Parmitano (ESA) și Andrew Morgan (NASA), care urmeasă să fie lansați la bordul capsulei Soyuz MS-13. În timp ce cei trei astronauți se îndreptau spre stepele din Kazahstan, comentariul din fundal de la centrul de comandă din Moscova a menționat la un moment dat o problemă la unul dintre motoare și activarea unui sistem de siguranță. A fost un detaliu care a generat imediat îngrijorări pentru siguranță echipajului de la bord, însă agenția spațială rusă a dezmințit zvonurile la câteva ore după aterizarea capsulei și a declarat că echipajul nu a fost sub nici o formă în pericol în timpul revenirii pe Pământ.
+
+---
+
+Și tot marți dimineață, compania SpaceX a lui Elon Musk a lansat cea de-a treia rachetă Falcon Heavy și a doua din acest an, într-o misiune pentru forțele aeriene ale SUA, însă la bord au mai fost și câțiva sateliți interesanți. Printre aceștia se numără LightSail-2, un proiect al The Planetary Society finanțat exclusiv din donațiile membrilor, care își propune să își modifice orbita folosind… presiunea luminii solare, exercitate pe folia care a fost întinsă după desprinderea satelitului de treapta secundară a rachetei. NASA și JPL au avut la bord un satelit experimental ce conține un ceas atomic care urmează să fie folosit în viitor pentru navigația sondelor interplanetare. Acest ceas atomic este unul dintre cele mai precise astfel de echipamente construite vreodată (o deviație de 1 microsecundă într-o perioadă de 10 ani) și în același timp extrem de compact. Falcon Heavy este practic compusă din trei rachete Falcon 9 legate unele de altele iar imediat după lansare, cele două boostere laterale au fost recuperate la sol, așa cum ne-a obișnuit deja SpaceX, însă boosterul central, care trebuia să ajungă pe barja OCISLY a ratat cu câțiva metri ținta. Elon Musk a declarat înainte de lansare că recuperare va fi o provocare pentru că datorită profilului misiunii, treapta centrală se îndrepta cu viteză foarte mare și barjă. A fost însă recuperată o jumătate a conului protector al rachetei, con care protejează sateliții de la zbor în timpul primelor faze ale zborului și care costă și el câteva milioane de dolari. Următoarea lansare Falcon Heavy, cea mai puternică rachetă activă în acest momen, este programată să aibă loc abia anul viitor.
+
+---
+
+Vineri noaptea, într-o lansare fără cusur, așa cum ne-a obișnuit compania europeană Arianespace, racheta Ariane 5 a pus pe orbită doi sateliți de telecomunicații, Eutelsat-7C și satelitul T-16 al companiei americane AT&T. A fost a doua lansare Ariane 5 a anului și a 104-a misiune Ariane 5 din 1996. În tot acești ani, Ariane 5 a suferit doar două lansări complet eșuate și trei lansări cu probleme, din care ultima chiar anul trecut, când racheta a ajuns pe o orbită greșită, iar acest lucru a însemnat o viață mai scurtă pentru sateliții de la bord, pentru că aceștia au fost nevoiți să-ți folosească propriul combustibil pentru a efectua corecțiile necesare.
+
+** Buletin Cosmic nr. 40 :crs17:progress:ms10:proton:omega:
+:PROPERTIES:
+:EXPORT_FILE_NAME: 040 
+:EXPORT_DATE: 2019-06-06
+:END:
+
+După o lună de zile petrecută pe orbită, cuplată cu Stația Spațială Internațională, capsula Dragon CRS-17 a revenit în noaptea de duminică spre luni cu bine înapoi pe Pământ. De fapt, capsula a amerizat în apele Oceanului Atlantic, pentru că Dragon nu poate să aterizeze la sol, deși această caracteristică urmează să fie implementată în iterațiile viitoare ale capsulei. A fost a doua revenire prin atmosferă pentru capsulă, pentru că exact același vehicul a fost folosită și în misiunea CRS-12 din vara anului 2017. Următoarea capsulă Dragon (care va purta indicativul CRS-18) se pregătește deja pentru lansarea programată luna iulie. Însă SpaceX nu se pregătește doar pentru lansarea următoarei capsule Dragon spre ISS, dar tot la finalul acestei luni este planificată și a treia lansare Falcon Heavy, cea mai puternică rachetă operațională în prezent, care va urca pe orbită câțiva sateliți pentru Departamentul de Apărare al Statelor Unite, parte a procesului de certificare a noului lansator pentru încărcături utile sensibile pentru securitate națională americană.
+
+---
+
+La doar o zi distanță după plecarea capsulei Dragon CRS-17, un alt vehicul a părăsit Stația Spațială Internațională: nava cargo rusă Progress MS-10. Aceasta a petrecut 200 de zile în spațiu, cuplată cu modulul Zvezda din sectorul rusesc al ISS. La trei ore și șase minute după decuplare, motoarele navei Progress MS-10 au fost pornite în direcția de mers pentru frânare și deorbitare, resturile navei ajungând în Oceanul Pacific la ora 15:29, pentur că spre deosebire de capsula Dragon, Progress nu este proiectat să reziste trecerii prin atmosferă. Următorul vehicul care va părăsi Stația Spațială Internațională va fi capsula Soyuz MS-11, care va aduce pe Pământ pe Anne McClain, David Saint-Jaques și Oleg Kononenko, trei din cei șase astronauți prezenți la bordul ISS.
+
+---
+
+O rachetă Proton-M a reușit vineri searaprima lansare din 2019, după un ritm mai scăzut în ultimii ani datorită numeroaselor probleme tehnice care au urmărit lansatorul greu rusesc. Satelitul de telecomunicații Yamal-601 al companiei ruse Gazprom Space Systems a fost lansat cu succes de la Baikonur, dar unele probleme cu propulsia proprie a satelitului, fără legătură cu lansatorul Proton, întârzie deplasarea sa pe orbita geostaționară dorită. Yamal-601 (care are o masă de 5.7 tone) a fost construit de Thales Alenia Space pentru compania Gazprom Space Systems. Peste 400 de rachete Proton au fost lansate din anii ‘60, din care peste 100 au fost modelul Proton-M, folosit din 2001. Următoarea lansare Proton este programată pentru 21 iunie, când va fi lansat telescopul spațial Spektr-RG, folosit pentru observații în domeniul razelor X.
+
+---
+
+Northrop Grumman Innovation Systems (NGIS), divizie din cadrul Northrop Grumman formată după absorbirea companiei Orbital Systems, a efectuat joia trecută primul test al treptei primare a viitoarei rachete OmegA. Această rachetă cu combustibil solid a evoluat din boosterele auxiliare ale navetei spațiale (care vor echipa și viitoare rachetă SLS a Agenției Spațiale Americane). Deși spre finalul testului duza motorului a explodat, NGIS a declarat că testul a fost unul reușit și că vor investiga anomalia care a dus la dezintegrarea duzei. Deși prima treapta OmegA este similară cu boosterul auxiliar al SLS, duzele sunt diferite. Combustibilul solid oferă unele avantaje față de cel lichid, motoarele cu combustibil solid odată pornite nu mai pot fi oprite și nici puterea lor nu poate fi variată în timp real, așa cum se întâmplă în cazul motoarelor cu combustibil lichid.
+
+---
+
+Programul Artemis își ia avânt și NASA pare să-și concentreze serios eforturile spre Lună. A anunțat de curând că trei companii private vor primii fonduri pentru a livra încărcături utile pe Lună până în 2021, parte a noului program Commercial Lunar Payload Services (CLPS). Astrobotic va primi 79.5 milioane de dolari pentru a lansa 14 încărcături pe Lună, în zona Lacus Mortis până în iulie 2021. Astrobotic colaborează cu Airbus, United launch Alliance (care va furniza și o rachetă Atlas V pentur lansare) sau… DHL; Intuitive Machines primește 77 milioane de dolari și își propune să lanseze 5 încărcături spre Oceanus Procellarum, tot până în iulie 2021, dar folosind o rachetă Falcon 9. Intuitive Machines colaborează cu Boeing în acest sens; Orbit Beyond va primi 97 milioane de dolari pentru a transporta 4 încărcături spre Lună, pe câmpia de lavă denumită Mare Imbrium (unde a ajuns și Apollo 15), până în septembrie 2020, tot cu ajutorul unei rachete Falcon 9.
+
+** Buletin Cosmic nr. 39 :spacex:starlink:
+:PROPERTIES:
+:EXPORT_FILE_NAME: 039 
+:EXPORT_DATE: 2019-05-29
+:END:
+
+Vineri dimineața, SpaceX s-a aflat în fața unei lansări importante, din mai multe motive: cei 60 de sateliți care au ajuns pe orbită, primii din constelația Starlink, ar putea face posibilă o conexiune la Internet de pe orice punct al suprafeței Pământului, iar veniturile din această activitate ar putea finanța planurile SpaceX pentru viitoarea rachetă Spaceship, deci pentru misiuni spre Lună și Marte.
+
+---
+
+Cei 60 de sateliți Starlink cântăresc împreună 18.5 tone și au fost plasați pe orbita terestră joasă, ceea ce înseamnă că este încărcătura orbitală cu cea mai mare masă lansată de SpaceX, chiar dacă luăm în considerare și cele două lansări Falcon Heavy (deși Falcon 9 ar putea urca până la 22.8 tone pe LEO).
+
+---
+
+Sateliții au fost eliberați pe orbită folosind… inerția și rotația, ei neavând nici un fel de sistem de eliberare clasic, folosit de alți sateliți. Musk spunea că și dacă sateliții s-ar fi lovit între ei în timpul eliberării de treapta a două, dar că acest lucru nu ar fi fost o problemă, pentru că sunt proiectați să facă față acestor coliziuni. 12 lansări de acest fel sunt necesare pentru că Starlink să asigure conectivitate de oriunde din SUA și 24 de lansări sunt necesare pentru o acoperire globală, dar nu perfectă (pentru o acoperire globală funcțională sunt necesare 60 de lansări). În acest ritm, în 2 ani de zile, SpaceX va avea pe orbită mai mulți sateliți decât numărul actual de sateliți activi (aproximativ 2000), sperând să poată ajunge la un ritm de 1000 de sateliți lansați pe an, folosind doar rachetele Falcon, fără să socotim BFR/Spaceship. Calculele lui Elon Musk spun că după 1000 de sateliți lansați (și folosiți), proiectul devine viabil din punct de vedere economic, pentru că o conexiune la Starlink nu va fi gratuită.
+
+---
+
+Fiecare satelit este dotat cu un motor cu kripton (mai ieftin decât xenonul, fiind pentru prima dată când un motor cu kripton este folosit în spațiu) și cu un soft care îi permite să evite autonom deșeurile orbitale catalogate de NORAD. Aceștia au o perioadă de viață de aproximativ 5 ani, după care vor fi deorbitați și înlocuiți cu alții.
+
+---
+
+Antena pentru a primi Internet prin intermediul constelației Starlink are un diametru echivalent cu o pizza medie și nu trebui să fie precis orientată spre un anumit punct din cer, trebuie doar să fie îndreptată spre cer, asta pentru că mereu un număr de peste 10 sateliți vor fi oricând prezenți deasupra orizontului.
+
+---
+
+Miercurea a avut loc al doilea eșec al Chinei din 2019 în lansările orbitale, când racheta Changzeng-4C nu a reușit să plaseze pe orbită polară un satelit militar, datorită unor probleme la cea de-a treia treaptă a rachetei. Dacă primul eșec chinezesc al anului a aparținut unei companii private are încerca prima lansare orbtală, de această dată este vorba despre o problemă la una dintre rachetele consacrate ale Chinei.
+
+---
+
+O rachetă rusească Soyuz-2.1b, care a lansat luni dimineața un nou satelit de poziționare GLONASS-M, a fost lovită de fulger la câteva secunde după desprinderea de rampei de lansare de la Baikonur, însă aceasta și-a continuat fără probleme zborul și a inserat satelitul pe orbita corectă, fără să fie afectată de rarul eveniment. În timpul lansării misiunii Apollo 12 din noiembrie 1969, o rachetă Saturn V cu oameni la bord a fost și ea lovită de fulger, însă în afară de o resetare a computerului de bord, nu au fost identificate alte probleme și misiunea a continuat fără probleme.
+
+---
+
+ArianeGroup și ESA lucrează în prezent la viitoarea treaptă secundară pentru racheta euopeană Ariane 6, care va intra în uz din 2025. Denumită Phoebus, aceasta nouă treaptă urmează să fie construită din carbon, ceea ce înseamnă două tone diferență față de treptele secundare construite de obicei din aluminiu. Noile trepte secundare și vor intra în uz la câțiva ani după ce rachetele Ariane 6 vor înlocui actualele Ariane 5, dar nu le vom vedea cu ocazia primelor zboruri, pentru că deja primele rachete Ariane 6 sunt asamblate folosind treapta secundară inițială.
+
+** Buletin Cosmic nr. 38 :artemis:
+:PROPERTIES:
+:EXPORT_FILE_NAME: 038
+:EXPORT_DATE: 2019-05-22
+:END:
+
+Artemis este numele noului program prin care NASA dorește ca astronauții americani să ajungă în 2024 pe Lună. Program, recent botezat, a fost anunțat de vicepreședintele Mike Pence acum aproape 2 luni de zile, de la Huntsville, Alabama, în cadul unei conferințe de presă în urma unei întâlniri a Consiliului Național Spațial, reactivat de actuala administrație de la Casa Albă.
+
+Artemis, zeița Lunii în mitologia greacă, este sora geamănă a lui Apollo și denumirea se potrivește și mai bine dacă ne aducem aminte că NASA insistă ca o femeie să fie parte a primului echipaj care va aseleniza în 2024. Un nume excelent pentru reîntoarcerea pe Lună, dacă mă întrebați pe mine și dacă ne prefacem că ignorăm faptul că Artemis l-a omorât pe Orion. Sperăm să nu fie cazul, având în vedere că Orion este și numele capsulei care a supraviețuit programului Constellation și capsula urmează să fie folosită și în programul Artemis.
+
+Jim Bridenstine, administratorul NASA, a anunțat săptămâna trecută că programul Artemis primește 1.6 miliarde în plus în 2020, deși unele voci susțin că ar fi nevoie de o suplimentare a bugetului NASA cu cel puțin 6 miliarde de dolari anual, dacă nu chiar 8 miliarde, pentru ca aselenizarea să poată avea loc în 2024. Și tot săptămâna trecută, NASA a lansat o competiție pentru sectorul privat, în care așteaptă propuneri de la 11 parteneri comerciali, pentru un viitor vehicul care să aselenizeze. La această competiție participă nume consacrate, precum SpaceX, Blue Origin, Lockheed Martin sau Boeing, dar și companii tinere, precum Masten Space Systems.
+
+În arhitectura programului Artemis, NASA nu renunță la planurile pentru o nouă stație spațială în jurul Lunii, denumită Gateway, dar fondurile și dimensiunile stației au fost reduse, pentru a facilita o aselenizare în 2024, urmând să fie eventual adăugate noi module în viitor. Gateway va funcționa ca un modul de serviciu din timpul programului Apollo, dar care va rămâne continuu pe orbita Lunii și va fi accesat de echipaje înainte ca acestea să folosească modulul lunar andocat la Gateway pentru a coborî pe suprafața Lunii.
+
+NASA plănuiește să lanseze primul modul Gateway în 2022, modul care urmează să furnizeze electricitate pentru viitoarele module și nave andocate (modul denumit PPE – Power and Propulsion Module). În 2023 ar urma lansarea unui modul locuibil, de mai mari dimensiuni, care va fi cuplat pe orbita Lunii cu modulul PPE. Ar urma apoi un modul care ar putea coborî pe suprafața Lunii. Cele trei module Gateway urmează să fie lansate până în 2024 de companii private. Între timp, în 2020, misiunea Artemis-1 va inaugura noua rachetă SLS de la NASA și aceasta va lansa o capsulă Orion, fără echipaj, spre Lună. Artemis-2, a doua lansare SLS va fi prima cu echipaj la bord și va imita misiunea Apollo 8, dar de data aceasta folosind racheta SLS ;i capsula Orion, inserând echipajul pe orbita Lunii, testând toți pașii necesari pentru aselenizare. În 2024, misiunea Artemis-3 să lanseze un echipaj spre Gateway, de unde echipajul să se transfere în stația spațială lunară și de aici în modulul lunar, cu care să coboare pe suprafața Lunii.
+
+Pentru ca aselenizarea din 2024 să aibă loc, trebuie că partenerii privați să reușească să proiecteze și să livreze agenției spațiale americane vehicule care să poate aseleniza. NASA în schimb trebuie să se asigure că noua rachetă SLS este fără cusur, pentru că un singur pas greșit va face ca aselenizarea să fie întârziată. Asta înseamnă că toate testele trebuie să decurgă perfect și cele două misiuni Artemis din 2020 și 2023 să fie impecabile. Dacă acest lucru se va întâmpla, NASA vorbește despre proiectarea de baze selenare care să fie permanent ocupate de viitoare echipaje, cândva la finalul decadei. Iar Gateway va putea fi folosită de acești astronauți ca o rampă de lansare spre Marte, după 2030.
+
+** Buletin Cosmic nr. 37 :soyuz:ms11:cygnus:ng11:superdraco:dragon:
+:PROPERTIES:
+:EXPORT_FILE_NAME: 037
+:EXPORT_DATE: 2019-04-24
+:END:
+
+NASA a confirmat recent un zvon care circula încă de la lansarea Soyuz MS-11 din 14 martie: Christina Koch va rămâne la bordul Stației Spațiale Internaționale timp de 328 de zile, urmând să stabilească recordul pentru cea mai lungă ședere continuă a unei femei pe orbită, record deținut în prezent de un alt astronaut NASA, Peggy Whitson care a petrecut 289 zile pe orbită într-o singură misiune. Christina Koch se află în prezent la primul său zbor orbital și urmează să se întoarcă pe Pământ abia în februarie 2020, alături de Luca Parmitano și Alexander Skvortsov la bordul capsulei Soyuz MS-13. Astfel, vor fi doar 12 zile distanță între șederea ei și recordul absolut de anduranță la bordul ISS, stabilit de Scott Kelly, care împreună cu Mikhail Korniyenko, au petrecut 340 de zile la bordul ISS, între 2015 și 2016. Cu toate acestea, NASA consideră misiunea Christinei Koch doar o extindere a misiunii și nu este promovată ca o misiune de un an de zile, așa cum a fost în cazul lui Scott Kelly.
+
+---
+
+Miercurea trecută, de la complexul Wallops din Virginia, a avut loc lansarea unei noi capsule Cygnus NG-11 spre Stația Spațială Internațională, a 12-a și ultima din prima serie a lansărilor cargo comerciale spre ISS, contract care acoperă și zborurile capsulei Dragon de la SpaceX. Denumită “SS Roger Chaffee”, după astronautul american cu același nume care și-a pierdut viața în 1967 în incendiul din capsula Apollo 1, capsula a andocat 2 zile mai târziu cu modulul Unity al Stației Spațiale Internaționale, transportând aproximativ 3.5 tone de provizii și experimente științifice pe orbită. Atât racheta Antares, cât și capsula Cygnus au fost inițial produse de compania Orbital ATK, însă acestea fac acum parte din portofoliul Northrop Grunman, în urma achiziției care a avut loc anul trecut. Chiar dacă a fost ultima capsulă din primul contract comercial de aprovizionare al Stației Spațiale Internaționale, tranziția spre noul contract se va face automat, odată cu misiunea NG-13, programată pentru octombrie. Actuala capsulă, aflată în prezent pe orbită, urmează să rămână cuplată timp de 90 de zile cu ISS, după care se va desprinde de complexul orbital și va urca la o altitudine mai mare, de unde va lansa câțiva sateliți de mici dimensiuni. Ulterior, capsula va rămâne pe orbită cel puțin până în octombrie, pentru a testa câteva tehnologii noi menite să prelungească viața acestor tip de capsule de la câteva săptămâni după decuplarea de ISS la câteva luni, tehnologii care urmează să fie folosite în anii următori în proiectul viitoarei stații spațiale plasate pe orbita Lunii, la care NASA lucrează în prezent. Această manevră va ajuta și inginerii Northrop Grunman să testeze operațiunile necesare monitorizării simultane de la sol a două capsule Cygnus. O altă noutate a actualei misiuni Cygnus este posibilitatea de a încărca o parte din cargo cu doar 24 de ore înainte de lansare, oferind astfel noi posibilități experimentelor științifice urcate pe orbită.
+
+---
+
+Sâmbătă la ora 17:41, China a lansat un nou satelit Beidou de la centrul spațial Xichang, folosint o rachetă Changzheng-3. Sateliții Beidou de poziționare globală sunt lansați fie pe orbite geostaționare, fie pe orbite terestre medii, la altitudini mai mari de 2000 km. Anul viitor, China speră să completeze cea de-a treia fază a constelației Beidou, care să asigure o acoperire globală și să rivalizeze direct cu sistemele echivalente GPS, GLONASS sau Galileo, din SUA, Rusia și respectiv Europa. Lansarea de sâmbătă a fost a 100-a lansare pentru o rachetă Changzheng-3 și a 26-a lansare din 2019. Într-un clasament pe națiuni, conduce SUA cu 7 lansări reușite, urmate de China cu 5 lansări reușite și una eșuată.
+
+---
+
+Un test al motorului SuperDraco al capsulei Crew Dragon care a avut loc sâmbătă a dus la o explozie și la dezintegrarea capsulei care în martie andocase cu Stația Spațială Internațională. Incidentul va duce la amânarea primei lansări cu echipaj la bordul unei rachete Falcon 9 cu cel puțin câteva luni, pentru că respectiva capsulă urma, în următoarele săptămâni, să fie supusă unei lansări ratate pentru care SpaceX ar fi sacrificat o rachetă Falcon 9, pentru a testa sistemul de anulare al lansării, care folosesc motoarele SuperDraco testate sâmbătă, al căror rol este să îndepărteze capsula de o rachetă care ar avea probleme în timpul lansării. SpaceX urmează acum să reconstruiască capsula și să o supună acestor teste, după ce va identifica problema care a dus la eșecul de sâmbătă. Pentru că nici Boeing nu are un progres lin cu capsula CST-100 Starliner, este deja destul de probabil ca primele lansări cu echipaj de pe teritoriul SUA să aibă loc cel mai devreme în 2020.
+
+** Buletin Cosmic nr. 36 :beresheet:falconheavy:change4:
+:PROPERTIES:
+:EXPORT_FILE_NAME: 036 
+:EXPORT_DATE: 2019-04-17
+:END:
+
+Sonda israeliană Beresheet nu a reușit joi să coboare controlat pe suprafața Lunii. După ce acum două săptămâni a intrat pe orbita satelitului nostru natural, Beresheet a efectuat joi o serie de manevre pentru a ajunge pe suprafața selenară, dar la 14 kilometri altitudine, echipa de ingineri de la sol au avut probleme cu motorul principal al sondei și au pierdut imediat comunicația cu aceasta. Telemetria a fost restabilită în scurt timp, însă sonda se îndrepta deja cu viteză prea mare spre suprafață și nu a mai putut fi controlată: Beresheet avea 500 km/h la 150 de metri altitudine, după care legătura radio s-a întrerupt definitiv. Deși compania SpaceIL a ratat premiul oferit de Google pentru că nu a aselenizat în 2018, așa cum prevedeau regulile competiției Google X Lunar Prize, compania israeliană a primit totuși un premiu de consolare de 1 milion de dolari, pentru a putea continua dezvoltarea viitoarei sonde Beresheet-2.
+
+---
+
+La câteva ore după eșecul motorului sondei Beresheet, nu mai puțin de 27 de motoare Merlin au funcționat impecabil în cel de-al doilea zbor al rachetei Falcon Heavy. La 14 luni distanță după zborul inaugual, care a lansare un autoturism Tesla pe o orbită în jurul Soarelui, de această dată la bordul rachetei s-a aflat un satelit de telecomunicații, Arabasat-6A, care a ajuns pe orbită geostaționară. Și tot spre deosebire de primul de zbor, de acestă dată SpaceX a recuperat toate cele trei trepte primare, inclusiv treapta centrală, care a ajuns pe o barjă din Atlantic, în timp ce treptele laterale au ajuns în tandem la sol, aproape de rampa de lansare. Din păcate însă, în timp ce se apropia de țărm, datorită conddițiilor meteo și a faptului că sistemul de prindere al rachetei nu a fost adaptat și pentru Falcon Heavy, treapta centrală a fost pierdută. Cele trei trepte primare folosite în această misiune au fost rachete noi, care nu au mai fost folisite și au crescut cu 10% performanța rachetei față de anul trecut deoarece erau racehte Falcon 9 Block 5, ultima și cea mai puternică versiune a rachetei Falcon 9. Elon Musk a anunțat la scurt timp după lansare că au fost recuperate și cele două jumătăți ale conului care protejează satelitul în prima fază a zborului, con care va fi refolosit mai târziu în acest an. Cele două jumătăți au fost recuperare din apa oceanului, dar SpaceX dorește ca acestea să fie recuperat de un vas, folosit o plasă supradimensionată, pentru a evita contactul cu apa mării. Un astfel de con protector costă aproximativ 6 milioane de dolari, astfel că recuperare și refolosire sa nu face decât să scadă costurile unei lansări SpaceX. Următoarea lansare Falcon Heavy este programată pentru luna iunie, când aceasta urmează să lanseze peste 25 de sateliți de mici dimensiuni, majoritatea lor fiind ai Forțelor Aeriene ale SUA.
+
+---
+
+Miercuri, sistemul de propulsie al satelitului Intelsat-29e a fost avariat și ca urmare, satelitul pierde combustibil. Ulterior au apărut probleme în comunicarea cu satelitul, iar imaginile de la sol au arătat ca în jurul acestuia sunt câteva fragmente, dar nu s-a putut stabili dacă este vorba despre combustibil înghețat sau fragmente de altă natură. Intelsat-29e a fost construit de Boeing și lansat de o rachetă Ariane 5 în ianuarie 2016. Este al doilea satelit din seria Intelsate Epic care are probleme, după ce în 2016, Intelsat-32e a avut o problemă cu sistemul de propulsie care i-a scurtat perioada de viață.
+
+---
+
+Joi la ora 19:00, sonda chineză Chang’e-4 aflată pe fața îndepărtată a Lunii, a intrat din nou în hibernare, procedura deja obișnuită înaintea celei de-a patra nopți lunare petrecute în craterul von Kármán. Roverul Yutu-2, care a parcurs deja 178.9 metri pe suprafața selenară, a făcut același lucru, 38 de minute mai târziu. Cele două sonde urmează să redevină active în 28 aprilie, când odată cu sosirea zilei selenare, temperaturile vor crește din nou în craterul von Kármán.
+
+** Buletin Cosmic nr. 35 :beresheet:ryugu:progress:ms11:eva:
+:PROPERTIES:
+:EXPORT_FILE_NAME: 035 
+:EXPORT_DATE: 2019-04-10
+:END:
+
+Sonda israeliană Beresheet a reușit miercurea trecută inserția pe orbita Lunii și mâine se pregătește de aselenizare. Beresheet, cu o masă de 585 kilograme, a fost lansată în 22 februarie, la bordul unei rachete Falcon 9 și dacă va reuși să ajungă pe suprafața Lunii, Israel va deveni a patra națiune, după SUA, Uniunea Sovietică și China care au reușit să pună sonde pe suprafața satelitului nostru artificial. Sonda este dotată cu un magnetometru și un retroreflector care poate fi țintit cu o rază laser de pe Pământ. După inserția pe o traiectorie eliptică, ieri motorul sondei a fost pronit timp de 78 de secunde, pentru circularizarea orbitei la o altitudinea de 200 km, iar astăzi motorul se va mai aprinde încă o dată, pentru a duce altitudinea minimă a orbitei la 15 km deasupra zonei de aselenizare, Mare Serenitatis (unde au mai coborât și sondele Apollo 15, Apollo 17, Luna 2 și Luna 21).
+
+---
+
+După ce a plasat pe suprafața asteroidului Ryugu două sonde care s-au deplasat prin scurte salturi, dar și o sondă statică, europeană, de dimensiuni mai mari, un lander german, care a ajuns pe suprafața lui Ryugu în 3 octombrie, sonda niponă Hayabusa2 a lansat un proiectil spre suprafața asteroidului, pentru a genera un nou crater pe suprafața acestuia. Scopul acestui experiment a fost să scoată la suprafață material care să poată fi studiat de instrumentele științifice de la bord. În 21 februarie, sonda a prelevat probe de pe suprafața asteroidului, probe care urmează să ajungă pe Pământ în 2020, când sonda Hayabusa2 va reveni acasă. Până atunci, Hayabusa2 se pregătește pentru o nouă tentativă de a se apropia de suprafața asteroidului, pentru a preleva noi probe. Puteți urmări în direct telemetria sondei Hayabusa2 pe site-ul Haya2Now.
+
+---
+
+Miercuri, lansarea navei cargo Progress MS-11 de către o rachetă Soyuz-2.1a s-a desfășurat cu succes și la mai puțin de 3 ore și jumătate după ce a părăsit rampa de lansare din Baikonur, nava andocase deja cu modulul Pirs al Stației Spațiale Internațională (ISS), exact în momentul în care sonda israeliană Beresheet intra pe orbita Lunii. Astronauții au primit cu această ocazie peste 3.4 tone de provizii și combustibil{% sidenote ‘ms-11’ ‘881 kg combustibil propriu, 650 kg combustibil destinat ISS, 23 kg oxigen, 24 kg aer, 420 kg apă, 1414 kilograme provizii pentru echipaj și experimente’%}. În această lună mai sunt programate încă două lansări cu provizii spre ISS: capsula Cygnus NG-11 a companiei Northrop Grumman în 17 aprilie și capsula Dragon CRS-17 a companiei SpaceX opt zile mai târziu.A fost prima lansare Progress din 2019, a 74-a lansare Progress spre ISS (doar 71 de lansări au fost reușit să ajungă la ISS, 3 lansări săldându-se cu eșec: Progress M-12M în august 2011, Progress M-27M în aprilie 2015 și Progress MS-04 în decembrie 2016) și a 163-a navă Progress lansată, din 1978, când a fost folosită pentru aprovizionarea stației spațiale sovietice Salyut-6.
+
+---
+
+Racheta Soyuz-2.1a a plasat inițial nava Progress MS-11 pe o orbită aproape circulă, 200x200 km altitudine. După verificarea parametrilor orbitali de stațiile de observare de la sol, nava a efectuat o serie de manevere care i-au ridicat orbita la 408x416 km altitudine, de unde a început urmărirea ISS. Progress MS-11 va rămâne andocată cu Stația Spațială Internațională aproximativ 6 luni, după care va reveni distructiv în atmosferă (spre deosebire de Soyuz, navele Progress nu sunt proiectate să supraviețuiască revenirii prin atmosferă).
+
+---
+
+La 6 ore după ce o rachetă Soyuz-2.1a a lansat nava cargo Progress MS-11 spre ISS, o altă rachetă Soyuz, dotată cu treapra superioară Fregat, a lansat din Guiana Franceză un nou set de patru sateliți O3b. A fost un zbor operat de compania europeană Arianespace, care deține în portofoliul său atât lansatoare Ariane (de calibru greu), Vega (calibru ușor), cât și rachete Soyuz-2, pentru a deservi segmentul de mijloc al lansărilor orbitale de la Kourou. Rachetele Soyuz-2 folosite de Arianespace sunt ușor modificate pentru rampa din Guiana Franceză și astfel denumite Soyuz STA (în loc de Soyuz-2.1a) sau Soyuz STB (în loc de Soyuz-2.1b). 
+
+---
+
+Compania SpaceX se pregătește de a doua lansare Falcon Heavy, după ce testul static de vineri se pare că nu a prezentat probleme. Falcon Heavy este propulsată de 27 de motoare Merlin, fiind de fapt trei rachete Falcon 9 legate una de alta. Spre deosebire de zborul inaugural de anul trecut, de această dată racheta Falcon Heavy este cu 10% mai puternică, pentru că cele trei trepte sunt Block 5, o evoluție față de treptele primare folosite anul trecut. Toate cele trei trepte primare sunt noi și urmează să fie recuperate de SpaceX (cele două laterale la sol, treapta centrală pe barjă). Falcon Heavy este în prezent cea mai puternică rachetă activă, fiind capabilă să lanseze peste 63 de tone pe orbită terestră joasă sau peste 26 de tone pe orbită geostaționară, dar satelitul Arabsat-6A de la bord cântărește doar 6 tone (deși satelitul Arabsat-6A ar fi putut fi lansat de o rachetă Falcon 9 Block 5, la momentul semnării contractului, acum câțiva ani, Falcon 9 avea performanțe inferioare celor de acum, așa că s-a optat pentru Falcon Heavy).
+
+---
+
+A treia și ultima activitate extravehiculară planificată în 2019 pentru astronauții americani a avut loc în după-masa zilei de luni, când Anne McClain (NASA) și David Saint-Jacques (CSA) au finalizat montarea noilor baterii de la bordul stației și au pregătit terenul pentru ca brațul robotic să poată în viitor schimba una din noile baterii care a suferit probleme și care va fi înlocuită cu cea veche. Cei doi au petrecut peste 6 ore și jumătate în afara stației și la fel ca celelalte două astfel de activități din ultimele săptămâni, s-a încheiat cu succes, fiind bifate toate obiectivele misiunii. Luna viitoare, Oleg Kononenko și Alexei Ovchinin se pregătesc de o nouă activitate extravehiculară, dar de această dată din sectorul rusesc al Stației Spațiale Internaționale.
+
+---
+
+Săptămâna trecută au fost testate trei motoare de rachetă, din care două noi. Compania Aeroject Rocketdyne continuă procesul de re-certificare al vechilor motoare RS-25, moștenite de la naveta spațială, care urmează să fie folosite în următorii ani pentru noua rachetă SLS. Deși RS-25 sunt motoare reutilizabile, ele vor fi aruncate în ocean după desprinderea primei trepte, la fiecare zbor SLS, iar după ce stocul existent va fi epuizat, vor fi folosite motoare noi, produse de Aeroject Rocketdyne în urma unui nou contract semnat cu NASA în 2015. Însă Aeroject Rocketdyne a pierdut contractul pentru dotarea rachetelor Atlas V și Vulcan cu boostere cu combustibil solid. Din acest an, rachetele Atlas V vor fi ajutate la lansare de motoarele GEM-63, produse de Northrop Grumman, motoare care sunt mai ieftine decât actualele AJ-60A și care urmează să fie folosite și pentru viitoarea rachetă Vulcan. Northrop Grumman a realizat săptămâna trecută un nou test al motoarelor GEM-63, care urmează să fie inaugurate în această vară. Al treilea motor de pe lista săptămânii trecute este Raptor, noul motor cu metan de la SpaceX, care în aceste zile a fost testat în perimetrul din Texas la companiei lui Elon Musk. 31 de motoare Raptor urmează să propulseze viitoare prima treaptă a viitoarei rachete Spaceship, care va avea primul zbor în 2020, dacă e să-l credem pe Elon Musk.
+
+** Buletin Cosmic nr. 34 :artemis:india:pslv:osm:eva:electron:
+:PROPERTIES:
+:EXPORT_FILE_NAME: 034 
+:EXPORT_DATE: 2019-04-03
+:END:
+
+Săptămână trecută, într-un discurs ținut la centrul spațial Marshall al agenției spațiale americane din Huntsville, Alabama, vicepreședintele Statelor Unite Mike Pence a anunțat că astronauții americani vor reveni pe Lună în 2024. El a precizat că dacă NASA nu va reuși acest lucru în termenul stabilit, se va schimba organizarea agenției, nu misiunea, care a fost trasată direct de la Casa Albă. Declarațiile lui Mike Pence vin la câteva zile distanță după ce s-a anunțat că bugetul NASA pentru 2020 va fi mai mic decât cel de anul acesta, iar racheta SLS, cu care astronauții ar urma să ajungă pe Lună, suferă noi amânări. Mai mult decât atât, chiar dacă ar fi gata la timp, încă nu există în prezent nici un plan pentru un modul lunar, pe care astronauții să îl folosească pentru a coborî pe suprafața lunară.
+
+---
+
+“Trebuie să accelerăm programul SLS pentru a ne atinge obiectivele. Președintele a mandatat NASA și pe Jim Bridenstine, administratorul său, să îndeplinească acest scop prin orice mijloace necesare. […] Dacă contractorii din prezent nu pot să îndeplinească acest obiectiv, vom găsi alții care o pot face.” --Mike Pence, vicepreședintele SUA
+Capsula Orion, o altă piesă esențială a acestui efort, este aproape finalizată, dar ea le permite doar drumul spre Lună și revenirea înapoi pe Pământ, nu și aselenizarea propriu-zisă. Din păcate, nici sectorul privat nu este pregătit să ofere, la nevoie, rachete capabile să transporte astronauți pe Lună în timp util, pentru simplul fapt că viitoarele lansatoare Vulcan sau New Glenn nu sunt destul de puternice, iar Falcon Heavy nu este, și probabil nici nu va fi, certificată pentru zboruri cu echipaj.
+
+---
+
+Miercurea trecută, premierul indian (aflat în campanie electorală) a declarat că o rachetă balistică lansată din India a interceptat și doborât un satelit indian. Asta după ce un test similar din 12 februarie a eșuat. Astfel, India devine a patra națiune, după SUA, Rusia și China, capabile să intercepteze sateliți orbitali și să îi doboare. În urma impactului, se estimează că pe orbita terestră joasă au fost produse peste 6500 de fragmente cu un diametru mai mare de 0.5 cm, din care 400 cu un diametru mai mare de 10 cm, majoritatea lor revenind în atmosferă în câteva zile, fără să creeze probleme pentru alți sateliți, dar o parte dintre aceste fragmente au fost expulzate pe alte orbite și vor rămâne luni sau ani de zile în spațiu, îngreunând astfel activitățile orbitale pentru celelalte națiuni. O parte dintre aceste fragmente au ajuns și la altitudinea Stației Spațiale Internaționale (ISS se află în prezent pe o orbită 408x411 km), NASA afirmând că riscul de coliziune a crescut cu 44%. Din fericire, India a ales totuși un satelit aflat deja pe orbită joasă (este vorba despre satelitul indian Microsat-R, lansat în 24 ianuarie 2019 de o rachetă PSLV), doar 300 km altitudine, dar un test similar efectuat de China în 2007, cu un satelit aflat la 800 km altitudine, s-a soldat cu peste 3000 de fragmente detectabile (diametru de 5 cm sau mai mare), din care peste 2000 au rămas și astăzi pe orbită, iar numărul total de fragmente estimate a fost inițial de peste 100000.
+
+---
+
+Tot India a lansa luni dimineață la ora 06:57, o rachetă PSLV (care poate urca pe orbită joasă până la 3.8 tone) având la bord satelitul militar EMISAT (436 kg), împreună cu alți 27 de sateliți de mici dimensiuni, de la centrul spațial Sarish Dhawan din regiunea Sriharikota. A fost a doua lansare PSLV din 2019 și a 48-a pentru racheta indiană, din 1993 de când a început să fie folosită. O altă lansare PSLV este așteptată să aibă loc în această lună, în timp ce o rachetă GSLV Mk.III, de calibru greu, se pregătește să lanseze la sfârșitul lui aprilie sonda Chandrayaan-2 (misiunea Chandrayaan-2 presupune o sondă pe orbita Lunii, dar și un mic rover, care urmează să ajungă pe suprafață) spre Lună.
+
+---
+
+OS-M, o rachetă orbitală cu combustibil solid a unei companiei private OneSpace din China (pe lângă OneSpace, în China mai există câteva companii private care promit lansări orbitale în acest an: Landspace, iSpace, Linkspace și Exspace, divizia comercială a companiei de stat CASC), a ratat miercurea trecută lansarea inaugurală și nu a mai ajuns în spațiu, satelitul Lingque-1B de la bord fiind pierdut. Anul trecut, racheta suborbitală OS-X a aceleași companii, a fost lansată cu succes de două ori, însă de această dată, treapta secundară a rachetei OS-M a creat probleme și a dus la eșecul misiunii. În octombrie 2018, o altă companie privată chineză LandSpace a ratat și ea să trimită pe orbită racheta Zhuque-1 (cu combustibil solid), după o defecțiune a cea de-a treia treaptă, astfel că va trebui să mai așteptăm până când o companie privată va reuși o lansare orbitală din China.
+
+---
+
+Sâmbătă, la ora 17:50, o rachetă Changzheng-3B a lansat un nou satelit de telecomunicații pentru China, denumit Tianlian-2, de la centrul spațial Xichang. Satelitul va permite comunicații în timp real între centrele de control de la sol și alți sateliți orbitali (inclusiv pentru viitoarea stație spațială sau capsule Shenzhou), fiind o replică a sistemului american TDRSS.
+
+---
+
+A doua din cele trei activități extravehiculare (EVA) (a fost a 45-a EVA pentru costumul PLSS1006 și a 41-a EVA pentru costumul PLSS1008. PLS1006 a ajuns în spațiu în 1981, în al doilea zbor al unei navete spațiale (STS-2, naveta Columbia). În secțiunea americană a ISS sunt în prezent patru costume, din care doar trei funcționale; EVA-urile rusești se fac cu costumele Orlan proprii) din această perioadă, care a avut loc vinerea trecută, trebuia să fie primul din istorie în care ambii astronauții care ar fi ieșit în afara stației spațiale ar fi fost femei. Însă Anne McClain, care a participat într-o astfel de activitate acum două săptămâni împreună cu Nick Hague, a decis că pentru viitoarea ieșire în afara stației s-ar simți mai în siguranță într-un costum de mărime medie, și nu mare, însă singurul astfel de costum aflat la bordul ISS fusese deja configurat pentru Christina Koch. NASA a declarat că reconfigurarea unui astfel de costum durează mai mult decât schimbarea astronauților care i-au parte la activitatea extravehiculară, așa că vineri, Christina Koch a părăsit pentru 6 ore și jumătate stația spațială alături de Nick Hague, iar o activitate extravehiculară formată doar din femei se amână pentru o dată nedefinită. Cei doi au continuat activitățile de acum două săptămâni de înlocuire a acumulatorilor de la bordul ISS, iar o nouă ieșire pe orbită este programată pentru ziua de luni, când Anne McClain, împreună cu astronautul canadian David Saint-Jacques vor efectua ultimele activități legate de înlocuirea bateriilor stației.
+
+---
+
+Racheta Electron a companiei americane RocketLab reușește prima lansare din 2019 (și a patra lansare consecutivă reușită în total), plasând pe orbită un satelit experimental al agenției militare americane DARPA (cu o masă a satelitului de 150 kilograme). Momentan rachetele Electron sunt lansate din Noua Zeelandă, dar RocketLab pregătește o nouă rampă pentru ele la centrul Wallops al NASA, de pe coasta de este a Statelor Unite. Prima treaptă este propulsată de nouă motoare Rutherford care ard kerosen și oxigen lichid, iar a doua treaptă este dotată cu un singur astfel de motor Rutherford. Rocket Lab are planificate încă alte 12 lansări pentru 2019, compania declarând că poate asambla și lansa câte o rachetă Electron pe lună. Electron este o rachetă de calibru ușor, care poate lansa sateliți cu o masă totală de 220 kilograme, pe orbită terestră joasă.
+
+---
+
+La începutul lunii aprilie, avem deja 20 de tentative de lansări orbitale, din care 17 încheiat cu succes. Au fost 2 eșecuri din tot atâtea încercări din Iran și 1 eșec din China. În rest am avut 6 lansări reușite pentru SUA (considerăm aici și lansarea RocketLab din Noua Zeelandă), 3 lansări reușit pentru Europa (Arianespace din Guiana Franceză), 3 pentru China, 2 pentru Rusia (din Kazashatan), 2 pentru India și 1 pentru Japonia. Dintre acestea, 12 au ajuns pe orbită joasă și 5 pe orbită geosincronă. Rachetele Falcon-9, Changzheng și Soyuz au avut fiecare parte de câte trei zboruri până în acest moment.
+
+** Buletin Cosmic nr. 33 :meteor:eva:bennu:osirisrex:vega:boeing:
+:PROPERTIES:
+:EXPORT_FILE_NAME: 033 
+:EXPORT_DATE: 2019-03-27
+:END:
+
+În 18 decembrie anul trecut, un meteor a trecut prin atmosferă cu 32 km/s și a explodat deasupra Mării Bering, la 25.6 km altitudine, degajând o energie de 10 ori mai mare decât explozia bombei atomice de la Hiroshima. Sau 173 kilotone. Sau 40% din energia disipată deasupra orașului rusesc Chelyabinsk în 2013 de un meteorit similar, dar de această dată explozia a avut loc deasupra unei zone nepopulate (motiv pentru care a fost confirmată atât de târziu). A fost a doua cea mai puternică explozie detectată în atmosferă în ultimii 30 de ani, după cea de la Chelyabinsk. Un astfel de eveniment se întâmplă de 2-3 ori pe secol. Explozia a fost descoperită abia acum câteva zile, în timp ce NASA studia datele obținute de sateliții de observații atmosferice.
+
+---
+
+Vineri, astronauții Anne McClain și Nick Hague au părăsit temporar Stația Spațială Internațională pentru a înlocui bateriile care furnizează stației curent electric, când aceasta se află în umbra Pământului. Patru dintre cele șase baterii lansate la bordul capsulei japoneze HTV-7 în septembrie anul trecut au fost înlocuite folosind brațul robotic din afara stației, însă ultimele două au avut nevoie de intervenția astronauților, care au petrecut peste 6.5 ore în costumele de astronauți, în afara ISS. Este prima dintr-o serie de trei astfel de activități extravehiculare programate pentru perioada următoare, următoarea urmând să aibă loc vineri.
+
+--
+
+Asteroidul Bennu, aflat la 100 de milioane de kilometri de Pământ și investigat în aceste zile de sonda americană OSIRIS-REx (lansată în septembrie 2016), este plin de surprize: agenția spațială americană a declarat recent că au fost detectate particule proiectate de pe suprafața acestuia, fără a fi cunoscut deocamdată un mecanism care să provoace acest fenomen. De altfel, echipa de ingineri are probleme în a găsi un loc potrivit pentru prelevarea de probe programată pentru lunile următoare, pentru că suprafața acestuia este mult mai grunjoasă decât se așteptau inițial. OSIRIS-REx urmează să se întoarcă pe Pământ în 2023 și cercetătorii speră ca sondă să nu vină cu mâna goală și să reușească să preleveze probe de pe suprafața asteroidului, care să fie studiate în laboratoarele de pe Pământ.
+
+---
+
+Racheta Vega, cu combustibil sold și patru trepte, a fost dezvoltată de compania europeană Arianespace pentru a-și completa portofoliul de lansatoare. Compania deține un lansator greu, Ariane 5 (și lucrează intens la dezvoltarea Ariane 6), poate opera și rachete Soyuz-2 de calibru mediu și avea nevoie și de un lansator ușor și rapid, așa cum este Vega, care poate urca pe orbită maximum 2.5 tone. Vineri dimineața la ora 03:50 a avut loc a 14-a lansare Vega, cu un satelit de observații italian la bord, denumit PRISMA. Primul zbor, din 2012, avea la bord și primul satelit românesc, Goliat, și de atunci lansatorul nu a suferit nici o problemă în timpul lansării, având astăzi un procentaj de reușită perfect, de 100%. O variantă îmbunătățită a rachetei, denumită Vega-C, va debuta în acest an, prima treaptă a acesteia fiind înlocuită cu una mai puternică, identică cu boosterele auxiliare care vor fi folosite pentru viitoarea rachetă Ariane 6, pregătită să debuteze anul viitor. 
+
+---
+
+“Probabil în cazul Boeing, durata dintre zborul fără echipaj și cel cu echipaj va fi mai scurtă decât în cazul SpaceX, ceea ce înseamnă că încă nu putem spune cu certitudine care companie va lansa primii astronauți, dar suntem încrezători că acest lucru se va întâmpla până la finele lui 2019”― Jim Bridenstine, Administrator NASA, pentru CNBC.
+
+Compania Boeing nu scapă de vești proaste și anunță că este nevoită să amâne primul test al capsulei CST-100 Starliner. Programată inițial pentru aprilie, capsula va fi lansată spre Stația Spațială Internațională abia în august, folosind o rachetă Atlas-V modificată, într-o misiune cu un profil similar cu misiunea DM-1 a companiei SpaceX de la începutul lunii. Această amânare confirmă faptul că Boeing are o întârziere de câteva luni în urma lui SpaceX în ceea ce privește dezvoltarea capsulei care urmează să lanseze din nou astronauți de pe teritoriul Statelor Unite, după ce în 2011 retragerea navetei spațiale a făcut SUA dependente de Rusia și capsulele Soyuz pentru accesul la Stația Spațială Internațională. Nicole Aunapu Mann și Michael Fincke vor fi primii astronauți lansați de Boeing, dar ei nu se vor afla pe rampa de lansare mai devreme de noiembrie 2019. Micheal Fincke l-a înlocuit pe Eric Boe, care făcea inițial parte din primul echipaj Starliner, dar care s-a retras din motive medicale, și este un veteran NASA, cu 381 de zile petrecute pe orbită, fiind prezent și în misiunea STS-134, ultimul zbor al nevetei Endeavour. Pentru Nicole Aunapu Mann va fi primul său zbor orbital.
+
+** Buletin Cosmic nr. 32 :sls:deltaivmedium:apollo:
+:PROPERTIES:
+:EXPORT_FILE_NAME: 032 
+:EXPORT_DATE: 2019-03-20
+:END:
+
+SLS (Space Launch System), viitoarea rachetă de calibru greu dezvolată de agenția spațială americană, a primit săptămâna trecută două lovituri care amenință să anuleze întreg proiectul în care NASA a investit peste 8 ani și 7 miliarde de dolari. În bugetul pe anii viitori al NASA nu se mai menționează nimic cu privire la varianta SLS-1B, care urma să transporte cargo spre orbita terestră joasă, dar și sonde interplanetare de mari dimensiuni (de pildă, spre satelitul jovian Europa). Astfel aceste misiuni ar urma să fie realizate de parteneri privați, precum SpaceX, Blue Origin sau United Launch Alliance. În aceste condiții, SLS ar urma să fie folosită doar pentru lansarea capsulei Orion, care poate transporta până la 7 astronauți pe orbita Pământului sau spre Lună. Primul test al rachetei SLS urma să aibă loc anul viitor, când o capsulă Orion fără echipaj la bord urmează să dea un ocol Lunii, însă administratorul NASA a declarat că dacă SLS nu este gata pentru zborul de anul viitor al capsulei Orion, misiunea ar putea fi executată de parteneri privați. Această abordare însă are unele probleme de logistică și dacă totuși acest lucru se va întâmpla (deși puțin probabil), întreg proiectul SLS va fi pus sub semnul întrebării, pentru că ar înseamnă că nu mai este nevoie de noua rachetă nici măcar pentru lansarea capsulei Orion. În prezent, prima lansare SLS este programată pentru luna iunie a anului viitor.
+
+---
+
+Pentru prima dată după octombrie anul trecut, la bordul Stației Spațiale Internaționale se află din nou un echipaj complet, format din 6 astronauți. Nick Hague, Alexei Ovchinin și Christina Koch au pornit joi, la ora 21:14 spre orbită la bordul capsulei Soyuz MS-12 și au andocat cu modulul rusesc Rassvet al stației în mai puțin de șase ore de la lansarea din Baikonur. De această dată racheta Soyuz-FG a funcționat impecabil și nu au mai fost incidente neplăcute pentru Nick Hague și Alexei Ovchinin, așa cum s-a întâmplat în octombrie, când o problemă cu racheta lansatoare a făcut ca drumul spre orbită să fie oprit dramatic de sistemele de siguranță ale capsulei. Pentru că Rusia are programat în septembrie un zbor comercial al unui turist spațial din Emiratele Arabe Unite, Christina Koch va rămâne la bordul stației spațiale peste cele 6 luni obișnuite și nu va reveni pe Pământ în toamnă, fiind posibil să rămână pe orbită până anul viitor. 
+
+--
+
+O rachetă Delta IV Medium operată de United Launch Alliance a lansat în noaptea de vineri spre sâmbătă un satelit militar de telecomunicații, de pe rampa SLC-37B de la Cape Canaveral, Florida. A fost a 14-a lansare reușită a anului 2019 și a fost penultima lansare Delta IV Medium. Următoarea lansare a acestei rachete, care va fi și ultima pentru această configurație, este programată pentru sfârșitul lunii iulie, când urmează să urce pe orbită un satelit GPS. United Launch Alliance plănuiește să înlocuiască rachetele Atlas V, Delta IV și Delta IV Heavy cu o nouă rachetă, Vulcan, care urmează să debuteze în prima parte a anului 2021. Până atunci, United Launch Alliance va continua să folosească rachetele Atlas V și Delta IV Heavy, care mai au programate câte 23, respectiv 4 zboruri înainte de a fi înlocuite de Vulcan. 
+
+--
+
+NASA a selectat săptămâna trecută nouă echipe de cercetători care vor avea ocazia să studieze un set de probe aduse de pe Lună de echipajele Apollo, care au fost sigilate imediat după prelevare sigilate și care până în prezent nu au fost desfăcute și expuse atmosferei Pamântului. Acest lucru s-a făcut tocmai pentru ca probele să beneficieze de tehnici de analiză moderne, care nu existau acum 50 de ani. Între 1969 și 1972, astronauții din programul Apollo au adus pe Pământ 382 de kilograme de roci și sol lunar.
+
+** Buletin Cosmic nr. 31 :dragon2:soyuz:ms10:eva:insight:change4:changzheng:deltaivmedium:
+:PROPERTIES:
+:EXPORT_FILE_NAME: 031 
+:EXPORT_DATE: 2019-03-13
+:END:
+
+După ce a petrecut 5 zile andocată cu Stația Spațială Internațională, capsula Dragon-2 s-a decuplat sâmbătă de modulul Harmony și a revenit cu bine pe Pământ. Revenirea prin atmosferă a fost una dintre etapele critice ale misiunii: capsula risca să fie destabilizată din cauza formei sale atipice, iar o defecțiune la sistemul de stabilizare și frânare cu parașute risca să amâne și mai mult viitoarea misiune cu echipaj la bord. Dar NASA a declarat că nimic din datele achiziționate până acum din misiunea demonstrativă a companiei SpaceX nu îi va face să recomande amânarea primului zbor cu astronauți la bord, programat să aibă loc peste câteva luni.
+
+---
+
+La Baikonur, în Kazahstan, capsula Soyuz MS-12 se pregătește pentru lansarea de mâine de la ora 21:14. Alexei Ovchinin și Nick Hague vor încerca să ajungă din nou în spațiu, după tentativa nereușită cu Soyuz MS-10 din 11 octombrie 2018, în care o defecțiune a rachetei Soyuz-FG a făcut ca misiunea celor doi să se termine mult mai repede decât anticipaseră și aproape dramatic. Christina Koch li se va alătura celor doi, în primul său zbor orbital, urmând ca ea să rămână la bordul stației până cel mai devreme în decembrie și să devină astfel a doua cea mai longevivă femeie prezentă continuu la bordul ISS, după Peggy Whitson, dacă nu cumva revenirea ei pe Pământ va avea loc în primăvara anului viitor.
+
+---
+
+NASA pregătește o activitate extravehiculară de la bordul Stației Spațiale Internaționale formată exclusiv din femei, care va avea probabil loc la sfârșitul lunii. De obicei, operațiunile extravehiculare sunt efectuate de doi astronauți, dar deși până acum prezența unei femei într-o astfel de echipă nu era deloc un lucru neobișnuit de-a lungul ultimilor ani, niciodată două femei nu au părăsit simultan Stația Spațială Internațională sau un alt vehicul orbital. Anne McClain și Christina Koch vor fi cele două femei care vor realiza această premieră. NASA a declarat că nu a plănuit acest lucru, ci componența echipei care va efectua activitatea extravehiculară de rutină a rezultat natural, datorită componenței echipajului aflat pe orbită.
+
+---
+
+HP3, unul dintre instrumentele pe care sonda InSight le-a așezat recent pe Marte, trebuia să pătrundă 5 metri în solul marțian, pentru măsurări de temperatură. Însă după doar 50 de centimetri, sonda a dat de pietre și s-a blocat. Inginerii germani care controlează experimentul vor lua o decizie peste două săptămâni despre cum vor continua operațiunile de foraj. InSight a ajuns pe Marte în 26 noiembrie 2018.
+
+---
+
+Sonda chineză Chang’e-4 s-a trezit din hibernare la începutul lunii Martie și se află în prezent în cea de-a treia zi lunară a misiunii sale. Yutu-2 s-a reactivat cu câteva ore mai devreme decât platforma staționară, însă din păcate nu avem deocamdată imagini noi de pe fața nevăzută a Lunii, dar un lucru este sigur: misiunea Chang’e-4 continuă să fie un succes pentru programul spațial chinezesc.
+
+---
+
+A 300-a lansare pentru o rachetă Changzheng a avut loc sâmbătă și a urcat pe orbită satelitul Chinasat-6C. Prima lansare a unei astfel de rachete a avut loc în anul 1970 iar în prezent China se află în plin proces de reînnoire a flotei de lansatoare, urmând ca rachetele Changzheng 2,3,4 folosite astăzi să fie înlocuite cu Changzheng 5,6,7 și în același timp se lucrează și la un lansator supergreu, Changzheng-9, cu care China plănuiește să ajungă pe Lună sau Marte. Merită să remarcăm un aspect interesat: primele 100 de lansări Changzheng au fost realizate în 37 de ani, următoarele 100 în 7 ani și jumătate iar ultimele 100 în doar 4 ani.
+
+---
+
+O lansare a unei rachete Delta IV cu un satelit militar la bord care trebuia să aibă loc astăzi de pe rampa SLC-37B de la Cape Canaveral, Florida, a fost amânată pentru noaptea de vineri spre sâmbătă. Tot atunci, la câteva zeci de minute distanță, este programată și o nouă lansare a rachetei europene Vega (de calibru ușor), din Guiana Franceză, cu satelitul italian de observații PRISMA. Va fi a 14-a lansare pentru racheta Vega, folosită de compania europeană Arianespace din 2012.
+
+** Buletin Cosmic nr. 30 :falcon9:dragon2:iss:
+:PROPERTIES:
+:EXPORT_FILE_NAME: 030 
+:EXPORT_DATE: 2019-03-06
+:END:
+
+Sâmbătă dimineața, la ora 09:49:03 fix, de pe rampa LC-39A de la centrul spațial Kennedy a decolat o rachetă Falcon 9 cu o misiune cu totul specială. În vârful rachetei s-a aflat prima capsulă Dragon-2 sau Crew Dragon, proiectată de compania SpaceX pentru a transporta astronauți pe orbită. Nu au fost astronauți la bord vineri, doar un manechin dotat cu o mulțime de senzori și botezat Ripley, dar dacă misiunea se desfășoară fără incidente, în câteva luni Statele Unite vor lansa din nou astronauți, după o pauză de peste 2800 de zile.
+
+---
+
+În 8 iulie 2011, naveta spațială Atlantis a fost ultimul vehicul care a lansat astronauți americani în spațiu, după retragerea flotei de navete NASA fiind nevoită să cumpere locuri în capsula Soyuz pentru a ajunge pe Stația Spațială Internațională. Însă acest lucru se va schimba în curând, datorită programului de stimulare a sectorului privat pentru a veni cu soluții în ceea ce privește lansarea astronauților pe orbita terestră joasă.
+
+---
+
+Revenind la lansarea de sâmbătă, aceasta a decurs fără probleme și prima treaptă a rachetei Falcon 9 a revenit pe barja OCISLY din Atlantic. De obicei lansările capsulei Dragon se soldau cu recuperarea la sol a treptei primare, însă de această dată SpaceX a vrut să se asigure că are la bord combustibil suficient pentru a contracara orice problemă care ar fi putut apărea în timpul primei faze a zborului. Capsula a ajuns cu bine pe orbită și conul protector care a protejat sistemul de andocare în primele faze ale zborului s-a desfăcut, ceea ce însemna ca Dragon este gata pentru andocare. Capacul conului se va închide după decuplarea de Stația Spațială Internațională, pentru a proteja mecanismul de andocare la trecerea capsulei prin atmosferă, pentru că Dragon-2 urmează să fie refolosită.
+
+---
+
+Andocarea a avut loc duminică la prânz și a marcat o nouă premieră pentru SpaceX. Dacă până acum capsulele Dragon se apropiau de Stația Spațială Internațională și erau preluat de brațul robotic Canadarm2 al stației, care le plasa în sasul de andocare, Dragon2 este dotată cu un soft care îi permite să andocheze direct cu modulul american Harmony, fără intervenția echipajului și fără folosirea brațului robotic. Această procedură a fost contestată de partea rusă din motive de siguranță, dar după implementarea unor instrucțiuni suplimentare în soft pentru anularea andocării în cazul în care unii parametri nu erau conformi înainte de andocare, Roscosmos a acceptat andocarea directă a capsulei Dragon la stație și aceeași procedură va fi urmată și în misiunile viitoare. Andocarea s-a realizat la sasul IDA-2 cuplat la modulul Harmony, componentă lansată tot de o capsulă Dragon în 2016, după ce în 2015 o tentativă similară s-a încheiat cu explozia rachetei Falcon 9 la 139 de secunde după lansare.
+
+---
+
+Primul zbor Dragon-2 a fost practic un test al diverselor componente ale capsulei, de la sistemul de andocare la softul de la bord sau propulsie sau navigație. Următorul zbor orbital al unei astfel de capsule va avea loc peste câteva luni și va avea la bord un echipaj format din doi astronauți Bob Behnken și Douglas Hurley, ambi veterani, cu câte două zboruri cosmice la activ. Programat pentru această vară, este foarte probabil ca data să fie amânată spre iarnă sau chiar pentru 2020. Până atunci, luna viitoare SpaceX va testa sistemul de salvare al capsulei folosind motoarele SuperDraco incorporate în structura capsulei, care ar urma să salveze echipajul în cazul unei probleme în timpul lansării cu propulsorul Falcon 9 (așa cum s-a întâmplat în cazul lansării capsulei Soyuz MS-10 din octombrie 2018).
+
+---
+
+Dragon-2 va părăsi Stația Spațială Internațională vineri și va reveni în apele Oceanului Atlantic, testând astfel sistemul de reintrare în atmosferă și parașutele care vor frâna capsula înainte de impactul cu apa oceanului. Dragon-2 va aduce înapoi pe Pământ experimente științifice, dar și părți ale unui costum de astronaut care trebuie reparate. Pe lângă echipaj, Dragon-2 va putea transporta și provizii și experimente cu o masă totală de 50 de kilograme spre și dinspre stația spațială.
+
+---
+
+Boeing are o întârziere de câteva luni față de SpaceX, având primul zbor test fără echipaj programat pentru această vară, urmând ca primii astronauți să urce la bordul capsulei CST-100 Starliner (și propulsată de o rachetă Atlas V modificată în acest sens) abia anul viitor. Atât Dragon-2 cât și Starliner vor putea lansa în viitor câte 7 astronauți, marcând astfel sfârșitul monopolului capsulei Soyuz în ceea ce privește lansările de echipaj spre Stația Spațială Internațională.
+
+** Buletin Cosmic nr. 29 :falcon9:beresheet:spacex:iss:soyuz:
+:PROPERTIES:
+:EXPORT_FILE_NAME: 029 
+:EXPORT_DATE: 2019-02-27
+:END:
+
+Avionul spațial VSS Unity al Virgin Galactic a realizat vineri cel mai ambițios zbor al său, urcând până la o altitudine de 89.9 kilometri și atingând o viteză de peste mach 3, în primul test efectuat în acest an. Pe lângă cei doi piloți, la bord s-a aflat și Beth Moses, primul turist al companiei Virgin Galactic. Acum rămâne de discutat dacă este și primul turist spațial al companiei, pentru că după unele definiții folosite în SUA, spațiul ar începe după o altitudine de 80 km, ceea ce înseamnă că zborul de vineri a fost primul zbor spațial al VSS Unity, în timp ce organismele internaționale consideră că spațiul începe după linia von Karman, adică dincolo de 100 km (definiție ce va fi discutată în viitorul apropiat). Oricum, VSS Unity a realizat un zbor suborbital, dar pentru Richard Bransons este important ca Virgin Galactic să își poată trece în palmares primul turist spațial lansat de pe teritoriul SUA, înaintea lui Jeff Bezos, care își dorește același lucru și care a promis primii turiști suborbitali în 2019, dar într-o altă abordare, folosind capsula New Shepard.
+
+---
+
+Tot vineri, o rachetă Falcon 9 aflat la cel de-al treilea zbor a lansat pe orbită un satelit indonezian, dar vedeta lansării a fost o mică sondă israeliană care în aceste zile își face avânt, folosind gravitația terestră, pentru a ajunge pe… Lună! Dacă misiunea va decurge conforma planului, sonda Beresheet va fi prima sondă privată care va aseleniza, probabil în data de 11 aprilie. Durează 40 de zile până când sonda va ajunge pe orbita Lunii, unde va mai petrece câteva zile pregătindu-se să coboare în Mare Serenitatis, de unde așteptăm nu doar imagini, dar și date științifice. Beresheet va fi activă doar 2-3 zile pe suprafața Lunii și a costat 100 de milioane de dolari, o sumă modică având în vedere complexitatea misiunii.
+
+---
+
+Treapta primară (B1048) care a lansat satelitul indonezian și sonda selenară Beresheet a fost recuperat pe barja Of Course I Still Love You din Atlantic și urmează să fie folosit în aprilie pentru a patra și ultima dată, într-un test de anulare a unei lansări pentru capsula Dragon-2. Aceasta se va desprinde de rachetă și își va activa motoarele SuperDraco, simulând un incident nefericit și depărtându-se de racheta care probabil nu va supraviețui acestui test. Este însă un pas important în validarea sistemelor de siguranță așe capsulei Dragon-2, înainte de primele zboruri cu echipaj uman.
+
+---
+
+Până în aprilie însă, sâmbătă SpaceX are de trecut un test important sâmbătă, prima lansare a unei capsule Dragon-2 spre Stația Spațială Internațională. Este un test crucial al noului vehicul care este identic cu cel care urmează să lanseze americani pe orbită peste câteva luni. Dragon-2 va andoca direct cu ISS, nu prin intermediul brațului robotic, așa cum se întâmpla cu versiunea precedentă a capsulei, și de această dată va petrece doar 8 zile pe orbită. După perioada petrecută în spațiu, capsula care reveni pe Pământ în apele oceanului Atlantic, testând și sistemul de parașute, care nu este tocmai conform cu cerințele NASA, așa cum relevă un raport recent. Planificate pentru această vară, lansările americane cu echipaj uman, derulate de companii private ar putea fi amânate până spre finalul anului și nu cred că ar reprezenta o surpriză pentru nimeni dacă acestea ar avea loc până la urmă în 2020. Ultima lansare de astronauți din SUA a avut loc în 8 iulie 2011, cu ocazia ultimului zbor al navetei spațiale.
+
+---
+
+Și tot vineri, 22 februarie, prima lansare a unei rachete Soyuz din acest an era să se încheie prost, datorită unei probleme la a doua treaptă a rachetei, însă a treia treaptă (Fregat) a reușit să corecteze orbita greșită și să salveze astfel lansarea satelitului militar egiptean EgyptSat-A. Acest incident a dus la amânarea cu o zi a lansării unei rachete Soyuz din Guiana Franceză de către compania europeană Arianespace și probabil nu va afecta viitoarea lansare a capsulei Soyuz MS-12, programată pentru 14 martie. Soyuz MS-12 are un echipaj format din trei astronauți: Alexei Ovchinin și Nick Hague (protagoniștii lansării ratate Soyuz MS-10 din noiembrie, în urma căreia cei doi au scăpat nevătămați chiar dacă racheta Soyuz s-a dezintegrat la scurt timp după lansare) cărora li se adaugă și astronautul american Christina Koch.
+
+** Buletin Cosmic nr. 28 :opportuniy:marte:mer:
+:PROPERTIES:
+:EXPORT_FILE_NAME: 028 
+:EXPORT_DATE: 2019-02-20
+:END:
+
+Săptămâna trecută, NASA a anunțat într-o conferință de presă că suspendă eforturile de a mai contacta roverul Opportunity, după ce aceasta a transmis ultimul semnal radio spre Pământ în 10 iunie 2018. Vara trecută, pe Marte, a avut loc una dintre cele mai mari puternice furtuni din ultimele decenii, furtună care a cuprins întreaga planetă, ridicând în atmosferă cantități impresionanate de praf și blocând astfel razele soarelui să încarce acumulatorul de la bordul lui Opportunity, prin intermediul panourilor solare. Așadar, fără lumină solară, roverul a fost lipsit de electricitate și probabil până la finalul furtunii, care s-a mai domolit la finalul lunii iulie, acumulatorul de la bord s-a descărcat complet, făcând astfel imposibilă funcținoarea computerului de bord, a instrumentelor științifice sau a echipamentelor de comunicație.
+
+Roverul Opportunity a reprezentat însă una dintre cele mai de succes povești de explorare interplanetară a agenției spațiale americane. Lansat în 2003, a ajuns pe suprafața planetei Marte în 25 ianuarie 2004, în zona denumită Meridiani Planum, la câteva săptămâni distanță de Spirit, un rover geamăn care a amartizat pe cealaltă parte a planetei Marte și care a încetat să mai funcționeze după 6 ani. Planul inițial a fost ca cele două rovere să fie active pentru 90 de zile și să parcurgă o distanță de 600 de metri (inițial 300 metri, dar exista riscul ca misiunea să nu fie finanțată în aceste condiții, așa că cercetătorii au riscat și au promis 600 metri). Opportunity a supraviețuit însă peste 14 ani pe suprafața lui Marte și a parcurs nu mai puțin de 45.16 km o distanță mai lungă decât un maraton și în același timp cea mai mare distanță parcursă de un vehicul pe un alt corp ceresc decât Pământul, mai mult chiar decât roverul selenar sovietic Lunokhod-2 din 1973 sau decât au condus astronauții roverele selenare din programul Apollo. Acest lucru a fost posibil datorită curenților de aer din atmosfera marțiană care regulat curățau de praf panourile solare, fenomen care nu a fost prevăzut de inginerii NASA înaintea misiunii. Întreaga misiune a roverelor Spirit și Opportunity a costat agenția spațială americană aproximativ 1 miliard de dolari, pe întreaga sa durată de-a lungul celor 15 ani.
+
+Una dintre cele mai importante descoperiri făcute de Spirit și Opportunity, dincolo de subtilitățile geologice care i-au bucurat pe cercetători, a fost obținerea de dovezi clare ale existenței apei în formă lichidă la suprafața planetei Marte în trecutul geologic al acesteia, datorită mineralelor descoperite în solul marțian, care nu s-au putut altfel forma decât în prezența apei în stare lichidă.
+
+În prezent pe Marte se mai află un rover, Curiosity, de dimensiuni mai mari decât Spirit și Opportunity, ajuns pe Planeta Roșie în august 2012. Acesta are la bord un generator termoelectric cu plutoniu care-i permite să fie independent de condițiile atmosferice și să funcționeze fără să aibă nevoie de lumina solară, așadar nu a fost afectată de furtuna de anul trecut. Cu toate acestea, este posibil ca roverul Curiosity să nu depășeacă recordul de anduranță stabilit de Opportunity, datorită degradării generatorului de la bord. Tot pe Marte se găsește și sonda staționară InSight, ajunsă în noiembrie anul trecut, iar în 2020 NASA urmează să lanseze un nou rover, denumit deocamdată provizoriu Mars 2020, asemănător cu actualul Curiosity, dar care va fi dotat și cu o mică dronă care va putea zbura și survola astfel împrejurimile, iar roverul va putea și să colecteze eșantioane de sol marțian, pe care să le lasă în urma sa și care să fie colectate de un viitor rover care le va putea aduce pe Pământ, pentru studii detaliate.
+
+Între timp, pe orbita planetei Marte există în prezent o mică flotă de 6 sateliți, care studiază suprafața și atmosfera marțiană, dar care pot să funcționeze și ca releu de comunicații pentru sondele aflate la sol. Avem așadar doi europeni (Mars Express și Trace Gas Orbiter), unul indian (Mars Orbiter Mission sau Mangalyaan) și trei americani: Mars Odyseey (cea mai veche sondă activă aflată pe orbita lui Marte), Mars Reconaissance Orbiter și MAVEN iar pentru 2020 sunt programate lansări noi misiuni din SUA, Europa, China, India și… Emiratele Arabe Unite.
+
+** Buletin Cosmic nr. 27 :iran:ariane5:change4:cygnus:ns10:rosalindfranklin:exomars:
+:PROPERTIES:
+:EXPORT_FILE_NAME: 027 
+:EXPORT_DATE: 2019-02-13
+:END:
+
+Compania Mars One, care din 2012 promite călătorii spre Marte, a intrat în faliment. Aceasta a vândut chiar și bilete în acest sens datorită unor campanii media agresive și o expunere pe măsură, fiind susținută public și de un laureat al premiului Nobel pentru fizică, Gerard t’Hooft. Potrivit planurilor inițiale, primii coloniști ar fi urmat să ajungă pe Marte în 2023, însă compania nu a oferit niciodată detalii tehnice cu privire la planurile sale sau mijloacele prin care doritorii ar fi ajuns pe Marte sau cum ar fi supraviețuit acolo, deși aproape un milion de dolari au fost adunați doar din donații, fără a socoti vânzările de bilete. Compania nu a făcut niciodată publice datele financiare detaliate sau număr de bilete vândute, dar cei care au investit în Mars One pot să fie acum siguri că nu vor ajunge prea curând pe Marte. Sau, cel puțin, nu cu ajutorul lui Mars One.
+
+---
+
+După o lansare eșuată a unui satelit în 15 ianuarie, Iranul a ratat săptămâna trecută și a doua tentativă de a trimite un satelit pe orbită în acest an. Satelitul, denumit Dusti, trebuie să fie, conform declarațiilor oficiale, un satelit civil de observare a suprafeței Pământului, însă regimul de la Teheran este acuzat de puterile occidentale că folosește programul spațial pentru a-și dezvolta rachete de atac cu rază lungă de acțiune. Totuși modelul de rachetă folosit în cele două lansări nu pare să aibă aplicații militare.
+
+---
+
+Marți, o rachetă europeană Ariane 5 a început cu dreptul anul 2019 și a lansat doi sateliți de telecomunicații pe orbită geostaționară: Hellas Sat 4 (construit de Lockheed Martin pentru Grecia și Arabia Saudită) și GSAT-31 (satelit indian). Lansarea a avut loc, ca de obicei, de la centrul spațial european de la Kourou, Guiana Franceză, de unde lansările de sateliți geostaționari pot profita la maximum de apropierea de Ecuator, ce se traduce prin consum mai redus de combustibil și, deci, performanțe sporite ale rachetei comparativ cu lansări de la latitudini superioare. A fost a 103-a lansare pentru Ariane 5 și a 70-a lansare în configurația ECA, singura rămasă activă, capabilă să urce pe orbită geostaționară peste 11 tone.
+
+---
+
+Sonda chinezească Chang’e-4 aflată pe fața îndepărtată a Lunii din 3 ianuarie 2018 a intrat din nou în hibernare luni, pregătindu-se să înfrunte noaptea lunară care durează aproximativ 14 zile. În noaptea precedentă, temperaturile în craterul von Karman au scăzut până la -190 de grade Celsius, mai jos decât se așteptau inginerii chinezi, dar atât platforma staționară, cât și roverul Yutu-2 sunt pregătiți să facă față condițiilor meteo selenare. Yutu-2 este într-o stare bună și a parcurs 120 de metri pe suprafața Lunii, deja cu 6 metri mai mult decât a reușit în total primul rover Yutu, ajuns pe Lună în decembrie 2013 împreună cu sonda Chang’e-3. Chang’e-4 se va trezi din hibernare la 1 martie, în timp ce Yutu-2 cu o zi mai devreme, pentru a continua explorarea feței îndepărtate a Lunii. China plănuiește o nouă misiune selenară la finalul acestui an, Chang’e-5, care urmează să aducă înapoi pe Pământ eșantioane de probe de pe suprafața Lunii.
+
+---
+
+După ce 83 de zile capsula Cygnus NS-10 S.S. John Young a fost andocată cu modulul Unity al Stației Spațiale Internaționale, vineri brațul robotic a decuplat vehiculul, care ulterior s-a depărtat de avanpostul orbital. Acesta va mai petrece câteva zile pe orbită pentru a derula o serie de experimente științifice, înainte de a plonja distructiv în atmosfera Pământului în 25 februarie, încărcată cu 2.5 tone de deșeuri. Cygnus-10 a transportat anul trecut peste 3.3 tone de provizii și experimente științifice spre orbită, fiind alături de capsula Dragon de la SpaceX modalitatea prin care SUA poate alimenta stația spațială. Următoarea misiune Cygnus, lansată de o rachetă Antares, este programată pentru 17 aprilie.
+
+---
+
+Agenția Spațială Europeană a decis ca viitorul rover, care va ajunge pe Marte în 2021 în căutare de ADN extraterestru, să poarte numele lui Rosalind Franklin, cercetătoarea care a avut o contribuție importantă la descoperirea structurii moleculare a ADN-ului aici pe Pământ. Roverul va reprezenta a doua parte a misiunii ExoMars, după ce în 2016, prima parte a misiunii, agenția spațială europeană reușea trimiterea unui satleit pe orbita lui Marte, denumit Trace Gas Orbiter, care urmează să fie folosit pentru observații științifice, dar și ca releu de comunicare pentru viitorul rover european.
+
+** Buletin Cosmic nr. 26 :deltaivheavy:parker:change4:raptor:meteor:meteorit:
+:PROPERTIES:
+:EXPORT_FILE_NAME: 026 
+:EXPORT_DATE: 2019-02-06
+:END:
+
+Sonda Parker, lansată în 12 august 2018 de o rachetă Delta IV Heavy, a încheiat săptămâna trecută prima sa orbită în jurul Soarelui, colectând deja peste 17 gigabiți de date despre coroana solară și vântul solar. În 4 aprilie, Parker va trece din nou la doar 24 milioane de km distanță de suprafața soarelui, așa cum s-a întâmplat și în 16 noiembrie anul trecut, marcând astfel cel de-al doilea periheliu, adică punctul de pe orbită cel mai apropiat de Soare. În total, Parker urmează să aibă parte de 24 de treceri prin periheliu timp de 6 ani, punct care în viitor se va apropia tot mai mult de Soare, lucru care va însemna și o viteză din ce în ce mai mare a sondei, care a devenit deja în noiembrie anul trecut cel mai rapid obiect construit de om, după ce a atins o viteză de peste 343000 km/h
+
+---
+
+După ce sonda chinezească Chang’e-4 a ajuns la începutul anului pe fața nevăzută a Lunii, aceasta, împreună cu roverul Yutu-2 au intrat în hibernare, pentru că în timpul nopții lunare, care durează 14 zile, temperaturile au coborât până la -190 de grade, mai rece decât se așteptau inginerii chinezi. În prezent, de câteva zile, roverul și platforma sunt din nou active și beneficiază de temperaturi ceva mai ridicate, care le permit să funcționeze normal și să trimită date științifice pe Pământ. Change-4 nu este singura sondă chineză de pe Lună, Change-3 lansată în decembrie 2013, se află în continuare pe fața văzută a Lunii, însă activitatea sa a fost suspendată, pentru a da prioritate sondei Change-4.
+
+---
+
+Aproximativ 11 litri de apă s-au scurs luni în interiorul Stației Spațiale Internaționale în timp ce echipajul pregătea toaleta de la bord pentru un upgrade al sistemului de transfer al urinei. Incidentul a fost unul minor și s-a rezolvat folosind câteva prosoape existente la bord, dar subliniază încă o dată provocările de care au parte astronauții aflați pe orbită. Noul sistem de transfer al urinei urmează să fie lansat la bordul stației spațiale în cursul acestui an. Următoarea lansare a unei capsule spre Stația Spațială Internațională este programată pentru finalul acestei luni, când o rachetă Falcon 9 va lansa noua capsulă Dragon-2, într-un test al vehiculului care în această vară urmează să lanseze pentru prima dată după 2011 astronauți de pe teritoriul Statelor Unite (asta pentru că după renunțarea la navetele spațiale, astronauții americani folosesc capsulele rusești Soyuz pentru a ajunge în spațiu).
+
+---
+
+Duminică Elon Musk anunța primul test al noului motor Raptor care, după spusele fondatorului SpaceX, urmează să propulseze viitoarea rachetă Starship. Teste ale unor versiuni precedente ale motorului Raptor au avut loc și în trecut, dar este pentru prima dată când a fost testată o variantă a motorului care va fi folosită efectiv pentru propulsia unei rachete. Testul a durat doar 2 secunde și puterea motorului a fost limitată la aproximativ 60% din specificațiile tehnice. Raptor este unul dintre cele mai complexe și mai avansate motoare de rachetă din lume, fiind proiectat să fie reutilizabil și alimentat cu metan. Elon Musk nu a ales la întâmplare metanul: acest gaz poate fi produs pe Marte printr-o reacție chimică între dioxidul de carbon din atmosferă și hidrogenul care poate fi obținut prin hidroliza apei, așadar viitorii astronauți care vor ajunge pe Planeta Roșie nu vor fi nevoiți să transporte cu ei și combustibilul necesar revenirii pe Pământ.
+
+---
+
+Vineri, un meteorit de mici dimensiuni s-a prăbușit în Cuba, după ce a brăzdat cerul pe direcția sud-nord. Energia disipată de acesta a fost de 100 de ori mai mică decât energia meteoritului de la Cheliabinsk (echivalentă cu explozia a 500 de mii de tone de TNT), care în 15 februarie a rănit aproape 1500 de oameni și a afectat peste 7000 de clădiri. Meteoritul de vineri a avut un diametru inițial de 4 metri, în timp ce meteoritul Cheliabinsk a fost estimat la un diametru de 20-30 de metri.
+
+** Buletin Cosmic nr. 25 :progress:ms09:pslv:microsatr:newshepard:blueorigin:
+:PROPERTIES:
+:EXPORT_FILE_NAME: 025 
+:EXPORT_DATE: 2019-01-25
+:END:
+
+Vineri, 1 februarie, se împlinesc 16 de când naveta spațială Columbia se dezintegra deasupra Statelor Unite, la revenirea prin atmosferă după încheierea misiunii STS-107, datorită unei avarii a sistemului de protecție termică, avarie produsă în timpul lansării dar nedetectată la timp. Cei 7 astronauți de la bord și-au pierdut viața și această tragedie a dus la grăbirea retragerii din uz a navetelor spațiale, considerate nesigure. De fapt, NASA se află la finalul unei perioade de comemorare a astronauților pierduți, pentru că în 27 ianuarie s-au împlinit 52 de ani de la incendiul care a dus la pierderea echipajului misiunii Apollo 1, într-un test premergător lansării, efectuat la sol, iar în 28 ianuarie s-au împlinit 33 de ani de la pierderea echipajului misiunii STS-51-L, când naveta spațială Challenger s-a dezintegrat la 73 de secunde după lansare.
+
+---
+
+Vineri s-au împlinit 15 ani de când roverul american Opportunity a ajuns pe Marte, dar, din păcate, ultimul semnal radio primit de la Opportunity a fost în 10 iunie 2018. Furtuna care a curpins întreaga planetă Marte a ridicat în atmosferă cantități impresionante de praf, care au blocat astfel lumina solară să încarce acumulatorul roverului. Cu fiecare zi care trece, șansele ca Opportunity să redevină activ scad, deși echipele de ingineri de la sol continuă să-i trimită comenzi prin rețeaua Deep Space Network, în speranța că poate roverul mai are resurse să răspundă. În cei 15 ani petrecuți pe Marte, Opportunity a parcurs 45.16 kilometri, mai mult decât oricare alt rover trimis pe vreun corp ceresc (pe locul doi se află Lunokhod 2 care în 1973 a parcurs 39 de kilometri pe Lună). Spirit, roverul geamăn, a ajuns pe pe Marte cu 21 de zile mai devreme, în 4 ianuarie 2004, dar a încetat să mai trimită semnale pe Pământ în 22 martie 2010, după ce a rămas blocat în nisipul marțian într-o poziție care nu-i permite să-și încarce optim acumulatorul de la bord. Curiosity, roverul care a ajuns pe Marte în 6 august 2012 continuă să fie funcțional, acesta nefiind afectat de furtunile marțiene pentru că nu depinde de lumina soarelui pentru energie, având la bord un generator termoelectric cu plutoniu.
+
+---
+
+Nava cargo Progress MS-09 s-a desprins vineri la ora 14:55 de modulul Pirs al Stației Spațiale Internaționale și a plonjat în Oceanul Pacific patru ore mai târziu. Progress MS-09 a fost lansată în 9 iulie 2018 și a transportat pe stația spațială peste 2.5 tone de provizii și echipamente științifice, fiind principalul mijloc de aprovizionare al avanpostului orbital, alături de capsula japoneză HTV (lansată însă destul de rar) și capsulele americane Dragon și Cygnus. După plecarea Progress MS-09, la stația spațială au rămas atașate capsula Cygnus-10 (lansată în 15 noiembrie 2018), Progress MS-10 (lansată în 16 noiembrie 2018) și Soyuz MS-11 (lansată în 3 decembrie 2018).
+
+---
+
+India a lansat joi prima rachetă din 2019, având la bord un satelit militar, Microsat-R, cu o masă de peste 700 kilograme. Racheta PSLV (Polar Satellite Launch Vehicle) a zburat pentru prima dată în configurația PSLV-DL, care presupune două boostere auxiliare, folosite în momentul lansării. A fost al 45-lea zbor pentru racheta indiană PSLV, care mai are programate încă alte 3 lansări pentru acest an.
+
+---
+
+Săptămâna trecută compania Blue Origin a reușit al zecelea zbor test la vehiculului suborbital New Shepard, care își propune să transporte 6 turiști în spațiu (adică la peste 100 km altitudine, dar nu pe orbită) la finalul acestui an contra sumei de aproximativ $300,000. New Shepard este un vehicul reutilizabil, compus dintr-o rachetă propulsată de un motor BE-3 și o capsulă care odată ajunsă la altitudinea maximă, revine pe Pământ folosind un sistem de parașute, în timp ce racheta revine controlat pe rampa de lansare. Pentru a pune lucrurile în perspectivă, o rachetă Falcon 9 (de la SpaceX) care revine la sol după o lansare orbitală are o înălțime e 70 de metri și este propulsată de 9 motoare Merlin, în timp ce New Shepard are o înălțime de 18 metri și folosește un singur motor BE-3 de putere net inferioară.
+
