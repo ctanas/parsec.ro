@@ -376,7 +376,7 @@ Este doar începutul unei serii interesante de lansări pentru China în acest a
 [fn^ch3]: CALT — *China Academy of Launch Vehicle Technology*
 [fn^ch4]: **Changzheng-2** (din 1974) are 6 variante, din care trei (2, 2A, 2E sunt retrase) iar restul de trei (2C, 2D, 2F—singura certificată pentru zboruri cu echipaj, fiind proiectată pentru capsula Shenzhou) sunt încă active; **Changzheng-3** a fost folosită de 13 ori între 1984 și 2000 și din 1994 are și variantele Changzheng-3A (folosită de 27 de ori, fără să înregistreze nici un eșec), Changzheng-3B (din 1996, care ulterior a evoluat în 3B/E, fiind cea mai puternică rachetă din generația veche) și Changzheng-3C (din 2008); **Changzheng-4** are și ea trei variante: Changzheng-4A (folosită de două ori, în 1988 și 1980), Changzheng-4B (activă din 1999) și Changzheng-4C (activă din 2006).
 [^5]: China are 4 centre de lansări orbitale: **Jiuquan** (Mongolia Interioară) —cel mai folosit centru de lansare din China, are trei sectoare, din care doar unul are două rampe active, una pentru Changzheng-2F, iar alta pentru Changzheng-2C, 2D și 4C; **Xichang** (regiunea Sichuan) —are două rampe active, folosite în special pentru lansări de sateliți geostaționari, pentru rachetele Changzheng-2E, 3A, 3B și 3C, respectiv Changzheng-2C, 3, 3A și 3B; **Taiyuan** (regiunea Shanxi) —folosit în special pentru lansări de sateliți heliosincroni, are trei rampe, folosite pentru rachetele Changzheng 1D, 2C, 4A, 4B, 4C, Changzheng 2C, 4B, 4C și respectiv Changzheng-6; **Wenchang** (insula Hainan) —cel mai nou centru de lansări orbitale, construit special pentru noua generație de rachete, Changzheng-5 și Changzheng-7.
-** TODO Programul spațial indian
+** Programul spațial indian
 :PROPERTIES:
 :EXPORT_FILE_NAME: india 
 :END:
@@ -434,13 +434,23 @@ Sunt planificate patru variante pentru ULV:
 
 După ce noua rachetă va deveni operațională, India dorește și o versiune grea a acesteia, denumită HLV, care va fi capabilă să lanseze 10 tone pe GTO
    
-
 *** Sonde interplanetare
 **** Chandrayaan-1
+În 22 octombrie 2008, sonda Chandrayaan-1 pornea spre Lună, la bordul unei rachete PSLV-XL. Câteva zile mai târziu, în data de 8 noiembrie, 2008, Chandrayaan-1 intra pe orbita selenară. Moon Impact Probe, un proiectil de 35 de kilograme, desprins din sonda orbitală, a pornit spre suprafața Lunii 6 zile mai târziu și a lovit Luna în apropierea craterului Shakelton. Solul ejectat în urma impactului a fost analizat de sonda aflată pe orbită.
 
-**** Mangalayaan
+Designul sondei s-a făcut după satelitul meteorologic Kalpansat: un cub cu latura de 1.5 metri cu masa de peste 500 de kilograme și cu o putere disponibilă de 750W, generată de două panouri solare. Cele trei instrumente științifice indiene de la bord cântăreau 55 de kilograme: /Terrain Mapping Camera/ (TMC -- cu o rezoluție de 5 metri/pixel, folosită pentru cartografierea Lunii), /Lunar Laser Ranging Instrument/ (LLRI -- pentru topografia suprafeței Lunii), /Hyper Spectral Imager/ (HySi -- folosit pentru mapare mineralogică). Chandrayaan-1 avea însă și alte instrumente științifice: un spectrometru cu fluorescență de raze X, un instrument pentru analiza mineralelor de la sol, un spectrometru în infraroși și dozimetru (furnizat de agenția spațială bulgară). 
+
+Din păcate, contactul cu sonda a fost pierdut brusc în 28 august 2008, însă deja o bună parte din datele științifice au fost colectat și transmise spre Pământ. Printre acestea, cercetătorii au descoperit dovezi că există apă în solul selenar. Costul total al programului a fost de 83 milioane dolari.
+
+**** Mangalyaan
+/Mars Orbiter Mission/ (MOM) sau Mangalyaan este o sondă derivată din Chandrayaan-1 și lansată spre Marte în 5 noiembrie 2013, cu ajutorul unei rachete PSLV. După 6 manevre de ridicare a orbitei, Mangalyaan pornește spre Marte în 1 decembrie 2013 și după 300 de zile sonda ajunge pe orbita marțiană (366 x 80000 km) în 24 septembrie 2014.
+
+Sonda are o masă de 1340 km, din care 852 de kilograme este combustibil, iar panourile solare generează 800W, putere necesară pentru instrumentele științifice de la bord. Acestea sunt în număr de 5 și cântăresc 15 kilograme: /Mars Color Camera/, /Lyman Alpha Photometer/, /Thermal Imaging Spectrometer/, /Mars Exospheric Neutral Composition Analyzer/ și /Methane Sensor for Mars/.
 
 **** Chandrayaan-2
+Lansată în 22 iulie 2018 de cea mai puternică rachetă indiană GSLV Mk.III, sonda Chandrayaan-2 a intrat pe orbită polară selenară în 20 august 2018. În 2 septembrie, landerul Vikram s-a despărțit de sonda aflată la 100 km altitudine și s-a pregătit pentru aselenizare. Apoi, 4 zile mai târziu, Vikram (1471 kg)  a pornit spre suprafața selenară, însă legătura radio cu acesta s-a pierdut cu câteva secunde înainte de contactul cu solul, la o altitudine de 2.1 kilometri. După 2 zile, sonda rămasă pe orbită a reușit identificarea landerului, la doar 500 de metri de locul planificat inițial pentru aselenizare, însă imaginile în infraroșu nu au putut determina integritatea structurală a acestuia. Landerul Vikram conținea și un mic rover, Pragyaan (27 kilograme, 50W putere), care ar fi putut străbate o distanță de 500 metri, cu o viteză de 1 cm/s. Pragyaan a fost dotat cu camere foto, un spectrometru cu raze X și un spectrometru cu ablație laser. Vikram și Pragyaan nu au fost proiectate să supraviețuiască nopții selenare, așa că și în cazul în care aselenizarea ar fi decurs cu bine, nu ar fi funcționat mai mult de 2 săptămâni. La bordul lui Vikram s-au aflat și o cameră, un seismometru, o sondă Langmuir și o oglindă retroreflectorizantă (livrată de NASA).
+
+Însă chiar și dacă aselenizarea nu e reușit, misiunea Chandrayaan-2 este departe de a fi un eșec: sonda urmează să petreacă 1 an pe orbita Lunii, iar 95% din datele științifice urmau să provină de pe sonda orbitală. Aceasta are o masă de 3850 kilograme și panourile solare generează o putere electrică de 1000W. Obiectivele științifice ale misiunii includ studiul topografiei selenare, a mineralogiei, a abundenței elementelor chimice în solul lunar, studiul exosferei Lunii și identificarea apei și a gheții în solul lunar.
 
 *** RLV-TD
 Dincolo de rachete și sonde marțiene și selenare, ISRO lucrează și la un vehicul orbital reutilizabil. Aflat deocamdată în faza de teste, la scară redusă, primul zbor al Reusable Launch Vehicle-Technology Demonstrator (RLV-TD) a avut loc în 23 mai 2016, când vehiculul fără echipaj la bord, a fost lansat până la o altitudine de 65 kilometri, folosind un propulsor HS9 (deci nu a ajuns în spațiu, convenția este că spațiul începe după 80 sau 100 de kilometri). De aici, acesta a revenit spre apele Oceanului Indian, testând revenirea prin atmosferă la o viteză de cinci ori mai mare decât cea a sunetului. Zborul vehicului de 1.5 tone a durat 12 minute și a fost considerat un succes, fiind testate sistemul de ghidare și control, scutul termic și navigarea autonomă. Forma acestuia seamănă cu cea a navetei OTV a forțelor aeriene ale SUA, însă dimensiunile vehiculului indian sunt mai reduse și acesta nici nu a mai fost recuperat în urma zborului.
@@ -451,7 +461,6 @@ Dincolo de rachete și sonde marțiene și selenare, ISRO lucrează și la un ve
 Planul este ca în 2021, o capsulă de 3.7 tone să poată lansa la o altitudine de 400 km un echipaj format din doi sau trei astronauți și care să revină cu bine în Oceanul Indian. Pentru acest lucru, racheta GSLV Mk.III trebuie să fie certificată pentru zbor uman, dar deocamdată lucrurile arată excelent pentru cel mai puternic propulsor indian, care nu a suferit deocamdată nici o lansare eșuată.
 
 Sunt programate două teste, primul în decembrie 2020 și al doilea în iulie 2021, iar dacă acestea vor decurge conform planului, s-a putea ca în decembrie 2021 să vedem primul echipaj indian pe orbită, lansat de o rachetă indiană.
-
 
 ** Programul spațial iranian
 :PROPERTIES:

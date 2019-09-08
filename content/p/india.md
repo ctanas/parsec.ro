@@ -1,7 +1,7 @@
 +++
 title = "Programul spațial indian"
 author = ["Claudiu"]
-draft = true
+draft = false
 +++
 
 ## Intro {#intro}
@@ -72,11 +72,25 @@ După ce noua rachetă va deveni operațională, India dorește și o versiune g
 
 ### Chandrayaan-1 {#chandrayaan-1}
 
+În 22 octombrie 2008, sonda Chandrayaan-1 pornea spre Lună, la bordul unei rachete PSLV-XL. Câteva zile mai târziu, în data de 8 noiembrie, 2008, Chandrayaan-1 intra pe orbita selenară. Moon Impact Probe, un proiectil de 35 de kilograme, desprins din sonda orbitală, a pornit spre suprafața Lunii 6 zile mai târziu și a lovit Luna în apropierea craterului Shakelton. Solul ejectat în urma impactului a fost analizat de sonda aflată pe orbită.
 
-### Mangalayaan {#mangalayaan}
+Designul sondei s-a făcut după satelitul meteorologic Kalpansat: un cub cu latura de 1.5 metri cu masa de peste 500 de kilograme și cu o putere disponibilă de 750W, generată de două panouri solare. Cele trei instrumente științifice indiene de la bord cântăreau 55 de kilograme: _Terrain Mapping Camera_ (TMC -- cu o rezoluție de 5 metri/pixel, folosită pentru cartografierea Lunii), _Lunar Laser Ranging Instrument_ (LLRI -- pentru topografia suprafeței Lunii), _Hyper Spectral Imager_ (HySi -- folosit pentru mapare mineralogică). Chandrayaan-1 avea însă și alte instrumente științifice: un spectrometru cu fluorescență de raze X, un instrument pentru analiza mineralelor de la sol, un spectrometru în infraroși și dozimetru (furnizat de agenția spațială bulgară).
+
+Din păcate, contactul cu sonda a fost pierdut brusc în 28 august 2008, însă deja o bună parte din datele științifice au fost colectat și transmise spre Pământ. Printre acestea, cercetătorii au descoperit dovezi că există apă în solul selenar. Costul total al programului a fost de 83 milioane dolari.
+
+
+### Mangalyaan {#mangalyaan}
+
+_Mars Orbiter Mission_ (MOM) sau Mangalyaan este o sondă derivată din Chandrayaan-1 și lansată spre Marte în 5 noiembrie 2013, cu ajutorul unei rachete PSLV. După 6 manevre de ridicare a orbitei, Mangalyaan pornește spre Marte în 1 decembrie 2013 și după 300 de zile sonda ajunge pe orbita marțiană (366 x 80000 km) în 24 septembrie 2014.
+
+Sonda are o masă de 1340 km, din care 852 de kilograme este combustibil, iar panourile solare generează 800W, putere necesară pentru instrumentele științifice de la bord. Acestea sunt în număr de 5 și cântăresc 15 kilograme: _Mars Color Camera_, _Lyman Alpha Photometer_, _Thermal Imaging Spectrometer_, _Mars Exospheric Neutral Composition Analyzer_ și _Methane Sensor for Mars_.
 
 
 ### Chandrayaan-2 {#chandrayaan-2}
+
+Lansată în 22 iulie 2018 de cea mai puternică rachetă indiană GSLV Mk.III, sonda Chandrayaan-2 a intrat pe orbită polară selenară în 20 august 2018. În 2 septembrie, landerul Vikram s-a despărțit de sonda aflată la 100 km altitudine și s-a pregătit pentru aselenizare. Apoi, 4 zile mai târziu, Vikram (1471 kg)  a pornit spre suprafața selenară, însă legătura radio cu acesta s-a pierdut cu câteva secunde înainte de contactul cu solul, la o altitudine de 2.1 kilometri. După 2 zile, sonda rămasă pe orbită a reușit identificarea landerului, la doar 500 de metri de locul planificat inițial pentru aselenizare, însă imaginile în infraroșu nu au putut determina integritatea structurală a acestuia. Landerul Vikram conținea și un mic rover, Pragyaan (27 kilograme, 50W putere), care ar fi putut străbate o distanță de 500 metri, cu o viteză de 1 cm/s. Pragyaan a fost dotat cu camere foto, un spectrometru cu raze X și un spectrometru cu ablație laser. Vikram și Pragyaan nu au fost proiectate să supraviețuiască nopții selenare, așa că și în cazul în care aselenizarea ar fi decurs cu bine, nu ar fi funcționat mai mult de 2 săptămâni. La bordul lui Vikram s-au aflat și o cameră, un seismometru, o sondă Langmuir și o oglindă retroreflectorizantă (livrată de NASA).
+
+Însă chiar și dacă aselenizarea nu e reușit, misiunea Chandrayaan-2 este departe de a fi un eșec: sonda urmează să petreacă 1 an pe orbita Lunii, iar 95% din datele științifice urmau să provină de pe sonda orbitală. Aceasta are o masă de 3850 kilograme și panourile solare generează o putere electrică de 1000W. Obiectivele științifice ale misiunii includ studiul topografiei selenare, a mineralogiei, a abundenței elementelor chimice în solul lunar, studiul exosferei Lunii și identificarea apei și a gheții în solul lunar.
 
 
 ## RLV-TD {#rlv-td}
