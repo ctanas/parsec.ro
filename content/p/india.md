@@ -26,6 +26,8 @@ PSLV este o rachetă interesantă, pentru că cele patru trepte sunt alimentate 
 
 Lansatorul indian are câteva lansări memorabile care merită amintite. În 22 octombrie 2008, o rachetă PSLV-XL lansa sonda Chandrayaan-1, prima sondă indiană care a ajuns pe orbită în jurul Lunii. Aceasta a fost funcțională până în 28 august 2009, deși inginerii indieni sperau pentru o perioadă mai lungă de activitate, însă Chandrayaan-1 a făcut o descoperire extrem de importantă: a confirmat prezența apei pe Lună. Nu vă imaginați că Luna adăpostește rezervoare de apă sau râuri curgătoare, mai degrabă molecule de apă prezente în regolit, praful fin care acoperă întreaga suprafață selenară.
 
+{{< figure src="/img/pslv1.png" caption="Figure 1: Lansatorul indian PSLV" >}}
+
 În 5 noiembrie 2013, o rachetă PSLV-XL lansa prima sondă indiană care avea ca destinație planeta Marte, MOM (_Mars Orbiter Mission_ sau, informal, _Mangalyaan_, dacă vă place mai mult sanscrita), cu două săptămâni înainte ca NASA să lanseze sonda MAVEN, care avea aceeași destinație. MAVEN, fiind lansată cu ajutorul unei rachete Atlas V (în configurația 401), avea să ajungă pe orbita marțiană în 22 septembrie 2014, în timp ce MOM a ajuns cu două zile mai târziu. Și mai există o diferență semnificativă între cele două sonde: dacă MAVEN a costat peste 670 de milioane de dolari, MOM a costat doar 71 de milioane de dolari, adică cu peste jumătate de miliard de dolari mai puțin. Ca să punem lucrurile într-o altă perspectivă, filmul Gravity din 2013, cu Sandra Bullock și George Clooney, a avut un buget de 100 de milioane de dolari. Sonda lunară Chandrayaan-1 a costat 60 de milioane de dolari. Atât MAVEN cât și MOM se află în acest moment pe orbita planetei Marte, alături de alte patru sonde (două europene și două americane).
 
 În 15 februarie 2017, al 37-lea zbor operațional al lansatorului PSLV stabilea un record în materie de număr de sateliți lansați pe orbită simultan: nu mai puțin de 104! Racheta a reușit să urce în spațiu satelitul Cartosat 2D, dar și alți 103 sateliți de mici dimensiuni, dintre care 88 de sateliți fac parte din constelația Dove, parte a proiectului companiei Planet Lab Inc. de a avea acces la imagini în timp real, continue, cu suprafața Pământului. Cei 80 de sateliți s-au alăturat celor 56 deja existenți, completând astfel constelația, care va deveni funcțională în perioadă următoare. Rezoluția oferită este inferioară observatoarelor dedicate, dar acești sateliți pot oferi rapid imagini cu orice punct de pe suprafața planetei aproape imediat. Alți 8 sateliți (de câte 4.6 kilograme fiecare) sunt folosiți pentru validarea modelelor de previziuni meteorologice și aparțin companiei Spire Global. Restul sateliților aparțin diverselor universități sau altor instituții interesate de a avea o platformă cubesat pe orbită. Precedentul record i-a aparținut Rusiei, care în 2014 a reușit să lanseze, folosind o rachetă Dnepr, 37 de sateliți. Recordul NASA este de doar 29 de sateliți lansați simultan, record care datează din 2013.
@@ -46,11 +48,24 @@ Dezvoltată oarecum în paralel cu PSLV, GSLV renunță la propulsoarele auxilia
 Din 2014, GSLV Mark II a avut șase lansări fără probleme, aproximativ câte una în fiecare an, urcând pe orbită geostaționară sateliții indieni GSAT-14, GSAT-16, INSAT-3DR, GSAT-9, GSAT-6A și GSAT-7A (ultimele două lansări folosind o variantă îmbunătățită a motorului Vikas), fiecare cu o masă de aproximativ 2 tone.
 
 
-### GSLV Mark III {#gslv-mark-iii}
+### GSLV Mk.III {#gslv-mk-dot-iii}
 
 Deși numele pare să indice o nouă iterație a rachetei GSLV Mark II, GSLV Mark III este un vehicul nou: două boostere cu combustibil solid (dotate cu motoare S200, alimentate cu HTPB) propulsează racheta în prima fază a zborului. Abia după 114 secunde după lansare pornește și motorul Vikas al rachetei centrale L110, (alimentat cu tetraoxid de azot), o variantă evoluată din motorul european Viking care propulsa rachetele Ariane 1, 2, 3 și 4. Cele două boostere laterale se consumă și se desprind de rachetă la 26 de secunde după ce motorul principal al rachetei centrale a pornit. După mai bine de 3 minute are loc o nouă separare și a treia treaptă, care arde oxigen și hidrogen lichid, este activată pentru mai bine de 10 minute.
 
+{{< figure src="/img/gslv.jpg" caption="Figure 2: Lansatorul indian GLSV Mk.III" >}}
+
 GSLV Mark III a funcționat până acum fără probleme: nu a avut mai mult de patru zboruri, dar India a scăpat de blestemul primelor lansări eșuate ale unei rachete noi. Este de departe cel mai puternic lansator de care dispune India, putând lansa peste 3 tone pe orbită geostaționară (cu mult sub posibilitățile Ariane 5, de pildă, care poate lansa sateliți de trei ori mai grei) și până acum a avut două zboruri, amebele încheiate cu succes, deși primul, care a avut loc în 2014, a fost unul suborbital (încărcătura de la bord nu a ajuns să fie plasată pe orbită). Ritmul pe care ISRO speră să-l poată menține este de aproximativ o lansare GSLV Mark III pe an.
+
+<div class="table-caption">
+  <span class="table-number">Table 1</span>:
+  Lista lansărilor GSLV Mk.III
+</div>
+
+| Data       | Rampă | Încărcătură   | Masa lansată | Rezultat |
+|------------|-------|---------------|--------------|----------|
+| 05.07.2017 | 2     | GSAT-19       | 3136 kg      | Succes   |
+| 14.11.2018 | 2     | GSAT-29       | 3423 kg      | Succes   |
+| 22.07.2019 | 2     | Chandrayaan-2 | 3850 kg      | Succes   |
 
 
 ### ULV {#ulv}
@@ -91,6 +106,8 @@ Sonda are o masă de 1340 km, din care 852 de kilograme este combustibil, iar pa
 Lansată în 22 iulie 2018 de cea mai puternică rachetă indiană GSLV Mk.III, sonda Chandrayaan-2 a intrat pe orbită polară selenară în 20 august 2018. În 2 septembrie, landerul Vikram s-a despărțit de sonda aflată la 100 km altitudine și s-a pregătit pentru aselenizare. Apoi, 4 zile mai târziu, Vikram (1471 kg)  a pornit spre suprafața selenară, însă legătura radio cu acesta s-a pierdut cu câteva secunde înainte de contactul cu solul, la o altitudine de 2.1 kilometri. După 2 zile, sonda rămasă pe orbită a reușit identificarea landerului, la doar 500 de metri de locul planificat inițial pentru aselenizare, însă imaginile în infraroșu nu au putut determina integritatea structurală a acestuia. Landerul Vikram conținea și un mic rover, Pragyaan (27 kilograme, 50W putere), care ar fi putut străbate o distanță de 500 metri, cu o viteză de 1 cm/s. Pragyaan a fost dotat cu camere foto, un spectrometru cu raze X și un spectrometru cu ablație laser. Vikram și Pragyaan nu au fost proiectate să supraviețuiască nopții selenare, așa că și în cazul în care aselenizarea ar fi decurs cu bine, nu ar fi funcționat mai mult de 2 săptămâni. La bordul lui Vikram s-au aflat și o cameră, un seismometru, o sondă Langmuir și o oglindă retroreflectorizantă (livrată de NASA).
 
 Însă chiar și dacă aselenizarea nu e reușit, misiunea Chandrayaan-2 este departe de a fi un eșec: sonda urmează să petreacă 1 an pe orbita Lunii, iar 95% din datele științifice urmau să provină de pe sonda orbitală. Aceasta are o masă de 3850 kilograme și panourile solare generează o putere electrică de 1000W. Obiectivele științifice ale misiunii includ studiul topografiei selenare, a mineralogiei, a abundenței elementelor chimice în solul lunar, studiul exosferei Lunii și identificarea apei și a gheții în solul lunar.
+
+{{< figure src="/img/gslv-chandrayaan2.png" caption="Figure 3: Racheta GSLV Mk.III înainte de lansarea sondei Chandrayaan-2" >}}
 
 
 ## RLV-TD {#rlv-td}
