@@ -1,4 +1,4 @@
-#+hugo_base_dir: ../parsec-alageek/
+#+hugo_base_dir: ../
 #+author: Claudiu
 
 * Index
