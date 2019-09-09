@@ -52,21 +52,21 @@ Din 2014, GSLV Mark II a avut șase lansări fără probleme, aproximativ câte 
   Lista lansărilor GSLV Mk.I și Mk.II. Toate lansările au fost spre GTO.
 </div>
 
-| Dată       | Rampă | Variantă | Încărcătură | Masa lansată | Rezultat     |
-|------------|-------|----------|-------------|--------------|--------------|
-| 18.04.2001 | 1     | Mk.I     | GSAT-1      | 1540 kg      | Eșec parțial |
-| 08.05.2003 | 1     | Mk.I     | GSAT-2      | 1825 kg      | Succes       |
-| 20.09.2004 | 1     | Mk.I     | GSAT-3      | 1950 kg      | Succes       |
-| 10.07.2006 | 2     | Mk.I     | INSAT-4C    | 2168 kg      | Eșec         |
-| 02.09.2007 | 2     | Mk.I     | INSAT-4CR   | 2160 kg      | Eșec parțial |
-| 14.04.2010 | 2     | Mk.II    | GSAT-4      | 2220 kg      | Eșec         |
-| 25.12.2010 | 2     | Mk.I     | GSAT-5P     | 2310 kg      | Eșec         |
-| 05.01.2014 | 2     | Mk.II    | GSAT-14     | 1980 kg      | Succes       |
-| 27.08.2015 | 2     | Mk.II    | GSAT-6      | 2117 kg      | Succes       |
-| 08.09.2016 | 2     | Mk.II    | INSAT-3DR   | 2211 kg      | Succes       |
-| 05.05.2017 | 2     | Mk.II    | GSAT-9      | 2230 kg      | Succes       |
-| 29.03.2018 | 2     | Mk.II    | GSAT-6A     | 2140 kg      | Success      |
-| 19.12.2018 | 2     | Mk.II    | GSAT-7A     | 2250 kg      | Success      |
+| Dată       | Rampă | Variantă | Încărcătură | Masa lansată | Rezultat            |
+|------------|-------|----------|-------------|--------------|---------------------|
+| 18.04.2001 | 1     | Mk.I     | GSAT-1      | 1540 kg      | Eșec parțial[^fn:1] |
+| 08.05.2003 | 1     | Mk.I     | GSAT-2      | 1825 kg      | Succes              |
+| 20.09.2004 | 1     | Mk.I     | GSAT-3      | 1950 kg      | Succes              |
+| 10.07.2006 | 2     | Mk.I     | INSAT-4C    | 2168 kg      | Eșec[^fn:2]         |
+| 02.09.2007 | 2     | Mk.I     | INSAT-4CR   | 2160 kg      | Eșec parțial[^fn:3] |
+| 14.04.2010 | 2     | Mk.II    | GSAT-4      | 2220 kg      | Eșec[^fn:4]         |
+| 25.12.2010 | 2     | Mk.I     | GSAT-5P     | 2310 kg      | Eșec[^fn:5]         |
+| 05.01.2014 | 2     | Mk.II    | GSAT-14     | 1980 kg      | Succes              |
+| 27.08.2015 | 2     | Mk.II    | GSAT-6      | 2117 kg      | Succes              |
+| 08.09.2016 | 2     | Mk.II    | INSAT-3DR   | 2211 kg      | Succes              |
+| 05.05.2017 | 2     | Mk.II    | GSAT-9      | 2230 kg      | Succes              |
+| 29.03.2018 | 2     | Mk.II    | GSAT-6A     | 2140 kg      | Success             |
+| 19.12.2018 | 2     | Mk.II    | GSAT-7A     | 2250 kg      | Success             |
 
 
 ### GSLV Mk.III {#gslv-mk-dot-iii}
@@ -82,11 +82,12 @@ GSLV Mark III a funcționat până acum fără probleme: nu a avut mai mult de p
   Lista lansărilor GSLV Mk.III. Toate lansările au fost spre GTO, cu excepția lansării sondei Chandrayaan-2, care a avut ca țintă finală orbita selenară.
 </div>
 
-| Dată       | Rampă | Încărcătură   | Masa lansată | Rezultat |
-|------------|-------|---------------|--------------|----------|
-| 05.07.2017 | 2     | GSAT-19       | 3136 kg      | Succes   |
-| 14.11.2018 | 2     | GSAT-29       | 3423 kg      | Succes   |
-| 22.07.2019 | 2     | Chandrayaan-2 | 3850 kg      | Succes   |
+| Dată       | Rampă | Încărcătură   | Masa lansată | Rezultat      |
+|------------|-------|---------------|--------------|---------------|
+| 05.07.2017 | 2     | GSAT-19       | 3136 kg      | Succes        |
+| 14.11.2018 | 2     | GSAT-29       | 3423 kg      | Succes        |
+| 22.07.2019 | 2     | Chandrayaan-2 | 3850 kg      | Succes[^fn:6] |
+|            |       |               |              |               |
 
 
 ### ULV {#ulv}
@@ -112,7 +113,7 @@ După ce noua rachetă va deveni operațională, India dorește și o versiune g
 
 Designul sondei s-a făcut după satelitul meteorologic Kalpansat: un cub cu latura de 1.5 metri cu masa de peste 500 de kilograme și cu o putere disponibilă de 750W, generată de două panouri solare. Cele trei instrumente științifice indiene de la bord cântăreau 55 de kilograme: _Terrain Mapping Camera_ (TMC -- cu o rezoluție de 5 metri/pixel, folosită pentru cartografierea Lunii), _Lunar Laser Ranging Instrument_ (LLRI -- pentru topografia suprafeței Lunii), _Hyper Spectral Imager_ (HySi -- folosit pentru mapare mineralogică). Chandrayaan-1 avea însă și alte instrumente științifice: un spectrometru cu fluorescență de raze X, un instrument pentru analiza mineralelor de la sol, un spectrometru în infraroși și dozimetru (furnizat de agenția spațială bulgară).
 
-Din păcate, contactul cu sonda a fost pierdut brusc în 28 august 2008, însă deja o bună parte din datele științifice au fost colectat și transmise spre Pământ. Printre acestea, cercetătorii au descoperit dovezi că există apă în solul selenar. Costul total al programului a fost de 83 milioane dolari.
+Din păcate, contactul cu sonda a fost pierdut brusc în 28 august 2008, însă deja o bună parte din datele științifice au fost colectat și transmise spre Pământ. Printre acestea, cercetătorii au descoperit dovezi că există apă în solul selenar[^fn:7]. Costul total al programului a fost de 83 milioane dolari.
 
 
 ### Mangalyaan {#mangalyaan}
@@ -124,7 +125,9 @@ Sonda are o masă de 1340 km, din care 852 de kilograme este combustibil, iar pa
 
 ### Chandrayaan-2 {#chandrayaan-2}
 
-Lansată în 22 iulie 2018 de cea mai puternică rachetă indiană GSLV Mk.III, sonda Chandrayaan-2 a intrat pe orbită polară selenară în 20 august 2018. În 2 septembrie, landerul Vikram s-a despărțit de sonda aflată la 100 km altitudine și s-a pregătit pentru aselenizare. Apoi, 4 zile mai târziu, Vikram (1471 kg)  a pornit spre suprafața selenară, însă legătura radio cu acesta s-a pierdut cu câteva secunde înainte de contactul cu solul, la o altitudine de 2.1 kilometri. După 2 zile, sonda rămasă pe orbită a reușit identificarea landerului, la doar 500 de metri de locul planificat inițial pentru aselenizare, însă imaginile în infraroșu nu au putut determina integritatea structurală a acestuia. Landerul Vikram conținea și un mic rover, Pragyaan (27 kilograme, 50W putere), care ar fi putut străbate o distanță de 500 metri, cu o viteză de 1 cm/s. Pragyaan a fost dotat cu camere foto, un spectrometru cu raze X și un spectrometru cu ablație laser. Vikram și Pragyaan nu au fost proiectate să supraviețuiască nopții selenare, așa că și în cazul în care aselenizarea ar fi decurs cu bine, nu ar fi funcționat mai mult de 2 săptămâni. La bordul lui Vikram s-au aflat și o cameră, un seismometru, o sondă Langmuir și o oglindă retroreflectorizantă (livrată de NASA).
+Lansată în 22 iulie 2018 de cea mai puternică rachetă indiană GSLV Mk.III, sonda Chandrayaan-2 a intrat pe orbită polară selenară în 20 august 2018. În 2 septembrie, landerul Vikram s-a despărțit de sonda aflată la 100 km altitudine și s-a pregătit pentru aselenizare. Apoi, 4 zile mai târziu, Vikram (1471 kg)  a pornit spre suprafața selenară, însă legătura radio cu acesta s-a pierdut cu câteva secunde înainte de contactul cu solul, la o altitudine de 2.1 kilometri. După 2 zile, sonda rămasă pe orbită a reușit identificarea landerului, la doar 500 de metri de locul planificat inițial pentru aselenizare, însă imaginile în infraroșu nu au putut determina integritatea structurală a acestuia. În următoarele zile, sonda orbitală își va reduce altitudinea, pentru a reuși să observe mai bine locul unde se află Vikram.
+
+Landerul Vikram conținea și un mic rover, Pragyaan (27 kilograme, 50W putere), care ar fi putut străbate o distanță de 500 metri, cu o viteză de 1 cm/s. Pragyaan a fost dotat cu camere foto, un spectrometru cu raze X și un spectrometru cu ablație laser. Vikram și Pragyaan nu au fost proiectate să supraviețuiască nopții selenare, așa că și în cazul în care aselenizarea ar fi decurs cu bine, nu ar fi funcționat mai mult de 2 săptămâni. La bordul lui Vikram s-au aflat și o cameră, un seismometru, o sondă Langmuir și o oglindă retroreflectorizantă (livrată de NASA).
 
 Însă chiar și dacă aselenizarea nu e reușit, misiunea Chandrayaan-2 este departe de a fi un eșec: sonda urmează să petreacă 1 an pe orbita Lunii, iar 95% din datele științifice urmau să provină de pe sonda orbitală. Aceasta are o masă de 3850 kilograme și panourile solare generează o putere electrică de 1000W. Obiectivele științifice ale misiunii includ studiul topografiei selenare, a mineralogiei, a abundenței elementelor chimice în solul lunar, studiul exosferei Lunii și identificarea apei și a gheții în solul lunar.
 
@@ -143,3 +146,11 @@ Dincolo de rachete și sonde marțiene și selenare, ISRO lucrează și la un ve
 Planul este ca în 2021, o capsulă de 3.7 tone să poată lansa la o altitudine de 400 km un echipaj format din doi sau trei astronauți și care să revină cu bine în Oceanul Indian. Pentru acest lucru, racheta GSLV Mk.III trebuie să fie certificată pentru zbor uman, dar deocamdată lucrurile arată excelent pentru cel mai puternic propulsor indian, care nu a suferit deocamdată nici o lansare eșuată.
 
 Sunt programate două teste, primul în decembrie 2020 și al doilea în iulie 2021, iar dacă acestea vor decurge conform planului, s-a putea ca în decembrie 2021 să vedem primul echipaj indian pe orbită, lansat de o rachetă indiană.
+
+[^fn:1]: Satelitul GSAT-1 plasat pe orbită mai joasă decât cea planificată
+[^fn:2]: Racheta a deviat de la traiectoria planificată și a fost distrusă
+[^fn:3]: Satelitul INSAT-4CR plasat pe orbită mai joasă decât cea planificată
+[^fn:4]: Satelitul nu a ajuns pe orbită datorită unor probleme la treapta superioară
+[^fn:5]: Racheta a deviat de la traiectoria planificată și a fost distrusă
+[^fn:6]: Lansatorul a funcționat mai eficient decât se anticipase și a plasat sonda pe o primă orbită intermediară la o altitudine cu 6000 km mai mult decât cea planificată, ceea ce înseamnă o economie de combustibil pentru sonda orbitală Chandrayaan-2 și astfel o viață mai lungă, <https://www.hindustantimes.com/india-news/isro-launches-chandrayaan-2-india-shoots-for-the-moon/story-t2PN0GAFBhTedbVjamIFyH.html>
+[^fn:7]: <https://science.sciencemag.org/content/326/5952/568>
