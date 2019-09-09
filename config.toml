@@ -31,6 +31,10 @@ title = "Programul spațial iranian"
 url = "/p/iran/"
 
 [[params.best_posts]]
+title = "Programul spațial indian"
+url = "/p/india/"
+
+[[params.best_posts]]
 title = "Naveta secretă X-37B"
 url = "/m/x37b/"
 
