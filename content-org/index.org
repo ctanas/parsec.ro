@@ -43,7 +43,7 @@ Mulțumesc [Bradbura Productions](https://www.facebook.com/Brandbura/) pentru of
 
 *** Detalii tehnice
 
-Site-ul de față este generat din [Emacs](https://www.gnu.org/software/emacs/) folosind pachetul [ox-hugo](https://ox-hugo.scripter.co/) pentru transformarea [fișierului sursă](https://github.com/ctanas/parsec-source) din /org-mode/ în /Markdown/. [Hugo](https://gohugo.io/) preia aceste fișiere și generează fișerele statice HTML, îmbrăcate frumos într-o variantă ușor modificată a temei [alageek](https://github.com/gkmngrgn/hugo-alageek-theme), fișiere care sunt împinse în GitHub după fiecare modificare. [Netlify](https://www.netlify.com/) preia modificările din [GitHub](https://github.com/ctanas/parsec-alageek), generează o nouă versiune a paginilor modificate de fiecare dată când e cazul și afișează conținutul pe care îl aveți în fața voastră.
+Site-ul de față este generat din [Emacs](https://www.gnu.org/software/emacs/) folosind pachetul [ox-hugo](https://ox-hugo.scripter.co/) pentru transformarea [fișierului sursă](https://github.com/ctanas/parsec.ro/blob/master/content-org/index.org) din /org-mode/ în /Markdown/. [Hugo](https://gohugo.io/) preia aceste fișiere și generează fișerele statice HTML, îmbrăcate frumos într-o variantă ușor modificată a temei [alageek](https://github.com/gkmngrgn/hugo-alageek-theme), fișiere care sunt împinse în GitHub după fiecare modificare. [Netlify](https://www.netlify.com/) preia modificările din [GitHub](https://github.com/ctanas/parsec-alageek), generează o nouă versiune a paginilor modificate de fiecare dată când e cazul și afișează conținutul pe care îl aveți în fața voastră.
 
 
 * FAQ
