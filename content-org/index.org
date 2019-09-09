@@ -400,7 +400,7 @@ PSLV este o rachetă interesantă, pentru că cele patru trepte sunt alimentate 
 
 Lansatorul indian are câteva lansări memorabile care merită amintite. În 22 octombrie 2008, o rachetă PSLV-XL lansa sonda Chandrayaan-1, prima sondă indiană care a ajuns pe orbită în jurul Lunii. Aceasta a fost funcțională până în 28 august 2009, deși inginerii indieni sperau pentru o perioadă mai lungă de activitate, însă Chandrayaan-1 a făcut o descoperire extrem de importantă: a confirmat prezența apei pe Lună. Nu vă imaginați că Luna adăpostește rezervoare de apă sau râuri curgătoare, mai degrabă molecule de apă prezente în regolit, praful fin care acoperă întreaga suprafață selenară.
 
-#+CAPTION: Lansatorul indian PSLV
+#+CAPTION: Lansatorul indian PSLV (sursa foto: ISRO)
 [[/img/pslv1.jpg]]
 
 În 5 noiembrie 2013, o rachetă PSLV-XL lansa prima sondă indiană care avea ca destinație planeta Marte, MOM (/Mars Orbiter Mission/ sau, informal, /Mangalyaan/, dacă vă place mai mult sanscrita), cu două săptămâni înainte ca NASA să lanseze sonda MAVEN, care avea aceeași destinație. MAVEN, fiind lansată cu ajutorul unei rachete Atlas V (în configurația 401), avea să ajungă pe orbita marțiană în 22 septembrie 2014, în timp ce MOM a ajuns cu două zile mai târziu. Și mai există o diferență semnificativă între cele două sonde: dacă MAVEN a costat peste 670 de milioane de dolari, MOM a costat doar 71 de milioane de dolari, adică cu peste jumătate de miliard de dolari mai puțin. Ca să punem lucrurile într-o altă perspectivă, filmul Gravity din 2013, cu Sandra Bullock și George Clooney, a avut un buget de 100 de milioane de dolari. Sonda lunară Chandrayaan-1 a costat 60 de milioane de dolari. Atât MAVEN cât și MOM se află în acest moment pe orbita planetei Marte, alături de alte patru sonde (două europene și două americane).
@@ -417,20 +417,37 @@ Forma și poziționarea Indiei fac ca orbitele polare să fie preferate în cazu
 
 GLSV este o variantă mai puternică a PSLV, care poate transporta încărcături mai grele pe orbită, fiind în special folosită pentru orbite geostaționare, după cum îi spune și numele (/Geosynchronous Satellite Launch Vehicle/).
 
-Dezvoltată oarecum în paralel cu PSLV, GSLV renunță la propulsoarele auxiliare cu combustibil solid, în favoarea celor cu combustibil lichid, de dimensiuni mai mari, în timp ce treapta a treia și a patra este înlocuită cu o singură treaptă propulsată de un motor alimentat cu oxigen și hidrogen lichid. Primul zbor, din 2001, nu este nici el unul de care indienii să fie mândrii, satelitul GSAT-1 ajungând pe o orbită mai joasă decât fusese planificat inițial. Al doilea și al treilea zbor GSLV, din 2003 și respectiv 2004, sunt un succes, dar urmează 4 eșecuri consecutive, între 2006 și 2010. Între timp, în 2010, motorul KVD-1M al celei de-a doua trepte, construit în urma unei colabărări dintre Rusia și India, este înlocuit cu un motor produs în intregime de către India. Acestă modificare face ca racheta să fie denumită GSLV Mark II, adică a doua iterație a rachetei. 
+Dezvoltată oarecum în paralel cu PSLV, GSLV renunță la propulsoarele auxiliare cu combustibil solid, în favoarea celor cu combustibil lichid, de dimensiuni mai mari, în timp ce treapta a treia și a patra este înlocuită cu o singură treaptă propulsată de un motor alimentat cu oxigen și hidrogen lichid. Primul zbor, din 2001, a variantei GSLV Mk.I, nu este nici el unul de care indienii să fie mândrii, satelitul GSAT-1 ajungând pe o orbită mai joasă decât fusese planificat inițial. Al doilea și al treilea zbor GSLV, din 2003 și respectiv 2004, sunt un succes, dar urmează 4 eșecuri consecutive, între 2006 și 2010. Între timp, în 2010, motorul KVD-1M al celei de-a doua trepte, construit în urma unei colabărări dintre Rusia și India, este înlocuit cu un motor produs în intregime de către India. Acestă modificare face ca racheta să fie denumită GSLV Mark II, adică a doua iterație a rachetei. 
 
 Din 2014, GSLV Mark II a avut șase lansări fără probleme, aproximativ câte una în fiecare an, urcând pe orbită geostaționară sateliții indieni GSAT-14, GSAT-16, INSAT-3DR, GSAT-9, GSAT-6A și GSAT-7A (ultimele două lansări folosind o variantă îmbunătățită a motorului Vikas), fiecare cu o masă de aproximativ 2 tone.
+
+#+CAPTION: Lista lansărilor GSLV Mk.I și Mk.II. Toate lansările au fost spre GTO.
+|       Dată | Rampă | Variantă | Încărcătură | Masa lansată | Rezultat     |
+|------------+-------+----------+-------------+--------------+--------------|
+| 18.04.2001 |     1 | Mk.I     | GSAT-1      | 1540 kg      | Eșec parțial |
+| 08.05.2003 |     1 | Mk.I     | GSAT-2      | 1825 kg      | Succes       |
+| 20.09.2004 |     1 | Mk.I     | GSAT-3      | 1950 kg      | Succes       |
+| 10.07.2006 |     2 | Mk.I     | INSAT-4C    | 2168 kg      | Eșec         |
+| 02.09.2007 |     2 | Mk.I     | INSAT-4CR   | 2160 kg      | Eșec parțial |
+| 14.04.2010 |     2 | Mk.II    | GSAT-4      | 2220 kg      | Eșec         |
+| 25.12.2010 |     2 | Mk.I     | GSAT-5P     | 2310 kg      | Eșec         |
+| 05.01.2014 |     2 | Mk.II    | GSAT-14     | 1980 kg      | Succes       |
+| 27.08.2015 |     2 | Mk.II    | GSAT-6      | 2117 kg      | Succes       |
+| 08.09.2016 |     2 | Mk.II    | INSAT-3DR   | 2211 kg      | Succes       |
+| 05.05.2017 |     2 | Mk.II    | GSAT-9      | 2230 kg      | Succes       |
+| 29.03.2018 |     2 | Mk.II    | GSAT-6A     | 2140 kg      | Success      |
+| 19.12.2018 |     2 | Mk.II    | GSAT-7A     | 2250 kg      | Success      |
 
 **** GSLV Mk.III
 Deși numele pare să indice o nouă iterație a rachetei GSLV Mark II, GSLV Mark III este un vehicul nou: două boostere cu combustibil solid (dotate cu motoare S200, alimentate cu HTPB) propulsează racheta în prima fază a zborului. Abia după 114 secunde după lansare pornește și motorul Vikas al rachetei centrale L110, (alimentat cu tetraoxid de azot), o variantă evoluată din motorul european Viking care propulsa rachetele Ariane 1, 2, 3 și 4. Cele două boostere laterale se consumă și se desprind de rachetă la 26 de secunde după ce motorul principal al rachetei centrale a pornit. După mai bine de 3 minute are loc o nouă separare și a treia treaptă, care arde oxigen și hidrogen lichid, este activată pentru mai bine de 10 minute.
 
-#+CAPTION: Lansatorul indian GLSV Mk.III
+#+CAPTION: Lansatorul indian GLSV Mk.III (sursa foto: ISRO)
 [[/img/gslv.jpg]]
 
 GSLV Mark III a funcționat până acum fără probleme: nu a avut mai mult de patru zboruri, dar India a scăpat de blestemul primelor lansări eșuate ale unei rachete noi. Este de departe cel mai puternic lansator de care dispune India, putând lansa peste 3 tone pe orbită geostaționară (cu mult sub posibilitățile Ariane 5, de pildă, care poate lansa sateliți de trei ori mai grei) și până acum a avut două zboruri, amebele încheiate cu succes, deși primul, care a avut loc în 2014, a fost unul suborbital (încărcătura de la bord nu a ajuns să fie plasată pe orbită). Ritmul pe care ISRO speră să-l poată menține este de aproximativ o lansare GSLV Mark III pe an.
 
-#+CAPTION: Lista lansărilor GSLV Mk.III
-|       Data | Rampă | Încărcătură   | Masa lansată | Rezultat |
+#+CAPTION: Lista lansărilor GSLV Mk.III. Toate lansările au fost spre GTO, cu excepția lansării sondei Chandrayaan-2, care a avut ca țintă finală orbita selenară.
+|       Dată | Rampă | Încărcătură   | Masa lansată | Rezultat |
 |------------+-------+---------------+--------------+----------|
 | 05.07.2017 |     2 | GSAT-19       | 3136 kg      | Succes   |
 | 14.11.2018 |     2 | GSAT-29       | 3423 kg      | Succes   |
@@ -466,7 +483,7 @@ Lansată în 22 iulie 2018 de cea mai puternică rachetă indiană GSLV Mk.III, 
 
 Însă chiar și dacă aselenizarea nu e reușit, misiunea Chandrayaan-2 este departe de a fi un eșec: sonda urmează să petreacă 1 an pe orbita Lunii, iar 95% din datele științifice urmau să provină de pe sonda orbitală. Aceasta are o masă de 3850 kilograme și panourile solare generează o putere electrică de 1000W. Obiectivele științifice ale misiunii includ studiul topografiei selenare, a mineralogiei, a abundenței elementelor chimice în solul lunar, studiul exosferei Lunii și identificarea apei și a gheții în solul lunar.
 
-#+CAPTION: Racheta GSLV Mk.III înainte de lansarea sondei Chandrayaan-2
+#+CAPTION: Racheta GSLV Mk.III înainte de lansarea sondei Chandrayaan-2 (sursa foto: ISRO)
 [[/img/gslv-chandrayaan2.jpg]] 
 
 *** RLV-TD
