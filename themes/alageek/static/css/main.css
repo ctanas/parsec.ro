@@ -20,7 +20,7 @@
     color: #000;
 }
 
-@media (prefers-color-scheme: dark) {
+/* @media (prefers-color-scheme: dark) {
     :root {
         --main-bg-color: #1a1a1a;
         --main-font-color: #f8f9fa;
@@ -33,7 +33,7 @@
         --color-ko-fi: #df5000;
         --color-bmc: #ff813f;
     }
-}
+} */
 
 /* Global styles */
 body {
