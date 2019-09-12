@@ -685,6 +685,7 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 
 | Nr |  Data |  Ora | Lansator         | Satelit        | Țara    | Rampa           | Ținta | Rezultat     |
 |----+-------+------+------------------+----------------+---------+-----------------+-------+--------------|
+| 63 | 12.09 | 0326 | Changzheng-4B    | Naxing-3       | China   | Taiyuan         | LEO   | Succes       |
 | 62 | 30.08 | 2341 | Kuaizhou-1A      | KX-09          | China   | Jiuquan         | LEO   | Succes       |
 | 61 | 30.08 | 1700 | Rokot            | Geo-IK-2       | Rusia   | Plesetsk 133/3  | LEO   | Succes       |
 | 60 | 22.08 | 1606 | Delta IV Medium  | GPS-III SV02   | SUA     | CC SLC-37B      | MEO   | Succes       |
@@ -893,6 +894,9 @@ Naveta (probabil vehiculul 1) a fost [lansată în 7 septembrie 2017](https://ww
 *** OTV-6
 
 Următoarea misiune X-37B (probabil vehiculul 2) este planificată pentru a fi lansată în al doilea semestru al anului 2020 (după ce inițial data lansării a fost decembrie 2019), iar pentru acest lucru se va folosi o rachetă Atlas V 501 (misiunea denumită AFSPC-07).
+
+#+CAPTION: Vehiculul X-37B, la finalul misiunii OTV-4, pe pista de la Kennedy Space Center, imediat după aterizare, în 7 mai 2017 (/Foto: USAF/Boeing/)
+[[/img/otv4.jpg]]
 
 *** Rezumat
 
