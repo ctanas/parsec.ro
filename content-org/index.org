@@ -915,7 +915,7 @@ Următoarea misiune X-37B (probabil vehiculul 2) este planificată pentru a fi l
 [fn:rf] http://www.leonarddavid.com/caught-on-camera-secretive-space-plane/
 [fn:x37bb] https://www.boeing.com/defense/autonomous-systems/x37b/index.page
 
-** TODO Sonde interplanetare active
+** Sonde interplanetare active
 :PROPERTIES:
 :EXPORT_FILE_NAME: sonde 
 :END:

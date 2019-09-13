@@ -1,7 +1,7 @@
 +++
 title = "Sonde interplanetare active"
 author = ["Claudiu"]
-draft = true
+draft = false
 +++
 
 În tabelul de mai jos sunt prezentate (în ordine complet aleatoare) sondele interplanetare active în acest moment. Asta înseamnă că nu apar în tabel sateliții aflați pe orbita Pământului (deci nu apare telescopul spațial Hubble, de exemplu), dar am decis să includ sondele din punctul Lagrange L2 Pământ-Lună (Spektr-RG și să sperăm că urmează și telescopul spațial JWST).
