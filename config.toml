@@ -23,6 +23,10 @@ title = "Stația Spațială Internațională"
 url = "/iss/intro/"
 
 [[params.best_posts]]
+title = "Sonde interplanetare active"
+url = "/m/sonde/"
+
+[[params.best_posts]]
 title = "Lansări orbitale în 2019"
 url = "/r/lansari/"
 
