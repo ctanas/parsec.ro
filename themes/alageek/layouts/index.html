@@ -28,7 +28,7 @@
                             {{ if gt $nbPosts 0 }}
                                 <div class="page-heading">🛰️ {{ i18n "latest_posts" }}</div>
                                 <ul class="px-0">
-                                    {{ range (first .Site.Params.latestpostcount (where .Pages "Section" "bul")).GroupByDate "Jan 2006" "desc" }}
+                                    {{ range (first .Site.Params.latestpostcount (where .Site.RegularPages "Section" "bul")).GroupByDate "Jan 2006" "desc" }}
                                         <li class="groupby">{{ .Key }}</li>
                                         {{ range sort .Pages "Date" "desc" }}
                                             {{ partial "list" . }}

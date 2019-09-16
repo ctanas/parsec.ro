@@ -1,15 +1,39 @@
 {{ define "main" }}
+    {{ $isTocEnabled := or (.Params.toc) (and (.Site.Params.toc) (or (not (isset .Params "toc")) (.Params.toc))) }}
+
+    {{ .Scratch.Set "isTocEnabled" $isTocEnabled }}
+
     {{ partial "header" . }}
 
     <div class="content">
         <div class="container">
             <div class="row justify-content-center">
-                <div class="col-sm-12 col-md-10">
-                    <h1 class="mx-0 mx-md-4">{{ .Title }}</h1>
+                <div
+                    {{ if $isTocEnabled }}
+                    class="col-sm-12 col-md-9"
+                    {{ else }}
+                    class="col-sm-12 col-md-10"
+                    {{ end }}
+                >
+                    <h1 class="mx-0 mx-md-4">
+                        {{ .Title }}
+                    </h1>
 
                     <div class="mb-4 mb-md-5 meta">
                         <span class="date" title='{{ .Date.Format "Mon Jan 2 2006 15:04:05 MST" }}'>
-                            {{ .Date.Format  "02 January 2006" }}
+                            {{ .Date.Format  "January 02, 2006" }}
+                        </span>
+
+                        {{ if not .Params.noauthor }}
+                            {{ if .Params.author }}
+                                <span class="author middot" title="{{ .Params.Author }}">
+                                    {{ .Params.author }}
+                                </span>
+                            {{ end }}
+                        {{ end }}
+
+                        <span class="reading-time middot">
+                            {{ i18n "reading_time" .ReadingTime }}
                         </span>
 
                         <div class="d-none d-md-inline tags">
@@ -45,7 +69,23 @@
                     <div class="markdown">
                         {{ partial "content" . }}
                     </div>
+                </div>
 
+                {{ if $isTocEnabled }}
+                    <div class="col-sm-12 col-md-3">
+                        {{ replace .TableOfContents "id=\"TableOfContents\"" "id=\"TableOfContents\" class=\"sticky-top\"" | safeHTML }}
+                    </div>
+                {{ end }}
+            </div>
+
+            <div class="row{{ if not $isTocEnabled }} justify-content-center{{ end }}">
+                <div
+                    {{ if $isTocEnabled }}
+                    class="col-sm-12 col-md-9"
+                    {{ else }}
+                    class="col-sm-12 col-md-10"
+                    {{ end }}
+                >
                     {{ if .Site.Params.posts_navigation }}
                         <div class="navigation">
                             <div class="row">
