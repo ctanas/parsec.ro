@@ -2,6 +2,7 @@
 title = "Programul spațial indian"
 author = ["Claudiu"]
 draft = false
+toc = true
 +++
 
 ## Intro {#intro}

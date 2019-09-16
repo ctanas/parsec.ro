@@ -379,6 +379,7 @@ Este doar începutul unei serii interesante de lansări pentru China în acest a
 ** Programul spațial indian
 :PROPERTIES:
 :EXPORT_FILE_NAME: india 
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :toc true
 :END:
 
 *** Intro

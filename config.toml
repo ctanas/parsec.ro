@@ -6,6 +6,7 @@ copyright = "Copyright © 2008–2018, Steve Francia and the Hugo Authors; all r
 paginate = 3
 theme = "alageek"
 title = "parsec.ro"
+toc = true
 DefaultContentLanguage = "ro"
 googleAnalytics = "UA-19421559-1"
 
