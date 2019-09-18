@@ -982,6 +982,29 @@ Următoarea misiune X-37B (probabil vehiculul 2) este planificată pentru a fi l
 :EXPORT_HUGO_SECTION: bul
 :END:
 
+** Buletin Cosmic nr. 44                :juno:ryugu:hayabusa2:proton:borisov:
+:PROPERTIES:
+:EXPORT_FILE_NAME: 044
+:EXPORT_DATE: 2019-09-18
+:END:
+
+Misiunea sondei Hayabusa2, aflată în vecinătatea asteroidului Ryugu, se apropie de final. După ce a trimis nu mai puțin de trei vehicule de mici dimensiuni pe suprfața asteroidului, sonda s-a apropiat în aceste zile din nou de acesta, pentru a lansa un marker care să ajute al patrulea și ultimul roboțel să ajungă pe suprafață, lucru care se va întâmpla peste câteva săptămâni. Hayabusa2 a ajuns lângă asteroidul Ryugu în iunie anul trecut și pe lângă studiile obișnuite pe care le efectuează de la distanță a reușit să trimită spre suprafața acestuia și doi mici roboței japonezi denumiți MINERVA-II, dar și un lander german de dimensiuni ceva mai mari, denumit MASCOT. Al doilea lander, denumit MINERVA-II-2 are dimensiunile unei mingi de fotbal și este dotat cu câteva instrumente științitice și o cameră de luat vederi, pentru un studiu mai detaliat al asteroidului Ryugu. La finalul acestui an sonda niponă va părăsi vecinătatea asteroidului și se va îndrepta spre Pământ, ducând cu ea și câteva grame prelevate de pe asteroid. În decembrie 2020 capsula cu materialul prelevat de probă va ajunge pe Pământ, pentru a fi studiat în detaliu.
+
+---
+
+Venerabila rachetă rusească Proton se apropie de ultimul său zbor. După mai mult de 400 de lansări (prima având loc în  iulie 1965), Rusia se pregătește să-și părăsească lansatorul de calibru greu, cu care a lansat sute de sateliți și a ajutat la asamblarea fostei stații spațiale Mir, dar și a actualei Stații Spațiale Internaționale. Doar 11 rachete Proton-M vor mai fi lansate, din care 4 sunt deja asamblate iar 7 sunt în diverse etape de producție și vor ajunge pe rampă până în 2021, după care racheta Proton va fi înlocuită cu Angara. Aceasta din urmă va fi echipată cu motoare care ard hidrogen și oxigen lichid, un combustibil nu doar mai prietenos cu mediul, dar și mai ușor de stocat și manipulat, spre deosebire de actualul combustibil Proton, care este deosebit de toxic și coroziv. Racheta Proton a fost derivată din planurile rachetei balistice intercontinentale UR-500, care ar fi putut transporta focoase nucleare de 50-100 megatone, dar care nu a mai fost construită niciodată, ci adaptată într-un lansator orbital. Folosită intens și pentru lansări de sateliți de telecomunicație geostaționari, ritmul lansărilor Proton a scăzut considerabil în ultimii ani în principal datorită prețului mai competitiv oferit de alte companii, în special de compania americană SpaceX, dar și datorită faptului că în 2017 s-a descoperit un defect de fabricație în toate motoarele primei trepte Proton aflate în stoc în acel moment, fapt ce a dus la amânarea mai multor zboruri.
+
+---
+
+Cometa C/2019 Q4 se pare că este al doilea obiect interstelar detectat de astronomi, după ce anul trecut asteroidul 1I/ʻOumuamua a trecut pe lângă Soare după ce a venit din spațiul interstelar și nu din norul lui Oort, de unde se presupune că vin toate cometele detectate până în prezent. Obiectul C/2019 Q4 a fost descoperit în 30 august de astronomul amator Genadi Borisov și după mai multe observații se pare că acesta se deplasează cu 34 km/s, pe o traiectorie hiperbolică, ceea ce înseamnă că nu se rotește în jurul Soarelui ci trece prin sistemul nostru solar fără posibilitatea de a mai reveni în viitor. Viteza mare a acestor obiecte și detectarea lor relativ târzie, când se află deja în vecinătatea noastră, face deocamdată imposibilă interceptarea lor de către o sondă, pentru a afla mai multe detalii despre originea acestor obiecte fascinante pentru astronomi.
+
+---
+
+Sonda Juno, aflată pe orbita lui Jupiter din 5 iulie 2016, a survolat în această săptămână partea superioară a atmosferei lui Jupiter, pentru a 22-a oară de la începutul misiunii. Juno se află pe o orbită polară alungită, care îi permite să petreacă doar un scurt timp aproape de planetă, acolo unde radiațiile electromagnetice sunt cele mai puternice acestea putând afecta negativ perioada de viață sondei. Așa că la fiecare 53 de zile Juno se apropie până la aproape 4000 de km de norii lui Jupiter, face măsurători științifice în mare viteză, după care se îndepărtează până la peste 75000 de kilometri, unde este în siguranță. Până în iulie 2021 mai sunt programate alte 13 astfel de survolări, după care sonda va plonja în atmosfera lui Jupiter.
+
+#+CAPTION: Umbra lui Jupiter surprinsă de sonda Juno deasupra norilor lui Jupiter în 12 septembrie 2019 de la 8000 km depărtare de planetă, în timp ce aceasta se îndrepta spre cel 22-lea survol al misiunii (foto: NASA/JPL-Caltech/SwRI/MSSS/Kevin M. Gill, sursă: [[http://www.planetary.org/multimedia/space-images/jupiter/ios-shadow-on-jupiter-during.html][The Planetary Society]])
+[[/img/jupiter_io.jpg]]
+
 ** Buletin Cosmic nr. 43 :chandrayaan2:vikram:soyuzms14:fedor:htv8:spacex:
 :PROPERTIES:
 :EXPORT_FILE_NAME: 043
