@@ -8,8 +8,10 @@ draft = false
 
 | Nr | Data  | Ora  | Lansator         | Satelit        | Țara    | Rampa           | Ținta | Rezultat      |
 |----|-------|------|------------------|----------------|---------|-----------------|-------|---------------|
-| 63 | 12.09 | 0326 | Changzheng-4B    | Naxing-3       | China   | Taiyuan         | LEO   | Succes        |
-| 62 | 30.08 | 2341 | Kuaizhou-1A      | KX-09          | China   | Jiuquan         | LEO   | Succes        |
+| 65 | 22.09 | 2110 | Changzheng-3B    | Beidou-3       | China   | Xichang         | MEO   | Succes        |
+| 64 | 19.09 | 0642 | Changzheng-11    | Zhuhai-1       | China   | Jiuquan         | SSO   | Succes        |
+| 63 | 12.09 | 0326 | Changzheng-4B    | Naxing-3       | China   | Taiyuan         | SSO   | Succes        |
+| 62 | 30.08 | 2341 | Kuaizhou-1A      | KX-09          | China   | Jiuquan         | SSO   | Succes        |
 | 61 | 30.08 | 1700 | Rokot            | Geo-IK-2       | Rusia   | Plesetsk 133/3  | LEO   | Succes        |
 | 60 | 22.08 | 1606 | Delta IV Medium  | GPS-III SV02   | SUA     | CC SLC-37B      | MEO   | Succes        |
 | 59 | 22.08 | 0338 | Soyuz-2.1a       | Soyuz MS-14    | Rusia   | Baikonur 31/6   | ISS   | Succes        |
