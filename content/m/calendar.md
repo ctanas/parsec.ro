@@ -33,14 +33,6 @@ draft = false
 
 ## Aprilie {#aprilie}
 
-12
-: Primul zbor orbital al unui om, Iuri Gagarin, în misiunea Vostok-1 (**1961**)
-
-Primul zbor al navetei spațiale americane, STS-1 (Columbia) (**1981**)
-
-14
-: Se încheie misiunea STS-1 și naveta Columbia aterizează pe pista 23 de la baza aeriană Edwards (**1981**)
-
 04
 : Primul zbor al navetei Challenger, în misiunea STS-6 și ultima dată până la misiunea STS-135 când naveta a avut un echipaj de 4 astronauți la bord (**1983**)
 
@@ -53,14 +45,33 @@ Primul zbor al navetei spațiale americane, STS-1 (Columbia) (**1981**)
 09
 : Naveta Challenger aterizează la baza aeriană Edwards, după prima sa misiune, STS-6 (**1983**)
 
+12
+: Primul zbor orbital al unui om, Iuri Gagarin, în misiunea Vostok-1 (**1961**)
+
+Primul zbor al navetei spațiale americane, STS-1 (Columbia) (**1981**)
+
+A patra lansare a navetei Discovery (misiunea STS-51-D) (**1985**)
+
 13
 : Misiunea STS-41-C ia sfârrșit după ce naveta Challenger ateriza la KSC; inițial misiunea a fost numerotată STS-13, dar a fost al 11-lea zbor al navetei spațiale americane (**1984**)
+
+14
+: Se încheie misiunea STS-1 și naveta Columbia aterizează pe pista 23 de la baza aeriană Edwards (**1981**)
+
+19
+: Se încheie misiunea STS-51-D, după ce naveta Discovery aterizează la KSC și unul din cauciucuri explodează, dar fără a afecta naveta (**1985**)
+
+29
+: Lansare navetei Challenger în misiunea STS-51-B (**1985**)
 
 
 ## Mai {#mai}
 
 15
 : Primul zbor al propulsorului sovietic Energia, având la bord satelitul Polyus (**1987**)
+
+06
+: Naveta Challenger aterizează la baza aeriană Edwards și încheie misiunea STS-51-B (**1985**)
 
 
 ## Iunie {#iunie}
