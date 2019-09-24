@@ -831,7 +831,7 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 :EXPORT_HUGO_SECTION: m
 :END:
 
-** TODO Calendar Cosmic
+** Calendar Cosmic
 :PROPERTIES:
 :EXPORT_FILE_NAME: calendar 
 :END:
@@ -841,22 +841,42 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 *** Februarie
 
 *** Martie
+- 22 :: Lansarea navetei Columbia în misiunea STS-3 (*1982*)
+- 20 :: Aterizarea navetei Columbia și încheierea misiunii STS-3 (*1982*)
 
 *** Aprilie
+- 12 :: Primul zbor orbital al unui om, Iuri Gagarin, în misiunea Vostok-1 (*1961*)
 
+- Primul zbor al navetei spațiale americane, STS-1 (Columbia) (*1981*)
+
+- 14 :: Se încheie misiunea STS-1 și naveta Columbia aterizează pe pista 23 de la baza aeriană Edwards (*1981*)
+
+- 04 :: Primul zbor al navetei Challenger, în misiunea STS-6 și ultima dată până la misiunea STS-135 când naveta a avut un echipaj de 4 astronauți la bord (*1983*)
+- 07 :: Prima activitate extravehiculară realizată de la bordul unei navete spațiale (Challenger, STS-6), cu o durată de 4 ore și 10 minute (*1983*)
+- 09 :: Naveta Challenger aterizează la baza aeriană Edwards, după prima sa misiune, STS-6 (*1983*)
 *** Mai
-
+- 15 :: Primul zbor al propulsorului sovietic Energia, având la bord satelitul Polyus (*1987*)
 *** Iunie
-
+- 18 :: Lansarea navetei Challenger în misiunea STS-7 și primul zbor al unei femei din SUA: Sally Ride (*1983*)
+- 24 :: Aterizarea navetei Challenger, la finalul misiunii STS-7 (*1983*)
+- 27 :: Lansarea navetei Columbia în misiunea STS-4, ultimul zbor test înainte de misiunile operaționale (*1982*)
 *** Iulie
-
+- 04 :: Aterizarea navetei spațiale Columbia, pe pista 22 de la baza aeriană Edwards, la finalul misiunii STS-4 (*1982*)
 *** August
 
+- 30 :: Al treilea zbor al navetei Challenger, misiunea STS-8 (*1983*)
 *** Septembrie
 
+- 05 :: Misiunea STS-8 ia sfârșit și naveta spațiale Challenger aterizează pe pista 22 de la baza aeriană Edwards (*1983*)
 *** Noiembrie
-
+- 11 :: A cincea lansare a navetei Columbia, în misiunea STS-5 (*1982*)
+- 12 :: STS-2, al doilez zbor al navetei Columbia, are loc de pe rampa LC-39A de la KSC (*1981*)
+- 14 :: Misiunea STS-2 ia sfârșit și naveta Columbia aterizează pe pista 23 de la baza aeriană Edwards (*1981*)
+- 15 :: Primul (și ultimul) zbor al navetei spațiale sovietice Buran și al doilea și ultimul zbor al propulsorului Energia (*1988*)
+- 16 :: Misiunea STS-5 ia sfârșit și naveta Columbia aterizează pe pista 22 la baza aeriană Edwards (*1982*)
+- 28 :: Lansarea navetei Columbia în misiunea STS-9 și primul zbor al modulului Spacelab (*1983*)
 *** Decembrie
+- 08 :: Misiunea STS-9 ia sfârșit și naveta Columbia aterizează pe pista 17 a bazei aeriene Edwards (*1983*)
 ** X-37B
 :PROPERTIES:
 :EXPORT_FILE_NAME: x37b 
@@ -917,6 +937,71 @@ Următoarea misiune X-37B (probabil vehiculul 2) este planificată pentru a fi l
 [fn:f9otv5] https://www.spacex.com/news/2017/09/07/otv-5-mission
 [fn:rf] http://www.leonarddavid.com/caught-on-camera-secretive-space-plane/
 [fn:x37bb] https://www.boeing.com/defense/autonomous-systems/x37b/index.page
+
+** Buran
+:PROPERTIES:
+:EXPORT_FILE_NAME: buran
+:END:
+
+Ne aflăm la mijlocul anilor ’70, în plin război rece și în era post-Apollo. Cursa spațială s-a încheiat deja, dar cursa înarmării continua și bugetele pentru apărare, atât în SUA cât și în URSS sunt practic nelimitate. Încă dinainte de aselenizare, NASA trasase deja un plan pentru dezvoltarea unui vehicul reutilizabil care să permită accesul frecvent și ieftin la orbita terestră joasă, construirea unei navete spațiale devenind preocuparea principală a agenției spațiale americane. Despre Columbia, prima navetă din flota NASA, am povestit deja în numărul trecut, iar acum vom afla povestea răspunsului Uniunii Sovietice: programul Buran.
+
+#+CAPTION: Naveta spațială sovietică Buran și racheta Energia, înainte lansrăii (/sursa foto: buran.ru/)
+[[/img/buran3.jpg]]
+
+*** Planuri pentru Buran
+
+Planurile americane pentru noul vehicul au fost atât de îndrăznețe încât sovieticii, când au aflat de ele, le-au considerat doar un paravan pentru adevăratul scop al navetei spațiale: misiuni militare extrem de eficiente. Faptul că forțele aeriene s-au implicat serios în proiect, au decis în cele din urmă o mare parte din parametrii navetei spațiale și chiar au construit o rampă de lansare la baza aeriană de la Vandenberg, de unde naveta ar fi putut fi lansată pe o orbită polară, nu au făcut decât să confirme temerile sovietice. De pe o astfel de orbită polară, rușii se temeau că naveta ar fi putut lansa extrem de rapid o încărcătură nucleară deasupra teritoriului sovietic, temere inspirată parțial și din propriile planuri de a trimite, în cazul unui conflict armat, o rachetă intercontinentală pe deasupra polului sud, în locul străbaterii Atlanticului. Este adevărat că, teoretic, naveta spațială putea fi lansată de la baza Vandenberg și se putea întoarce la locul de lansare după efectuarea unei singure orbite, facilitate posibilă datorită aripilor delta, care îi ofereau o largă autonomie de zbor la reintrarea în atmosferă, detaliu cerut cu insistență de forțele aeriene.
+
+În aceste condiții, s-a luat în 1976 decizia de a construi un echivalent sovietic al navetei spațiale. Vehiculul nu avea să aibă alt scop decât acela de a fi similar cu modelul american, pentru ca URSS să aibă la îndemână un instrument de răspuns în cazul în care naveta spațială avea să fie folosită în operațiuni militare.
+
+Astăzi putem spune cu certitudine că nimeni din lanțul ierarhic din SUA nu avea cu adevărat intenția de a bombarda Moscova cu încărcături nucleare plasate în cala navetei spațiale. Forțele aeriene erau însă atrase de proiect deoarece planul ca naveta va înlocui toate celelalte metode de lansare părea unul atractiv, motiv pentru care s-au asigurat că vehiculul va avea cala suficient de mare pentru a găzdui cei mai voluminoși sateliți de spionaj existenți la acea vreme și că, la nevoie, se vor putea efectua lansări pe orbită polară. Însă eficiența navetei spațiale nu avea să fie satisfăcătoare. Aceasta nu s-a apropiat de rata de 50-60 de lansări anuale și astfel nu a devenit niciodată profitabilă economic. Chiar dacă armata a folosit în câteva rânduri naveta pentru încărcături secrete, toate lansările navetei au avut până la urmă loc de la centrul spațial
+
+Kennedy din Florida. Baza de la Vandenberg nu avea să fie folosită niciodată pentru lansări pe orbite polare iar armată nu renunțase la rachete pentru lansările curente. Însă planul sovietic de a construi un corespondent avea să fie pus în aplicare și în 1988, Buran, naveta spațială din est, se afla pe rampa de lansare, gata să înceapă o nouă era în programul spațial sovietic, după eșecul tentativei de aselenizare din anii precedenți.
+
+Planurile inițiale pentru Buran nu cuprindeau însă un vehicul identic cu naveta americană. Inițial, se discuta despre construirea unui vehicul de dimensiuni asemănătoare care să fie plasat deasupra rachetei propulsoare. De asemenea, aripile, care reprezintă un balast în cea mai mare parte a unui zborului, aveau să fie și ele micșorate, reducând astfel considerabil masa ansamblului. Această soluție necesita însă modificări aduse rachetei propulsoare pentru a face față sarcinii suplimentare, lucru ce i-ar fi redus eficiența. Pentru a accelera procesul de producție și pentru a profita deja de cercetarea efectuată de NASA, s-a optat pentru un vehicul de formă similară cu cel american. A mai apărut însă o problemă: dacă motorul avea să fie atașat de vehicul, masa navetei era atât de mare încât nu putea fi transportată pe calea aerului de nici un avion existent la acea dată în URSS. Mai mult, plasarea motoarelor în vehicul însemna că acestea trebuiau să fie refolosibile, o situație cu care inginerii sovietici nu erau deloc confortabili. În cele din urmă s-a optat pentru mutarea motoarelor principale în partea posterioară a rezervorului extern (care astfel devenea o rachetă de sine stătătoare), reducând astfel masa vehiculului cu aproximativ 40 de tone. Motoarele nu mai trebuiau astfel să funcționeze pentru mai mult de o lansare, iar racheta, în această configurație, putea fi folosită și pentru lansări de alte încărcături, nu neapărat pentru Buran, un avantaj pe care NASA nu îl avea. Pentru a compensa deplasare centrului de masă prin îndepărtarea motorului, aripile, identice ca formă și suprafață cu cele ale navetei spațiale, au fost plasate mai aproape de cabină.
+
+Exista la un moment dat un plan de a monta pe aripa posterioară a navetei două motoare cu reacție. Ar fi fost o diferență majoră față de navetele americane deoarece aceste motoare nu ar fi permis doar o mai bună manevrabilitate înainte de aterizare (Buran nu ar mai fi fost astfel doar un planor imens care cădea spre pista de lansare, ci un avion controlabil) dar și posibilitatea ca naveta să poată decola singură pentru zboruri atmosferice, eliminând astfel montarea ei pe un alt avion pentru transferul între diversele centre de testare din URSS. Însă această modificare nu a mai avut loc. Motivele sunt diverse: se pare că motoarele nu ar fi fost finalizate pentru zborul inaugural al lui Buran din 1988. Iar montarea lor ar fi dat mai multe bătăi de cap inginerilor: centrul de greutate avea să se modifice, masa navetei ar fi crescut (pe lângă motoare era nevoie de sisteme de protecție a acestora și un rezervor cu combustibil), profilul aerodinamic era altul (inclusiv un stres suplimentar pe coada navetei), aspecte ce necesitau teste suplimentare în tunelul aerodinamic, iar toate aceste inconveniente ar fi amânat și mai mult primul zbor al lui Buran.
+
+#+CAPTION: O variantă a navetei Buran cu motoare cu reacție (/sursa foto: buran.ru/)
+[[/img/buran2.jpg]]
+
+Cinci vehicule trebuiau să fie operaționale în programul Buran. Denumirile lor însă nu au fost niciodată foarte clar stabilite. Dacă vehiculul care a zburat în spațiu este denumit
+
+astăzi Buran (după programul cu același nume, care în românește se traduce prin viscol), când a ajuns la Baikonur, pe fuselaj stătea scris Baikal. Ulterior, numele a fost modificat în Buran, deși în primele imagini apărute în presa sovietică, numele nu era vizibil, fiind înlăturat prin postprocesare. Ce se cunoaște însă cu siguranță este indicativul: 1K. Al doilea vehicul avea să fie 2K și așa mai departe. Folosind această notație, prima misiune ar fi fost codificată 1K1, deoarece era primul zbor al primului vehicul, a doua 2K1, deoarece planul era să fie folosit al doilea vehicul pentru a doua lansare din programul Buran etc. Numele celei de-a doua navete nu a fost niciodată stabilit oficial. Deși în presa vestică apărea Ptichka (păsărică), această variantă nu este sprijinită de nici o sursă sovietică, Ptichka fiind mai degrabă un diminutiv aplicat de ruși tuturor navetelor, nu uneia singure. Burya (furtună) ar fi putut însă fi folosit al doilea vehicul operațional, derivând tot dintr-un element violent al naturii, iar Uragan pentru a treia, dar având în vedere că nici un alt vehicul nu a mai fost lansat după Buran, numele acestora nu a fost niciodată clar stabilit.
+
+*** Activități orbitale
+
+Ajunsă pe orbită, Buran își putea controla orientarea folosind un sistem de propulsoare similar cu cel al navetei spațiale (38 la număr, astfel plasate încât să poată oferi navetei libertate deplină în jurul centrului de masă), însă inginerii sovietici au optat pentru folosirea unui combustibil diferit, aceasta fiind, după plasarea motoarelor, una din cele mai mari diferențe dintre cele două vehicule. Navetele americane, la fel ca toate vehiculele orbitale dinaintea lor, foloseau pentru orientarea vehiculului un tip combustibil format din două substanțe (tetraoxid de azot și dimetilhidrazină) care se aprindea spontan la contactul dintre ele, fără să mai fie nevoie de oxidant sau alte sisteme de aprindere complexe. Un alt avantaj era faptul că puteau fi păstrate o perioadă îndelungată, fără a cauza probleme suplimentare. Însă, pentru Buran s-a optat pentru folosirea unui combustibil pe bază de oxigen lichid și hidrocarburi sintetice, denumit sintin. Acest lucru prezenta câteva avantaje: performanțele motoarelor de poziționare erau mai bune, combustibilul putea fi manevrat mai ușor la sol din cauza unei toxicități mult mai reduse iar oxigenul lichid putea fi pompat, la nevoie, și direct în pilele de combustie, asigurând astfel un nivel suplimentar de redundanță al acestora. Dezavantajul sistemului sovietic a fost însă o masă mai mare (fiind cu o tonă mai greu decât corespondentul american), avea nevoie și de un sistem suplimentar de aprindere și necesita protecție termică suplimentară pentru a menține oxigenul în stare lichidă pe toată durata zborului.
+
+Cele două propulsoare plasate în partea posterioară a navetei (denumite MOS) erau folosite pentru manevre de revenire în atmosferă sau pentru corecție orbitală. Spre deosebire însă de varianta americană (OMS), doar unul era necesar pentru execuția unei manevre, folosirea simultană fiind rezervată doar situațiilor de urgență.
+
+*** Energia
+
+Propulsia avea să fie asigurată de o rachetă nouă, construită special pentru acest scop, denumită Energia. Propulsată de patru motoare centrale RD-0120 cu combustibil lichid (hidrogen și oxigen) și patru boostere suplimentare, fiecare cu câte patru motoare RD-170 ce ardeau cherosen și oxigen, Energia putea transporta până la 100 de tone pe orbita terestră joasă și 20 de tone pe orbită geostaționară. Avea să fie cea mai complexă rachetă construită vreodată de URSS. Spre deosebire de sistemul de propulsie american al navetei, Energia era proiectată să transporte și alte încărcături, așa că aceasta avea propriul sistem de navigație, independent de computerele de la bordul Buran și putea fi folosită independent de aceasta. Computerul central se afla în rezervorul principal iar fiecare din cele patru boostere avea propriul computer de zbor, conectat însă în permanență cu cel central. Pentru a nu repeta catastrofalele lansări ale rachetei N-1 (care a pus capăt ambițiilor sovietice de a pune un echipaj pe Lună), noua rachetă era dotată cu senzori care detectau scurgeri de gaze și în cazul unui incendiu, se activau sisteme de stingere pe bază de freon. Înainte de lansare, motoarele erau purjate cu azot iar excesul de hidrogen era eliminat, pentru a evita o acumulare și o aprindere accidentală a acestuia, însă spre deosebire de sistemul folosit de NASA, în cazul Energia, surplusul de hidrogen era îndepărtat înainte ca acesta să ajungă la motoare. Un alt sistem de senzori de presiune, temperatură și alți parametri monitoriza permanent motoarele și în cazul unei anomalii îl închideau imediat, înainte de o evoluție catastrofală a acestuia, iar motorul diametral opus putea compensa, dacă era cazul, pentru a nu rata complet misiunea.
+
+*** Primul zbor
+
+În concordanță cu istoria programelor spațiale sovietice și de frica unui nou eșec (cele patru lansări succesive ratate ale rachetei N-1 erau încă proaspete în mințile inginerilor), s-a optat pentru un prim zbor complet automat al lui Buran, fără un echipaj uman. Zborul, prevăzut inițial pentru a dura câteva zile, a fost redus la două orbite. Astfel la bordul Buran nu au fost montate toate subsistemele care aveau să fie prezente în versiunea finală, testul dorea doar să confirme că vehiculul poate decola și poate reveni autonom la sol, după o scurtă incursiune în spațiu. Navetele spațiale americane, deși aveau planificate un sistem automat de zbor, acesta nu avea să fie pus niciodată în funcțiune. Încă din programul Mercury, astronauții americani au cerut un control manual cât mai pronunțat al aparatelor de zbor, ei refuzând să fie doar actori în niște vehicule controlate autonom sau de la sol. Din acest motiv, primul zbor al navetei Columbia a fost unul cu echipaj uman, chiar dacă riscurile erau imense: nimeni nu știa exact cum avea să se comporte naveta spațială în primul său zbor.
+
+Un sistem independent de patru computere denumite Biser-4 (spre deosebire de navetele americane care erau echipate cu patru computere redundante și un al cincilea, de rezervă) avea să fie folosit pentru controlul subsistemelor navetei. Fiind vorba de un vehicul autonom, software-ul de zbor avea să fie de o complexitate ridicată și inginerii îl îmbunătățeau constant de-a lungul testelor, Buran în momentul lansării, folosind a 21-a versiune a acestuia.
+
+În afară de aceste diferențe (motorul plasat pe rezervor, folosirea propulsoarelor cu combustibil lichid și un mai mare grad de automatizare), Buran era foarte asemănătoare cu naveta spațială americană. Oficialii sovietici au pus pe seama legilor aerodinamicii forma identică a fuselajului și a aripilor, însă acestea nu au fost alese de NASA din constrângeri aerodinamice, ci pentru că trebuiau să satisfacă punctual cerințele armatei. Pentru URSS, era mai eficient să folosească deja o formă funcțională și testată, decât să investească resurse într-un concept nou, mai ales că erau cu patru ani ani în urma Statelor Unite în ceea ce privește startul oficial pentru dezvoltarea navetei. Totuși, chiar dacă au avut acces la literatură de specialitate și la parametrii navetei spațiale, inginerii au trebuit să găsească resursele necesare construirii efective a navetei, lucru care nu a fost deloc simplu, având în vedere complexitatea proiectului, așa că meritele URSS în această privință nu trebuie scăzute prea mult pentru faptul că au copiat un model funcțional.
+
+Patru locomotive diesel au fost necesare pentru a deplasa platforma cu naveta și propulsoarele spre rampa de lansare, în 10 octombrie 1988. Lansarea, prevăzută inițial pentru 29 octombrie, avea să fie amânată din cauza unei platforme care, în timpul numărătorii inverse, nu s-a depărtat corespunzător de navetă. Unele probleme ale sistemului de aterizare au fost remediate cu doar o zi înainte. În 15 noiembrie 1988, vremea de la Baikonur ar fi încălcat toate condițiile impuse unei lansări a unei navete americane: temperaturi scăzute, vânt puternic, plafon de nori și precipitații (rușii considerau că un strat de gheață de 2 mm format pe rachetă este acceptabil, în condițiile în care accidentul care a dus la dezintegrarea navetei Challenger tocmai din cauza temperaturilor joase, a avut loc doar cu 2 ani în urmă). Cu toate acestea, la T-10 minute, controlul vehiculului a revenit computerelor de bord. La T-9.9 secunde, cele patru motoare RD-0120 ale rachetei Energia s-au trezit la viață, iar boosterele au fost activate la T-3.7 secunde. A fost exact ora 6:00 la Moscova când Buran, prima și singura navetă spațială sovietică avea să se ridice de pe rampa de lansare și să plonjeze direct în nori, spre dezamăgirea publicului prezent la fața locului. Fotografii au avut la dispoziție doar câteva secunde pentru a surprinde istoricul moment.
+
+Buran era teoretic prevăzută cu două brațe robotice pentru manipularea încărcăturii din cală, spre deosebire de navetele americane care aveau un singur braț. Echipajul putea comanda cele două brațe, dar ele puteau fi comandate și de la sol. Pentru că navetele spațiale americane nu erau prevăzute să zboare fără echipaj uman, cea de-a doua facilitate nu avea să fie niciodată implementată. Nici în primul zbor al lui Buran, naveta nu a fost echipată cu cele două brațe robotice, deoarece în scurta sa excursie orbitală ușile calei nu aveau să fie deschise. Lipseau astfel și radiatoarele necesare pentru evacuarea căldurii excesive (montate în interiorul ușilor calei și expuse doar când acestea erau deschise) iar pilele de combustie nu puteau susține naveta mai mult de 24 de ore. Din aceste motive, dacă Buran nu ar fi reușit să se întoarcă în 15 noiembrie, misiunea ar fi devenit un eșec, prin pierderea vehiculului.
+
+Operațiunile orbitale minimale au decurs fără incidente și după patru ore de zbor, Buran se afla pe pista de aterizare, cu doar o secundă mai devreme decât se planificase inițial. Zborul fusese un succes, dar din păcate, avea să fie pentru ultima dată când un vehicul din programul Buran avea să zboare spre orbită.
+
+*** Epilog
+
+Colapsul Uniunii Sovietice a însemnat sfârșitul programului Buran. Fondurile erau tot mai puține și tot mai mulți se întrebau care mai este necesitatea acestui vehicul, militând pentru cheltuirea sumelor de bani în alte scopuri: stația spațială MIR, iar apoi ISS. Sfârșitul Războiului Rece a însemnat și dispariția scopului primar pentru care Buran fusese construită. Noua Federație Rusă nu mai vedea un inamic în Statele Unite când venea vorba de activități spațiale, iar cele două superputeri au ales, înțelept am putea spune, să colaboreze în loc să se teamă unii de alții. Stația Spațială internațională de astăzi este rezultatul acestei fructoase colaborări.
+
+Programul Buran nu a fost suspendat niciodată oficial. Nu a existat un decret guvernamental care să marcheze finalul său, dar cei direct implicați au început să sesizeze schimbările. Piloții care se antrenau pentru Buran aveau să fie transferați spre alte programe iar celelalte resurse au fost redirecționate spre alte sectoare ale industriei spațiale rusești.
+
+Ce s-a întâmplat însă cu vehiculele deja construite? Poveste lor este una tristă. Buran, naveta care a zburat în spațiu, a fost depozitată la Baikonur, în Kazahstan, într-un hangar, împreună cu o replică a rachetei care a purtat-o pe orbită. În 2002 însă, acoperișul hangarului s-a prăbușit, în timpul unor operațiuni de renovare. Opt oameni și-au pierdut atunci viața, iar naveta a fost distrusă în totalitate. Au mai fost construite, în cadrul programului cu acelși nume, și alte vehicule, unele pentru teste atmosferice iar altele pentru a zbura în spațiu în anii următori zborului test. Acestea, aflate în diverse etape ale asamblării, sunt împrăștiate astăzi prin diverse locuri din lume și se află în stări de conservare mau mult sau mai puțin adecvate. În Moscova, în Parcul Gorki, poate fi admirat un vehicul complet, care a fost folosit pentru teste aerodinamice. Un altul se află în Kazahstan, la intrarea în cosmodromul de la Baikonur. Un alt vehicul care urma să fie simbolul măreției sovietice, a fost expus o perioadă la Sydney cu ocazia Jocurilor Olimpice de vară din 2000, trebuia să ajungă la un muzeu din Germania dar acum zace într-un depozit din Bahrain.
+
+Moștenirea programului Buran însă continuă și astăzi. Boosterele rachetei Energia au fost sursă de inspirație pentru rachetele folosite în prezent de către compania Sea Launch iar viitoarea generație de rachete rusești Angara tot de acolo se inspiră. Sistemul de andocare proiectat pentru Buran a fost folosit pentru stația spațială MIR și continuă să fie folosit și astăzi la bordul ISS.
 
 ** Sonde interplanetare active
 :PROPERTIES:
