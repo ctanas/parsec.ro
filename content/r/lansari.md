@@ -8,6 +8,8 @@ draft = false
 
 | Nr | Data  | Ora  | Lansator         | Satelit        | Țara    | Rampa           | Ținta | Rezultat      |
 |----|-------|------|------------------|----------------|---------|-----------------|-------|---------------|
+| 67 | 25.09 | 1357 | Soyuz-FG         | Soyuz MS-15    | Rusia   | Baikonur 1/5    | ISS   | Succes[^fn:1] |
+| 66 | 24.09 | 1605 | H-2B             | HTV-8          | Japonia | LA-Y2           | ISS   | Succes        |
 | 65 | 22.09 | 2110 | Changzheng-3B    | Beidou-3       | China   | Xichang         | MEO   | Succes        |
 | 64 | 19.09 | 0642 | Changzheng-11    | Zhuhai-1       | China   | Jiuquan         | SSO   | Succes        |
 | 63 | 12.09 | 0326 | Changzheng-4B    | Naxing-3       | China   | Taiyuan         | SSO   | Succes        |
@@ -16,7 +18,7 @@ draft = false
 | 60 | 22.08 | 1606 | Delta IV Medium  | GPS-III SV02   | SUA     | CC SLC-37B      | MEO   | Succes        |
 | 59 | 22.08 | 0338 | Soyuz-2.1a       | Soyuz MS-14    | Rusia   | Baikonur 31/6   | ISS   | Succes        |
 | 58 | 19.08 | 1212 | Electron         | BRO-1          | SUA     | Mahia LC-1      | LEO   | Succes        |
-| 57 | 19.08 | 1203 | Changzheng-3B/G2 | Chinasat-18    | China   | Xichang         | GEO   | Succes[^fn:1] |
+| 57 | 19.08 | 1203 | Changzheng-3B/G2 | Chinasat-18    | China   | Xichang         | GEO   | Succes[^fn:2] |
 | 56 | 17.08 | 0411 | Jielong-1        | QianSheng-1    | China   | Jiuquan         | SSO   | Succes        |
 | 55 | 08.08 | 1013 | Atlas V 551      | AEHF-5         | SUA     | CC SLC-41       | GEO   | Succes        |
 | 54 | 06.08 | 2323 | Falcon 9         | Amos-17        | SUA     | CC SLC-40       | GEO   | Succes        |
@@ -26,11 +28,11 @@ draft = false
 | 50 | 30.07 | 0556 | Soyuz-2.1a       | Meridian-8     | Rusia   | Plesetsk 43/4   | MOL   | Succes        |
 | 49 | 26.07 | 0357 | Changzheng-2C    | Yaogan-30      | China   | Xichang LC-3    | LEO   | Succes        |
 | 48 | 25.07 | 2201 | Falcon 9         | Dragon CRS-18  | SUA     | CC SLC-40       | ISS   | Succes        |
-| 47 | 25.07 | 0500 | Hyperbola-1      | CAS-7B         | China   | Jiuquan         | LEO   | Succes[^fn:2] |
+| 47 | 25.07 | 0500 | Hyperbola-1      | CAS-7B         | China   | Jiuquan         | LEO   | Succes[^fn:3] |
 | 46 | 22.07 | 0913 | GSLV Mk.III      | Chandrayaan-2  | India   | S-Dhawan SLP    | SNC   | Succes        |
 | 45 | 20.07 | 1628 | Soyuz-FG         | Soyuz MS-13    | Rusia   | Baikonur 1/5    | ISS   | Succes        |
 | 44 | 13.07 | 1230 | Proton-M         | Spektr-RG      | Rusia   | Baikonur 81/24  | LL2   | Succes        |
-| 43 | 11.07 | 0153 | Vega             | FalconEye-1    | Europa  | Kourou ELV      | LEO   | Eșec[^fn:3]   |
+| 43 | 11.07 | 0153 | Vega             | FalconEye-1    | Europa  | Kourou ELV      | LEO   | Eșec[^fn:4]   |
 | 42 | 10.07 | 1714 | Soyuz-2-1v       | Nivelir-L      | Rusia   | Plesetsk 43/4   | LEO   | Succes        |
 | 41 | 05.07 | 0541 | Soyuz-2.1b       | Meteor-M2-2    | Rusia   | Vostochny 1S    | SSO   | Succes        |
 | 41 | 29.06 | 0430 | Electron         | BS-Global-3    | SUA     | Mahia LC-1      | LEO   | Succes        |
@@ -42,7 +44,7 @@ draft = false
 | 35 | 30.05 | 1742 | Proton-M         | Yamal-601      | Rusia   | Baikonur 200/39 | GEO   | Succes        |
 | 34 | 27.05 | 0623 | Soyuz-2.1b       | GLONASS-M 758  | Rusia   | Plesetsk 43/4   | MEO   | Succes        |
 | 33 | 24.05 | 0230 | Falcon 9         | Starlink-1     | SUA     | CC SLC-40       | LEO   | Succes        |
-| 32 | 22.05 | 2249 | Changzheng-4C    | Yaogan-33      | China   | Taiyuan LC-9    | LEO   | Eșec[^fn:4]   |
+| 32 | 22.05 | 2249 | Changzheng-4C    | Yaogan-33      | China   | Taiyuan LC-9    | LEO   | Eșec[^fn:5]   |
 | 31 | 22.05 | 0000 | PSLV-CA          | RISAT-2B       | India   | S-Shawan FLP    | SSO   | Succes        |
 | 30 | 17.05 | 1548 | Changzheng-3C    | BeiDou-2 G8    | China   | Xichang LC-2    | MEO   | Succes        |
 | 29 | 05.05 | 0600 | Electron         | Harbinger      | SUA     | Mahia LC-1      | LEO   | Succes        |
@@ -56,7 +58,7 @@ draft = false
 | 21 | 01.04 | 0357 | PSLV-QL          | EMISAT         | India   | S-Dhawan SLP    | LEO   | Succes        |
 | 20 | 31.03 | 1550 | Changzheng-3B/E  | Tianlian-2-01  | China   | Xichang LC-2    | GEO   | Succes        |
 | 19 | 28.03 | 2230 | Electron         | R3D2           | SUA     | Mahia LC-1      | LEO   | Succes        |
-| 18 | 27.03 | 1039 | OS-M1            | Linque-1B      | China   | Jiquan SLS-2    | LEO   | Eșec[^fn:5]   |
+| 18 | 27.03 | 1039 | OS-M1            | Linque-1B      | China   | Jiquan SLS-2    | LEO   | Eșec[^fn:6]   |
 | 17 | 22.03 | 0150 | Vega             | PRISMA         | Europa  | Kourou ELV      | SSO   | Succes        |
 | 16 | 16.03 | 0026 | Delta-IV M+(5,4) | WGS-10         | SUA     | CC SLC-37B      | GEO   | Succes        |
 | 15 | 14.03 | 1914 | Soyuz-FG         | Soyuz MS-12    | Rusia   | Baikonur 1/5    | LEO   | Succes        |
@@ -107,8 +109,9 @@ MOL
 
 ### Note de subsol {#note-de-subsol}
 
-[^fn:1]: Racheta a urcat satelitul pe orbita corectă, dar ulterior acesta a suferit probleme tehnice.
-[^fn:2]: Prima lansare orbitală reușită a unei companii private din China.
-[^fn:3]: Prima lansare eșuată pentru racheta Vega, datorită unor probleme cu treapta secundară.
-[^fn:4]: Probleme cu a treia treaptă a rachetei Changzheng.
-[^fn:5]: Tentativa unei companii chinezești private de a pune pe orbită un satelit s-a încheiat cu un eșec după ce controlul rachetei a fost pierdut imediat după seprarea primei trepte.
+[^fn:1]: Ultima lansare a rachetei Soyuz-FG și probabil ultima lansare de pe rampa istorică 1/5 de la Baikonur.
+[^fn:2]: Racheta a urcat satelitul pe orbita corectă, dar ulterior acesta a suferit probleme tehnice.
+[^fn:3]: Prima lansare orbitală reușită a unei companii private din China.
+[^fn:4]: Prima lansare eșuată pentru racheta Vega, datorită unor probleme cu treapta secundară.
+[^fn:5]: Probleme cu a treia treaptă a rachetei Changzheng.
+[^fn:6]: Tentativa unei companii chinezești private de a pune pe orbită un satelit s-a încheiat cu un eșec după ce controlul rachetei a fost pierdut imediat după seprarea primei trepte.

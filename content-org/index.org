@@ -131,21 +131,27 @@ Construcția ISS a însemnat asamblare pe orbită a [modulelor componente](https
 
 În prezent sunt 6 astronauți la bordul Stației Spațiale Internaționale, parte a misiunii denumită *Expediția 60*:
 
-| Nume             | Agn  | Sosire      |       Data | Plecare     |       Data |
-|------------------+------+-------------+------------+-------------+------------|
-| Alexei Ovchinin  | RSA  | Soyuz MS-12 | 15.03.2019 | Soyuz MS-12 | /03.10.2019/ |
-| Nick Hague       | NASA | Soyuz MS-12 | 15.03.2019 | Soyuz MS-12 | /03.10.2019/ |
-| Christina Koch   | NASA | Soyuz MS-12 | 15.03.2019 | Soyuz MS-13 | /06.02.2020/ |
-|------------------+------+-------------+------------+-------------+------------|
-| Alexadr Skortsov | RSA  | Soyuz MS-13 | 20.07.2019 | Soyuz MS-13 | /06.02.2020/ |
-| Luca Parmitano   | ESA  | Soyuz MS-13 | 20.07.2019 | Soyuz MS-13 | /06.02.2020/ |
-| Andrew Morgan    | NASA | Soyuz MS-13 | 20.07.2019 | Soyuz MS-15 | /01.04.2020/ |
-|------------------+------+-------------+------------+-------------+------------|
+| Nume              | Agn   | Sosire      |       Data | Plecare     | Data       |
+|-------------------+-------+-------------+------------+-------------+------------|
+| Alexei Ovchinin   | RSA   | Soyuz MS-12 | 15.03.2019 | Soyuz MS-12 | /03.10.2019/ |
+| Nick Hague        | NASA  | Soyuz MS-12 | 15.03.2019 | Soyuz MS-12 | /03.10.2019/ |
+| Christina Koch    | NASA  | Soyuz MS-12 | 15.03.2019 | Soyuz MS-13 | /06.02.2020/ |
+|-------------------+-------+-------------+------------+-------------+------------|
+| Alexadr Skortsov  | RSA   | Soyuz MS-13 | 20.07.2019 | Soyuz MS-13 | /06.02.2020/ |
+| Luca Parmitano    | ESA   | Soyuz MS-13 | 20.07.2019 | Soyuz MS-13 | /06.02.2020/ |
+| Andrew Morgan     | NASA  | Soyuz MS-13 | 20.07.2019 | Soyuz MS-15 | /01.04.2020/ |
+|-------------------+-------+-------------+------------+-------------+------------|
+| Oleg Skripochka   | RSA   | Soyuz MS-15 | 25.09.2019 | Soyuz MS-15 | /01.04.2020/ |
+| Jessica Meir      | NASA  | Soyuz MS-15 | 25.09.2019 | Soyuz MS-15 | /01.04.2020/ |
+| Hazza Al Mansouri | MBRSC | Soyuz MS-15 | 25.09.2019 | Soyuz MS-12 | /03.10.2019/ |
+|-------------------+-------+-------------+------------+-------------+------------|
+
 
 *** Câte vehicule sunt în prezent andocate la ISS?
 
 | Vehicul        |    Lansare | Rachetă    | Port    |     Sosire | Plecare    | Recuperare |
 |----------------+------------+------------+---------+------------+------------+------------|
+| Soyuz MS-15    | 25.09.2019 | Soyuz-FG   | Zvezda  | 25.09.2019 | /01.04.2020/ | DA         |
 | Soyuz MS-12    | 14.03.2019 | Soyuz-FG   | Rassvet | 15.03.2019 | /03.10.2019/ | DA         |
 | Soyuz MS-13    | 20.07.2019 | Soyuz-FG   | Zvezda  | 20.07.2019 | 26.08.2019 | DA         |
 | Soyuz MS-13    | 20.07.2019 | Soyuz-FG   | Poisk   | 26.08.2019 | /06.02.2020/ | DA         |
@@ -286,6 +292,7 @@ STS-1 12 aprilie 1981 (2098 zile de la ASTP)
 :EXPORT_FILE_NAME: jurnal
 :END:
 
+- 25.10.2019 :: Soyuz MS-15 este lansată și andochează după 6 ore cu ISS;
 - 06.08.2019 :: Soyuz MS-14 revine cu bine înapoi pe Pământ;
 - 27.08.2019 :: Soyuz MS-14 andochează la portul /Zvezda;/
 Dragon CRS-18 se desprinde de modulul /Harmony/ și revine cu bine pe Pământ;
@@ -686,6 +693,8 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 
 | Nr |  Data |  Ora | Lansator         | Satelit        | Țara    | Rampa           | Ținta | Rezultat     |
 |----+-------+------+------------------+----------------+---------+-----------------+-------+--------------|
+| 67 | 25.09 | 1357 | Soyuz-FG         | Soyuz MS-15    | Rusia   | Baikonur 1/5    | ISS   | Succes[fn:6] |
+| 66 | 24.09 | 1605 | H-2B             | HTV-8          | Japonia | LA-Y2           | ISS   | Succes       |
 | 65 | 22.09 | 2110 | Changzheng-3B    | Beidou-3       | China   | Xichang         | MEO   | Succes       |
 | 64 | 19.09 | 0642 | Changzheng-11    | Zhuhai-1       | China   | Jiuquan         | SSO   | Succes       |
 | 63 | 12.09 | 0326 | Changzheng-4B    | Naxing-3       | China   | Taiyuan         | SSO   | Succes       |
@@ -785,6 +794,8 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 [fn:4] Prima lansare orbitală reușită a unei companii private din China.
 
 [fn:5] Racheta a urcat satelitul pe orbita corectă, dar ulterior acesta a suferit probleme tehnice.
+
+[fn:6] Ultima lansare a rachetei Soyuz-FG și probabil ultima lansare de pe rampa istorică 1/5 de la Baikonur.
 
 ** TODO Lansatoare orbitale viitoare
 :PROPERTIES:
@@ -1081,7 +1092,14 @@ Moștenirea programului Buran însă continuă și astăzi. Boosterele rachetei 
 :EXPORT_HUGO_SECTION: bul
 :END:
 
-** Buletin Cosmic nr. 44                :juno:ryugu:hayabusa2:proton:borisov:
+** TODO Buletin Cosmic nr. 45                     :soyuzms15:iss:htv8:cometa:
+:EXPORT_FILE_NAME: 045
+:EXPORT_DATE: 2019-09-25
+:END:
+
+
+
+** Buletin Cosmic nr. 44 :juno:ryugu:hayabusa2:proton:borisov:
 :PROPERTIES:
 :EXPORT_FILE_NAME: 044
 :EXPORT_DATE: 2019-09-18

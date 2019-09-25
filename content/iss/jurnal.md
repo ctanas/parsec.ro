@@ -4,6 +4,9 @@ author = ["Claudiu"]
 draft = false
 +++
 
+25.10.2019
+: Soyuz MS-15 este lansată și andochează după 6 ore cu ISS;
+
 06.08.2019
 : Soyuz MS-14 revine cu bine înapoi pe Pământ;
 
