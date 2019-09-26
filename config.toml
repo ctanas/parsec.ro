@@ -43,6 +43,10 @@ url = "/p/india/"
 title = "Naveta secretă X-37B"
 url = "/m/x37b/"
 
+[[params.best_posts]]
+title = "Naveta sovietică Buran"
+url = "/m/buran/"
+
 [[menu.primary]]
 identifier = "bul"
 name = "Buletin cosmic"
