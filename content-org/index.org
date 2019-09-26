@@ -693,8 +693,9 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 
 | Nr |  Data |  Ora | Lansator         | Satelit        | Țara    | Rampa           | Ținta | Rezultat     |
 |----+-------+------+------------------+----------------+---------+-----------------+-------+--------------|
-| 67 | 25.09 | 1357 | Soyuz-FG         | Soyuz MS-15    | Rusia   | Baikonur 1/5    | ISS   | Succes[fn:6] |
-| 66 | 24.09 | 1605 | H-2B             | HTV-8          | Japonia | LA-Y2           | ISS   | Succes       |
+| 68 | 25.09 | 1357 | Soyuz-FG         | Soyuz MS-15    | Rusia   | Baikonur 1/5    | ISS   | Succes[fn:6] |
+| 67 | 25.09 | 0054 | Changzheng-2D    | Yunhai-1       | China   | Jiuquan         | SSo   | Succes       |
+| 66 | 24.09 | 1605 | H-2B             | HTV-8          | Japonia | Tanegashima     | ISS   | Succes       |
 | 65 | 22.09 | 2110 | Changzheng-3B    | Beidou-3       | China   | Xichang         | MEO   | Succes       |
 | 64 | 19.09 | 0642 | Changzheng-11    | Zhuhai-1       | China   | Jiuquan         | SSO   | Succes       |
 | 63 | 12.09 | 0326 | Changzheng-4B    | Naxing-3       | China   | Taiyuan         | SSO   | Succes       |
@@ -1092,12 +1093,24 @@ Moștenirea programului Buran însă continuă și astăzi. Boosterele rachetei 
 :EXPORT_HUGO_SECTION: bul
 :END:
 
-** TODO Buletin Cosmic nr. 45                     :soyuzms15:iss:htv8:cometa:
+** Buletin Cosmic nr. 45 :soyuzms15:iss:htv8:
+:PROPERTIES:
 :EXPORT_FILE_NAME: 045
 :EXPORT_DATE: 2019-09-25
 :END:
 
+Miercuri, de la Baikonur, a avut loc ultima lansare de pe legendara rampă 1/5, de unde a decolat primul satelit artificial Sputnik, dar și Iuri Gagarin sau următoarele rachete cu echipaj. A fost în același timp al 70-lea și ultimul zbor al rachetei Soyuz-FG, o rachetă care a fost o punte de legătură între mai vechea rachetă Soyuz-U (folosită pentru lansările cu echipaj, dar retrasă din uz în 2017) și noua Soyuz-2, folosită pentru prima dată în 2004. Lansarea de miercuri a urcat pe orbită capsula Soyuz MS-15, care după 6 ore a andocat la portul Zvezda al Stației Spațiale Internaționale. La bordul capsule s-au aflat trei astronauți: Oleg Skripochka (aflat la el treilea zbor în spațiu), Jessica Meir și pentru prima data un astronaut din Emiratele Arabe Unite, Hazzaa Al Mansoori. Acesta va reveni la începutul lunii octombrie înapoi pe Pământ, la bordul capsulei Soyuz MS-12, împreună cu alți doi astronauți aflați în prezent la bordul ISS. Al Mansoori este parte a unui program de colaborare dintre Emiratele Arabe Unite și agenția spațială rusă, program care va continua cu un nou astronaut arab la bordul unei capsule Soyuz în viitorul apropiat, în acest fel Emiratele Arabe Unite devin a 41-a națiune care reușește să își trimită cetățeni pe orbită. Soyuz-FG a efectuat 70 de zboruri, din care doar unul, cel din octombrie 2018, s-a încheiat cu un eșec, astronauții fiind salvați de sistemul de siguranță al capsulei Soyuz.
 
+#+CAPTION: Ultima rachetă Soyuz-FG, pe rampa 1/5 de la Baikonur, înaintea lansării capsulei Soyuz MS-15. Este probabil ultimul zbor al unei rachete de pe această rampă, pentru mulți ani de acum înainte (/Sursa foto: [[https://www.flickr.com/photos/nasahqphoto/48791927552/in/album-72157711011423657/][NASA]]/).
+[[/img/soyuzfg.jpg]]
+
+---
+
+Tot spre Stația Spațială Internațională se îndreaptă și capsula japoneză HTV-8, a cărei lansare a avut loc marți, după ce a fost amânată câteva zile din cauza unui incendiu de pe rampa de lansare. Aceasta ar fi fost provocat de electricitatea statică și de excesul de oxigen din timpul alimentării rachetei H-2B și din fericire nu a afectat vehiculul. HTV-8 transportă, printre altele, un set nou de baterii care vor fi montate Stației Spațiale Internaționale în următoarea perioadă, dar și echipamente științifice și provizii pentru echipajul aflat la bord, având o încărcătură de peste 5 tone (inclusiv bateriile). HTV-8 se va apropia de ISS sâmbătă, iar brațul robotic al stației o va captura și o va conecta la modulul Harmony, în sectorul american la stației.
+
+---
+
+Din 30 august și până în perzent au avut loc 7 lansări orbitale reușite, din care 5 aparțin Chinei, care a ajuns la un total de 19 tentative (egalând poziția SUA), dar 2 au eșecuri, din care unul pentru o companie privată aflată la început de drum. Fiecare din cele 5 lansări din ultima perioadă a folosit câte un lansator diferit: de la rachetele de calibru ușor cu combustibil solid Kuaizhou-1A și Changzheng-11, ultima putând fi lansată de pe o platformă mobilă sau maritimă, la venerabilele Changzheng 4B, 3B sau 2D. După două zboruri cu diverse probleme tehnice, lansatorul greu Changzheg-5 se lasă așteptat, însă este posibil să-l vedem din nou pe rampă în acest an. Cahngzheng-5 trebuia să zboare din nou în această vară, după un prim zbor cu emoții și un al doilea complet ratat, rezolvarea problemele tehnice întârzie revenirea acestuia pe rampă, iar acest lucru va afecta startul asamblării noii stații orbitale chinezești, dar și a viitoarelor misiuni spre Lună și Marte, care depind de Changzheng-5.
 
 ** Buletin Cosmic nr. 44 :juno:ryugu:hayabusa2:proton:borisov:
 :PROPERTIES:
