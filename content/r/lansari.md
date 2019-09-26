@@ -8,6 +8,7 @@ draft = false
 
 | Nr | Data  | Ora  | Lansator         | Satelit        | Țara    | Rampa           | Ținta | Rezultat      |
 |----|-------|------|------------------|----------------|---------|-----------------|-------|---------------|
+| 69 | 26.09 | 0746 | Soyuz-2.1b       | Tundra         | Rusia   | Plesetsk 43/4   | MOL   | Succes        |
 | 68 | 25.09 | 1357 | Soyuz-FG         | Soyuz MS-15    | Rusia   | Baikonur 1/5    | ISS   | Succes[^fn:1] |
 | 67 | 25.09 | 0054 | Changzheng-2D    | Yunhai-1       | China   | Jiuquan         | SSo   | Succes        |
 | 66 | 24.09 | 1605 | H-2B             | HTV-8          | Japonia | Tanegashima     | ISS   | Succes        |
