@@ -7,14 +7,29 @@ draft = false
 ## Ianuarie {#ianuarie}
 
 
+### 12 {#12}
+
+-   Lansarea navetei Columbia în misiunea STS-61-C de pe rampa LC-39A și primul zbor al navetei Columbia după misiunea STS-9. Ultimul zbor al unei navete spațiale înainte de pierderea navetei Challenger (**1986**)
+
+
+### 18 {#18}
+
+-   Aterizarea navetei Columbia pe pista de la baza aeriană Edwards, la finalul misiunii STS-61-C (**1986**)
+
+
 ### 24 {#24}
 
--   Are loc prima misiune secretă (STS-51-C) a navetei spațiale (Discovery), pentru Departamentul Apărării al SUA.
+-   Are loc prima misiune secretă (STS-51-C) a navetei spațiale (Discovery), pentru Departamentul Apărării al SUA (**1985**)
 
 
 ### 27 {#27}
 
--   Misiunea STS-51-C se sfârșește după aterizarea navetei Discovery la KSC.
+-   Misiunea STS-51-C se sfârșește după aterizarea navetei Discovery la KSC (**1985**)
+
+
+### 28 {#28}
+
+-   La 73 de secunde după lansarea în misiunea STS-51-L, naveta spațială Challenger se dezintegrează și întreg echipajul (format din 7 astronauți) este pierdut (**1986**)
 
 
 ## Februarie {#februarie}
@@ -96,17 +111,22 @@ draft = false
 ## Mai {#mai}
 
 
-### 15 {#15}
-
--   Primul zbor al propulsorului sovietic Energia, având la bord satelitul Polyus (**1987**)
-
-
 ### 06 {#06}
 
 Naveta Challenger aterizează la baza aeriană Edwards și încheie misiunea STS-51-B (**1985**)
 
 
+### 15 {#15}
+
+-   Primul zbor al propulsorului sovietic Energia, având la bord satelitul Polyus (**1987**)
+
+
 ## Iunie {#iunie}
+
+
+### 17 {#17}
+
+-   Lansarea navetei Discovery în misiunea STS-51-G. La bord s-a aflat și Sultan Salman Al Saud, primul arab, musulman și membru al unei familii regale care avea să ajungă în spațiu (**1985**)
 
 
 ### 18 {#18}
@@ -117,6 +137,7 @@ Naveta Challenger aterizează la baza aeriană Edwards și încheie misiunea STS
 ### 24 {#24}
 
 -   Aterizarea navetei Challenger, la finalul misiunii STS-7 (**1983**)
+-   Aterizarea navetei Discovery, la finalul misiunii STS-51-G (**1985**)
 
 
 ### 27 {#27}
@@ -132,12 +153,27 @@ Naveta Challenger aterizează la baza aeriană Edwards și încheie misiunea STS
 -   Aterizarea navetei spațiale Columbia, pe pista 22 de la baza aeriană Edwards, la finalul misiunii STS-4 (**1982**)
 
 
+### 29 {#29}
+
+-   Lansarea navetei Challenger în misiunea STS-51-F, cu modulul SpaceLab 2 în cală. A fost pentru prima dată când băuturile carbogazoase Pepsi și Coca-Cola au ajuns în spațiu. Au fost semnalate unele probleme cu senzorii motoarelor navetei și astfel a fost singura dată când naveta a folosit o procedura de urgență (ATO - _Abort to Orbit_), motiv pentru care orbita a fost mai joasă decât cea stabilită inițial (**1985**)
+
+
 ## August {#august}
+
+
+### 6 {#6}
+
+-   Aterizarea navetei Challenger pe pista 23 de la baza aeriană Edwards, la finalul misiunii STS-51-F (**1985**)
 
 
 ### 12 {#12}
 
-Primul zbor atmosferic al navetei Enterprise (ALT-12); a durat doar 5 minute, după care naveta a aterizat pe pista bazei aeriene Edwards (**1977**)
+-   Primul zbor atmosferic al navetei Enterprise (ALT-12); a durat doar 5 minute, după care naveta a aterizat pe pista bazei aeriene Edwards (**1977**)
+
+
+### 27 {#27}
+
+-   Lansarea navetei Discovery în misiunea STS-51-I, de pe rampa LC-39A (**1985**)
 
 
 ### 30 {#30}
@@ -149,6 +185,11 @@ Primul zbor atmosferic al navetei Enterprise (ALT-12); a durat doar 5 minute, du
 ## Septembrie {#septembrie}
 
 
+### 03 {#03}
+
+-   Aterizarea navetei Discovery pe pista 23 de la baza aeriană Edwards, la finalul misiunii STS-51-I (**1985**)
+
+
 ### 05 {#05}
 
 -   Misiunea STS-8 ia sfârșit și naveta spațiale Challenger aterizează pe pista 22 de la baza aeriană Edwards (**1983**)
@@ -158,17 +199,37 @@ Primul zbor atmosferic al navetei Enterprise (ALT-12); a durat doar 5 minute, du
 ## Octombrie {#octombrie}
 
 
+### 03 {#03}
+
+-   Lansarea navetei Atlantis în misiunea STS-51-J de pe rampa LC-39A, misiune secretă dedicată Departamentului de Apărare al SUA; primul zbor al navetei Atlantis (**1985**)
+
+
 ### 05 {#05}
 
-Debutul misiunii STS-41-G (Challenger) și prezența în premieră a două femei pe orbită: Sally Ride și Kathryn Sullivan (**1984**)
+-   Debutul misiunii STS-41-G (Challenger) și prezența în premieră a două femei pe orbită: Sally Ride și Kathryn Sullivan (**1984**)
+
+
+### 07 {#07}
+
+-   Aterizarea navetei Atlantis după prima sa misiune, STS-51-J, pe pista 23 de la baza aeriană Edwards (**1985**)
 
 
 ### 13 {#13}
 
-Se încheie misiunea STS-41-G (Challenger)
+-   Se încheie misiunea STS-41-G (naveta Challenger)
+
+
+### 30 {#30}
+
+-   Lansarea navetei Challener în misiunea STS-61-A de pe rampa LC-39A. A fost singura dată când la bordul navetei s-au aflat 8 membri ai echipajului, de la lansare și până la aterizare (**1985**)
 
 
 ## Noiembrie {#noiembrie}
+
+
+### 06 {#06}
+
+-   Aterizarea navetei Challenger pe pista 17 de la baza aeriană Edwards, la finalul misiunii STS-61-A (**1985**)
 
 
 ### 08 {#08}
@@ -202,12 +263,22 @@ Se încheie misiunea STS-41-G (Challenger)
 -   Misiunea STS-51-A (Discovery) ia sfârșit, după ce naveta aterizează la KSC
 
 
+### 27 {#27}
+
+-   Lansarea navetei Atlantis în misiunea STS-61-B de pe rampa LC-39A; a fost cel mai scurt timp dintre două lansări ale aceleași navete spațiale: doar 54 de zile de la ultimul zbor al navetei Atlantis, în misiunea STS-51-J (**1985**)
+
+
 ### 28 {#28}
 
 -   Lansarea navetei Columbia în misiunea STS-9 și primul zbor al modulului Spacelab (**1983**)
 
 
 ## Decembrie {#decembrie}
+
+
+### 03 {#03}
+
+-   Aterizarea navetei Atlantis pe pista 22 de la baza aeriană Edwards și finalul misiunii STS-61-B (**1985**)
 
 
 ### 08 {#08}
