@@ -4,8 +4,8 @@ author = ["Claudiu"]
 draft = false
 +++
 
-## Site în lucru! {#site-în-lucru}
+## Rachete, astronauți, stații spațiale, planete și comete {#rachete-astronauți-stații-spațiale-planete-și-comete}
 
-Site-ul este în continuare în lucru, dar măcar acum urmează să adaug conținut, în timp ce forma, structura și workflow-ul sunt de acum fixe (sper). Am reușit să adun aici textul Buletinelor Cosmice din acest an, plus câteva articole de actualitate, aduse la zi, pe care le găsiți mai jos. Da, mai sunt câteva lucruri de finisat și de aranjat, nu prea sunt poze, mai trebuie puțin aranjat CSS-ul, dar în mare cam ăsta este noul parsec.ro.
+O colecție de materiale despre explorarea spațiului cosmic, mereu adusă la zi și exstinsă: detalii despre Stația Spațială Internațională și astronauții aflați în prezent în spațiu, articole despre programele spațiale active, liste cu lansările orbitale din anul curent sau cu sondele interplanetare active, date despre activitatea SpaceX sau alte informații cu privire la spațiul cosmic.
 
-Mai multe articole și date, cât de curând! Până atunci, [ne vedem și pe Facebook](https://www.facebook.com/parsec.ro), ca și până acum, unde sunt știri proaspete (și imagini spectaculoase!) din spațiu.
+Știrile săptămânale sunt grupate în Buletine Cosmice, care conțin, pe scurt, detalii despre cele mai importante eveniemente ale săptămânii. Pentru știri calde și imagini spectaculoase din spațiu, site-ul are o și pagină de [Facebook](https://www.facebook.com/parsec.ro).

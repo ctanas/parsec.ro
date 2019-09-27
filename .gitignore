@@ -26,3 +26,4 @@ _testmain.go
 .DS_Store
 content-org/.#index.org
 *.org#
+content/bul/.#*
