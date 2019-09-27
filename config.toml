@@ -32,6 +32,10 @@ title = "Lansări orbitale în 2019"
 url = "/r/lansari/"
 
 [[params.best_posts]]
+title = "Programul spațial chinezesc"
+url = "/p/china/"
+
+[[params.best_posts]]
 title = "Programul spațial iranian"
 url = "/p/iran/"
 

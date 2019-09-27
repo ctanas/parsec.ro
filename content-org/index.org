@@ -9,7 +9,6 @@
 :END:
 
 ** Rachete, astronauți, stații spațiale, planete și comete
-
 O colecție de materiale despre explorarea spațiului cosmic, mereu adusă la zi și exstinsă: detalii despre Stația Spațială Internațională și astronauții aflați în prezent în spațiu, articole despre programele spațiale active, liste cu lansările orbitale din anul curent sau cu sondele interplanetare active, date despre activitatea SpaceX sau alte informații cu privire la spațiul cosmic. 
 
 Știrile săptămânale sunt grupate în Buletine Cosmice, care conțin, pe scurt, detalii despre cele mai importante eveniemente ale săptămânii. Pentru știri calde și imagini spectaculoase din spațiu, site-ul are o și pagină de [[https://www.facebook.com/parsec.ro][Facebook]].
@@ -390,8 +389,9 @@ Changzheng-9 urmează să fie lansatorul de calibru supergreu al Chinei, compara
 Spre deosebire de rachetele din noua generație prezentate mai sus, Changzheng 11 este o rachetă cu combustibil solid. Asta înseamnă că ea poate fi lansată rapid, la nevoie, putând fi lansată de pe platforme mobile sau chiar maritime (dacă sunt apropiate de ecuator, platformele maritime oferă un plus de performanță). Changzheng-11 are în schimb performanțe modeste: doar 700 de kilograme pe LEO și 350 kg pe orbită heliosincronă, însă din cele 8 lansări de până acum (din 2015) ea nu a suferit nici un eșec. În 5 iunie 2019 China reușea prima lansare de pe o platformă maritimă, folosind o variantă modificată a acestei rachete, Changzheng-11H
 
 *** Sectorul privat
+Compania iSpace (sau, pe numele său complet /Beijing Interstellar Glory Space Technology Ltd./) a devenit în 25 iulie 2019 prima companie privată care a reușit o lansare orbitală din China. Racheta Hyperbola-1 a companiei iSpace este o rachetă cu trei trepte cu combustibil solid și o a patra treaptă cu combustibil lichid, lungă de 20.8 metri și o masă pe rampa de lansare de 31 de tone.
 
-*** Zboruri cu echipaj și stații spațiale
+În 2014, guvernul din China a permis apariția acestor entități private, separate de progarmul spațial oficial, care încep să construiască și să lanseze rachete orbitale. iSpace nu este singura astfel de companie, în China se desfășoară în prezent un fel de cursă spațială privată între iSpace, Landspace (cu racheta Zhuque-2  cu motoare TQ ce ard metan), Linkspace (cu racheta New Line, care urmează să debuteze în 2020), OneSpace (a cărei rachetă OS-M1 nu a reușit să ajungă pe orbită în zborul din 27 martie 2019), Jiuzhou Yunjian și Galactic Energy (/Beijing Xinghe Dongli Space Technology Co. Ltd.,/ cu racheta Pallas-1 capabilă să urce 4 tone pe LEO și 2 tone pe SSO sau Ceres-1, rachetă cu combustibil solid).
 
 *** Note de subsol
 

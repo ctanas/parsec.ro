@@ -84,8 +84,9 @@ Spre deosebire de rachetele din noua generație prezentate mai sus, Changzheng 1
 
 ## Sectorul privat {#sectorul-privat}
 
+Compania iSpace (sau, pe numele său complet _Beijing Interstellar Glory Space Technology Ltd._) a devenit în 25 iulie 2019 prima companie privată care a reușit o lansare orbitală din China. Racheta Hyperbola-1 a companiei iSpace este o rachetă cu trei trepte cu combustibil solid și o a patra treaptă cu combustibil lichid, lungă de 20.8 metri și o masă pe rampa de lansare de 31 de tone.
 
-## Zboruri cu echipaj și stații spațiale {#zboruri-cu-echipaj-și-stații-spațiale}
+În 2014, guvernul din China a permis apariția acestor entități private, separate de progarmul spațial oficial, care încep să construiască și să lanseze rachete orbitale. iSpace nu este singura astfel de companie, în China se desfășoară în prezent un fel de cursă spațială privată între iSpace, Landspace (cu racheta Zhuque-2  cu motoare TQ ce ard metan), Linkspace (cu racheta New Line, care urmează să debuteze în 2020), OneSpace (a cărei rachetă OS-M1 nu a reușit să ajungă pe orbită în zborul din 27 martie 2019), Jiuzhou Yunjian și Galactic Energy (_Beijing Xinghe Dongli Space Technology Co. Ltd.,_ cu racheta Pallas-1 capabilă să urce 4 tone pe LEO și 2 tone pe SSO sau Ceres-1, rachetă cu combustibil solid).
 
 
 ## Note de subsol {#note-de-subsol}
