@@ -48,14 +48,24 @@ draft = false
 ## Martie {#martie}
 
 
-### 22 {#22}
+### 13 {#13}
 
--   Lansarea navetei Columbia în misiunea STS-3 (**1982**)
+-   Lansarea navetei Discovery de pe rampa LC-39B și debutul misiunii STS-29 (**1989**)
+
+
+### 18 {#18}
+
+-   Aterizarea navetei Discovery pe pista 22 de la baza aeriană Edwards și finalul misiunii STS-29 (**1989**)
 
 
 ### 20 {#20}
 
 -   Aterizarea navetei Columbia și încheierea misiunii STS-3 (**1982**)
+
+
+### 22 {#22}
+
+-   Lansarea navetei Columbia în misiunea STS-3 (**1982**)
 
 
 ## Aprilie {#aprilie}
@@ -111,9 +121,19 @@ draft = false
 ## Mai {#mai}
 
 
+### 04 {#04}
+
+-   Lansarea navetei Atlantis de pe rampa LC-39B și debutul misiunii STS-30; în cala navetei s-a aflat sonda Magellan care, după lansare, a pornit spre Venus (**1989**)
+
+
 ### 06 {#06}
 
 Naveta Challenger aterizează la baza aeriană Edwards și încheie misiunea STS-51-B (**1985**)
+
+
+### 08 {#08}
+
+-   Aterizarea navetei Atlantis pe pista 22 a bazei aeriene de la Edwards și finalul misiunii STS-30 (**1989**)
 
 
 ### 15 {#15}
@@ -161,14 +181,24 @@ Naveta Challenger aterizează la baza aeriană Edwards și încheie misiunea STS
 ## August {#august}
 
 
-### 6 {#6}
+### 06 {#06}
 
 -   Aterizarea navetei Challenger pe pista 23 de la baza aeriană Edwards, la finalul misiunii STS-51-F (**1985**)
+
+
+### 08 {#08}
+
+-   Lansarea navetei Columbia în misiunea STS-28, dedicată Departamentului de Apărare al SUA (\*1989)
 
 
 ### 12 {#12}
 
 -   Primul zbor atmosferic al navetei Enterprise (ALT-12); a durat doar 5 minute, după care naveta a aterizat pe pista bazei aeriene Edwards (**1977**)
+
+
+### 13 {#13}
+
+-   Aterizarea navetei Columbia pe pista 17 de la baza aeriană Edwards și finalul misiunii STS-28 (**1989**)
 
 
 ### 27 {#27}
@@ -196,12 +226,23 @@ Naveta Challenger aterizează la baza aeriană Edwards și încheie misiunea STS
 -   Se încheie prima misiune a navetei Discovery (STS-41-D), care aterizează pe pista 17 de la baza aeriană Edwards (**1984**)
 
 
+### 21 {#21}
+
+-   Finalul misiunii Galileo, sonda plonjează în atmosfera lui Jupiter (**2003**)
+
+
+### 29 {#29}
+
+-   Lansarea navetei Discovery în misiunea STS-26 de pe rampa LC-29B și primul zbor al unei navete spațiale după dezastrul navetei Challenger (**1988**)
+
+
 ## Octombrie {#octombrie}
 
 
 ### 03 {#03}
 
 -   Lansarea navetei Atlantis în misiunea STS-51-J de pe rampa LC-39A, misiune secretă dedicată Departamentului de Apărare al SUA; primul zbor al navetei Atlantis (**1985**)
+-   Aterizarea navetei Discovery pe pista 17 de la baza aeriană Edwards și finalul misiunii STS-26 (**1988**)
 
 
 ### 05 {#05}
@@ -217,6 +258,17 @@ Naveta Challenger aterizează la baza aeriană Edwards și încheie misiunea STS
 ### 13 {#13}
 
 -   Se încheie misiunea STS-41-G (naveta Challenger)
+-   Se încheie misiunea sondei Magellan, care plonjează în norii planetei Venus (**1994**)
+
+
+### 18 {#18}
+
+-   Lansarea navetei Atlantis și debutul misiunii STS-34, care a trimis sonda Galileo spre Jupiter (**1989**)
+
+
+### 23 {#23}
+
+-   Aterizarea navetei Atlantis pe pista 23 de la baza aeriană Edwards și finalul misiunii STS-34 (**1989**)
 
 
 ### 30 {#30}
@@ -263,6 +315,11 @@ Naveta Challenger aterizează la baza aeriană Edwards și încheie misiunea STS
 -   Misiunea STS-51-A (Discovery) ia sfârșit, după ce naveta aterizează la KSC
 
 
+### 23 {#23}
+
+-   Lansarea navetei Discovery de pe rampa LC-39B în misiunea STS-33 dedicată Departamentului de Apăerare al SUA (**1989**)
+
+
 ### 27 {#27}
 
 -   Lansarea navetei Atlantis în misiunea STS-61-B de pe rampa LC-39A; a fost cel mai scurt timp dintre două lansări ale aceleași navete spațiale: doar 54 de zile de la ultimul zbor al navetei Atlantis, în misiunea STS-51-J (**1985**)
@@ -271,9 +328,15 @@ Naveta Challenger aterizează la baza aeriană Edwards și încheie misiunea STS
 ### 28 {#28}
 
 -   Lansarea navetei Columbia în misiunea STS-9 și primul zbor al modulului Spacelab (**1983**)
+-   Aterizarea navetei Discovery pe pista 4 de la baza aeriană Edwards și finalul misiunii STS-33 (**1989**)
 
 
 ## Decembrie {#decembrie}
+
+
+### 02 {#02}
+
+-   Lansarea navetei Atlantis de pe rampa LC-39B și debutul misiunii STS-27, o misiune dedicată Departamentului de Apărare al SUA, pentru lansare unui satelit de spionaj Lacrosse. Scutul ceramic al navetei a fost serios avariat și doar faptul că avariile au fost în zone mai puțin critice a făcut ca naveta să nu se dezintegreze la revenirea prin atmosferă (**1988**)
 
 
 ### 03 {#03}
@@ -281,6 +344,12 @@ Naveta Challenger aterizează la baza aeriană Edwards și încheie misiunea STS
 -   Aterizarea navetei Atlantis pe pista 22 de la baza aeriană Edwards și finalul misiunii STS-61-B (**1985**)
 
 
+### 06 {#06}
+
+-   Aterizarea navetei Atlantis pe pista 17 de la baza aeriană Edwards și finalul misiunii STS-27 (**1988**)
+
+
 ### 08 {#08}
 
 -   Misiunea STS-9 ia sfârșit și naveta Columbia aterizează pe pista 17 a bazei aeriene Edwards (**1983**)
+-   Sonda Galileo intră pe orbita planetei Jupiter (**1995**)

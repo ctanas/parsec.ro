@@ -884,10 +884,15 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 **** 11
 - Misiunea STS-41-B se încheie odată cu aterizarea navetei Challenger pe pista de la KSC (o premiră) (*1984*)
 *** Martie
-**** 22
-- Lansarea navetei Columbia în misiunea STS-3 (*1982*)
+**** 13
+- Lansarea navetei Discovery de pe rampa LC-39B și debutul misiunii STS-29 (*1989*)
+**** 18
+- Aterizarea navetei Discovery pe pista 22 de la baza aeriană Edwards și finalul misiunii STS-29 (*1989*)
 **** 20
 - Aterizarea navetei Columbia și încheierea misiunii STS-3 (*1982*)
+
+**** 22
+- Lansarea navetei Columbia în misiunea STS-3 (*1982*)
 *** Aprilie
 **** 04
 - Primul zbor al navetei Challenger, în misiunea STS-6 și ultima dată până la misiunea STS-135 când naveta a avut un echipaj de 4 astronauți la bord (*1983*)
@@ -910,8 +915,12 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 **** 29
 - Lansare navetei Challenger în misiunea STS-51-B (*1985*)
 *** Mai
+**** 04
+- Lansarea navetei Atlantis de pe rampa LC-39B și debutul misiunii STS-30; în cala navetei s-a aflat sonda Magellan care, după lansare, a pornit spre Venus (*1989*)
 **** 06
 Naveta Challenger aterizează la baza aeriană Edwards și încheie misiunea STS-51-B (*1985*)
+**** 08
+- Aterizarea navetei Atlantis pe pista 22 a bazei aeriene de la Edwards și finalul misiunii STS-30 (*1989*)
 **** 15
 - Primul zbor al propulsorului sovietic Energia, având la bord satelitul Polyus (*1987*)
 *** Iunie
@@ -930,10 +939,14 @@ Naveta Challenger aterizează la baza aeriană Edwards și încheie misiunea STS
 **** 29
 - Lansarea navetei Challenger în misiunea STS-51-F, cu modulul SpaceLab 2 în cală. A fost pentru prima dată când băuturile carbogazoase Pepsi și Coca-Cola au ajuns în spațiu. Au fost semnalate unele probleme cu senzorii motoarelor navetei și astfel a fost singura dată când naveta a folosit o procedura de urgență (ATO - /Abort to Orbit/), motiv pentru care orbita a fost mai joasă decât cea stabilită inițial (*1985*)
 *** August
-**** 6
+**** 06
 - Aterizarea navetei Challenger pe pista 23 de la baza aeriană Edwards, la finalul misiunii STS-51-F (*1985*)
+**** 08 
+- Lansarea navetei Columbia în misiunea STS-28, dedicată Departamentului de Apărare al SUA (*1989)
 **** 12
 - Primul zbor atmosferic al navetei Enterprise (ALT-12); a durat doar 5 minute, după care naveta a aterizat pe pista bazei aeriene Edwards (*1977*)
+**** 13
+- Aterizarea navetei Columbia pe pista 17 de la baza aeriană Edwards și finalul misiunii STS-28 (*1989*)
 **** 27
 - Lansarea navetei Discovery în misiunea STS-51-I, de pe rampa LC-39A (*1985*)
 **** 30
@@ -945,15 +958,25 @@ Naveta Challenger aterizează la baza aeriană Edwards și încheie misiunea STS
 **** 05
 - Misiunea STS-8 ia sfârșit și naveta spațiale Challenger aterizează pe pista 22 de la baza aeriană Edwards (*1983*)
 - Se încheie prima misiune a navetei Discovery (STS-41-D), care aterizează pe pista 17 de la baza aeriană Edwards (*1984*)
+**** 21
+- Finalul misiunii Galileo, sonda plonjează în atmosfera lui Jupiter (*2003*)
+**** 29
+- Lansarea navetei Discovery în misiunea STS-26 de pe rampa LC-29B și primul zbor al unei navete spațiale după dezastrul navetei Challenger (*1988*)
 *** Octombrie
 **** 03 
 - Lansarea navetei Atlantis în misiunea STS-51-J de pe rampa LC-39A, misiune secretă dedicată Departamentului de Apărare al SUA; primul zbor al navetei Atlantis (*1985*)
+- Aterizarea navetei Discovery pe pista 17 de la baza aeriană Edwards și finalul misiunii STS-26 (*1988*)
 **** 05 
 - Debutul misiunii STS-41-G (Challenger) și prezența în premieră a două femei pe orbită: Sally Ride și Kathryn Sullivan (*1984*)
 **** 07
 - Aterizarea navetei Atlantis după prima sa misiune, STS-51-J, pe pista 23 de la baza aeriană Edwards (*1985*)
 **** 13 
 - Se încheie misiunea STS-41-G (naveta Challenger)
+- Se încheie misiunea sondei Magellan, care plonjează în norii planetei Venus (*1994*)
+**** 18
+- Lansarea navetei Atlantis și debutul misiunii STS-34, care a trimis sonda Galileo spre Jupiter (*1989*)
+**** 23
+- Aterizarea navetei Atlantis pe pista 23 de la baza aeriană Edwards și finalul misiunii STS-34 (*1989*)
 **** 30
 - Lansarea navetei Challener în misiunea STS-61-A de pe rampa LC-39A. A fost singura dată când la bordul navetei s-au aflat 8 membri ai echipajului, de la lansare și până la aterizare (*1985*)
 *** Noiembrie
@@ -972,16 +995,23 @@ Naveta Challenger aterizează la baza aeriană Edwards și încheie misiunea STS
 **** 16
 - Misiunea STS-5 ia sfârșit și naveta Columbia aterizează pe pista 22 la baza aeriană Edwards (*1982*)
 - Misiunea STS-51-A (Discovery) ia sfârșit, după ce naveta aterizează la KSC
+**** 23 
+- Lansarea navetei Discovery de pe rampa LC-39B în misiunea STS-33 dedicată Departamentului de Apăerare al SUA (*1989*)
 **** 27
 - Lansarea navetei Atlantis în misiunea STS-61-B de pe rampa LC-39A; a fost cel mai scurt timp dintre două lansări ale aceleași navete spațiale: doar 54 de zile de la ultimul zbor al navetei Atlantis, în misiunea STS-51-J (*1985*)
 **** 28
 - Lansarea navetei Columbia în misiunea STS-9 și primul zbor al modulului Spacelab (*1983*)
+- Aterizarea navetei Discovery pe pista 4 de la baza aeriană Edwards și finalul misiunii STS-33 (*1989*)
 *** Decembrie
+**** 02
+- Lansarea navetei Atlantis de pe rampa LC-39B și debutul misiunii STS-27, o misiune dedicată Departamentului de Apărare al SUA, pentru lansare unui satelit de spionaj Lacrosse. Scutul ceramic al navetei a fost serios avariat și doar faptul că avariile au fost în zone mai puțin critice a făcut ca naveta să nu se dezintegreze la revenirea prin atmosferă (*1988*)
 **** 03
 - Aterizarea navetei Atlantis pe pista 22 de la baza aeriană Edwards și finalul misiunii STS-61-B (*1985*)
+**** 06
+- Aterizarea navetei Atlantis pe pista 17 de la baza aeriană Edwards și finalul misiunii STS-27 (*1988*)
 **** 08
 - Misiunea STS-9 ia sfârșit și naveta Columbia aterizează pe pista 17 a bazei aeriene Edwards (*1983*)
-
+- Sonda Galileo intră pe orbita planetei Jupiter (*1995*)
 ** X-37B
 :PROPERTIES:
 :EXPORT_FILE_NAME: x37b 
