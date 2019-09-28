@@ -7,6 +7,11 @@ draft = false
 ## Ianuarie {#ianuarie}
 
 
+### 09 {#09}
+
+-   Lansarea navetei Columbia de pe rampa LC-39A în misiunea STS-32 (**1990**)
+
+
 ### 12 {#12}
 
 -   Lansarea navetei Columbia în misiunea STS-61-C de pe rampa LC-39A și primul zbor al navetei Columbia după misiunea STS-9. Ultimul zbor al unei navete spațiale înainte de pierderea navetei Challenger (**1986**)
@@ -15,6 +20,11 @@ draft = false
 ### 18 {#18}
 
 -   Aterizarea navetei Columbia pe pista de la baza aeriană Edwards, la finalul misiunii STS-61-C (**1986**)
+
+
+### 20 {#20}
+
+-   Aterizarea navetei Columbia pe pista 22 de la baza aeriană Edwards și finalul misiunii STS-32 (**1990**)
 
 
 ### 24 {#24}
@@ -45,7 +55,17 @@ draft = false
 -   Misiunea STS-41-B se încheie odată cu aterizarea navetei Challenger pe pista de la KSC (o premiră) (**1984**)
 
 
+### 28 {#28}
+
+-   Lansarea navetei Atlantis de pe rampa LC-39A în misiunea STS-36 dedicată Departamentului de Apărare al SUA (**1990**)
+
+
 ## Martie {#martie}
+
+
+### 04 {#04}
+
+-   Aterizarea navetei Atlantis pe pista 23 de la baza aeriană Edwards, la finalul misiunii STS-36 (**1990**)
 
 
 ### 13 {#13}
@@ -113,9 +133,15 @@ draft = false
 -   Se încheie misiunea STS-51-D, după ce naveta Discovery aterizează la KSC și unul din cauciucuri explodează, dar fără a afecta naveta (**1985**)
 
 
+### 24 {#24}
+
+-   Lansarea navetei Discovery de pe rampa LC-39B având la bord telescopul spațial Hubble (misiunea STS-31) (**1990**).
+
+
 ### 29 {#29}
 
--   Lansare navetei Challenger în misiunea STS-51-B (**1985**)
+-   Lansarea navetei Challenger în misiunea STS-51-B (**1985**)
+-   Aterizarea navetei Discovery pe pista 22 de la baza aeriană Edwards și finalul misiunii STS-31 (**1990**)
 
 
 ## Mai {#mai}
@@ -163,6 +189,11 @@ Naveta Challenger aterizează la baza aeriană Edwards și încheie misiunea STS
 ### 27 {#27}
 
 -   Lansarea navetei Columbia în misiunea STS-4, ultimul zbor test înainte de misiunile operaționale (**1982**)
+
+
+### 30 {#30}
+
+-   Sonda heliocentrică Ulysses, lansară de naveta Discovery în 6 octombrie 1990, a fost dezactivată (**2009**)
 
 
 ## Iulie {#iulie}
@@ -250,9 +281,19 @@ Naveta Challenger aterizează la baza aeriană Edwards și încheie misiunea STS
 -   Debutul misiunii STS-41-G (Challenger) și prezența în premieră a două femei pe orbită: Sally Ride și Kathryn Sullivan (**1984**)
 
 
+### 06 {#06}
+
+-   Lansarea navetei Discovery de pe rampa LC-39B având la bord sonda interplanetară Ulysses, care a ajuns pe orbită heliocentrică (STS-41) (**1990**)
+
+
 ### 07 {#07}
 
 -   Aterizarea navetei Atlantis după prima sa misiune, STS-51-J, pe pista 23 de la baza aeriană Edwards (**1985**)
+
+
+### 10 {#10}
+
+-   Aterizarea navetei Discovery pe rampa 22 de la baza aeriană Edwards, la finalul misiunii STS-41 (**1990**)
 
 
 ### 13 {#13}
@@ -307,12 +348,18 @@ Naveta Challenger aterizează la baza aeriană Edwards și încheie misiunea STS
 ### 15 {#15}
 
 -   Primul (și ultimul) zbor al navetei spațiale sovietice Buran și al doilea și ultimul zbor al propulsorului Energia (**1988**)
+-   Lansarea navetei Atlantis de pe rampa LC-39A în misiunea STS-38, dedicată Departamentului de Apărare al SUA (**1990**)
 
 
 ### 16 {#16}
 
 -   Misiunea STS-5 ia sfârșit și naveta Columbia aterizează pe pista 22 la baza aeriană Edwards (**1982**)
 -   Misiunea STS-51-A (Discovery) ia sfârșit, după ce naveta aterizează la KSC
+
+
+### 20 {#20}
+
+-   Aterizarea navetei Atlantis pe pista 33 de la KSC și încheierea misiunii STS-38 (**1990**)
 
 
 ### 23 {#23}
@@ -337,6 +384,7 @@ Naveta Challenger aterizează la baza aeriană Edwards și încheie misiunea STS
 ### 02 {#02}
 
 -   Lansarea navetei Atlantis de pe rampa LC-39B și debutul misiunii STS-27, o misiune dedicată Departamentului de Apărare al SUA, pentru lansare unui satelit de spionaj Lacrosse. Scutul ceramic al navetei a fost serios avariat și doar faptul că avariile au fost în zone mai puțin critice a făcut ca naveta să nu se dezintegreze la revenirea prin atmosferă (**1988**)
+-   Lansarea navetei Columbia de pe rampa LC-39B și debutul misiunii STS-35 (**1990**)
 
 
 ### 03 {#03}
@@ -353,3 +401,8 @@ Naveta Challenger aterizează la baza aeriană Edwards și încheie misiunea STS
 
 -   Misiunea STS-9 ia sfârșit și naveta Columbia aterizează pe pista 17 a bazei aeriene Edwards (**1983**)
 -   Sonda Galileo intră pe orbita planetei Jupiter (**1995**)
+
+
+### 11 {#11}
+
+-   Aterizarea navetei Columbia pe pista 22 a bazei aeriene Edwards și finalul misiunii STS-35 (**1990**)
