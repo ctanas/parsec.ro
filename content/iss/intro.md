@@ -37,6 +37,7 @@ Construcția ISS a însemnat asamblare pe orbită a [modulelor componente](<http
 | Soyuz MS-13    | 20.07.2019 | Soyuz-FG   | Zvezda  | 20.07.2019 | 26.08.2019   | DA         |
 | Soyuz MS-13    | 20.07.2019 | Soyuz-FG   | Poisk   | 26.08.2019 | _06.02.2020_ | DA         |
 | Progress MS-12 | 31.07.2019 | Soyuz-2.1a | Pirs    | 31.07.2019 | ??           | NU         |
+| HTV-8          | 24.09.2019 | H-2B       | Harmony | 28.09.2019 | ??           | NU         |
 
 
 ## Câți astronauți sunt de obicei la bordul ISS? {#câți-astronauți-sunt-de-obicei-la-bordul-iss}
