@@ -698,7 +698,6 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 :EXPORT_FILE_NAME: bfr
 :END:
 
-
 * Rachete
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: r
@@ -826,8 +825,7 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 
 *** SLS
 
-*** Starship
-
+*** BFR
 *** Vulcan
 
 *** Ariane-6
@@ -838,25 +836,67 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 
 *** OmegA
 
+*** H-3B
+*** UMLV
+*** Angara
+*** Soyuz-5
+*** Changzheng-8
 *** Changzheng-9
+
 ** TODO Lansatoare orbitale active
 :PROPERTIES:
 :EXPORT_FILE_NAME: rachete 
 :END:
 
 *** SUA
-
+**** Antares
+**** Atlas V
+**** Electron
+**** Falcon 9
+**** Falcon Heavy
+**** Minotaur V
+**** Minotaur-C
+**** Delta IV
+**** Delta IV Heavy
 *** Rusia
-
+**** Angara
+**** Soyuz-2
+**** Proton-M
+**** Rockot
 *** China
-
+**** Changzheng-2C
+**** Changzheng-2D
+**** Changzheng-2F
+**** Changzheng-3A
+**** Changzheng-3B/E
+**** Changzheng-3C
+**** Changzheng-4B
+**** Changzheng-4C
+**** Changzheng-5
+**** Changzheng-5B
+**** Changzheng-6
+**** Changzheng-7
+**** Changzheng-11
+**** Jielong-1
+**** Kuaizhou
 *** Europa
-
+**** Ariane 5
+**** Vega
 *** Japonia
-
+**** H-2A
+**** H-2B
 *** India
-
+**** PSLV-CA
+**** PSLV-XL
+**** PSLV-DL
+**** PSLV-QL
+**** GSLV Mk.II
+**** GSLV Mk.III
 *** Iran
+**** Safir
+**** Simorgh
+*** Coreea de Nord
+**** Unha-3
 
 
 * Materiale diverse
