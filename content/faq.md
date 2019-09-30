@@ -6,7 +6,7 @@ draft = false
 
 ## Ce reprezintă un parsec? {#ce-reprezintă-un-parsec}
 
-Parsecul reprezintă o unitate de măsură a lungimii, folosită în astronomie. 1 parsec (pc) = 30.857×1012 km = 206.26×103 UA = 3.26156 ani-lumină. Cum s-a ajuns la această valoare? Dicționarul Enciclopedic 1993-2009 definește astfel parsecul: distanța egală cu depărtarea până la punctul din care raza medie a orbitei Pământului se vede sub unghi de o secundă. Imaginați-vă un triunghi dreptunghic în care cateta mai scurtă este distanța Pământ-Soare (distanță definită ca 1 unitate astronomică, 1 UA) iar unghiul dintre ipotenuză și cateta mai lungă este de 1 grad. Lungimea catetei mai lungi reprezintă exact 1 parsec.
+NParsecul reprezintă o unitate de măsură a lungimii, folosită în astronomie. 1 parsec (pc) = 30.857×1012 km = 206.26×103 UA = 3.26156 ani-lumină. Cum s-a ajuns la această valoare? Dicționarul Enciclopedic 1993-2009 definește astfel parsecul: distanța egală cu depărtarea până la punctul din care raza medie a orbitei Pământului se vede sub unghi de o secundă. Imaginați-vă un triunghi dreptunghic în care cateta mai scurtă este distanța Pământ-Soare (distanță definită ca 1 unitate astronomică, 1 UA) iar unghiul dintre ipotenuză și cateta mai lungă este de 1 grad. Lungimea catetei mai lungi reprezintă exact 1 parsec.
 
 Sunt câteva motive pentru care am ales acest nume pentru site: are legătură cu spațiul, este neutru, este scurt, ușor de ținut minte, este identic cu varianta lui în limba engleză și, cel mai important, domeniul parsec.ro a fost disponibil în momentul în care l-am înregistrat :)
 
