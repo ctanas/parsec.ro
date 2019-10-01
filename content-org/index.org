@@ -9,7 +9,7 @@
 :END:
 
 ** Rachete, astronauți, stații spațiale, planete și comete
-O colecție de materiale despre explorarea spațiului cosmic, mereu adusă la zi și extinsă: detalii despre Stația Spațială Internațională și astronauții aflați în prezent în spațiu, articole despre programele spațiale active, liste cu lansările orbitale din anul curent sau cu sondele interplanetare active, date despre activitatea SpaceX sau alte informații cu privire la spațiul cosmic. 
+O colecție personală de materiale despre explorarea spațiului cosmic, mereu adusă la zi și extinsă: detalii despre Stația Spațială Internațională și astronauții aflați în prezent în spațiu, articole despre programele spațiale active, liste cu lansările orbitale din anul curent sau cu sondele interplanetare active, date despre activitatea SpaceX sau alte informații cu privire la spațiul cosmic. 
 
 Știrile săptămânale sunt grupate în Buletine Cosmice, care conțin, pe scurt, detalii despre cele mai importante eveniemente ale săptămânii. Pentru știri calde și imagini spectaculoase din spațiu, site-ul are o și pagină de [[https://www.facebook.com/parsec.ro][Facebook]].
 
@@ -698,6 +698,7 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 :EXPORT_FILE_NAME: bfr
 :END:
 
+
 * Rachete
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: r
@@ -823,81 +824,79 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 :EXPORT_FILE_NAME: viitor 
 :END:
 
-*** SLS
-
-*** BFR
-*** Vulcan
-
-*** Ariane-6
-
-*** Vega-C
-
-*** New Glenn
-
-*** OmegA
-
-*** H-3B
-*** UMLV
-*** Angara
-*** Soyuz-5
-*** Changzheng-8
-*** Changzheng-9
+| Racheta      | Țara | Operator | Inaugurare | Motor | LEO | SSO | GTO |
+|--------------+------+----------+------------+-------+-----+-----+-----|
+| SLS          |      |          |            |       |     |     |     |
+| BFR          |      |          |            |       |     |     |     |
+| Vulcan       |      |          |            |       |     |     |     |
+| Ariane 6     |      |          |            |       |     |     |     |
+| Vega-C       |      |          |            |       |     |     |     |
+| New Glenn    |      |          |            |       |     |     |     |
+| OmegA        |      |          |            |       |     |     |     |
+| H-3B         |      |          |            |       |     |     |     |
+| UMLV         |      |          |            |       |     |     |     |
+| Angara       |      |          |            |       |     |     |     |
+| Soyuz-5      |      |          |            |       |     |     |     |
+| Changzheng-8 |      |          |            |       |     |     |     |
+| Changzheng-9 |      |          |            |       |     |     |     |
+|--------------+------+----------+------------+-------+-----+-----+-----|
 
 ** TODO Lansatoare orbitale active
 :PROPERTIES:
 :EXPORT_FILE_NAME: rachete 
 :END:
 
-*** SUA
-**** Antares
-**** Atlas V
-**** Electron
-**** Falcon 9
-**** Falcon Heavy
-**** Minotaur V
-**** Minotaur-C
-**** Delta IV
-**** Delta IV Heavy
-*** Rusia
-**** Angara
-**** Soyuz-2
-**** Proton-M
-**** Rockot
-*** China
-**** Changzheng-2C
-**** Changzheng-2D
-**** Changzheng-2F
-**** Changzheng-3A
-**** Changzheng-3B/E
-**** Changzheng-3C
-**** Changzheng-4B
-**** Changzheng-4C
-**** Changzheng-5
-**** Changzheng-5B
-**** Changzheng-6
-**** Changzheng-7
-**** Changzheng-11
-**** Jielong-1
-**** Kuaizhou
-*** Europa
-**** Ariane 5
-**** Vega
-*** Japonia
-**** H-2A
-**** H-2B
-*** India
-**** PSLV-CA
-**** PSLV-XL
-**** PSLV-DL
-**** PSLV-QL
-**** GSLV Mk.II
-**** GSLV Mk.III
-*** Iran
-**** Safir
-**** Simorgh
-*** Coreea de Nord
-**** Unha-3
-
+| Racheta         | Țara | Operator | Inaugurare | Motor | LEO | SSO | GTO | Lansări | Succese | Eșecuri |
+|-----------------+------+----------+------------+-------+-----+-----+-----+---------+---------+---------|
+| Antares         | SUA  |          |            |       |     |     |     |         |         |         |
+| Atlas V         | SUA  |          |            |       |     |     |     |         |         |         |
+| Delta IV        | SUA  |          |            |       |     |     |     |         |         |         |
+| Delta IV Heavy  | SUA  |          |            |       |     |     |     |         |         |         |
+| Electron        | SUA  |          |            |       |     |     |     |         |         |         |
+| Falcon 9        | SUA  |          |            |       |     |     |     |         |         |         |
+| Falcon Heavy    | SUA  |          |            |       |     |     |     |         |         |         |
+| Minotaur-C      | SUA  |          |            |       |     |     |     |         |         |         |
+| Minotaur V      | SUA  |          |            |       |     |     |     |         |         |         |
+|-----------------+------+----------+------------+-------+-----+-----+-----+---------+---------+---------|
+| Soyuz-2         | RUS  |          |            |       |     |     |     |         |         |         |
+| Proton-M        | RUS  |          |            |       |     |     |     |         |         |         |
+| Rockot          | RUS  |          |            |       |     |     |     |         |         |         |
+| Angara          | RUS  |          |            |       |     |     |     |         |         |         |
+|-----------------+------+----------+------------+-------+-----+-----+-----+---------+---------+---------|
+| Changzheng-2C   | CHN  |          |            |       |     |     |     |         |         |         |
+| Changzheng-2D   | CHN  |          |            |       |     |     |     |         |         |         |
+| Changzheng-2F   | CHN  |          |            |       |     |     |     |         |         |         |
+| Changzheng-3A   | CHN  |          |            |       |     |     |     |         |         |         |
+| Changzheng-3B/E | CHN  |          |            |       |     |     |     |         |         |         |
+| Changzheng-3C   | CHN  |          |            |       |     |     |     |         |         |         |
+| Changzheng-4B   | CHN  |          |            |       |     |     |     |         |         |         |
+| Changzheng-4C   | CHN  |          |            |       |     |     |     |         |         |         |
+| Changzheng-5    | CHN  |          |            |       |     |     |     |         |         |         |
+| Changzheng-5B   | CHN  |          |            |       |     |     |     |         |         |         |
+| Changzheng-6    | CHN  |          |            |       |     |     |     |         |         |         |
+| Changzheng-7    | CHN  |          |            |       |     |     |     |         |         |         |
+| Changzheng-11   | CHN  |          |            |       |     |     |     |         |         |         |
+| Jielong-1       | CHN  |          |            |       |     |     |     |         |         |         |
+| Kuaizhou        | CHN  |          |            |       |     |     |     |         |         |         |
+|-----------------+------+----------+------------+-------+-----+-----+-----+---------+---------+---------|
+| Ariane 5        | EU   |          |            |       |     |     |     |         |         |         |
+| Vega            | EU   |          |            |       |     |     |     |         |         |         |
+|-----------------+------+----------+------------+-------+-----+-----+-----+---------+---------+---------|
+| H-2A            | JPN  |          |            |       |     |     |     |         |         |         |
+| H-2B            | JPN  |          |            |       |     |     |     |         |         |         |
+|-----------------+------+----------+------------+-------+-----+-----+-----+---------+---------+---------|
+| PSLV-CA         | IND  |          |            |       |     |     |     |         |         |         |
+| PSLV-XL         | IND  |          |            |       |     |     |     |         |         |         |
+| PSLV-DL         | IND  |          |            |       |     |     |     |         |         |         |
+| PSLV-QL         | IND  |          |            |       |     |     |     |         |         |         |
+| GSLV Mk.II      | IND  |          |            |       |     |     |     |         |         |         |
+| GSLV Mk.III     | IND  |          |            |       |     |     |     |         |         |         |
+|-----------------+------+----------+------------+-------+-----+-----+-----+---------+---------+---------|
+| Safir           | IRN  |          |            |       |     |     |     |         |         |         |
+| Smiorgh         | IRN  |          |            |       |     |     |     |         |         |         |
+|-----------------+------+----------+------------+-------+-----+-----+-----+---------+---------+---------|
+| Unha-3          | PRK  |          |            |       |     |     |     |         |         |         |
+|-----------------+------+----------+------------+-------+-----+-----+-----+---------+---------+---------|
 
 * Materiale diverse
 :PROPERTIES:
@@ -1323,6 +1322,22 @@ Moștenirea programului Buran însă continuă și astăzi. Boosterele rachetei 
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: bul
 :END:
+
+** Buletin Cosmic nr. 46 :spacex:starship:eva:htv8:deltaivheavy:ariane5:vulcan:ariane6:
+:PROPERTIES:
+:EXPORT_FILE_NAME: 046
+:EXPORT_DATE: 2019-10-01
+:END:
+
+SpaceX
+
+---
+
+EVA
+
+---
+
+Delta IV Heavy și Ariane 5
 
 ** Buletin Cosmic nr. 45 :soyuzms15:iss:htv8:
 :PROPERTIES:
