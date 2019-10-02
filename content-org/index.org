@@ -1335,13 +1335,16 @@ Moștenirea programului Buran însă continuă și astăzi. Boosterele rachetei 
 :EXPORT_HUGO_SECTION: bul
 :END:
 
-** Buletin Cosmic nr. 46 :spacex:starship:eva:htv8:deltaivheavy:ariane5:vulcan:ariane6:
+** TODO Buletin Cosmic nr. 46 :spacex:starship:eva:htv8:deltaivheavy:ariane5:vulcan:ariane6:
 :PROPERTIES:
 :EXPORT_FILE_NAME: 046
 :EXPORT_DATE: 2019-10-01
 :END:
 
 Cu ocazia împlinirii a 11 ani de la prima lansare reușită a unei racehte Falcon-1, Elon Musk a prezent duminică câteva detalii cu privire la Starship, viitoarea rachetă a companiei SpaceX. Starship este de fapt doar a doua treaptă a noii rachete și are nevoie de o treaptă primară, denumită Super Heavy pentru a ajunge pe orbită. Super Heavy va fi propulsată de 37 de motoare Raptor, dezvoltate tot de compania SpaceX și aceasta urmează să fie construită în cele două locații folosite de SpaceX: hangarul de la Kennedy Space Center din Florida și sediul SpaceX din Boca Chica, Texas. Practic în cele două locații există două echipe care lucrează în paralel la câte un prototip Starship, iar Elon Musk speră ca cel de la Boca Chica să zboare până la 20 km altitudine în mai puțin de două luni iar în prima parte a anului viitor să avem deja un test orbital al noii rachete. Dacă aceasta va zbura, va fi cea mai puternică rachetă construită vreodată, putând urca pe orbită nu mai puțin de 150 de tone, cu 10 mai mult decât Saturn V. Mai mult decât atât, noua rachetă, denumită BFR sau Big Falcon Rocket, urmează să fie complet reutilizabilă iar Starship, treapta superioară, are un volum intern de 1000 metri cubi, mai mult decât actualul volum al Stației Spațiale Internaționale.
+
+#+CAPTION: Prototipul Starship Mk1, construit la sediul SpaceX din Boca Chica, Texas (/Sursa: [[https://twitter.com/elonmusk/status/1177662806117584896/photo/1][SpaceX]]/)
+[[/img/starship.jpg]]
 
 ---
 
