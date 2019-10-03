@@ -4,7 +4,13 @@ author = ["Claudiu"]
 draft = false
 +++
 
-25.10.2019
+03.10.2019
+: Soyuz MS-12 revine pe Pământ; începe Expediția 61;
+
+28.09.2019
+: HTV-8 andochează la portul _Harmony nadir_, după ce a fost lansată în 24.09.2010;
+
+25.09.2019
 : Soyuz MS-15 este lansată și andochează după 6 ore cu ISS;
 
 06.08.2019

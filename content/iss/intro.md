@@ -13,19 +13,16 @@ Construcția ISS a însemnat asamblare pe orbită a [modulelor componente](<http
 
 ## Câți astronauți sunt acum pe orbită? {#câți-astronauți-sunt-acum-pe-orbită}
 
-În prezent sunt 6 astronauți la bordul Stației Spațiale Internaționale, parte a misiunii denumită **Expediția 60**:
+În prezent sunt 6 astronauți la bordul Stației Spațiale Internaționale, parte a Expdiției 61:
 
-| Nume              | Agn   | Sosire      | Data       | Plecare     | Data         |
-|-------------------|-------|-------------|------------|-------------|--------------|
-| Alexei Ovchinin   | RSA   | Soyuz MS-12 | 15.03.2019 | Soyuz MS-12 | _03.10.2019_ |
-| Nick Hague        | NASA  | Soyuz MS-12 | 15.03.2019 | Soyuz MS-12 | _03.10.2019_ |
-| Christina Koch    | NASA  | Soyuz MS-12 | 15.03.2019 | Soyuz MS-13 | _06.02.2020_ |
-| Alexadr Skortsov  | RSA   | Soyuz MS-13 | 20.07.2019 | Soyuz MS-13 | _06.02.2020_ |
-| Luca Parmitano    | ESA   | Soyuz MS-13 | 20.07.2019 | Soyuz MS-13 | _06.02.2020_ |
-| Andrew Morgan     | NASA  | Soyuz MS-13 | 20.07.2019 | Soyuz MS-15 | _01.04.2020_ |
-| Oleg Skripochka   | RSA   | Soyuz MS-15 | 25.09.2019 | Soyuz MS-15 | _01.04.2020_ |
-| Jessica Meir      | NASA  | Soyuz MS-15 | 25.09.2019 | Soyuz MS-15 | _01.04.2020_ |
-| Hazza Al Mansouri | MBRSC | Soyuz MS-15 | 25.09.2019 | Soyuz MS-12 | _03.10.2019_ |
+| Nume             | Agn  | Sosire      | Data       | Plecare     | Data         |
+|------------------|------|-------------|------------|-------------|--------------|
+| Christina Koch   | NASA | Soyuz MS-12 | 15.03.2019 | Soyuz MS-13 | _06.02.2020_ |
+| Alexadr Skortsov | RSA  | Soyuz MS-13 | 20.07.2019 | Soyuz MS-13 | _06.02.2020_ |
+| Luca Parmitano   | ESA  | Soyuz MS-13 | 20.07.2019 | Soyuz MS-13 | _06.02.2020_ |
+| Andrew Morgan    | NASA | Soyuz MS-13 | 20.07.2019 | Soyuz MS-15 | _01.04.2020_ |
+| Oleg Skripochka  | RSA  | Soyuz MS-15 | 25.09.2019 | Soyuz MS-15 | _01.04.2020_ |
+| Jessica Meir     | NASA | Soyuz MS-15 | 25.09.2019 | Soyuz MS-15 | _01.04.2020_ |
 
 
 ## Câte vehicule sunt în prezent andocate la ISS? {#câte-vehicule-sunt-în-prezent-andocate-la-iss}
@@ -33,7 +30,6 @@ Construcția ISS a însemnat asamblare pe orbită a [modulelor componente](<http
 | Vehicul        | Lansare    | Rachetă    | Port    | Sosire     | Plecare      | Recuperare |
 |----------------|------------|------------|---------|------------|--------------|------------|
 | Soyuz MS-15    | 25.09.2019 | Soyuz-FG   | Zvezda  | 25.09.2019 | _01.04.2020_ | DA         |
-| Soyuz MS-12    | 14.03.2019 | Soyuz-FG   | Rassvet | 15.03.2019 | _03.10.2019_ | DA         |
 | Soyuz MS-13    | 20.07.2019 | Soyuz-FG   | Zvezda  | 20.07.2019 | 26.08.2019   | DA         |
 | Soyuz MS-13    | 20.07.2019 | Soyuz-FG   | Poisk   | 26.08.2019 | _06.02.2020_ | DA         |
 | Progress MS-12 | 31.07.2019 | Soyuz-2.1a | Pirs    | 31.07.2019 | ??           | NU         |

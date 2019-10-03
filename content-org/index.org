@@ -128,12 +128,10 @@ Construcția ISS a însemnat asamblare pe orbită a [modulelor componente](https
 
 *** Câți astronauți sunt acum pe orbită?
 
-În prezent sunt 6 astronauți la bordul Stației Spațiale Internaționale, parte a misiunii denumită *Expediția 60*:
+În prezent sunt 6 astronauți la bordul Stației Spațiale Internaționale, parte a Expdiției 61:
 
 | Nume              | Agn   | Sosire      |       Data | Plecare     | Data       |
 |-------------------+-------+-------------+------------+-------------+------------|
-| Alexei Ovchinin   | RSA   | Soyuz MS-12 | 15.03.2019 | Soyuz MS-12 | /03.10.2019/ |
-| Nick Hague        | NASA  | Soyuz MS-12 | 15.03.2019 | Soyuz MS-12 | /03.10.2019/ |
 | Christina Koch    | NASA  | Soyuz MS-12 | 15.03.2019 | Soyuz MS-13 | /06.02.2020/ |
 |-------------------+-------+-------------+------------+-------------+------------|
 | Alexadr Skortsov  | RSA   | Soyuz MS-13 | 20.07.2019 | Soyuz MS-13 | /06.02.2020/ |
@@ -142,16 +140,13 @@ Construcția ISS a însemnat asamblare pe orbită a [modulelor componente](https
 |-------------------+-------+-------------+------------+-------------+------------|
 | Oleg Skripochka   | RSA   | Soyuz MS-15 | 25.09.2019 | Soyuz MS-15 | /01.04.2020/ |
 | Jessica Meir      | NASA  | Soyuz MS-15 | 25.09.2019 | Soyuz MS-15 | /01.04.2020/ |
-| Hazza Al Mansouri | MBRSC | Soyuz MS-15 | 25.09.2019 | Soyuz MS-12 | /03.10.2019/ |
 |-------------------+-------+-------------+------------+-------------+------------|
-
 
 *** Câte vehicule sunt în prezent andocate la ISS?
 
 | Vehicul        |    Lansare | Rachetă    | Port    |     Sosire | Plecare    | Recuperare |
 |----------------+------------+------------+---------+------------+------------+------------|
 | Soyuz MS-15    | 25.09.2019 | Soyuz-FG   | Zvezda  | 25.09.2019 | /01.04.2020/ | DA         |
-| Soyuz MS-12    | 14.03.2019 | Soyuz-FG   | Rassvet | 15.03.2019 | /03.10.2019/ | DA         |
 | Soyuz MS-13    | 20.07.2019 | Soyuz-FG   | Zvezda  | 20.07.2019 | 26.08.2019 | DA         |
 | Soyuz MS-13    | 20.07.2019 | Soyuz-FG   | Poisk   | 26.08.2019 | /06.02.2020/ | DA         |
 | Progress MS-12 | 31.07.2019 | Soyuz-2.1a | Pirs    | 31.07.2019 | ??         | NU         |
@@ -292,7 +287,9 @@ STS-1 12 aprilie 1981 (2098 zile de la ASTP)
 :EXPORT_FILE_NAME: jurnal
 :END:
 
-- 25.10.2019 :: Soyuz MS-15 este lansată și andochează după 6 ore cu ISS;
+- 03.10.2019 :: Soyuz MS-12 revine pe Pământ; începe Expediția 61;
+- 28.09.2019 :: HTV-8 andochează la portul /Harmony nadir/, după ce a fost lansată în 24.09.2010;
+- 25.09.2019 :: Soyuz MS-15 este lansată și andochează după 6 ore cu ISS;
 - 06.08.2019 :: Soyuz MS-14 revine cu bine înapoi pe Pământ;
 - 27.08.2019 :: Soyuz MS-14 andochează la portul /Zvezda;/
 Dragon CRS-18 se desprinde de modulul /Harmony/ și revine cu bine pe Pământ;
