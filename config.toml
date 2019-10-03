@@ -18,6 +18,10 @@ latestpostcount = 5
 logofile2= "/img/logo_large.png"
 logofile = "/img/logo.png"
 highlightjs = false
+progressively = true
+facebook = "https://www.facebook.com/parsec.ro"
+twitter = "https://www.twitter.com/superparsec"
+email = "contact@parsec.ro"
 
 [[params.best_posts]]
 title = "Stația Spațială Internațională"
@@ -74,9 +78,3 @@ identifier = "patreon"
 name = "Donează prin Patreon"
 url = "https://www.patreon.com/superparsec"
 weight = 110
-
-[[menu.footer]]
-identifier = "tags"
-name = "Tags"
-url = "/tags/"
-weight = 50
