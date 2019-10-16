@@ -8,6 +8,9 @@ draft = false
 
 | Nr | Data  | Ora  | Lansator         | Satelit        | Țara    | Rampa           | Ținta | Rezultat      |
 |----|-------|------|------------------|----------------|---------|-----------------|-------|---------------|
+| 72 | 11.10 | 0200 | Pegasus-XL       | ICON           | SUA     | _Stargazer_     | LEO   | Succes        |
+| 71 | 09.10 | 1017 | Proton-M         | MEV-1/Eutelsat | Rusia   | Baikonur 200/39 | GEO   | Succes        |
+| 70 | 04.10 | 1851 | Changzheng-4C    | Gaofen-10R     | China   | Taiyuan LC-9    | SSO   | Succes        |
 | 69 | 26.09 | 0746 | Soyuz-2.1b       | Tundra         | Rusia   | Plesetsk 43/4   | MOL   | Succes        |
 | 68 | 25.09 | 1357 | Soyuz-FG         | Soyuz MS-15    | Rusia   | Baikonur 1/5    | ISS   | Succes[^fn:1] |
 | 67 | 25.09 | 0054 | Changzheng-2D    | Yunhai-1       | China   | Jiuquan         | SSo   | Succes        |

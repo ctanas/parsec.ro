@@ -286,18 +286,19 @@ STS-1 12 aprilie 1981 (2098 zile de la ASTP)
 :PROPERTIES:
 :EXPORT_FILE_NAME: jurnal
 :END:
-
-- 03.10.2019 :: Soyuz MS-12 revine pe Pământ; începe Expediția 61;
+- 11.10.2019 :: EVA-220 (6 ore, 45 minute): Morgan și Koch, pentru înlocuirea bateriile ISS;
+- 06.10.2019 :: EVA-219 (7 ore, 1 minut): Koch și Morgan, pentru înlocuirea bateriilor ISS;
+- 03.10.2019 :: Soyuz MS-12 revine pe Pământ cu Ovcinin, Hague, Mansouri; începe Expediția 61;
 - 28.09.2019 :: HTV-8 andochează la portul /Harmony nadir/, după ce a fost lansată în 24.09.2010;
-- 25.09.2019 :: Soyuz MS-15 este lansată și andochează după 6 ore cu ISS;
+- 25.09.2019 :: Soyuz MS-15 (Skripochka, Meir, Mansouri)  este lansată și andochează după 6 ore cu ISS;
 - 06.08.2019 :: Soyuz MS-14 revine cu bine înapoi pe Pământ;
 - 27.08.2019 :: Soyuz MS-14 andochează la portul /Zvezda;/
 Dragon CRS-18 se desprinde de modulul /Harmony/ și revine cu bine pe Pământ;
 - 26.08.2019 :: Skortsov, Parmitano și Morgan urcă la bordul Soyuz MS-13 și mută capsula de la portul /Zvezda/ la /Poisk/; 
 - 24.08.2019 :: Soyuz MS-14 nu reușește andocarea la portul /Poisk/ din cauza unui amplificator de semnal de pe ISS;
 - 22.08.2019 :: Soyuz MS-14 este lansată spre ISS, fără echipaj la bord, pentru a testa integrarea cu noua rachetă Soyuz-2.1b, care urmează să fie folosită din 2020 pentru lansarea de astronauți; 
-- 21.08.2019 :: EVA-60 (6 ore, 32 minute): Hague și Morgan au montat adaptorul IDA-3 la modulul /Harmony/.
-- 20.07.2019 :: Soyuz MS-13 andochează cu ISS la portul /Zvezda/;
+- 21.08.2019 :: EVA-218 (6 ore, 32 minute): Hague și Morgan au montat adaptorul IDA-3 la modulul /Harmony/.
+- 20.07.2019 :: Soyuz MS-13 (Skvortsov, Parmitano, Morgan) andochează cu ISS la portul /Zvezda/;
 - 24.06.2019 :: Începe Expediția 60
 
 
@@ -710,6 +711,9 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 
 | Nr |  Data |  Ora | Lansator         | Satelit        | Țara    | Rampa           | Ținta | Rezultat     |
 |----+-------+------+------------------+----------------+---------+-----------------+-------+--------------|
+| 72 | 11.10 | 0200 | Pegasus-XL       | ICON           | SUA     | /Stargazer/       | LEO   | Succes       |
+| 71 | 09.10 | 1017 | Proton-M         | MEV-1/Eutelsat | Rusia   | Baikonur 200/39 | GEO   | Succes       |
+| 70 | 04.10 | 1851 | Changzheng-4C    | Gaofen-10R     | China   | Taiyuan LC-9    | SSO   | Succes       |
 | 69 | 26.09 | 0746 | Soyuz-2.1b       | Tundra         | Rusia   | Plesetsk 43/4   | MOL   | Succes       |
 | 68 | 25.09 | 1357 | Soyuz-FG         | Soyuz MS-15    | Rusia   | Baikonur 1/5    | ISS   | Succes[fn:6] |
 | 67 | 25.09 | 0054 | Changzheng-2D    | Yunhai-1       | China   | Jiuquan         | SSo   | Succes       |
@@ -1351,6 +1355,10 @@ NASA a anunțat că pregătește nu mai puțin de 10 activități extravehicular
 
 Nick Hague, Alexei Ovcinin și Hazzaa Ali Almansoori s-au întors cu bine pe Pământ, joi, la bordul capsulei Soyuz MS-12. Desprinderea de Stația Spațială Internaținoală a avut loc la ora 10:37, la aproximativ 3 ore după închiderea trapei dintre capsula Soyuz și avanpostul orbital, iar aterizarea în stepa din Kazahstan la ora 14:00, ora României. Primii doi au petrecut 203 zile la bordul Stației Spațiale, iar Hazzaa Ali Almansoori a ajuns pe orbită în 25 septembrie cu capsula Soyuz MS-15. După aterizarea celor trei, echipajul stației spațiale a revenit la 6, așa cum ne-am obișnuit până acum, următorii astronauți urmând să revină pe Pământ abia în februarie anul viitor. Pentru 2020 sunt programate doar 2 zboruri ale capsulei Soyuz, în loc de 4, pentru că din SUA urmează să aibă loc lansările companiilor comerciale Boeing și SpaceX cu capsulele CST-100 Starliner și respectiv Dragon-2.
 
+---
+
+Varianta audio a acestui articol poate fi ascultată pe site-ul [[https://radioromaniacultural.ro/buletin-cosmic-36/][Radio România Cultural]]. 
+
 ** Buletin Cosmic nr. 45 :soyuzms15:iss:htv8:
 :PROPERTIES:
 :EXPORT_FILE_NAME: 045
@@ -1369,6 +1377,10 @@ Tot spre Stația Spațială Internațională se îndreaptă și capsula japonez�
 ---
 
 Din 30 august și până în prezent au avut loc 8 lansări orbitale reușite, din care 5 aparțin Chinei, care a ajuns astfel la un total de 19 tentative (egalând poziția SUA), dar au 2 eșecuri, din care unul pentru o companie privată aflată la început de drum. Fiecare din cele 5 lansări din ultima perioadă a folosit câte un lansator diferit: de la rachetele de calibru ușor cu combustibil solid Kuaizhou-1A și Changzheng-11, ultima putând fi lansată de pe o platformă mobilă sau maritimă, la venerabilele Changzheng 4B, 3B sau 2D. După două zboruri cu diverse probleme tehnice, lansatorul greu Changzheg-5 se lasă așteptat, însă este posibil să-l vedem din nou pe rampă în acest an. Cahngzheng-5 trebuia să zboare din nou în această vară, după un prim zbor cu emoții și un al doilea complet ratat, rezolvarea problemele tehnice întârzie revenirea acestuia pe rampă, iar acest lucru va afecta startul asamblării noii stații orbitale chinezești, dar și a viitoarelor misiuni spre Lună și Marte, care depind de Changzheng-5.
+
+---
+
+Varianta audio a acestui articol poate fi ascultată pe site-ul [[https://radioromaniacultural.ro/buletin-cosmic-35/][Radio România Cultural]].
 
 ** Buletin Cosmic nr. 44 :juno:ryugu:hayabusa2:proton:borisov:
 :PROPERTIES:
@@ -1392,6 +1404,10 @@ Sonda Juno, aflată pe orbita lui Jupiter din 5 iulie 2016, a survolat în aceas
 
 #+CAPTION: Umbra lui Jupiter surprinsă de sonda Juno deasupra norilor lui Jupiter în 12 septembrie 2019 de la 8000 km depărtare de planetă, în timp ce aceasta se îndrepta spre cel 22-lea survol al misiunii (foto: NASA/JPL-Caltech/SwRI/MSSS/Kevin M. Gill, sursă: [[http://www.planetary.org/multimedia/space-images/jupiter/ios-shadow-on-jupiter-during.html][The Planetary Society]])
 [[/img/jupiter_io.jpg]]
+
+---
+
+Varianta audio a acestui articol poate fi ascultată pe site-ul [[https://radioromaniacultural.ro/buletin-cosmic-34/][Radio România Cultural]].
 
 ** Buletin Cosmic nr. 43 :chandrayaan2:vikram:soyuzms14:fedor:htv8:spacex:
 :PROPERTIES:
@@ -1418,6 +1434,10 @@ Capsula Soyuz MS-14 a revenit cu bine pe Pământ în noaptea de vineri spre sâ
 ---
 
 Compania SpaceX declară că are programate pentru anul viitor 24 de lansări dedicate megaconstelației Starlink, aproximativ câte două lansări în fiecare lună, în plus față de lansările contracte deja de companiile de telecomunicații pentru sateliții comerciali (mie mi-e și frică să înmulțesc 24 cu 60); asta ar însemna cel puțin 35 de zboruri pentru SpaceX în 2020, mai mult decât toate lansările din SUA de anul trecut și aproape de numărul total de lansări din China din 2018. Pentru acest an, SpaceX mai are programate încă alte 7-8 lansări, din care 4 ar putea fi dedicate proiectului Starlink.
+
+---
+
+Varianta audio a acestui articol poate fi ascultată pe site-ul [[https://radioromaniacultural.ro/buletin-cosmic-33/][Radio România Cultural]].
 
 ** Buletin Cosmic nr. 42 :iran:safir:aeolus:starlink:spacex:india:chandrayaan:x37b:
 :PROPERTIES:
@@ -1462,6 +1482,10 @@ Anne McClain (NASA), David Saint-Jaques (CSA) și Oleg Kononenko (RSA) au ajuns 
 
 Vineri noaptea, într-o lansare fără cusur, așa cum ne-a obișnuit compania europeană Arianespace, racheta Ariane 5 a pus pe orbită doi sateliți de telecomunicații, Eutelsat-7C și satelitul T-16 al companiei americane AT&T. A fost a doua lansare Ariane 5 a anului și a 104-a misiune Ariane 5 din 1996. În tot acești ani, Ariane 5 a suferit doar două lansări complet eșuate și trei lansări cu probleme, din care ultima chiar anul trecut, când racheta a ajuns pe o orbită greșită, iar acest lucru a însemnat o viață mai scurtă pentru sateliții de la bord, pentru că aceștia au fost nevoiți să-ți folosească propriul combustibil pentru a efectua corecțiile necesare.
 
+---
+
+Varianta audio a acestui articol poate fi ascultată pe site-ul [[https://radioromaniacultural.ro/buletin-cosmic-32/][Radio România Cultural]].
+
 ** Buletin Cosmic nr. 40 :crs17:progress:ms10:proton:omega:
 :PROPERTIES:
 :EXPORT_FILE_NAME: 040 
@@ -1485,6 +1509,8 @@ Northrop Grumman Innovation Systems (NGIS), divizie din cadrul Northrop Grumman 
 ---
 
 Programul Artemis își ia avânt și NASA pare să-și concentreze serios eforturile spre Lună. A anunțat de curând că trei companii private vor primii fonduri pentru a livra încărcături utile pe Lună până în 2021, parte a noului program Commercial Lunar Payload Services (CLPS). Astrobotic va primi 79.5 milioane de dolari pentru a lansa 14 încărcături pe Lună, în zona Lacus Mortis până în iulie 2021. Astrobotic colaborează cu Airbus, United launch Alliance (care va furniza și o rachetă Atlas V pentur lansare) sau… DHL; Intuitive Machines primește 77 milioane de dolari și își propune să lanseze 5 încărcături spre Oceanus Procellarum, tot până în iulie 2021, dar folosind o rachetă Falcon 9. Intuitive Machines colaborează cu Boeing în acest sens; Orbit Beyond va primi 97 milioane de dolari pentru a transporta 4 încărcături spre Lună, pe câmpia de lavă denumită Mare Imbrium (unde a ajuns și Apollo 15), până în septembrie 2020, tot cu ajutorul unei rachete Falcon 9.
+
+Varianta audio a acestui articol poate fi ascultată pe site-ul [[https://radioromaniacultural.ro/buletin-cosmic-31/][Radio România Cultural]].
 
 ** Buletin Cosmic nr. 39 :spacex:starlink:
 :PROPERTIES:
@@ -1522,6 +1548,8 @@ O rachetă rusească Soyuz-2.1b, care a lansat luni dimineața un nou satelit de
 
 ArianeGroup și ESA lucrează în prezent la viitoarea treaptă secundară pentru racheta euopeană Ariane 6, care va intra în uz din 2025. Denumită Phoebus, aceasta nouă treaptă urmează să fie construită din carbon, ceea ce înseamnă două tone diferență față de treptele secundare construite de obicei din aluminiu. Noile trepte secundare și vor intra în uz la câțiva ani după ce rachetele Ariane 6 vor înlocui actualele Ariane 5, dar nu le vom vedea cu ocazia primelor zboruri, pentru că deja primele rachete Ariane 6 sunt asamblate folosind treapta secundară inițială.
 
+---
+
 ** Buletin Cosmic nr. 38 :artemis:
 :PROPERTIES:
 :EXPORT_FILE_NAME: 038
@@ -1539,6 +1567,10 @@ Jim Bridenstine, administratorul NASA, a anunțat săptămâna trecută că prog
 NASA plănuiește să lanseze primul modul Gateway în 2022, modul care urmează să furnizeze electricitate pentru viitoarele module și nave andocate (modul denumit PPE – Power and Propulsion Module). În 2023 ar urma lansarea unui modul locuibil, de mai mari dimensiuni, care va fi cuplat pe orbita Lunii cu modulul PPE. Ar urma apoi un modul care ar putea coborî pe suprafața Lunii. Cele trei module Gateway urmează să fie lansate până în 2024 de companii private. Între timp, în 2020, misiunea Artemis-1 va inaugura noua rachetă SLS de la NASA și aceasta va lansa o capsulă Orion, fără echipaj, spre Lună. Artemis-2, a doua lansare SLS va fi prima cu echipaj la bord și va imita misiunea Apollo 8, dar de data aceasta folosind racheta SLS ;i capsula Orion, inserând echipajul pe orbita Lunii, testând toți pașii necesari pentru aselenizare. În 2024, misiunea Artemis-3 să lanseze un echipaj spre Gateway, de unde echipajul să se transfere în stația spațială lunară și de aici în modulul lunar, cu care să coboare pe suprafața Lunii.
 
 Pentru ca aselenizarea din 2024 să aibă loc, trebuie că partenerii privați să reușească să proiecteze și să livreze agenției spațiale americane vehicule care să poate aseleniza. NASA în schimb trebuie să se asigure că noua rachetă SLS este fără cusur, pentru că un singur pas greșit va face ca aselenizarea să fie întârziată. Asta înseamnă că toate testele trebuie să decurgă perfect și cele două misiuni Artemis din 2020 și 2023 să fie impecabile. Dacă acest lucru se va întâmpla, NASA vorbește despre proiectarea de baze selenare care să fie permanent ocupate de viitoare echipaje, cândva la finalul decadei. Iar Gateway va putea fi folosită de acești astronauți ca o rampă de lansare spre Marte, după 2030.
+
+---
+
+Varianta audio a acestui articol poate fi ascultată pe site-ul [[https://radioromaniacultural.ro/buletin-cosmic-30/][Radio România Cultural]].
 
 ** Buletin Cosmic nr. 37 :soyuz:ms11:cygnus:ng11:superdraco:dragon:
 :PROPERTIES:
