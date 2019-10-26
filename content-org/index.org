@@ -1336,13 +1336,15 @@ Moștenirea programului Buran însă continuă și astăzi. Boosterele rachetei 
 :EXPORT_HUGO_SECTION: bul
 :END:
 
-** Buletin Cosmic nr. 48
+** Buletin Cosmic nr. 48 :nauka:iss:electron:spaceadventures:blueorigin:bluemoon:
 :PROPERTIES:
 :EXPORT_FILE_NAME: 048
 :EXPORT_DATE: 2019-10-23
 :END:
 
 Modulul rusesc Nauka, care urmează să înlocuiască modulul Pirs al Stației Spațiale Internaționale, va fi transportat la Baikonur în ianuarie 2020, urmând să fie lansat și cuplat în sfârșit la Stația Spațială Internațională în noiembrie 2020. Inițial, Nauka (modul care va fi folosit pentru experimente științifice, dar și pentru andocare și controlul orientării stației)  trebuia să ajungă în spațiu încă din... 2007, dar numeroasele probleme tehnice i-au amânat mereu lansarea. Între timp, oficiali ai companiei Boeing, principalul contractor al NASA pentru ISS, au declarat că din punctul lor de vedere modulele americane ale Stației Spațiale Internaționale vor putea fi folosite până în 2043-2045 și speră ca stația să rămână pe orbită cel puțin până în 2030, însă vor avea nevoie de sprijinul financiar ar Congresului SUA pentru ce acest lucru se se întâmple.
+
+---
 
 A 9-a lansare a unei rachete de calibru ușor Electron a avut loc joia trecută, la ora 04:22, de pe rampa LC-1 din Mahia, Noua Zeelandă, urcând pe orbită terestră joasă satelitul Palisade (misiunea denumită "As The Crow Flies"). Este a 5-a lansare din 2019 pentru compania americană Rocket Lab, care speră să poată lansa cât de curând câte o rachetă Electron în fiecare lună, în special după inaugurarea unei a doua rampe de lansare în SUA la finalul acestui an. Lansarea de săptămâma trecută a fost lansarea la cea mai ridicată altitudine pentru Electron, racheta urcând satelitul de 20 de kilograme până la 1200 km, de peste două ori mai mult decât altitudinea cu care ne-a obișnuit până acum. În urmă cu câteva zile, Peter Beck, directorul companiei Rocket Lab, declara că racheta sa Electron va fi capabilă anul viitor să plaseze sateliți low-cost, de 30 de kilograme, pe orbita Lunii, grație unei trepte superioare Photon, aflat în prezent în dezvoltare.
 
@@ -1351,9 +1353,17 @@ A 9-a lansare a unei rachete de calibru ușor Electron a avut loc joia trecută,
 
 Compania Space Adventure a declarat de curând că din 2021 își va relua activitatea de turism spațial, în colaborare cu agenția spațială rusă. Roscosmos va modifica o capsulă Soyuz în acest sens, pentru a putea fi pilotată de un singur astronaut, urmând ca ceilalți doi ocupanți ai capsulei să fie doi turiști. Deocamdată se pare că unul din ei va fi pilotul german Johanna Maislinger. Ultimul turist spațial a fost canadianul Guy Laliberté, co-fondatorul Cirque du Soleil, care a ajuns pe Stația Spațială Internațională la bordul capsulei Soyuz TMA-14 în 2009. După retragerea navetelor spațiale, turismul orbital a fost suspendat, pentru că cele trei locuri limitate oferite de capsula Soyuz au fost folosite exclusiv de astronauții agențiilor spațiale, însă odată cu intrarea în scenă a capsulelor private americane Dragon2 și Starliner, cei care își permit să cumpere un bilet spre ISS cu câteva zeci de milioane de dolari vor fi primiți din nou în capsulele Soyuz, pentru un sejur de câteva zile la bordul stației spațiale.
 
+---
+
 În luna mai a acestui an, miliardarul Jeff Bezos, fondatorul Amazon.com și Blue Origin, în prezent cel mai bogat on din lume, anunța că lucrează la Blue Moon, un lander lunar, propulsat de un motor dezvoltat tot de Blue Origin, denumit BE-7, care ar putea să fie folosit în cadrul programului Artemis prin care NASA speră ca în 2024 să ajungă din nou pe Lună. Marți, Bezos anunța faptul că Blue Origin, comapania sa, împreună cu alți giganți ai industriei aerospațiale americane, precum Lockheed Martin sau Northrop Grumman, lucrează împreună și la alte componente care vin să completeze landerul Blue Moon. De exemplu, Lockheed Martin dezvoltă în prezent o treaptă superioră pentru Blue Moon, care urmează să transporte astronauții înapoi pe orbita selenară, după terminarea operațiunilor la sol, după modelul folosit acum jumătate de secol în programul Apollo. Lockheed Martin avea un proiect pentru un lander propriu, dar din cauza timpului scurt avut la dispoziție, a decis să-și unească forțele cu Blue Origin, crescând astfel șansele ca vehiculul Blue Moon să devină realitate.
 
+---
+
 Și tot joia trecută, China a lansat pe orbită geostaționară un satelit militar secret de la baza spațială din Xichang, folosind racheta Changzheng-3B, actualmente cea mai puternică rachetă chinezească, în lipsa Changzheng-5, care se lasă în continuare așteptată, după două lansări cu probleme în 2016 și 2017. Changzheng-3B poate urca peste 11 tone pe orbită terestră joasă și peste 5 tone pe orbită geonsincronă de transfer. A fost a 22-a lansare pentru China din 2019 și a 20-a efectuată cu succes, în timp ce Statele Unite au reușit până acum 21 de lansări, toate fără incidente, număr care conține și cele 5 lansări Electron care deși au loc din Noua Zeelandă, sunt efectuate de o companie americană. Pe locul trei într-un clasament internațional se plasează Rusia, cu 17 lansări, la care nu se adaugă cele două lansări al rachetei Soyuz derulate de compania ArianeSpace din Guiana Franceză. 
+
+---
+
+Varianta audio a acetui material poate fi ascultată la [[https://radioromaniacultural.ro/buletin-cosmic-nr-48/][Radio România Cultural]].
 
 ** Buletin Cosmic nr. 47 :leonov:eva:
 :PROPERTIES:
@@ -1366,11 +1376,17 @@ Acum exact o săptămână ne părăsea Alexei Leonov, cel care în 18 martie 19
 #+CAPTION: Alexei Leonov în timpul primei activități extravehiculare din istorie, în 18 martie 1965 (/Sursa foto: Roscosmos/)
 [[/img/leonov.jpg]]
 
+---
+
 Vestea tristă a morții lui Leonov a fost făcută publică exact în momentul în care pe orbită doi astronauți de pe Stația Spațială Internațională (americanii Andrew Morgan și Christina Koch) efectuau o activitate extravehiculară pentru schimbarea bateriilor de la bordul stației. A fost a doua astfel de activitate din cele 5 programate inițial (plus alte 5 pentru repararea spectrometrului AMS-02 aflat în exteriorul stației), la care s-ar mai putea adăuga una, pentru că o baterie montantă de curând are probleme și nu funcționează corespunzător. Una dintre aceste viitoare activități extravehiculare va reprezenta o premieră în domeniu, fiind pentru prima dată când două femei se vor afla simultan în afara ISS: Christina Koch și Jessica Meir. O astfel de premieră a fost amânată acum câteva luni, după ce Anne McClain a fost nevoită să schimbe locul într-o astfel de activitate extravehiculară cu Nick Hague din cauza lipsei de la bordul stației a unui costum de astronaut adecvat. Și atunci tot Christina Koch urma să fie coechipiera lui Anne McClain.
+
+---
 
 Pentru a preîntâmpina astfel de situații neplăcute în viitor care ar putea afecta viitoarele misiuni pe Lună sau Marte, viitoarele costume de astronauți dedicate activităților extravehiculare sunt proiectate să fie folosite de 99% dintre femeile și bărbații din populație. Asta înseamnă că în viitorul program Artemis, când astronauții americani speră să pășească din nou pe Lună (în 2024 conform programului oficial sau abia 2028 dacă este să dăm crezare unor zvonuri recente), vor putea folosi oricare din costumele existente la bordul navelor orbitale. Noile costume au fost prezentate joi în cadrul unui eveniment al NASA la care a participat și administratorul Jim Bridenstine și acestea sunt ceva mai colorate decât ne-au obișnuit vechile costume din programul Apollo sau actualele costume folosite la bordul Stației Spațiale Internaționale, a căror tehnologie datează din anii '80.
 
 ---
+
+Varianta audio a acestui material poate fi ascultată la [[https://radioromaniacultural.ro/buletin-cosmic-37/][Radio România Cultural]].
 
 ** Buletin Cosmic nr. 46 :spacex:starship:eva:htv8:deltaivheavy:ariane5:vulcan:ariane6:
 :PROPERTIES:
