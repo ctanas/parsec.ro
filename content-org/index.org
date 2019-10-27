@@ -1239,7 +1239,7 @@ Următoarea misiune X-37B (probabil vehiculul 2) este planificată pentru a fi l
 | 05.03.2011 | OTV-2   | X-37B-2  | Atlas V 501 | CC SLC-41  | USA-226  | 468 zile | 16.06.2012 | VAFB RNY12      |
 | 11.12.2012 | OTV-3   | X-37B-1  | Atlas V 501 | CC SLC-41  | USA-240  | 674 zile | 17.10.2014 | VAFB RNY12      |
 | 20.05.2015 | OTV-4   | X-37B-2  | Atlas V 501 | CC SLC-41  | USA-261  | 717 zile | 07.05.2017 | KSC SLF         |
-| 07.09.2017 | OTV-5   | X-37B-1? | Falcon 9 B4 | KSC LC-39A | USA-277  | ??       |         ?? | ??              |
+| 07.09.2017 | OTV-5   | X-37B-1? | Falcon 9 B4 | KSC LC-39A | USA-277  | 780 zile | 27.10.2019 | LSC SLF         |
 |    Q2-2020 | OTV-6   | X-37B-2? | Atlas V 501 | CC SLC-41? | ??       | ??       |         ?? | ??              |
 
 *** Note de subsol
