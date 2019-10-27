@@ -366,15 +366,6 @@ h6 {
 
 /* Table customization */
 
-table-caption {
-	
-	font-size: 100%;
-	font-family: monospace;
-	line-height: 1rem;
-	padding: 5px;
-	
-}
-
     tr th, tr td {
     font-family: monospace;      /* Monospace font, for better data display */
     font-size: small;          		     /* Small fonts, to fit more data */
@@ -385,6 +376,15 @@ table-caption {
 table {
     margin-left: 20px;         /* Crudely align the table with the rest of th text */
 	margin-bottom: 25px;
+}
+
+.table-caption {
+	
+	font-size: 100%;
+	font-family: monospace;
+	line-height: 1rem;
+	padding: 5px;
+	
 }
 
  table.center {
