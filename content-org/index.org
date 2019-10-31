@@ -149,7 +149,7 @@ Construcția ISS a însemnat asamblare pe orbită a [modulelor componente](https
 | Soyuz MS-15    | 25.09.2019 | Soyuz-FG   | Zvezda  | 25.09.2019 | /01.04.2020/ | DA         |
 | Soyuz MS-13    | 20.07.2019 | Soyuz-FG   | Zvezda  | 20.07.2019 | 26.08.2019 | DA         |
 | Soyuz MS-13    | 20.07.2019 | Soyuz-FG   | Poisk   | 26.08.2019 | /06.02.2020/ | DA         |
-| Progress MS-12 | 31.07.2019 | Soyuz-2.1a | Pirs    | 31.07.2019 | ??         | NU         |
+| Progress MS-12 | 31.07.2019 | Soyuz-2.1a | Pirs    | 31.07.2019 | 29.11.2019 | NU         |
 | HTV-8          | 24.09.2019 | H-2B       | Harmony | 28.09.2019 | ??         | NU         |
 
 *** Câți astronauți sunt de obicei la bordul ISS?
@@ -1222,7 +1222,7 @@ Probabil a doua misiune a celui de-al doilea vehicul X-37B și a patra misiune O
 
 *** OTV-5 (USA-277)
 
-Naveta (probabil vehiculul 1) a fost [lansată în 7 septembrie 2017](https://www.youtube.com/watch?v=9M6Zvi-fFv4) de o rachetă Falcon 9[fn:f9otv5], de pe rampa LC-39A de la Kennedy Space Center, fiind pentru prima dată când nu a fost folosită o rachetă Atlas V pentru lansarea acestor navete. A fost găsită ulterior pe o orbită cu înclinația de 54.5 grade și la o altitudine de 356 km. În iulie 2019, astronomul olandez Ralf Vandebergh[fn:rf] a reușit să fotografieze naveta X-37B pe orbită, iar în imaginile surprinse de el se pot observa ușile deschise ale calei. În dimineața zilei de 27 octombrie 2019, OTV-5 a aterizat la Kennedy Space Center, pe pista destinată fostelor navete spațiale, finalizând astfel cea mai longevivă misiune a navetei X-37B de până acum, după 780 de zile petrecute în spațiu.
+Naveta (probabil tot vehiculul 2, ca în cazul misiunii OTV-4 precedente) a fost [lansată în 7 septembrie 2017](https://www.youtube.com/watch?v=9M6Zvi-fFv4) de o rachetă Falcon 9[fn:f9otv5], de pe rampa LC-39A de la Kennedy Space Center, fiind pentru prima dată când nu a fost folosită o rachetă Atlas V pentru lansarea acestor navete. A fost găsită ulterior pe o orbită cu înclinația de 54.5 grade și la o altitudine de 356 km. În iulie 2019, astronomul olandez Ralf Vandebergh[fn:rf] a reușit să fotografieze naveta X-37B pe orbită, iar în imaginile surprinse de el se pot observa ușile deschise ale calei. În dimineața zilei de 27 octombrie 2019, OTV-5 a aterizat la Kennedy Space Center, pe pista destinată fostelor navete spațiale, finalizând astfel cea mai longevivă misiune a navetei X-37B de până acum, după 780 de zile petrecute în spațiu.
 
 *** OTV-6
 
