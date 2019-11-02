@@ -24,6 +24,8 @@ A șasea rachetă Antares înlocuiește motoarele derivate din NK-33 cu motoarel
 
 Următoarele misiuni Antares sunt în continuare dedicate exclusiv lansării capsulei Cygnus și folosesc doar varianta Antares-230, deși mai este intercalată încă o lansare cu racheta Atlas V. În ultimul timp, capsulele Cygnus, după desprinderea de ISS, au rămas din ce în ce mai mult timp pe orbită, înainte de a reveni distructiv prin atmosferă, pentru a derula o serie din ce în ce mai complexă de experimente științifice. Cea mai recentă capsulă Cygnus, NG-10, a rămas o lună de zile pe orbită, înainte de finalul misiunii.
 
+Misiunea NG-12, parte a CRS2 (a doua parte a contractului de aprovizionare comercială a ISS semnat cu NASA) a însemnat și debutul variantei Antares-230+, în 02 noiembrie 2019, care a lansat capsula Cygnus SS "Alan Bean" NG-12. Varianta 230+ aduce în plus o serie de îmbunătățiri structurale ale primei trepte, pentru a putea permite funcționarea la putere maximă a motoarelor RD-181, folosite din 2016. CRS2 vine cu câteva cerințe suplimentare din partea NASA: o masă mai mare urcată pe orbită și posibilitatea de a încărca o parte a proviziilor cu mai puțin de 24 de ore înainte de lansare.
+
 <div class="table-caption">
   <span class="table-number">Table 1</span>:
   Lansările capsulei Cygnus, care includ și cele trei lansări efectuate cu racheta Atlas V în configurația 401 (4 metri diametru conului protector, fără boostere suplimentare cu combustibil solid și un singur motor al treptei superioare Centaur).
@@ -43,6 +45,7 @@ Următoarele misiuni Antares sunt în continuare dedicate exclusiv lansării cap
 | OA-8E   | 12.11.2017   | A-230    | RD-181   | C-30XL    | 14.11.2017   | 3338     | 05.12.2017   | 18.12.2017   | Unity   | Succ.   |
 | OA-9E   | 21.05.2018   | A-230    | RD-181   | C-30XL    | 24.05.2018   | 3350     | 15.07.2018   | 30.07.2018   | Unity   | Succ.   |
 | NG-10   | 17.11.2018   | A-230    | RD-181   | C-30XL    | 19.11.2018   | 3350     | 08.02.2018   | 25.02.2019   | Unity   | Succ.   |
-| NG-11   | 17.04.2019   | A-230    | Rd-181   | C-30XL    | 19.04.2019   | 3436     | 06.08.2019   | 06.09.2019?  | Unity   | Succ.   |
+| NG-11   | 17.04.2019   | A-230    | RD-181   | C-30XL    | 19.04.2019   | 3436     | 06.08.2019   | 06.09.2019?  | Unity   | Succ.   |
+| NG-12   | 02.11.2019   | A-230+   | RD-181   | C-30XL    | 04.11.2019   | 3750     |              |              | Unity   | Succ.   |
 
 [^fn:1]: _Orbital Sciences_ a fost fondată în 1982 și în 2014 a fuzionat cu _Alliant Techsystems_ (ATK), formând compania _Orbital ATK_, care a funcționat ca atare până în 2017, când _Northrop Grumman_ a cumpărat _Orbital ATK_, astfel că fosta companie a ajuns o divizie în cadrul _Northrop Grumman_, denumită _Nortrop Grumman Innovation System_ (NGIS).

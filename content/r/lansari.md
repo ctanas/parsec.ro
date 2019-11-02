@@ -8,6 +8,9 @@ draft = false
 
 | Nr | Data  | Ora  | Lansator         | Satelit        | Țara    | Rampa           | Ținta | Rezultat      |
 |----|-------|------|------------------|----------------|---------|-----------------|-------|---------------|
+| 75 | 02.11 | 1359 | Antares 230+     | Cygnus NG-12   | SUA     | LP-0A           | ISS   | Succes        |
+| 74 | 17.10 | 1521 | Changzheng-3B    | TJSW-4         | China   | Xichang LC-3    | GSO   | Succes        |
+| 73 | 17.10 | 0122 | Electron         | Palisade       | SUA     | Mahia LC-1      | SSO   | Succes        |
 | 72 | 11.10 | 0200 | Pegasus-XL       | ICON           | SUA     | _Stargazer_     | LEO   | Succes        |
 | 71 | 09.10 | 1017 | Proton-M         | MEV-1/Eutelsat | Rusia   | Baikonur 200/39 | GEO   | Succes        |
 | 70 | 04.10 | 1851 | Changzheng-4C    | Gaofen-10R     | China   | Taiyuan LC-9    | SSO   | Succes        |
