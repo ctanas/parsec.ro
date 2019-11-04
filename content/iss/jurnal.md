@@ -4,6 +4,12 @@ author = ["Claudiu"]
 draft = false
 +++
 
+04.11.2019
+: Capsula Cygnus NG-12 este atașată modulului Unity;
+
+01.11.2019
+: Vehiculul HTV-8 se desprinde de ISS;
+
 11.10.2019
 : EVA-220 (6 ore, 45 minute): Morgan și Koch, pentru înlocuirea bateriile ISS;
 

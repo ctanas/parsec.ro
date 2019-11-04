@@ -8,6 +8,7 @@ draft = false
 
 | Nr | Data  | Ora  | Lansator         | Satelit        | Țara    | Rampa           | Ținta | Rezultat      |
 |----|-------|------|------------------|----------------|---------|-----------------|-------|---------------|
+| 76 | 03.11 | 0322 | Changzheng-4B    | Gaofen-7       | China   | Taiyuan LC-9    | SSO   | Succes        |
 | 75 | 02.11 | 1359 | Antares 230+     | Cygnus NG-12   | SUA     | LP-0A           | ISS   | Succes        |
 | 74 | 17.10 | 1521 | Changzheng-3B    | TJSW-4         | China   | Xichang LC-3    | GSO   | Succes        |
 | 73 | 17.10 | 0122 | Electron         | Palisade       | SUA     | Mahia LC-1      | SSO   | Succes        |
