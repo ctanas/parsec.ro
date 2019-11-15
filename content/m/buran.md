@@ -4,7 +4,7 @@ author = ["Claudiu"]
 draft = false
 +++
 
-Ne aflăm la mijlocul anilor ’70, în plin război rece și în era post-Apollo. Cursa spațială s-a încheiat deja, dar cursa înarmării continua și bugetele pentru apărare, atât în SUA cât și în URSS sunt practic nelimitate. Încă dinainte de aselenizare, NASA trasase deja un plan pentru dezvoltarea unui vehicul reutilizabil care să permită accesul frecvent și ieftin la orbita terestră joasă, construirea unei navete spațiale devenind preocuparea principală a agenției spațiale americane. Despre Columbia, prima navetă din flota NASA, am povestit deja în numărul trecut, iar acum vom afla povestea răspunsului Uniunii Sovietice: programul Buran.
+Ne aflăm la mijlocul anilor ’70, în plin război rece și în era post-Apollo. Cursa spațială s-a încheiat deja, dar cursa înarmării continua și bugetele pentru apărare, atât în SUA cât și în URSS sunt practic nelimitate. Încă dinainte de aselenizare, NASA trasase deja un plan pentru dezvoltarea unui vehicul reutilizabil care să permită accesul frecvent și ieftin la orbita terestră joasă, construirea unei navete spațiale devenind preocuparea principală a agenției spațiale americane. Dar nu doar Statele Unite au avut o navetă spațială.
 
 {{< figure src="/img/buran3.jpg" caption="Figure 1: Naveta spațială sovietică Buran și racheta Energia, înainte lansrăii (_sursa foto: buran.ru_)" >}}
 
