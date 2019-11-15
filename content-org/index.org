@@ -1461,6 +1461,10 @@ Luni, Boeing a testat sistemul de anulare al unei lansări a capsulei *CST-100 S
 
 *China* a reușit miercuri două lansări orbitale în mai puțin de trei ore: o rachetă comercială Kuaizhou-1A cu combustibil solid a fost lansată la ora 05:40 de pe o rampă mobilă de la centrul spațial Jiuquan pentru a pune pe orbită satelitul Gaofen-02A, iar la ora 08:35 o rachetă Changzheng-6 de calibru ușor ridicat pe orbită 5 sateliți de mici dimensiuni tot pentru observații ale suprafeței Pământului. A fost a 3-a lansare a unei rachete Changzheng-6 și a fost a 26-a lansare orbitală din China din acest an, însă doar 24 au fost reușit. Statele Unite se alfă pe un loc secund într-un astfel de clasament, cu doar 23 de lansări, însă fără nici un eșec.
 
+---
+
+Varianta audio audio a acestui material poate fi ascultată la [[https://radioromaniacultural.ro/buletin-cosmic-38/][Radio România Cultural]].
+
 ** Buletin Cosmic nr. 49 :x37b:viper:sls:cygnus:iss:
 :PROPERTIES:
 :EXPORT_FILE_NAME: 049
