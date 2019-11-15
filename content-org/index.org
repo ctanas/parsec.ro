@@ -713,20 +713,27 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 
 | Nr |  Data |  Ora | Lansator         | Satelit        | Țara    | Rampa           | Ținta | Rezultat     |
 |----+-------+------+------------------+----------------+---------+-----------------+-------+--------------|
+| 80 | 13.11 | 0635 | Changzheng-6     | Ningxia-1      | China   | Taiyuan LC-16   | LEO   | Succes       |
+| 79 | 13.11 | 0340 | Kuaizhou-1A      | Gaofen-02A     | China   | Jiuquan SLS-2   | SSO   | Succes       |
+| 78 | 11.11 | 1456 | Falcon 9         | 60x Starlink   | SUA     | CC SLC-40       | LEO   | Succes       |
+| 77 | 04.11 | 1743 | Changzheng-3B/E  | Beidou-3       | China   | Xichang LC-2    | GSO   | Succes       |
 | 76 | 03.11 | 0322 | Changzheng-4B    | Gaofen-7       | China   | Taiyuan LC-9    | SSO   | Succes       |
 | 75 | 02.11 | 1359 | Antares 230+     | Cygnus NG-12   | SUA     | LP-0A           | ISS   | Succes       |
+|----+-------+------+------------------+----------------+---------+-----------------+-------+--------------|
 | 74 | 17.10 | 1521 | Changzheng-3B    | TJSW-4         | China   | Xichang LC-3    | GSO   | Succes       |
 | 73 | 17.10 | 0122 | Electron         | Palisade       | SUA     | Mahia LC-1      | SSO   | Succes       |
 | 72 | 11.10 | 0200 | Pegasus-XL       | ICON           | SUA     | /Stargazer/       | LEO   | Succes       |
 | 71 | 09.10 | 1017 | Proton-M         | MEV-1/Eutelsat | Rusia   | Baikonur 200/39 | GEO   | Succes       |
 | 70 | 04.10 | 1851 | Changzheng-4C    | Gaofen-10R     | China   | Taiyuan LC-9    | SSO   | Succes       |
+|----+-------+------+------------------+----------------+---------+-----------------+-------+--------------|
 | 69 | 26.09 | 0746 | Soyuz-2.1b       | Tundra         | Rusia   | Plesetsk 43/4   | MOL   | Succes       |
 | 68 | 25.09 | 1357 | Soyuz-FG         | Soyuz MS-15    | Rusia   | Baikonur 1/5    | ISS   | Succes[fn:6] |
-| 67 | 25.09 | 0054 | Changzheng-2D    | Yunhai-1       | China   | Jiuquan         | SSo   | Succes       |
+| 67 | 25.09 | 0054 | Changzheng-2D    | Yunhai-1       | China   | Jiuquan         | SSO   | Succes       |
 | 66 | 24.09 | 1605 | H-2B             | HTV-8          | Japonia | Tanegashima     | ISS   | Succes       |
 | 65 | 22.09 | 2110 | Changzheng-3B    | Beidou-3       | China   | Xichang         | MEO   | Succes       |
 | 64 | 19.09 | 0642 | Changzheng-11    | Zhuhai-1       | China   | Jiuquan         | SSO   | Succes       |
 | 63 | 12.09 | 0326 | Changzheng-4B    | Naxing-3       | China   | Taiyuan         | SSO   | Succes       |
+|----+-------+------+------------------+----------------+---------+-----------------+-------+--------------|
 | 62 | 30.08 | 2341 | Kuaizhou-1A      | KX-09          | China   | Jiuquan         | SSO   | Succes       |
 | 61 | 30.08 | 1700 | Rokot            | Geo-IK-2       | Rusia   | Plesetsk 133/3  | LEO   | Succes       |
 | 60 | 22.08 | 1606 | Delta IV Medium  | GPS-III SV02   | SUA     | CC SLC-37B      | MEO   | Succes       |
@@ -1411,6 +1418,7 @@ ARCA Space acționează similar cu cei care promovează produse pseudo-science: 
 
 Dar este o părere personală și poate fi una greșită. Am râs cu toții când Elon Musk a spus că vrea să aducă o rachetă pe rampa de lansare, dar a reușit. Eu cred că există totuși o diferență de câteva ordine de mărime între ARCA Space și SpaceX (o excepție fericită, totuși, în industria de profil), dar dacă ARCA Space mă va contrazice prin fapte, voi fi bucuros, pentru că va fi în folosul tuturor. Nu a făcut-o până acum, are însă tot viitorul în față, însă eu pur și simplu nu pot să iau în serios declarațiile ARCA Space.
 
+
 ** Meteoriți
 :PROPERTIES:
 :EXPORT_FILE_NAME: meteoriti 
@@ -1450,6 +1458,7 @@ Din păcate, toți cei 9 sau 10 meteoriți românești sunt condrite, adică cei
 |   8 | Tauti        | 1937 | Tauti CJ/AR/BH? | 46°43'N, 23°30'E | L6   | 21 kg    | /fall/ |
 |   9 | Gresia       | 1990 | Gresia, TR      | 44°10'N, 24°55'E | H4   | 26.9 kg  | /find/ |
 |  10 | Pleșcoi      | 2008 | Pleșcoi, BZ     | 45°16'N, 26°42'E | L5-6 | 6.91 kg  | /fall/ |
+
 
 * Buletin Cosmic
 :PROPERTIES:

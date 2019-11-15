@@ -8,6 +8,10 @@ draft = false
 
 | Nr | Data  | Ora  | Lansator         | Satelit        | Țara    | Rampa           | Ținta | Rezultat      |
 |----|-------|------|------------------|----------------|---------|-----------------|-------|---------------|
+| 80 | 13.11 | 0635 | Changzheng-6     | Ningxia-1      | China   | Taiyuan LC-16   | LEO   | Succes        |
+| 79 | 13.11 | 0340 | Kuaizhou-1A      | Gaofen-02A     | China   | Jiuquan SLS-2   | SSO   | Succes        |
+| 78 | 11.11 | 1456 | Falcon 9         | 60x Starlink   | SUA     | CC SLC-40       | LEO   | Succes        |
+| 77 | 04.11 | 1743 | Changzheng-3B/E  | Beidou-3       | China   | Xichang LC-2    | GSO   | Succes        |
 | 76 | 03.11 | 0322 | Changzheng-4B    | Gaofen-7       | China   | Taiyuan LC-9    | SSO   | Succes        |
 | 75 | 02.11 | 1359 | Antares 230+     | Cygnus NG-12   | SUA     | LP-0A           | ISS   | Succes        |
 | 74 | 17.10 | 1521 | Changzheng-3B    | TJSW-4         | China   | Xichang LC-3    | GSO   | Succes        |
@@ -17,7 +21,7 @@ draft = false
 | 70 | 04.10 | 1851 | Changzheng-4C    | Gaofen-10R     | China   | Taiyuan LC-9    | SSO   | Succes        |
 | 69 | 26.09 | 0746 | Soyuz-2.1b       | Tundra         | Rusia   | Plesetsk 43/4   | MOL   | Succes        |
 | 68 | 25.09 | 1357 | Soyuz-FG         | Soyuz MS-15    | Rusia   | Baikonur 1/5    | ISS   | Succes[^fn:1] |
-| 67 | 25.09 | 0054 | Changzheng-2D    | Yunhai-1       | China   | Jiuquan         | SSo   | Succes        |
+| 67 | 25.09 | 0054 | Changzheng-2D    | Yunhai-1       | China   | Jiuquan         | SSO   | Succes        |
 | 66 | 24.09 | 1605 | H-2B             | HTV-8          | Japonia | Tanegashima     | ISS   | Succes        |
 | 65 | 22.09 | 2110 | Changzheng-3B    | Beidou-3       | China   | Xichang         | MEO   | Succes        |
 | 64 | 19.09 | 0642 | Changzheng-11    | Zhuhai-1       | China   | Jiuquan         | SSO   | Succes        |
