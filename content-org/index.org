@@ -713,7 +713,8 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 
 | Nr |  Data |  Ora | Lansator         | Satelit        | Țara    | Rampa           | Ținta | Rezultat     |
 |----+-------+------+------------------+----------------+---------+-----------------+-------+--------------|
-| 84 | 26.11 | 2109 | Ariane 5 ECA     | Inmarsat-5 F5  | Europa  | Kourou ELA-3    | GSO   |              |
+| 85 | 27.11 | 0358 | PSLV-XL          | Cartosat-3     | India   | Satish Dhawan   | LEO   | Succes       |
+| 84 | 26.11 | 2109 | Ariane 5 ECA     | Inmarsat-5 F5  | Europa  | Kourou ELA-3    | GSO   | Succes       |
 | 83 | 25.11 | 1752 | Soyuz-2.1v       | Kosmos-2542    | Rusia   | Plesetsk 43/4   | LEO   | Succes       |
 | 82 | 23.11 | 0055 | Changzheng-3B    | Beidou-3       | China   | Xichang LC-3    | MEO   | Succes       |
 | 81 | 17.11 | 1000 | Kuaizhou-1A      | KL-Alpha       | China   | Jiuquan SLS-2   | LEO   | Succes       |
