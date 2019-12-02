@@ -23,7 +23,7 @@ draft = false
 1.  2018-07-25 JRTI **Iridium-7**
 2.  2018-10-08 LZ4 **SAOCOM-1A**
 3.  2019-02-21 OCISLY **PSN-6**
-4.  (2019-0X-XX OCISLY **Dragon-2**)[^fn:1]
+4.  2019-11-11 OCISLY Starlink L1
 
 
 ## B1049 {#b1049}
@@ -35,7 +35,7 @@ draft = false
 
 ## B1050 {#b1050}
 
-1.  2018-12-05 (LZ1) **Dragon CRS-16**&nbsp;[^fn:2]
+1.  2018-12-05 (LZ1) **Dragon CRS-16**&nbsp;[^fn:1]
 
 
 ## B1051 {#b1051}
@@ -58,12 +58,12 @@ draft = false
 
 ## B1054 {#b1054}
 
-1.  2018-12-23 N/A **GPSIII-SV01**&nbsp;[^fn:3]
+1.  2018-12-23 N/A **GPSIII-SV01**&nbsp;[^fn:2]
 
 
 ## B1055 {#b1055}
 
-1.  2018-04-12 OCISLY **Arabsat-6A**, FH-centru&nbsp;[^fn:4]
+1.  2018-04-12 OCISLY **Arabsat-6A**, FH-centru&nbsp;[^fn:3]
 
 
 ## B1056 {#b1056}
@@ -74,12 +74,17 @@ draft = false
 
 ## B1057 {#b1057}
 
-1.  2019-06-25 N/A **STP-2**, FH-centru&nbsp;[^fn:5]
+1.  2019-06-25 N/A **STP-2**, FH-centru&nbsp;[^fn:4]
 
 
 ## B1058 {#b1058}
 
-1.  20XX-XX-XX XXX Dragon DM-2[^fn:6]
+1.  20XX-XX-XX XXX Dragon DM-2[^fn:5]
+
+
+## B1059 {#b1059}
+
+1.  (2019-12-04) OCISLY **Dragon CRS-19**
 
 
 ## Abrevieri {#abrevieri}
@@ -104,9 +109,8 @@ LZ-4
 
 ## Note {#note}
 
-[^fn:1]: Va fi folosit pentru sistemul de testare al anulării lansării capsulei Dragon-2 și probabil va fi distrus în urma activării motoarelor SuperDraco în timpul ascensiunii pe orbită.
-[^fn:2]: Programat să aterizeze pe LZ-1, în urma unei defecțiuni a ajuns în apa oceanului Atlantic, de unde a fost recuperat ulterior, avariat dar în mare parte intact, dar probabil nu va mai fi folosit
-[^fn:3]: Prima treaptă nu a fost recuperată, fiind nevoie de toată puterea disponibilă a rachetei.
-[^fn:4]: Recuperat inițial pe barjă, dar pierdut ulterior datorită condițiilor meteo.
-[^fn:5]: Recuperarea pe barja OCISLY nu a reușit.
-[^fn:6]: Este treapta primară care urmează să fie folosită în prima misiune cu echipaj uman a SpaceX; a efectuat primul test static în 29 august 2019.
+[^fn:1]: Programat să aterizeze pe LZ-1, în urma unei defecțiuni a ajuns în apa oceanului Atlantic, de unde a fost recuperat ulterior, avariat dar în mare parte intact, dar probabil nu va mai fi folosit
+[^fn:2]: Prima treaptă nu a fost recuperată, fiind nevoie de toată puterea disponibilă a rachetei.
+[^fn:3]: Recuperat inițial pe barjă, dar pierdut ulterior datorită condițiilor meteo.
+[^fn:4]: Recuperarea pe barja OCISLY nu a reușit.
+[^fn:5]: Este treapta primară care urmează să fie folosită în prima misiune cu echipaj uman a SpaceX; a efectuat primul test static în 29 august 2019.

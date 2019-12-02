@@ -620,7 +620,7 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 1. 2018-07-25 JRTI *Iridium-7*
 2. 2018-10-08 LZ4 *SAOCOM-1A*
 3. 2019-02-21 OCISLY *PSN-6*
-4. (2019-0X-XX OCISLY *Dragon-2*)[fn:B1048]
+4. 2019-11-11 OCISLY Starlink L1
 
 **** B1049
 
@@ -668,6 +668,10 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 
 1. 20XX-XX-XX XXX Dragon DM-2[fn:B1058]
 
+**** B1059
+
+1. (2019-12-04) OCISLY *Dragon CRS-19*
+
 **** Abrevieri
 
 - OCISLY :: Barja SpaceX *Of Course I Still Love You* de pe coasta de est, care deservește lansările de la Kennedy Space Center (rampa LC-39A) și Cape Canaveral (SLC-40);
@@ -682,7 +686,6 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 
 **** Note
 
-[fn:B1048] Va fi folosit pentru sistemul de testare al anulării lansării capsulei Dragon-2 și probabil va fi distrus în urma activării motoarelor SuperDraco în timpul ascensiunii pe orbită.
 [fn:B1050] Programat să aterizeze pe LZ-1, în urma unei defecțiuni a ajuns în apa oceanului Atlantic, de unde a fost recuperat ulterior, avariat dar în mare parte intact, dar probabil nu va mai fi folosit
 [fn:B1054] Prima treaptă nu a fost recuperată, fiind nevoie de toată puterea disponibilă a rachetei.
 [fn:B1055] Recuperat inițial pe barjă, dar pierdut ulterior datorită condițiilor meteo.
