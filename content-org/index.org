@@ -1473,6 +1473,34 @@ Din păcate, toți cei 9 sau 10 meteoriți românești sunt condrite, adică cei
 :EXPORT_HUGO_SECTION: bul
 :END:
 
+** Buletin Cosmic nr. 52
+:PROPERTIES:
+:EXPORT_FILE_NAME: 052
+:EXPORT_DATE: 2019-12-05
+:END:
+
+Capsula Dragon CRS-19 a companiei americane SpaceX a fost lansată ieri spre Stația Spațială Internațională, având la bord peste 4 tone de provizii, echipamente științifice și obiecte personale pentru cei șase astronauți de la bord. Aceștia vor primi cu această ocazie și un mic roboțel european, denumit CIMON-2, care va pluti liber prin interiorul stației și va putea interacționa cu echipajul, fiind dotat cu inteligență artificială și având acces la platforma Watson a companiei IBM. Lansarea s-a făcut cu o rachetă Falcon 9 nou-nouță, adică aflată la primul său zbor și nefolosită până acum, lucru care, iată, începe să fie rar pentru SpaceX. Capsula Dragon folosită în această misiune se află însă la al treilea zbor în spațiu, după misiunile CRS-4 și CRS-11 din septembrie 2014 și respectiv iunie 2017. A fost al 76-lea zbor pentru o rachetă Falcon 9 și a 12-a lansare din 2019 pentru SpaceX. Masa capsulei Dragon este suficient de mică pentru ca Falcon 9 să rămână cu suficient combustibil la bord pentru a reveni înapoi pe coasta Floridei, însă de această dată treapta primară a rachetei a fost recuperată pe barja Of Course I Still Love you din Atlantic, deoarece profilul de zbor a fost unul deosebit: după desprinderea de capsula Dragon, cea de-a doua treaptă Falcon 9 a mai efectuat câteva manevre, într-un test demonstrativ pentru un viitor client al SpaceX, pe care compania nu a vrut să-l dezvăluie.
+
+#+CAPTION: Lansarea rachetei Falcon 9 cu capsula Dragon CRS-19 spre Stația Spațială Internațională (/Sursă foto: [[https://twitter.com/johnkrausphotos/status/1202662118006366209][John Kraus]]/)
+[[/img/crs19.jpg]]
+
+---
+
+În timp ce de pe rampa SLC-40 de la Cape Canaveral din Florida racheta Falcon 9 lansa pe orbită capsula Dragon CRS-19, la câțiva kilometri distanță, pe rampa SLC-41 se afla o altă rachetă care se pregătește pentru o viitoare lansare. Dacă totul decurge bine, o rachetă Atlas V va lansa în 19 decembrie capsula CST-100 Starliner a companiei Boeing, într-un test fără echipaj al acestui vehicul, urmând ca anul viitor SpaceX sau Boeing să fie devină prima companie privată care va transporta astronauți spre stația spațială. Dacă lansarea nu va fi amânată, andocarea cu ISS va avea loc în 20 decembrie, capsula urmând să rămână timp de 5 zile cuplată cu avanpostul orbital, înainte să revină pe Pământ.
+
+---
+
+Vineri a avut loc desprinderea de Stația Spațială Internațională a navei cargo Progress MS-12, lansată în 31 iulie 2019. Aceasta a eliberat modulul Pirs al ISS pentru ca acesta să poată primi în următoarele zile capsula Progress MS-13, programată pentru lansare în cursul zilei de astăzi de la cosmodromul din Baikonur, la bordul unei rachete Soyuz-2.1a. Ca de obicei, nava cargo rusă Progress transportă aproximativ 2.5 tone de provizii și combustibil pentru stația spațială, fiind una din cele patru vehicule care transportă cargo spre ISS, alături de capsulele americane Dragon și Cygnus (de la SpaceX, respectiv Northrop Grumman) și capsula japoneză HTV. 
+
+---
+
+NASA a anunțat luni că sonda Lunar Reconaissance Orbiter (LRO), aflată pe orbita Lunii din 2009, a identificat locul în care s-a prăbușit landerul indian Vikram în 7 septembrie 2019, parte a misiunii Chandrayaan-2. Resturi ale landerului au fost împăștiate pe o distanță de peste 700 de metri de locul unde a avut loc impactul sondei cu solul lunar. Misiunea Chandrayaan-2 continuă însă, pentru că sonda indiană de pe orbita Lunii este într-o stare perfectă, continuându-și fără probleme experimentele științifice.
+
+---
+
+Și tot pe Lună, roverul chinezesc Yutu-2 și sonda Chang'e-4 au încheiat marți cea de-a 12-a zi selenară, intrând în hibernare pentru aproximativ 2 săptămâni, cât timp zona în care sunt este în întuneric și astfel expusă unor temperaturi mult mai scăzute decât de obicei. Roverul a parcurs deja peste 345 de metri, din ianuarie de când a ajuns pe Lună și probabil peste două săptămâni va porni din nou la drum. China pregătește o nouă misiune spre Lună anul viitor, dar pentru ca aceasta să aibă loc, racheta Changzheng-5 trebuie să revină pe rampa de lansare, după ce primele două lansări au fost problematice. Sunt zvonuri care spun că următoarea lansare Changzheng-5, cea mai puternică rachetă chinezească, este programată pentru ultimele zile ale anului, ceea ce deschide o mulțime de posibilități pentru 2020: o nouă misune spre Lună, cum spuneam, o misiune spre Marte, dar și asamblarea primelor module ale urmatoarei stații spațiale chinezești.
+
+
 ** Buletin Cosmic nr. 51 :spacex:nk33:ariane5:pslv:ams02:iss:
 :PROPERTIES:
 :EXPORT_FILE_NAME: 051
@@ -1481,19 +1509,29 @@ Din păcate, toți cei 9 sau 10 meteoriți românești sunt condrite, adică cei
 
 Starship Mk.1 (prototipul construit de SpaceX la Boca Chica, în Texas), a fost serios avariat săptămâna trecută, pe rampa unde acesta efectua un test de alimentare cu lichid criogenic. Partea superioară a vehiculului a explodat în timp ce era alimentată azot lichid și întreaga structură a fost serios afectată, dar, din fericire, nu s-au înregistrat răniți sau victime. Starship Mk.1 urma să efectueze un zbor până la o altitudine de 20 km în următoarele săptămâni, dar acum acest lucru nu se va mai întâmpla. Elon Musk a declarat imediat după accident că explozia s-a produs în timpul unei manevre care testa presiunea maximă suportată de rezervor, așa că explozia acestuia nu l-a surpins. SpaceX lucrează deja la Starship Mk.3, vehicul pe care îl vom vedea în teste probabil anul viitor.
 
+---
+
 Luni după-amiază, de la cosmodromul Plesetsk, Rusia a lansat o rachetă Soyuz-2.1v, care a urcat pe orbită un satelit militar secret. Nu știm care este numele sau rolul acestui satelit, știm doar că are indicativul Kosmos-2542. Racheta aleasă pentru această lansare este una interesantă: Soyuz-2.1v este diferită de restul rachetelor Soyuz prin lipsa celor patru boostere suplimentare, dar și prin folosirea legendarului motor NK-33, motor proiectat în anii '60 și care urma să echipeze rachetele N-1, construită pentru a permite aselenizarea cosmonauților ruși. Din păcate programul N-1 a fost un eșec extrem de costisitor, însă motoarele NK-33 au supraviețuit până în ziua de astăzi, datorită caracteristicilor absolut impresionante. Doar 6 lansări Soyuz-2.1v au avut loc din 2013 și până astăzi, racheta fiind una de calibru mediu, putând urca până la 2.8 tone pe orbita terestră joasă.
+
+---
 
 Marți a avut loc al 250-lea zbor al unei rachete europene Ariane: mai precis, racheta Ariane 5 în configurația ECA a lansat pe orbită geostaționară doi sateliți de telecomunicații: Inmarsat-5 F5 și satelitul egiptean TIBA-1. Cei doi sateliți cântăresc împreună aproape 10.5 tone. A fost a 105-a lansare Ariane 5 de la baza din Guiana Franceză și doar a 5-a din acest an. Ariane 5 mai are programate doar aproximativ 14 zboruri până în 2022, după care va fi înlocuită cu Ariane 6. Unul dintre zborurile din 2021 este rezervat de NASA pentru lansarea mult-așteptatului satelit James Webb.
 
 #+CAPTION: A 250-a lansare a unei rachete Ariane, de la baza Kourou din Guiana Franceză, cu sateliții de telecomunicații Inmarsat-5 F5 și TIBA-1 (Sursă foto: [[https://twitter.com/Arianespace/status/1199449908090228737][Arianespace]])
 [[/img/ariane1.jpg]]
 
+---
+
 Miercuri, India a lansat un nou satelit de cartografiere, denumit Cartosat-3, la bordul unei rachete PSLV, împreună cu alți 13 nanosateliți. Cartosat-3 oferă rezoluții de 25 de centimetri în spectrul vizibil și va fi folosit atât de agenții civile guvernamentale, cât și de armata Indiei. Cei 13 nanosateliți fac parte din cea mai numeroasă constelație existentă deocamdată de orbită (peste 200 de sateliți activi), controlată de compania americană Planet Labs, sateliți folosiți pentru observații ale suprafeței Pământului. A fost a 5-a lansare a unei rachete indiene din 2019 și a 4-a lansare a rachetei PSLV, care în varianta XL, folosită miercuri, poate urca până la 3.8 tone pe orbită terestră joasă.
 
 #+CAPTION: Lansarea rachetei indiene PSLV-XL, având la bord satelitul Cartisat-3 și alți 13 nanosateliți ai companiei Planet Labs (Sursă foto: [[https://twitter.com/isro/status/1199566061957341184][ISRO]])
 [[/img/pslv2.jpg]]
 
+---
+
 Italianul Luca Parmitano și americanul Andrew Morgan au efectuat deja două din cele patru activități extravehiculare dedicate reparării spectrometrului spațial AMS-02, situat în afara Stației Spațiale Internaționale. Sunt cele mai complexe activități extravehiculare de la misiunile dedicate telescopului spațiale Hubble, dar în urma lor AMS-02 ar trebui să mai poată fi folosit mulți ani de aici înainte și să continue să detecteze particule cosmice care să ajute cercetătorii de pe Pământ să înțeleagă mai bine Universul în care trăim. AMS-02 a fost lansat în 2011, odată cu ultimul zbor al navetei Endeavour și ultimele două ieșiri în spațiu din acest an îi sunt dedicate tot lui și sunt programate pentru următoarele zile.
+
+---
 
 În 2024, Ungaria ar putea avea un astronaut la bordul Stației Spațiale Internațională, printr-un mecanism de colaborare cu agenția spațială rusă. După ce Statele Unite vor fi capabile să lanseze din nou astronauți prin forțe proprii, grație programelor comerciale oferite de SpaceX și Boeing și vor renunța să mai cumpere locuri la bordul capsulei Soyuz, agenția spațială rusă va încearca să își suplimenteze veniturile prin astfel de contracte de colaborare. Ar fi al doilea astronaut maghiar pe orbită, după ce Bertalan Farkas a ajuns în spațiu în 1980, parte a celui de-al 5-lea echipaj din programul Intercosmos. Charles Simonyi, tot de origine maghiară, a ajuns în spațiu în 2007, dar având titulatura de turist spațial (deci nu astronaut sau cosmonaut), zbor efectuat tot cu sprijinul agenției spațiale ruse.
 
