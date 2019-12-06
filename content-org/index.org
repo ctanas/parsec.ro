@@ -716,6 +716,11 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 
 | Nr |  Data |  Ora | Lansator         | Satelit        | Țara    | Rampa           | Ținta | Rezultat     |
 |----+-------+------+------------------+----------------+---------+-----------------+-------+--------------|
+| 89 | 06.12 | 0934 | Soyuz-2.1a       | Progress MS-13 | Rusia   | Baikonur 31/6   | ISS   | Succes       |
+| 88 | 06.12 | 0757 | Electron         | ATL-1          | SUA     | Mahia LC-1      | LEO   | Succes       |
+| 87 | 05.12 | 1729 | Falcon 9         | Dragon CRS-19  | SUA     | CC SLC-40       | ISS   | Succes       |
+|----+-------+------+------------------+----------------+---------+-----------------+-------+--------------|
+| 86 | 27.11 | 2352 | Changzheng-4C    | Gaofen-12      | China   | Taiyaun LC-9    | SSO   | Succes       |
 | 85 | 27.11 | 0358 | PSLV-XL          | Cartosat-3     | India   | Satish Dhawan   | LEO   | Succes       |
 | 84 | 26.11 | 2109 | Ariane 5 ECA     | Inmarsat-5 F5  | Europa  | Kourou ELA-3    | GSO   | Succes       |
 | 83 | 25.11 | 1752 | Soyuz-2.1v       | Kosmos-2542    | Rusia   | Plesetsk 43/4   | LEO   | Succes       |
