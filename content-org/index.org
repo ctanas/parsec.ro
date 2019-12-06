@@ -716,60 +716,60 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 
 | Nr |  Data |  Ora | Lansator         | Satelit        | Țara    | Rampa           | Ținta | Rezultat     |
 |----+-------+------+------------------+----------------+---------+-----------------+-------+--------------|
-| 89 | 06.12 | 0934 | Soyuz-2.1a       | Progress MS-13 | Rusia   | Baikonur 31/6   | ISS   | Succes       |
-| 88 | 06.12 | 0757 | Electron         | ATL-1          | SUA     | Mahia LC-1      | LEO   | Succes       |
-| 87 | 05.12 | 1729 | Falcon 9         | Dragon CRS-19  | SUA     | CC SLC-40       | ISS   | Succes       |
+| 90 | 06.12 | 0934 | Soyuz-2.1a       | Progress MS-13 | Rusia   | Baikonur 31/6   | ISS   | Succes       |
+| 89 | 06.12 | 0757 | Electron         | ATL-1          | SUA     | Mahia LC-1      | LEO   | Succes       |
+| 88 | 05.12 | 1729 | Falcon 9         | Dragon CRS-19  | SUA     | CC SLC-40       | ISS   | Succes       |
 |----+-------+------+------------------+----------------+---------+-----------------+-------+--------------|
-| 86 | 27.11 | 2352 | Changzheng-4C    | Gaofen-12      | China   | Taiyaun LC-9    | SSO   | Succes       |
-| 85 | 27.11 | 0358 | PSLV-XL          | Cartosat-3     | India   | Satish Dhawan   | LEO   | Succes       |
-| 84 | 26.11 | 2109 | Ariane 5 ECA     | Inmarsat-5 F5  | Europa  | Kourou ELA-3    | GSO   | Succes       |
-| 83 | 25.11 | 1752 | Soyuz-2.1v       | Kosmos-2542    | Rusia   | Plesetsk 43/4   | LEO   | Succes       |
-| 82 | 23.11 | 0055 | Changzheng-3B    | Beidou-3       | China   | Xichang LC-3    | MEO   | Succes       |
-| 81 | 17.11 | 1000 | Kuaizhou-1A      | KL-Alpha       | China   | Jiuquan SLS-2   | LEO   | Succes       |
-| 80 | 13.11 | 0635 | Changzheng-6     | Ningxia-1      | China   | Taiyuan LC-16   | LEO   | Succes       |
-| 79 | 13.11 | 0340 | Kuaizhou-1A      | Gaofen-02A     | China   | Jiuquan SLS-2   | SSO   | Succes       |
-| 78 | 11.11 | 1456 | Falcon 9         | 60x Starlink   | SUA     | CC SLC-40       | LEO   | Succes       |
-| 77 | 04.11 | 1743 | Changzheng-3B/E  | Beidou-3       | China   | Xichang LC-2    | GSO   | Succes       |
-| 76 | 03.11 | 0322 | Changzheng-4B    | Gaofen-7       | China   | Taiyuan LC-9    | SSO   | Succes       |
-| 75 | 02.11 | 1359 | Antares 230+     | Cygnus NG-12   | SUA     | LP-0A           | ISS   | Succes       |
+| 87 | 27.11 | 2352 | Changzheng-4C    | Gaofen-12      | China   | Taiyaun LC-9    | SSO   | Succes       |
+| 86 | 27.11 | 0358 | PSLV-XL          | Cartosat-3     | India   | Satish Dhawan   | LEO   | Succes       |
+| 85 | 26.11 | 2109 | Ariane 5 ECA     | Inmarsat-5 F5  | Europa  | Kourou ELA-3    | GSO   | Succes       |
+| 84 | 25.11 | 1752 | Soyuz-2.1v       | Kosmos-2542    | Rusia   | Plesetsk 43/4   | LEO   | Succes       |
+| 83 | 23.11 | 0055 | Changzheng-3B    | Beidou-3       | China   | Xichang LC-3    | MEO   | Succes       |
+| 82 | 17.11 | 1000 | Kuaizhou-1A      | KL-Alpha       | China   | Jiuquan SLS-2   | LEO   | Succes       |
+| 81 | 13.11 | 0635 | Changzheng-6     | Ningxia-1      | China   | Taiyuan LC-16   | LEO   | Succes       |
+| 80 | 13.11 | 0340 | Kuaizhou-1A      | Gaofen-02A     | China   | Jiuquan SLS-2   | SSO   | Succes       |
+| 79 | 11.11 | 1456 | Falcon 9         | 60x Starlink   | SUA     | CC SLC-40       | LEO   | Succes       |
+| 78 | 04.11 | 1743 | Changzheng-3B/E  | Beidou-3       | China   | Xichang LC-2    | GSO   | Succes       |
+| 77 | 03.11 | 0322 | Changzheng-4B    | Gaofen-7       | China   | Taiyuan LC-9    | SSO   | Succes       |
+| 76 | 02.11 | 1359 | Antares 230+     | Cygnus NG-12   | SUA     | LP-0A           | ISS   | Succes       |
 |----+-------+------+------------------+----------------+---------+-----------------+-------+--------------|
-| 74 | 17.10 | 1521 | Changzheng-3B    | TJSW-4         | China   | Xichang LC-3    | GSO   | Succes       |
-| 73 | 17.10 | 0122 | Electron         | Palisade       | SUA     | Mahia LC-1      | SSO   | Succes       |
-| 72 | 11.10 | 0200 | Pegasus-XL       | ICON           | SUA     | /Stargazer/       | LEO   | Succes       |
-| 71 | 09.10 | 1017 | Proton-M         | MEV-1/Eutelsat | Rusia   | Baikonur 200/39 | GEO   | Succes       |
-| 70 | 04.10 | 1851 | Changzheng-4C    | Gaofen-10R     | China   | Taiyuan LC-9    | SSO   | Succes       |
+| 75 | 17.10 | 1521 | Changzheng-3B    | TJSW-4         | China   | Xichang LC-3    | GSO   | Succes       |
+| 74 | 17.10 | 0122 | Electron         | Palisade       | SUA     | Mahia LC-1      | SSO   | Succes       |
+| 73 | 11.10 | 0200 | Pegasus-XL       | ICON           | SUA     | /Stargazer/       | LEO   | Succes       |
+| 72 | 09.10 | 1017 | Proton-M         | MEV-1/Eutelsat | Rusia   | Baikonur 200/39 | GEO   | Succes       |
+| 71 | 04.10 | 1851 | Changzheng-4C    | Gaofen-10R     | China   | Taiyuan LC-9    | SSO   | Succes       |
 |----+-------+------+------------------+----------------+---------+-----------------+-------+--------------|
-| 69 | 26.09 | 0746 | Soyuz-2.1b       | Tundra         | Rusia   | Plesetsk 43/4   | MOL   | Succes       |
-| 68 | 25.09 | 1357 | Soyuz-FG         | Soyuz MS-15    | Rusia   | Baikonur 1/5    | ISS   | Succes[fn:6] |
-| 67 | 25.09 | 0054 | Changzheng-2D    | Yunhai-1       | China   | Jiuquan         | SSO   | Succes       |
-| 66 | 24.09 | 1605 | H-2B             | HTV-8          | Japonia | Tanegashima     | ISS   | Succes       |
-| 65 | 22.09 | 2110 | Changzheng-3B    | Beidou-3       | China   | Xichang         | MEO   | Succes       |
-| 64 | 19.09 | 0642 | Changzheng-11    | Zhuhai-1       | China   | Jiuquan         | SSO   | Succes       |
-| 63 | 12.09 | 0326 | Changzheng-4B    | Naxing-3       | China   | Taiyuan         | SSO   | Succes       |
+| 70 | 26.09 | 0746 | Soyuz-2.1b       | Tundra         | Rusia   | Plesetsk 43/4   | MOL   | Succes       |
+| 69 | 25.09 | 1357 | Soyuz-FG         | Soyuz MS-15    | Rusia   | Baikonur 1/5    | ISS   | Succes[fn:6] |
+| 68 | 25.09 | 0054 | Changzheng-2D    | Yunhai-1       | China   | Jiuquan         | SSO   | Succes       |
+| 67 | 24.09 | 1605 | H-2B             | HTV-8          | Japonia | Tanegashima     | ISS   | Succes       |
+| 66 | 22.09 | 2110 | Changzheng-3B    | Beidou-3       | China   | Xichang         | MEO   | Succes       |
+| 65 | 19.09 | 0642 | Changzheng-11    | Zhuhai-1       | China   | Jiuquan         | SSO   | Succes       |
+| 64 | 12.09 | 0326 | Changzheng-4B    | Naxing-3       | China   | Taiyuan         | SSO   | Succes       |
 |----+-------+------+------------------+----------------+---------+-----------------+-------+--------------|
-| 62 | 30.08 | 2341 | Kuaizhou-1A      | KX-09          | China   | Jiuquan         | SSO   | Succes       |
-| 61 | 30.08 | 1700 | Rokot            | Geo-IK-2       | Rusia   | Plesetsk 133/3  | LEO   | Succes       |
-| 60 | 22.08 | 1606 | Delta IV Medium  | GPS-III SV02   | SUA     | CC SLC-37B      | MEO   | Succes       |
-| 59 | 22.08 | 0338 | Soyuz-2.1a       | Soyuz MS-14    | Rusia   | Baikonur 31/6   | ISS   | Succes       |
-| 58 | 19.08 | 1212 | Electron         | BRO-1          | SUA     | Mahia LC-1      | LEO   | Succes       |
-| 57 | 19.08 | 1203 | Changzheng-3B/G2 | Chinasat-18    | China   | Xichang         | GEO   | Succes[fn:5] |
-| 56 | 17.08 | 0411 | Jielong-1        | QianSheng-1    | China   | Jiuquan         | SSO   | Succes       |
-| 55 | 08.08 | 1013 | Atlas V 551      | AEHF-5         | SUA     | CC SLC-41       | GEO   | Succes       |
-| 54 | 06.08 | 2323 | Falcon 9         | Amos-17        | SUA     | CC SLC-40       | GEO   | Succes       |
-| 53 | 06.08 | 1930 | Ariane 5 ECA     | EDRS-C         | Europa  | Kourou ELA-3    | GEO   | Succes       |
-| 52 | 05.08 | 2156 | Proton-M         | Blagovest-14L  | Rusia   | Baikonur 81/24  | GEO   | Succes       |
+| 63 | 30.08 | 2341 | Kuaizhou-1A      | KX-09          | China   | Jiuquan         | SSO   | Succes       |
+| 62 | 30.08 | 1700 | Rokot            | Geo-IK-2       | Rusia   | Plesetsk 133/3  | LEO   | Succes       |
+| 61 | 22.08 | 1606 | Delta IV Medium  | GPS-III SV02   | SUA     | CC SLC-37B      | MEO   | Succes       |
+| 60 | 22.08 | 0338 | Soyuz-2.1a       | Soyuz MS-14    | Rusia   | Baikonur 31/6   | ISS   | Succes       |
+| 59 | 19.08 | 1212 | Electron         | BRO-1          | SUA     | Mahia LC-1      | LEO   | Succes       |
+| 58 | 19.08 | 1203 | Changzheng-3B/G2 | Chinasat-18    | China   | Xichang         | GEO   | Succes[fn:5] |
+| 57 | 17.08 | 0411 | Jielong-1        | QianSheng-1    | China   | Jiuquan         | SSO   | Succes       |
+| 56 | 08.08 | 1013 | Atlas V 551      | AEHF-5         | SUA     | CC SLC-41       | GEO   | Succes       |
+| 55 | 06.08 | 2323 | Falcon 9         | Amos-17        | SUA     | CC SLC-40       | GEO   | Succes       |
+| 54 | 06.08 | 1930 | Ariane 5 ECA     | EDRS-C         | Europa  | Kourou ELA-3    | GEO   | Succes       |
+| 53 | 05.08 | 2156 | Proton-M         | Blagovest-14L  | Rusia   | Baikonur 81/24  | GEO   | Succes       |
 |----+-------+------+------------------+----------------+---------+-----------------+-------+--------------|
-| 51 | 31.07 | 1210 | Soyuz-2.1a       | Progress MS-12 | Rusia   | Baikonur 31/6   | ISS   | Succes       |
-| 50 | 30.07 | 0556 | Soyuz-2.1a       | Meridian-8     | Rusia   | Plesetsk 43/4   | MOL   | Succes       |
-| 49 | 26.07 | 0357 | Changzheng-2C    | Yaogan-30      | China   | Xichang LC-3    | LEO   | Succes       |
-| 48 | 25.07 | 2201 | Falcon 9         | Dragon CRS-18  | SUA     | CC SLC-40       | ISS   | Succes       |
-| 47 | 25.07 | 0500 | Hyperbola-1      | CAS-7B         | China   | Jiuquan         | LEO   | Succes[fn:4] |
-| 46 | 22.07 | 0913 | GSLV Mk.III      | Chandrayaan-2  | India   | S-Dhawan SLP    | SNC   | Succes       |
-| 45 | 20.07 | 1628 | Soyuz-FG         | Soyuz MS-13    | Rusia   | Baikonur 1/5    | ISS   | Succes       |
-| 44 | 13.07 | 1230 | Proton-M         | Spektr-RG      | Rusia   | Baikonur 81/24  | LL2   | Succes       |
-| 43 | 11.07 | 0153 | Vega             | FalconEye-1    | Europa  | Kourou ELV      | LEO   | Eșec[fn:3]   |
-| 42 | 10.07 | 1714 | Soyuz-2-1v       | Nivelir-L      | Rusia   | Plesetsk 43/4   | LEO   | Succes       |
-| 41 | 05.07 | 0541 | Soyuz-2.1b       | Meteor-M2-2    | Rusia   | Vostochny 1S    | SSO   | Succes       |
+| 52 | 31.07 | 1210 | Soyuz-2.1a       | Progress MS-12 | Rusia   | Baikonur 31/6   | ISS   | Succes       |
+| 51 | 30.07 | 0556 | Soyuz-2.1a       | Meridian-8     | Rusia   | Plesetsk 43/4   | MOL   | Succes       |
+| 50 | 26.07 | 0357 | Changzheng-2C    | Yaogan-30      | China   | Xichang LC-3    | LEO   | Succes       |
+| 49 | 25.07 | 2201 | Falcon 9         | Dragon CRS-18  | SUA     | CC SLC-40       | ISS   | Succes       |
+| 48 | 25.07 | 0500 | Hyperbola-1      | CAS-7B         | China   | Jiuquan         | LEO   | Succes[fn:4] |
+| 47 | 22.07 | 0913 | GSLV Mk.III      | Chandrayaan-2  | India   | S-Dhawan SLP    | SNC   | Succes       |
+| 46 | 20.07 | 1628 | Soyuz-FG         | Soyuz MS-13    | Rusia   | Baikonur 1/5    | ISS   | Succes       |
+| 45 | 13.07 | 1230 | Proton-M         | Spektr-RG      | Rusia   | Baikonur 81/24  | LL2   | Succes       |
+| 44 | 11.07 | 0153 | Vega             | FalconEye-1    | Europa  | Kourou ELV      | LEO   | Eșec[fn:3]   |
+| 43 | 10.07 | 1714 | Soyuz-2-1v       | Nivelir-L      | Rusia   | Plesetsk 43/4   | LEO   | Succes       |
+| 42 | 05.07 | 0541 | Soyuz-2.1b       | Meteor-M2-2    | Rusia   | Vostochny 1S    | SSO   | Succes       |
 |----+-------+------+------------------+----------------+---------+-----------------+-------+--------------|
 | 41 | 29.06 | 0430 | Electron         | BS-Global-3    | SUA     | Mahia LC-1      | LEO   | Succes       |
 | 40 | 25.06 | 0630 | Falcon Heavy     | STP-2          | SUA     | KSC LC-39A      | LEO   | Succes       |
