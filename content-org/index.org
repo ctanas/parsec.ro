@@ -670,7 +670,7 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 
 **** B1059
 
-1. (2019-12-04) OCISLY *Dragon CRS-19*
+1. 2019-12-05 OCISLY *Dragon CRS-19*
 
 **** Abrevieri
 
@@ -1504,7 +1504,6 @@ NASA a anunțat luni că sonda Lunar Reconaissance Orbiter (LRO), aflată pe orb
 ---
 
 Și tot pe Lună, roverul chinezesc Yutu-2 și sonda Chang'e-4 au încheiat marți cea de-a 12-a zi selenară, intrând în hibernare pentru aproximativ 2 săptămâni, cât timp zona în care sunt este în întuneric și astfel expusă unor temperaturi mult mai scăzute decât de obicei. Roverul a parcurs deja peste 345 de metri, din ianuarie de când a ajuns pe Lună și probabil peste două săptămâni va porni din nou la drum. China pregătește o nouă misiune spre Lună anul viitor, dar pentru ca aceasta să aibă loc, racheta Changzheng-5 trebuie să revină pe rampa de lansare, după ce primele două lansări au fost problematice. Sunt zvonuri care spun că următoarea lansare Changzheng-5, cea mai puternică rachetă chinezească, este programată pentru ultimele zile ale anului, ceea ce deschide o mulțime de posibilități pentru 2020: o nouă misune spre Lună, cum spuneam, o misiune spre Marte, dar și asamblarea primelor module ale urmatoarei stații spațiale chinezești.
-
 
 ** Buletin Cosmic nr. 51 :spacex:nk33:ariane5:pslv:ams02:iss:
 :PROPERTIES:
