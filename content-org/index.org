@@ -716,6 +716,8 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 
 | Nr |  Data |  Ora | Lansator         | Satelit        | Țara    | Rampa           | Ținta | Rezultat     |
 |----+-------+------+------------------+----------------+---------+-----------------+-------+--------------|
+| 92 | 07.12 | 0852 | Kuaizhou-1A      | 2x Xingyun-2   | China   | Taiyuan         | SSO   | Succes       |
+| 91 | 07.12 | 0255 | Kuaizhou-1A      | Jilin-1        | China   | Taiyuan         | SSO   | Succes       |
 | 90 | 06.12 | 0934 | Soyuz-2.1a       | Progress MS-13 | Rusia   | Baikonur 31/6   | ISS   | Succes       |
 | 89 | 06.12 | 0757 | Electron         | ATL-1          | SUA     | Mahia LC-1      | LEO   | Succes       |
 | 88 | 05.12 | 1729 | Falcon 9         | Dragon CRS-19  | SUA     | CC SLC-40       | ISS   | Succes       |
@@ -1370,12 +1372,12 @@ Moștenirea programului Buran însă continuă și astăzi. Boosterele rachetei 
 | InSight           | 05.05.2018 | NASA      | Atlas V 401    | Marte   |         202X |             830 | lander                          |
 | Juno              | 05.08.2011 | NASA      | Atlas V 551    | Jupiter |         2021 |            1100 | pe orbita lui Jupiter           |
 | OSRIS-REx         | 08.12.2016 | NASA      | Atlas V 441    | Bennu   |         2023 |             800 | pe orbita asteroidului[fn:son6] |
-| Hayabusa-2        | 03.12.2014 | JAXA      | H-2A 202       | Ryugu   |         2020 |             149 | în vecinătarea asteroidului     |
+| Hayabusa-2        | 03.12.2014 | JAXA      | H-2A 202       | Ryugu   |         2020 |             149 | în drum spre Pământ             |
 | TESS              | 18.04.2018 | NASA      | Falcon 9 B4    | P/2     |         2028 |              75 | fucțională                      |
 | New Horizons      | 19.01.2006 | NASA      | Atlas V 551    | Pluto   |         20XX |             700 | dincolo de Ultima Thule         |
 | Voyager-1         | 05.09.1977 | NASA      | Titan IIIE     | spațiu  |         2025 |  (865)[fn:son8] | dincolo de Sistemul Solar       |
 | Voyager-2         | 20.08.1977 | NASA      | Titan IIIE     | spațiu  |         2025 |  (865)[fn:son8] | dincolo de Sistemul Solar       |
-
+|-------------------+------------+-----------+----------------+---------+--------------+-----------------+---------------------------------|
 ---
 *** Note de subsol
 [fn:son1] End of Mission, anul în care se așteaptă ca sondă să devină nefuncțională, rezultat în principal din estimarea cantității de combustibil de la bord.
@@ -1486,13 +1488,22 @@ Din păcate, toți cei 9 sau 10 meteoriți românești sunt condrite, adică cei
 
 *** Lansări orbitale
 
-Vineri, 6 decembrie 2019 (10:18), a avut loc a zecea lansare a unei rachete Electron (denumită /Running our of fingers/), de pe rampa LC-1 din Mahia, Noua Zeelandă. Șapte sateliți de mici dimensiuni au ajuns astfel pe orbită terestră joasă, printre care și satelitul japonez ALE-2, ce urmează să testeze o tehnică pentru a genera o ploaie artificială de meteori, pentru un spectacol la sol care ar putea fi inclus în deschiderea jocurilor olimpice de vară de la Tokyo.
+Vineri, 6 decembrie 2019 (10:18), a avut loc a zecea lansare a unei rachete *Electron* (denumită /Running our of fingers/), de pe rampa LC-1 din Mahia, Noua Zeelandă. Șapte sateliți de mici dimensiuni au ajuns astfel pe orbită terestră joasă, printre care și satelitul japonez ALE-2, ce urmează să testeze o tehnică pentru a genera o ploaie artificială de meteori, pentru un spectacol la sol care ar putea fi inclus în deschiderea jocurilor olimpice de vară de la Tokyo.
 
 Lansarea a fost una importantă pentru compania americană Rocket Lab deoarece a testat posibilitatea ca treapta primară a rachetei să reintre controlat în atmosferă și să rămână intactă până la impactul cu oceanul pacific. Peter Beck, directorul Space Lab, [[https://twitter.com/Peter_J_Beck/status/1202901928633438210][a confirmat]] la scurt timp după lansare că tesul a fost unul de succes și racheta a continuat să trimită telemetrie până în momentul impactului, ceea ce înseamnă un pas spre viitoare tentative de recuperare a primei trepte Electron. Însă aceasta nu va reveni pe Pământ, așa cum face Falcon 9, ci va fi [[https://www.youtube.com/watch?v=enndCzvZpZk][recuperată din zbor, cu ajutorul unui elicopter]].
 
 ---
 
-Și tot vineri, la scurt timp după lansarea Electron, o rachetă Soyuz-2.1a, lansată de pe cosmodromul Baikonur, a urcat pe orbită nava cargo Progress MS-13, pentru aprovizionarea Stației Spațiale Internaționale.
+Și tot vineri, 6 decembrie 2019, la scurt timp după lansarea Electron, o rachetă Soyuz-2.1a, lansată de pe cosmodromul Baikonur, a urcat pe orbită nava cargo *Progress MS-13*, pentru aprovizionarea Stației Spațiale Internaționale (la ora 11:34). A fost a treia și ultima lansare Progress a anului, dar a patra lansare cargo din Rusia spre Stația Spațială, pentru că în august capsula Soyuz MS-14 a fost lansată și a andocat la ISS fără a avea un echipaj la bord.
+
+Progress MS-14 a fost încărcată cu aproape 2.5 tone de marfă, după cum urmează: 650 kilograme de combustibil pentru stația spațială, 50 de kilograme de oxigen pentru echipaj, 420 kilograme de apă, și 1.3 tone de experimente științifice și alte provizii pentru echipaj. Fără această lansare, proviziile de la bordul stației ar fi fost suficiente până în iunie 2020, dacă nici o altă capsulă nu ar mai fi fost lanstă până atunci. Andocarea cu ISS este programată pentru luni, 7 decembrie, la o zi după anodcarea capsulei Dragon CRS-19.
+
+#+CAPTION: Lansarea capsulei Progress MS-13 spre ISS la bordul unei rachete Soyuz-2.1a de la Baikonur (Sursa foto: [[https://twitter.com/roscosmos/status/1202939275110686720/photo/1][Roscosmos]])
+[[/img/soyuz21a.jpg]]
+
+---
+
+
 
 *** Alte evenimente
 

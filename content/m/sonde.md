@@ -25,7 +25,7 @@ draft = false
 | InSight           | 05.05.2018 | NASA      | Atlas V 401    | Marte   | 202X       | 830           | lander                        |
 | Juno              | 05.08.2011 | NASA      | Atlas V 551    | Jupiter | 2021       | 1100          | pe orbita lui Jupiter         |
 | OSRIS-REx         | 08.12.2016 | NASA      | Atlas V 441    | Bennu   | 2023       | 800           | pe orbita asteroidului[^fn:7] |
-| Hayabusa-2        | 03.12.2014 | JAXA      | H-2A 202       | Ryugu   | 2020       | 149           | în vecinătarea asteroidului   |
+| Hayabusa-2        | 03.12.2014 | JAXA      | H-2A 202       | Ryugu   | 2020       | 149           | în drum spre Pământ           |
 | TESS              | 18.04.2018 | NASA      | Falcon 9 B4    | P/2     | 2028       | 75            | fucțională                    |
 | New Horizons      | 19.01.2006 | NASA      | Atlas V 551    | Pluto   | 20XX       | 700           | dincolo de Ultima Thule       |
 | Voyager-1         | 05.09.1977 | NASA      | Titan IIIE     | spațiu  | 2025       | (865)[^fn:8]  | dincolo de Sistemul Solar     |

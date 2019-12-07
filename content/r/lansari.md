@@ -8,6 +8,8 @@ draft = false
 
 | Nr | Data  | Ora  | Lansator         | Satelit        | Țara    | Rampa           | Ținta | Rezultat      |
 |----|-------|------|------------------|----------------|---------|-----------------|-------|---------------|
+| 92 | 07.12 | 0852 | Kuaizhou-1A      | 2x Xingyun-2   | China   | Taiyuan         | SSO   | Succes        |
+| 91 | 07.12 | 0255 | Kuaizhou-1A      | Jilin-1        | China   | Taiyuan         | SSO   | Succes        |
 | 90 | 06.12 | 0934 | Soyuz-2.1a       | Progress MS-13 | Rusia   | Baikonur 31/6   | ISS   | Succes        |
 | 89 | 06.12 | 0757 | Electron         | ATL-1          | SUA     | Mahia LC-1      | LEO   | Succes        |
 | 88 | 05.12 | 1729 | Falcon 9         | Dragon CRS-19  | SUA     | CC SLC-40       | ISS   | Succes        |
