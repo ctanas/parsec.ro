@@ -4,6 +4,13 @@ author = ["Claudiu"]
 draft = true
 +++
 
+În funcție de masa pe care o pot urca pe orbita terestră joasă, rachetele se pot clasifica în patru clase:
+
+-   calibru ușor (SLV --_Small Lift Vehicle_), până la 2 tone: Electron, Pegasus, Rokot, Vega etc
+-   calibru mediu (MLV --_Medium Lift Vehicle_), între 2-20 tone: Atlas V, PSLV, H-2, Soyuz-2, GSLV, Antares etc
+-   calibru greu (HLV --_Heavy Lift Vehicle_), între 20-50 tone: Ariane 5, Delta IV Heavy, Proton-M, Falcon 9.
+-   calibru supergreu (SHLV --_Super Heavy Lift Vehicle_), peste 50 de tone: Saturn V, Energia.
+
 | Racheta         | Țara | Operator    | Debut | Motor      | LEO   | SSO   | GTO   | Lansări | Succese | Eșecuri |
 |-----------------|------|-------------|-------|------------|-------|-------|-------|---------|---------|---------|
 | Antares[^fn:1]  | SUA  | NGSSG       | 2013  | RD-181     | 8t    |       |       | 10      | 9       | 1       |
@@ -33,10 +40,10 @@ draft = true
 | Changzheng-11   | CHN  | CNSA        |       |            |       |       |       |         |         |         |
 | Jielong-1       | CHN  | CNSA        |       |            |       |       |       |         |         |         |
 | Kuaizhou        | CHN  | CNSA        |       |            |       |       |       |         |         |         |
-| Ariane 5        | EU   | ArianeSpace |       |            |       |       |       |         |         |         |
-| Vega            | EU   | ArianeSpace |       |            |       |       |       |         |         |         |
-| H-2A            | JPN  | JAXA        |       |            |       |       |       |         |         |         |
-| H-2B            | JPN  | JAXa        |       |            |       |       |       |         |         |         |
+| Ariane 5        | EU   | ArianeSpace | 1996  | Vulcain    | 20 t  |       | 10.9t | 106     | 101     | 2(3)    |
+| Vega            | EU   | ArianeSpace | 2012  | P80        |       | 1.45t |       | 15      | 14      | 1       |
+| H-2A            | JPN  | JAXA        | 2001  | LE-7A      | 15t   |       | 6t    | 40      | 39      | 1       |
+| H-2B            | JPN  | JAXA        | 2009  | LE-7A      | 16.5  |       | 8t    | 8       | 8       | 0       |
 | PSLV-CA         | IND  | ISRO        |       |            |       |       |       |         |         |         |
 | PSLV-XL         | IND  | ISRO        |       |            |       |       |       |         |         |         |
 | PSLV-DL         | IND  | ISRO        |       |            |       |       |       |         |         |         |
