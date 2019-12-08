@@ -1548,6 +1548,7 @@ Moștenirea programului Buran însă continuă și astăzi. Boosterele rachetei 
 | New Horizons      | 19.01.2006 | NASA      | Atlas V 551    | Pluto   |         20XX |             700 | dincolo de Ultima Thule         |
 | Voyager-1         | 05.09.1977 | NASA      | Titan IIIE     | spațiu  |         2025 |  (865)[fn:son8] | dincolo de Sistemul Solar       |
 | Voyager-2         | 20.08.1977 | NASA      | Titan IIIE     | spațiu  |         2025 |  (865)[fn:son8] | dincolo de Sistemul Solar       |
+|                   |            |           |                |         |              |                 |                                 |
 |-------------------+------------+-----------+----------------+---------+--------------+-----------------+---------------------------------|
 ---
 *** Note de subsol
@@ -1643,6 +1644,7 @@ Din păcate, toți cei 9 sau 10 meteoriți românești sunt condrite, adică cei
 |   8 | Tauti        | 1937 | Tauti CJ/AR/BH? | 46°43'N, 23°30'E | L6   | 21 kg    | /fall/ |
 |   9 | Gresia       | 1990 | Gresia, TR      | 44°10'N, 24°55'E | H4   | 26.9 kg  | /find/ |
 |  10 | Pleșcoi      | 2008 | Pleșcoi, BZ     | 45°16'N, 26°42'E | L5-6 | 6.91 kg  | /fall/ |
+|-----+--------------+------+-----------------+------------------+------+----------+------|
 
 
 * Buletin Cosmic

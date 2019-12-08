@@ -30,6 +30,7 @@ draft = false
 | New Horizons      | 19.01.2006 | NASA      | Atlas V 551    | Pluto   | 20XX       | 700           | dincolo de Ultima Thule       |
 | Voyager-1         | 05.09.1977 | NASA      | Titan IIIE     | spațiu  | 2025       | (865)[^fn:8]  | dincolo de Sistemul Solar     |
 | Voyager-2         | 20.08.1977 | NASA      | Titan IIIE     | spațiu  | 2025       | (865)[^fn:8]  | dincolo de Sistemul Solar     |
+|                   |            |           |                |         |            |               |                               |
 
 ---
 
