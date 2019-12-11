@@ -8,6 +8,8 @@ draft = false
 
 | Nr | Data  | Ora  | Lansator         | Satelit        | Țara    | Rampa           | Ținta | Rezultat      |
 |----|-------|------|------------------|----------------|---------|-----------------|-------|---------------|
+| 94 | 11.12 | 0955 | PSLV-QL          | RISAT-2BR1     | India   | Satish Dhawan   | LEO   | Succes        |
+| 93 | 11.12 | 0830 | Soyuz-2.1b       | GLONASS-M      | Rusia   | Plesetsk 43/3   | MEO   | Succes        |
 | 92 | 07.12 | 0852 | Kuaizhou-1A      | 2x Xingyun-2   | China   | Taiyuan         | SSO   | Succes        |
 | 91 | 07.12 | 0255 | Kuaizhou-1A      | Jilin-1        | China   | Taiyuan         | SSO   | Succes        |
 | 90 | 06.12 | 0934 | Soyuz-2.1a       | Progress MS-13 | Rusia   | Baikonur 31/6   | ISS   | Succes        |

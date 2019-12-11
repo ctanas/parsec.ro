@@ -27,3 +27,5 @@ _testmain.go
 content-org/.#index.org
 *.org#
 content/bul/.#*
+*.md~
+*.org~
