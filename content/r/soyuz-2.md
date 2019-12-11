@@ -4,7 +4,7 @@ author = ["Claudiu"]
 draft = false
 +++
 
-Soyuz-2 este racheta care a înlocuit vechile lansatoare Soyuz-U (1973-2007, 786 lansări, 22 eșecuri) și Soyuz-FG (folosită ca o punte de legătură între Soyuz-U și Soyuz-2 pentru zborurile cu echipaj, între 2001-2019, 70 lansări, 1 eșec parțial). La fel ca celelelate toate celelalte rachete din această familie, Soyuz-2 este și ea derivată din racheta balistică intercontinentală R-7 Семёрка și este practic un upgrade al venerabilei Soyuz-U.
+Soyuz-2 este racheta care a înlocuit vechile lansatoare Soyuz-U (1973-2007, 786 lansări, 22 eșecuri) și Soyuz-FG (folosită ca o punte de legătură între Soyuz-U și Soyuz-2 pentru zborurile cu echipaj, între 2001-2019, 70 lansări, 1 eșec parțial). La fel ca toate celelalte rachete din această familie, Soyuz-2 este și ea derivată din racheta balistică intercontinentală R-7 Семёрка și este practic un upgrade al venerabilei Soyuz-U.
 
 Soyuz-2 este în principal folosită în două variante (Soyuz-2.1a, Soyuz-2.1b) și acestea pot fi lansate de la Baikonur (Kazahstan), Plesetsk, Vostochny (Rusia) și Kourou (Guiana Franceză, închiriată operatorului european Arianespace, de unde au loc lansări de sateliți de telecomunicații pe orbite geostaționare).
 
