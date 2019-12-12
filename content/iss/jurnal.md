@@ -1,14 +1,35 @@
 +++
-title = "Jurnal"
+title = "Jurnal ISS"
 author = ["Claudiu"]
 draft = false
 +++
 
+09.12.2019
+: Progress MS-13 andochează la portul _Pirs;_
+
+06.12.2019
+: Capsula Dragon CRS-19 este atașată modulului _Harmony nadir_;
+
+02.12.2019
+: EVA-223 (6 ore, 2 minute): Parmitano și Morgan, pentru întreținerea AMS-02;
+
+29.11.2019
+: Progress MS-12 se desprinde de modulul _Pirs;_
+
+22.11.2019
+: EVA-223 (6 ore, 33 minute): Parmitano și Morgan, pentru întreținerea AMS-02;
+
+15.11.2019
+: EVA-222 (6 ore, 39 minute): Parmitano și Morgan, pentru întreținerea AMS-02;
+
 04.11.2019
-: Capsula Cygnus NG-12 este atașată modulului Unity;
+: Capsula Cygnus NG-12 este atașată modulului _Unity_;
 
 01.11.2019
 : Vehiculul HTV-8 se desprinde de ISS;
+
+18.10.2019
+: EVA-221 (7 ore, 17 minute): Koch și Meir, pentru înlocuirea bateriilor ISS, prima activitate extravehiculară la care iau parte exclusiv femei;
 
 11.10.2019
 : EVA-220 (6 ore, 45 minute): Morgan și Koch, pentru înlocuirea bateriile ISS;
@@ -29,9 +50,7 @@ draft = false
 : Soyuz MS-14 revine cu bine înapoi pe Pământ;
 
 27.08.2019
-: Soyuz MS-14 andochează la portul _Zvezda;_
-
-Dragon CRS-18 se desprinde de modulul _Harmony_ și revine cu bine pe Pământ;
+: Soyuz MS-14 andochează la portul _Zvezda; Dragon CRS-18 se desprinde de modulul /Harmony_ și revine cu bine pe Pământ;
 
 26.08.2019
 : Skortsov, Parmitano și Morgan urcă la bordul Soyuz MS-13 și mută capsula de la portul _Zvezda_ la _Poisk_;

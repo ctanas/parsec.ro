@@ -283,20 +283,26 @@ STS-135 lansare 8 iulie 2011 (2824 zile la 1 aprilie 2019)
 Apollo-Soyuz (ASTP)  15 iulie 1975
 STS-1 12 aprilie 1981 (2098 zile de la ASTP)
 
-** Jurnal
+** Jurnal ISS
 :PROPERTIES:
 :EXPORT_FILE_NAME: jurnal
 :END:
-- 04.11.2019 :: Capsula Cygnus NG-12 este atașată modulului Unity;
+- 09.12.2019 :: Progress MS-13 andochează la portul /Pirs;/
+- 06.12.2019 :: Capsula Dragon CRS-19 este atașată modulului /Harmony nadir/;
+- 02.12.2019 :: EVA-223 (6 ore, 2 minute): Parmitano și Morgan, pentru întreținerea AMS-02;
+- 29.11.2019 :: Progress MS-12 se desprinde de modulul /Pirs;/
+- 22.11.2019 :: EVA-223 (6 ore, 33 minute): Parmitano și Morgan, pentru întreținerea AMS-02;
+- 15.11.2019 :: EVA-222 (6 ore, 39 minute): Parmitano și Morgan, pentru întreținerea AMS-02;
+- 04.11.2019 :: Capsula Cygnus NG-12 este atașată modulului /Unity/;
 - 01.11.2019 :: Vehiculul HTV-8 se desprinde de ISS;
+- 18.10.2019 :: EVA-221 (7 ore, 17 minute): Koch și Meir, pentru înlocuirea bateriilor ISS, prima activitate extravehiculară la care iau parte exclusiv femei;
 - 11.10.2019 :: EVA-220 (6 ore, 45 minute): Morgan și Koch, pentru înlocuirea bateriile ISS;
 - 06.10.2019 :: EVA-219 (7 ore, 1 minut): Koch și Morgan, pentru înlocuirea bateriilor ISS;
 - 03.10.2019 :: Soyuz MS-12 revine pe Pământ cu Ovcinin, Hague, Mansouri; începe Expediția 61;
 - 28.09.2019 :: HTV-8 andochează la portul /Harmony nadir/, după ce a fost lansată în 24.09.2010;
 - 25.09.2019 :: Soyuz MS-15 (Skripochka, Meir, Mansouri)  este lansată și andochează după 6 ore cu ISS;
 - 06.08.2019 :: Soyuz MS-14 revine cu bine înapoi pe Pământ;
-- 27.08.2019 :: Soyuz MS-14 andochează la portul /Zvezda;/
-Dragon CRS-18 se desprinde de modulul /Harmony/ și revine cu bine pe Pământ;
+- 27.08.2019 :: Soyuz MS-14 andochează la portul /Zvezda; Dragon CRS-18 se desprinde de modulul /Harmony/ și revine cu bine pe Pământ;
 - 26.08.2019 :: Skortsov, Parmitano și Morgan urcă la bordul Soyuz MS-13 și mută capsula de la portul /Zvezda/ la /Poisk/; 
 - 24.08.2019 :: Soyuz MS-14 nu reușește andocarea la portul /Poisk/ din cauza unui amplificator de semnal de pe ISS;
 - 22.08.2019 :: Soyuz MS-14 este lansată spre ISS, fără echipaj la bord, pentru a testa integrarea cu noua rachetă Soyuz-2.1b, care urmează să fie folosită din 2020 pentru lansarea de astronauți; 
