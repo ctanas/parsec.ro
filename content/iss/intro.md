@@ -27,13 +27,14 @@ Construcția ISS a însemnat asamblare pe orbită a [modulelor componente](<http
 
 ## Câte vehicule sunt în prezent andocate la ISS? {#câte-vehicule-sunt-în-prezent-andocate-la-iss}
 
-| Vehicul        | Lansare    | Rachetă      | Port   | Sosire     | Plecare      | Recuperare |
-|----------------|------------|--------------|--------|------------|--------------|------------|
-| Soyuz MS-15    | 25.09.2019 | Soyuz-FG     | Zvezda | 25.09.2019 | _01.04.2020_ | DA         |
-| Soyuz MS-13    | 20.07.2019 | Soyuz-FG     | Zvezda | 20.07.2019 | 26.08.2019   | DA         |
-| Soyuz MS-13    | 20.07.2019 | Soyuz-FG     | Poisk  | 26.08.2019 | _06.02.2020_ | DA         |
-| Progress MS-12 | 31.07.2019 | Soyuz-2.1a   | Pirs   | 31.07.2019 | 29.11.2019   | NU         |
-| Cygnus NG-12   | 01.11.2019 | Antares-230+ | Unity  | 04.11.2019 | xx.01.2020   | NU         |
+| Vehicul        | Lansare    | Rachetă      | Port    | Sosire     | Plecare      | Recuperare |
+|----------------|------------|--------------|---------|------------|--------------|------------|
+| Soyuz MS-15    | 25.09.2019 | Soyuz-FG     | Zvezda  | 25.09.2019 | _01.04.2020_ | DA         |
+| Soyuz MS-13    | 20.07.2019 | Soyuz-FG     | Zvezda  | 20.07.2019 | 26.08.2019   | DA         |
+| Soyuz MS-13    | 20.07.2019 | Soyuz-FG     | Poisk   | 26.08.2019 | _06.02.2020_ | DA         |
+| Progress MS-13 | 06.12.2019 | Soyuz-2.1a   | Pirs    | 09.12.2019 | xx.xx.2020   | NU         |
+| Dragon CRS-19  | 05.12.2019 | Falcon-9     | Harmony | 06.12.2019 | xx.01.2020   | DA         |
+| Cygnus NG-12   | 01.11.2019 | Antares-230+ | Unity   | 04.11.2019 | xx.01.2020   | NU         |
 
 
 ## Câți astronauți sunt de obicei la bordul ISS? {#câți-astronauți-sunt-de-obicei-la-bordul-iss}
