@@ -4,8 +4,22 @@ author = ["Claudiu"]
 draft = false
 +++
 
-## Rachete, astronauți, stații spațiale, planete și comete {#rachete-astronauți-stații-spațiale-planete-și-comete}
+## Rachete, astronauți, stații spațiale și sonde interplanetare {#rachete-astronauți-stații-spațiale-și-sonde-interplanetare}
 
-O colecție personală de materiale despre explorarea spațiului cosmic, mereu adusă la zi și extinsă: detalii despre Stația Spațială Internațională și astronauții aflați în prezent în spațiu, articole despre programele spațiale active, liste cu lansările orbitale din anul curent sau cu sondele interplanetare active, date despre activitatea SpaceX sau alte informații cu privire la spațiul cosmic.
+Siteul de față reprezintă o colecție personală de materiale despre explorarea spațiului cosmic, adusă la zi și mereu extinsă, cu un accent pe rachete și lansări orbitale:
 
-Știrile săptămânale sunt grupate în Buletine Cosmice, care conțin, pe scurt, detalii despre cele mai importante eveniemente ale săptămânii. Pentru știri calde și imagini spectaculoase din spațiu, site-ul are o și pagină de [Facebook](https://www.facebook.com/parsec.ro).
+-   Lansări orbitale ([2019](/r/lansari2019));
+-   [Lista sondelor interplanetare active](/m/sonde);
+-   Rachete active (_draft_, conține deocamdată detalii doar despre [Antares](/r/antares) și [Soyuz-2](/r/soyuz-2));
+-   [Rachete aflate în dezvoltare](/r/viitor) (_draft_);
+-   [Lista treptelor primare Falcon 9 Block 5](/x/falcon9).
+
+În afară de listele de mai sus, site-ul mai conține și câteva articole:
+
+-   Programe spațiale active: [China](/p/china), [India](/p/india), [Iran](/p/iran);
+-   Vehicule orbitale reutilizabile: [X-37B](/m/x37b), [Buran](/m/buran);
+-   [Meteoriți](/m/meteoriti): informații generale și lista meteoriților românești (_draft_).
+
+[Stația Spațială Internațională](/iss) are o secțiune specială.
+
+Știrile sunt grupate în [Buletine Cosmice](/bul) (cu o frecvență aproximativ săptămânală), materiale care conțin detalii despre lansările orbitale, dar și noutăți cu privire la explorarea spațiului cosmic.

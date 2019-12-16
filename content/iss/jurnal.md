@@ -1,5 +1,5 @@
 +++
-title = "Jurnal ISS"
+title = "Jurnal de activități"
 author = ["Claudiu"]
 draft = false
 +++
@@ -38,7 +38,12 @@ draft = false
 : EVA-219 (7 ore, 1 minut): Koch și Morgan, pentru înlocuirea bateriilor ISS;
 
 03.10.2019
-: Soyuz MS-12 revine pe Pământ cu Ovcinin, Hague, Mansouri; începe Expediția 61;
+: Începe **Expediția 61**;
+
+---
+
+03.10.2019
+: Soyuz MS-12 revine pe Pământ cu Ovcinin, Hague, Mansouri;
 
 28.09.2019
 : HTV-8 andochează la portul _Harmony nadir_, după ce a fost lansată în 24.09.2010;
@@ -68,4 +73,4 @@ draft = false
 : Soyuz MS-13 (Skvortsov, Parmitano, Morgan) andochează cu ISS la portul _Zvezda_;
 
 24.06.2019
-: Începe Expediția 60
+: Începe **Expediția 60**;

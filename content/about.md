@@ -4,11 +4,11 @@ author = ["Claudiu"]
 draft = false
 +++
 
-Site-ul parsec.ro este un site cu materiale despre explorarea spațiului, fără profit, fără mesaje publicitare, proiect care a început în 2009, după o vizită la Centrul Spațial Johnson al NASA, din Houston.
+Site-ul parsec.ro este un site cu materiale despre explorarea spațiului, fără profit, fără mesaje publicitare, proiect personal care a început în 2009, după o vizită la Centrul Spațial Johnson al NASA, din Houston.
 
 De ce parsec.ro? Din dorința de a prezenta știrile și evenimentele din domeniul explorării spațiului cosmic într-un mod cât mai corect, apropiat de realitate și fără note senzaționaliste. Nu veți găsi niciodată ştiri despre cum miroase spațiul cosmic, despre feţele misterioase de pe Marte sau despre baze americane secrete de pe fața nevăzută a Lunii. Site-ul este îngrijit de o singură persoană, în timpul liber, și mă bucur că am reușit de mai bine de 10 ani să mențin viu acest proiect și să adun în jurul lui o comunitate din ce în ce mai numeroasă.
 
-În timp, am evoluat de la un blog cu noutăți din domeniul explorării spațiului (activ între 2009 și 2018) la un site care în prezent conține câteva articole în care sunt concentrate informațiile cu privire la activitățile spațiale curente, articole care vor fi aduse la zi pe măsură ce informațiile prezentate vor necesita acest lucru. Pentru un flux mai dens de știri, mă puteți urmări pe [Facebook](<https://www.facebook.com/parsec.ro>).
+În timp, am evoluat de la un blog cu noutăți din domeniul explorării spațiului (activ între 2009 și 2018) la un site care în prezent conține câteva materiale în care sunt concentrate informațiile cu privire la activitățile spațiale curente, articole care vor fi aduse la zi pe măsură ce informațiile prezentate vor necesita acest lucru. Pentru un flux mai dens de știri, mă puteți urmări pe [Facebook](<https://www.facebook.com/parsec.ro>).
 
 
 ## Colaborări și prezențe media {#colaborări-și-prezențe-media}
@@ -30,3 +30,8 @@ Mulțumesc [Bradbura Productions](<https://www.facebook.com/Brandbura/>) pentru 
 ## Detalii tehnice {#detalii-tehnice}
 
 Site-ul de față este generat din [Emacs](<https://www.gnu.org/software/emacs/>) folosind pachetul [ox-hugo](<https://ox-hugo.scripter.co/>) pentru transformarea [fișierului sursă](<https://github.com/ctanas/parsec.ro/blob/master/content-org/index.org>) din _org-mode_ în _Markdown_. [Hugo](<https://gohugo.io/>) preia aceste fișiere și generează fișerele statice HTML, îmbrăcate frumos într-o variantă ușor modificată a temei [alageek](<https://github.com/gkmngrgn/hugo-alageek-theme>), fișiere care sunt împinse în GitHub după fiecare modificare. [Netlify](<https://www.netlify.com/>) preia modificările din [GitHub](<https://github.com/ctanas/parsec-alageek>), generează o nouă versiune a paginilor modificate de fiecare dată când e cazul și afișează conținutul pe care îl aveți în fața voastră.
+
+
+## Contact {#contact}
+
+Apreciez orice feedback, comentariu, sugestie, critică constructivă. Mă găsiți la adresa de mail contact@parsec.ro sau îmi puteți trimite un mesaj pe [Facebook](https://www.facebook.com/parsec.ro).

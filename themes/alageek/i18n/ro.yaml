@@ -7,7 +7,7 @@ page_not_found_description:
 page_not_found_link:
     other: "Vizitează pagina principală"
 pinned:
-    other: "Materiale"
+    other: "Stația Spațială Internațională (ISS)"
 posts_about:
     other: "Articole despre {{ .Title }}"
 reading_time:

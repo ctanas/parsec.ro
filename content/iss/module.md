@@ -1,5 +1,5 @@
 +++
-title = "Module"
+title = "Module componente ale ISS"
 author = ["Claudiu"]
 draft = false
 +++

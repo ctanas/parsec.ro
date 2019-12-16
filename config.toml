@@ -14,7 +14,7 @@ googleAnalytics = "UA-19421559-1"
 copyright = "©2009-2019 parsec.ro | un site de Claudiu Tănăselia."
 copyrightUrl = "https://www.parsec.ro"
 faviconfile = "/img/favicon.ico"
-latestpostcount = 5
+latestpostcount = 8
 logofile2= "/img/logo_large.png"
 logofile = "/img/logo.png"
 highlightjs = false
@@ -24,36 +24,24 @@ twitter = "https://www.twitter.com/superparsec"
 email = "contact@parsec.ro"
 
 [[params.best_posts]]
-title = "Stația Spațială Internațională"
+title = "Informații, astronauți și vehicule andocate"
 url = "/iss/intro/"
 
 [[params.best_posts]]
-title = "Sonde interplanetare active"
-url = "/m/sonde/"
+title = "Module componente ale ISS"
+url = "/iss/module/"
 
 [[params.best_posts]]
-title = "Lansări orbitale în 2019"
-url = "/r/lansari/"
+title = "Jurnal de activități"
+url = "/iss/jurnal/"
 
 [[params.best_posts]]
-title = "Programul spațial chinezesc"
-url = "/p/china/"
+title = "Echipaje CC-Dev (draft)"
+url = "/iss/ccdev/"
 
 [[params.best_posts]]
-title = "Programul spațial iranian"
-url = "/p/iran/"
-
-[[params.best_posts]]
-title = "Programul spațial indian"
-url = "/p/india/"
-
-[[params.best_posts]]
-title = "Naveta secretă X-37B"
-url = "/m/x37b/"
-
-[[params.best_posts]]
-title = "Naveta sovietică Buran"
-url = "/m/buran/"
+title = "Oportunități de observație (Heavens Above)"
+url = "https://www.heavens-above.com/PassSummary.aspx?satid=25544&lat=46.7712&lng=23.6236&loc=Cluj-Napoca&alt=0&tz=EET"
 
 [[menu.primary]]
 identifier = "bul"

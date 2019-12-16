@@ -8,10 +8,23 @@
 :EXPORT_TITLE: știri din spațiu
 :END:
 
-** Rachete, astronauți, stații spațiale, planete și comete
-O colecție personală de materiale despre explorarea spațiului cosmic, mereu adusă la zi și extinsă: detalii despre Stația Spațială Internațională și astronauții aflați în prezent în spațiu, articole despre programele spațiale active, liste cu lansările orbitale din anul curent sau cu sondele interplanetare active, date despre activitatea SpaceX sau alte informații cu privire la spațiul cosmic. 
+** Rachete, astronauți, stații spațiale și sonde interplanetare
 
-Știrile săptămânale sunt grupate în Buletine Cosmice, care conțin, pe scurt, detalii despre cele mai importante eveniemente ale săptămânii. Pentru știri calde și imagini spectaculoase din spațiu, site-ul are o și pagină de [[https://www.facebook.com/parsec.ro][Facebook]].
+Siteul de față reprezintă o colecție personală de materiale despre explorarea spațiului cosmic, adusă la zi și mereu extinsă, cu un accent pe rachete și lansări orbitale:
+- Lansări orbitale ([[/r/lansari2019][2019]]);
+- [[/m/sonde][Lista sondelor interplanetare active]];
+- Rachete active (/draft/, conține deocamdată detalii doar despre [[/r/antares][Antares]] și [[/r/soyuz-2][Soyuz-2]]);
+- [[/r/viitor][Rachete aflate în dezvoltare]] (/draft/);
+- [[/x/falcon9][Lista treptelor primare Falcon 9 Block 5]].
+
+În afară de listele de mai sus, site-ul mai conține și câteva articole:
+- Programe spațiale active: [[/p/china][China]], [[/p/india][India]], [[/p/iran][Iran]];
+- Vehicule orbitale reutilizabile: [[/m/x37b][X-37B]], [[/m/buran][Buran]];
+- [[/m/meteoriti][Meteoriți]]: informații generale și lista meteoriților românești (/draft/).
+
+[[/iss][Stația Spațială Internațională]] are o secțiune specială.
+
+Știrile sunt grupate în [[/bul][Buletine Cosmice]] (cu o frecvență aproximativ săptămânală), materiale care conțin detalii despre lansările orbitale, dar și noutăți cu privire la explorarea spațiului cosmic.
 
 
 * About
@@ -21,11 +34,11 @@ O colecție personală de materiale despre explorarea spațiului cosmic, mereu a
 :EXPORT_TITLE: Despre site
 :END:
 
-Site-ul parsec.ro este un site cu materiale despre explorarea spațiului, fără profit, fără mesaje publicitare, proiect care a început în 2009, după o vizită la Centrul Spațial Johnson al NASA, din Houston. 
+Site-ul parsec.ro este un site cu materiale despre explorarea spațiului, fără profit, fără mesaje publicitare, proiect personal care a început în 2009, după o vizită la Centrul Spațial Johnson al NASA, din Houston. 
 
 De ce parsec.ro? Din dorința de a prezenta știrile și evenimentele din domeniul explorării spațiului cosmic într-un mod cât mai corect, apropiat de realitate și fără note senzaționaliste. Nu veți găsi niciodată ştiri despre cum miroase spațiul cosmic, despre feţele misterioase de pe Marte sau despre baze americane secrete de pe fața nevăzută a Lunii. Site-ul este îngrijit de o singură persoană, în timpul liber, și mă bucur că am reușit de mai bine de 10 ani să mențin viu acest proiect și să adun în jurul lui o comunitate din ce în ce mai numeroasă.
 
-În timp, am evoluat de la un blog cu noutăți din domeniul explorării spațiului (activ între 2009 și 2018) la un site care în prezent conține câteva articole în care sunt concentrate informațiile cu privire la activitățile spațiale curente, articole care vor fi aduse la zi pe măsură ce informațiile prezentate vor necesita acest lucru. Pentru un flux mai dens de știri, mă puteți urmări pe [Facebook](https://www.facebook.com/parsec.ro).
+În timp, am evoluat de la un blog cu noutăți din domeniul explorării spațiului (activ între 2009 și 2018) la un site care în prezent conține câteva materiale în care sunt concentrate informațiile cu privire la activitățile spațiale curente, articole care vor fi aduse la zi pe măsură ce informațiile prezentate vor necesita acest lucru. Pentru un flux mai dens de știri, mă puteți urmări pe [Facebook](https://www.facebook.com/parsec.ro).
 
 *** Colaborări și prezențe media
 
@@ -43,6 +56,9 @@ Mulțumesc [Bradbura Productions](https://www.facebook.com/Brandbura/) pentru of
 *** Detalii tehnice
 
 Site-ul de față este generat din [Emacs](https://www.gnu.org/software/emacs/) folosind pachetul [ox-hugo](https://ox-hugo.scripter.co/) pentru transformarea [fișierului sursă](https://github.com/ctanas/parsec.ro/blob/master/content-org/index.org) din /org-mode/ în /Markdown/. [Hugo](https://gohugo.io/) preia aceste fișiere și generează fișerele statice HTML, îmbrăcate frumos într-o variantă ușor modificată a temei [alageek](https://github.com/gkmngrgn/hugo-alageek-theme), fișiere care sunt împinse în GitHub după fiecare modificare. [Netlify](https://www.netlify.com/) preia modificările din [GitHub](https://github.com/ctanas/parsec-alageek), generează o nouă versiune a paginilor modificate de fiecare dată când e cazul și afișează conținutul pe care îl aveți în fața voastră.
+
+*** Contact
+Apreciez orice feedback, comentariu, sugestie, critică constructivă. Mă găsiți la adresa de mail contact@parsec.ro sau îmi puteți trimite un mesaj pe [[https://www.facebook.com/parsec.ro][Facebook]].
 
 
 * FAQ
@@ -160,8 +176,36 @@ Construcția ISS a însemnat asamblare pe orbită a [modulelor componente](https
 *** Poate fi văzută ISS cu ochiul liber?
 
 Da! Datorită panourilor solare de mari dimensiuni, ISS poate fi văzută cu ușurință pe boltă, când trece deasupra noastră. Ea poate fi cel mai strălucitor obiect de pe cer, după Soare și Lună. Există mai multe aplicații pentru orice smartphone care pot indica poziția ISS în timp real, dar și oportunitățile de observare deasupra unei anumite locații. Sau puteți intra pe site-ul [[https://www.heavens-above.com][Heavens Above]], setați locația, după care găsiți mai multe detalii cu privire la minutul și ora la care are loc următoarea trecere (magnitudinea aparentă mai mică înseamnă că ISS se va vedea mai clar pe cer, de exemplu o observație cu magnitudinea aparentă de -3.9 este de preferat unei observații cu magnitudinea aparentă de 1.4).
+** Jurnal de activități
+:PROPERTIES:
+:EXPORT_FILE_NAME: jurnal
+:END:
+- 09.12.2019 :: Progress MS-13 andochează la portul /Pirs;/
+- 06.12.2019 :: Capsula Dragon CRS-19 este atașată modulului /Harmony nadir/;
+- 02.12.2019 :: EVA-223 (6 ore, 2 minute): Parmitano și Morgan, pentru întreținerea AMS-02;
+- 29.11.2019 :: Progress MS-12 se desprinde de modulul /Pirs;/
+- 22.11.2019 :: EVA-223 (6 ore, 33 minute): Parmitano și Morgan, pentru întreținerea AMS-02;
+- 15.11.2019 :: EVA-222 (6 ore, 39 minute): Parmitano și Morgan, pentru întreținerea AMS-02;
+- 04.11.2019 :: Capsula Cygnus NG-12 este atașată modulului /Unity/;
+- 01.11.2019 :: Vehiculul HTV-8 se desprinde de ISS;
+- 18.10.2019 :: EVA-221 (7 ore, 17 minute): Koch și Meir, pentru înlocuirea bateriilor ISS, prima activitate extravehiculară la care iau parte exclusiv femei;
+- 11.10.2019 :: EVA-220 (6 ore, 45 minute): Morgan și Koch, pentru înlocuirea bateriile ISS;
+- 06.10.2019 :: EVA-219 (7 ore, 1 minut): Koch și Morgan, pentru înlocuirea bateriilor ISS;
+- 03.10.2019 :: Începe *Expediția 61*;
+---
+- 03.10.2019 :: Soyuz MS-12 revine pe Pământ cu Ovcinin, Hague, Mansouri;
+- 28.09.2019 :: HTV-8 andochează la portul /Harmony nadir/, după ce a fost lansată în 24.09.2010;
+- 25.09.2019 :: Soyuz MS-15 (Skripochka, Meir, Mansouri)  este lansată și andochează după 6 ore cu ISS;
+- 06.08.2019 :: Soyuz MS-14 revine cu bine înapoi pe Pământ;
+- 27.08.2019 :: Soyuz MS-14 andochează la portul /Zvezda; Dragon CRS-18 se desprinde de modulul /Harmony/ și revine cu bine pe Pământ;
+- 26.08.2019 :: Skortsov, Parmitano și Morgan urcă la bordul Soyuz MS-13 și mută capsula de la portul /Zvezda/ la /Poisk/; 
+- 24.08.2019 :: Soyuz MS-14 nu reușește andocarea la portul /Poisk/ din cauza unui amplificator de semnal de pe ISS;
+- 22.08.2019 :: Soyuz MS-14 este lansată spre ISS, fără echipaj la bord, pentru a testa integrarea cu noua rachetă Soyuz-2.1b, care urmează să fie folosită din 2020 pentru lansarea de astronauți; 
+- 21.08.2019 :: EVA-218 (6 ore, 32 minute): Hague și Morgan au montat adaptorul IDA-3 la modulul /Harmony/.
+- 20.07.2019 :: Soyuz MS-13 (Skvortsov, Parmitano, Morgan) andochează cu ISS la portul /Zvezda/;
+- 24.06.2019 :: Începe *Expediția 60*;
 
-** Module
+** Module componente ale ISS
 :PROPERTIES:
 :EXPORT_FILE_NAME: module
 :END:
@@ -223,92 +267,47 @@ La /tribord/, Tranquility este conectat cu Unity, la /prora/ este montat modulul
 [[/img/rassvet.jpg]]
 
 Lansat în 14 mai 2010 cu naveta Atlantis (STS-132), modulul rusesc de mici dimensiuni Rassvet (sau MRM-1, Mini Research Module 1) este atașat de Zarya și oferă Stației Spațiale încă un port de andocare pentru navele vizitatoare rusești (de obicei Soyuz), asta pe lângă un plus de spațiu interior, folosit pentru stocare.
-
-** TODO Echipaj comercial
+** Echipaje CC-Dev
 :PROPERTIES:
 :EXPORT_FILE_NAME: ccdev 
 :END:
 
-SpaceX DM-1 (fără echipaj) – noiembrie 2018
-DM - Demo Mission
+*** SpaceX DM-1 (02-08 martie 2019)
+(DM - Demo Mission)
+- fără echipaj
 
-Boeing OFT (fără echipaj) – fin. 2018, înc. 2019
-Orbital Flight Test
+*** Boeing OFT (fin 2018, înc. 2019)
+(Orbital Flight Test)
 Atlas V modificată pentru a zbura fără con protector
+- fără echipaj
 
-SpaceX DM-2 – aprilie 2019
+*** SpaceX DM-2 – aprilie 2019
+/Demo Mission 2/
 
-Bob Behnken 
-STS-123, STS-130, ambele Endeavour, 
-6 EVA = 37 ore
+- Bob Behnken (STS-123, STS-130, ambele Endeavour, 6 EVA = 37 ore)
+- Doug Hurley (pilot STS-135, Endeavor STS-127)
 
-Doug Hurley 
-pilot STS-135, Endeavor STS-127
+*** Boeing CFT (mijloc 2019)
+/Crew Flight Test/
+- Eric Boe (Endeavour STS-126, Discovery STS-133)
+- Chris Ferguson (Atlantis STS-115, Endeavour STS-126, Atlantis STS-135)
+- Nicole Aunapu Mann (primul zbor spațial)
 
-Boeing CFT, mijloc 2019
-Crew Flight Test
-Eric Boe 
-Endeavour STS-126, Discovery STS-133
+*** SpaceX PCM-1 (2020)
+/Post Certification Mission/
 
-Chris Ferguson 
-Atlantis STS-115, Endeavour STS-126, Atlantis STS-135
+- Victor Glover (primul zbor spațial)
+- Mike Hopkins (Soyuz TMA-10M, 166 zile ISS, 2 EVA)
 
-Nicole Aunapu Mann 
-rookie
+*** Boeing PCM-1 (2020)
 
-SpaceX PCM-1 (2020)
+- John Cassada (primul zbor spațial)
+- Sunita Williams (322 zile pe în spațiu, 7 EVA, Discovery STS-116, Atlantis STS-117, Soyuz TMA-05M)
 
-Post Certification Mission
+*** Note
 
-Victor Glover 
-rookie
-
-Mike Hopkins 
-Soyuz TMA-10M
-166 zile ISS
-2 EVA
-
-Boeing PCM-1 (2020)
-John Cassada
-rookie
-Sunita Williams
-322 zile pe în spațiu
-7 EVA
-Discovery STS-116
-Atlantis STS-117
-Soyuz TMA-05M
-
-General
-STS-135 lansare 8 iulie 2011 (2824 zile la 1 aprilie 2019)
-Apollo-Soyuz (ASTP)  15 iulie 1975
-STS-1 12 aprilie 1981 (2098 zile de la ASTP)
-
-** Jurnal ISS
-:PROPERTIES:
-:EXPORT_FILE_NAME: jurnal
-:END:
-- 09.12.2019 :: Progress MS-13 andochează la portul /Pirs;/
-- 06.12.2019 :: Capsula Dragon CRS-19 este atașată modulului /Harmony nadir/;
-- 02.12.2019 :: EVA-223 (6 ore, 2 minute): Parmitano și Morgan, pentru întreținerea AMS-02;
-- 29.11.2019 :: Progress MS-12 se desprinde de modulul /Pirs;/
-- 22.11.2019 :: EVA-223 (6 ore, 33 minute): Parmitano și Morgan, pentru întreținerea AMS-02;
-- 15.11.2019 :: EVA-222 (6 ore, 39 minute): Parmitano și Morgan, pentru întreținerea AMS-02;
-- 04.11.2019 :: Capsula Cygnus NG-12 este atașată modulului /Unity/;
-- 01.11.2019 :: Vehiculul HTV-8 se desprinde de ISS;
-- 18.10.2019 :: EVA-221 (7 ore, 17 minute): Koch și Meir, pentru înlocuirea bateriilor ISS, prima activitate extravehiculară la care iau parte exclusiv femei;
-- 11.10.2019 :: EVA-220 (6 ore, 45 minute): Morgan și Koch, pentru înlocuirea bateriile ISS;
-- 06.10.2019 :: EVA-219 (7 ore, 1 minut): Koch și Morgan, pentru înlocuirea bateriilor ISS;
-- 03.10.2019 :: Soyuz MS-12 revine pe Pământ cu Ovcinin, Hague, Mansouri; începe Expediția 61;
-- 28.09.2019 :: HTV-8 andochează la portul /Harmony nadir/, după ce a fost lansată în 24.09.2010;
-- 25.09.2019 :: Soyuz MS-15 (Skripochka, Meir, Mansouri)  este lansată și andochează după 6 ore cu ISS;
-- 06.08.2019 :: Soyuz MS-14 revine cu bine înapoi pe Pământ;
-- 27.08.2019 :: Soyuz MS-14 andochează la portul /Zvezda; Dragon CRS-18 se desprinde de modulul /Harmony/ și revine cu bine pe Pământ;
-- 26.08.2019 :: Skortsov, Parmitano și Morgan urcă la bordul Soyuz MS-13 și mută capsula de la portul /Zvezda/ la /Poisk/; 
-- 24.08.2019 :: Soyuz MS-14 nu reușește andocarea la portul /Poisk/ din cauza unui amplificator de semnal de pe ISS;
-- 22.08.2019 :: Soyuz MS-14 este lansată spre ISS, fără echipaj la bord, pentru a testa integrarea cu noua rachetă Soyuz-2.1b, care urmează să fie folosită din 2020 pentru lansarea de astronauți; 
-- 21.08.2019 :: EVA-218 (6 ore, 32 minute): Hague și Morgan au montat adaptorul IDA-3 la modulul /Harmony/.
-- 20.07.2019 :: Soyuz MS-13 (Skvortsov, Parmitano, Morgan) andochează cu ISS la portul /Zvezda/;
-- 24.06.2019 :: Începe Expediția 60
+- De la ultima lansare a unei navetei spațiale (Atlantis, STS-135, 8 iulie 2011) au trecut peste 3083 zile.
+- Între Apollo-Soyuz (ASTP, 15 iulie 1975) și primul zbor al navetei spațiale (Columbia, STS-1, 12 aprilie 1981) au fost 2098 zile.
 
 
 * Artemis 
@@ -666,6 +665,7 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 
 1. 2019-05-04 OCISLY *Dragon CRS-17*
 2. 2019-07-25 OCISLY *Dragon CRS-18*
+3. /2019-12-XX/ OCISLY *JSCAT-18*
 
 **** B1057
 
@@ -715,11 +715,11 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 :END:
 
 ** Lansări orbitale
-:PROPERTIES:
-:EXPORT_FILE_NAME: lansari
-:END:
 
-*** 2019
+*** Lansări orbitale 2019
+:PROPERTIES:
+:EXPORT_FILE_NAME: lansari2019
+:END:
 
 | Nr |  Data |  Ora | Lansator         | Satelit        | Țara    | Rampa           | Ținta | Rezultat     |
 |----+-------+------+------------------+----------------+---------+-----------------+-------+--------------|
@@ -857,35 +857,39 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 
 [fn:6] Ultima lansare a rachetei Soyuz-FG și probabil ultima lansare de pe rampa istorică 1/5 de la Baikonur.
 
-** TODO Lansatoare orbitale viitoare
+*** TODO Lansări orbitale 2020
+
+** Lansatoare orbitale viitoare
 :PROPERTIES:
 :EXPORT_FILE_NAME: viitor 
 :END:
 
-|----------------+------+-------------+------------+---------+-------+-------+-------+------+-------|
-| Racheta        | Țara | Operator    | Inaugurare | Motor   | LEO   | SSO   | GTO   | Lună | Marte |
-|----------------+------+-------------+------------+---------+-------+-------+-------+------+-------|
-| SLS Block1     | SUA  | NASA        |       2020 | RS-25   | 95t   |       |       | 26t  |       |
-| SLS Block1B    | SUA  | NASA        |       2024 | RS-25   | 105t  |       |       | 40t  |       |
-| SLS Block2     | SUA  | NASA        |      2028+ | RS-25   | 130t  |       |       |      | 45t   |
-| BFR            | SUA  | SpaceX      |       2020 | Raptor  | 150t  |       |       | 100t | 100t  |
-| Vulcan Centaur | SUA  | ULA         |    07.2021 | BE-4    | 34t   | 29t   | 16.3t |      |       |
-| New Glenn 2S   | SUA  | Blue Origin |       2021 | BE-4    | 45t   |       | 13t   |      |       |
-| OmegA          | SUA  | NGSSG       |       2021 | Castor  |       |       | 4.9t  |      |       |
-|----------------+------+-------------+------------+---------+-------+-------+-------+------+-------|
-| Ariane 62      | EU   | Arianespace |       2020 | Vulcain | 10.3t | 6.5t  | 5t    |      |       |
-| Ariane 64      | EU   | Arianespace |       2020 | Vulcain | 21.6  | 14.9t | 11.5t |      |       |
-| Vega-C         | EU   | Arianespace |       2020 | P80     |       |       |       |      |       |
-|----------------+------+-------------+------------+---------+-------+-------+-------+------+-------|
-| H-3            | JPN  | JAXA        |       2020 | LE-9    |       | 4t    | 6.5t  |      |       |
-|----------------+------+-------------+------------+---------+-------+-------+-------+------+-------|
-| UMLV           | IND  | ISRO        |       202x | SCE-200 |       |       |       |      |       |
-|----------------+------+-------------+------------+---------+-------+-------+-------+------+-------|
-| Soyuz-5        | RUS  | Roscosmos   |       2022 | RD-171  | 18t   |       | 5t    |      |       |
-|----------------+------+-------------+------------+---------+-------+-------+-------+------+-------|
-| Changzheng-8   | CHN  | CNSA        |       2020 | YF-100  | 7.6t  | 4.5t  | 2.5t  |      |       |
-| Changzheng-9   | CHN  | CNSA        |       2030 |         | 140t  |       |       | 50t  | 44t   |
-|----------------+------+-------------+------------+---------+-------+-------+-------+------+-------|
+|-------------------+------+-------------+------------+---------+-------+-------+-------+------+-------|
+| Racheta           | Țara | Operator    | Inaugurare | Motor   | LEO   | SSO   | GTO   | Lună | Marte |
+|-------------------+------+-------------+------------+---------+-------+-------+-------+------+-------|
+| SLS Block1        | SUA  | NASA        |       2020 | RS-25   | 95t   |       |       | 26t  |       |
+| SLS Block1B       | SUA  | NASA        |       2024 | RS-25   | 105t  |       |       | 40t  |       |
+| SLS Block2        | SUA  | NASA        |      2028+ | RS-25   | 130t  |       |       |      | 45t   |
+| BFR               | SUA  | SpaceX      |       2020 | Raptor  | 150t  |       |       | 100t | 100t  |
+| Vulcan Centaur    | SUA  | ULA         |    07.2021 | BE-4    | 34t   | 29t   | 16.3t |      |       |
+| New Glenn 2S      | SUA  | Blue Origin |       2021 | BE-4    | 45t   |       | 13t   |      |       |
+| OmegA             | SUA  | NGSSG       |       2021 | Castor  |       |       | 4.9t  |      |       |
+|-------------------+------+-------------+------------+---------+-------+-------+-------+------+-------|
+| Ariane 62         | EU   | Arianespace |       2020 | Vulcain | 10.3t | 6.5t  | 5t    |      |       |
+| Ariane 64         | EU   | Arianespace |       2020 | Vulcain | 21.6  | 14.9t | 11.5t |      |       |
+| Vega-C            | EU   | Arianespace |       2020 | P80     |       |       |       |      |       |
+|-------------------+------+-------------+------------+---------+-------+-------+-------+------+-------|
+| H-3               | JPN  | JAXA        |       2020 | LE-9    |       | 4t    | 6.5t  |      |       |
+|-------------------+------+-------------+------------+---------+-------+-------+-------+------+-------|
+| UMLV              | IND  | ISRO        |       202x | SCE-200 |       |       |       |      |       |
+|-------------------+------+-------------+------------+---------+-------+-------+-------+------+-------|
+| Angara-A5P        | RUS  | Roscosmos   |       2020 | RD-191  | 18t   |       |       |      |       |
+| Soyuz-5 (Irtysh ) | RUS  | Roscosmos   |       2022 | RD-171  | 18t   |       | 5t    |      |       |
+| Yenisei           | RUS  | Roscosmos   |       2028 | RD-171? | 103t  |       |       |      |       |
+|-------------------+------+-------------+------------+---------+-------+-------+-------+------+-------|
+| Changzheng-8      | CHN  | CNSA        |       2020 | YF-100  | 7.6t  | 4.5t  | 2.5t  |      |       |
+| Changzheng-9      | CHN  | CNSA        |       2030 |         | 140t  |       |       | 50t  | 44t   |
+|-------------------+------+-------------+------------+---------+-------+-------+-------+------+-------|
 
 ** TODO Lansatoare orbitale active
 :PROPERTIES:
@@ -985,120 +989,120 @@ Soyuz-2.1a poate lansa cel mult 7 tone pe orbită terestră joasă sau 2.8 tone 
 |--------------+---------+---------+---------|
 
 #+CAPTION: Lista lansărilor rachetelor Soyuz-2 (2.1a, 2.1b, 2.1v)
-|-----+------------+-------------------+-------+-------------------------+----------+---------+--------------|
-| nr. |       Data | Configurația      | Seria | Satelit                 | Masă (t) | Rampă   | Orbită       |
-|-----+------------+-------------------+-------+-------------------------+----------+---------+--------------|
-|   s | 08.11.2004 | Soyuz-2.1a        |  1692 | Oblik GVM (Test Flt)    |      6.5 | PL 43/4 | SUB[fn:sz1]  |
-|-----+------------+-------------------+-------+-------------------------+----------+---------+--------------|
-|   1 | 19.10.2006 | Soyuz 2.1a/Fregat |  1714 | METOP-A (ST16)          |     4.18 | TB 31/6 | SSO          |
-|   2 | 24.12.2006 | Soyuz 2.1a/Fregat |  1716 | Meridian (Kosmos)       |    2.00? | PL 43/4 | MOL          |
-|   3 | 27.12.2006 | Soyuz 2.1b/Fregat |  1717 | COROT (ST17)            |     0.63 | TB 31/6 | LEO          |
-|-----+------------+-------------------+-------+-------------------------+----------+---------+--------------|
-|   4 | 26.07.2008 | Soyuz-2.1b        |  1734 | Kosmos 2441 (Persona 1) |      6.5 | PL 43/4 | SSO          |
-|-----+------------+-------------------+-------+-------------------------+----------+---------+--------------|
-|   5 | 21.05.2009 | Soyuz 2.1a/Fregat |  1744 | Meridan 2               |          | PL 43/4 | EEO[fn:sz2]  |
-|   6 | 17.09.2009 | Soyuz 2.1b/Fregat |  1747 | Meteor M1 +6microsats   |      2.7 | TB 31/6 | SSO          |
-|-----+------------+-------------------+-------+-------------------------+----------+---------+--------------|
-|   7 | 19.10.2010 | Soyuz 2.1a/Fregat |  1762 | ST22/6xGlobalstar       |      4.2 | TB 31/6 | LEO          |
-|   8 | 02.11.2010 | Soyuz 2.1a/Fregat |  1764 | Meridian 3              |     ~2.0 | PL 43/4 | MOL          |
-|-----+------------+-------------------+-------+-------------------------+----------+---------+--------------|
-|   9 | 26.02.2011 | Soyuz 2.1b/Fregat |  1767 | Glonass-K               |     0.94 | PL 43/4 | MEO          |
-|  10 | 04.05.2011 | Soyuz 2.1a/Fregat |  1770 | Meridian                |          | PL 43/4 | MOL          |
-|  11 | 13.07.2011 | Soyuz 2.1a/Fregat |  ST23 | 6xGlobalstar-2          |      3.9 | TB 31/6 | LEO          |
-|  12 | 02.10.2011 | Soyuz 2.1b/Fregat |  1776 | Glonass M               |    1.414 | PL 43/4 | MEO          |
-|  13 | 21.10.2011 | Soyuz 2.1b/Fregat |  1777 | VS-01/2xGalileo         |      1.4 | KO ELS  | MEO          |
-|  14 | 27.11.2011 | Soyuz 2.1b/Fregat |  1780 | Glonass-M               |    1.414 | PL 43/4 | MEO          |
-|  15 | 17.12.2011 | Soyuz 2.1a/Fregat |  1781 | VS-02/6sats             |      2.1 | KO ELS  | SSO          |
-|  16 | 23.12.2011 | Soyuz 2.1b/Fregat |  1783 | Meridian                |          | PL 43/4 | Eșec[fn:sz3] |
-|  17 | 28.12.2011 | Soyuz 2.1a/Fregat |  1784 | ST24/6xGlobalstar       |      4.2 | TB 31/6 | LEO          |
-|-----+------------+-------------------+-------+-------------------------+----------+---------+--------------|
-|  18 | 17.09.2012 | Soyuz 2.1a/Fregat | ST-25 | Metop B                 |    4.085 | TB 31/6 | SSO          |
-|  19 | 12.10.2012 | Soyuz 2.1b/Fregat |  VS03 | IOV-2/Galileo FM3,4     |      1.4 | KO ELS  | MEO          |
-|  20 | 14.11.2012 | Soyuz 2.1a/Fregat |  1795 | Merdian 6               |          | PL 43/3 | MOL          |
-|  21 | 02.12.2012 | Soyuz 2.1a/Fregat |  VS04 | Pleiades 1B             |     0.97 | KO ELS  | SSO          |
-|-----+------------+-------------------+-------+-------------------------+----------+---------+--------------|
-|  22 | 06.02.2013 | Soyuz 2.1a/Fregat |  1799 | ST26/6xGlobalstar       |      4.2 | TB 31/6 | LEO          |
-|  23 | 19.04.2013 | Soyuz 2.1a        |  1802 | BION-M1                 |      6.5 | TB 31/6 | LEO          |
-|  24 | 26.04.2013 | Soyuz 2.1b/Fregat |  1804 | Glonass M               |    1.415 | PL 43/4 | MEO          |
-|  25 | 07.06.2013 | Soyuz 2.1b        |  1806 | Kvarts/Persona          |      6.5 | PL 43/4 | SSO          |
-|  26 | 25.06.2013 | Soyuz 2.1b        |  1807 | Resurs P1               |     6.58 | TB 31/6 | LEO          |
-|  27 | 25.06.2013 | Soyuz 2.1b/Fregat |  1808 | VS05/O3b F1             |      2.8 | KO ELS  | MEO          |
-|  28 | 19.12.2013 | Soyuz 2.1b/Fregat |  1813 | VS06/Gaia               |    2.034 | KO ELS  | EEO          |
-|  29 | 28.12.2013 | Soyuz 2.1v/Volga  |   001 | Aist                    |     0.2? | PL 43/4 | LEO          |
-|-----+------------+-------------------+-------+-------------------------+----------+---------+--------------|
-|  30 | 23.03.2014 | Soyuz 2.1b/Fregat |  1815 | Glonass M               |    1.415 | PL 43/4 | MEO          |
-|  31 | 03.04.2014 | Soyuz 2.1a/Fregat |  VS07 | Sentinal 1A             |      2.3 | KO ELS  | SSO          |
-|  32 | 06.05.2014 | Soyuz 2.1a        |  1820 | Kobalt-M                |      6.7 | PL 43/4 | LEO          |
-|  33 | 14.06.2014 | Soyuz 2.1b/Fregat |  1822 | Glonass M               |    1.415 | PL 43/4 | MEO          |
-|  34 | 08.07.2014 | Soyuz 2.1b/Fregat |  1823 | Meteor M2 +6usats       |    3.332 | TB 31/6 | SSO          |
-|  35 | 10.07.2014 | Soyuz 2.1b/Fregat |  1824 | VS08/O3bF2              |      2.8 | KO ELS  | MEO          |
-|  36 | 18.07.2014 | Soyuz 2.1a        |  1825 | Foton M4                |     6.84 | TB 31/6 | LEO          |
-|  37 | 22.08.2014 | Soyuz 2.1b/Fregat |  VS09 | 2xGalileo FOC-1         |    1.466 | KO ELS  | EEO[fn:sz4]  |
-|  38 | 29.10.2014 | Soyuz 2.1a        |  1829 | Progress M-25M          |     7.29 | TB 31/6 | ISS          |
-|  39 | 30.10.2014 | Soyuz 2.1a/Fregat |  1830 | Meridian 17L            |     ~2.0 | PL 43/4 | MOL          |
-|  40 | 30.11.2014 | Soyuz 2.1b/Fregat |  1832 | Glonass K               |    0.935 | PL 43/4 | MEO          |
-|  41 | 18.12.2014 | Soyuz 2.1b/Fregat |  VS10 | 4xO3b (F3)              |     2.80 | KO ELS  | MEO          |
-|  42 | 25.12.2014 | Soyuz 2.1b        |  1834 | Lotos-S                 |      6.0 | PL 43/4 | LEO          |
-|  43 | 26.12.2014 | Soyuz 2.1b        |  1835 | Resurs P 2              |    6.392 | TB 31/6 | SSO          |
-|-----+------------+-------------------+-------+-------------------------+----------+---------+--------------|
-|  44 | 27.02.2015 | Soyuz 2.1a        |  1837 | BARS-1M 1L              |      4.0 | PL 43/4 | SSO          |
-|  45 | 27.03.2015 | Soyuz 2.1b/Fregat |  VS11 | Galileo FOC 2           |    1.466 | KO ELS  | MEO          |
-|  46 | 28.04.2015 | Soyuz 2.1a        |  1840 | Progress M-27M          |    7.287 | TB 31/6 | LEO[fn:sz5]  |
-|  47 | 05.06.2015 | Soyuz 2.1a        |  1841 | Kobalt-M                |      6.7 | PL 43/4 | LEO          |
-|  48 | 23.06.2015 | Soyuz 2.1b        |  1842 | Kvarts/Persona          |      6.5 | PL 43/4 | SSO          |
-|  49 | 11.09.2015 | Soyuz 2.1b/Fregat |  VS12 | Galileo FOC 3 (5-6)     |    1.431 | KO ELS  | MEO          |
-|  50 | 17.11.2015 | Soyuz 2.1b/Fregat |  1848 | EKS 1                   |    ~1.4? | PL 43/4 | MOL          |
-|  51 | 05.12.2015 | Soyuz 2.1v/Volga  |   002 | Kanopus ST              |   ~0.440 | PL 43/4 | EEO[fn:sz6]  |
-|  52 | 17.12.2015 | Soyuz 2.1b/Fregat |  VS13 | Galileo FOC4 (8-9)      |    1.435 | KO ELS  | MEO          |
-|  53 | 21.12.2015 | Soyuz 2.1a        |  1851 | Progress MS-01          |     ~7.3 | TB 31/6 | ISS          |
-|-----+------------+-------------------+-------+-------------------------+----------+---------+--------------|
-|  54 | 07.02.2016 | Soyuz 2.1b/Fregat |  1852 | Glonass M               |    1.415 | PL 43/4 | MEO          |
-|  55 | 13.03.2016 | Soyuz 2.1b        |  1853 | Resurs-P 3              |     5.92 | TB 31/6 | SSO          |
-|  56 | 24.03.2016 | Soyuz 2.1a        |  1855 | Bars M                  |     ~4.0 | TB 43/4 | SSO          |
-|  57 | 31.03.2016 | Soyuz 2.1a        |  1856 | Progress MS-02          |    7.285 | TB 31/6 | ISS          |
-|  58 | 25.04.2016 | Soyuz 2.1a/Fregat |  VS14 | Sentinel 1B + usats     |     2.47 | KO ELS  | SSO          |
-|  59 | 28.04.2016 | Soyuz 2.1a/Volga  |  1858 | Lomonosov+2usats        |     ~3.0 | VO 1    | SSO[fn:sz7]  |
-|  60 | 24.05.2016 | Soyuz 2.1b/Fregat |  VS15 | Galileo FOC5 (10-11)    |     1.43 | KO ELS  | MEO          |
-|  61 | 29.05.2016 | Soyuz 2.1b/Fregat |  1860 | Glonass M 53            |    1.415 | PL 43/4 | MEO          |
-|-----+------------+-------------------+-------+-------------------------+----------+---------+--------------|
-|  62 | 28.01.2017 | Soyuz 2.1b/Fregat |  VS16 | Hispasat 36W-1          |     3.22 | KO ELS  | GTO          |
-|  63 | 18.05.2017 | Soyuz 2.1a/Fregat |  VS17 | SES 15                  |    2.302 | KO ELS  | GTO          |
-|  64 | 25.05.2017 | Soyuz 2.1b/Fregat |  1870 | EKS 2                   |    ~1.4? | PL 43/4 | MOL          |
-|  65 | 14.06.2017 | Soyuz 2.1a        |  1871 | Progress MS-06          |    7.277 | TB 31/6 | ISS          |
-|  66 | 23.06.2017 | Soyuz 2.1v/Volga  |   003 | Kosmos 2519             |          | PL 43/4 | SSO          |
-|  67 | 14.07.2017 | Soyuz 2.1a/Fregat |  1872 | Kanopus-V-IK + usats    |     ~1.0 | TB 31/6 | SSO          |
-|  68 | 22.09.2017 | Soyuz 2.1b/Fregat |  1875 | Glonass M-52            |    1.415 | PL 43/4 | MEO          |
-|  69 | 14.10.2017 | Soyuz 2.1a        |  1876 | Progress MS-07          |    7.428 | TB 31/6 | ISS          |
-|  70 | 28.11.2017 | Soyuz 2.1b/Fregat |  1877 | Meteor M2-1 + 18usats   |     ~3.0 | VO 1    | Eșec[fn:sz8] |
-|  71 | 02.12.2017 | Soyuz 2.1b        |  1878 | Lotos-S1 1              |     ~6.0 | PL 43/4 | LEO          |
-|-----+------------+-------------------+-------+-------------------------+----------+---------+--------------|
-|  72 | 01.02.2018 | Soyuz 2.1a/Fregat |  1880 | Kanopus V3,4            |     ~1.1 | VO 1S   | SSO          |
-|  73 | 13.02.2018 | Soyuz 2.1a        |  1881 | Progress MS-08          |    ~7.28 | TB 31/6 | ISS          |
-|  74 | 09.03.2018 | Soyuz 2.1b/Fregat |  VS18 | O3b F4                  |      2.8 | KO ELS  | MEO          |
-|  75 | 29.03.2018 | Soyuz 2.1v        |   004 | Kosmos 2525             |     ~0.2 | PL 43/4 | LEO          |
-|  76 | 16.06.2018 | Soyuz 2.1b/Fregat |  1884 | Glonass M               |    1.415 | PL 43/4 | MEO          |
-|  77 | 09.07.2018 | Soyuz 2.1a        |  1885 | Progress MS-09          |    ~7.28 | TB 31/6 | ISS[fn:sz9]  |
-|  78 | 25.10.2018 | Soyuz 2.1b        |  1887 | Lotos-S1 3              |      6.0 | PL 43/4 | LEO          |
-|  79 | 03.11.2018 | Soyuz 2.1b/Fregat |  1888 | Uragan M 757            |    1.415 | PL 43/4 | MEO          |
-|  80 | 07.11.2018 | Soyuz 2.1b/Fregat |  VS19 | Metop C                 |    4.084 | KO ELS  | SSO          |
-|  81 | 19.12.2018 | Soyuz 2.1a/Fregat |  VS20 | CSO 1                   |    3.565 | KO ELS  | SSO          |
-|  82 | 27.12.2018 | Soyuz 2.1a/Fregat |  1893 | Kanopus V5,6+usats      |     ~1.1 | VO 1S   | SSO          |
-|-----+------------+-------------------+-------+-------------------------+----------+---------+--------------|
-|  83 | 21.02.2019 | Soyuz 2.1b/Fregat |  1894 | EgyptSat A              |     1.05 | TB 31/6 | SSO          |
-|  84 | 27.02.2019 | Soyuz 2.1b/Fregat |  VS21 | OneWeb F6               |    0.886 | KO ELS  | LEO          |
-|  85 | 04.04.2019 | Soyuz 2.1a        |  1897 | Progress MS-11          |    ~7.28 | TB 31/6 | ISS          |
-|  86 | 04.04.2019 | Soyuz 2.1b/Fregat |  VS22 | O3b F5                  |      2.8 | KO ELS  | MEO          |
-|  87 | 27.05.2019 | Soyuz 2.1b/Fregat |  1899 | Glonass M 49            |    1.415 | PL 43/4 | MEO          |
-|  88 | 05.07.2019 | Soyuz 2.1b/Fregat |  1900 | Meteor M2-2 +usats      |     2.75 | VO 1S   | SSO          |
-|  89 | 10.07.2019 | Soyuz 2.1v/Volga  |   005 | Kosmos 2535-38          |          | PL 43/4 | SSO          |
-|  90 | 30.07.2019 | Soyuz 2.1a/Fregat |  1902 | Meridian 18L            |     ~2.0 | PL 43/4 | MOL          |
-|  91 | 31.07.2019 | Soyuz 2.1a        |  1903 | Progress MS-12          |     ~7.2 | TB 31/6 | ISS          |
-|  92 | 22.08.2019 | Soyuz 2.1a        |  1904 | Soyuz MS-14             |     ~7.2 | TB 31/6 | ISS          |
-|  93 | 26.09.2019 | Soyuz 2.1b/Fregat |  1906 | EKS 3                   |    ~1.4? | PL 43/4 | MOL          |
-|  94 | 25.11.2019 | Soyuz 2.1v/Volga  |   006 | Kosmos 2542             |          | PL 43/4 | SSO          |
-|  95 | 06.12.2019 | Soyuz 2.1a        |  1907 | Progress MS-13          |     ~7.2 | TB 31/6 | ISS          |
-|  96 | 11.12.2019 | Soyuz 2.1b/Fregat |  1908 | GLONASS-M               |    1.415 | PL 43/3 | MEO          |
-|-----+------------+-------------------+-------+-------------------------+----------+---------+--------------|
+|-----+------------+-------------------+-------------------------+----------+---------+--------------|
+| nr. |       Data | Configurația      | Satelit                 | Masă (t) | Rampă   | Orbită       |
+|-----+------------+-------------------+-------------------------+----------+---------+--------------|
+|   s | 08.11.2004 | Soyuz-2.1a        | Oblik GVM (Test Flt)    |      6.5 | PL 43/4 | SUB[fn:sz1]  |
+|-----+------------+-------------------+-------------------------+----------+---------+--------------|
+|   1 | 19.10.2006 | Soyuz 2.1a/Fregat | METOP-A (ST16)          |     4.18 | TB 31/6 | SSO          |
+|   2 | 24.12.2006 | Soyuz 2.1a/Fregat | Meridian (Kosmos)       |    2.00? | PL 43/4 | MOL          |
+|   3 | 27.12.2006 | Soyuz 2.1b/Fregat | COROT (ST17)            |     0.63 | TB 31/6 | LEO          |
+|-----+------------+-------------------+-------------------------+----------+---------+--------------|
+|   4 | 26.07.2008 | Soyuz-2.1b        | Kosmos 2441 (Persona 1) |      6.5 | PL 43/4 | SSO          |
+|-----+------------+-------------------+-------------------------+----------+---------+--------------|
+|   5 | 21.05.2009 | Soyuz 2.1a/Fregat | Meridan 2               |          | PL 43/4 | EEO[fn:sz2]  |
+|   6 | 17.09.2009 | Soyuz 2.1b/Fregat | Meteor M1 +6microsats   |      2.7 | TB 31/6 | SSO          |
+|-----+------------+-------------------+-------------------------+----------+---------+--------------|
+|   7 | 19.10.2010 | Soyuz 2.1a/Fregat | ST22/6xGlobalstar       |      4.2 | TB 31/6 | LEO          |
+|   8 | 02.11.2010 | Soyuz 2.1a/Fregat | Meridian 3              |     ~2.0 | PL 43/4 | MOL          |
+|-----+------------+-------------------+-------------------------+----------+---------+--------------|
+|   9 | 26.02.2011 | Soyuz 2.1b/Fregat | Glonass-K               |     0.94 | PL 43/4 | MEO          |
+|  10 | 04.05.2011 | Soyuz 2.1a/Fregat | Meridian                |          | PL 43/4 | MOL          |
+|  11 | 13.07.2011 | Soyuz 2.1a/Fregat | 6xGlobalstar-2          |      3.9 | TB 31/6 | LEO          |
+|  12 | 02.10.2011 | Soyuz 2.1b/Fregat | Glonass M               |    1.414 | PL 43/4 | MEO          |
+|  13 | 21.10.2011 | Soyuz 2.1b/Fregat | VS-01/2xGalileo         |      1.4 | KO ELS  | MEO          |
+|  14 | 27.11.2011 | Soyuz 2.1b/Fregat | Glonass-M               |    1.414 | PL 43/4 | MEO          |
+|  15 | 17.12.2011 | Soyuz 2.1a/Fregat | VS-02/6sats             |      2.1 | KO ELS  | SSO          |
+|  16 | 23.12.2011 | Soyuz 2.1b/Fregat | Meridian                |          | PL 43/4 | Eșec[fn:sz3] |
+|  17 | 28.12.2011 | Soyuz 2.1a/Fregat | ST24/6xGlobalstar       |      4.2 | TB 31/6 | LEO          |
+|-----+------------+-------------------+-------------------------+----------+---------+--------------|
+|  18 | 17.09.2012 | Soyuz 2.1a/Fregat | Metop B                 |    4.085 | TB 31/6 | SSO          |
+|  19 | 12.10.2012 | Soyuz 2.1b/Fregat | IOV-2/Galileo FM3,4     |      1.4 | KO ELS  | MEO          |
+|  20 | 14.11.2012 | Soyuz 2.1a/Fregat | Merdian 6               |          | PL 43/3 | MOL          |
+|  21 | 02.12.2012 | Soyuz 2.1a/Fregat | Pleiades 1B             |     0.97 | KO ELS  | SSO          |
+|-----+------------+-------------------+-------------------------+----------+---------+--------------|
+|  22 | 06.02.2013 | Soyuz 2.1a/Fregat | ST26/6xGlobalstar       |      4.2 | TB 31/6 | LEO          |
+|  23 | 19.04.2013 | Soyuz 2.1a        | BION-M1                 |      6.5 | TB 31/6 | LEO          |
+|  24 | 26.04.2013 | Soyuz 2.1b/Fregat | Glonass M               |    1.415 | PL 43/4 | MEO          |
+|  25 | 07.06.2013 | Soyuz 2.1b        | Kvarts/Persona          |      6.5 | PL 43/4 | SSO          |
+|  26 | 25.06.2013 | Soyuz 2.1b        | Resurs P1               |     6.58 | TB 31/6 | LEO          |
+|  27 | 25.06.2013 | Soyuz 2.1b/Fregat | VS05/O3b F1             |      2.8 | KO ELS  | MEO          |
+|  28 | 19.12.2013 | Soyuz 2.1b/Fregat | VS06/Gaia               |    2.034 | KO ELS  | EEO          |
+|  29 | 28.12.2013 | Soyuz 2.1v/Volga  | Aist                    |     0.2? | PL 43/4 | LEO          |
+|-----+------------+-------------------+-------------------------+----------+---------+--------------|
+|  30 | 23.03.2014 | Soyuz 2.1b/Fregat | Glonass M               |    1.415 | PL 43/4 | MEO          |
+|  31 | 03.04.2014 | Soyuz 2.1a/Fregat | Sentinal 1A             |      2.3 | KO ELS  | SSO          |
+|  32 | 06.05.2014 | Soyuz 2.1a        | Kobalt-M                |      6.7 | PL 43/4 | LEO          |
+|  33 | 14.06.2014 | Soyuz 2.1b/Fregat | Glonass M               |    1.415 | PL 43/4 | MEO          |
+|  34 | 08.07.2014 | Soyuz 2.1b/Fregat | Meteor M2 +6usats       |    3.332 | TB 31/6 | SSO          |
+|  35 | 10.07.2014 | Soyuz 2.1b/Fregat | VS08/O3bF2              |      2.8 | KO ELS  | MEO          |
+|  36 | 18.07.2014 | Soyuz 2.1a        | Foton M4                |     6.84 | TB 31/6 | LEO          |
+|  37 | 22.08.2014 | Soyuz 2.1b/Fregat | 2xGalileo FOC-1         |    1.466 | KO ELS  | EEO[fn:sz4]  |
+|  38 | 29.10.2014 | Soyuz 2.1a        | Progress M-25M          |     7.29 | TB 31/6 | ISS          |
+|  39 | 30.10.2014 | Soyuz 2.1a/Fregat | Meridian 17L            |     ~2.0 | PL 43/4 | MOL          |
+|  40 | 30.11.2014 | Soyuz 2.1b/Fregat | Glonass K               |    0.935 | PL 43/4 | MEO          |
+|  41 | 18.12.2014 | Soyuz 2.1b/Fregat | 4xO3b (F3)              |     2.80 | KO ELS  | MEO          |
+|  42 | 25.12.2014 | Soyuz 2.1b        | Lotos-S                 |      6.0 | PL 43/4 | LEO          |
+|  43 | 26.12.2014 | Soyuz 2.1b        | Resurs P 2              |    6.392 | TB 31/6 | SSO          |
+|-----+------------+-------------------+-------------------------+----------+---------+--------------|
+|  44 | 27.02.2015 | Soyuz 2.1a        | BARS-1M 1L              |      4.0 | PL 43/4 | SSO          |
+|  45 | 27.03.2015 | Soyuz 2.1b/Fregat | Galileo FOC 2           |    1.466 | KO ELS  | MEO          |
+|  46 | 28.04.2015 | Soyuz 2.1a        | Progress M-27M          |    7.287 | TB 31/6 | LEO[fn:sz5]  |
+|  47 | 05.06.2015 | Soyuz 2.1a        | Kobalt-M                |      6.7 | PL 43/4 | LEO          |
+|  48 | 23.06.2015 | Soyuz 2.1b        | Kvarts/Persona          |      6.5 | PL 43/4 | SSO          |
+|  49 | 11.09.2015 | Soyuz 2.1b/Fregat | Galileo FOC 3 (5-6)     |    1.431 | KO ELS  | MEO          |
+|  50 | 17.11.2015 | Soyuz 2.1b/Fregat | EKS 1                   |    ~1.4? | PL 43/4 | MOL          |
+|  51 | 05.12.2015 | Soyuz 2.1v/Volga  | Kanopus ST              |   ~0.440 | PL 43/4 | EEO[fn:sz6]  |
+|  52 | 17.12.2015 | Soyuz 2.1b/Fregat | Galileo FOC4 (8-9)      |    1.435 | KO ELS  | MEO          |
+|  53 | 21.12.2015 | Soyuz 2.1a        | Progress MS-01          |     ~7.3 | TB 31/6 | ISS          |
+|-----+------------+-------------------+-------------------------+----------+---------+--------------|
+|  54 | 07.02.2016 | Soyuz 2.1b/Fregat | Glonass M               |    1.415 | PL 43/4 | MEO          |
+|  55 | 13.03.2016 | Soyuz 2.1b        | Resurs-P 3              |     5.92 | TB 31/6 | SSO          |
+|  56 | 24.03.2016 | Soyuz 2.1a        | Bars M                  |     ~4.0 | TB 43/4 | SSO          |
+|  57 | 31.03.2016 | Soyuz 2.1a        | Progress MS-02          |    7.285 | TB 31/6 | ISS          |
+|  58 | 25.04.2016 | Soyuz 2.1a/Fregat | Sentinel 1B + usats     |     2.47 | KO ELS  | SSO          |
+|  59 | 28.04.2016 | Soyuz 2.1a/Volga  | Lomonosov+2usats        |     ~3.0 | VO 1    | SSO[fn:sz7]  |
+|  60 | 24.05.2016 | Soyuz 2.1b/Fregat | Galileo FOC5 (10-11)    |     1.43 | KO ELS  | MEO          |
+|  61 | 29.05.2016 | Soyuz 2.1b/Fregat | Glonass M 53            |    1.415 | PL 43/4 | MEO          |
+|-----+------------+-------------------+-------------------------+----------+---------+--------------|
+|  62 | 28.01.2017 | Soyuz 2.1b/Fregat | Hispasat 36W-1          |     3.22 | KO ELS  | GTO          |
+|  63 | 18.05.2017 | Soyuz 2.1a/Fregat | SES 15                  |    2.302 | KO ELS  | GTO          |
+|  64 | 25.05.2017 | Soyuz 2.1b/Fregat | EKS 2                   |    ~1.4? | PL 43/4 | MOL          |
+|  65 | 14.06.2017 | Soyuz 2.1a        | Progress MS-06          |    7.277 | TB 31/6 | ISS          |
+|  66 | 23.06.2017 | Soyuz 2.1v/Volga  | Kosmos 2519             |          | PL 43/4 | SSO          |
+|  67 | 14.07.2017 | Soyuz 2.1a/Fregat | Kanopus-V-IK + usats    |     ~1.0 | TB 31/6 | SSO          |
+|  68 | 22.09.2017 | Soyuz 2.1b/Fregat | Glonass M-52            |    1.415 | PL 43/4 | MEO          |
+|  69 | 14.10.2017 | Soyuz 2.1a        | Progress MS-07          |    7.428 | TB 31/6 | ISS          |
+|  70 | 28.11.2017 | Soyuz 2.1b/Fregat | Meteor M2-1 + 18usats   |     ~3.0 | VO 1    | Eșec[fn:sz8] |
+|  71 | 02.12.2017 | Soyuz 2.1b        | Lotos-S1 1              |     ~6.0 | PL 43/4 | LEO          |
+|-----+------------+-------------------+-------------------------+----------+---------+--------------|
+|  72 | 01.02.2018 | Soyuz 2.1a/Fregat | Kanopus V3,4            |     ~1.1 | VO 1S   | SSO          |
+|  73 | 13.02.2018 | Soyuz 2.1a        | Progress MS-08          |    ~7.28 | TB 31/6 | ISS          |
+|  74 | 09.03.2018 | Soyuz 2.1b/Fregat | O3b F4                  |      2.8 | KO ELS  | MEO          |
+|  75 | 29.03.2018 | Soyuz 2.1v        | Kosmos 2525             |     ~0.2 | PL 43/4 | LEO          |
+|  76 | 16.06.2018 | Soyuz 2.1b/Fregat | Glonass M               |    1.415 | PL 43/4 | MEO          |
+|  77 | 09.07.2018 | Soyuz 2.1a        | Progress MS-09          |    ~7.28 | TB 31/6 | ISS[fn:sz9]  |
+|  78 | 25.10.2018 | Soyuz 2.1b        | Lotos-S1 3              |      6.0 | PL 43/4 | LEO          |
+|  79 | 03.11.2018 | Soyuz 2.1b/Fregat | Uragan M 757            |    1.415 | PL 43/4 | MEO          |
+|  80 | 07.11.2018 | Soyuz 2.1b/Fregat | Metop C                 |    4.084 | KO ELS  | SSO          |
+|  81 | 19.12.2018 | Soyuz 2.1a/Fregat | CSO 1                   |    3.565 | KO ELS  | SSO          |
+|  82 | 27.12.2018 | Soyuz 2.1a/Fregat | Kanopus V5,6+usats      |     ~1.1 | VO 1S   | SSO          |
+|-----+------------+-------------------+-------------------------+----------+---------+--------------|
+|  83 | 21.02.2019 | Soyuz 2.1b/Fregat | EgyptSat A              |     1.05 | TB 31/6 | SSO          |
+|  84 | 27.02.2019 | Soyuz 2.1b/Fregat | OneWeb F6               |    0.886 | KO ELS  | LEO          |
+|  85 | 04.04.2019 | Soyuz 2.1a        | Progress MS-11          |    ~7.28 | TB 31/6 | ISS          |
+|  86 | 04.04.2019 | Soyuz 2.1b/Fregat | O3b F5                  |      2.8 | KO ELS  | MEO          |
+|  87 | 27.05.2019 | Soyuz 2.1b/Fregat | Glonass M 49            |    1.415 | PL 43/4 | MEO          |
+|  88 | 05.07.2019 | Soyuz 2.1b/Fregat | Meteor M2-2 +usats      |     2.75 | VO 1S   | SSO          |
+|  89 | 10.07.2019 | Soyuz 2.1v/Volga  | Kosmos 2535-38          |          | PL 43/4 | SSO          |
+|  90 | 30.07.2019 | Soyuz 2.1a/Fregat | Meridian 18L            |     ~2.0 | PL 43/4 | MOL          |
+|  91 | 31.07.2019 | Soyuz 2.1a        | Progress MS-12          |     ~7.2 | TB 31/6 | ISS          |
+|  92 | 22.08.2019 | Soyuz 2.1a        | Soyuz MS-14             |     ~7.2 | TB 31/6 | ISS          |
+|  93 | 26.09.2019 | Soyuz 2.1b/Fregat | EKS 3                   |    ~1.4? | PL 43/4 | MOL          |
+|  94 | 25.11.2019 | Soyuz 2.1v/Volga  | Kosmos 2542             |          | PL 43/4 | SSO          |
+|  95 | 06.12.2019 | Soyuz 2.1a        | Progress MS-13          |     ~7.2 | TB 31/6 | ISS          |
+|  96 | 11.12.2019 | Soyuz 2.1b/Fregat | GLONASS-M               |    1.415 | PL 43/3 | MEO          |
+|-----+------------+-------------------+-------------------------+----------+---------+--------------|
 
 - EEO :: Orbită eliptică
 - MOL :: Orbită eliptică Molynia (12 ore)
@@ -1678,7 +1682,7 @@ Sonda OSIRIS-Rex a fost lansată în 8 septembrie 2016 și în 31 decembrie 2018
 #+CAPTION: Locul de pe suprafața asteroidului Bennu de unde sonda OSIRIS-REx va încerca să preleveze probe de sol, în 25 august 2020. /Sursa foto: [[https://www.nasa.gov/press-release/x-marks-the-spot-nasa-selects-site-for-asteroid-sample-collection/][NASA]]/
 [[/img/nightingale.jpg]]
 
-** Buletin Cosmic nr. 53           :soyuz2:progress:pslv:newshepard:electron:
+** Buletin Cosmic nr. 53 :soyuz2:progress:pslv:newshepard:electron:
 :PROPERTIES:
 :EXPORT_FILE_NAME: 053
 :EXPORT_DATE: 2019-12-11
