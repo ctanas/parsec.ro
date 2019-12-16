@@ -10,21 +10,16 @@
 
 ** Rachete, astronauți, stații spațiale și sonde interplanetare
 
-Siteul de față reprezintă o colecție personală de materiale despre explorarea spațiului cosmic, adusă la zi și mereu extinsă, cu un accent pe rachete și lansări orbitale:
+Siteul de față reprezintă o colecție personală de materiale, articole și notițe (mai mult sau mai puțin structurate) despre explorarea spațiului cosmic, adusă frecvent la zi și mereu extinsă, cu un accent pe rachete și lansări orbitale. Știrile sunt grupate în [[/bul][Buletine Cosmice]] (cu o frecvență aproximativ săptămânală), materiale care conțin detalii despre lansările orbitale, dar și noutăți cu privire la explorarea spațiului cosmic. [[/iss][Stația Spațială Internațională]] are o secțiune specială.
+
 - Lansări orbitale ([[/r/lansari2019][2019]]);
 - [[/m/sonde][Lista sondelor interplanetare active]];
-- Rachete active (/draft/, conține deocamdată detalii doar despre [[/r/antares][Antares]] și [[/r/soyuz-2][Soyuz-2]]);
 - [[/r/viitor][Rachete aflate în dezvoltare]] (/draft/);
-- [[/x/falcon9][Lista treptelor primare Falcon 9 Block 5]].
-
-În afară de listele de mai sus, site-ul mai conține și câteva articole:
-- Programe spațiale active: [[/p/china][China]], [[/p/india][India]], [[/p/iran][Iran]];
+- [[/x/falcon9][Lista treptelor primare Falcon 9 Block 5]];
+- Rachete active (/draft/, conține deocamdată detalii doar despre [[/r/antares][Antares]] și [[/r/soyuz-2][Soyuz-2]]);
+- Programe spațiale active (selecție: [[/p/china][China]], [[/p/india][India]], [[/p/iran][Iran]]);
 - Vehicule orbitale reutilizabile: [[/m/x37b][X-37B]], [[/m/buran][Buran]];
 - [[/m/meteoriti][Meteoriți]]: informații generale și lista meteoriților românești (/draft/).
-
-[[/iss][Stația Spațială Internațională]] are o secțiune specială.
-
-Știrile sunt grupate în [[/bul][Buletine Cosmice]] (cu o frecvență aproximativ săptămânală), materiale care conțin detalii despre lansările orbitale, dar și noutăți cu privire la explorarea spațiului cosmic.
 
 
 * About
@@ -272,42 +267,44 @@ Lansat în 14 mai 2010 cu naveta Atlantis (STS-132), modulul rusesc de mici dime
 :EXPORT_FILE_NAME: ccdev 
 :END:
 
+Programul CC-Dev al NASA presupune subvenționarea companiilor private americane de către agenția spațială americană pentru dezvoltarea de soluții proprii, comerciale, pentru lansarea astronauților pe orbită terestră joasă și ulterior contractarea acestor companii pentru asigurarea de zboruri cu echipaj spre Stația Spațială Internațională. Două companii fac parte din acest program: *SpaceX*, cu capsula /Dragon-2/ și racheta Falcon 9 Block 5, și *Boeing*, cu capsula /CST-100 Starliner/, lansată de o rachetă Atlas V modificată pentru a zbura fără con protector, certificată pentru zboruri cu echipaj și cu o treaptă secundară Centaur cu 2 motoare Aerojet Rocketdyne RL10A-4-2. Fiecare din cele două companii lanseze 6 misiuni cu echipaj spre ISS în perioada 2019--2024.
+
 *** SpaceX DM-1 (02-08 martie 2019)
-(DM - Demo Mission)
+/Demo Mission/ 1
 - fără echipaj
 
 *** Boeing OFT (fin 2018, înc. 2019)
-(Orbital Flight Test)
-Atlas V modificată pentru a zbura fără con protector
+/Orbital Flight Test/
 - fără echipaj
 
-*** SpaceX DM-2 – aprilie 2019
+*** SpaceX DM-2 (aprilie 2019)
 /Demo Mission 2/
 
-- Bob Behnken (STS-123, STS-130, ambele Endeavour, 6 EVA = 37 ore)
-- Doug Hurley (pilot STS-135, Endeavor STS-127)
+- *Bob Behnken* (STS-123, STS-130, ambele Endeavour, 6 EVA = 37 ore)
+- *Doug Hurley* (pilot STS-135, Endeavor STS-127)
 
 *** Boeing CFT (mijloc 2019)
 /Crew Flight Test/
-- Eric Boe (Endeavour STS-126, Discovery STS-133)
-- Chris Ferguson (Atlantis STS-115, Endeavour STS-126, Atlantis STS-135)
-- Nicole Aunapu Mann (primul zbor spațial)
+
+- *Michael Fincke* (Soyuz TMA-4, Soyuz TMA-13, Endeavour STS-134)
+  - l-a înlocuit pe Eric Boe, programat inițial pentru această misiune, dar care s-a retras din program în 2019 din motive medicale.
+- *Chris Ferguson* (Atlantis STS-115, Endeavour STS-126, Atlantis STS-135)
+- *Nicole Aunapu Mann* (primul zbor spațial)
 
 *** SpaceX PCM-1 (2020)
-/Post Certification Mission/
+/Post Certification Mission 1/
 
-- Victor Glover (primul zbor spațial)
-- Mike Hopkins (Soyuz TMA-10M, 166 zile ISS, 2 EVA)
+- *Victor Glover* (primul zbor spațial)
+- *Mike Hopkins* (Soyuz TMA-10M, 166 zile ISS, 2 EVA)
 
 *** Boeing PCM-1 (2020)
+/Post Certification Mission 1/
 
-- John Cassada (primul zbor spațial)
-- Sunita Williams (322 zile pe în spațiu, 7 EVA, Discovery STS-116, Atlantis STS-117, Soyuz TMA-05M)
+- *John Cassada* (primul zbor spațial)
+- *Sunita Williams* (322 zile pe în spațiu, 7 EVA, Discovery STS-116, Atlantis STS-117, Soyuz TMA-05M)
 
 *** Note
-
-- De la ultima lansare a unei navetei spațiale (Atlantis, STS-135, 8 iulie 2011) au trecut peste 3083 zile.
-- Între Apollo-Soyuz (ASTP, 15 iulie 1975) și primul zbor al navetei spațiale (Columbia, STS-1, 12 aprilie 1981) au fost 2098 zile.
+De la ultima lansare a unei navetei spațiale americane cu echipaj (Atlantis, STS-135, 8 iulie 2011) au trecut peste 3083 zile, cea mai lungă perioadă în care SUA nu a avut posibilitatea de a lansa astronauți pe orbită folosind soluții proprii (rachete și vehicule americane). Între Apollo-Soyuz (ASTP, 15 iulie 1975) și primul zbor al navetei spațiale (Columbia, STS-1, 12 aprilie 1981) au fost doar 2098 zile.
 
 
 * Artemis 
