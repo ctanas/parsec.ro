@@ -27,14 +27,11 @@ Avem pe Pământ și meteoriți de pe alte corpuri din sistemul solar? Puțin pr
 
 Motivul pentru care majoritatea meteoriților par să cadă în Rusia este faptul că Rusia este statul cu cea mai mare suprafață, deci cu cele mai mare șanse ca meteoriții să o nimerească (la care se mai adaugă și faptul ca în Rusia foarte mulți șoferi dispun de camere video).
 
-Din fericire țara noastră nu are o suprafață mică, ceea ce înseamnă că există șanse să găsim meteoriți și în interiorul granițelor noastre. The Meteoritical Society inventariază 9 meteoriți, deși de fapt sunt 10 (meteoritul Zsadany a fost recuperat din apropierea graniței cu Ungaria și în prezent ambele state și-l revendică).
+Din fericire țara noastră nu are o suprafață mică, ceea ce înseamnă că există șanse să găsim meteoriți și în interiorul granițelor noastre. The Meteoritical Society inventariază 9 meteoriți, deși de fapt sunt 10 (meteoritul Zsadany a fost recuperat din apropierea graniței cu Ungaria și în prezent ambele state îl revendică).
 
 Din păcate, toți cei 9 sau 10 meteoriți românești sunt condrite, adică cei mai comuni meteoriți. Doi dintre ei (Gresia și Tuzla) au fost descoperiți întâmplător (în 1990 și respectiv 1920), dar restul au avut parte de martori când au străbătut atmosfera (în limbaj de specialitate, despre primii se spune că sunt _finds_, iar cei care sunt observați înainte de a ajunge pe Pământul sunt _falls_). Pe lângă Mocs (astăzi Mociu) și Zsadany, de care am pomenit deja, am mai avut parte de meteoriți la Kakowa (1858), Mezö-Madaras (1852), Ohaba (1857), Sopot (1927), Tauți (1937) și cel mai recent, Pleșcoi (2008).
 
-<div class="table-caption">
-  <span class="table-number">Table 1</span>:
-  Meteoriți românești, conform bazei de date oficiale <a href="https://www.lpi.usra.edu/meteor/metbull.php?sea=&amp;sfor=names&amp;ants=&amp;nwas=&amp;falls=&amp;valids=&amp;stype=contains&amp;lrec=50&amp;map=ge&amp;browse=&amp;country=Romania&amp;srt=name&amp;categ=All&amp;mblist=All&amp;rect=&amp;phot=&amp;strewn=&amp;snew=0&amp;pnt=Normal%20table&amp;dr=&amp;page=0">The Meteoritical Society / Meteoritical Bulletin Database</a>, plus corecțiile ulterioare, conform <a href="https://scholarcommons.usf.edu/geologia/vol58/iss2/art5/">Luttge-Pop, Andrei, Har</a>.
-</div>
+În tabelul următor sunt listați toți meteoriți românești identificați până în prezent, conform bazei de date oficiale[^fn:1], plus corecțiile ulterioare[^fn:2].
 
 | Nr. | Nume         | An   | Localitate      | Coordonate       | Tip  | Masă     | Obs.   |
 |-----|--------------|------|-----------------|------------------|------|----------|--------|
@@ -48,3 +45,6 @@ Din păcate, toți cei 9 sau 10 meteoriți românești sunt condrite, adică cei
 | 8   | Tauti        | 1937 | Tauti CJ/AR/BH? | 46°43'N, 23°30'E | L6   | 21 kg    | _fall_ |
 | 9   | Gresia       | 1990 | Gresia, TR      | 44°10'N, 24°55'E | H4   | 26.9 kg  | _find_ |
 | 10  | Pleșcoi      | 2008 | Pleșcoi, BZ     | 45°16'N, 26°42'E | L5-6 | 6.91 kg  | _fall_ |
+
+[^fn:1]: [Meteoritical Bulletin Database, Romanian Meteorites](https://www.lpi.usra.edu/meteor/metbull.php?sea=&sfor=names&ants=&nwas=&falls=&valids=&stype=contains&lrec=50&map=ge&browse=&country=Romania&srt=name&categ=All&mblist=All&rect=&phot=&strewn=&snew=0&pnt=Normal%20table&dr=&page=0)
+[^fn:2]: [Luttge-Pop D., Andrei R., Har N., _Historical Romanian meteorites: emendations of official catalogue records_ Studia Universitatis Babeș-Bolyai Geologica, vol. 58, no. 2, 2013](https://scholarcommons.usf.edu/geologia/vol58/iss2/art5/)
