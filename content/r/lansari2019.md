@@ -133,7 +133,7 @@ MOL
 
 ## Note de subsol {#note-de-subsol}
 
-[^fn:1]: Ultima lansare a rachetei Soyuz-FG și probabil ultima lansare de pe rampa istorică 1/5 de la Baikonur.
+[^fn:1]: Ultima lansare a rachetei Soyuz-FG și [probabil ultima lansare de pe rampa istorică 1/5 de la Baikonur](/m/soyuz-fg).
 [^fn:2]: Racheta a urcat satelitul pe orbita corectă, dar ulterior acesta a suferit probleme tehnice.
 [^fn:3]: Prima lansare orbitală reușită a unei companii private din China.
 [^fn:4]: Prima lansare eșuată pentru racheta Vega, datorită unor probleme cu treapta secundară.
