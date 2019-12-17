@@ -720,6 +720,8 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 
 | Nr |  Data |  Ora | Lansator         | Satelit        | Țara    | Rampa           | Ținta | Rezultat     |
 |----+-------+------+------------------+----------------+---------+-----------------+-------+--------------|
+| 96 | 17.12 | 0010 | Falcon 9         | JCSAT-18       | SUA     | CC SLC-40       | GTO   | Succes       |
+| 95 | 16.12 | 0722 | Changzheng-3B    | 2xBeidou-3     | China   | Xichang-LC3     | MEO   | Succes       |
 | 94 | 11.12 | 0955 | PSLV-QL          | RISAT-2BR1     | India   | Satish Dhawan   | LEO   | Succes       |
 | 93 | 11.12 | 0830 | Soyuz-2.1b       | GLONASS-M      | Rusia   | Plesetsk 43/3   | MEO   | Succes       |
 | 92 | 07.12 | 0852 | Kuaizhou-1A      | 2x Xingyun-2   | China   | Taiyuan         | SSO   | Succes       |
@@ -1713,6 +1715,21 @@ Imediat după lansare, satelitul Olimp-K și-a schimbat de mai multe ori poziți
 :END:
 
 *** Lansări orbitale
+
+A doua lansare *SpaceX* din această lună a urcat marți dimineața pe orbită satelitul de telecomunicații JCSAT-18 de pe rampa SLC-40 a complexului spațial Cape Canaveral, Florida. A fost a 77-a lansare pentru o rachetă *Falcon 9* și al treilea zbor pentru prima treaptă a rachetei folosite miercuri, aceasta fiind folosită și în două lansări precedente a capsulei Dragon spre Stația Spațială Internațională. De asemenea, a fost și cel mai scurt interval de timp dintre două lansări Falcon 9 de pe aceeași rampă, pentru că în urmă cu doar 11 zile, tot de pe SLC-40, decola misiunea Dragon CRS-19 (recordul procedent fiind de 12 zile, între lansările CRS-18 și satelitul Amos-17, în august), rampa putând fi pregătită pentru un nou zbor în minimum 7 zile. Satelitul de JCSAT-18 a cântărit 6.8 tone, aproape de limita rachetei Falcon 9 pentru lansări spre orbita geostaționară.
+
+Treapta primară B1056 a fost recuperată și de această dată pe barja /Of Course I Still Love You/, plasată în Atlantic, însă recuperarea conului protector nu a reușit de această dată, deși două vase așteptau să prindă din zbor cele două jumătăți ale conului, care au căzut însă în apele oceanului, nu departe de locul unde erau așteptate. Acestea costă aproape 6 milioane de doalri, aproximativ 10% din costul unei racehtei Falcon 9.
+
+---
+
+Deși au mai rămas câteva zile din 2019, China va încheia din nou anul ca lider într-un clasament general al numărului de rachete lansate spre orbită. Luni, o nouă rachetă *Changzheng-3B* completa cu încă doi sateliți Beidou constelația chinezească dedicată serviciului propriu de localizare prin satelit (similar ca performanțe cu sistemul GPS sau Galileo). Beidou numără astăzi 33 de sateliți activi aflați pe orbită, China fiind la doar o lansare distanță pentru a ajunge la numărul de 35 de sateliți, necesari pentru o acoperire globală completă. Acest lucru se va întâmpla în 2020, pentru că au mai rămas două lansări în 2019 din China, din care una sperăm să fie revenirea racehtei Changzheng-5, cel mai puternic lansator chinezesc, vital pentru viitoarele misiuni chineești spre Lună sau Marte, dar și pentru asamblarea viitoarei stații spațiale chinezești.
+
+Lansarea Changzheng-3B a fost ultima din 2019 de la centrul spațial Xichang, iar racheta a folosit treapta superioară YZ-1 pentru a plasa cei doi sateliți Beidou, care cântăresc aproximativ o tonă fiecare, la 21500 kilometri altitudine și înclinație orbitală de 55.5 grade.
+
+---
+
+CHEOPS/Ariane 5
+
 *** Alte evenimente
 
 Inginerii NASA au identificat locul de unde sonda *OSIRIX-REx* va preleva probe de pe suprafața asteroidului *Bennu*: este vorba despre o zonă denumită Privighetoarea, situată într-un crater din emisfera nordică a asteroidului. Criteriile au fost o granulație suficient de mică a materialului din zona respectivă, dar și un acces cât mai facil al sondei, pentru a nu fi incomodată de bolovani sau alte forme de relief specifice. Se crede că solul din zona respectivă este relativ tânăr și fiind expus unor temperaturi mai scăzute decât alte părți ale asteroidului, ar conserva mai bine compușii chimici prezenți, ajutând astfel oamenii de știință să poată reconstrui mai exact istoria acestuia. Înainte de prelevare, sonda va efectua două survoluri ale zonei, la 500, respectiv 250 de metri distanță, după care vor urma două repetiții înainte de prelevarea materialului de la sol, programată pentru 25 august 2020. Dacă OSIRIX-REx va întâmpina probleme, o nouă oportunitate pentru prelevare va fi în toamna anului viitor.

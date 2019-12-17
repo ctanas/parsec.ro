@@ -6,6 +6,8 @@ draft = false
 
 | Nr | Data  | Ora  | Lansator         | Satelit        | Țara    | Rampa           | Ținta | Rezultat      |
 |----|-------|------|------------------|----------------|---------|-----------------|-------|---------------|
+| 96 | 17.12 | 0010 | Falcon 9         | JCSAT-18       | SUA     | CC SLC-40       | GTO   | Succes        |
+| 95 | 16.12 | 0722 | Changzheng-3B    | 2xBeidou-3     | China   | Xichang-LC3     | MEO   | Succes        |
 | 94 | 11.12 | 0955 | PSLV-QL          | RISAT-2BR1     | India   | Satish Dhawan   | LEO   | Succes        |
 | 93 | 11.12 | 0830 | Soyuz-2.1b       | GLONASS-M      | Rusia   | Plesetsk 43/3   | MEO   | Succes        |
 | 92 | 07.12 | 0852 | Kuaizhou-1A      | 2x Xingyun-2   | China   | Taiyuan         | SSO   | Succes        |
