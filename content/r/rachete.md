@@ -47,10 +47,10 @@ draft = false
 | PSLV            | IND  | ISRO        | 1993  | (S)          | 3.8t  | 1.75t  | 1.2t  | 50      | 47      | 2+(1)   |
 | GSLV Mk.II      | IND  | ISRO        | 2010  | S139 (S)     | 5t    |        | 2.7t  | 7       | 6       | 1       |
 | GSLV Mk.III     | IND  | ISRO        | 2017  | S200 (S)     | 10t   |        | 4t    | 4       | 4       | 0       |
-| Safir           | IRN  | ISA         | 2008  | ??           | <0.1? |        |       | 8       | 4       | 4       |
-| Simorgh[^fn:3]  | IRN  | ISA         | 2016  | 4xNodong?    | 0.35? |        |       | 3       | 1       | 2       |
+| Safir[^fn:3]    | IRN  | ISA         | 2008  | ??           | <0.1? |        |       | 8       | 4       | 4       |
+| Simorgh         | IRN  | ISA         | 2016  | 4xNodong?    | 0.35? |        |       | 3       | 1       | 2       |
 | Unha-3          | PRK  | NADA        | 2012  | 4xNodong?    | 0.2?  |        |       | 3       | 2       | 1       |
 
 [^fn:1]: După eșecul celei de-a 5-a lansări Antares, din 28.10.2014, racheta a schimbat motorul primei trepte din NK-33 în RD-181.
 [^fn:2]: Falcon-9 a suferit o explozie pe rampa de lansare, înaintea misiunii Amos-18 (01.09.2016), eșec care nu apare în tabel.
-[^fn:3]: Simorgh a suferit în 29.08.2019 o explozie pe rampă, eșec care nu apare în tabel.
+[^fn:3]: Safir a suferit în 29.08.2019 o explozie pe rampă, eșec care nu apare în tabel.
