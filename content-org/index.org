@@ -1697,6 +1697,20 @@ Propulsoarele care funcționează pe baza principiul Hall sunt de fapt un caz ap
 
 Imediat după lansare, satelitul Olimp-K și-a schimbat de mai multe ori poziția pe orbită, inclusiv altitudinea: în februarie 2015, aceasta a coborât cu 260 kilometri și a devenit perfect circulară. În aprilie, Olimp-K s-a poziționat între sateliții Intelsat 7 și Intelsat 901, uneori și la o distanță de 10 km de aceștia. Un purtător de cuvânt al Forțelor Aeriene SUA a declarat că Olimp-K s-a apropiat, de trei ori, până la 5 km de un alt satelit american, al cărui nume nu a fost specificat. În septembrie 2015, Olimp-K s-a apropiat de un alt satelit Intelsat (905). Unii observatori au observat că mișcările satelitului este corelată și cu deplasările unor elemente ale flotei rusești, lucru care se potrivește cu ipoteza care spune că aceasta este folosit pentru comunicații militare. Acum câteva zile, în 24 februarie 2016, Olimp-K s-a poziționat din nou curios, între alți doi sateliți: Intelsat 10-02 (satelit de telecomunicații comerciale) și Skynet 4C (un mai vechi satelit al ministerului de apărare britanic). Aceste manevre nu sunt deloc agreată de comunitatea internațională pentru că pun în pericol sateliții de telecomunicație, care au sloturi orbitale bine definite și care la o distanță mai mică de 10 km unul de altul sunt considerați a fi în pericol de coliziune. Cu toate acestea, Olimp-K nu este singurul satelit curios de pe orbită, Statele Unite au și ele astfel de sateliți mobili.
 
+** Orel
+:PROPERTIES:
+:EXPORT_FILE_NAME: orel
+:END:
+
+Câteva noutăți despre planurile Rusiei cu privire la viitoarea capsulă rusească Orel (sau Eagle, fosta Federatsiya), aflată în dezvoltare de 10 ani:
+- capsula este mai grea decât specificațiile Roscosmos cu... aproape 2.5 tone (cablurile sunt mai grele cu 201 kilograme, sistemul de menținere a vieții cu 109 kilograme, sistemul de propulsie cu 107 kilograme, sistemul de andocare cu 90 kilograme), cântărind în prezent 22343 kilograme, deși trebuia să aibă maximum 19848 kilograme.
+- Orel va avea două variante: una pentru orbita terestră (17 tone) și una pentru misiuni spre Lună (20 tone, care ar putea să aibă un alt nume)
+- primul zbor al noii capsule este programat pentru 2023, de la cosmodromul Vostochny, la bordul unei rachete Angara-5P (care urmează să debuteze anul viitor)
+- al doilea zbor, în 2024, va fi tot fără echipaj la bord, dar va avea ca țintă Stația Spațială Internațională (ISS).
+- al treilea zbor, în 2025, Orel va transporta astronauți spre ISS (dacă primele două zboruri decurg fără incidente)
+- până în 2027, Orel va folosi racheta Angara-5P pentru a ajunge pe orbită terestră joasă, urmând ca din 2028 să fie lansată de viitorul lansator supergreu Yenisei
+- în 2029, o nouă rachetă Yenisei va lansa o capsulă de tip Orel spre Lună, urmând ca în 2030, astronauții ruși să folosească racheta Yenisei și capsula Orel pentru... aselenizare.
+
 
 * Buletin Cosmic
 :PROPERTIES:
