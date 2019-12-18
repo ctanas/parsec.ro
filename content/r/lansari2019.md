@@ -6,6 +6,7 @@ draft = false
 
 | Nr | Data  | Ora  | Lansator         | Satelit        | Țara    | Rampa           | Ținta | Rezultat      |
 |----|-------|------|------------------|----------------|---------|-----------------|-------|---------------|
+| 97 | 18.12 | 0854 | Soyuz-STA        | CHEOPS         | Europa  | Kourou ELS      | SSO   | Succes        |
 | 96 | 17.12 | 0010 | Falcon 9         | JCSAT-18       | SUA     | CC SLC-40       | GTO   | Succes        |
 | 95 | 16.12 | 0722 | Changzheng-3B    | 2xBeidou-3     | China   | Xichang-LC3     | MEO   | Succes        |
 | 94 | 11.12 | 0955 | PSLV-QL          | RISAT-2BR1     | India   | Satish Dhawan   | LEO   | Succes        |

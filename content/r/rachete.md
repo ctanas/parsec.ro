@@ -14,7 +14,7 @@ draft = false
 | Falcon Heavy    | SUA  | SpaceX      | 2018  | 27xMerlin    | 63.8  |        | 26.7  | 3       | 3       | 0       |
 | Minotaur-C      | SUA  | NGSSG       | 1994  | Castor(S)    | 1.3t  |        |       | 10      | 7       | 3       |
 | Minotaur V      | SUA  | NGSSG       | 2013  | Castor(S)    |       |        | 0.53t | 1       | 1       | 0       |
-| Soyuz-2         | RUS  | Roscosmos   | 2004  | 1xRD-108A    | 8.2t  | 4.9t   | 3.2t  | 95      | 88      | 4+(3)   |
+| Soyuz-2         | RUS  | Roscosmos   | 2004  | 1xRD-108A    | 8.2t  | 4.9t   | 3.2t  | 96      | 89      | 4+(3)   |
 | Proton-M        | RUS  | Roscosmos   | 2001  | 6xRD-275M    | 23t   |        | 6.3   | 108     | 97      | 9+(2)   |
 | Rockot          | RUS  | Roscosmos   | 1994  | 3xRD-0233    | 1.9t  | 1.2t   |       | 33      | 30      | 2+(1)   |
 | Angara          | RUS  | Roscosmos   | 2014  | 1xRD-191     | 3.8t  |        | 5.4t  | 2       | 2       | 0       |
