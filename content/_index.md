@@ -16,4 +16,5 @@ Siteul de față reprezintă o colecție personală de materiale, articole și n
 -   [Lista treptelor primare Falcon 9 Block 5](/x/falcon9);
 -   Programe spațiale active (selecție: [China](/p/china), [India](/p/india), [Iran](/p/iran));
 -   Alte navete spațiale: [X-37B](/m/x37b), [Buran](/m/buran);
--   [Meteoriți](/m/meteoriti): informații generale și lista meteoriților românești (_draft_).
+-   [Meteoriți](/m/meteoriti): informații generale și lista meteoriților românești (_draft_);
+-   Articole diverse ([Soyuz-FG](/m/soyuz-fg), [Olimp-K](/m/olimp-k)).

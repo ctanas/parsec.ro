@@ -70,7 +70,7 @@ draft = false
 
 1.  2019-05-04 OCISLY **Dragon CRS-17**
 2.  2019-07-25 OCISLY **Dragon CRS-18**
-3.  _2019-12-XX_ OCISLY **JSCAT-18**
+3.  2019-12-17 OCISLY **JSCAT-18**
 
 
 ## B1057 {#b1057}

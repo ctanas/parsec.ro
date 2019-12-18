@@ -20,8 +20,8 @@ Siteul de față reprezintă o colecție personală de materiale, articole și n
 - [[/x/falcon9][Lista treptelor primare Falcon 9 Block 5]];
 - Programe spațiale active (selecție: [[/p/china][China]], [[/p/india][India]], [[/p/iran][Iran]]);
 - Alte navete spațiale: [[/m/x37b][X-37B]], [[/m/buran][Buran]];
-- [[/m/meteoriti][Meteoriți]]: informații generale și lista meteoriților românești (/draft/).
-
+- [[/m/meteoriti][Meteoriți]]: informații generale și lista meteoriților românești (/draft/);
+- Articole diverse ([[/m/soyuz-fg][Soyuz-FG]], [[/m/olimp-k][Olimp-K]]).
 
 * About
 :PROPERTIES:
@@ -663,7 +663,7 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 
 1. 2019-05-04 OCISLY *Dragon CRS-17*
 2. 2019-07-25 OCISLY *Dragon CRS-18*
-3. /2019-12-XX/ OCISLY *JSCAT-18*
+3. 2019-12-17 OCISLY *JSCAT-18*
 
 **** B1057
 
