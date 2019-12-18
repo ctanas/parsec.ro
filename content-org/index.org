@@ -1717,7 +1717,7 @@ Câteva noutăți despre planurile Rusiei cu privire la viitoarea capsulă rusea
 :EXPORT_HUGO_SECTION: bul
 :END:
 
-** Buletin Cosmic nr. 54
+** Buletin Cosmic nr. 54 :spacex:falcon9:cz:3b:soyuz:bennu:
 :PROPERTIES:
 :EXPORT_FILE_NAME: 054
 :EXPORT_DATE: 2019-12-18
@@ -1749,7 +1749,7 @@ Inginerii NASA au identificat locul de unde sonda *OSIRIX-REx* va preleva probe 
 Sonda OSIRIS-Rex a fost lansată în 8 septembrie 2016 și în 31 decembrie 2018 s-a înscris pe orbita asteroidul Bennu, care este cel mai mic corp în jurul căruia o sondă interplanetară a putut să orbiteze pe o traiectorie stabilă. OSIRIS-REx îl va părăsi însă pe Bennu în martie 2021, pentru a aduce pe Pământ probe de sol de pe suprafața acestuia, în septembrie 2023.
 
 #+CAPTION: Locul de pe suprafața asteroidului Bennu de unde sonda OSIRIS-REx va încerca să preleveze probe de sol, în 25 august 2020. /Sursa foto: [[https://www.nasa.gov/press-release/x-marks-the-spot-nasa-selects-site-for-asteroid-sample-collection/][NASA]]/
-[[/img/nightingale.jpg]]
+[[/img/nightingale.png]]
 
 ** Buletin Cosmic nr. 53 :soyuz2:progress:pslv:newshepard:electron:
 :PROPERTIES:
