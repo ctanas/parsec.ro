@@ -4,13 +4,6 @@ author = ["Claudiu"]
 draft = false
 +++
 
-În funcție de masa pe care o pot urca pe orbita terestră joasă, rachetele se pot clasifica în patru clase:
-
--   calibru ușor (SLV --_Small Lift Vehicle_), până la 2 tone: Electron, Pegasus, Rokot, Vega etc
--   calibru mediu (MLV --_Medium Lift Vehicle_), între 2-20 tone: Atlas V, PSLV, H-2, Soyuz-2, GSLV, Antares etc
--   calibru greu (HLV --_Heavy Lift Vehicle_), între 20-50 tone: Ariane 5, Delta IV Heavy, Proton-M, Falcon 9.
--   calibru supergreu (SHLV --_Super Heavy Lift Vehicle_), peste 50 de tone: Saturn V, Energia.
-
 | Racheta         | Țara | Operator    | Debut | Motor        | LEO   | SSO    | GTO   | Lansări | Succese | Eșecuri |
 |-----------------|------|-------------|-------|--------------|-------|--------|-------|---------|---------|---------|
 | Antares[^fn:1]  | SUA  | NGSSG       | 2013  | 2xRD-181     | 8t    |        |       | 11      | 10      | 1       |

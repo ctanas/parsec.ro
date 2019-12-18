@@ -896,13 +896,6 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 :EXPORT_FILE_NAME: rachete 
 :END:
 
-În funcție de masa pe care o pot urca pe orbita terestră joasă, rachetele se pot clasifica în patru clase:
-
-- calibru ușor (SLV --/Small Lift Vehicle/), până la 2 tone: Electron, Pegasus, Rokot, Vega etc
-- calibru mediu (MLV --/Medium Lift Vehicle/), între 2-20 tone: Atlas V, PSLV, H-2, Soyuz-2, GSLV, Antares etc
-- calibru greu (HLV --/Heavy Lift Vehicle/), între 20-50 tone: Ariane 5, Delta IV Heavy, Proton-M, Falcon 9.
-- calibru supergreu (SHLV --/Super Heavy Lift Vehicle/), peste 50 de tone: Saturn V, Energia.
-
 |------------------+------+-------------+-------+--------------+-------+--------+-------+---------+---------+---------|
 | Racheta          | Țara | Operator    | Debut | Motor        | LEO   | SSO    | GTO   | Lansări | Succese | Eșecuri |
 |------------------+------+-------------+-------+--------------+-------+--------+-------+---------+---------+---------|
