@@ -143,8 +143,8 @@ MOL
 
 [^fn:1]: Racheta și treapta secundară au funcționat nominal, dar capsula CST-100 Starliner nu a mai ajuns la ISS din cauza unei probleme cu ceasul computerului de bord, care astfel nu a mai efectuat la timp o manevră de inserție pe orbita corectă.
 [^fn:2]: Ultima lansare a rachetei Soyuz-FG și [probabil ultima lansare de pe rampa istorică 1/5 de la Baikonur](/m/soyuz-fg).
-[^fn:3]: Racheta a urcat satelitul pe orbita corectă, dar ulterior acesta a suferit probleme tehnice.
-[^fn:4]: Prima lansare orbitală reușită a unei companii private din China.
+[^fn:3]: Prima lansare orbitală reușită a unei companii private din China.
+[^fn:4]: Racheta a urcat satelitul pe orbita corectă, dar ulterior acesta a suferit probleme tehnice.
 [^fn:5]: Prima lansare eșuată pentru racheta Vega, datorită unor probleme cu treapta secundară.
 [^fn:6]: Probleme cu a treia treaptă a rachetei Changzheng.
 [^fn:7]: Tentativa unei companii chinezești private de a pune pe orbită un satelit s-a încheiat cu un eșec după ce controlul rachetei a fost pierdut imediat după seprarea primei trepte.
