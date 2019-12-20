@@ -4,7 +4,7 @@ author = ["Claudiu"]
 draft = false
 +++
 
-Programul CC-Dev al NASA presupune subvenționarea companiilor private americane de către agenția spațială americană pentru dezvoltarea de soluții proprii, comerciale, pentru lansarea astronauților pe orbită terestră joasă și ulterior contractarea acestor companii pentru asigurarea de zboruri cu echipaj spre Stația Spațială Internațională. Două companii fac parte din acest program: **SpaceX**, cu capsula _Dragon-2_ și racheta Falcon 9 Block 5, și **Boeing**, cu capsula _CST-100 Starliner_, lansată de o rachetă Atlas V modificată pentru a zbura fără con protector, certificată pentru zboruri cu echipaj și cu o treaptă secundară Centaur cu 2 motoare Aerojet Rocketdyne RL10A-4-2. Fiecare din cele două companii lanseze 6 misiuni cu echipaj spre ISS în perioada 2019--2024.
+Programul CC-Dev al NASA presupune subvenționarea companiilor private americane de către agenția spațială americană pentru dezvoltarea de soluții proprii, comerciale, pentru lansarea astronauților pe orbită terestră joasă și ulterior contractarea acestor companii pentru asigurarea de zboruri cu echipaj spre Stația Spațială Internațională. Două companii fac parte din acest program: **SpaceX**, cu capsula _Dragon-2_ și racheta Falcon 9 Block 5, și **Boeing**, cu capsula _CST-100 Starliner_, lansată de o rachetă Atlas V modificată: varianta denumită N22 nu are con protector, este certificată pentru zboruri cu echipaj, folosește două boostere auxiliare cu combustibil solid (AJ-60A) și cu o treaptă secundară Centaur cu 2 motoare Aerojet Rocketdyne RL10A-4-2. Fiecare din cele două companii lanseze 6 misiuni cu echipaj spre ISS în perioada 2019--2024.
 
 
 ## SpaceX DM-1 (02-08 martie 2019) {#spacex-dm-1--02-08-martie-2019}
