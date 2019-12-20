@@ -24,7 +24,7 @@ draft = false
 | Changzheng-3A   | CHN  | CNSA        | 1994  | 4xYF-21C     | 8.5t  |        | 2.6t  | 27      | 27      | 0       |
 | Changzheng-3B   | CHN  | CNSA        | 1996  | 4xYF-21C     | 11.5t | 7.1t   | 5.5t  | 64      | 61      | 1+(2)   |
 | Changzheng-3C   | CHN  | CNSA        | 2008  | 4xYF-21C     |       |        | 3.9t  | 17      | 17      | 0       |
-| Changzheng-4B   | CHN  | CNSA        | 1999  | 4xYF-21C     | 4.2t  | 2.8t   | 1.5t  | 34      | 33      | 1       |
+| Changzheng-4B   | CHN  | CNSA        | 1999  | 4xYF-21C     | 4.2t  | 2.8t   | 1.5t  | 35      | 34      | 1       |
 | Changzheng-4C   | CHN  | CNSA        | 2006  | 4xYF-21C     | 4.2t  | 2.8t   | 1.5t  | 28      | 26      | 2       |
 | Changzheng-5    | CHN  | CNSA        | 2016  | 2xYF-100     | 25t   |        | 14t   | 2       | 1       | 1       |
 | Changzheng-5B   | CHN  | CNSA        | 2020  | 2xYF-100     |       |        |       | 0       | 0       | 0       |
