@@ -9,7 +9,7 @@ draft = false
 | 102 | 27.12 | ???? | Changzheng-5     | Shijian-20     | China   | Wenchang LC-1   | GEO   | Programat     |
 | 101 | 26.12 | 2312 | Rockot           | 3xGonets-M     | Rusia   | Plesetsk 133/3  | LEO   | Programat     |
 | 100 | 24.12 | 1215 | Proton-M         | Elektro-L3     | Rusia   | Baikonur 81/24  | GEO   | Programat     |
-| 99  | 20.12 | 1136 | Atlas V          | CST-100        | SUA     | SLC-41          | ISS   | Programat     |
+| 99  | 20.12 | 1136 | Atlas V          | CST-100        | SUA     | SLC-41          | ISS   | Succes        |
 | 98  | 20.12 | 0322 | Changzheng-4B    | CBERS-4A       | China   | Taiyuan-LC9     | SSO   | Succes        |
 | 97  | 18.12 | 0854 | Soyuz-STA        | CHEOPS         | Europa  | Kourou ELS      | SSO   | Succes        |
 | 96  | 17.12 | 0010 | Falcon 9         | JCSAT-18       | SUA     | CC SLC-40       | GTO   | Succes        |
