@@ -10,7 +10,9 @@
 
 ** Rachete, astronauți, stații spațiale și sonde interplanetare
 
-Siteul de față reprezintă o colecție personală de materiale, articole și notițe (mai mult sau mai puțin structurate) despre explorarea spațiului cosmic, adusă frecvent la zi și mereu extinsă, cu un accent pe rachete și lansări orbitale. Știrile sunt grupate în [[/bul][Buletine Cosmice]] (cu o frecvență aproximativ săptămânală), materiale care conțin detalii despre lansările orbitale, dar și noutăți cu privire la explorarea spațiului cosmic. [[/iss][Stația Spațială Internațională]] are o secțiune specială.
+Siteul de față reprezintă o colecție personală de materiale, articole și notițe (mai mult sau mai puțin structurate) despre explorarea spațiului cosmic, adusă frecvent la zi și mereu extinsă, cu un accent pe rachete și lansări orbitale. 
+
+Știrile sunt grupate în [[/bul][Buletine Cosmice]] (cu o frecvență aproximativ săptămânală), materiale care conțin detalii despre lansările orbitale, dar și noutăți cu privire la explorarea spațiului cosmic. [[/iss][Stația Spațială Internațională]] are o secțiune specială.
 
 - Lansări orbitale ([[/r/lansari2019][2019]]);
 - [[/m/sonde][Lista sondelor interplanetare active]];
@@ -1196,6 +1198,7 @@ Discuții despre o a treia generație, Athena III, au existat încă de când ra
 Lockheed Martin a dorit să participe și la programul NASA pentru stimularea sectorului privat în explorarea spațiului cu echipaj uman (COTS), propunând o variantă de Athena III care ne-ar fi adus aminte de boosterele cu combustibil solid atașate navetei spațiale. Noua rachetă urma să aibă trei trepteȘ Castor-120, Castor 30 și OAM. De două ori mai înaltă decât Athena I, Athena III urma să poată urca pe orbită polară 4.6 tone (de pe insula Kodiak) și 5.9 tone pe orbită joasă, de la baza din cape Canaveral. Însă Lockheed Martin nu a câștigat nici un contract COTS.
 
 Competitorul direct al Athenei este Minotaur, construită și operată de Orbital Sciences Corporation, iar US Air Force încearcă să angajeze mai mulți producători (printre care și SpaceX) în speranța că aceștia vor scădea costurile, în urma concurenței create. Diferența dintre Minotaur și Athena este că primul propulsor folosește componente rămase la de rachetele balistice intercontinentale în timp ce racheta celor de la Lockheed Martin este construită din materiale noi, ceea ce poate fi un dezavantaj când vine vorba de costuri. Athena ar avea nevoie de trei lansări anuale pentru a-și justifica la limită costurile de producție și de patru lansări pentru a deveni profitabilă din punct de vedere economic. Forțele aeriene și-au exprimat interesul pentru Athena, dar nu au făcut comenzi ferme în această direcție. Momentan, clienții pentru Athena III lipsesc, dar ea poate fi resuscitată oricând va fi nevoie de lansatoare de mici dimensiuni.
+
 
 * Materiale diverse
 :PROPERTIES:
@@ -2919,7 +2922,7 @@ Stația Spațială Internațională a avut parte deja de două activități extr
 ** Buletin Cosmic nr. 12
 :PROPERTIES:
 :EXPORT_FILE_NAME: 012
-:EXPORT_DATE: 2019-10-16
+:EXPORT_DATE: 2016-10-16
 :END:
 
 Ne-a părăsit astronomul Klim Churymov, unul dintre cei doi descoperitori ai cometei 67P, aflată în ultimii ani în centrul atenției datorită misiunii europene Rosetta. Acum două săptămâni, în 30 septembrie, misiunea Rosetta a luat sfârșit, prin plonjonul sondei spre suprafața cometei în jurul căreia s-a aflat în ultimii doi ani.
@@ -2943,7 +2946,7 @@ Tot la noapte, la ora 03:03, are loc lansarea noii rachete Antares, care benefic
 ** Buletin Cosmic nr. 11
 :PROPERTIES:
 :EXPORT_FILE_NAME: 011
-:EXPORT_DATE: 2019-09-06
+:EXPORT_DATE: 2016-09-06
 :END:
 
 Explozia rachetei Falcon 9 pe rampa de lansare SLC-40 a complexului de la Cape Canaveral nu a fost prima rachetă pierdută în 2016: cu câteva ore înainte, China a încercat să lanseze satelitul Gaofen-10 folosind o rachetă Changzheng 4C de la baza din Taiyuan, însă confirmarea oficială că încărcătura a fost plasată pe orbită nu a mai venit. Nici de la radarele americane, nici de la sursele din China, care nu au spus nimic nici despre lansarea în sine. În schimb, au fost găsite resturi ale rachetei în alte zone decât cele în care acestea ajungeau de obicei, confirmând că racheta suferise o problemă severă în timpul zborului, care a dus din păcate la pierderea satelitului.
