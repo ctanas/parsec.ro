@@ -1751,7 +1751,13 @@ Câteva noutăți despre planurile Rusiei cu privire la viitoarea capsulă rusea
 :EXPORT_HUGO_SECTION: bul
 :END:
 
-** Buletin Cosmic nr. 55 :atlasv:cst:100:iss:cz:4b:
+** TODO Buletin Cosmic nr. 56
+:PROPERTIES:
+:EXPORT_FILE_NAME: 055
+:EXPORT_DATE: 2019-12-01
+:END:
+   
+** TODO Buletin Cosmic nr. 55                      :atlasv:cst:100:iss:cz:4b:
 :PROPERTIES:
 :EXPORT_FILE_NAME: 054
 :EXPORT_DATE: 2019-12-25
@@ -1765,7 +1771,13 @@ Atlas V / CST-100 Starliner
 
 Changzheng-4B / CBERS-4A
 
+--- 
+
+Proton-M
+
 *** Alte evenimente
+
+Space Force
 
 ** Buletin Cosmic nr. 54 :spacex:falcon9:cz:3b:soyuz:bennu:
 :PROPERTIES:
