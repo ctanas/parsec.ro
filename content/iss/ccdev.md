@@ -14,14 +14,16 @@ _Demo Mission_ 1
 -   fără echipaj
 
 
-## Boeing OFT (fin 2018, înc. 2019) {#boeing-oft--fin-2018-înc-dot-2019}
+## Boeing OFT (20-22 decembrie 2019) {#boeing-oft--20-22-decembrie-2019}
 
 _Orbital Flight Test_
 
 -   fără echipaj
 
+Capsula CST-100 Starliner "Calypso" a fost lansată în 22 decembrie pentru un test fără echipaj pentru o andocare cu Stația Spațială Internațională. Primul zbor al rachetei Atlas V N22 (cu o treaptă Centaur cu două motoare) a decurs perfect și a înscris capsula pe o traiectorie suborbitală. Capsula trebuia să își folosească motoarele pentru sistemul de anulare al lansării pentru a înscrie capsula pe orbită, însă acest lucru nu s-a întâmplat din cauza desincronizării ceasului de la bordul capsulei (cu peste 11 ore!). Capsula a reușit inserția orbitală folosind mai multe manevre ale propulsoarelor de la bord, dar și-a consumat o bună parte din combustibil și andocarea cu ISS a fost anulată. Din fericire, capsula a reușit inserția pe o traiectorie stabilă, circulară (250km) și a revenit cu bine înapoi pe Pământ două zile mai târziu, duminică, 22 decembrie 2019, la baza aeriană de la White Sands, New Mexico.
 
-## SpaceX DM-2 (aprilie 2019) {#spacex-dm-2--aprilie-2019}
+
+## SpaceX DM-2 (aprilie 2020) {#spacex-dm-2--aprilie-2020}
 
 _Demo Mission 2_
 
@@ -29,7 +31,7 @@ _Demo Mission 2_
 -   **Doug Hurley** (pilot STS-135, Endeavor STS-127)
 
 
-## Boeing CFT (mijloc 2019) {#boeing-cft--mijloc-2019}
+## Boeing CFT (mijloc 2020) {#boeing-cft--mijloc-2020}
 
 _Crew Flight Test_
 
