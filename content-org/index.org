@@ -895,6 +895,7 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 |-------------------+------+-------------+------------+---------+-------+-------+-------+------+-------|
 | H-3               | JPN  | JAXA        |       2020 | LE-9    |       | 4t    | 6.5t  |      |       |
 |-------------------+------+-------------+------------+---------+-------+-------+-------+------+-------|
+| SSLV              | IND  | ISRO        |       2020 | S85 (s) |       | 0.3t  |       |      |       |
 | UMLV              | IND  | ISRO        |       202x | SCE-200 |       |       |       |      |       |
 |-------------------+------+-------------+------------+---------+-------+-------+-------+------+-------|
 | Angara-A5P        | RUS  | Roscosmos   |       2020 | RD-191  | 18t   |       |       |      |       |
@@ -1760,28 +1761,35 @@ Câteva noutăți despre planurile Rusiei cu privire la viitoarea capsulă rusea
 :END:
    
 
-** TODO Buletin Cosmic nr. 55                      :atlasv:cst:100:iss:cz:4b:
+** Buletin Cosmic nr. 55 :atlasv:cst:100:iss:cz4b:
 :PROPERTIES:
 :EXPORT_FILE_NAME: 055
 :EXPORT_DATE: 2019-12-25
 :END:
 
-
 *** Lansări orbitale
 
-Atlas V / CST-100 Starliner
+Vineri la ora 13:36, o rachetă Atlas V a lansat capsula CST-100 Starliner, varianta companiei Boeing prin care aceasta încearcă să lanseze astronauți pe orbită în viitorul apropiat. Lansatorul Atlas V a fost folosit într-o variantă unică, N22, adică fără con protector și cu o treaptă superioară Centaur cu două motoare. Racheta a funcționat impecabil și a înscris capsula pe o orbită suborbitală, conform planului. Asta pentru că Boeing dorea să folosească motoarele destinate sistemului de anulare al lansării pentru inserția finală a capsulei pe orbită, însă din cauză că ceasul computerului de bord a fost defazat cu 11 ore(!), manevra nu a fost executată și capsula risca astfel să se prăbușească înapoi pe Pământ. Mai mult decât atât, inginerii de la sol nu au avut o perioadă acces la telemetria capsulei pentru că sateliții din rețeaua TDRSS nu au fost aliniați astfel încât să poată comunica cu capsula. În cele din urmă însă, după o serie de mici manevre ale propulsoarelor de la bord, capsula a fost salvată și plasată pe o orbită circulară stabilă, la o altitudine de 250 km. Aceste manevre însă au consumat din combustibilul aflat la bord și astfel întâlnirea și andocarea programată să aibă loc cu Stația Spațială Internațională au fost amânate. 
+
+#+CAPTION: Racheta Altas V N22, cu capsula CST-100 Starliner "Calypso", înainte de lansare.
+[[/img/atlasvcst100.jpg]]
+
+Duminică, la două zile după lansare, capsula a revenit controlat înapoi pe Pământ, validând o mare parte din procedurile necesare unei misiuni cu echipaj. Aterizarea a avut loc în bune condiții la baza aeriană White Sands din New Mexico și NASA s-ar putea să nu mai solicite repetarea acestui zbor și să permită folosirea viitoarei capsule pentru un zbor cu echipaj la bord, lucru care probabil se va întâmpla anul viitor. După încheierea misiunii, Boeing a decis ca numele capsulei să fie Calypso.
 
 ---
 
-Changzheng-4B / CBERS-4A
+Tot vineri, o rachetă chinezească Changzheng-4B a lansat satelitul de observație CBERS-4A (dezvoltat în urma unei colaborări între China și Brazilia), dar și ETRSS-1, primul satelit pentru Etiopia, realizat de asemenea cu psirjin financiar chinezesc. Lansarea a avut loc la ora 05:21, de la centrul spațial Taiyuan, rampa LC9. Sateliții au fost plasați pe orbită heliosincronă. Lansarea de vineri a fost a 35-a pentru racheta Changzheng-4B, care poate urca până la 2.8 tone pe orbită heliosincronă.
 
 --- 
 
-Proton-M
+Marți, 24 decembrie, a avut loc a 1500-a lansare de la Baikonur. Racheta Proton-M, folosind treapta superioară Block DM-03, a lansat satelitul meteo Elektro-L3 (de peste 2 tone) pe orbită geostaționară. A fost a cincea lansare Proton-M din acest an, a 100-a lansare orbitală din 2019 și a 109-a lansare Proton-M din 2001, de când a fost introdusă această variantă a rachetei rusești (și a 98-a lansare cu succces). În același timp, a fost a 5-a lansare a unei rachete Proton-M cu o treaptă superioară DM-03 din 2010 (deși doar a treia care a putut fi folosită pentru că primele două au fost pierdute în urma unor lansări eșuate). DM-03 este o treaptă superioară evoluată din venerabila DM-02 și este propulsată de un motor RD-58F, urmând să fie folosită pentru noul lansator Angara.
+
+#+CAPTION:Cele 6 motoare RD-275M care propulsează prima treaptă a unei rachete Proton-M, în timpul lansării cu numărul 100 din anul 2019 și a 1500-a lansare de la Baikonur. (Sursă foto: /Roscosmos/)
+[[/img/protonm.jpg]]
 
 *** Alte evenimente
 
-Space Force
+Începând cu 20 decembrie (ziua în care a avut premiera cel mai recent film Star Wars), [[http://www.spaceforce.mil/][Space Force]] a devenit oficial a 6-a ramură a armatei Statelor Unite, primul serviciu de acest fel înființat după Forțele Aeriene în 1947. Aproximativ 16000 de militari din cadrul Forțelor Aeriene vor fi gradual transferați spre Forțele Spațiale. O altă urmare ar putea fi și redenumirea, în viitorul apropiat, a unor baze ale forțelor aeriene care au atribuții în activități spațiale (/Vandenberg/, /Patterson/ sau /Cape Canaveral/).
 
 ** Buletin Cosmic nr. 54 :spacex:falcon9:cz:3b:soyuz:bennu:
 :PROPERTIES:

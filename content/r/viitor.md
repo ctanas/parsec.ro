@@ -17,6 +17,7 @@ draft = false
 | Ariane 64         | EU   | Arianespace | 2020       | Vulcain | 21.6  | 14.9t | 11.5t |      |       |
 | Vega-C            | EU   | Arianespace | 2020       | P80     |       |       |       |      |       |
 | H-3               | JPN  | JAXA        | 2020       | LE-9    |       | 4t    | 6.5t  |      |       |
+| SSLV              | IND  | ISRO        | 2020       | S85 (s) |       | 0.3t  |       |      |       |
 | UMLV              | IND  | ISRO        | 202x       | SCE-200 |       |       |       |      |       |
 | Angara-A5P        | RUS  | Roscosmos   | 2020       | RD-191  | 18t   |       |       |      |       |
 | Soyuz-5 (Irtysh ) | RUS  | Roscosmos   | 2022       | RD-171  | 18t   |       | 5t    |      |       |
