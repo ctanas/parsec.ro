@@ -24,3 +24,12 @@ draft = false
 | Yenisei           | RUS  | Roscosmos   | 2028       | RD-171? | 103t  |       |       |      |       |
 | Changzheng-8      | CHN  | CNSA        | 2020       | YF-100  | 7.6t  | 4.5t  | 2.5t  |      |       |
 | Changzheng-9      | CHN  | CNSA        | 2030       |         | 140t  |       |       | 50t  | 44t   |
+
+LEO
+: orbită terestră joasă (200-2000 km)
+
+SSO
+: orbită heliosincronă (aprox. 500 km, înclinație 97.7 grade)
+
+GTO
+: orbită geostaționară de transfer (spre orbita geostaționară --GEO, cu apogeul la 35786 km)
