@@ -6,10 +6,10 @@ draft = false
 
 | Nr  | Data  | Ora  | Lansator         | Satelit        | Țara    | Rampa           | Ținta | Rezultat      |
 |-----|-------|------|------------------|----------------|---------|-----------------|-------|---------------|
-| 102 | 27.12 | ???? | Changzheng-5     | Shijian-20     | China   | Wenchang LC-1   | GEO   | Programat     |
-| 101 | 26.12 | 2312 | Rockot           | 3xGonets-M     | Rusia   | Plesetsk 133/3  | LEO   | Programat     |
-| 100 | 24.12 | 1215 | Proton-M         | Elektro-L3     | Rusia   | Baikonur 81/24  | GEO   | Succes        |
-| 99  | 20.12 | 1136 | Atlas V          | CST-100        | SUA     | SLC-41          | ISS   | Succes[^fn:1] |
+| 102 | 27.12 | 1245 | Changzheng-5     | Shijian-20     | China   | Wenchang LC-1   | GEO   | Succes        |
+| 101 | 26.12 | 2312 | Rockot           | 3xGonets-M     | Rusia   | Plesetsk 133/3  | LEO   | Succes[^fn:1] |
+| 100 | 24.12 | 1215 | Proton-M         | Elektro-L3     | Rusia   | Baikonur 81/24  | GEO   | Succes[^fn:2] |
+| 99  | 20.12 | 1136 | Atlas V          | CST-100        | SUA     | SLC-41          | ISS   | Succes[^fn:3] |
 | 98  | 20.12 | 0322 | Changzheng-4B    | CBERS-4A       | China   | Taiyuan-LC9     | SSO   | Succes        |
 | 97  | 18.12 | 0854 | Soyuz-STA        | CHEOPS         | Europa  | Kourou ELS      | SSO   | Succes        |
 | 96  | 17.12 | 0010 | Falcon 9         | JCSAT-18       | SUA     | CC SLC-40       | GTO   | Succes        |
@@ -39,7 +39,7 @@ draft = false
 | 72  | 09.10 | 1017 | Proton-M         | MEV-1/Eutelsat | Rusia   | Baikonur 200/39 | GEO   | Succes        |
 | 71  | 04.10 | 1851 | Changzheng-4C    | Gaofen-10R     | China   | Taiyuan LC-9    | SSO   | Succes        |
 | 70  | 26.09 | 0746 | Soyuz-2.1b       | Tundra         | Rusia   | Plesetsk 43/4   | MOL   | Succes        |
-| 69  | 25.09 | 1357 | Soyuz-FG         | Soyuz MS-15    | Rusia   | Baikonur 1/5    | ISS   | Succes[^fn:2] |
+| 69  | 25.09 | 1357 | Soyuz-FG         | Soyuz MS-15    | Rusia   | Baikonur 1/5    | ISS   | Succes[^fn:4] |
 | 68  | 25.09 | 0054 | Changzheng-2D    | Yunhai-1       | China   | Jiuquan         | SSO   | Succes        |
 | 67  | 24.09 | 1605 | H-2B             | HTV-8          | Japonia | Tanegashima     | ISS   | Succes        |
 | 66  | 22.09 | 2110 | Changzheng-3B    | Beidou-3       | China   | Xichang         | MEO   | Succes        |
@@ -50,7 +50,7 @@ draft = false
 | 61  | 22.08 | 1606 | Delta IV Medium  | GPS-III SV02   | SUA     | CC SLC-37B      | MEO   | Succes        |
 | 60  | 22.08 | 0338 | Soyuz-2.1a       | Soyuz MS-14    | Rusia   | Baikonur 31/6   | ISS   | Succes        |
 | 59  | 19.08 | 1212 | Electron         | BRO-1          | SUA     | Mahia LC-1      | LEO   | Succes        |
-| 58  | 19.08 | 1203 | Changzheng-3B/G2 | Chinasat-18    | China   | Xichang         | GEO   | Succes[^fn:3] |
+| 58  | 19.08 | 1203 | Changzheng-3B/G2 | Chinasat-18    | China   | Xichang         | GEO   | Succes[^fn:5] |
 | 57  | 17.08 | 0411 | Jielong-1        | QianSheng-1    | China   | Jiuquan         | SSO   | Succes        |
 | 56  | 08.08 | 1013 | Atlas V 551      | AEHF-5         | SUA     | CC SLC-41       | GEO   | Succes        |
 | 55  | 06.08 | 2323 | Falcon 9         | Amos-17        | SUA     | CC SLC-40       | GEO   | Succes        |
@@ -60,11 +60,11 @@ draft = false
 | 51  | 30.07 | 0556 | Soyuz-2.1a       | Meridian-8     | Rusia   | Plesetsk 43/4   | MOL   | Succes        |
 | 50  | 26.07 | 0357 | Changzheng-2C    | Yaogan-30      | China   | Xichang LC-3    | LEO   | Succes        |
 | 49  | 25.07 | 2201 | Falcon 9         | Dragon CRS-18  | SUA     | CC SLC-40       | ISS   | Succes        |
-| 48  | 25.07 | 0500 | Hyperbola-1      | CAS-7B         | China   | Jiuquan         | LEO   | Succes[^fn:4] |
+| 48  | 25.07 | 0500 | Hyperbola-1      | CAS-7B         | China   | Jiuquan         | LEO   | Succes[^fn:6] |
 | 47  | 22.07 | 0913 | GSLV Mk.III      | Chandrayaan-2  | India   | S-Dhawan SLP    | SNC   | Succes        |
 | 46  | 20.07 | 1628 | Soyuz-FG         | Soyuz MS-13    | Rusia   | Baikonur 1/5    | ISS   | Succes        |
 | 45  | 13.07 | 1230 | Proton-M         | Spektr-RG      | Rusia   | Baikonur 81/24  | LL2   | Succes        |
-| 44  | 11.07 | 0153 | Vega             | FalconEye-1    | Europa  | Kourou ELV      | LEO   | Eșec[^fn:5]   |
+| 44  | 11.07 | 0153 | Vega             | FalconEye-1    | Europa  | Kourou ELV      | LEO   | Eșec[^fn:7]   |
 | 43  | 10.07 | 1714 | Soyuz-2-1v       | Nivelir-L      | Rusia   | Plesetsk 43/4   | LEO   | Succes        |
 | 42  | 05.07 | 0541 | Soyuz-2.1b       | Meteor-M2-2    | Rusia   | Vostochny 1S    | SSO   | Succes        |
 | 41  | 29.06 | 0430 | Electron         | BS-Global-3    | SUA     | Mahia LC-1      | LEO   | Succes        |
@@ -76,7 +76,7 @@ draft = false
 | 35  | 30.05 | 1742 | Proton-M         | Yamal-601      | Rusia   | Baikonur 200/39 | GEO   | Succes        |
 | 34  | 27.05 | 0623 | Soyuz-2.1b       | GLONASS-M 758  | Rusia   | Plesetsk 43/4   | MEO   | Succes        |
 | 33  | 24.05 | 0230 | Falcon 9         | Starlink-1     | SUA     | CC SLC-40       | LEO   | Succes        |
-| 32  | 22.05 | 2249 | Changzheng-4C    | Yaogan-33      | China   | Taiyuan LC-9    | LEO   | Eșec[^fn:6]   |
+| 32  | 22.05 | 2249 | Changzheng-4C    | Yaogan-33      | China   | Taiyuan LC-9    | LEO   | Eșec[^fn:8]   |
 | 31  | 22.05 | 0000 | PSLV-CA          | RISAT-2B       | India   | S-Shawan FLP    | SSO   | Succes        |
 | 30  | 17.05 | 1548 | Changzheng-3C    | BeiDou-2 G8    | China   | Xichang LC-2    | MEO   | Succes        |
 | 29  | 05.05 | 0600 | Electron         | Harbinger      | SUA     | Mahia LC-1      | LEO   | Succes        |
@@ -90,7 +90,7 @@ draft = false
 | 21  | 01.04 | 0357 | PSLV-QL          | EMISAT         | India   | S-Dhawan SLP    | LEO   | Succes        |
 | 20  | 31.03 | 1550 | Changzheng-3B/E  | Tianlian-2-01  | China   | Xichang LC-2    | GEO   | Succes        |
 | 19  | 28.03 | 2230 | Electron         | R3D2           | SUA     | Mahia LC-1      | LEO   | Succes        |
-| 18  | 27.03 | 1039 | OS-M1            | Linque-1B      | China   | Jiquan SLS-2    | LEO   | Eșec[^fn:7]   |
+| 18  | 27.03 | 1039 | OS-M1            | Linque-1B      | China   | Jiquan SLS-2    | LEO   | Eșec[^fn:9]   |
 | 17  | 22.03 | 0150 | Vega             | PRISMA         | Europa  | Kourou ELV      | SSO   | Succes        |
 | 16  | 16.03 | 0026 | Delta-IV M+(5,4) | WGS-10         | SUA     | CC SLC-37B      | GEO   | Succes        |
 | 15  | 14.03 | 1914 | Soyuz-FG         | Soyuz MS-12    | Rusia   | Baikonur 1/5    | LEO   | Succes        |
@@ -141,10 +141,12 @@ MOL
 
 ## Note de subsol {#note-de-subsol}
 
-[^fn:1]: Racheta și treapta secundară au funcționat nominal, dar capsula CST-100 Starliner nu a mai ajuns la ISS din cauza unei probleme cu ceasul computerului de bord, care astfel nu a mai efectuat la timp o manevră de inserție pe orbita corectă.
-[^fn:2]: Ultima lansare a rachetei Soyuz-FG și [probabil ultima lansare de pe rampa istorică 1/5 de la Baikonur](/m/soyuz-fg).
-[^fn:3]: Prima lansare orbitală reușită a unei companii private din China.
-[^fn:4]: Racheta a urcat satelitul pe orbita corectă, dar ulterior acesta a suferit probleme tehnice.
-[^fn:5]: Prima lansare eșuată pentru racheta Vega, datorită unor probleme cu treapta secundară.
-[^fn:6]: Probleme cu a treia treaptă a rachetei Changzheng.
-[^fn:7]: Tentativa unei companii chinezești private de a pune pe orbită un satelit s-a încheiat cu un eșec după ce controlul rachetei a fost pierdut imediat după seprarea primei trepte.
+[^fn:1]: Probabil ultima lansarea a rachetei Rockot, cel puțin pentru sectorul militar.
+[^fn:2]: Lansarea cu numărul 1500 de la cosmodromul din Baikonur.
+[^fn:3]: Racheta și treapta secundară au funcționat nominal, dar capsula CST-100 Starliner nu a mai ajuns la ISS din cauza unei probleme cu ceasul computerului de bord, care astfel nu a mai efectuat la timp o manevră de inserție pe orbita corectă.
+[^fn:4]: Ultima lansare a rachetei Soyuz-FG și [probabil ultima lansare de pe rampa istorică 1/5 de la Baikonur](/m/soyuz-fg).
+[^fn:5]: Prima lansare orbitală reușită a unei companii private din China.
+[^fn:6]: Racheta a urcat satelitul pe orbita corectă, dar ulterior acesta a suferit probleme tehnice.
+[^fn:7]: Prima lansare eșuată pentru racheta Vega, datorită unor probleme cu treapta secundară.
+[^fn:8]: Probleme cu a treia treaptă a rachetei Changzheng.
+[^fn:9]: Tentativa unei companii chinezești private de a pune pe orbită un satelit s-a încheiat cu un eșec după ce controlul rachetei a fost pierdut imediat după seprarea primei trepte.

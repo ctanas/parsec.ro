@@ -718,6 +718,14 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 :END:
 
 ** Lansări orbitale
+*** TODO Lansări orbitale 2020
+:PROPERTIES:
+:EXPORT_FILE_NAME: lansari2020
+:END:
+
+| Nr. | Data | Lansator | Satelit | Masă | Tip | Țara | Rampa | Ținta | Rezultat | Buletin |
+|-----+------+----------+---------+------+-----+------+-------+-------+----------+---------|
+|     |      |          |         |      |     |      |       |       |          |         |
 
 *** Lansări orbitale 2019
 :PROPERTIES:
@@ -726,9 +734,9 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 
 |  Nr |  Data |  Ora | Lansator         | Satelit        | Țara    | Rampa           | Ținta | Rezultat           |
 |-----+-------+------+------------------+----------------+---------+-----------------+-------+--------------------|
-| 102 | 27.12 | ???? | Changzheng-5     | Shijian-20     | China   | Wenchang LC-1   | GEO   | Programat          |
-| 101 | 26.12 | 2312 | Rockot           | 3xGonets-M     | Rusia   | Plesetsk 133/3  | LEO   | Programat          |
-| 100 | 24.12 | 1215 | Proton-M         | Elektro-L3     | Rusia   | Baikonur 81/24  | GEO   | Succes             |
+| 102 | 27.12 | 1245 | Changzheng-5     | Shijian-20     | China   | Wenchang LC-1   | GEO   | Succes             |
+| 101 | 26.12 | 2312 | Rockot           | 3xGonets-M     | Rusia   | Plesetsk 133/3  | LEO   | Succes[fn:rroct]   |
+| 100 | 24.12 | 1215 | Proton-M         | Elektro-L3     | Rusia   | Baikonur 81/24  | GEO   | Succes[fn:rp1500]  |
 |  99 | 20.12 | 1136 | Atlas V          | CST-100        | SUA     | SLC-41          | ISS   | Succes[fn:rcst100] |
 |  98 | 20.12 | 0322 | Changzheng-4B    | CBERS-4A       | China   | Taiyuan-LC9     | SSO   | Succes             |
 |  97 | 18.12 | 0854 | Soyuz-STA        | CHEOPS         | Europa  | Kourou ELS      | SSO   | Succes             |
@@ -856,6 +864,10 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 
 **** Note de subsol
 
+[fn:rroct] Probabil ultima lansarea a rachetei Rockot, cel puțin pentru sectorul militar.
+
+[fn:rp1500] Lansarea cu numărul 1500 de la cosmodromul din Baikonur.
+
 [fn:rosm1] Tentativa unei companii chinezești private de a pune pe orbită un satelit s-a încheiat cu un eșec după ce controlul rachetei a fost pierdut imediat după seprarea primei trepte.
 
 [fn:rcz4c] Probleme cu a treia treaptă a rachetei Changzheng.
@@ -925,7 +937,7 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 |------------------+------+-------------+-------+--------------+-------+--------+-------+---------+---------+---------|
 | Soyuz-2          | RUS  | Roscosmos   |  2004 | 1xRD-108A    | 8.2t  | 4.9t   | 3.2t  |      96 |      89 |   4+(3) |
 | Proton-M         | RUS  | Roscosmos   |  2001 | 6xRD-275M    | 23t   |        | 6.3   |     109 |      98 |   9+(2) |
-| Rockot           | RUS  | Roscosmos   |  1994 | 3xRD-0233    | 1.9t  | 1.2t   |       |      33 |      30 |   2+(1) |
+| Rockot           | RUS  | Roscosmos   |  1994 | 3xRD-0233    | 1.9t  | 1.2t   |       |      34 |      31 |   2+(1) |
 | Angara           | RUS  | Roscosmos   |  2014 | 1xRD-191     | 3.8t  |        | 5.4t  |       2 |       2 |       0 |
 |------------------+------+-------------+-------+--------------+-------+--------+-------+---------+---------+---------|
 | Changzheng-2C    | CHN  | CNSA        |  1982 | 4xYF-21C     | 3.85t | 1.9t   | 1.25t |      51 |      50 |       1 |
@@ -936,7 +948,7 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 | Changzheng-3C    | CHN  | CNSA        |  2008 | 4xYF-21C     |       |        | 3.9t  |      17 |      17 |       0 |
 | Changzheng-4B    | CHN  | CNSA        |  1999 | 4xYF-21C     | 4.2t  | 2.8t   | 1.5t  |      35 |      34 |       1 |
 | Changzheng-4C    | CHN  | CNSA        |  2006 | 4xYF-21C     | 4.2t  | 2.8t   | 1.5t  |      28 |      26 |       2 |
-| Changzheng-5     | CHN  | CNSA        |  2016 | 2xYF-100     | 25t   |        | 14t   |       2 |       1 |       1 |
+| Changzheng-5     | CHN  | CNSA        |  2016 | 2xYF-100     | 25t   |        | 14t   |       3 |       2 |       1 |
 | Changzheng-5B    | CHN  | CNSA        |  2020 | 2xYF-100     |       |        |       |       0 |       0 |       0 |
 | Changzheng-6     | CHN  | CNSA        |  2015 | 1xYF-100     |       | 1t     |       |       3 |       3 |       1 |
 | Changzheng-7     | CHN  | CNSA        |  2016 | 2xYF-100     | 13.5t |        | 5.5t  |       2 |       2 |       0 |
@@ -1754,12 +1766,23 @@ Câteva noutăți despre planurile Rusiei cu privire la viitoarea capsulă rusea
 :EXPORT_HUGO_SECTION: bul
 :END:
 
-** TODO Buletin Cosmic nr. 56
+** TODO Buletin Cosmic nr. 56 :cz5:rockot:
 :PROPERTIES:
 :EXPORT_FILE_NAME: 056
 :EXPORT_DATE: 2019-12-01
 :END:
    
+*** Lansări orbitale
+
+Rockot
+
+Changzheng-5
+
+*** Alte evenimente
+
+Progress-MS ISS
+
+Turism spațial
 
 ** Buletin Cosmic nr. 55 :atlasv:cst100:iss:cz4b:
 :PROPERTIES:
@@ -1797,7 +1820,7 @@ Marți, 24 decembrie, a avut loc a 1500-a lansare de la Baikonur. Racheta Proton
 
 Satelitul rusesc Meteor-M 2-2 a suferit miercuri, 18 decembrie, o coliziune cu un meteroid sau un fragment de deșeu orbital și a fost nefuncțional câteva zile. Între timp inginerii au reușit să-l stabilizeze și acum este din nou funcțional. Satelitul are 2750 de kilograme și a fost lansat în 5 iulie de o rachetă Soyuz-2.1b/Fregat-M pe orbită heliosincronă 812x817 km, înclinație 98.56 grade. Evenimentul este investigat și în prezent deoarece nu se cunoaște cu exactitate originea fragmentului care a provocat coliziunea.
 
-** Buletin Cosmic nr. 54 :spacex:falcon9:cz:3b:soyuz:bennu:
+** Buletin Cosmic nr. 54 :spacex:falcon9:cz3b:soyuz:bennu:
 :PROPERTIES:
 :EXPORT_FILE_NAME: 054
 :EXPORT_DATE: 2019-12-18
@@ -2571,7 +2594,7 @@ Până în aprilie însă, sâmbătă SpaceX are de trecut un test important sâ
 
 Și tot vineri, 22 februarie, prima lansare a unei rachete Soyuz din acest an era să se încheie prost, datorită unei probleme la a doua treaptă a rachetei, însă a treia treaptă (Fregat) a reușit să corecteze orbita greșită și să salveze astfel lansarea satelitului militar egiptean EgyptSat-A. Acest incident a dus la amânarea cu o zi a lansării unei rachete Soyuz din Guiana Franceză de către compania europeană Arianespace și probabil nu va afecta viitoarea lansare a capsulei Soyuz MS-12, programată pentru 14 martie. Soyuz MS-12 are un echipaj format din trei astronauți: Alexei Ovchinin și Nick Hague (protagoniștii lansării ratate Soyuz MS-10 din noiembrie, în urma căreia cei doi au scăpat nevătămați chiar dacă racheta Soyuz s-a dezintegrat la scurt timp după lansare) cărora li se adaugă și astronautul american Christina Koch.
 
-** Buletin Cosmic nr. 28 :opportuniy:marte:mer:
+** Buletin Cosmic nr. 28 :opportunity:marte:mer:
 :PROPERTIES:
 :EXPORT_FILE_NAME: 028 
 :EXPORT_DATE: 2019-02-20

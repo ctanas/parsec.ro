@@ -16,7 +16,7 @@ draft = false
 | Minotaur V      | SUA  | NGSSG       | 2013  | Castor(S)    |       |        | 0.53t | 1       | 1       | 0       |
 | Soyuz-2         | RUS  | Roscosmos   | 2004  | 1xRD-108A    | 8.2t  | 4.9t   | 3.2t  | 96      | 89      | 4+(3)   |
 | Proton-M        | RUS  | Roscosmos   | 2001  | 6xRD-275M    | 23t   |        | 6.3   | 109     | 98      | 9+(2)   |
-| Rockot          | RUS  | Roscosmos   | 1994  | 3xRD-0233    | 1.9t  | 1.2t   |       | 33      | 30      | 2+(1)   |
+| Rockot          | RUS  | Roscosmos   | 1994  | 3xRD-0233    | 1.9t  | 1.2t   |       | 34      | 31      | 2+(1)   |
 | Angara          | RUS  | Roscosmos   | 2014  | 1xRD-191     | 3.8t  |        | 5.4t  | 2       | 2       | 0       |
 | Changzheng-2C   | CHN  | CNSA        | 1982  | 4xYF-21C     | 3.85t | 1.9t   | 1.25t | 51      | 50      | 1       |
 | Changzheng-2D   | CHN  | CNSA        | 1992  | 4xYF-21C     | 3.5t  | 1.3t   |       | 44      | 43      | 1       |
@@ -26,7 +26,7 @@ draft = false
 | Changzheng-3C   | CHN  | CNSA        | 2008  | 4xYF-21C     |       |        | 3.9t  | 17      | 17      | 0       |
 | Changzheng-4B   | CHN  | CNSA        | 1999  | 4xYF-21C     | 4.2t  | 2.8t   | 1.5t  | 35      | 34      | 1       |
 | Changzheng-4C   | CHN  | CNSA        | 2006  | 4xYF-21C     | 4.2t  | 2.8t   | 1.5t  | 28      | 26      | 2       |
-| Changzheng-5    | CHN  | CNSA        | 2016  | 2xYF-100     | 25t   |        | 14t   | 2       | 1       | 1       |
+| Changzheng-5    | CHN  | CNSA        | 2016  | 2xYF-100     | 25t   |        | 14t   | 3       | 2       | 1       |
 | Changzheng-5B   | CHN  | CNSA        | 2020  | 2xYF-100     |       |        |       | 0       | 0       | 0       |
 | Changzheng-6    | CHN  | CNSA        | 2015  | 1xYF-100     |       | 1t     |       | 3       | 3       | 1       |
 | Changzheng-7    | CHN  | CNSA        | 2016  | 2xYF-100     | 13.5t |        | 5.5t  | 2       | 2       | 0       |
