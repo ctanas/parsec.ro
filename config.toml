@@ -19,8 +19,8 @@ logofile2= "/img/logo_large.png"
 logofile = "/img/logo.png"
 highlightjs = false
 progressively = true
-facebook = "https://www.facebook.com/parsec.ro"
-twitter = "https://www.twitter.com/superparsec"
+facebook = "parsec.ro"
+twitter = "superparsec"
 email = "contact@parsec.ro"
 
 [[params.best_posts]]
