@@ -24,7 +24,7 @@ parsec.ro este un proiect în care investesc de peste 10 ani timp, energie și r
 
 Dacă doriți și vă place ce găsiți pe parsec.ro, puteți susține acest proiect prin platforma [Patreon](<https://www.patreon.com/superparsec>).
 
-Mulțumesc [Bradbura Productions](<https://www.facebook.com/Brandbura/>) pentru ofertă, răbdare și munca depusă pro-bono pentru noul logo!
+Mulțumesc [Brandbura Productions](<https://www.facebook.com/Brandbura/>) pentru ofertă, răbdare și munca depusă pro-bono pentru noul logo!
 
 
 ## Detalii tehnice {#detalii-tehnice}
