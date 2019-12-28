@@ -368,7 +368,7 @@ h6 {
 
     tr th, tr td {
     font-family: monospace;      /* Monospace font, for better data display */
-    font-size: small;          		     /* Small fonts, to fit more data */
+    font-size: medium;          		     /* Small fonts, to fit more data */
     line-height: 1.4;          /* No need to waste much space */
     padding: 0px 0px 0px 12px; /* Make it more readeable, leave some space between columns,*/
 	}                          /* maybe there's a more elegant solution to it?*/
