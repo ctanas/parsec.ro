@@ -14,16 +14,16 @@ Siteul de față reprezintă o colecție personală de materiale, articole și n
 
 Știrile sunt grupate în [[/bul][Buletine Cosmice]] (cu o frecvență aproximativ săptămânală), materiale care conțin detalii despre lansările orbitale, dar și noutăți cu privire la explorarea spațiului cosmic. [[/iss][Stația Spațială Internațională]] are o secțiune specială.
 
-- Lansări orbitale ([[/r/lansari2019][2019]]);
-- [[/m/sonde][Lista sondelor interplanetare active]];
-- [[/r/rachete][Lista rachetelor active]] (/draft/, tabel sinoptic);
-- Detalii despre rachetele active (/draft/, deocamdată doar [[/r/antares][Antares]] și [[/r/soyuz-2][Soyuz-2]]);
-- [[/r/viitor][Rachete aflate în dezvoltare]] (/draft/, tabel sinoptic);
-- [[/x/falcon9][Lista treptelor primare Falcon 9 Block 5]];
-- Programe spațiale active (selecție: [[/p/china][China]], [[/p/india][India]], [[/p/iran][Iran]]);
-- Alte navete spațiale: [[/m/x37b][X-37B]], [[/m/buran][Buran]];
-- [[/m/meteoriti][Meteoriți]]: informații generale și lista meteoriților românești (/draft/);
-- Articole diverse ([[/m/soyuz-fg][Soyuz-FG]], [[/m/olimp-k][Olimp-K]]).
++ *Lansări orbitale* ( [[/r/lansari2020/][2020]] | [[/r/lansari2019][2019]] );
++ [[/m/sonde][Lista sondelor interplanetare active]];
++ [[/r/rachete][Lista rachetelor active]] (/draft/, tabel sinoptic);
++ Detalii despre rachetele active (/draft/, deocamdată doar [[/r/antares][Antares]] și [[/r/soyuz-2][Soyuz-2]]);
++ [[/r/viitor][Rachete aflate în dezvoltare]] (/draft/, tabel sinoptic);
++ [[/x/falcon9][Lista treptelor primare Falcon 9 Block 5]];
++ Programe spațiale active (selecție: [[/p/china][China]], [[/p/india][India]], [[/p/iran][Iran]]);
++ Alte navete spațiale: [[/m/x37b][X-37B]], [[/m/buran][Buran]];
++ [[/m/meteoriti][Meteoriți]]: informații generale și lista meteoriților românești (/draft/);
++ Articole diverse ([[/m/soyuz-fg][Soyuz-FG]], [[/m/olimp-k][Olimp-K]]).
 
 
 * About
@@ -718,7 +718,7 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 :END:
 
 ** Lansări orbitale
-*** TODO Lansări orbitale 2020
+*** Lansări orbitale 2020
 :PROPERTIES:
 :EXPORT_FILE_NAME: lansari2020
 :END:
@@ -2749,7 +2749,7 @@ Marți, 15 ianuarie 2019, Iran [[https://apnews.com/a8c2f77cc86747f68c8ca3e05a52
 
 Varianta audio a acestui text poate fi ascultat pe la [[https://radioromaniacultural.ro/buletin-cosmic-15/][Radio România Cultural]].
 
-** Buletin Cosmic nr. 23
+** Buletin Cosmic nr. 23 :osirisrex:newhorizons:ultimathule:change4:falcon9:dragon:crs16:
 :PROPERTIES:
 :EXPORT_FILE_NAME: 023
 :EXPORT_DATE: 2019-01-16
@@ -2777,7 +2777,7 @@ O rachetă Falcon 9, folosită pentru a doua oară, a lansat ultimii 10 sateliț
 
 Varianta audio a acestui articol poate fi ascultată în cadrul emisiunii [[https://radioromaniacultural.ro/buletin-cosmic-14/][Știința în Cuvinte Potrivite]] de la Radio România Cultural.
 
-** Buletin Cosmic nr. 22
+** Buletin Cosmic nr. 22 :dearmoon:htv7:delta2:elonmusk:maezawa:
 :PROPERTIES:
 :EXPORT_FILE_NAME: 022
 :EXPORT_DATE: 2018-09-19
@@ -2797,7 +2797,7 @@ Sâmbătă a avut loc ultima lansare a unei rachete Delta II, după 29 de ani de
 
 Buletinul Cosmic poate fi ascultat și la [[https://radioromaniacultural.ro/buletin-cosmic-3/][Radio România Cultural]].
 
-** Buletin Cosmic nr. 21
+** Buletin Cosmic nr. 21 :iss:soyuz:ms07:falcon9:ses12:gaofen6:changzheng2D:
 :PROPERTIES:
 :EXPORT_FILE_NAME: 021
 :EXPORT_DATE: 2018-06-06
@@ -2808,7 +2808,9 @@ Duminică au revenit pe Pământ, după 168 de zile petrecute la bordul Stației
 ---
 
 Sâmbătă a fost descoperit un nou asteroid de mici dimensiuni (aproximativ 2-3 metri în diametru) care, la câteva ore după ce a fost identificat, a plonjat în atmosfera Pământului, dezintegrându-se deasupra Africii de Sub și a Botswanei, aparent complet, fără fragmente care să ajungă la sol, deci fără să prezinte un pericol pentru populație. El a fost botezat post-mortem 2018LA. A fost pentru a treia oară când sistemele de detecție au identificat un asteroid înainte ca acesta să intre în atmosfera Pământului.
+
 Tot un asteroid a fost observat dezintegrându-se violent vineri, 1 iunie, deasupra orașului chinezesc Jinghong, iar câteva ore mai târziu în presă au apărut imagini cu presupuse fragemente din acesta. Asteroidul nu a fost identificat înainte de intrarea în atmosferă, dar este probabil mai mare decât 2018LA, din moment ce au fost recuperate deja fragmente din acesta.
+
 Totuși, cele două evenimente sunt absolut normale: 40 de tone de material cosmic intră zilnic în atmosfera Pământului, dar peste 95% din acesta arde complet înainte să ajungă pe suprafața planetei noastre. Iar restul ajunge, de cee mai multe ori, în oceane sau zone nelocuite, pentru că, să nu uităm, suprafața locuită a planetei noastre abia dacă ajunge la 1-2% din suprafața totală.
 
 ---
@@ -2819,7 +2821,7 @@ SpaceX a reușit luni dimineață a 11-a lansare din 2018, urcând pe orbită sa
 
 Sâmbătă dimineața, China a lansat a 16-a rachetă din acest an, un model Changzheng 2D, transportând pe orbită satelitul de observații Gaofen-6 și satelitul de mici dimensiuni Luojia-1. China a egalat deja numărul de lansări proprii din 2017 și este la egalitate cu SUA în acest moment, într-un clasament al anului 2018, dar plănuiește să lanseze 40 de rachete până la sfârșitul anului. SpaceX este singura companie care poate să-i țină piept și să mențină SUA pe locul 1 până la sfărșitul lui 2018.
 
-** Buletin Cosmic nr. 20
+** Buletin Cosmic nr. 20 :albean:venus:falcon9:iridium:
 :PROPERTIES:
 :EXPORT_FILE_NAME: 020
 :EXPORT_DATE: 2018-05-30
@@ -2843,7 +2845,7 @@ Poimâine este programată o nouă lansare Falcon 9, de această dată de la Cap
 
 Varianta audio a acestui Buletin Cosmic poate fi ascultat la [[https://radioromaniacultural.ro/buletinul-cosmic-5/][Radio România Cultural]].
 
-** Buletin Cosmic nr. 19
+** Buletin Cosmic nr. 19 :cygnus:changzheng4c:falcon9:
 :PROPERTIES:
 :EXPORT_FILE_NAME: 019
 :EXPORT_DATE: 2018-05-25
@@ -2863,7 +2865,7 @@ Racheta chineză Changzheng 4C a lansat în noaptea de duminică spre luni un sa
 
 Ieri seară, SpaceX a reușit a 55-a lansare Falcon 9 și a 10-a din acest an (incluzând aici și Falcon Heavy), lansând pe orbită încă 5 sateliți din constelația Iridium NEXT (ajunsă acum la 55 de sateliți de nouă generație), dar și doi sateliți ai NASA, denumiți GRACE-FO. Prima treaptă nu a mai fost recuperată, pentru că se afla deja la al doilea zbor și SpaceX nu dorește să-și forțeze norocul și să folosească de mai mult de două ori o primă treaptă Block 4. Această treaptă primară a mai fost folosită și în ianuarie, pentru lansarea controversatului satelit secret Zuma și refolosirea ei astăzi stabilește un record pentru SpaceX în ceea ce privește perioada de timp dintre două lansări ale aceleiași prime trepte. Oricum, ei doresc acum să scape de treptele primare de generație veche și să se concentreze doar pe Block 5, care vor putea fi refolosite de cel puțin 10 ori fără inspecții amănunțite între zboruri (primul zbor Block 5 a avut loc în 11 mai și următorul probabil în luna iulie, iar Elon Musk a promis anul viitor două zboruri ale aceleeași trepte primare în mai puțin de 24 de ore). Din păcate, recuperarea unei jumătăți a conului protector al rachetei nu a reușit nici de această dată, chiar dacă vaporul Mr. Steven era în larg, cu plasa larg desfăcută. Acest con protector acoperă încărcătura în primele minute ale zborului și asigură rachetei un profil aerodinamic adecvat, dar costă aproximativ 6 milioane de dolari, așa că dacă SpaceX reușește să o recupereze, va mai reduce din costurile unei lansări.
 
-** Buletin Cosmic nr. 18
+** Buletin Cosmic nr. 18 :falcon9:bepicolombo:galileo:
 :PROPERTIES:
 :EXPORT_FILE_NAME: 018
 :EXPORT_DATE: 2018-05-16
@@ -2883,7 +2885,7 @@ Galileo este o sondă interplanetară americană, lansară în 1989 de către na
 
 Rick Arnold și Drew Feustel, doi dintre astronauții care se află în acest moment pe Stația Spațială Europană, se pregătesc pentru cea de-a 210 activitate extravehiculară de pe ISS. Cei doi vor îmbrăca costumele de astronauți și vor ieși astăzi în afara stației, pentru operațiuni de mentenanță, care au loc regulat pe orbită. Duminică spre ISS va porni o nouă capsulă cu echipamente, provizii și experimente științifice, de această dată fiind vorba despre o capsulă Cygnus, lansată de o rachetă Antares, ambele construite de firma americană Orbital ATK. Cygnus și Dragon sunt cele două capsule americane care pot fi folosite pentru aprovizionarea SSI, alături de nava Progress rusească și de capsula HTV japoneză.
 
-** Buletin Cosmic nr. 17
+** Buletin Cosmic nr. 17 :atlasv:insight:dragon:falcon9:changzheng3b:
 :PROPERTIES:
 :EXPORT_FILE_NAME: 017
 :EXPORT_DATE: 2018-05-09
@@ -2911,7 +2913,7 @@ Până în prezent au avut loc 42 de lansări în total în 2018, clasamentul mo
 
 Varianta audio a acestui Buletin Cosmic poate fi ascultată la [[https://radioromaniacultural.ro/buletinul-cosmic-2/][Radio România Cultural]].
 
-** Buletin Cosmic nr. 16
+** Buletin Cosmic nr. 16 :tgo:korolev:insight:gaia:newshepard:blueorigin:
 :PROPERTIES:
 :EXPORT_FILE_NAME: 016
 :EXPORT_DATE: 2018-05-02
@@ -2935,7 +2937,7 @@ Sonda europeană Gaia a fost lansată în 19 decembrie 2013, de Arianespace folo
 
 Varianta audio a acestui material poate fi ascultată la [[https://radioromaniacultural.ro/buletinul-cosmic/][Radio România Cultural]]. 
 
-** Buletin Cosmic nr. 15
+** Buletin Cosmic nr. 15 :falcon9:tess:nasa:rockot:sentinel:
 :PROPERTIES:
 :EXPORT_FILE_NAME: 015
 :EXPORT_DATE: 2018-04-24
@@ -2963,7 +2965,7 @@ Pentru zilele următoare sunt programate doar două noi lansări. O rachetă rus
 
 Joi dimineața, de la 07:40, o rachetă Changzheng-11 de calibru mic, cu combustibil solid, va lansa un satelit comercial Zhuhai 1, de la baza din Jiuquan, China.
 
-** Buletin Cosmic nr. 14
+** Buletin Cosmic nr. 14 :changzheng4c:gaofen:pslv:irnss:x37b:otv5:
 :PROPERTIES:
 :EXPORT_FILE_NAME: 014
 :EXPORT_DATE: 2018-04-17
@@ -2991,7 +2993,7 @@ Lansarea unei rachete Falcon 9 care urma să urce pe orbită satelitul TESS al N
 
 Orbital ATK, companie formată recent prin fuziunea dintre ATK (Alliant Techsystems) și Orbital Sciences (2015), a anunțat detalii despre noua rachetă cu care urmează să intre pe piața lansărilor guvernamentale și comerciale, sperând astfel să devină un concurent pentru SpaceX, ULA sau Blue Origin. Finanțată parțial de Forțele Aeriene SUA, noua rachetă, denumită OmegA, are trei trepte: primele două cu combustibil solid (vor putea fi atașate și boostere auxiliare, cel mult 6), iar a treia treaptă are combustibil lichid, fiind propulsată de un motor RL-10, același motor care este folosit și de treapta superioară Centaur a rachetelor Atlas V. OmegA va avea două variante (medie și grea) și va putea lansa 10 tone pe orbită geostaționară de transfer (GTO) sau 7.8 tone direct pe orbită geostaționară (GEO). OmegA se va alătura portofoliului de lansatoare Orbital ATK, din care mai fac parte rachetele (ușoare) Pegasus și Minotaur sau Antares (clasă medie).
 
-** Buletin Cosmic nr. 13
+** Buletin Cosmic nr. 13 :spacex:falcon9:changzheng3b:kuaizhou1a:iss:atlasv:
 :PROPERTIES:
 :EXPORT_FILE_NAME: 013
 :EXPORT_DATE: 2017-01-15
@@ -3015,7 +3017,7 @@ Pentru ianuarie sunt programate încă 6 misiuni, următoarea fiind prima lansar
 
 Stația Spațială Internațională a avut parte deja de două activități extravehiculare, pentru un upgrade al sistemului electric și al bateriilor plasate în afara stației, îmbunătățind stocarea energiei electrice pentru următorii ani. În 6 ianuarie Shane Kimbrough și Peggy Whitson au demarat prima parte a acestei activități, continuată vineri de Shane Kimbrough și europeanul Thomas Pesquet. De la pupitrul camerei de comandă din Houston, cei doi au fost coordonați de un alt european, fost rezident al SSI în 2013, Luca Parmitano. Cele două activități extravehiculare au fost un succes, următoarele fiind deja planificate pentru martie.
 
-** Buletin Cosmic nr. 12
+** Buletin Cosmic nr. 12 :churymov:exomars:schiaparelli:shenzhou11:antares:cygnus:
 :PROPERTIES:
 :EXPORT_FILE_NAME: 012
 :EXPORT_DATE: 2016-10-16
@@ -3039,7 +3041,7 @@ Tot la noapte, la ora 03:03, are loc lansarea noii rachete Antares, care benefic
 
 Și tot spre Stația Spațială Internațională va porni o capsulă Soyuz în dimineața zilei de miercuri (11:05), care îi va transporta pe Sergei Ryzhikov, Andrei Borisenko și pe Shane Kimbrough pe orbită, urmând ca după un drum de două zile aceștia să andocheze la stația spațială. Lansarea Soyuz a fost amânată timp de câteva săptămâni datorită unui scurt-circuit cauza de un cablu electric din interiorul capsulei, rămas fără izolație. Ingierii ruși au rezolvat problema fără a demonta întreaga capsulă și aceasta este acum gata de zbor.
 
-** Buletin Cosmic nr. 11
+** Buletin Cosmic nr. 11 :falcon9:osirisrex:soyuz:tma20m:rusia:juno:
 :PROPERTIES:
 :EXPORT_FILE_NAME: 011
 :EXPORT_DATE: 2016-09-06
@@ -3083,7 +3085,7 @@ Alte vești bune vin de pe orbita lui Jupiter, de unde Juno ne-a trimis imagini 
 
 La mijlocul acestei luni, China plănuiește lansarea noii sale stații orbitale, de fapt un modul, denumit Tiangong-2, o versiunea îmbunătățită a precedentei stații Tiangong-1 (care se află pe orbită și acum, dar este dezafectată și nu se știe exact dacă mai poate fi controlată). Pentru lansarea Tiangong-2 se va folosi lansatorul Changzheng 2F și un echipaj urmează să andocheze cu noua stație orbitală în cursul acestui an, cel mai probabil în octombrie, când va avea loc și lansarea noului lansator Changzheng 5.
 
-** Buletin Cosmic nr. 10
+** Buletin Cosmic nr. 10 :delta4:changzheng2d:eva:ida:
 :PROPERTIES:
 :EXPORT_FILE_NAME: 010
 :EXPORT_DATE: 2016-08-17

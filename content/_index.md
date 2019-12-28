@@ -10,7 +10,7 @@ Siteul de față reprezintă o colecție personală de materiale, articole și n
 
 Știrile sunt grupate în [Buletine Cosmice](/bul) (cu o frecvență aproximativ săptămânală), materiale care conțin detalii despre lansările orbitale, dar și noutăți cu privire la explorarea spațiului cosmic. [Stația Spațială Internațională](/iss) are o secțiune specială.
 
--   Lansări orbitale ([2019](/r/lansari2019));
+-   **Lansări orbitale** ( [2020](/r/lansari2020/) | [2019](/r/lansari2019) );
 -   [Lista sondelor interplanetare active](/m/sonde);
 -   [Lista rachetelor active](/r/rachete) (_draft_, tabel sinoptic);
 -   Detalii despre rachetele active (_draft_, deocamdată doar [Antares](/r/antares) și [Soyuz-2](/r/soyuz-2));
