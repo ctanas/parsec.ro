@@ -1799,6 +1799,28 @@ Câteva noutăți despre planurile Rusiei cu privire la viitoarea capsulă rusea
 :EXPORT_HUGO_SECTION: bul
 :END:
 
+** TODO Buletin Cosmic nr. 57 :spacex:starlink:falcon9:cz3b:crs19:
+:PROPERTIES:
+:EXPORT_FILE_NAME: 057
+:EXPORT_DATE: 2020-01-08
+:END:
+
+*** Lansări orbitale
+
+Starlink-2
+
+Changzheng-3B
+
+*** Alte evenimente
+
+CRS-19
+
+Chandrayan-3
+
+Chang'E-4 date
+
+Astronauți indieni, antrenament Rusia
+
 ** Buletin Cosmic nr. 56 :cz5:rockot:progress:soyuz:iss:
 :PROPERTIES:
 :EXPORT_FILE_NAME: 056
