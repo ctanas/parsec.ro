@@ -11,7 +11,7 @@ DefaultContentLanguage = "ro"
 googleAnalytics = "UA-19421559-1"
 
 [params]
-copyright = "©2009-2019 parsec.ro | un site de Claudiu Tănăselia."
+copyright = "©2009-2020 parsec.ro | un site de Claudiu Tănăselia."
 copyrightUrl = "https://www.parsec.ro"
 faviconfile = "/img/favicon.ico"
 latestpostcount = 8
