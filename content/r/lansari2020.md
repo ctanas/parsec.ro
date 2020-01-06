@@ -12,7 +12,7 @@ draft = false
 
 ## Legendă tabel {#legendă-tabel}
 
--   **Data lansării**: ora lansării este UTC, data exprimată în formatul ZZ.LL;
+-   **Data lansării**: data și ora lansării este UTC, data exprimată în formatul ZZ.LL HH:MM;
 -   **Lansator**: racheta, varianta folosită și treapta superioară (unde este cazul);
 -   **Satelit**: este menționat doar un satelit, cel principal; unde este cazul, este specificat numărul sateliților identici;
 -   **Tip**:
@@ -22,6 +22,7 @@ draft = false
     -   COM (satelit telecomunicații, militar sau civil)
     -   OBS (satelit de observație, militar sau civil)
     -   MET (satelit meteorologic, militar sau civil)
+    -   MIL (satelit militar sau secret)
 -   **Masa**: exprimată în tone;
 -   **Ținta**:
     -   LEO (orbita terestră joasă, între 200-2000 km altitudine)
