@@ -31,6 +31,7 @@ draft = false
 1.  2018-09-10 OCISLY **Telstar 18V**
 2.  2019-01-11 JRTI **Iridium-8**
 3.  2019-05-24 OCISLY **Starlink v0.9**
+4.  2020-01-07 OCISLY **Starlink-2**
 
 
 ## B1050 {#b1050}

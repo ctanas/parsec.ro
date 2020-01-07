@@ -636,6 +636,7 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 1. 2018-09-10 OCISLY *Telstar 18V*
 2. 2019-01-11 JRTI *Iridium-8*
 3. 2019-05-24 OCISLY *Starlink v0.9*
+4. 2020-01-07 OCISLY *Starlink-2*
 
 **** B1050
 
@@ -725,8 +726,8 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 
 | Nr. | Data        | Lansator      | Satelit        | Masă  | Tip | Țara  | Rampa        | Ținta | Rezultat | Buletin |
 |-----+-------------+---------------+----------------+-------+-----+-------+--------------+-------+----------+---------|
-|   1 | 07.01 02:19 | Falcon 9      | 60x Starlink-2 | 15.4t | COM | SUA   | CC SLC-40    | LEO   |          |      57 |
-|   2 | 07.01 15:11 | Changzheng-3B | TJSW-5         | <5.5t | MIL | China | Xichang LC-2 | GTO   |          |      57 |
+|   1 | 07.01 02:19 | Falcon 9      | 60x Starlink-2 | 15.4t | COM | SUA   | CC SLC-40    | LEO   | Succes   | [[/bul/57][57]]      |
+|   2 | 07.01 15:11 | Changzheng-3B | TJSW-5         | <5.5t | MIL | China | Xichang LC-2 | GTO   |          | 57      |
 
 **** Legendă tabel
 
@@ -963,7 +964,7 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 | Atlas V          | SUA  | ULA         |  2002 | 1xRD-180     | 20.5t |        | 8.9t  |      81 |      80 |     (1) | 20.12.2019 |
 | Delta IV Heavy   | SUA  | ULA         |  2004 | 1xRS-68A     | 28.7  |        | 14.2t |      10 |       9 |     (1) | 19.01.2019 |
 | Electron         | SUA  | RocketLab   |  2017 | 9xRutherford |       | 0.225t |       |      10 |       9 |       1 | 06.12.2019 |
-| Falcon 9[fn:rc2] | SUA  | SpaceX      |  2010 | 9xMerlin     | 22.8t |        | 8.3t  |      77 |      75 |   1+(1) | 16.12.2019 |
+| Falcon 9[fn:rc2] | SUA  | SpaceX      |  2010 | 9xMerlin     | 22.8t |        | 8.3t  |      78 |      76 |   1+(1) | 16.12.2019 |
 | Falcon Heavy     | SUA  | SpaceX      |  2018 | 27xMerlin    | 63.8  |        | 26.7  |       3 |       3 |       0 | 25.06.2019 |
 | Minotaur-C       | SUA  | NGSSG       |  1994 | Castor(S)    | 1.3t  |        |       |      10 |       7 |       3 | 31.10.2017 |
 | Minotaur V       | SUA  | NGSSG       |  2013 | Castor(S)    |       |        | 0.53t |       1 |       1 |       0 | 07.09.2013 |
