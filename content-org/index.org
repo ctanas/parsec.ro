@@ -1809,7 +1809,7 @@ Câteva noutăți despre planurile Rusiei cu privire la viitoarea capsulă rusea
 
 *** Lansări orbitale
 
-Marți dimineață la ora 04:19, SpaceX a reușit prima lansare orbitală a anului, urcând pe orbită încă 60 de sateliți Starlink, folosind o rachetă Falcon 9, a cărei treaptă primară B1049 a zburat astfel a patra oară. Lansarea a avut loc de pe rampa SLC-40 de la Cape Canaveral și treapta primară a fost recuperată, din nou, pe barja OCISLY. Din păcate, tentativa de recuperare a conului protector nu a reușit. Cei 60 de sateliți au cântărit 15.4 tone și în prezent SpaceX deține 180 de sateliți plasați pe orbită terestră joasă.
+Marți dimineață la ora 04:19, *SpaceX* a reușit prima lansare orbitală a anului, urcând pe orbită încă 60 de sateliți *Starlink*, folosind o rachetă *Falcon 9*, a cărei treaptă primară B1049 a zburat astfel a patra oară. Lansarea a avut loc de pe rampa SLC-40 de la Cape Canaveral și treapta primară a fost recuperată, din nou, pe barja OCISLY. Din păcate, tentativa de recuperare a conului protector nu a reușit. Cei 60 de sateliți au cântărit 15.4 tone și în prezent SpaceX deține 180 de sateliți plasați pe orbită terestră joasă.
 
 A fost a 78-a lansare Falcon 9, a 46-a lansare de pe rampa SLC-40 de la Cape Canaveral și a 48-a recuperare cu succes a unei trepte primare.
 
@@ -1818,23 +1818,23 @@ A fost a 78-a lansare Falcon 9, a 46-a lansare de pe rampa SLC-40 de la Cape Can
 
 ---
 
-A doua lansare orbitală a anului a avut loc tot marți, 7 ianuarie: o rachetă Changzheng-3B de pe rampa LC-2 de la centrul spațial Xichang a urcat pe orbită satelitul militar TJSW-5, la ora 17:20, un satelit misterios despre care China nu a publicat prea multe detalii. Racheta a urcat satelitul pe orbită geostaționară de transfer, urmând ca ulteior satelitul să ajungă pe orbita geostaționară finală în următoarea perioadă.
+A doua lansare orbitală a anului a avut loc tot marți, 7 ianuarie: o rachetă *Changzheng-3B* de pe rampa LC-2 de la centrul spațial Xichang a urcat pe orbită satelitul militar TJSW-5, la ora 17:20, un satelit misterios despre care China nu a publicat prea multe detalii. Racheta a urcat satelitul pe orbită geostaționară de transfer, urmând ca ulteior satelitul să ajungă pe orbita geostaționară finală în următoarea perioadă.
 
 *** Alte evenimente
 
-Marți, capsula Dragon CRS-19 s-a desprins de brațul robotic al Stației Spațiale Internaționale (la ora 12:05) și a revenit în sigurannță pe Pământ câteva ore mai târziu (17:40). Dragon CRS-19 a petrecut 30 de zile cuplată cu modulul Harmony al ISS. În timpul manevrelor de îndepărare de Stația Spațială Internațională, un jet al motoarelor Dragon a lovit panourile solare ale capsulei Cygnus NG-12, cuplată cu ISS la portul Unity, iar evenimentul este investigat în prezent de NASA, care încearcă să evite contaminarea panourilor solare ale vehiculelor.
+Marți, capsula *Dragon CRS-19* s-a desprins de brațul robotic al Stației Spațiale Internaționale (la ora 12:05) și a revenit în sigurannță pe Pământ câteva ore mai târziu (17:40). Dragon CRS-19 a petrecut 30 de zile cuplată cu modulul Harmony al ISS. În timpul manevrelor de îndepărare de Stația Spațială Internațională, un jet al motoarelor Dragon a lovit panourile solare ale capsulei Cygnus NG-12, cuplată cu ISS la portul Unity, iar evenimentul este investigat în prezent de NASA, care încearcă să evite contaminarea panourilor solare ale vehiculelor.
 
 --- 
 
-Agenția spațială indiană (ISRO)  a anunțat că misiunea [[https://www.bbc.com/news/world-asia-india-50965778][Chandrayan-3]] a primit undă verde și este posibil ca lansarea noii sonde să aibă loc chiar în acest an. Misiunea va încerca din nou să aselenizeze o sondă și un mic rover pe Lună, la fel ca și Chandrayaan-2, exact în aceeași regiune și va costa mai puțin pentru că de această dată nu va mai exista și o sondă orbitală (misiunea va folosi sonda orbitală Chandrayaan-2, care este funcțională și ISRO speră ca aceasta să rămână cel puțin 2 ani pe orbita Lunii). 
+Agenția spațială indiană (ISRO) a anunțat că misiunea [[https://www.bbc.com/news/world-asia-india-50965778][Chandrayan-3]] a primit undă verde și este posibil ca lansarea noii sonde să aibă loc chiar în acest an. Misiunea va încerca din nou să aselenizeze o sondă și un mic rover pe Lună, la fel ca și Chandrayaan-2, exact în aceeași regiune și va costa mai puțin pentru că de această dată nu va mai exista și o sondă orbitală (misiunea va folosi sonda orbitală Chandrayaan-2, care este funcțională și ISRO speră ca aceasta să rămână cel puțin 2 ani pe orbita Lunii). 
 
 ---
 
-Agenția spațială chineză are un nou site dedicat misiunii selenare Chang’E-4, care acum aproape un an a devenit prima sondă care a ajuns pe fața îndepărtată a Lunii. Poate e surprizător, dar site-ul are o grămadă de date științifice și este [[http://moon.bao.ac.cn/index_en.jsp][disponibil și în limba engleză]]. 
+Agenția spațială chineză are un nou site dedicat misiunii selenare *Chang’E-4*, care acum aproape un an a devenit prima sondă care a ajuns pe fața îndepărtată a Lunii. Poate e surprizător, dar site-ul are o grămadă de date științifice și este [[http://moon.bao.ac.cn/index_en.jsp][disponibil și în limba engleză]]. 
 
 ---
 
-Arianespace a terminat investigația cu privire la eșecul misiunii Vega din iulie, când satelitul Falcon Eye 1 nu a mai ajuns pe orbită din cauza dezintegrării treptei secundare. După 14 lansări cu succes, în iulie treapta primară cu motoare cu combustibil solid P80 a funcționat impecabil, însă după separare, chiar dacă motorul Zefir-23 a pornit fără probleme, o anomalie s-a produs după 14 secunde de la activarea sa și racheta a deviat semnificativ de la traiectorie, în cele din urmă dezintegrându-se. Nu au fost oferite detalii tehnice despre motivele eșecului, însă Arianespace a precizat că racheta va reveni pe rampa de lansare în acest an, fiind convinsă că problema a fost identificată și înlăturată. Vega este folosită pentru încărcături ușoare, completând portofoliul Arianespace care deține lansatorul greu Ariane 5 și închiriază și lansatorul mediu Soyuz-2 de la agenția spațială rusă.
+*Arianespace* a terminat investigația cu privire la eșecul misiunii *Vega* din iulie, când satelitul Falcon Eye 1 nu a mai ajuns pe orbită din cauza dezintegrării treptei secundare. După 14 lansări cu succes, în iulie treapta primară cu motoare cu combustibil solid P80 a funcționat impecabil, însă după separare, chiar dacă motorul Zefir-23 a pornit fără probleme, o anomalie s-a produs după 14 secunde de la activarea sa și racheta a deviat semnificativ de la traiectorie, în cele din urmă dezintegrându-se. Nu au fost oferite detalii tehnice despre motivele eșecului, însă Arianespace a precizat că racheta va reveni pe rampa de lansare în acest an, fiind convinsă că problema a fost identificată și înlăturată. Vega este folosită pentru încărcături ușoare, completând portofoliul Arianespace care deține lansatorul greu Ariane 5 și închiriază și lansatorul mediu Soyuz-2 de la agenția spațială rusă.
 
 ** Buletin Cosmic nr. 56 :cz5:rockot:progress:soyuz:iss:
 :PROPERTIES:
