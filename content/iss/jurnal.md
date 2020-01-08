@@ -4,6 +4,9 @@ author = ["Claudiu"]
 draft = false
 +++
 
+07.01.2020
+: Capsula Dragon CRS-19 se desprinde de ISS și revine în siguranță înapoi pe Pământ.
+
 09.12.2019
 : Progress MS-13 andochează la portul _Pirs;_
 
