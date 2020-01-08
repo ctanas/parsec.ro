@@ -1814,7 +1814,7 @@ Marți dimineață la ora 04:19, SpaceX a reușit prima lansare orbitală a anul
 A fost a 78-a lansare Falcon 9, a 46-a lansare de pe rampa SLC-40 de la Cape Canaveral și a 48-a recuperare cu succes a unei trepte primare.
 
 #+CAPTION: Lansarea celui de-a treilea set de sateliți Starlink de către o rachetă Falcon 9 a cărei treaptă primară a fost folosită pentru a patra oară și recuperată din nou pe barja OCISLY (/Sursa foto/: [[https://www.flickr.com/photos/spacex/49347368496/][SpaceX]])
-[[/img/starlink2]]
+[[/img/starlink2.jpg]]
 
 ---
 
