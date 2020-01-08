@@ -6,7 +6,7 @@ draft = false
 
 | Nr. | Data        | Lansator      | Satelit        | Masă  | Tip | Țara  | Rampa        | Ținta | Rezultat | Buletin        |
 |-----|-------------|---------------|----------------|-------|-----|-------|--------------|-------|----------|----------------|
-| 1   | 07.01 02:19 | Falcon 9      | 60x Starlink-2 | 15.4t | COM | SUA   | CC SLC-40    | LEO   | Succes   | [57](/bul/57)  |
+| 1   | 07.01 02:19 | Falcon 9      | 60x Starlink-2 | 15.4t | COM | SUA   | CC SLC-40    | LEO   | Succes   | [57](/bul/057) |
 | 2   | 07.01 15:20 | Changzheng-3B | TJSW-5         | <5.5t | MIL | China | Xichang LC-2 | GTO   | Succes   | [57](/bul/057) |
 |     |             |               |                |       |     |       |              |       |          |                |
 
