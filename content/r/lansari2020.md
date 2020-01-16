@@ -8,6 +8,8 @@ draft = false
 |-----|-------------|---------------|----------------|-------|-----|-------|--------------|-------|----------|----------------|
 | 1   | 07.01 02:19 | Falcon 9      | 60x Starlink-2 | 15.4t | COM | SUA   | CC SLC-40    | LEO   | Succes   | [57](/bul/057) |
 | 2   | 07.01 15:20 | Changzheng-3B | TJSW-5         | <5.5t | MIL | China | Xichang LC-2 | GTO   | Succes   | [57](/bul/057) |
+| 3   | 15.01 02:53 | Changzheng-2D | Kuanfu-1       | ??    | OBS | China | Taiyua LC-9  | LEO   | Succes   | [58](/bul/058) |
+| 4   | 16.01 03:02 | Kuaizhou-1A   | Yinhe-1        |       | DEM | China | Jiuquan      | SSO   | Succes   | [59](/bul/059) |
 |     |             |               |                |       |     |       |              |       |          |                |
 
 
@@ -20,6 +22,7 @@ draft = false
     -   NAV (sondă interplanetară, capsulă cargo, test capsulă echipaj dar fără echipaj la bord)
     -   CRW (capsulă cu echipaj la bord)
     -   GNS (satelit de geolocație)
+    -   DEM (demonstrator, prototip)
     -   COM (satelit telecomunicații, militar sau civil)
     -   OBS (satelit de observație, militar sau civil)
     -   MET (satelit meteorologic, militar sau civil)

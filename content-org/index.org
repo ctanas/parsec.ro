@@ -178,10 +178,11 @@ Da! Datorită panourilor solare de mari dimensiuni, ISS poate fi văzută cu uș
 :PROPERTIES:
 :EXPORT_FILE_NAME: jurnal
 :END:
-- 07.01.2020 :: Capsula Dragon CRS-19 se desprinde de ISS și revine în siguranță înapoi pe Pământ.
+- 15.01.2020 :: EVA-225 (7 ore, 29 minute): Meir și Koch, pentru înlocuirea bateriilor ISS.
+- 07.01.2020 :: Capsula Dragon CRS-19 se desprinde de ISS și revine în siguranță înapoi pe Pământ;
 - 09.12.2019 :: Progress MS-13 andochează la portul /Pirs;/
 - 06.12.2019 :: Capsula Dragon CRS-19 este atașată modulului /Harmony nadir/;
-- 02.12.2019 :: EVA-223 (6 ore, 2 minute): Parmitano și Morgan, pentru întreținerea AMS-02;
+- 02.12.2019 :: EVA-224 (6 ore, 2 minute): Parmitano și Morgan, pentru întreținerea AMS-02;
 - 29.11.2019 :: Progress MS-12 se desprinde de modulul /Pirs;/
 - 22.11.2019 :: EVA-223 (6 ore, 33 minute): Parmitano și Morgan, pentru întreținerea AMS-02;
 - 15.11.2019 :: EVA-222 (6 ore, 39 minute): Parmitano și Morgan, pentru întreținerea AMS-02;
@@ -726,8 +727,10 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 
 | Nr. | Data        | Lansator      | Satelit        | Masă  | Tip | Țara  | Rampa        | Ținta | Rezultat | Buletin |
 |-----+-------------+---------------+----------------+-------+-----+-------+--------------+-------+----------+---------|
-|   1 | 07.01 02:19 | Falcon 9      | 60x Starlink-2 | 15.4t | COM | SUA   | CC SLC-40    | LEO   | Succes   | [[/bul/057][57]]     |
+|   1 | 07.01 02:19 | Falcon 9      | 60x Starlink-2 | 15.4t | COM | SUA   | CC SLC-40    | LEO   | Succes   | [[/bul/057][57]]      |
 |   2 | 07.01 15:20 | Changzheng-3B | TJSW-5         | <5.5t | MIL | China | Xichang LC-2 | GTO   | Succes   | [[/bul/057][57]]      |
+|   3 | 15.01 02:53 | Changzheng-2D | Kuanfu-1       | ??    | OBS | China | Taiyua LC-9  | LEO   | Succes   | [[/bul/058][58]]      |
+|   4 | 16.01 03:02 | Kuaizhou-1A   | Yinhe-1        |       | DEM | China | Jiuquan      | SSO   | Succes   | [[/bul/059][59]]      |
 |     |             |               |                |       |     |       |              |       |          |         |
 
 **** Legendă tabel
@@ -739,6 +742,7 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
   - NAV (sondă interplanetară, capsulă cargo, test capsulă echipaj dar fără echipaj la bord)
   - CRW (capsulă cu echipaj la bord)
   - GNS (satelit de geolocație)
+  - DEM (demonstrator, prototip)
   - COM (satelit telecomunicații, militar sau civil)
   - OBS (satelit de observație, militar sau civil)
   - MET (satelit meteorologic, militar sau civil)
@@ -976,7 +980,7 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 | Angara           | RUS  | Roscosmos   |  2014 | 1xRD-191     | 3.8t  |        | 5.4t  |       2 |       2 |       0 | 23.12.2014 |
 |------------------+------+-------------+-------+--------------+-------+--------+-------+---------+---------+---------+------------|
 | Changzheng-2C    | CHN  | CNSA        |  1982 | 4xYF-21C     | 3.85t | 1.9t   | 1.25t |      51 |      50 |       1 | 26.07.2019 |
-| Changzheng-2D    | CHN  | CNSA        |  1992 | 4xYF-21C     | 3.5t  | 1.3t   |       |      44 |      43 |       1 | 25.09.2019 |
+| Changzheng-2D    | CHN  | CNSA        |  1992 | 4xYF-21C     | 3.5t  | 1.3t   |       |      45 |      44 |       1 | 15.01.2020 |
 | Changzheng-2F    | CHN  | CNSA        |  1999 | 4xYF-20B     | 8.4t  |        |       |      13 |      13 |       0 | 16.10.2016 |
 | Changzheng-3A    | CHN  | CNSA        |  1994 | 4xYF-21C     | 8.5t  |        | 2.6t  |      27 |      27 |       0 | 09.07.2018 |
 | Changzheng-3B    | CHN  | CNSA        |  1996 | 4xYF-21C     | 11.5t | 7.1t   | 5.5t  |      65 |      62 |   1+(2) | 07.12.2020 |
@@ -989,7 +993,7 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 | Changzheng-7     | CHN  | CNSA        |  2016 | 2xYF-100     | 13.5t |        | 5.5t  |       2 |       2 |       0 | 20.04.2017 |
 | Changzheng-11    | CHN  | CNSA        |  2015 | P35 (S)      | 0.7t  | 0.35t  |       |       8 |       8 |       0 | 19.09.2019 |
 | Jielong-1        | CHN  | CNSA        |  2019 | (S)          | ?     | ?      |       |       1 |       1 |       0 | 17.08.2019 |
-| Kuaizhou         | CHN  | CNSA        |  2013 | (S)          | 0.3t  | 0.2t   |       |       9 |       9 |       0 | 07.12.2019 |
+| Kuaizhou         | CHN  | CNSA        |  2013 | (S)          | 0.3t  | 0.2t   |       |      10 |      10 |       0 | 16.01.2020 |
 |------------------+------+-------------+-------+--------------+-------+--------+-------+---------+---------+---------+------------|
 | Ariane 5         | EU   | ArianeSpace |  1996 | 1xVulcain    | 20t   |        | 10.9t |     106 |     101 |    2(3) | 26.11.2019 |
 | Vega             | EU   | ArianeSpace |  2012 | P80 (S)      |       | 1.45t  |       |      15 |      14 |       1 | 11.07.2019 |
@@ -1801,25 +1805,49 @@ Câteva noutăți despre planurile Rusiei cu privire la viitoarea capsulă rusea
 :EXPORT_HUGO_SECTION: bul
 :END:
 
-** Buletin Cosmic nr. 58
+** TODO Buletin Cosmic nr. 59
+:PROPERTIES:
+:EXPORT_FILE_NAME: 059
+:EXPORT_DATE: 2020-01-22
+:END:
+
+*** Lansări orbitale
+
+Kuazhou-1A, joi, 05:02
+
+*** Alte evenimente
+
+** Buletin Cosmic nr. 58 :cz2d:iss:exomars:haybusa2:orel:
 :PROPERTIES:
 :EXPORT_FILE_NAME: 058
 :EXPORT_DATE: 2020-01-15
 :END:
 
-hayabusa2 flyby 2029
+*** Lansări orbitale
+Marți, 14 ianuarie 2020, ora 04:53, o rachetă *Changzheng-2D* a lansat pe orbită satelitul Kuanfu-1 de la centrul spațial Taiyuan. Satelitul face parte din constelația Jilin-1, folosită de sectorul civil din China pentru observații ale suprafeței Pământului. Alături de acesta, în spațiu au ajuns și sateliții Aleph-1 (Argentina) și Tianqi-5 (China).
+
+*** Alte evenimente
+
+Jessica Meir și Christina Koch au reînceput seria de activități extravehiculare dedicate schimbării bateriilor externe ale Stației Spațiale Internaționale. *EVA-225* a început miercuri la ora 13:30 și durat 7 ore și 29 de minute. Toate obiectivele au fost îndeplinite, cu toate că luminile căștii Christinei Koch au avut unele probleme și nu au funcționat pe durata ieșirii în spațiu. O nouă astfel de activitate extravehiculară este programată pentru 20 ianuarie, la care vor participa tot Meir și Koch. O altă activitate vehiculară de rutină, care urma să fie efectuată din sectorul rusesc al stației, a fost amânată pentru o dată nespecificată deocamdată, pentru că înlocuirea bateriilor are prioritate în acesr caz. Sectorul american mai are programate în perioadă următoare două activități extravehiculare, următoarea (EVA-226)  pentru finalizarea înlocuirii bateriilor iar în 25 ianuarie, Andrew Morgan și Luca Parmitano (EVA-227) vor termina de reparat și spectrometrul AMS-02 plasat în afara ISS.
+
+#+CAPTION: Christina Koch și Jessica Meir au efectuat deja împreună două activități extravehicule, pentru schimbarea bateriilor externe ale Stației Spațiale Internaționale (/Sursa foto/: [[https://blogs.nasa.gov/spacestation/2020/01/15/spacewalkers-begin-work-to-upgrade-power-systems/][NASA]])
+[[/img/koch_meir.jpg]]
 
 ---
 
-Oryol
+După ce a încheiat cu succes misiunea în jurul asteroidului Ryugu, sonda *Hayabusa2* se îndreaptă în prezent spre Pământ pentru a livra o capsulă ce ar trebui să conțină fragmente din solul asteroidului. Însă agenția spațială japoneză a anunțat că a decis să continue misiunea sondei și după decembrie 2020, pentru că aceasta se află într-o formă excelentă, și după ce capsula cu fragmentele de sol extraterestru se va desprinde și reveni pe Pământ, sonda rămasă în spațiu va realiza un ocol al planetei noastre și se va îndrepta spre o nouă țintă, care urmează să fie identificată, dar care va fi un nou asteroid pe care urmează sonda urmează să-l intercepteze și survoleze.
 
 ---
 
-astronauți noi
+Un nou test al parașutelor *ExoMars* a avut loc luni și a fost un succes. Pentru ca sonda să plece spre Marte în fereastra din acest an (luna iulie-august), încă alte două teste planificate pentru februarie și martie trebuie să se încheie cu bine pentru agenția spațială europeană. Testele sunt derulate în SUA, în colaborare cu JPL, după ce anul trecut au fost identificate unele probleme care amenințau să amâne a doua lansare a programului ExoMars pentru 2022, următoarea oportunitate de a trimite sonde spre Marte. ESA are pe orbita marțiană sonda TGO, însă landerul Schiaparelli s-a prăbușit pe Marte în 2016.
 
 ---
 
+Agenția spațială rusă [[https://ria.ru/20200113/1563348630.html][a alocat peste 8 miliarde de ruble]] (echivalentul a 130 de milioane de dolari) pentru realizarea unei a doua capsule *Orel* în 2021. Dacă prima capsulă de acest fel va fi doar un prototip folosit pentru zboruri test ale rachetelor Angara-A5 și Yenisi în 2023 și respectiv 2028, cea de-a doua capsulă urmează să fie folosită pentru zboruri cu echipaj spre Stația Spațială Internațională, înlocuind astfel venerabila capsulă Soyuz, sau spre Lună (2029), conform celor mai optimiste planuri ale Roscosmos.
 
+---
+
+Vineri, 10 ianuarie, [[https://www.nasa.gov/press-release/nasa-s-newest-astronauts-ready-for-space-station-moon-and-mars-missions][NASA a prezentat]] noua generație de astronauți, al 22-lea grup de la celebri *Mercury Seven* din 1959 (absovenții din acest an au primit oficial porecla *Țestoasele*). Este vorba despre 11 noi absolvenți americani și 2 din partea agenției spațiale canadiene, care se adaugă celor 37 de astronauți deja existenți în cadrul agenției spațiale americane. Printre aceștia probabil se află și următorii oameni care vor păși pe Lună, în cadrul programului Artemis, dar până atunci vor participa și la zborurile spre Stația Spațială Internațională. Programul de pregătire a durat doi ani și cei 11 noi astronauți au fost selectați dintr-un număr record de 18000 de persoane care s-au înscris pe lista NASA.
 
 ** Buletin Cosmic nr. 57 :spacex:starlink:falcon9:cz3b:crs19:
 :PROPERTIES:

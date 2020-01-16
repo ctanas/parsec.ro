@@ -4,8 +4,11 @@ author = ["Claudiu"]
 draft = false
 +++
 
+15.01.2020
+: EVA-225 (7 ore, 29 minute): Meir și Koch, pentru înlocuirea bateriilor ISS.
+
 07.01.2020
-: Capsula Dragon CRS-19 se desprinde de ISS și revine în siguranță înapoi pe Pământ.
+: Capsula Dragon CRS-19 se desprinde de ISS și revine în siguranță înapoi pe Pământ;
 
 09.12.2019
 : Progress MS-13 andochează la portul _Pirs;_
@@ -14,7 +17,7 @@ draft = false
 : Capsula Dragon CRS-19 este atașată modulului _Harmony nadir_;
 
 02.12.2019
-: EVA-223 (6 ore, 2 minute): Parmitano și Morgan, pentru întreținerea AMS-02;
+: EVA-224 (6 ore, 2 minute): Parmitano și Morgan, pentru întreținerea AMS-02;
 
 29.11.2019
 : Progress MS-12 se desprinde de modulul _Pirs;_
