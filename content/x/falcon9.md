@@ -9,6 +9,7 @@ draft = false
 1.  2018-05-11 OCISLY **Bangabandhu-1**
 2.  2018-08-07 OCISLY **Merah Putih**
 3.  2018-11-03 JRTI **SSO-A**
+4.  2020-01-18 N/A Test distructiv al capsulei Dragon-2
 
 
 ## B1047 {#b1047}
@@ -43,6 +44,7 @@ draft = false
 
 1.  2019-03-02 OCISLY **Dragon DM-1**
 2.  2019-06-12 LZ-4 **RADARSAT**
+3.  2020-01-21 OCISLY **Starlink-3**
 
 
 ## B1052 {#b1052}

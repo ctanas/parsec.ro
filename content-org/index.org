@@ -618,6 +618,7 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 1. 2018-05-11 OCISLY *Bangabandhu-1*
 2. 2018-08-07 OCISLY *Merah Putih*
 3. 2018-11-03 JRTI *SSO-A*
+4. 2020-01-18 N/A Test distructiv al capsulei Dragon-2
 
 **** B1047
 
@@ -647,6 +648,7 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 
 1. 2019-03-02 OCISLY *Dragon DM-1*
 2. 2019-06-12 LZ-4 *RADARSAT*
+3. 2020-01-21 OCISLY *Starlink-3*
 
 **** B1052
 
@@ -725,13 +727,14 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 :EXPORT_FILE_NAME: lansari2020
 :END:
 
-| Nr. | Data        | Lansator      | Satelit        | Masă  | Tip | Țara  | Rampa        | Ținta | Rezultat | Buletin |
-|-----+-------------+---------------+----------------+-------+-----+-------+--------------+-------+----------+---------|
-|   1 | 07.01 02:19 | Falcon 9      | 60x Starlink-2 | 15.4t | COM | SUA   | CC SLC-40    | LEO   | Succes   | [[/bul/057][57]]      |
-|   2 | 07.01 15:20 | Changzheng-3B | TJSW-5         | <5.5t | MIL | China | Xichang LC-2 | GTO   | Succes   | [[/bul/057][57]]      |
-|   3 | 15.01 02:53 | Changzheng-2D | Kuanfu-1       | ??    | OBS | China | Taiyua LC-9  | LEO   | Succes   | [[/bul/058][58]]      |
-|   4 | 16.01 03:02 | Kuaizhou-1A   | Yinhe-1        |       | DEM | China | Jiuquan      | SSO   | Succes   | [[/bul/059][59]]      |
-|     |             |               |                |       |     |       |              |       |          |         |
+| Nr. | Data        | Lansator      | Satelit        | Masă  | Tip | Țara   | Rampa         | Ținta | Rezultat | Buletin |
+|-----+-------------+---------------+----------------+-------+-----+--------+---------------+-------+----------+---------|
+|   1 | 07.01 02:19 | Falcon 9      | 60x Starlink-2 | 15.4t | COM | SUA    | CC SLC-40     | LEO   | Succes   | [[/bul/057][57]]      |
+|   2 | 07.01 15:20 | Changzheng-3B | TJSW-5         | <5.5t | MIL | China  | Xichang LC-2  | GTO   | Succes   | [[/bul/057][57]]      |
+|   3 | 15.01 02:53 | Changzheng-2D | Kuanfu-1       | ??    | OBS | China  | Taiyua LC-9   | LEO   | Succes   | [[/bul/058][58]]      |
+|   4 | 16.01 03:02 | Kuaizhou-1A   | Yinhe-1        | ??    | DEM | China  | Jiuquan       | SSO   | Succes   | [[/bul/059][59]]      |
+|   5 | 16.01 21:05 | Ariane 5 ECA  | Konnect        | 7.9t  | COM | Europa | Kourour ELA-3 | GEO   | Succes   | [[/bul/059][59]]      |
+|   6 | 21.01 16:40 | Falcon 9      | 60x Starlink-3 | 15.4t | COM | SUA    | CC SLC-40     | LEO   |          |         |
 
 **** Legendă tabel
 
@@ -1815,7 +1818,11 @@ Câteva noutăți despre planurile Rusiei cu privire la viitoarea capsulă rusea
 
 Kuazhou-1A, joi, 05:02
 
+Ariane 5
+
 *** Alte evenimente
+
+Test SpaceX
 
 ** Buletin Cosmic nr. 58 :cz2d:iss:exomars:haybusa2:orel:
 :PROPERTIES:
