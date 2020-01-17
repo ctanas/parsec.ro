@@ -4,91 +4,39 @@ author = ["Claudiu"]
 draft = false
 +++
 
-## B1046 {#b1046}
-
-1.  2018-05-11 OCISLY **Bangabandhu-1**
-2.  2018-08-07 OCISLY **Merah Putih**
-3.  2018-11-03 JRTI **SSO-A**
-4.  2020-01-18 N/A Test distructiv al capsulei Dragon-2
-
-
-## B1047 {#b1047}
-
-1.  2018-07-22 OCISLY **Telstar-19V**
-2.  2018-11-15 OCISLY **Es’hail-2**
-3.  2019-08-06 N/A **AMOS-17**
-
-
-## B1048 {#b1048}
-
-1.  2018-07-25 JRTI **Iridium-7**
-2.  2018-10-08 LZ4 **SAOCOM-1A**
-3.  2019-02-21 OCISLY **PSN-6**
-4.  2019-11-11 OCISLY Starlink L1
-
-
-## B1049 {#b1049}
-
-1.  2018-09-10 OCISLY **Telstar 18V**
-2.  2019-01-11 JRTI **Iridium-8**
-3.  2019-05-24 OCISLY **Starlink v0.9**
-4.  2020-01-07 OCISLY **Starlink-2**
-
-
-## B1050 {#b1050}
-
-1.  2018-12-05 (LZ1) **Dragon CRS-16**&nbsp;[^fn:1]
-
-
-## B1051 {#b1051}
-
-1.  2019-03-02 OCISLY **Dragon DM-1**
-2.  2019-06-12 LZ-4 **RADARSAT**
-3.  2020-01-21 OCISLY **Starlink-3**
-
-
-## B1052 {#b1052}
-
-1.  2018-04-12 LZ-1 **Arabsat-6A**, FH-lateral
-2.  2019-06-25 LZ-1 **STP-2**, FH-lateral
-
-
-## B1053 {#b1053}
-
-1.  2018-04-12 LZ-1 **Arabsat-6A**, FH-lateral
-2.  2019-06-25 LZ-1 **STP-2**, FH-lateral
-
-
-## B1054 {#b1054}
-
-1.  2018-12-23 N/A **GPSIII-SV01**&nbsp;[^fn:2]
-
-
-## B1055 {#b1055}
-
-1.  2018-04-12 OCISLY **Arabsat-6A**, FH-centru&nbsp;[^fn:3]
-
-
-## B1056 {#b1056}
-
-1.  2019-05-04 OCISLY **Dragon CRS-17**
-2.  2019-07-25 OCISLY **Dragon CRS-18**
-3.  2019-12-17 OCISLY **JSCAT-18**
-
-
-## B1057 {#b1057}
-
-1.  2019-06-25 N/A **STP-2**, FH-centru&nbsp;[^fn:4]
-
-
-## B1058 {#b1058}
-
-1.  20XX-XX-XX XXX Dragon DM-2[^fn:5]
-
-
-## B1059 {#b1059}
-
-1.  2019-12-05 OCISLY **Dragon CRS-19**
+| Booster | Data       | Misiunea       | Recuperare    | Racheta    |
+|---------|------------|----------------|---------------|------------|
+| B1046.1 | 11.05.2018 | Bangabadhu-1   | OCISLY        | Falcon 9   |
+| B1046.2 | 07.08.2018 | Merah Putih    | OCISLY        | Falcon 9   |
+| B1046.3 | 03.11.2018 | SSO-A          | JRTI          | Falcon 9   |
+| B1046.4 | 18.01.2020 | CC-Dev Test    | N/A[^fn:1]    | Falcon 9   |
+| B1047.1 | 22.07.2018 | Telstar-19V    | OCISLY        | Falcon 9   |
+| B1047.2 | 15.11.2019 | Es'hail-2      | OCISLY        | Falcon 9   |
+| B1047.3 | 06.08.2019 | AMOS-17        | N/A           | Falcon 9   |
+| B1048.1 | 25.07.2018 | Iridium-7      | JRTI          | Falcon 9   |
+| B1048.2 | 08.10.2018 | SAOCOM-1A      | LZ4           | Falcon 9   |
+| B1048.3 | 21.02.2019 | PSN-6          | OCISLY        | Falcon 9   |
+| B1048.4 | 11.11.2019 | Starlink-L1    | OCISLY        | Falcon 9   |
+| B1049.1 | 10.09.2018 | Telstar-18V    | OCISLY        | Falcon 9   |
+| B1049.2 | 11.01.2019 | Iridium-8      | JRTI          | Falcon 9   |
+| B1049.3 | 24.05.2019 | Starlink v.0.9 | OCISLY        | Falcon 9   |
+| B1049.4 | 07.01.2020 | Starlink-2     | OCISLY        | Falcon 9   |
+| B1050.1 | 05.12.2018 | Dragon CRS-16  | (LZ1)[^fn:2]  | Falcon 9   |
+| B1051.1 | 09.03.2019 | Dragon DM-1    | OCISLY        | Falcon 9   |
+| B1051.2 | 12.06.2019 | RADARSAT       | LZ-4          | Falcon 9   |
+| B1051.3 | 21.01.2020 | Starlink-3     | OCISLY        | Falcon 9   |
+| B1052.1 | 12.04.2018 | Arabsat-6A     | LZ-1          | FH lateral |
+| B1052.2 | 25.06.2019 | STP-2          | LZ-1          | FH lateral |
+| B1053.1 | 12.04.2018 | Arabsat-6A     | LZ-1          | FH lateral |
+| B1053.2 | 25.06.2019 | STP-2          | LZ-1          | FH lateral |
+| B1054.1 | 23.12.2018 | GPS3-SV01      | N/A[^fn:3]    | Falcon 9   |
+| B1055.1 | 12.04.2018 | Arabsat-6A     | OCISLY[^fn:4] | FH centru  |
+| B1056.1 | 05.04.2019 | Dragon CRS-17  | OCISLY        | Falcon 9   |
+| B1056.2 | 25.07.2019 | Dragon CRS-18  | OCISLY        | Falcon 9   |
+| B1056.3 | 17.12.2019 | JSCAT-18       | OCISLY        | Falcon 9   |
+| B1057.1 | 25.06.2019 | STP-2          | N/A[^fn:5]    | FH centru  |
+| B1058.1 | ??.??.2020 | Dragon DM-2    | ???[^fn:6]    | Falcon 9   |
+| B1059.1 | 05.12.2019 | Dragon CRS-19  | OCISLY        | Falcon 9   |
 
 
 ## Abrevieri {#abrevieri}
@@ -113,8 +61,9 @@ LZ-4
 
 ## Note {#note}
 
-[^fn:1]: Programat să aterizeze pe LZ-1, în urma unei defecțiuni a ajuns în apa oceanului Atlantic, de unde a fost recuperat ulterior, avariat dar în mare parte intact, dar probabil nu va mai fi folosit
-[^fn:2]: Prima treaptă nu a fost recuperată, fiind nevoie de toată puterea disponibilă a rachetei.
-[^fn:3]: Recuperat inițial pe barjă, dar pierdut ulterior datorită condițiilor meteo.
-[^fn:4]: Recuperarea pe barja OCISLY nu a reușit.
-[^fn:5]: Este treapta primară care urmează să fie folosită în prima misiune cu echipaj uman a SpaceX; a efectuat primul test static în 29 august 2019.
+[^fn:1]: Boosterul a fost distrus în urma unui test al capsulei Dragon-2, în care aceasta s-a desprins de rachetă la câteva secunde după lansare, prin activarea sistemului de separarea în caz de urgență.
+[^fn:2]: Programat să aterizeze pe LZ-1, în urma unei defecțiuni a ajuns în apa oceanului Atlantic, de unde a fost recuperat ulterior, avariat dar în mare parte intact, dar probabil nu va mai fi folosit
+[^fn:3]: Prima treaptă nu a fost recuperată, fiind nevoie de toată puterea disponibilă a rachetei.
+[^fn:4]: Recuperat inițial pe barjă, dar pierdut ulterior datorită condițiilor meteo.
+[^fn:5]: Recuperarea pe barja OCISLY nu a reușit.
+[^fn:6]: Este treapta primară care urmează să fie folosită în prima misiune cu echipaj uman a SpaceX; a efectuat primul test static în 29 august 2019.
