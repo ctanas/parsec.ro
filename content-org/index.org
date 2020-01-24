@@ -1784,7 +1784,7 @@ Câteva noutăți despre planurile Rusiei cu privire la viitoarea capsulă rusea
 :EXPORT_HUGO_SECTION: bul
 :END:
 
-** TODO Buletin Cosmic nr. 59
+** TODO Buletin Cosmic nr. 59 :arianev:kuazhou:mars2020:firefly:eva:iss:spacex:dragon2:
 :PROPERTIES:
 :EXPORT_FILE_NAME: 059
 :EXPORT_DATE: 2020-01-22
@@ -1792,13 +1792,34 @@ Câteva noutăți despre planurile Rusiei cu privire la viitoarea capsulă rusea
 
 *** Lansări orbitale
 
-Kuazhou-1A, joi, 05:02
+Joia trecută, în 16 ianuarie la ora 05:02, o rachetă *Kuazhou-1A* a decolat de la centrul spațial Jiuquan pentru a pune pe orbită satelitul Yinhe-1 (227 kg), dedicat testării unor tehnologii de comunicații 5G. Acesta urmează să facă parte dintr-o constelație de aproximativ 1000 de sateliți plasați pe orbite joase, între 500-1000 km altitudine, pentru a asigura conexiuni 5G deasupra teritoriului Chinei. A fost a 10-a lansare a rachetei chinezești Kuazhou-1A de calibru ușor, toate zborurile acesteia derulându-se fără incidente neplăcute.
 
-Ariane 5
+---
+
+*Ariane 5* a debutat în 2020 cu doi sateliți de telecomunicații lansați joi, la ora 23:05 de la centrul spațial din Kourou, Guiana Franceză, rampa ELA-3. Cei doi sateliți cântăresc împreună 7888 kilograme, masă care include și adaptorul necesar plasării în conul protector al rachetei. Satelitul KONNECT al companiei Eutelsat (3619 kg)  a fost primul eliberat de treapta secundară a rachetei după ce aceasta a ajuns pe orbita dorită, urmat de satelitul indian GSAT-30 (3357 kg). Compania europeană Arianespace are în program 20 de lansări pentru acest an și speră să urce pe orbită nu mai puțin de 300 de sateliți. 
 
 *** Alte evenimente
 
-Test SpaceX
+Vinerea trecută, *SpaceX* a mai făcut un pas important spre prima lansare a unui echipaj spre Stația Spațială Internațională, testând sistemul de urgență proiectat pentru a îndepărta capsula *Dragon-2* de racheta Falcon 9, la scurt timp după lansare, în cazul în care racheta ar avea probleme și ar pune în pericol echipajul. Testul, derulat de pe rampa LC-39A de la Kennedy Space Center, a fost un succes: la aproximativ 90 de secunde după lansare, în timp ce racheta trecea prin zona cu presiune maximă asupra vehiculului (presiune cauzată de accelerarea rachetei și de densitatea atmosferei), motoarele SuperDraco de la bord s-au activat și au îndepărtat capsula de racheta Falcon 9. Din păcate, racheta, ramasă fără un profil aerodinamic corespunzător, nu a supraviețuit presiunii exercitate de atmosferă și a explodat, așa cum fusese prevăzut, la distanță sigură de capsulă. Dragon-2 a revenit ulterior cu bine înapoi, fiind recuperată din apele Atlanticului, după ce a derulat și un test al celor trei parașute destinate să frâneze capsula suficient de mult pentru un impact cu apa la o viteză suportabilă pentru echipaj. Treapta primară distrusă în urma acestui test (B1046) s-a aflat la al 4-lea său zbor și a fost prima treaptă falcon 9 Block 5 folosită de SpaceX. Capsula a avut numărul C205, fiind a 5-a capsulă Dragon-2 construită de SpaceX: C201 a zburat spre ISS în misiunea DM-1 și a fost ulterior distrusă într-un test ulterior, C202 este folosită doar pentru teste iar soarta capsulelor C203 și C204 nu a fost făcută public de către SpaceX. Urmatoarea misiune, DM-2, care va însemna primul zbor al unui echipaj la bordul unei rachete Falcon 9, va implica o nouă capsulă, C206.
+
+#+CAPTION: Momentul în care motoarele SuperDraco ale capsulei Dragon-2 sunt activate și aceasta se desprinde de racheta Falcon 9 (Sursa: [[https://www.flickr.com/photos/spacex/49422294602/in/photostream/][SpaceX]])
+[[/img/cdled.jpg]]
+
+---
+
+Un test static al rachetei Alpha, dezvolată de *Firefly Aerospace* în Texas, s-a încheiat joi cu un incendiu pe rampa de lansare, însă din fericire nimeni nu a fost rănit. Firely Aerospace speră ca Alpha să poată lansa pe orbita terestră joasă încărcături utile de până la o tonă (sau 600 de kilograme pe orbită heliosincronă). Alpha este o rachetă în două trepte, prima treaptă fiind propulsată de 4 motoare Reaver-1 alimentate cu kerosen și oxigen lichid, în timp ce pentru a doua treaptă Firely va folosi un motor Lightning-1. Costul unei lansări va fi undeva în jurul a 15 milioane de dolari (spre comaparație, Electron, racheta companiei RocketLab, lansează 150 de kilograme pe orbită heliosincronă cu aproximativ 5.7 milioane de dolari). 
+
+---
+
+Luni, Jessica Meir și Christina Koch au derulat a 5-a și ultima activitate extravehiculară dedicată înlocuirii bateriilor externe ale Stației Spațiale Internaționale (*ISS*). Cele două astronaute au petrecut 6 ore și 58 de minute în afara ISS și toate obiectivele misiunii au fost îndeplinite. În urmatoarea perioadă mai este programată încă o activitate extravehiculară, dedicată de această dată prelungirii vieții spectrometrului AMS-02 plasat de asemenea în afara ISS, la care vor lua parte italianul Luca Parmitano și americanul Andre Morgan.
+
+---
+
+*XS-1* (rebotezat *XS-P*) /Phantom Express/ trebuia să fie un vehicul care să fie capabil să zboare în spațiu de 10 ori în 10 zile, folosind un motor AR-22, derivat din legendarul RS-25 (folosit și de navetele spațiale sau de viitoarea rachetă SLS). Cel puțin acesta era scopul inițial al programului pornit de DARPA și derulat de Boeing, însă Boeing a anunțat în cursul acestei săptămâni că a decis să se retragă din program, după 10 milioane de dolari cheltuite începând din 2017. Phantom Express urma să fie lung de 30.5 metri și să poată urca pe orbită terestră joasă 1361 kg, iar primele teste au fost programate pentru acest an.
+
+---
+
+Peste 28000 de elevi americani au trimis propuneri pentru numele viitorului rover marțian care va pleca spre planeta Marte în această vară. NASA a ales 9 variante pe care le supune acum unui vot public, variante din care ar putea alege numele roverului denumit deocamdată *Mars2020*. Cele 9 variante sunt Tenacity, Courage, Vision, Fortitudine, Endurance, Clarity, Perseverence, Promise și Ingenuity. Mai sunt doar câteva zile în care [[https://mars.nasa.gov/mars2020/participate/name-the-rover/][puteți vota și voi]]! Lansarea roverului este planificată pentru 17 iulie 2020, la bordul unei rachete Atlas V, și acesta va ajunge în 18 februarie 2021 în craterul marțian Jezero, unde va căuta urme de viață.
 
 ** Buletin Cosmic nr. 58 :cz2d:iss:exomars:haybusa2:orel:
 :PROPERTIES:
