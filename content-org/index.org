@@ -1784,7 +1784,7 @@ Câteva noutăți despre planurile Rusiei cu privire la viitoarea capsulă rusea
 :EXPORT_HUGO_SECTION: bul
 :END:
 
-** TODO Buletin Cosmic nr. 59 :arianev:kuazhou:mars2020:firefly:eva:iss:spacex:dragon2:
+** Buletin Cosmic nr. 59 :arianev:kuazhou:mars2020:firefly:eva:iss:spacex:dragon2:
 :PROPERTIES:
 :EXPORT_FILE_NAME: 059
 :EXPORT_DATE: 2020-01-22
