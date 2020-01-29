@@ -640,7 +640,7 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 |---------+------------+----------------+------------------+------------|
 | B1051.1 | 09.03.2019 | Dragon DM-1    | OCISLY           | Falcon 9   |
 | B1051.2 | 12.06.2019 | RADARSAT       | LZ-4             | Falcon 9   |
-| B1051.3 | 21.01.2020 | Starlink-3     | OCISLY           | Falcon 9   |
+| B1051.3 | 29.01.2020 | Starlink-3     | OCISLY           | Falcon 9   |
 |---------+------------+----------------+------------------+------------|
 | B1052.1 | 12.04.2018 | Arabsat-6A     | LZ-1             | FH lateral |
 | B1052.2 | 25.06.2019 | STP-2          | LZ-1             | FH lateral |
@@ -712,8 +712,8 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 |   3 | 15.01 02:53 | Changzheng-2D | Kuanfu-1       | ??    | OBS | China   | Taiyua LC-9       | LEO   | Succes   | [[/bul/058][58]]      |
 |   4 | 16.01 03:02 | Kuaizhou-1A   | Yinhe-1        | ??    | DEM | China   | Jiuquan           | SSO   | Succes   | [[/bul/059][59]]      |
 |   5 | 16.01 21:05 | Ariane 5 ECA  | Konnect        | 7.9t  | COM | Europa  | Kourour ELA-3     | GEO   | Succes   | [[/bul/059][59]]      |
-|   6 | 27.01 14:49 | Falcon 9      | 60x Starlink-3 | 15.4t | COM | SUA     | CC SLC-40         | LEO   |          | [[/bul/060][60]]      |
-|   7 | 28.01 01:34 | H-IIA         | IGS-Optical 7  | ??    | MIL | Japonia | Tanegashima LA-Y1 | SSO   |          | [[/bul/060][60]]      |
+|   6 | 28.01 14:06 | Falcon 9      | 60x Starlink-3 | 15.4t | COM | SUA     | CC SLC-40         | LEO   | Succes   | [[/bul/060][60]]      |
+|   7 | 28.01 01:34 | H-IIA         | IGS-Optical 7  | ??    | MIL | Japonia | Tanegashima LA-Y1 | SSO   |          | [[/bul/061][61]]      |
 |     |             |               |                |       |     |         |                   |       |          |         |
 
 **** Legendă tabel
@@ -949,7 +949,7 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 | Atlas V          | SUA  | ULA         |  2002 | 1xRD-180     | 20.5t |        | 8.9t  |      81 |      80 |     (1) | 20.12.2019 |
 | Delta IV Heavy   | SUA  | ULA         |  2004 | 1xRS-68A     | 28.7  |        | 14.2t |      10 |       9 |     (1) | 19.01.2019 |
 | Electron         | SUA  | RocketLab   |  2017 | 9xRutherford |       | 0.225t |       |      10 |       9 |       1 | 06.12.2019 |
-| Falcon 9[fn:rc2] | SUA  | SpaceX      |  2010 | 9xMerlin     | 22.8t |        | 8.3t  |      78 |      76 |   1+(1) | 07.01.2020 |
+| Falcon 9[fn:rc2] | SUA  | SpaceX      |  2010 | 9xMerlin     | 22.8t |        | 8.3t  |      79 |      77 |   1+(1) | 29.01.2020 |
 | Falcon Heavy     | SUA  | SpaceX      |  2018 | 27xMerlin    | 63.8  |        | 26.7  |       3 |       3 |       0 | 25.06.2019 |
 | Minotaur-C       | SUA  | NGSSG       |  1994 | Castor(S)    | 1.3t  |        |       |      10 |       7 |       3 | 31.10.2017 |
 | Minotaur V       | SUA  | NGSSG       |  2013 | Castor(S)    |       |        | 0.53t |       1 |       1 |       0 | 07.09.2013 |
@@ -1785,7 +1785,7 @@ Câteva noutăți despre planurile Rusiei cu privire la viitoarea capsulă rusea
 :EXPORT_HUGO_SECTION: bul
 :END:
 
-** TODO Buletin Cosmic nr. 60 :eva:iss: 
+** Buletin Cosmic nr. 60 :eva:iss:jwst:progressms13:axiom: 
 :PROPERTIES:
 :EXPORT_FILE_NAME: 060
 :EXPORT_DATE: 2020-01-29
@@ -1795,13 +1795,22 @@ Câteva noutăți despre planurile Rusiei cu privire la viitoarea capsulă rusea
 
 
 
+A patra lansare Starlink (a treia lansare a unor sateliți operațională) a avut loc miercuri, 28 ianuarie 2020, ora 16:06, de pe rampa SLC-40 de la baza forțelor aeriene de la Cape Canaveral din Florida. A fost în același timp al treilea zbor al treptei primare cu seria B1051, care a mai lansat în spațiu capsula Dragon-2 în maretie 2019 și satelitul Radarsat în iunie. După lansarea celor 60 de sateliți Starlink, prima treaptă a fost recuperată pe barja /Of Course I Still Love You/, aflată în Atlantic, la 630 km depărtare de țărm, iar una dintre cele două jumătăți ale conului protector a fost și ea recuperată. A fost pentru a 49-a oară când SpaceX reușește recuperarea unei trepte primare. Fiecare satelit Starlink cântărește 260 de kilograme, ceea ce înseamnă că în total masa urcată de racheta Falcon 9 pe orbită a fost de 15.6 tone, lansările Starlink fiind cele mai grele încărcături lansate de rachetele Falcon 9 până în prezent (motiv pentru care recuperarea treptelor primare nu poate fi făcută la sol, ci doar pe barjele plasate de-a lungul traiectoriei, în Oceanul Atlantic). Sateliții au fost lansați pe o orbită circulară cu altitudinea de 290 km și înclinație orbitală de 53 de grade, urmând ca acestea să-și folosească propulsoarele cu krypton de la bord pentru a ajunge pe o orbită operațională la 550 de kilometri.
+
+#+CAPTION: Racheta Falcon 9 (cu treapta primară B1051), lansând al 4-lea grup de sateliti Starlink. (sursa foto: [[https://twitter.com/GregScott_photo/status/1222535047170940928?s=20][Greg Scott]])
+[[/img/starlink3.jpg]]
+
 *** Alte evenimente
 
 Italianul Luca Parmitano (ESA) și americanul Andrew Morgan (NASA) au efectuat sâmbătă, 25 ianuarie, ultima din cele 4 ieșiri în spațiu programate pentru repararea spectrometrului AMS-02 (deși inițial au fost programate 5 astfel de ieșiri). A fost deja a 3-a activitatea extravehiculară din 2020, a 227-a din istoria Stației Spațiale Internaționale, a 7-a pentru Morgan (care are un total de 45 de ore și 48 minute) și a 6-a pentru Parmitano (care are un total de 33 de ore și 9 minute). Activitatea extravehiculară a fost necesară pentru a înlocui o pompă exterioară, necesară răcirii spectrometrului, instrument care nu a fost gândit inițial pentru a fi reparat, dar schimbarea sistemului de răcire îi poate prelungi semnificativ viața. Seria de 5 astfel de ieșiri în spațiu dedicate AMS-02 au fost cele mai cimplexe astfel de misiuni după cele dedicate reparării telescopului Hubble. De asemenea, a fost a 9-a activitate extravehiculară pentru Expediția 61, un nou record pentru echipajul de la bordul ISS. În timpul celor 227 de ieșiri în spațiu de pe ISS, astronauții au petrecut în total 1428 de ore și 26 de minute în afara stației.
 
 ---
 
-Cygnus
+Un audit efectuat de un organism federal din SUA a concluzionat că este puțin probabil ca viitorul telescop spațial James Webb să fie lansat în martie 2021, așa cum este planificat în prezent, datorită întârzierilor acumulate în cadrul proiectului. Telescopul, a cărui dezvoltare a început în anii '90, trebuia să fie lansat undeva între 2007 și 2011 și să coste undeva între 1 și 3.5 miliarde de dolari, însă costurile sale au ajuns până în prezent la aproape 10 miliarde de dolari, devenind probabil cel mai scump satelit care urmează să fie lansat în spațiu. Lansarea urmează să fie asigurată de o rachetă Ariane 5, care se va afla la finalul ciclului său de viață, urmând să fie înlocuită cu Ariane 6.
+
+---
+
+NASA își dorește să extindă Stația Spațială Internațională prin atașarea unor module private, și să înceapă astfel tranziția spre exploatarea privată a stației, după ce aceasta nu va mai fi finanțată de NASA, lucru care probabil se va întâmpla după anul 2030. Axiom Space este compania selectată recent de agenția spațială americană pentru dezvoltarea și lansarea a cel puțin un astfel de modul, care urmează să fie atașat de modulul Harmony și să extindă astfel activitățile care au loc la bordul avanpostului orbital. Primul modul construit de Axiom urmează să fie lansat în a doua jumătate a lui 2024.
 
 ---
 

@@ -11,8 +11,8 @@ draft = false
 | 3   | 15.01 02:53 | Changzheng-2D | Kuanfu-1       | ??    | OBS | China   | Taiyua LC-9       | LEO   | Succes   | [58](/bul/058) |
 | 4   | 16.01 03:02 | Kuaizhou-1A   | Yinhe-1        | ??    | DEM | China   | Jiuquan           | SSO   | Succes   | [59](/bul/059) |
 | 5   | 16.01 21:05 | Ariane 5 ECA  | Konnect        | 7.9t  | COM | Europa  | Kourour ELA-3     | GEO   | Succes   | [59](/bul/059) |
-| 6   | 27.01 14:49 | Falcon 9      | 60x Starlink-3 | 15.4t | COM | SUA     | CC SLC-40         | LEO   |          | [60](/bul/060) |
-| 7   | 28.01 01:34 | H-IIA         | IGS-Optical 7  | ??    | MIL | Japonia | Tanegashima LA-Y1 | SSO   |          | [60](/bul/060) |
+| 6   | 28.01 14:06 | Falcon 9      | 60x Starlink-3 | 15.4t | COM | SUA     | CC SLC-40         | LEO   | Succes   | [60](/bul/060) |
+| 7   | 28.01 01:34 | H-IIA         | IGS-Optical 7  | ??    | MIL | Japonia | Tanegashima LA-Y1 | SSO   |          | [61](/bul/061) |
 |     |             |               |                |       |     |         |                   |       |          |                |
 
 

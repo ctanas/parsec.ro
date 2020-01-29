@@ -24,7 +24,7 @@ draft = false
 | B1050.1 | 05.12.2018 | Dragon CRS-16  | (LZ1)[^fn:2]  | Falcon 9   |
 | B1051.1 | 09.03.2019 | Dragon DM-1    | OCISLY        | Falcon 9   |
 | B1051.2 | 12.06.2019 | RADARSAT       | LZ-4          | Falcon 9   |
-| B1051.3 | 21.01.2020 | Starlink-3     | OCISLY        | Falcon 9   |
+| B1051.3 | 29.01.2020 | Starlink-3     | OCISLY        | Falcon 9   |
 | B1052.1 | 12.04.2018 | Arabsat-6A     | LZ-1          | FH lateral |
 | B1052.2 | 25.06.2019 | STP-2          | LZ-1          | FH lateral |
 | B1053.1 | 12.04.2018 | Arabsat-6A     | LZ-1          | FH lateral |
