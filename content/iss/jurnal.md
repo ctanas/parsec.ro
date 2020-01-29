@@ -4,8 +4,14 @@ author = ["Claudiu"]
 draft = false
 +++
 
+25.01.2020
+: EVA-227 (6 ore, 16 minute): Morgan și Parmitano, pentru întreținerea AMS-02.
+
+20.01.2020
+: EVA-226 (6 ore, 58 minute): Koch și Meir, pentru înlocuirea bateriilor ISS;
+
 15.01.2020
-: EVA-225 (7 ore, 29 minute): Meir și Koch, pentru înlocuirea bateriilor ISS.
+: EVA-225 (7 ore, 29 minute): Meir și Koch, pentru înlocuirea bateriilor ISS;
 
 07.01.2020
 : Capsula Dragon CRS-19 se desprinde de ISS și revine în siguranță înapoi pe Pământ;

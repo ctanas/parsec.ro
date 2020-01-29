@@ -178,7 +178,9 @@ Da! Datorită panourilor solare de mari dimensiuni, ISS poate fi văzută cu uș
 :PROPERTIES:
 :EXPORT_FILE_NAME: jurnal
 :END:
-- 15.01.2020 :: EVA-225 (7 ore, 29 minute): Meir și Koch, pentru înlocuirea bateriilor ISS.
+- 25.01.2020 :: EVA-227 (6 ore, 16 minute): Morgan și Parmitano, pentru întreținerea AMS-02.
+- 20.01.2020 :: EVA-226 (6 ore, 58 minute): Koch și Meir, pentru înlocuirea bateriilor ISS;
+- 15.01.2020 :: EVA-225 (7 ore, 29 minute): Meir și Koch, pentru înlocuirea bateriilor ISS;
 - 07.01.2020 :: Capsula Dragon CRS-19 se desprinde de ISS și revine în siguranță înapoi pe Pământ;
 - 09.12.2019 :: Progress MS-13 andochează la portul /Pirs;/
 - 06.12.2019 :: Capsula Dragon CRS-19 este atașată modulului /Harmony nadir/;
@@ -703,14 +705,16 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 :EXPORT_FILE_NAME: lansari2020
 :END:
 
-| Nr. | Data        | Lansator      | Satelit        | Masă  | Tip | Țara   | Rampa         | Ținta | Rezultat | Buletin |
-|-----+-------------+---------------+----------------+-------+-----+--------+---------------+-------+----------+---------|
-|   1 | 07.01 02:19 | Falcon 9      | 60x Starlink-2 | 15.4t | COM | SUA    | CC SLC-40     | LEO   | Succes   | [[/bul/057][57]]      |
-|   2 | 07.01 15:20 | Changzheng-3B | TJSW-5         | <5.5t | MIL | China  | Xichang LC-2  | GTO   | Succes   | [[/bul/057][57]]      |
-|   3 | 15.01 02:53 | Changzheng-2D | Kuanfu-1       | ??    | OBS | China  | Taiyua LC-9   | LEO   | Succes   | [[/bul/058][58]]      |
-|   4 | 16.01 03:02 | Kuaizhou-1A   | Yinhe-1        | ??    | DEM | China  | Jiuquan       | SSO   | Succes   | [[/bul/059][59]]      |
-|   5 | 16.01 21:05 | Ariane 5 ECA  | Konnect        | 7.9t  | COM | Europa | Kourour ELA-3 | GEO   | Succes   | [[/bul/059][59]]      |
-|   6 | 21.01 16:40 | Falcon 9      | 60x Starlink-3 | 15.4t | COM | SUA    | CC SLC-40     | LEO   |          |         |
+| Nr. | Data        | Lansator      | Satelit        | Masă  | Tip | Țara    | Rampa             | Ținta | Rezultat | Buletin |
+|-----+-------------+---------------+----------------+-------+-----+---------+-------------------+-------+----------+---------|
+|   1 | 07.01 02:19 | Falcon 9      | 60x Starlink-2 | 15.4t | COM | SUA     | CC SLC-40         | LEO   | Succes   | [[/bul/057][57]]      |
+|   2 | 07.01 15:20 | Changzheng-3B | TJSW-5         | <5.5t | MIL | China   | Xichang LC-2      | GTO   | Succes   | [[/bul/057][57]]      |
+|   3 | 15.01 02:53 | Changzheng-2D | Kuanfu-1       | ??    | OBS | China   | Taiyua LC-9       | LEO   | Succes   | [[/bul/058][58]]      |
+|   4 | 16.01 03:02 | Kuaizhou-1A   | Yinhe-1        | ??    | DEM | China   | Jiuquan           | SSO   | Succes   | [[/bul/059][59]]      |
+|   5 | 16.01 21:05 | Ariane 5 ECA  | Konnect        | 7.9t  | COM | Europa  | Kourour ELA-3     | GEO   | Succes   | [[/bul/059][59]]      |
+|   6 | 27.01 14:49 | Falcon 9      | 60x Starlink-3 | 15.4t | COM | SUA     | CC SLC-40         | LEO   |          | [[/bul/060][60]]      |
+|   7 | 28.01 01:34 | H-IIA         | IGS-Optical 7  | ??    | MIL | Japonia | Tanegashima LA-Y1 | SSO   |          | [[/bul/060][60]]      |
+|     |             |               |                |       |     |         |                   |       |          |         |
 
 **** Legendă tabel
 
@@ -895,9 +899,6 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 [fn:rsfg] Ultima lansare a rachetei Soyuz-FG și [[/m/soyuz-fg][probabil ultima lansare de pe rampa istorică 1/5 de la Baikonur]].
 
 [fn:rcst100] Racheta și treapta secundară au funcționat nominal, dar capsula CST-100 Starliner nu a mai ajuns la ISS din cauza unei probleme cu ceasul computerului de bord, care astfel nu a mai efectuat la timp o manevră de inserție pe orbita corectă. 
-
-
-*** TODO Lansări orbitale 2020
 
 ** Lansatoare orbitale viitoare
 :PROPERTIES:
@@ -1783,6 +1784,28 @@ Câteva noutăți despre planurile Rusiei cu privire la viitoarea capsulă rusea
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: bul
 :END:
+
+** TODO Buletin Cosmic nr. 60 :eva:iss: 
+:PROPERTIES:
+:EXPORT_FILE_NAME: 060
+:EXPORT_DATE: 2020-01-29
+:END:
+
+*** Lansări orbitale
+
+
+
+*** Alte evenimente
+
+Italianul Luca Parmitano (ESA) și americanul Andrew Morgan (NASA) au efectuat sâmbătă, 25 ianuarie, ultima din cele 4 ieșiri în spațiu programate pentru repararea spectrometrului AMS-02 (deși inițial au fost programate 5 astfel de ieșiri). A fost deja a 3-a activitatea extravehiculară din 2020, a 227-a din istoria Stației Spațiale Internaționale, a 7-a pentru Morgan (care are un total de 45 de ore și 48 minute) și a 6-a pentru Parmitano (care are un total de 33 de ore și 9 minute). Activitatea extravehiculară a fost necesară pentru a înlocui o pompă exterioară, necesară răcirii spectrometrului, instrument care nu a fost gândit inițial pentru a fi reparat, dar schimbarea sistemului de răcire îi poate prelungi semnificativ viața. Seria de 5 astfel de ieșiri în spațiu dedicate AMS-02 au fost cele mai cimplexe astfel de misiuni după cele dedicate reparării telescopului Hubble. De asemenea, a fost a 9-a activitate extravehiculară pentru Expediția 61, un nou record pentru echipajul de la bordul ISS. În timpul celor 227 de ieșiri în spațiu de pe ISS, astronauții au petrecut în total 1428 de ore și 26 de minute în afara stației.
+
+---
+
+Cygnus
+
+---
+
+Nava cargo Progress MS-13, andocată la modulul Pirs al Stației Spațiale Internaționale, și-a activat joi propulsoarele pentru a modifica orbita avanpostului orbital, o operațiune de rutină care are loc pentru alinierea traiectoriei stației cu viitoarele vehicule care urmează să fie lansate sau pentru a evita potențiale resturi orbitale care s-ar putea apropia prea mult de ISS. Astfel, la ora 17:15, motorul Progress MS-13 a fost pornit pentru 562 de secunde, după care la 17:23 același motor a funcționat pentru 282 de secunde. În total, delta-V pentru ISS a fost crescută cu 0.84 m/s iar noua orbită este 415.4 x 423.0 km (de la 414.7 x 421.2 km).
 
 ** Buletin Cosmic nr. 59 :arianev:kuazhou:mars2020:firefly:eva:iss:spacex:dragon2:
 :PROPERTIES:

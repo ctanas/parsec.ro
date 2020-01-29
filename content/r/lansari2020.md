@@ -4,14 +4,16 @@ author = ["Claudiu"]
 draft = false
 +++
 
-| Nr. | Data        | Lansator      | Satelit        | Masă  | Tip | Țara   | Rampa         | Ținta | Rezultat | Buletin        |
-|-----|-------------|---------------|----------------|-------|-----|--------|---------------|-------|----------|----------------|
-| 1   | 07.01 02:19 | Falcon 9      | 60x Starlink-2 | 15.4t | COM | SUA    | CC SLC-40     | LEO   | Succes   | [57](/bul/057) |
-| 2   | 07.01 15:20 | Changzheng-3B | TJSW-5         | <5.5t | MIL | China  | Xichang LC-2  | GTO   | Succes   | [57](/bul/057) |
-| 3   | 15.01 02:53 | Changzheng-2D | Kuanfu-1       | ??    | OBS | China  | Taiyua LC-9   | LEO   | Succes   | [58](/bul/058) |
-| 4   | 16.01 03:02 | Kuaizhou-1A   | Yinhe-1        | ??    | DEM | China  | Jiuquan       | SSO   | Succes   | [59](/bul/059) |
-| 5   | 16.01 21:05 | Ariane 5 ECA  | Konnect        | 7.9t  | COM | Europa | Kourour ELA-3 | GEO   | Succes   | [59](/bul/059) |
-| 6   | 21.01 16:40 | Falcon 9      | 60x Starlink-3 | 15.4t | COM | SUA    | CC SLC-40     | LEO   |          |                |
+| Nr. | Data        | Lansator      | Satelit        | Masă  | Tip | Țara    | Rampa             | Ținta | Rezultat | Buletin        |
+|-----|-------------|---------------|----------------|-------|-----|---------|-------------------|-------|----------|----------------|
+| 1   | 07.01 02:19 | Falcon 9      | 60x Starlink-2 | 15.4t | COM | SUA     | CC SLC-40         | LEO   | Succes   | [57](/bul/057) |
+| 2   | 07.01 15:20 | Changzheng-3B | TJSW-5         | <5.5t | MIL | China   | Xichang LC-2      | GTO   | Succes   | [57](/bul/057) |
+| 3   | 15.01 02:53 | Changzheng-2D | Kuanfu-1       | ??    | OBS | China   | Taiyua LC-9       | LEO   | Succes   | [58](/bul/058) |
+| 4   | 16.01 03:02 | Kuaizhou-1A   | Yinhe-1        | ??    | DEM | China   | Jiuquan           | SSO   | Succes   | [59](/bul/059) |
+| 5   | 16.01 21:05 | Ariane 5 ECA  | Konnect        | 7.9t  | COM | Europa  | Kourour ELA-3     | GEO   | Succes   | [59](/bul/059) |
+| 6   | 27.01 14:49 | Falcon 9      | 60x Starlink-3 | 15.4t | COM | SUA     | CC SLC-40         | LEO   |          | [60](/bul/060) |
+| 7   | 28.01 01:34 | H-IIA         | IGS-Optical 7  | ??    | MIL | Japonia | Tanegashima LA-Y1 | SSO   |          | [60](/bul/060) |
+|     |             |               |                |       |     |         |                   |       |          |                |
 
 
 ## Legendă tabel {#legendă-tabel}
