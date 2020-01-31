@@ -4,8 +4,11 @@ author = ["Claudiu"]
 draft = false
 +++
 
+31.01.2020
+: Capsula Cygnus NG-12 se desprinde de ISS.
+
 25.01.2020
-: EVA-227 (6 ore, 16 minute): Morgan și Parmitano, pentru întreținerea AMS-02.
+: EVA-227 (6 ore, 16 minute): Morgan și Parmitano, pentru întreținerea AMS-02;
 
 20.01.2020
 : EVA-226 (6 ore, 58 minute): Koch și Meir, pentru înlocuirea bateriilor ISS;
