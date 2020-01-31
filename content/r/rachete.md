@@ -9,7 +9,7 @@ draft = false
 | Antares[^fn:1]  | SUA  | NGSSG       | 2013  | 2xRD-181     | 8t    |        |       | 11      | 10      | 1       | 02.11.2019 |
 | Atlas V         | SUA  | ULA         | 2002  | 1xRD-180     | 20.5t |        | 8.9t  | 81      | 80      | (1)     | 20.12.2019 |
 | Delta IV Heavy  | SUA  | ULA         | 2004  | 1xRS-68A     | 28.7  |        | 14.2t | 10      | 9       | (1)     | 19.01.2019 |
-| Electron        | SUA  | RocketLab   | 2017  | 9xRutherford |       | 0.225t |       | 10      | 9       | 1       | 06.12.2019 |
+| Electron        | SUA  | RocketLab   | 2017  | 9xRutherford |       | 0.225t |       | 11      | 10      | 1       | 31.01.2020 |
 | Falcon 9[^fn:2] | SUA  | SpaceX      | 2010  | 9xMerlin     | 22.8t |        | 8.3t  | 79      | 77      | 1+(1)   | 29.01.2020 |
 | Falcon Heavy    | SUA  | SpaceX      | 2018  | 27xMerlin    | 63.8  |        | 26.7  | 3       | 3       | 0       | 25.06.2019 |
 | Minotaur-C      | SUA  | NGSSG       | 1994  | Castor(S)    | 1.3t  |        |       | 10      | 7       | 3       | 31.10.2017 |

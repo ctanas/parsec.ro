@@ -705,16 +705,17 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 :EXPORT_FILE_NAME: lansari2020
 :END:
 
-| Nr. | Data        | Lansator      | Satelit        | Masă  | Tip | Țara    | Rampa             | Ținta | Rezultat | Buletin |
-|-----+-------------+---------------+----------------+-------+-----+---------+-------------------+-------+----------+---------|
-|   1 | 07.01 02:19 | Falcon 9      | 60x Starlink-2 | 15.4t | COM | SUA     | CC SLC-40         | LEO   | Succes   | [[/bul/057][57]]      |
-|   2 | 07.01 15:20 | Changzheng-3B | TJSW-5         | <5.5t | MIL | China   | Xichang LC-2      | GTO   | Succes   | [[/bul/057][57]]      |
-|   3 | 15.01 02:53 | Changzheng-2D | Kuanfu-1       | ??    | OBS | China   | Taiyua LC-9       | LEO   | Succes   | [[/bul/058][58]]      |
-|   4 | 16.01 03:02 | Kuaizhou-1A   | Yinhe-1        | ??    | DEM | China   | Jiuquan           | SSO   | Succes   | [[/bul/059][59]]      |
-|   5 | 16.01 21:05 | Ariane 5 ECA  | Konnect        | 7.9t  | COM | Europa  | Kourour ELA-3     | GEO   | Succes   | [[/bul/059][59]]      |
-|   6 | 28.01 14:06 | Falcon 9      | 60x Starlink-3 | 15.4t | COM | SUA     | CC SLC-40         | LEO   | Succes   | [[/bul/060][60]]      |
-|   7 | 28.01 01:34 | H-IIA         | IGS-Optical 7  | ??    | MIL | Japonia | Tanegashima LA-Y1 | SSO   |          | [[/bul/061][61]]      |
-|     |             |               |                |       |     |         |                   |       |          |         |
+| Nr. | Data        | Lansator      | Satelit        | Masă   | Tip | Țara    | Rampa             | Ținta | Rezultat | Buletin |
+|-----+-------------+---------------+----------------+--------+-----+---------+-------------------+-------+----------+---------|
+|   1 | 07.01 02:19 | Falcon 9      | 60x Starlink-2 | 15.4t  | COM | SUA     | CC SLC-40         | LEO   | Succes   | [[/bul/057][57]]      |
+|   2 | 07.01 15:20 | Changzheng-3B | TJSW-5         | <5.5t  | MIL | China   | Xichang LC-2      | GTO   | Succes   | [[/bul/057][57]]      |
+|   3 | 15.01 02:53 | Changzheng-2D | Kuanfu-1       | ??     | OBS | China   | Taiyua LC-9       | LEO   | Succes   | [[/bul/058][58]]      |
+|   4 | 16.01 03:02 | Kuaizhou-1A   | Yinhe-1        | ??     | DEM | China   | Jiuquan           | SSO   | Succes   | [[/bul/059][59]]      |
+|   5 | 16.01 21:05 | Ariane 5 ECA  | Konnect        | 7.9t   | COM | Europa  | Kourour ELA-3     | GEO   | Succes   | [[/bul/059][59]]      |
+|   6 | 28.01 14:06 | Falcon 9      | 60x Starlink-3 | 15.4t  | COM | SUA     | CC SLC-40         | LEO   | Succes   | [[/bul/060][60]]      |
+|   7 | 31.01 02:56 | Electron      | NROL-151       | <225kg | MIL | SUA     | LC-1 Mahia        | SSO?  | Succes   | [[/bul/062][62]]      |
+|   8 | ??.02 01:34 | H-IIA         | IGS-Optical 7  | ??     | MIL | Japonia | Tanegashima LA-Y1 | SSO   |          | [[/bul/061][61]]      |
+|     |             |               |                |        |     |         |                   |       |          |         |
 
 **** Legendă tabel
 
@@ -948,7 +949,7 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 | Antares[fn:rc1]  | SUA  | NGSSG       |  2013 | 2xRD-181     | 8t    |        |       |      11 |      10 |       1 | 02.11.2019 |
 | Atlas V          | SUA  | ULA         |  2002 | 1xRD-180     | 20.5t |        | 8.9t  |      81 |      80 |     (1) | 20.12.2019 |
 | Delta IV Heavy   | SUA  | ULA         |  2004 | 1xRS-68A     | 28.7  |        | 14.2t |      10 |       9 |     (1) | 19.01.2019 |
-| Electron         | SUA  | RocketLab   |  2017 | 9xRutherford |       | 0.225t |       |      10 |       9 |       1 | 06.12.2019 |
+| Electron         | SUA  | RocketLab   |  2017 | 9xRutherford |       | 0.225t |       |      11 |      10 |       1 | 31.01.2020 |
 | Falcon 9[fn:rc2] | SUA  | SpaceX      |  2010 | 9xMerlin     | 22.8t |        | 8.3t  |      79 |      77 |   1+(1) | 29.01.2020 |
 | Falcon Heavy     | SUA  | SpaceX      |  2018 | 27xMerlin    | 63.8  |        | 26.7  |       3 |       3 |       0 | 25.06.2019 |
 | Minotaur-C       | SUA  | NGSSG       |  1994 | Castor(S)    | 1.3t  |        |       |      10 |       7 |       3 | 31.10.2017 |
@@ -1784,6 +1785,14 @@ Câteva noutăți despre planurile Rusiei cu privire la viitoarea capsulă rusea
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: bul
 :END:
+
+** Buletin Cosmic nr. 61
+
+*** Lansări orbitale
+
+Electron
+
+*** Alte evenimente
 
 ** Buletin Cosmic nr. 60 :eva:iss:jwst:progressms13:axiom: 
 :PROPERTIES:
