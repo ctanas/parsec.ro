@@ -1788,12 +1788,20 @@ Câteva noutăți despre planurile Rusiei cu privire la viitoarea capsulă rusea
 :END:
 
 ** Buletin Cosmic nr. 61
+:PROPERTIES:
+:EXPORT_FILE_NAME: 061
+:EXPORT_DATE: 2019-02-05
+:END:
 
 *** Lansări orbitale
 
 Electron
 
 *** Alte evenimente
+
+Cygnus
+
+Spitzer
 
 ** Buletin Cosmic nr. 60 :eva:iss:jwst:progressms13:axiom: 
 :PROPERTIES:
