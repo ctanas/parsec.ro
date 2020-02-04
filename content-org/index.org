@@ -1787,7 +1787,7 @@ Câteva noutăți despre planurile Rusiei cu privire la viitoarea capsulă rusea
 :EXPORT_HUGO_SECTION: bul
 :END:
 
-** Buletin Cosmic nr. 61
+** TODO Buletin Cosmic nr. 61 :electron:cygnus:ng12:spitzer:sls:
 :PROPERTIES:
 :EXPORT_FILE_NAME: 061
 :EXPORT_DATE: 2019-02-05
@@ -1801,7 +1801,17 @@ Electron
 
 Cygnus
 
+---
+
 Spitzer
+
+---
+
+SLS Stennis
+
+---
+
+Agenția spațială rusă Roscosmos ia în considerare o nouă misiune spre Venus, în colaborare cu NASA, misiune care ar conține cel puțin o sondă orbitală și un lander. Misiunea, denumită Venera-D, urmează să fie lansată cel mai devreme în 2029, folosind o rachetă Angara-A5 și proiectul urmează să coste aproximativ echivalentul a 260 milioane de dolari. Ultimul lander care a ajuns pe Venus a fost Vega-2, o sondă a fostei URSS, care a ajuns pe suprafața planetei în 1984. De atunci doar sonda europeană Venus Express a mai fost trimis pe orbita planetei vecine, deoarece condițiile de la suprafață sunt extrem de neprietenoase: presiunea de aproape 100 de ori mai mare decât pe Pământ, temperaturi de peste 400 de grade și nori din acid sulfuric. NASA explorează și posibilitatea de a trimite baloane în atmosfera lui Venus, însă nu a concretizat deocamdată nimic în acest sens.
 
 ** Buletin Cosmic nr. 60 :eva:iss:jwst:progressms13:axiom: 
 :PROPERTIES:
