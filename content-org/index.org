@@ -1790,6 +1790,17 @@ Câteva noutăți despre planurile Rusiei cu privire la viitoarea capsulă rusea
 :EXPORT_HUGO_SECTION: bul
 :END:
 
+** TODO Buletin Cosmic nr. 62
+:PROPERTIES:
+:EXPORT_FILE_NAME: 062
+:EXPORT_DATE: 2020-02-12
+:END:
+
+*** Lansări orbitale
+*** Alte evenimente
+
+Alexandr Skvortsov, Luca Parmitano și Christina Koch au revenit ieri dimineață înapoi pe Pământ, la bordul capsulei Soyuz MS-13, în stepele din Kazahstan. Christina Koch a petrecut în spațiu 328 de zile, cu 12 zile mai puțin decât Scott Kelly, deținătorul recordului pentru cea mai lungă perioadă continuă petrecută pe orbită de un american. După plecarea celor trei, la bordul Stației Spațiale Internaționale au rămas trei astronauți, Jessica Meir, Andrew Morgan și Oleg Skripochka și aceștia se vor întoarce acasă în aprilie, când este planificată și prima lansare a unei capsule Soyuz din acest an. Echipajul stației spațiale va rămâne la doar 3 astonauți până când din Statele Unite vor începe lansările comerciale, asigurate de SpaceX și Boeing.
+
 ** Buletin Cosmic nr. 61 :electron:cygnus:ng12:spitzer:sls:
 :PROPERTIES:
 :EXPORT_FILE_NAME: 061
