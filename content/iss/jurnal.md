@@ -4,8 +4,16 @@ author = ["Claudiu"]
 draft = false
 +++
 
+06.02.2020
+: Începe **Expediția 62**.
+
+---
+
+06.02.2020
+: Soyuz MS-13 revine pe Pământ cu Koch, Skvortsov, Parmitano;
+
 31.01.2020
-: Capsula Cygnus NG-12 se desprinde de ISS.
+: Capsula Cygnus NG-12 se desprinde de ISS;
 
 25.01.2020
 : EVA-227 (6 ore, 16 minute): Morgan și Parmitano, pentru întreținerea AMS-02;
