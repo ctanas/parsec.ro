@@ -12,11 +12,11 @@ draft = false
 | 4   | 16.01 03:02 | Kuaizhou-1A   | Yinhe-1        | ??     | DEM | China   | Jiuquan           | SSO   | Succes   | [59](/bul/059) |
 | 5   | 16.01 21:05 | Ariane 5 ECA  | Konnect        | 7.9t   | COM | Europa  | Kourour ELA-3     | GEO   | Succes   | [59](/bul/059) |
 | 6   | 28.01 14:06 | Falcon 9      | 60x Starlink-3 | 15.4t  | COM | SUA     | CC SLC-40         | LEO   | Succes   | [60](/bul/060) |
-| 7   | 31.01 02:56 | Electron      | NROL-151       | <225kg | MIL | SUA     | LC-1 Mahia        | SSO?  | Succes   | [61](/bul/062) |
-|     | 06.02 2142  | Soyuz-2.1b    | 34x OneWeb-2   |        | COM | Rusia   | Baikonur          | LEO   |          | 62             |
+| 7   | 31.01 02:56 | Electron      | NROL-151       | <225kg | MIL | SUA     | LC-1 Mahia        | LEO   | Succes   | [61](/bul/062) |
+| 8   | 06.02 2142  | Soyuz-2.1b    | 34x OneWeb-2   | 5.015t | COM | Europa  | Baikonur          | LEO   | Succes   | 62             |
+|     | 09.02 0134  | H-IIA         | IGS-Optical 7  | ??     | MIL | Japonia | Tanegashima LA-Y1 | SSO   |          | 62             |
 |     | 09.02 2239  | Antares-230   | Cygnus NG-13   |        | NAV | SUA     | Wallops 0A        | ISS   |          | 62             |
 |     | 10.02 0403  | Atlas-V 411   | Solar Orbiter  |        | NAV | SUA     | CC SLC-41         | INT   |          | 62             |
-|     | ??.02 01:34 | H-IIA         | IGS-Optical 7  | ??     | MIL | Japonia | Tanegashima LA-Y1 | SSO   |          | 62             |
 |     |             |               |                |        |     |         |                   |       |          |                |
 
 

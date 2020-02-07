@@ -711,8 +711,8 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 |   4 | 16.01 03:02 | Kuaizhou-1A   | Yinhe-1        | ??     | DEM | China   | Jiuquan           | SSO   | Succes   | [[/bul/059][59]]      |
 |   5 | 16.01 21:05 | Ariane 5 ECA  | Konnect        | 7.9t   | COM | Europa  | Kourour ELA-3     | GEO   | Succes   | [[/bul/059][59]]      |
 |   6 | 28.01 14:06 | Falcon 9      | 60x Starlink-3 | 15.4t  | COM | SUA     | CC SLC-40         | LEO   | Succes   | [[/bul/060][60]]      |
-|   7 | 31.01 02:56 | Electron      | NROL-151       | <225kg | MIL | SUA     | LC-1 Mahia        | SSO?  | Succes   | [[/bul/062][61]]      |
-|     | 06.02 2142  | Soyuz-2.1b    | 34x OneWeb-2   |        | COM | Rusia   | Baikonur          | LEO   |          | 62      |
+|   7 | 31.01 02:56 | Electron      | NROL-151       | <225kg | MIL | SUA     | LC-1 Mahia        | LEO   | Succes   | [[/bul/062][61]]      |
+|   8 | 06.02 2142  | Soyuz-2.1b    | 34x OneWeb-2   | 5.015t | COM | Europa  | Baikonur          | LEO   | Succes   | 62      |
 |     | 09.02 0134  | H-IIA         | IGS-Optical 7  | ??     | MIL | Japonia | Tanegashima LA-Y1 | SSO   |          | 62      |
 |     | 09.02 2239  | Antares-230   | Cygnus NG-13   |        | NAV | SUA     | Wallops 0A        | ISS   |          | 62      |
 |     | 10.02 0403  | Atlas-V 411   | Solar Orbiter  |        | NAV | SUA     | CC SLC-41         | INT   |          | 62      |
@@ -1794,9 +1794,16 @@ Câteva noutăți despre planurile Rusiei cu privire la viitoarea capsulă rusea
 :END:
 
 *** Lansări orbitale
+
+Arianespce/OneWeb
+
 *** Alte evenimente
 
 Alexandr Skvortsov, Luca Parmitano și Christina Koch au revenit joi, 6 februarie, înapoi pe Pământ, la bordul capsulei Soyuz MS-13, în stepele din Kazahstan. Christina Koch a petrecut în spațiu 328 de zile, cu 12 zile mai puțin decât Scott Kelly, deținătorul recordului pentru cea mai lungă perioadă continuă petrecută pe orbită de un american. După plecarea celor trei, la bordul Stației Spațiale Internaționale au rămas trei astronauți, Jessica Meir, Andrew Morgan și Oleg Skripochka și aceștia se vor întoarce acasă în aprilie, când este planificată și prima lansare a unei capsule Soyuz din acest an. Echipajul stației spațiale va rămâne la doar 3 astonauți până când din Statele Unite vor începe lansările comerciale, asigurate de SpaceX și Boeing. Aterizarea Soyuz MS-13 a avut loc la ora 11:12 minute.
+
+---
+
+Probleme Starliner
 
 ** Buletin Cosmic nr. 61 :electron:cygnus:ng12:spitzer:sls:
 :PROPERTIES:
