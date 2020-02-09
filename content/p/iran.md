@@ -26,9 +26,9 @@ Urmează trei lansări eșuate pentru Iran, neconfirmate oficial, în 23 mai 201
 
 Agenția Spațială din Iran a prezentat în 2010 noul său propulsor, Simorgh, care în 2016 a efectuat primul său suborbital, urmat de un eșec un an mai târziu. Simorgh poate urca un satelit de 60-100 de kilograme până la o altitudine de 500 km. După Simorgh, agenția spațială iraniană plănuiește să construiască o rachetă mai puternică, Qoqnoos, despre care însă nu se cunosc prea multe detalii.
 
-Pentru 2019 au fost programate trei lansări, însă toate trei s-au soldat cu un eșec. În 15 ianuarie, satelitul Payam este distrus când a doua treaptă a rachetei Simorgh suferă o problemă tehnică, al doilea eșec consecutiv pentru Simorgh. Câteva zile mai târziu, în 7 februarie, o rachetă Safir 1-B nu reușește să urce pe orbită satelitul Dousti, iar în 29 august 2019, un satelit american de spionaj[^fn:2],[^fn:3] a fotografiat o rampă de lansare avariată în urma unei explozii recente: se pare că o rachetă Safir era pregătită pentru zbor cu satelitul Nahid-1, dar în timpul alimentării cu combustibil s-a produs o deflagrație care a distrus racheta și a avariat rampa de lansare[^fn:4].
+Pentru 2019 au fost programate trei lansări, însă toate trei s-au soldat cu un eșec. În 15 ianuarie, satelitul Payam este distrus când a doua treaptă a rachetei Simorgh suferă o problemă tehnică, al doilea eșec consecutiv pentru Simorgh. Câteva zile mai târziu, în 7 februarie, o rachetă Safir 1-B nu reușește să urce pe orbită satelitul Dousti, iar în 29 august 2019, un satelit american de spionaj[^fn:2],[^fn:3] a fotografiat o rampă de lansare avariată în urma unei explozii recente: se pare că o rachetă Safir era pregătită pentru zbor cu satelitul Nahid-1, dar în timpul alimentării cu combustibil s-a produs o deflagrație care a distrus racheta și a avariat rampa de lansare[^fn:4]. În 9 februiarie 2020, o tentativă de lansare a satelitului Zafar-1 s-a încheiat cu un nou eșec al rachetei Simorhg.
 
-Ultimul satelit funcțional al Iranului a fost lansat deci în 2015, iar din 2017 și până în prezent au avut loc nu mai puțin de 4 eșecuri consecutive, câte două pentru fiecare lansator orbital (Safir și Simorgh), o serie de evenimente care va întârzia semnificativ planurile agenției spațiale iraniene pentru următorii ani.
+Ultimul satelit funcțional al Iranului a fost lansat deci în 2015, iar din 2017 și până în prezent au avut loc nu mai puțin de 5 eșecuri consecutive, pentru fiecare dintre cele două lansatoare orbitale (Safir și Simorgh), o serie de evenimente care va întârzia semnificativ planurile agenției spațiale iraniene pentru următorii ani.
 
 {{< figure src="/img/rampasenmam.jpg" caption="Figure 1: Rampa de lansare a rachetei Safir, avariate în jurul datei de 29 august." >}}
 
@@ -56,6 +56,7 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 | 15.01.2019 | Simorgh     | Payam                      | Eșec     | Defecțiunea treptei 3     |
 | 05.02.2019 | Safir       | Doosti                     | Eșec     | Lansare eșuată            |
 | 29.08.2019 | Safir       | Nahid-1                    | Eșec     | Explozie pe rampă         |
+| 09.02.2020 | Simorhg     | Zafar-1                    | Eșec     | Lansare eșuată            |
 
 
 ## Note de subsol {#note-de-subsol}
