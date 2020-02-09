@@ -14,7 +14,7 @@ draft = false
 | Falcon Heavy    | SUA  | SpaceX      | 2018  | 27xMerlin    | 63.8  |        | 26.7  | 3       | 3       | 0       | 25.06.2019 |
 | Minotaur-C      | SUA  | NGSSG       | 1994  | Castor(S)    | 1.3t  |        |       | 10      | 7       | 3       | 31.10.2017 |
 | Minotaur V      | SUA  | NGSSG       | 2013  | Castor(S)    |       |        | 0.53t | 1       | 1       | 0       | 07.09.2013 |
-| Soyuz-2         | RUS  | Roscosmos   | 2004  | 1xRD-108A    | 8.2t  | 4.9t   | 3.2t  | 96      | 89      | 4+(3)   | 18.12.2019 |
+| Soyuz-2         | RUS  | Roscosmos   | 2004  | 1xRD-108A    | 8.2t  | 4.9t   | 3.2t  | 97      | 90      | 4+(3)   | 06.02.2020 |
 | Proton-M        | RUS  | Roscosmos   | 2001  | 6xRD-275M    | 23t   |        | 6.3   | 109     | 98      | 9+(2)   | 24.12.2019 |
 | Rockot          | RUS  | Roscosmos   | 1994  | 3xRD-0233    | 1.9t  | 1.2t   |       | 34      | 31      | 2+(1)   | 27.12.2019 |
 | Angara          | RUS  | Roscosmos   | 2014  | 1xRD-191     | 3.8t  |        | 5.4t  | 2       | 2       | 0       | 23.12.2014 |
@@ -35,7 +35,7 @@ draft = false
 | Kuaizhou        | CHN  | CNSA        | 2013  | (S)          | 0.3t  | 0.2t   |       | 10      | 10      | 0       | 16.01.2020 |
 | Ariane 5        | EU   | ArianeSpace | 1996  | 1xVulcain    | 20t   |        | 10.9t | 107     | 102     | 2(3)    | 16.01.2020 |
 | Vega            | EU   | ArianeSpace | 2012  | P80 (S)      |       | 1.45t  |       | 15      | 14      | 1       | 11.07.2019 |
-| H-2A            | JPN  | JAXA        | 2001  | 1xLE-7A      | 15t   |        | 6t    | 40      | 39      | 1       | 29.10.2019 |
+| H-2A            | JPN  | JAXA        | 2001  | 1xLE-7A      | 15t   |        | 6t    | 41      | 40      | 1       | 09.02.2020 |
 | H-2B            | JPN  | JAXA        | 2009  | 2xLE-7A      | 16.5t |        | 8t    | 8       | 8       | 0       | 24.09.2019 |
 | PSLV            | IND  | ISRO        | 1993  | (S)          | 3.8t  | 1.75t  | 1.2t  | 50      | 47      | 2+(1)   | 11.12.2019 |
 | GSLV Mk.II      | IND  | ISRO        | 2010  | S139 (S)     | 5t    |        | 2.7t  | 7       | 6       | 1       | 19.12.2018 |
