@@ -8,6 +8,7 @@ draft = false
 
 | Nume sondă        | Lansare    | Agenție   | Rachetă        | Țintă   | EOM[^fn:1] | Cost[^fn:2]   | Stare                         |
 |-------------------|------------|-----------|----------------|---------|------------|---------------|-------------------------------|
+| Solar Orbiter     | 10.02.2020 | ESA       | Atlas V 411    | Soare   | 2027       | 1500          | în drum spre Soare            |
 | Chandrayaan-2     | 22.07.2019 | ISRO      | GSLV Mk.III    | Luna    | 2026       | 141           | pe orbita Lunii[^fn:3]        |
 | LRO               | 18.06.2009 | NASA      | Atlas V 401    | Luna    | 202X       | 583           | pe orbita Lunii               |
 | Chang'E-3/Yutu    | 01.12.2013 | CNSA      | Changzheng-3B  | Luna    | 20??       | ???           | lander/rover                  |
