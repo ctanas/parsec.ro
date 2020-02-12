@@ -713,12 +713,12 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 |   4 | 16.01 03:02 | Kuaizhou-1A   | Yinhe-1        | ??     | DEM | China   | Jiuquan           | SSO   | Succes   | [[/bul/059][59]]      |
 |   5 | 16.01 21:05 | Ariane 5 ECA  | Konnect        | 7.9t   | COM | Europa  | Kourour ELA-3     | GEO   | Succes   | [[/bul/059][59]]      |
 |   6 | 28.01 14:06 | Falcon 9      | 60x Starlink-3 | 15.4t  | COM | SUA     | CC SLC-40         | LEO   | Succes   | [[/bul/060][60]]      |
-|   7 | 31.01 02:56 | Electron      | NROL-151       | <225kg | MIL | SUA     | LC-1 Mahia        | LEO   | Succes   | [[/bul/062][61]]      |
-|   8 | 06.02 2142  | Soyuz-2.1b    | 34x OneWeb-2   | 5.015t | COM | Europa  | Baikonur          | LEO   | Succes   | 62      |
-|   9 | 09.02 0134  | H-IIA 202     | IGS-Optical 7  | ??     | MIL | Japonia | Tanegashima LA-Y1 | SSO   | Succes   | 62      |
-|  10 | 09.02 1845  | Simorgh       | Zafar-1        | ??     | ??  | Iran    | Semnan            | LEO   | Eșec     | 62      |
-|  11 | 10.02 0403  | Atlas-V 411   | Solar Orbiter  | 1.8t   | NAV | SUA     | CC SLC-41         | INT   | Succes   | 62      |
-|     | 09.02 2239  | Antares-230   | Cygnus NG-13   |        | NAV | SUA     | Wallops 0A        | ISS   |          | 62      |
+|   7 | 31.01 02:56 | Electron      | NROL-151       | <225kg | MIL | SUA     | LC-1 Mahia        | LEO   | Succes   | [[/bul/061][61]]      |
+|   8 | 06.02 2142  | Soyuz-2.1b    | 34x OneWeb-2   | 5.015t | COM | Europa  | Baikonur          | LEO   | Succes   | [[/bul/62][62]]      |
+|   9 | 09.02 0134  | H-IIA 202     | IGS-Optical 7  | ??     | MIL | Japonia | Tanegashima LA-Y1 | SSO   | Succes   | [[/bul/62][62]]      |
+|  10 | 09.02 1845  | Simorgh       | Zafar-1        | ??     | ??  | Iran    | Semnan            | LEO   | Eșec     | [[/bul/62][62]]      |
+|  11 | 10.02 0403  | Atlas-V 411   | Solar Orbiter  | 1.8t   | NAV | SUA     | CC SLC-41         | INT   | Succes   | [[/bul/62][62]]      |
+|     | 09.02 2239  | Antares-230   | Cygnus NG-13   |        | NAV | SUA     | Wallops 0A        | ISS   |          | 63      |
 |     |             |               |                |        |     |         |                   |       |          |         |
 
 **** Legendă tabel
@@ -1792,7 +1792,7 @@ Câteva noutăți despre planurile Rusiei cu privire la viitoarea capsulă rusea
 :EXPORT_HUGO_SECTION: bul
 :END:
 
-** TODO Buletin Cosmic nr. 62
+** Buletin Cosmic nr. 62 :soyuz2:h2a:iran:simorgh:solarobiter:atlasv:soyuz:ms13:
 :PROPERTIES:
 :EXPORT_FILE_NAME: 062
 :EXPORT_DATE: 2020-02-12
@@ -1800,20 +1800,30 @@ Câteva noutăți despre planurile Rusiei cu privire la viitoarea capsulă rusea
 
 *** Lansări orbitale
 
-Arianespce/OneWeb
-
-Simorgh/Zafar
-
-Atlas V/Solar Orbiter
-
-
-*** Alte evenimente
-
-Alexandr Skvortsov, Luca Parmitano și Christina Koch au revenit joi, 6 februarie, înapoi pe Pământ, la bordul capsulei Soyuz MS-13, în stepele din Kazahstan. Christina Koch a petrecut în spațiu 328 de zile, cu 12 zile mai puțin decât Scott Kelly, deținătorul recordului pentru cea mai lungă perioadă continuă petrecută pe orbită de un american. După plecarea celor trei, la bordul Stației Spațiale Internaționale au rămas trei astronauți, Jessica Meir, Andrew Morgan și Oleg Skripochka și aceștia se vor întoarce acasă în aprilie, când este planificată și prima lansare a unei capsule Soyuz din acest an. Echipajul stației spațiale va rămâne la doar 3 astonauți până când din Statele Unite vor începe lansările comerciale, asigurate de SpaceX și Boeing. Aterizarea Soyuz MS-13 a avut loc la ora 11:12 minute.
+Joia trecută, la ora 23:42, o rachetă rusă *Soyuz-2.1b*, operată de compania europeană Arianespace, a lansat de la Baikonur un set de 34 de sateliți din constelația *OneWeb*, care își propune să concureze cu constelația Starlink a companiei SpaceX. OneWeb este o companie britanică, susținută financiar Airbus, care dorește să lanseze 650 de sateliți la 1200 km altitudine pentru a oferi conexiune la internet oriunde pe suprafața Pământului. Altutidinea mai mare face ce numărul de sateliți necesari pentru o acoperire globală să fie seminifcativ mai mic decât în cazul Starlink. OneWeb speră să lanseze între 30 și 36 de sateliți în fiecare lună, până la completarea constelației, lansarea de joi fiind a doua, după ce anul trecut au fost lansați doi sateliți pentru teste inițiale.
 
 ---
 
-Probleme Starliner
+Duminică, 8 ianuarie, la ora 03:34 dimineața, o rachetă japoneză *H-IIA* a lansat de la centrul spațial din Tanegashima un satelit de observație pentru guvernul nipon. Detaliile satelitului *IGS Optical 7* sau ale orbitei nu au fost făcute publice, dar se pare că acesta a ajuns pe o orbită heliosincronă, un caz special al unei orbite terestre joase cu înclinație foarte ridicată, care îi permite să treacă în fiecare zi, la aceeași oră și același minut, deasupra aceluiași punct de pe suprafața Pământului. O racehtă H-IIB este programată pentru o lansare în luna mai, având la bord capsula HTV-9, cu provizii pentru Stația Spațială Internațională.
+
+---
+
+Tot duminică, Iranul a încercat o nouă lansare orbitală și aproape că au reușit să plaseze pe orbită satelitul *Zafar-1*: racheta *Simorgh* a părăsit rampa și a atins altitudinea de 540 de kilometri, însă în finalul satelitul nu a avut viteza necesară un traiectorii orbitale și a ajuns la câteva minute după lansare pe fundul Oceanului Pacific. Este a 5-a lansare eșuată a Iranului, fără a contabiliza și explozia unei rachete Safir pe rampa de lansare, în 29 august anul trecut. Cu toate acestea, se pare că următoarea tentativă de lansare a unui satelit va avea loc în următoarele luni și de această dată va fi folosită o rachetă cu combustibil solid. Ultima dată când Iran a reușit o lansare orbitală (satelitul Fajr) a fost în 2015, folosind o racehtă Safir cu combustibil lichid.
+
+---
+
+*Solar Orbiter*, o sondă europeană care va studia în premieră polii Soarelui, a fost lansată luni dimineața, 10 februarie, la ora 06:03 minute de către o rachetă Atlas V, de la Cape Caneveral, Florida. Configurația rachetei Atlas V este interesantă, fiind singura rachetă care poate folosi un singur booster cu combustibil solid, asimetria propulsiei astfel generată fiind compensată de propulsorul principal. Va dura 3 ani și jumătate până când sonda va ajunge pe orbita finală, după ajustări realizate prin survoluri repetate ale Pământului și ale planetei Venus. Deși nu va ajunge la fel de aproape de Soare precum sonda spațială Parker, lansată anul trecut, Solar Orbiter va fi prima sondă care va surprinde imagini cu polii Soarelui, în timp ce sonda Parker va opera doar în zona ecuatorială a astrului. Solar Orbiter este un proiect al Agenției Spațiale Europene (*ESA*, în colaborare cu NASA), însă din păcate România nu este printre cele 16 țări participante, după cum se vede în graficul de mai jos.
+
+#+CAPTION: Racheta Atlas V în configurația 411, lansând sonda europeană Solar Orbiter (/Sursa: [[https://twitter.com/ulalaunch/status/1226731549913178113/photo/1][United Launch Alliance]]/)
+[[/img/atlasvso.jpg]]
+
+*** Alte evenimente
+
+Alexandr Skvortsov, Luca Parmitano și Christina Koch au revenit joi, 6 februarie, înapoi pe Pământ, la bordul capsulei *Soyuz MS-13*, în stepele din Kazahstan. Christina Koch a petrecut în spațiu 328 de zile, cu 12 zile mai puțin decât Scott Kelly, deținătorul recordului pentru cea mai lungă perioadă continuă petrecută pe orbită de un american. După plecarea celor trei, la bordul Stației Spațiale Internaționale au rămas trei astronauți, Jessica Meir, Andrew Morgan și Oleg Skripochka și aceștia se vor întoarce acasă în aprilie, când este planificată și prima lansare a unei capsule Soyuz din acest an. Echipajul stației spațiale va rămâne la doar 3 astonauți până când din Statele Unite vor începe lansările comerciale, asigurate de SpaceX și Boeing. Aterizarea Soyuz MS-13 a avut loc la ora 11:12 minute.
+
+---
+
+Se vehiculează luna mai pentru prima lansare Dragon-2 cu echipaj la bord, după ce datele ultimului test al capsulei par să nu evidențieze nici o problemă majoră a vehiculului. Din punct de vedere tehnic, capsula este gata pentru zbor, au mai rămas doar proceduri birocratice de rezolvat de către SpaceX și NASA înainte ca Doug Hurley și Bob Behnken să pornească spre Stația Spațială Internațională. Din 2011, după retragerea navetelor spațiale, nici un astronaut nu a mai fost lansat de pe teritoriul Statelor Unite, fiind cea mai lungă pauză de acest fel de la începutul erei spațiale din anii 60, însă în acest an atât SpaceX, cât și Boeing, par să fie gata să înceapă lansările comerciale ale astronauților spre orbită.
 
 ** Buletin Cosmic nr. 61 :electron:cygnus:ng12:spitzer:sls:
 :PROPERTIES:
