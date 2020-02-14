@@ -23,26 +23,6 @@ facebook = "parsec.ro"
 twitter = "superparsec"
 email = "contact@parsec.ro"
 
-[[params.best_posts]]
-title = "Informații, astronauți și vehicule andocate"
-url = "/iss/intro/"
-
-[[params.best_posts]]
-title = "Module componente ale ISS"
-url = "/iss/module/"
-
-[[params.best_posts]]
-title = "Jurnal de activități"
-url = "/iss/jurnal/"
-
-[[params.best_posts]]
-title = "Echipaje CC-Dev (draft)"
-url = "/iss/ccdev/"
-
-[[params.best_posts]]
-title = "Oportunități de observație (Heavens Above)"
-url = "https://www.heavens-above.com/PassSummary.aspx?satid=25544&lat=46.7712&lng=23.6236&loc=Cluj-Napoca&alt=0&tz=EET"
-
 [[menu.primary]]
 identifier = "bul"
 name = "Buletin cosmic"
