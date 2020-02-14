@@ -17,9 +17,8 @@ Siteul de față reprezintă o colecție personală de materiale, articole și n
 + *Lansări orbitale* ( [[/r/lansari2020/][2020]] | [[/r/lansari2019][2019]] );
 + Stația Spațială Internațională ([[/iss/intro/][astronauți și vehicule]], [[/iss/jurnal][jurnal]], [[/iss/ccdev][CC-Dev]], [[/iss/module][module]], [[https://www.heavens-above.com/PassSummary.aspx?satid=25544&lat=46.7712&lng=23.6236&loc=Cluj-Napoca&alt=0&tz=EET][observații]]);
 + [[/m/sonde][Lista sondelor interplanetare active]];
-+ [[/r/rachete][Lista rachetelor active]] (plus detalii despre [[/r/antares][Antares]] și [[/r/soyuz-2][Soyuz-2]]);
++ [[/r/rachete][Lista rachetelor active]] (plus detalii despre [[/r/antares][Antares]], [[/r/soyuz-2][Soyuz-2]] și [[/x/falon9block5][Falcon 9 Block 5]];
 + [[/r/viitor][Rachete aflate în dezvoltare]] (/draft/);
-+ [[/x/falcon9][Lista treptelor primare Falcon 9 Block 5]];
 + Programe spațiale active (/selecție/: [[/p/china][China]], [[/p/india][India]], [[/p/iran][Iran]]);
 + [[/m/meteoriti][Meteoriți]]: informații generale și lista meteoriților românești (/draft/);
 + Articole diverse: [[/m/x37b][X-37B]], [[/m/buran][Buran]], [[/m/soyuz-fg][Soyuz-FG]], [[/m/olimp-k][Olimp-K]].
@@ -615,6 +614,15 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: x
 :END:
+** TODO Dragon
+:PROPERTIES:
+:EXPORT_FILE_NAME: dragon 
+:END:
+
+** TODO BFR
+:PROPERTIES:
+:EXPORT_FILE_NAME: bfr
+:END:
 ** Falcon 9 Block 5
 :PROPERTIES:
 :EXPORT_FILE_NAME: falcon9 
@@ -688,15 +696,6 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 [fn:B1055] Recuperat inițial pe barjă, dar pierdut ulterior datorită condițiilor meteo.
 [fn:B1057] Recuperarea pe barja OCISLY nu a reușit.
 [fn:B1058] Este treapta primară care urmează să fie folosită în prima misiune cu echipaj uman a SpaceX; a efectuat primul test static în 29 august 2019.
-** TODO Dragon
-:PROPERTIES:
-:EXPORT_FILE_NAME: dragon 
-:END:
-
-** TODO BFR
-:PROPERTIES:
-:EXPORT_FILE_NAME: bfr
-:END:
 
 
 * Rachete
