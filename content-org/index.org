@@ -1159,20 +1159,80 @@ Soyuz-U folosea motoare RD-118 pentru prima treaptă și RD-0110 pentru treapta 
 
 Soyuz-2, folosită începând cu 2006, vine însă în două variante: Soyuz-2.1a, cu motoare RD-0110 pentru treapta secundară, dar aceasta poate folosi și o treaptă secundară cu motoare RD-0124, mai performante, caz în care racheta se numește Soyuz-2.1b. Când racheta Soyuz-2 este lansată de compania Arianespace de la Guiana Franceză, aceasta este denumită Soyuz-STA, respectiv STB. Diferența dintre cele două motoare pentru treapta secundară este de aproximativ 1 tonă pentru orbita terestră joasă și 400 kg pentru orbită geostaționară. Mai există și varianta Soyuz-2.1v care înseamnă doar corpul central al rachetei, fără boosterele auxiliare, iar motorul ales pentru prima treaptă este NK-33 (care urmează să fie înlocuit cu RD-193), folosită mai rar (doar de 5 ori din 2013 și până în prezent).
 
-** Olimp-K
+** Falcon 9 Block 50
 :PROPERTIES:
-:EXPORT_FILE_NAME: olimp-k
+:EXPORT_FILE_NAME: falcon9 
 :END:
 
-În 27 septembrie 2014, la patru luni după eșecul lansării satelitului de telecomunicații Ekspress AM4R, o nouă rachetă Proton-M/Briz-M este lansată din Baikonur. Oficial, încărcătura este un satelit civil Luch, însă sub conul termodinamic protector se află un satelit militar secret.
+| Booster |       Data | Misiunea       | Recuperare       | Racheta    |
+|---------+------------+----------------+------------------+------------|
+| B1046.1 | 11.05.2018 | Bangabadhu-1   | OCISLY           | Falcon 9   |
+| B1046.2 | 07.08.2018 | Merah Putih    | OCISLY           | Falcon 9   |
+| B1046.3 | 03.11.2018 | SSO-A          | JRTI             | Falcon 9   |
+| B1046.4 | 18.01.2020 | CC-Dev Test    | N/A[fn:B1046]    | Falcon 9   |
+|---------+------------+----------------+------------------+------------|
+| B1047.1 | 22.07.2018 | Telstar-19V    | OCISLY           | Falcon 9   |
+| B1047.2 | 15.11.2019 | Es'hail-2      | OCISLY           | Falcon 9   |
+| B1047.3 | 06.08.2019 | AMOS-17        | N/A              | Falcon 9   |
+|---------+------------+----------------+------------------+------------|
+| B1048.1 | 25.07.2018 | Iridium-7      | JRTI             | Falcon 9   |
+| B1048.2 | 08.10.2018 | SAOCOM-1A      | LZ4              | Falcon 9   |
+| B1048.3 | 21.02.2019 | PSN-6          | OCISLY           | Falcon 9   |
+| B1048.4 | 11.11.2019 | Starlink-L1    | OCISLY           | Falcon 9   |
+|---------+------------+----------------+------------------+------------|
+| B1049.1 | 10.09.2018 | Telstar-18V    | OCISLY           | Falcon 9   |
+| B1049.2 | 11.01.2019 | Iridium-8      | JRTI             | Falcon 9   |
+| B1049.3 | 24.05.2019 | Starlink v.0.9 | OCISLY           | Falcon 9   |
+| B1049.4 | 07.01.2020 | Starlink-2     | OCISLY           | Falcon 9   |
+|---------+------------+----------------+------------------+------------|
+| B1050.1 | 05.12.2018 | Dragon CRS-16  | (LZ1)[fn:B1050]  | Falcon 9   |
+|---------+------------+----------------+------------------+------------|
+| B1051.1 | 09.03.2019 | Dragon DM-1    | OCISLY           | Falcon 9   |
+| B1051.2 | 12.06.2019 | RADARSAT       | LZ-4             | Falcon 9   |
+| B1051.3 | 29.01.2020 | Starlink-3     | OCISLY           | Falcon 9   |
+|---------+------------+----------------+------------------+------------|
+| B1052.1 | 12.04.2018 | Arabsat-6A     | LZ-1             | FH lateral |
+| B1052.2 | 25.06.2019 | STP-2          | LZ-1             | FH lateral |
+|---------+------------+----------------+------------------+------------|
+| B1053.1 | 12.04.2018 | Arabsat-6A     | LZ-1             | FH lateral |
+| B1053.2 | 25.06.2019 | STP-2          | LZ-1             | FH lateral |
+|---------+------------+----------------+------------------+------------|
+| B1054.1 | 23.12.2018 | GPS3-SV01      | N/A[fn:B1054]    | Falcon 9   |
+|---------+------------+----------------+------------------+------------|
+| B1055.1 | 12.04.2018 | Arabsat-6A     | OCISLY[fn:B1055] | FH centru  |
+|---------+------------+----------------+------------------+------------|
+| B1056.1 | 05.04.2019 | Dragon CRS-17  | OCISLY           | Falcon 9   |
+| B1056.2 | 25.07.2019 | Dragon CRS-18  | OCISLY           | Falcon 9   |
+| B1056.4 | 16.02.2020 | Starlink-4     | OCISLY           | Falcon 9   |
+| B1056.3 | 17.12.2019 | JSCAT-18       | OCISLY           | Falcon 9   |
+|---------+------------+----------------+------------------+------------|
+| B1057.1 | 25.06.2019 | STP-2          | N/A[fn:B1057]    | FH centru  |
+|---------+------------+----------------+------------------+------------|
+| B1058.1 | ??.??.2020 | Dragon DM-2    | ???[fn:B1058]    | Falcon 9   |
+|---------+------------+----------------+------------------+------------|
+| B1059.1 | 05.12.2019 | Dragon CRS-19  | OCISLY           | Falcon 9   |
+|---------+------------+----------------+------------------+------------|
 
-Lansarea trebuia să aibă loc încă de la sfârșitul lui mai 2014, dar eșecul lansării Ekspress AM4R, ancheta ce a urmat și un update al treptei Briz-M au decalat cu patru luni momentul în care racheta ajunge pe rampa de lansare 81 a complexului de la Baikonur. În cele din urmă, lansarea are loc în 27 septembrie la ora 23:23. Satelitul, construit de ISS Reshetnev, este plasat pe orbită geostaținoară, la 36000 kilometri deasupra ecuatorului. Zvonurile spun că Olimp-K este dotat cu un sistem revoluționar de comunicație prin laser și funcționează ca un releu între sateliții militari situați pe orbite mai joase și stațiile de la sol. În noiembrie 2014, Institutul de Fizică Tehnologică din Moscova (MFTI) anunță că un propulsor ionic de ultimă generație ce funcționează pe baza efectul Hall se află în spațiu la bordul unui satelit dezvoltat de ISS Reshetnev, după ce Oleg Gorshkov a muncit peste 9 ani la acest proiect. Olimp-K nu este numit direct, dar legătura cu satelitul lansat în septembrie 2014 este mai mult decât clară.
+**** Abrevieri
 
-Propulsoarele care funcționează pe baza principiul Hall sunt de fapt un caz aparte de propulsoare ionice. În propulsoarele ionice, combustibilul (ionii) este accelerat de către un câmp magnetic. Evident, puterea unui astfel de motor este incomparabil mai slabă decât cea a unui motor chimic clasic, deci accelerația pe care o asigură este una redusă, însă acesta poate funcționa un timp mai îndelungat și vehiculul câștigă astfel viteză semnificativă. În plus, combustibilul este mai ușor și mai simplu de stocat, ceea ce îl face o opțiune de luat în calcul în unele cazuri. Desigur, nimeni nu ar folosi un motor ionic pentru manevre de frânare sau accelerare bruscă, dar pentru misiuni în care timpul nu este o variabilă importantă, un motor ionic poate fi o opțiune (spre exemplu, sonda interplanetară Dawn folosește un propulsor ionic). Propulsoarele ionice cu efect Hall captează într-un câmp magnetic electronii în surplus, care limitează eficiența unui motor ionic clasic și astfel pot fi dezvoltate jeturi care ajung până la 30 km/s și forță de 1 N. Dezvoltat în principal de URSS și Rusia (cel puțin până în anii ’90), nu mai puțin de 100 de sateliți care beneficiază de această metodă de propulsie au fost lansați, în ultimele 3 decenii, pentru că aceste propulsoare pot fi folosite în orbită geostaționară (GEO) sau orbită joasă (LEO), dar și pentru a muta un satelit din LEO în GEO.
+- OCISLY :: Barja SpaceX *Of Course I Still Love You* de pe coasta de est, care deservește lansările de la Kennedy Space Center (rampa LC-39A) și Cape Canaveral (SLC-40);
 
-În 2013 apar zvonuri care spun că mai multe unități rusesc lucrează pentru un satelit militar ce primește indicativul 14K166 și care urmează să petreacă cel puțin 15 ani pe orbită. Este vorba despre ISS Reshetnev, Geofizika, LOMO și NPO Kvant. La începutul anului 2014, Roscosmos anunță iminenta lansare a unui satelit Luch. Aceasta este o serie binecunoscută de sateliți dedicați sectorului civil și după completarea constelației Luch-5 nu se mai aștepta nimeni la o nouă lansare din acest program. Dar acesta nu a fost singurul semn de întrebare ridicat în urma anunțului Roscosmos. Până acum, sateliții Luch nu erau prea masivi și de obicei împărțau drumul spre orbită oferit de generoasa rachetă Proton-M cu o altă încărcătură, un alt satelit. Însă de data asta, întreaga rachetă proton-M îi era dedicată, ceea ce înseamnă că satelitul are o masă considerabil mai mare (caracteristică specifică sateliților militari). Mai mult decât atât, sateliții din seria Luch poartă câte un număr (Luch 4, Luch 5, Luch 5A etc), însă de această dată acest număr suplimentar nu mai apare în anunțul Roscosmos. Toate aceste motive conduc la o singură explicație: lansarea Luch este de fapt o diversiune pentru lansarea unei încărcături militare secrete. În zona hangarului 92-50 din Baikonur, unde a fost pregătită încărcătura pentru conectarea acesteia la treapta superioară Briz-M, au fost făcute modificări pentru a împiedica ingineri străini (care iau uneori parte la pregătirile pentru lansările Proton-M) să poată vedea satelitul, operațiune care are loc de fiecare dată când acesta este un satelit militar. După lansare, mass-media din Rusia vorbește despre Luch ca despre un satelit civil, care va ajuta în comunicațiile dintre Stația Spațială Internațională și Pământ și va fi folosit și pentru a corecta semnalele sateliților de poziționare GLONASS, însă la scurt timp după acest anunț, satelitul primește indicativul Kosmos-2501, specific satelițior militari.
+- JRTI :: Barja SpaceX *Just Read the Instructions* de pe coasta de vest, care deservește lansările de la Baza Aeriană Vandenberg (rampa SLC-41);
 
-Imediat după lansare, satelitul Olimp-K și-a schimbat de mai multe ori poziția pe orbită, inclusiv altitudinea: în februarie 2015, aceasta a coborât cu 260 kilometri și a devenit perfect circulară. În aprilie, Olimp-K s-a poziționat între sateliții Intelsat 7 și Intelsat 901, uneori și la o distanță de 10 km de aceștia. Un purtător de cuvânt al Forțelor Aeriene SUA a declarat că Olimp-K s-a apropiat, de trei ori, până la 5 km de un alt satelit american, al cărui nume nu a fost specificat. În septembrie 2015, Olimp-K s-a apropiat de un alt satelit Intelsat (905). Unii observatori au observat că mișcările satelitului este corelată și cu deplasările unor elemente ale flotei rusești, lucru care se potrivește cu ipoteza care spune că aceasta este folosit pentru comunicații militare. Acum câteva zile, în 24 februarie 2016, Olimp-K s-a poziționat din nou curios, între alți doi sateliți: Intelsat 10-02 (satelit de telecomunicații comerciale) și Skynet 4C (un mai vechi satelit al ministerului de apărare britanic). Aceste manevre nu sunt deloc agreată de comunitatea internațională pentru că pun în pericol sateliții de telecomunicație, care au sloturi orbitale bine definite și care la o distanță mai mică de 10 km unul de altul sunt considerați a fi în pericol de coliziune. Cu toate acestea, Olimp-K nu este singurul satelit curios de pe orbită, Statele Unite au și ele astfel de sateliți mobili.
+- LZ-1, LZ-2 :: *Landing Zone 1 și 2* Fostul complex LC13 de la Cape Canaveral, închiriat de SpaceX, care a construit două zone unde boosterele Falcon pot reveni controlat la sol.
+
+- LZ-4 :: Fostul complex SLC-4W de la baza aeriană Vandenberg, închiriat de SpaceX, care a construit o zonă în care boosterul Falcon 9 poate reveni controla la sol.
+
+---
+
+**** Note
+
+[fn:B1046] Boosterul a fost distrus în urma unui test al capsulei Dragon-2, în care aceasta s-a desprins de rachetă la câteva secunde după lansare, prin activarea sistemului de separarea în caz de urgență.
+[fn:B1050] Programat să aterizeze pe LZ-1, în urma unei defecțiuni a ajuns în apa oceanului Atlantic, de unde a fost recuperat ulterior, avariat dar în mare parte intact, dar probabil nu va mai fi folosit
+[fn:B1054] Prima treaptă nu a fost recuperată, fiind nevoie de toată puterea disponibilă a rachetei.
+[fn:B1055] Recuperat inițial pe barjă, dar pierdut ulterior datorită condițiilor meteo.
+[fn:B1057] Recuperarea pe barja OCISLY nu a reușit.
+[fn:B1058] Este treapta primară care urmează să fie folosită în prima misiune cu echipaj uman a SpaceX; a efectuat primul test static în 29 august 2019.
 
 
 * Materiale diverse
@@ -1683,79 +1743,20 @@ Câteva noutăți despre planurile Rusiei cu privire la viitoarea capsulă rusea
 - al treilea zbor, în 2025, Orel va transporta astronauți spre ISS (dacă primele două zboruri decurg fără incidente)
 - până în 2027, Orel va folosi racheta Angara-5P pentru a ajunge pe orbită terestră joasă, urmând ca din 2028 să fie lansată de viitorul lansator supergreu Yenisei
 - în 2029, o nouă rachetă Yenisei va lansa o capsulă de tip Orel spre Lună, urmând ca în 2030, astronauții ruși să folosească racheta Yenisei și capsula Orel pentru... aselenizare.
-** Falcon 9 Block 5
+** Olimp-K
 :PROPERTIES:
-:EXPORT_FILE_NAME: falcon9 
+:EXPORT_FILE_NAME: olimp-k
 :END:
 
-| Booster |       Data | Misiunea       | Recuperare       | Racheta    |
-|---------+------------+----------------+------------------+------------|
-| B1046.1 | 11.05.2018 | Bangabadhu-1   | OCISLY           | Falcon 9   |
-| B1046.2 | 07.08.2018 | Merah Putih    | OCISLY           | Falcon 9   |
-| B1046.3 | 03.11.2018 | SSO-A          | JRTI             | Falcon 9   |
-| B1046.4 | 18.01.2020 | CC-Dev Test    | N/A[fn:B1046]    | Falcon 9   |
-|---------+------------+----------------+------------------+------------|
-| B1047.1 | 22.07.2018 | Telstar-19V    | OCISLY           | Falcon 9   |
-| B1047.2 | 15.11.2019 | Es'hail-2      | OCISLY           | Falcon 9   |
-| B1047.3 | 06.08.2019 | AMOS-17        | N/A              | Falcon 9   |
-|---------+------------+----------------+------------------+------------|
-| B1048.1 | 25.07.2018 | Iridium-7      | JRTI             | Falcon 9   |
-| B1048.2 | 08.10.2018 | SAOCOM-1A      | LZ4              | Falcon 9   |
-| B1048.3 | 21.02.2019 | PSN-6          | OCISLY           | Falcon 9   |
-| B1048.4 | 11.11.2019 | Starlink-L1    | OCISLY           | Falcon 9   |
-|---------+------------+----------------+------------------+------------|
-| B1049.1 | 10.09.2018 | Telstar-18V    | OCISLY           | Falcon 9   |
-| B1049.2 | 11.01.2019 | Iridium-8      | JRTI             | Falcon 9   |
-| B1049.3 | 24.05.2019 | Starlink v.0.9 | OCISLY           | Falcon 9   |
-| B1049.4 | 07.01.2020 | Starlink-2     | OCISLY           | Falcon 9   |
-|---------+------------+----------------+------------------+------------|
-| B1050.1 | 05.12.2018 | Dragon CRS-16  | (LZ1)[fn:B1050]  | Falcon 9   |
-|---------+------------+----------------+------------------+------------|
-| B1051.1 | 09.03.2019 | Dragon DM-1    | OCISLY           | Falcon 9   |
-| B1051.2 | 12.06.2019 | RADARSAT       | LZ-4             | Falcon 9   |
-| B1051.3 | 29.01.2020 | Starlink-3     | OCISLY           | Falcon 9   |
-|---------+------------+----------------+------------------+------------|
-| B1052.1 | 12.04.2018 | Arabsat-6A     | LZ-1             | FH lateral |
-| B1052.2 | 25.06.2019 | STP-2          | LZ-1             | FH lateral |
-|---------+------------+----------------+------------------+------------|
-| B1053.1 | 12.04.2018 | Arabsat-6A     | LZ-1             | FH lateral |
-| B1053.2 | 25.06.2019 | STP-2          | LZ-1             | FH lateral |
-|---------+------------+----------------+------------------+------------|
-| B1054.1 | 23.12.2018 | GPS3-SV01      | N/A[fn:B1054]    | Falcon 9   |
-|---------+------------+----------------+------------------+------------|
-| B1055.1 | 12.04.2018 | Arabsat-6A     | OCISLY[fn:B1055] | FH centru  |
-|---------+------------+----------------+------------------+------------|
-| B1056.1 | 05.04.2019 | Dragon CRS-17  | OCISLY           | Falcon 9   |
-| B1056.2 | 25.07.2019 | Dragon CRS-18  | OCISLY           | Falcon 9   |
-| B1056.3 | 17.12.2019 | JSCAT-18       | OCISLY           | Falcon 9   |
-|---------+------------+----------------+------------------+------------|
-| B1057.1 | 25.06.2019 | STP-2          | N/A[fn:B1057]    | FH centru  |
-|---------+------------+----------------+------------------+------------|
-| B1058.1 | ??.??.2020 | Dragon DM-2    | ???[fn:B1058]    | Falcon 9   |
-|---------+------------+----------------+------------------+------------|
-| B1059.1 | 05.12.2019 | Dragon CRS-19  | OCISLY           | Falcon 9   |
-|---------+------------+----------------+------------------+------------|
+În 27 septembrie 2014, la patru luni după eșecul lansării satelitului de telecomunicații Ekspress AM4R, o nouă rachetă Proton-M/Briz-M este lansată din Baikonur. Oficial, încărcătura este un satelit civil Luch, însă sub conul termodinamic protector se află un satelit militar secret.
 
-**** Abrevieri
+Lansarea trebuia să aibă loc încă de la sfârșitul lui mai 2014, dar eșecul lansării Ekspress AM4R, ancheta ce a urmat și un update al treptei Briz-M au decalat cu patru luni momentul în care racheta ajunge pe rampa de lansare 81 a complexului de la Baikonur. În cele din urmă, lansarea are loc în 27 septembrie la ora 23:23. Satelitul, construit de ISS Reshetnev, este plasat pe orbită geostaținoară, la 36000 kilometri deasupra ecuatorului. Zvonurile spun că Olimp-K este dotat cu un sistem revoluționar de comunicație prin laser și funcționează ca un releu între sateliții militari situați pe orbite mai joase și stațiile de la sol. În noiembrie 2014, Institutul de Fizică Tehnologică din Moscova (MFTI) anunță că un propulsor ionic de ultimă generație ce funcționează pe baza efectul Hall se află în spațiu la bordul unui satelit dezvoltat de ISS Reshetnev, după ce Oleg Gorshkov a muncit peste 9 ani la acest proiect. Olimp-K nu este numit direct, dar legătura cu satelitul lansat în septembrie 2014 este mai mult decât clară.
 
-- OCISLY :: Barja SpaceX *Of Course I Still Love You* de pe coasta de est, care deservește lansările de la Kennedy Space Center (rampa LC-39A) și Cape Canaveral (SLC-40);
+Propulsoarele care funcționează pe baza principiul Hall sunt de fapt un caz aparte de propulsoare ionice. În propulsoarele ionice, combustibilul (ionii) este accelerat de către un câmp magnetic. Evident, puterea unui astfel de motor este incomparabil mai slabă decât cea a unui motor chimic clasic, deci accelerația pe care o asigură este una redusă, însă acesta poate funcționa un timp mai îndelungat și vehiculul câștigă astfel viteză semnificativă. În plus, combustibilul este mai ușor și mai simplu de stocat, ceea ce îl face o opțiune de luat în calcul în unele cazuri. Desigur, nimeni nu ar folosi un motor ionic pentru manevre de frânare sau accelerare bruscă, dar pentru misiuni în care timpul nu este o variabilă importantă, un motor ionic poate fi o opțiune (spre exemplu, sonda interplanetară Dawn folosește un propulsor ionic). Propulsoarele ionice cu efect Hall captează într-un câmp magnetic electronii în surplus, care limitează eficiența unui motor ionic clasic și astfel pot fi dezvoltate jeturi care ajung până la 30 km/s și forță de 1 N. Dezvoltat în principal de URSS și Rusia (cel puțin până în anii ’90), nu mai puțin de 100 de sateliți care beneficiază de această metodă de propulsie au fost lansați, în ultimele 3 decenii, pentru că aceste propulsoare pot fi folosite în orbită geostaționară (GEO) sau orbită joasă (LEO), dar și pentru a muta un satelit din LEO în GEO.
 
-- JRTI :: Barja SpaceX *Just Read the Instructions* de pe coasta de vest, care deservește lansările de la Baza Aeriană Vandenberg (rampa SLC-41);
+În 2013 apar zvonuri care spun că mai multe unități rusesc lucrează pentru un satelit militar ce primește indicativul 14K166 și care urmează să petreacă cel puțin 15 ani pe orbită. Este vorba despre ISS Reshetnev, Geofizika, LOMO și NPO Kvant. La începutul anului 2014, Roscosmos anunță iminenta lansare a unui satelit Luch. Aceasta este o serie binecunoscută de sateliți dedicați sectorului civil și după completarea constelației Luch-5 nu se mai aștepta nimeni la o nouă lansare din acest program. Dar acesta nu a fost singurul semn de întrebare ridicat în urma anunțului Roscosmos. Până acum, sateliții Luch nu erau prea masivi și de obicei împărțau drumul spre orbită oferit de generoasa rachetă Proton-M cu o altă încărcătură, un alt satelit. Însă de data asta, întreaga rachetă proton-M îi era dedicată, ceea ce înseamnă că satelitul are o masă considerabil mai mare (caracteristică specifică sateliților militari). Mai mult decât atât, sateliții din seria Luch poartă câte un număr (Luch 4, Luch 5, Luch 5A etc), însă de această dată acest număr suplimentar nu mai apare în anunțul Roscosmos. Toate aceste motive conduc la o singură explicație: lansarea Luch este de fapt o diversiune pentru lansarea unei încărcături militare secrete. În zona hangarului 92-50 din Baikonur, unde a fost pregătită încărcătura pentru conectarea acesteia la treapta superioară Briz-M, au fost făcute modificări pentru a împiedica ingineri străini (care iau uneori parte la pregătirile pentru lansările Proton-M) să poată vedea satelitul, operațiune care are loc de fiecare dată când acesta este un satelit militar. După lansare, mass-media din Rusia vorbește despre Luch ca despre un satelit civil, care va ajuta în comunicațiile dintre Stația Spațială Internațională și Pământ și va fi folosit și pentru a corecta semnalele sateliților de poziționare GLONASS, însă la scurt timp după acest anunț, satelitul primește indicativul Kosmos-2501, specific satelițior militari.
 
-- LZ-1, LZ-2 :: *Landing Zone 1 și 2* Fostul complex LC13 de la Cape Canaveral, închiriat de SpaceX, care a construit două zone unde boosterele Falcon pot reveni controlat la sol.
-
-- LZ-4 :: Fostul complex SLC-4W de la baza aeriană Vandenberg, închiriat de SpaceX, care a construit o zonă în care boosterul Falcon 9 poate reveni controla la sol.
-
----
-
-**** Note
-
-[fn:B1046] Boosterul a fost distrus în urma unui test al capsulei Dragon-2, în care aceasta s-a desprins de rachetă la câteva secunde după lansare, prin activarea sistemului de separarea în caz de urgență.
-[fn:B1050] Programat să aterizeze pe LZ-1, în urma unei defecțiuni a ajuns în apa oceanului Atlantic, de unde a fost recuperat ulterior, avariat dar în mare parte intact, dar probabil nu va mai fi folosit
-[fn:B1054] Prima treaptă nu a fost recuperată, fiind nevoie de toată puterea disponibilă a rachetei.
-[fn:B1055] Recuperat inițial pe barjă, dar pierdut ulterior datorită condițiilor meteo.
-[fn:B1057] Recuperarea pe barja OCISLY nu a reușit.
-[fn:B1058] Este treapta primară care urmează să fie folosită în prima misiune cu echipaj uman a SpaceX; a efectuat primul test static în 29 august 2019.
+Imediat după lansare, satelitul Olimp-K și-a schimbat de mai multe ori poziția pe orbită, inclusiv altitudinea: în februarie 2015, aceasta a coborât cu 260 kilometri și a devenit perfect circulară. În aprilie, Olimp-K s-a poziționat între sateliții Intelsat 7 și Intelsat 901, uneori și la o distanță de 10 km de aceștia. Un purtător de cuvânt al Forțelor Aeriene SUA a declarat că Olimp-K s-a apropiat, de trei ori, până la 5 km de un alt satelit american, al cărui nume nu a fost specificat. În septembrie 2015, Olimp-K s-a apropiat de un alt satelit Intelsat (905). Unii observatori au observat că mișcările satelitului este corelată și cu deplasările unor elemente ale flotei rusești, lucru care se potrivește cu ipoteza care spune că aceasta este folosit pentru comunicații militare. Acum câteva zile, în 24 februarie 2016, Olimp-K s-a poziționat din nou curios, între alți doi sateliți: Intelsat 10-02 (satelit de telecomunicații comerciale) și Skynet 4C (un mai vechi satelit al ministerului de apărare britanic). Aceste manevre nu sunt deloc agreată de comunitatea internațională pentru că pun în pericol sateliții de telecomunicație, care au sloturi orbitale bine definite și care la o distanță mai mică de 10 km unul de altul sunt considerați a fi în pericol de coliziune. Cu toate acestea, Olimp-K nu este singurul satelit curios de pe orbită, Statele Unite au și ele astfel de sateliți mobili.
 
 
 * Buletin Cosmic
