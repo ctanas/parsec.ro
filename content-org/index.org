@@ -17,7 +17,7 @@ Siteul de față reprezintă o colecție personală de materiale, articole și n
 + *Lansări orbitale* ( [[/r/lansari2020/][2020]] | [[/r/lansari2019][2019]] );
 + Stația Spațială Internațională ([[/iss/intro/][astronauți și vehicule]], [[/iss/jurnal][jurnal]], [[/iss/ccdev][CC-Dev]], [[/iss/module][module]], [[https://www.heavens-above.com/PassSummary.aspx?satid=25544&lat=46.7712&lng=23.6236&loc=Cluj-Napoca&alt=0&tz=EET][observații]]);
 + [[/m/sonde][Lista sondelor interplanetare active]];
-+ [[/r/rachete][Lista rachetelor active]] (plus detalii despre [[/r/antares][Antares]], [[/r/soyuz-2][Soyuz-2]] și [[/x/falon9block5][Falcon 9 Block 5]];
++ [[/r/rachete][Lista rachetelor active]] (plus detalii despre [[/r/antares][Antares]], [[/r/soyuz-2][Soyuz-2]] și [[/x/falon9block5][Falcon 9 Block 5]]);
 + [[/r/viitor][Rachete aflate în dezvoltare]] (/draft/);
 + Programe spațiale active (/selecție/: [[/p/china][China]], [[/p/india][India]], [[/p/iran][Iran]]);
 + [[/m/meteoriti][Meteoriți]]: informații generale și lista meteoriților românești (/draft/);
