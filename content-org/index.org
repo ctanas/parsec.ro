@@ -612,7 +612,7 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 |   9 | 09.02 0134  | H-IIA 202     | IGS-Optical 7  | ??     | MIL | Japonia | Tanegashima LA-Y1 | SSO   | Succes   | [[/bul/62][62]]      |
 |  10 | 09.02 1845  | Simorgh       | Zafar-1        | ??     | ??  | Iran    | Semnan            | LEO   | Eșec     | [[/bul/62][62]]      |
 |  11 | 10.02 0403  | Atlas-V 411   | Solar Orbiter  | 1.8t   | NAV | SUA     | CC SLC-41         | INT   | Succes   | [[/bul/62][62]]      |
-|     | 14.02 2243  | Antares-230   | Cygnus NG-13   | 6.6    | NAV | SUA     | Wallops 0A        | ISS   |          | 63      |
+|  12 | 14.02 2221  | Antares-230   | Cygnus NG-13   | 6.6    | NAV | SUA     | Wallops 0A        | ISS   | Succes   | 63      |
 |     | 15.02 1546  | Falcon 9      | 60x Starlink-4 | 15.4t  | COM | SUA     | CC SLC-40         | LEO   |          | 63      |
 
 **** Legendă tabel
@@ -1107,6 +1107,7 @@ Misiunea NG-12, parte a CRS2 (a doua parte a contractului de aprovizionare comer
 | NG-10   | 17.11.2018 | A-230   | RD-181  | C-30XL  | 19.11.2018 |     3350 | 08.02.2018 | 25.02.2019 | Unity   | Succ. |
 | NG-11   | 17.04.2019 | A-230   | RD-181  | C-30XL  | 19.04.2019 |     3436 | 06.08.2019 | 06.09.2019 | Unity   | Succ. |
 | NG-12   | 02.11.2019 | A-230+  | RD-181  | C-30XL  | 04.11.2019 |     3750 | 31.01.2020 |            | Unity   | Succ. |
+| NG-13   | 15.02.2020 | A-230+  | RD-181  | C-30XL  | 18.02.2020 |     3377 |            |            | Unity   | Succ. |
 
 [fn:ant1] /Orbital Sciences/ a fost fondată în 1982 și în 2014 a fuzionat cu /Alliant Techsystems/ (ATK), formând compania /Orbital ATK/, care a funcționat ca atare până în 2017, când /Northrop Grumman/ a cumpărat /Orbital ATK/, astfel că fosta companie a ajuns o divizie în cadrul /Northrop Grumman/, denumită /Nortrop Grumman Innovation System/ (NGIS).
 
@@ -1159,7 +1160,7 @@ Soyuz-U folosea motoare RD-118 pentru prima treaptă și RD-0110 pentru treapta 
 
 Soyuz-2, folosită începând cu 2006, vine însă în două variante: Soyuz-2.1a, cu motoare RD-0110 pentru treapta secundară, dar aceasta poate folosi și o treaptă secundară cu motoare RD-0124, mai performante, caz în care racheta se numește Soyuz-2.1b. Când racheta Soyuz-2 este lansată de compania Arianespace de la Guiana Franceză, aceasta este denumită Soyuz-STA, respectiv STB. Diferența dintre cele două motoare pentru treapta secundară este de aproximativ 1 tonă pentru orbita terestră joasă și 400 kg pentru orbită geostaționară. Mai există și varianta Soyuz-2.1v care înseamnă doar corpul central al rachetei, fără boosterele auxiliare, iar motorul ales pentru prima treaptă este NK-33 (care urmează să fie înlocuit cu RD-193), folosită mai rar (doar de 5 ori din 2013 și până în prezent).
 
-** Falcon 9 Block 50
+** Falcon 9 Block 5
 :PROPERTIES:
 :EXPORT_FILE_NAME: falcon9 
 :END:

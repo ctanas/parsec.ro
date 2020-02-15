@@ -17,7 +17,7 @@ draft = false
 | 9   | 09.02 0134  | H-IIA 202     | IGS-Optical 7  | ??     | MIL | Japonia | Tanegashima LA-Y1 | SSO   | Succes   | [62](/bul/62)  |
 | 10  | 09.02 1845  | Simorgh       | Zafar-1        | ??     | ??  | Iran    | Semnan            | LEO   | Eșec     | [62](/bul/62)  |
 | 11  | 10.02 0403  | Atlas-V 411   | Solar Orbiter  | 1.8t   | NAV | SUA     | CC SLC-41         | INT   | Succes   | [62](/bul/62)  |
-|     | 14.02 2243  | Antares-230   | Cygnus NG-13   | 6.6    | NAV | SUA     | Wallops 0A        | ISS   |          | 63             |
+| 12  | 14.02 2221  | Antares-230   | Cygnus NG-13   | 6.6    | NAV | SUA     | Wallops 0A        | ISS   | Succes   | 63             |
 |     | 15.02 1546  | Falcon 9      | 60x Starlink-4 | 15.4t  | COM | SUA     | CC SLC-40         | LEO   |          | 63             |
 
 
