@@ -33,10 +33,10 @@ draft = false
 | B1055.1 | 12.04.2018 | Arabsat-6A     | OCISLY[^fn:4] | FH centru  |
 | B1056.1 | 05.04.2019 | Dragon CRS-17  | OCISLY        | Falcon 9   |
 | B1056.2 | 25.07.2019 | Dragon CRS-18  | OCISLY        | Falcon 9   |
-| B1056.4 | 16.02.2020 | Starlink-4     | OCISLY        | Falcon 9   |
 | B1056.3 | 17.12.2019 | JSCAT-18       | OCISLY        | Falcon 9   |
-| B1057.1 | 25.06.2019 | STP-2          | N/A[^fn:5]    | FH centru  |
-| B1058.1 | ??.??.2020 | Dragon DM-2    | ???[^fn:6]    | Falcon 9   |
+| B1056.4 | 17.02.2020 | Starlink-4     | N/A[^fn:5]    | Falcon 9   |
+| B1057.1 | 25.06.2019 | STP-2          | N/A[^fn:6]    | FH centru  |
+| B1058.1 | ??.??.2020 | Dragon DM-2    | ???[^fn:7]    | Falcon 9   |
 | B1059.1 | 05.12.2019 | Dragon CRS-19  | OCISLY        | Falcon 9   |
 
 
@@ -66,5 +66,6 @@ LZ-4
 [^fn:2]: Programat să aterizeze pe LZ-1, în urma unei defecțiuni a ajuns în apa oceanului Atlantic, de unde a fost recuperat ulterior, avariat dar în mare parte intact, dar probabil nu va mai fi folosit
 [^fn:3]: Prima treaptă nu a fost recuperată, fiind nevoie de toată puterea disponibilă a rachetei.
 [^fn:4]: Recuperat inițial pe barjă, dar pierdut ulterior datorită condițiilor meteo.
-[^fn:5]: Recuperarea pe barja OCISLY nu a reușit.
-[^fn:6]: Este treapta primară care urmează să fie folosită în prima misiune cu echipaj uman a SpaceX; a efectuat primul test static în 29 august 2019.
+[^fn:5]: Recuperarea pe barja OCISLY nu a reușit, boosterul ajungând în ocean, la câțiva zeci de metri de barjă.
+[^fn:6]: Recuperarea pe barja OCISLY nu a reușit.
+[^fn:7]: Este treapta primară care urmează să fie folosită în prima misiune cu echipaj uman a SpaceX; a efectuat primul test static în 29 august 2019.

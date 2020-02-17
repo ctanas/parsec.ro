@@ -18,7 +18,7 @@ draft = false
 | 10  | 09.02 1845  | Simorgh       | Zafar-1        | ??     | ??  | Iran    | Semnan            | LEO   | Eșec     | [62](/bul/62)  |
 | 11  | 10.02 0403  | Atlas-V 411   | Solar Orbiter  | 1.8t   | NAV | SUA     | CC SLC-41         | INT   | Succes   | [62](/bul/62)  |
 | 12  | 14.02 2021  | Antares-230   | Cygnus NG-13   | 6.6    | NAV | SUA     | Wallops 0A        | ISS   | Succes   | 63             |
-|     | 15.02 1546  | Falcon-9      | 60x Starlink-4 | 15.4t  | COM | SUA     | CC SLC-40         | LEO   |          | 63             |
+| 13  | 17.02 1505  | Falcon-9      | 60x Starlink-4 | 15.4t  | COM | SUA     | CC SLC-40         | LEO   | Succes   | 63             |
 |     | 18.02 2218  | Ariane-5 ECA  | JCSAT-17       | 10.26t | COM | Europa  | Kourou ELA-3      | GEO   |          | 63             |
 
 

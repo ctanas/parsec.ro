@@ -608,12 +608,13 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 |   5 | 16.01 21:05 | Ariane-5 ECA  | Konnect        | 7.888t | COM | Europa  | Kourou ELA-3      | GEO   | Succes   | [[/bul/059][59]]      |
 |   6 | 28.01 14:06 | Falcon-9      | 60x Starlink-3 | 15.4t  | COM | SUA     | CC SLC-40         | LEO   | Succes   | [[/bul/060][60]]      |
 |   7 | 31.01 02:56 | Electron      | NROL-151       | <225kg | MIL | SUA     | LC-1 Mahia        | LEO   | Succes   | [[/bul/061][61]]      |
+|-----+-------------+---------------+----------------+--------+-----+---------+-------------------+-------+----------+---------|
 |   8 | 06.02 2142  | Soyuz-2.1b    | 34x OneWeb-2   | 5.015t | COM | Europa  | Baikonur          | LEO   | Succes   | [[/bul/62][62]]      |
 |   9 | 09.02 0134  | H-IIA 202     | IGS-Optical-7  | ??     | MIL | Japonia | Tanegashima LA-Y1 | SSO   | Succes   | [[/bul/62][62]]      |
 |  10 | 09.02 1845  | Simorgh       | Zafar-1        | ??     | ??  | Iran    | Semnan            | LEO   | Eșec     | [[/bul/62][62]]      |
 |  11 | 10.02 0403  | Atlas-V 411   | Solar Orbiter  | 1.8t   | NAV | SUA     | CC SLC-41         | INT   | Succes   | [[/bul/62][62]]      |
 |  12 | 14.02 2021  | Antares-230   | Cygnus NG-13   | 6.6    | NAV | SUA     | Wallops 0A        | ISS   | Succes   | 63      |
-|     | 15.02 1546  | Falcon-9      | 60x Starlink-4 | 15.4t  | COM | SUA     | CC SLC-40         | LEO   |          | 63      |
+|  13 | 17.02 1505  | Falcon-9      | 60x Starlink-4 | 15.4t  | COM | SUA     | CC SLC-40         | LEO   | Succes   | 63      |
 |     | 18.02 2218  | Ariane-5 ECA  | JCSAT-17       | 10.26t | COM | Europa  | Kourou ELA-3      | GEO   |          | 63      |
 
 **** Legendă tabel
@@ -845,11 +846,11 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 |------------------+------+-------------+-------+--------------+-------+--------+-------+---------+---------+---------+------------|
 | Racheta          | Țara | Operator    | Debut | Motor        | LEO   | SSO    | GTO   | Lansări | Succese | Eșecuri |     Ultima |
 |------------------+------+-------------+-------+--------------+-------+--------+-------+---------+---------+---------+------------|
-| Antares[fn:rc1]  | SUA  | NGSSG       |  2013 | 2xRD-181     | 8t    |        |       |      11 |      10 |       1 | 02.11.2019 |
+| Antares[fn:rc1]  | SUA  | NGSSG       |  2013 | 2xRD-181     | 8t    |        |       |      12 |      11 |       1 | 14.02.2020 |
 | Atlas V          | SUA  | ULA         |  2002 | 1xRD-180     | 20.5t |        | 8.9t  |      82 |      81 |     (1) | 10.02.2020 |
 | Delta IV Heavy   | SUA  | ULA         |  2004 | 1xRS-68A     | 28.7  |        | 14.2t |      10 |       9 |     (1) | 19.01.2019 |
 | Electron         | SUA  | RocketLab   |  2017 | 9xRutherford |       | 0.225t |       |      11 |      10 |       1 | 31.01.2020 |
-| Falcon 9[fn:rc2] | SUA  | SpaceX      |  2010 | 9xMerlin     | 22.8t |        | 8.3t  |      79 |      77 |   1+(1) | 29.01.2020 |
+| Falcon 9[fn:rc2] | SUA  | SpaceX      |  2010 | 9xMerlin     | 22.8t |        | 8.3t  |      80 |      78 |   1+(1) | 17.02.2020 |
 | Falcon Heavy     | SUA  | SpaceX      |  2018 | 27xMerlin    | 63.8  |        | 26.7  |       3 |       3 |       0 | 25.06.2019 |
 | Minotaur-C       | SUA  | NGSSG       |  1994 | Castor(S)    | 1.3t  |        |       |      10 |       7 |       3 | 31.10.2017 |
 | Minotaur V       | SUA  | NGSSG       |  2013 | Castor(S)    |       |        | 0.53t |       1 |       1 |       0 | 07.09.2013 |
@@ -1205,8 +1206,8 @@ Soyuz-2, folosită începând cu 2006, vine însă în două variante: Soyuz-2.1
 |---------+------------+----------------+------------------+------------|
 | B1056.1 | 05.04.2019 | Dragon CRS-17  | OCISLY           | Falcon 9   |
 | B1056.2 | 25.07.2019 | Dragon CRS-18  | OCISLY           | Falcon 9   |
-| B1056.4 | 16.02.2020 | Starlink-4     | OCISLY           | Falcon 9   |
 | B1056.3 | 17.12.2019 | JSCAT-18       | OCISLY           | Falcon 9   |
+| B1056.4 | 17.02.2020 | Starlink-4     | N/A[fn:B1056]    | Falcon 9   |
 |---------+------------+----------------+------------------+------------|
 | B1057.1 | 25.06.2019 | STP-2          | N/A[fn:B1057]    | FH centru  |
 |---------+------------+----------------+------------------+------------|
@@ -1233,6 +1234,7 @@ Soyuz-2, folosită începând cu 2006, vine însă în două variante: Soyuz-2.1
 [fn:B1050] Programat să aterizeze pe LZ-1, în urma unei defecțiuni a ajuns în apa oceanului Atlantic, de unde a fost recuperat ulterior, avariat dar în mare parte intact, dar probabil nu va mai fi folosit
 [fn:B1054] Prima treaptă nu a fost recuperată, fiind nevoie de toată puterea disponibilă a rachetei.
 [fn:B1055] Recuperat inițial pe barjă, dar pierdut ulterior datorită condițiilor meteo.
+[fn:B1056] Recuperarea pe barja OCISLY nu a reușit, boosterul ajungând în ocean, la câțiva zeci de metri de barjă.
 [fn:B1057] Recuperarea pe barja OCISLY nu a reușit.
 [fn:B1058] Este treapta primară care urmează să fie folosită în prima misiune cu echipaj uman a SpaceX; a efectuat primul test static în 29 august 2019.
 
