@@ -4,8 +4,11 @@ author = ["Claudiu"]
 draft = false
 +++
 
+18.02.2020
+: Capsula Cygnus NG-13 este atașată de modulul _Unity_, după lansarea din 15.02.2020.
+
 06.02.2020
-: Începe **Expediția 62**.
+: Începe **Expediția 62**;
 
 ---
 
