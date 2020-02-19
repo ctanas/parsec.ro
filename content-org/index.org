@@ -617,7 +617,7 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 |  11 | 10.02 04:03 | Atlas-V 411   | Solar Orbiter  | INT  | SUA     | CC SLC-41         | INT   | Succes   | [[/bul/062][62]]      |
 |  12 | 14.02 20:21 | Antares-230   | Cygnus NG-13   | NAV  | SUA     | Wallops 0A        | ISS   | Succes   | 63      |
 |  13 | 17.02 15:05 | Falcon-9      | 60x Starlink-4 | COM  | SUA     | CC SLC-40         | LEO   | Succes   | 63      |
-|     | 18.02 22:18 | Ariane-5 ECA  | JCSAT-17       | COM  | Europa  | Kourou ELA-3      | GEO   |          | 63      |
+|  14 | 18.02 22:18 | Ariane-5 ECA  | JCSAT-17       | COM  | Europa  | Kourou ELA-3      | GEO   | Succes   | 63      |
 |     | 02.03 06:45 | Falcon-9      | Dragon CRS-20  | NAV  | SUA     | CC SLC-40         | ISS   |          |         |
 |     | 19.03 19:22 | Atlas-V 551   | AEHF-6         | COM* | SUA     | CC SLC-41         | GEO   |          |         |
 
@@ -627,7 +627,7 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 |---------+-----+---------|
 | SUA     |   6 | IIIIII  |
 | China   |   3 | III     |
-| Europa  |   2 | II      |
+| Europa  |   3 | III     |
 | Japonia |   1 | I       |
 | Iran    |   1 | X       |
 
@@ -815,44 +815,6 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 [fn:rsfg] Ultima lansare a rachetei Soyuz-FG și [[/m/soyuz-fg][probabil ultima lansare de pe rampa istorică 1/5 de la Baikonur]].
 
 [fn:rcst100] Racheta și treapta secundară au funcționat nominal, dar capsula CST-100 Starliner nu a mai ajuns la ISS din cauza unei probleme cu ceasul computerului de bord, care astfel nu a mai efectuat la timp o manevră de inserție pe orbita corectă. 
-
-** Lansatoare orbitale viitoare
-:PROPERTIES:
-:EXPORT_FILE_NAME: viitor 
-:END:
-
-|-------------------+------+-------------+------------+---------+-------+-------+-------+------+-------|
-| Racheta           | Țara | Operator    | Inaugurare | Motor   | LEO   | SSO   | GTO   | Lună | Marte |
-|-------------------+------+-------------+------------+---------+-------+-------+-------+------+-------|
-| SLS Block1        | SUA  | NASA        |       2020 | RS-25   | 95t   |       |       | 26t  |       |
-| SLS Block1B       | SUA  | NASA        |       2024 | RS-25   | 105t  |       |       | 40t  |       |
-| SLS Block2        | SUA  | NASA        |      2028+ | RS-25   | 130t  |       |       |      | 45t   |
-| BFR               | SUA  | SpaceX      |       2020 | Raptor  | 150t  |       |       | 100t | 100t  |
-| Vulcan Centaur    | SUA  | ULA         |    07.2021 | BE-4    | 34t   | 29t   | 16.3t |      |       |
-| New Glenn 2S      | SUA  | Blue Origin |       2021 | BE-4    | 45t   |       | 13t   |      |       |
-| OmegA             | SUA  | NGSSG       |       2021 | Castor  |       |       | 4.9t  |      |       |
-|-------------------+------+-------------+------------+---------+-------+-------+-------+------+-------|
-| Ariane 62         | EU   | Arianespace |       2020 | Vulcain | 10.3t | 6.5t  | 5t    |      |       |
-| Ariane 64         | EU   | Arianespace |       2020 | Vulcain | 21.6  | 14.9t | 11.5t |      |       |
-| Vega-C            | EU   | Arianespace |       2020 | P80     |       |       |       |      |       |
-|-------------------+------+-------------+------------+---------+-------+-------+-------+------+-------|
-| H-3               | JPN  | JAXA        |       2020 | LE-9    |       | 4t    | 6.5t  |      |       |
-|-------------------+------+-------------+------------+---------+-------+-------+-------+------+-------|
-| SSLV              | IND  | ISRO        |       2020 | S85 (s) |       | 0.3t  |       |      |       |
-| UMLV              | IND  | ISRO        |       202x | SCE-200 |       |       |       |      |       |
-|-------------------+------+-------------+------------+---------+-------+-------+-------+------+-------|
-| Angara-A5P        | RUS  | Roscosmos   |       2020 | RD-191  | 18t   |       |       |      |       |
-| Soyuz-5 (Irtysh ) | RUS  | Roscosmos   |       2022 | RD-171  | 18t   |       | 5t    |      |       |
-| Yenisei           | RUS  | Roscosmos   |       2028 | RD-171? | 103t  |       |       |      |       |
-|-------------------+------+-------------+------------+---------+-------+-------+-------+------+-------|
-| Changzheng-8      | CHN  | CNSA        |       2020 | YF-100  | 7.6t  | 4.5t  | 2.5t  |      |       |
-| Changzheng-9      | CHN  | CNSA        |       2030 |         | 140t  |       |       | 50t  | 44t   |
-|-------------------+------+-------------+------------+---------+-------+-------+-------+------+-------|
-
-- LEO :: orbită terestră joasă (200-2000 km)
-- SSO :: orbită heliosincronă (aprox. 500 km, înclinație 97.7 grade)
-- GTO :: orbită geostaționară de transfer (spre orbita geostaționară --GEO, cu apogeul la 35786 km) 
-
 ** Lansatoare orbitale active
 :PROPERTIES:
 :EXPORT_FILE_NAME: rachete 
@@ -891,7 +853,7 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 | Jielong-1        | CHN  | CNSA        |  2019 | (S)          | ?     | ?      |       |       1 |       1 |       0 | 17.08.2019 |
 | Kuaizhou         | CHN  | CNSA        |  2013 | (S)          | 0.3t  | 0.2t   |       |      10 |      10 |       0 | 16.01.2020 |
 |------------------+------+-------------+-------+--------------+-------+--------+-------+---------+---------+---------+------------|
-| Ariane 5         | EU   | ArianeSpace |  1996 | 1xVulcain    | 20t   |        | 10.9t |     107 |     102 |    2(3) | 16.01.2020 |
+| Ariane 5         | EU   | ArianeSpace |  1996 | 1xVulcain    | 20t   |        | 10.9t |     108 |     103 |    2(3) | 18.02.2020 |
 | Vega             | EU   | ArianeSpace |  2012 | P80 (S)      |       | 1.45t  |       |      15 |      14 |       1 | 11.07.2019 |
 |------------------+------+-------------+-------+--------------+-------+--------+-------+---------+---------+---------+------------|
 | H-2A             | JPN  | JAXA        |  2001 | 1xLE-7A      | 15t   |        | 6t    |      41 |      40 |       1 | 09.02.2020 |
@@ -910,6 +872,43 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 [fn:rc1] După eșecul celei de-a 5-a lansări Antares, din 28.10.2014, racheta a schimbat motorul primei trepte din NK-33 în RD-181.
 [fn:rc2] Falcon-9 a suferit o explozie pe rampa de lansare, înaintea misiunii Amos-18 (01.09.2016), eșec care nu apare în tabel.
 [fn:rc3] Safir a suferit în 29.08.2019 o explozie pe rampă, eșec care nu apare în tabel.
+
+** Lansatoare orbitale viitoare
+:PROPERTIES:
+:EXPORT_FILE_NAME: viitor 
+:END:
+
+|-------------------+------+-------------+------------+---------+-------+-------+-------+------+-------|
+| Racheta           | Țara | Operator    | Inaugurare | Motor   | LEO   | SSO   | GTO   | Lună | Marte |
+|-------------------+------+-------------+------------+---------+-------+-------+-------+------+-------|
+| SLS Block1        | SUA  | NASA        |       2020 | RS-25   | 95t   |       |       | 26t  |       |
+| SLS Block1B       | SUA  | NASA        |       2024 | RS-25   | 105t  |       |       | 40t  |       |
+| SLS Block2        | SUA  | NASA        |      2028+ | RS-25   | 130t  |       |       |      | 45t   |
+| BFR               | SUA  | SpaceX      |       2020 | Raptor  | 150t  |       |       | 100t | 100t  |
+| Vulcan Centaur    | SUA  | ULA         |    07.2021 | BE-4    | 34t   | 29t   | 16.3t |      |       |
+| New Glenn 2S      | SUA  | Blue Origin |       2021 | BE-4    | 45t   |       | 13t   |      |       |
+| OmegA             | SUA  | NGSSG       |       2021 | Castor  |       |       | 4.9t  |      |       |
+|-------------------+------+-------------+------------+---------+-------+-------+-------+------+-------|
+| Ariane 62         | EU   | Arianespace |       2020 | Vulcain | 10.3t | 6.5t  | 5t    |      |       |
+| Ariane 64         | EU   | Arianespace |       2020 | Vulcain | 21.6  | 14.9t | 11.5t |      |       |
+| Vega-C            | EU   | Arianespace |       2020 | P80     |       |       |       |      |       |
+|-------------------+------+-------------+------------+---------+-------+-------+-------+------+-------|
+| H-3               | JPN  | JAXA        |       2020 | LE-9    |       | 4t    | 6.5t  |      |       |
+|-------------------+------+-------------+------------+---------+-------+-------+-------+------+-------|
+| SSLV              | IND  | ISRO        |       2020 | S85 (s) |       | 0.3t  |       |      |       |
+| UMLV              | IND  | ISRO        |       202x | SCE-200 |       |       |       |      |       |
+|-------------------+------+-------------+------------+---------+-------+-------+-------+------+-------|
+| Angara-A5P        | RUS  | Roscosmos   |       2020 | RD-191  | 18t   |       |       |      |       |
+| Soyuz-5 (Irtysh ) | RUS  | Roscosmos   |       2022 | RD-171  | 18t   |       | 5t    |      |       |
+| Yenisei           | RUS  | Roscosmos   |       2028 | RD-171? | 103t  |       |       |      |       |
+|-------------------+------+-------------+------------+---------+-------+-------+-------+------+-------|
+| Changzheng-8      | CHN  | CNSA        |       2020 | YF-100  | 7.6t  | 4.5t  | 2.5t  |      |       |
+| Changzheng-9      | CHN  | CNSA        |       2030 |         | 140t  |       |       | 50t  | 44t   |
+|-------------------+------+-------------+------------+---------+-------+-------+-------+------+-------|
+
+- LEO :: orbită terestră joasă (200-2000 km)
+- SSO :: orbită heliosincronă (aprox. 500 km, înclinație 97.7 grade)
+- GTO :: orbită geostaționară de transfer (spre orbita geostaționară --GEO, cu apogeul la 35786 km) 
 
 ** Soyuz-2
 :PROPERTIES:
@@ -1789,11 +1788,17 @@ Imediat după lansare, satelitul Olimp-K și-a schimbat de mai multe ori poziți
 :EXPORT_DATE: 2020-02-19
 :END:
 
+*** Lansări orbitale
+
 Antares
 
 ---
 
 Ariane
+
+*** Alte evenimente
+
+SpaceAdventures și SpaceX
 
 ** Buletin Cosmic nr. 62 :soyuz2:h2a:iran:simorgh:solarobiter:atlasv:soyuz:ms13:
 :PROPERTIES:

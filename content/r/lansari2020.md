@@ -19,7 +19,7 @@ draft = false
 | 11  | 10.02 04:03 | Atlas-V 411   | Solar Orbiter  | INT   | SUA     | CC SLC-41         | INT   | Succes   | [62](/bul/062) |
 | 12  | 14.02 20:21 | Antares-230   | Cygnus NG-13   | NAV   | SUA     | Wallops 0A        | ISS   | Succes   | 63             |
 | 13  | 17.02 15:05 | Falcon-9      | 60x Starlink-4 | COM   | SUA     | CC SLC-40         | LEO   | Succes   | 63             |
-|     | 18.02 22:18 | Ariane-5 ECA  | JCSAT-17       | COM   | Europa  | Kourou ELA-3      | GEO   |          | 63             |
+| 14  | 18.02 22:18 | Ariane-5 ECA  | JCSAT-17       | COM   | Europa  | Kourou ELA-3      | GEO   | Succes   | 63             |
 |     | 02.03 06:45 | Falcon-9      | Dragon CRS-20  | NAV   | SUA     | CC SLC-40         | ISS   |          |                |
 |     | 19.03 19:22 | Atlas-V 551   | AEHF-6         | COM\* | SUA     | CC SLC-41         | GEO   |          |                |
 
@@ -30,7 +30,7 @@ draft = false
 |---------|-----|---------|
 | SUA     | 6   | IIIIII  |
 | China   | 3   | III     |
-| Europa  | 2   | II      |
+| Europa  | 3   | III     |
 | Japonia | 1   | I       |
 | Iran    | 1   | X       |
 

@@ -33,7 +33,7 @@ draft = false
 | Changzheng-11   | CHN  | CNSA        | 2015  | P35 (S)      | 0.7t  | 0.35t  |       | 8       | 8       | 0       | 19.09.2019 |
 | Jielong-1       | CHN  | CNSA        | 2019  | (S)          | ?     | ?      |       | 1       | 1       | 0       | 17.08.2019 |
 | Kuaizhou        | CHN  | CNSA        | 2013  | (S)          | 0.3t  | 0.2t   |       | 10      | 10      | 0       | 16.01.2020 |
-| Ariane 5        | EU   | ArianeSpace | 1996  | 1xVulcain    | 20t   |        | 10.9t | 107     | 102     | 2(3)    | 16.01.2020 |
+| Ariane 5        | EU   | ArianeSpace | 1996  | 1xVulcain    | 20t   |        | 10.9t | 108     | 103     | 2(3)    | 18.02.2020 |
 | Vega            | EU   | ArianeSpace | 2012  | P80 (S)      |       | 1.45t  |       | 15      | 14      | 1       | 11.07.2019 |
 | H-2A            | JPN  | JAXA        | 2001  | 1xLE-7A      | 15t   |        | 6t    | 41      | 40      | 1       | 09.02.2020 |
 | H-2B            | JPN  | JAXA        | 2009  | 2xLE-7A      | 16.5t |        | 8t    | 8       | 8       | 0       | 24.09.2019 |
