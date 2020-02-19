@@ -23,6 +23,7 @@ Siteul de față reprezintă o colecție personală de materiale, articole și n
 + [[/m/meteoriti][Meteoriți]]: informații generale și lista meteoriților românești (/draft/);
 + Articole diverse: [[/m/x37b][X-37B]], [[/m/buran][Buran]], [[/r/soyuz-fg][Soyuz-FG]], [[/r/athena][Athena]], [[/m/olimp-k][Olimp-K]], [[/m/orel][Orel]].
 
+
 * About
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: /
@@ -630,6 +631,8 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 | Europa  |   3 | III     |
 | Japonia |   1 | I       |
 | Iran    |   1 | X       |
+|---------+-----+---------|
+| *TOTAL*   |  *14* | 13+1    |
 
 
 **** Legendă tabel

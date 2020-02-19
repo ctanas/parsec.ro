@@ -26,13 +26,14 @@ draft = false
 
 ## Clasament {#clasament}
 
-| Țara    | Nr. | Lansări |
-|---------|-----|---------|
-| SUA     | 6   | IIIIII  |
-| China   | 3   | III     |
-| Europa  | 3   | III     |
-| Japonia | 1   | I       |
-| Iran    | 1   | X       |
+| Țara      | Nr.    | Lansări |
+|-----------|--------|---------|
+| SUA       | 6      | IIIIII  |
+| China     | 3      | III     |
+| Europa    | 3      | III     |
+| Japonia   | 1      | I       |
+| Iran      | 1      | X       |
+| **TOTAL** | **14** | 13+1    |
 
 
 ## Legendă tabel {#legendă-tabel}
