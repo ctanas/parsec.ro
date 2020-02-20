@@ -20,6 +20,8 @@ draft = false
 | 12  | 14.02 20:21 | Antares-230   | Cygnus NG-13   | NAV   | SUA     | Wallops 0A        | ISS   | Succes   | 63             |
 | 13  | 17.02 15:05 | Falcon-9      | 60x Starlink-4 | COM   | SUA     | CC SLC-40         | LEO   | Succes   | 63             |
 | 14  | 18.02 22:18 | Ariane-5 ECA  | JCSAT-17       | COM   | Europa  | Kourou ELA-3      | GEO   | Succes   | 63             |
+| 15  | 19.02 21:07 | Changzheng-2D | 4x XJS         | SAT   | China   | Xichang LC-3      | LEO   | Succes   | 63             |
+|     | 20.02 08:00 | Soyuz-2.1a    | Meridian-M 9   | COM\* | Rusia   | Plesetsk 43/3     | MOL   |          |                |
 |     | 02.03 06:45 | Falcon-9      | Dragon CRS-20  | NAV   | SUA     | CC SLC-40         | ISS   |          |                |
 |     | 19.03 19:22 | Atlas-V 551   | AEHF-6         | COM\* | SUA     | CC SLC-41         | GEO   |          |                |
 
@@ -29,11 +31,11 @@ draft = false
 | Țara      | Nr.    | Lansări |
 |-----------|--------|---------|
 | SUA       | 6      | IIIIII  |
-| China     | 3      | III     |
+| China     | 4      | IIII    |
 | Europa    | 3      | III     |
 | Japonia   | 1      | I       |
 | Iran      | 1      | X       |
-| **TOTAL** | **14** | 13+1    |
+| **TOTAL** | **15** | 14+1    |
 
 
 ## Legendă tabel {#legendă-tabel}
@@ -58,6 +60,7 @@ draft = false
     -   MEO (orbită terestră medie, între LEO și GEO)
     -   GEO (orbită terestră geosincronă, aprox. 30000 km altitudine)
     -   GTO (orbită de transfer geosincronă, satelitul ajunge ulterior pe GEO)
+    -   MOL (orbită Molniya)
     -   LUN (zbor spre Lună)
     -   MAR (zbor spre Marte)
     -   INT (zbor interplanetar, cu o destinație alta decât Luna sau Marte)

@@ -619,6 +619,8 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 |  12 | 14.02 20:21 | Antares-230   | Cygnus NG-13   | NAV  | SUA     | Wallops 0A        | ISS   | Succes   | 63      |
 |  13 | 17.02 15:05 | Falcon-9      | 60x Starlink-4 | COM  | SUA     | CC SLC-40         | LEO   | Succes   | 63      |
 |  14 | 18.02 22:18 | Ariane-5 ECA  | JCSAT-17       | COM  | Europa  | Kourou ELA-3      | GEO   | Succes   | 63      |
+|  15 | 19.02 21:07 | Changzheng-2D | 4x XJS         | SAT  | China   | Xichang LC-3      | LEO   | Succes   | 63      |
+|     | 20.02 08:00 | Soyuz-2.1a    | Meridian-M 9   | COM* | Rusia   | Plesetsk 43/3     | MOL   |          |         |
 |     | 02.03 06:45 | Falcon-9      | Dragon CRS-20  | NAV  | SUA     | CC SLC-40         | ISS   |          |         |
 |     | 19.03 19:22 | Atlas-V 551   | AEHF-6         | COM* | SUA     | CC SLC-41         | GEO   |          |         |
 
@@ -627,12 +629,12 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 | Țara    | Nr. | Lansări |
 |---------+-----+---------|
 | SUA     |   6 | IIIIII  |
-| China   |   3 | III     |
+| China   |   4 | IIII    |
 | Europa  |   3 | III     |
 | Japonia |   1 | I       |
 | Iran    |   1 | X       |
 |---------+-----+---------|
-| *TOTAL*   |  *14* | 13+1    |
+| *TOTAL*   |  *15* | 14+1    |
 
 
 **** Legendă tabel
@@ -657,6 +659,7 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
   - MEO (orbită terestră medie, între LEO și GEO)
   - GEO (orbită terestră geosincronă, aprox. 30000 km altitudine)
   - GTO (orbită de transfer geosincronă, satelitul ajunge ulterior pe GEO)
+  - MOL (orbită Molniya)
   - LUN (zbor spre Lună)
   - MAR (zbor spre Marte)
   - INT (zbor interplanetar, cu o destinație alta decât Luna sau Marte)
@@ -841,7 +844,7 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 | Angara           | RUS  | Roscosmos   |  2014 | 1xRD-191     | 3.8t  |        | 5.4t  |       2 |       2 |       0 | 23.12.2014 |
 |------------------+------+-------------+-------+--------------+-------+--------+-------+---------+---------+---------+------------|
 | Changzheng-2C    | CHN  | CNSA        |  1982 | 4xYF-21C     | 3.85t | 1.9t   | 1.25t |      51 |      50 |       1 | 26.07.2019 |
-| Changzheng-2D    | CHN  | CNSA        |  1992 | 4xYF-21C     | 3.5t  | 1.3t   |       |      45 |      44 |       1 | 15.01.2020 |
+| Changzheng-2D    | CHN  | CNSA        |  1992 | 4xYF-21C     | 3.5t  | 1.3t   |       |      46 |      45 |       1 | 19.02.2020 |
 | Changzheng-2F    | CHN  | CNSA        |  1999 | 4xYF-20B     | 8.4t  |        |       |      13 |      13 |       0 | 16.10.2016 |
 | Changzheng-3A    | CHN  | CNSA        |  1994 | 4xYF-21C     | 8.5t  |        | 2.6t  |      27 |      27 |       0 | 09.07.2018 |
 | Changzheng-3B    | CHN  | CNSA        |  1996 | 4xYF-21C     | 11.5t | 7.1t   | 5.5t  |      65 |      62 |   1+(2) | 07.12.2020 |
@@ -1097,6 +1100,8 @@ A patra misiunea Antares folosește aceeași variantă *Antares-120* pentru lans
 
 Pentru al cincilea zbor, din 28 octombrie 2014, Orbital ATK folosește varianta *Antares-130*, care înseamnă că pentru treapta superioară, motorul Castor-30B este înlocuit cu unul mai performant, Castor-30XL. Din păcate însă, avea să fie primul și ultimul zbor al rachetei în această configurație, pentru că la 6 secunde după lansare, o pompă a motoarelor AJ26-62 cedează și racheta explodează la mică distanță de rampa de lansare. Capsula Cygnus CRS Orb3 ("Deke Slayton") este pierdută, împreună cu alți sateliți aflați la bord.
 
+Sâmbătă, 15 februarie 2020, o nouă lansare Antares-230+ a urcat pe orbită o capsulă Cygnus, încărcată cu peste 3 tone de provizii și echipamente științifice pentru echipajul Stației Spațiale Internaționale. Lansarea a avut loc de pe rampa LP-0A de la complexul Wallops din Virgina. Capsula Cygnus NG-13 /S.S. Robert H. Lawrence/ a ajuns în vecinătatea ISS în cursul zilei de marți, 18 februarie, de unde a fost capturată de echipaj folosind brațul robotic al stației și atașată modulului Unity, unde va petrece următoarele aproximativ 3 luni, până în 11 mai 2020, când este programată decuplarea de ISS. Lansarea a fost amânată de două ori, în 9 februarie din cauza unei probleme cu un echipament de la sol, iar a doua oară, în 14 februarie, din cauza vânturilor puternice de la altitudine înaltă (motivul pentru care o lansare în 13 februarie nici nu a mai fost luată în considerare). Northrop Grumann a specificat că misiunea a fost lansată cu două luni mai devreme decât fusese inițial planificată, la solicitarea NASA.
+
 #+CAPTION: Explozia rachetei Antares-130, la 6 secunde după lansare, datorită unor probleme a pompei motoarelor AJ26-62. Sursa foto: NASA.
 [[/img/antaresx.jpg]]
 
@@ -1112,7 +1117,7 @@ Misiunea NG-12, parte a CRS2 (a doua parte a contractului de aprovizionare comer
 #+CAPTION: Lansările capsulei Cygnus, care includ și cele trei lansări efectuate cu racheta Atlas V în configurația 401 (4 metri diametru conului protector, fără boostere suplimentare cu combustibil solid și un singur motor al treptei superioare Centaur).
 | Capsula |    Lansare | Rachetă | T-1     | T-2     |    Cuplare | Masă(kg) |  Decuplare | Deorbitare | Modul   | Obs   |
 |---------+------------+---------+---------+---------+------------+----------+------------+------------+---------+-------|
-| Orb-D0  | 21.04.2013 | A-110   | AJ26-62 | C-30A   |        N/A |      N/A |        N/A | 10.05.2013 | Harmony | Succ. |
+| Orb-D0  | 21.04.2013 | A-110   | AJ26-62 | C-30A   |        N/A |      N/A |        N/A | 10.05.2013 | N/A     | Succ. |
 | Orb-D1  | 18.09.2013 | A-110   | AJ26-62 | C-30B   | 29.09.2013 |      589 | 22.10.2013 | 23.10.2013 | Harmony | Succ. |
 | Orb-1   | 09.01.2014 | A-120   | AJ26-62 | C-30B   | 12.01.2014 |     1260 | 18.02.2013 | 19.02.2013 | Harmony | Succ. |
 | Orb-2   | 13.07.2014 | A-120   | AJ26-62 | C-30B   | 16.07.2014 |     1494 | 15.08.2014 | 17.08.2014 | Harmony | Succ. |
@@ -1126,7 +1131,7 @@ Misiunea NG-12, parte a CRS2 (a doua parte a contractului de aprovizionare comer
 | NG-10   | 17.11.2018 | A-230   | RD-181  | C-30XL  | 19.11.2018 |     3350 | 08.02.2018 | 25.02.2019 | Unity   | Succ. |
 | NG-11   | 17.04.2019 | A-230   | RD-181  | C-30XL  | 19.04.2019 |     3436 | 06.08.2019 | 06.09.2019 | Unity   | Succ. |
 | NG-12   | 02.11.2019 | A-230+  | RD-181  | C-30XL  | 04.11.2019 |     3750 | 31.01.2020 |            | Unity   | Succ. |
-| NG-13   | 15.02.2020 | A-230+  | RD-181  | C-30XL  | 18.02.2020 |     3377 |            |            | Unity   | Succ. |
+| NG-13   | 15.02.2020 | A-230+  | RD-181  | C-30XL  | 18.02.2020 |     3377 | 11.05.2020 |            | Unity   | Succ. |
 
 [fn:ant1] /Orbital Sciences/ a fost fondată în 1982 și în 2014 a fuzionat cu /Alliant Techsystems/ (ATK), formând compania /Orbital ATK/, care a funcționat ca atare până în 2017, când /Northrop Grumman/ a cumpărat /Orbital ATK/, astfel că fosta companie a ajuns o divizie în cadrul /Northrop Grumman/, denumită /Nortrop Grumman Innovation System/ (NGIS).
 
@@ -1785,7 +1790,7 @@ Imediat după lansare, satelitul Olimp-K și-a schimbat de mai multe ori poziți
 :EXPORT_HUGO_SECTION: bul
 :END:
 
-** TODO Buletin Cosmic nr. 63 :antares:cygnus:ng13:ariane5:
+** Buletin Cosmic nr. 63 :antares:cygnus:ng13:ariane5:spacex:starlink:cz2d:soyuz:ms16:
 :PROPERTIES:
 :EXPORT_FILE_NAME: 063
 :EXPORT_DATE: 2020-02-19
@@ -1793,15 +1798,37 @@ Imediat după lansare, satelitul Olimp-K și-a schimbat de mai multe ori poziți
 
 *** Lansări orbitale
 
-Antares
+Sâmbătă, 15 februarie, o nouă lansare Antares-230+ a urcat pe orbită o capsulă Cygnus, încărcată cu peste 3 tone de provizii și echipamente științifice pentru echipajul Stației Spațiale Internaționale. Lansarea a avut loc de pe rampa LP-0A de la complexul Wallops din Virgina. Capsula Cygnus NG-13 /S.S. Robert H. Lawrence/ a ajuns în vecinătatea ISS în cursul zilei de vineri, de unde a fost capturată de echipaj folosind brațul robotic al stației și atașată modulului Unity, unde va petrece următoarele aproximativ 3 luni, până în 11 mai, când este programată decuplarea de ISS. Lansarea a fost amânată de două ori, în 9 februarie din cauza unei probleme cu un echipament de la sol, iar a doua oară, în 14 februarie, din cauza vânturilor puternice de la altitudine înaltă (motivul pentru care o lansare în 13 februarie nici nu a mai fost luată în considerare). Northrop Grumann a specificat că misiunea a fost lansată cu două luni mai devreme decât fusese inițial planificată, la solicitarea NASA.
+
+Capsula Cygnus NG-12 s-a desprins de ISS în 31 ianuarie (eliberând portul Unity-nadir) dar se află în continuare pe orbită, urmând să revină distructiv în atmosferă în următoarea perioadă, după ce va termina de derulat experimentele de la bord.
+
+#+CAPTION Capsula Cygnus NG-13, în timpul operațiunilor de capturare cu brațul robotic Canadarm-2 al Stației Spațiale Internațională (Sursa: [[https://twitter.com/roscosmos/status/1229710165823365121][Oleg Skripochka/Roscosmos]])
+[[/img/cygnusng13.jpg]]
 
 ---
 
-Ariane
+SpaceX a lansat luni, 17 februarie, a 5-a tranșă de 60 de sateliți Starlink, folosind o rachetă Falcon 9 cu o treaptă primară aflată la al 4-lea zbor (seria B1056). Sateliții au ajuns cu bine pe orbită (de această dată una eliptică în prima fază, urmând să fie circularizată ulterior), însă recuperarea primei trepte nu a mai avut loc, aceasta ratând aterizarea pe barja OCISLY, cu câțiva zeci de metri. Prioritatea unei trepte primare Falcon 9 care se apropie de barjă este integritatea barjei, așa că probabil computerul de bord a identificat o problemă și a decis să nu aterizeze pe barjă. Cei 60 de sateliți Starlink sunt cântăresc peste 15 tone și sunt cele mai grele încărcături lansare de Falcon 9, motiv pentru care cantitatea de combustibil rămasă în prima treaptă după separare este redusă și nu îi permite să revină controlat la sol, iar ultima recuperare Falcon 9 pe barjă (29 ianuarie) a fost una mai dură decât de obicei, șocul fiind însă preluat de picioarele rachetei. Următoarea lansare Starlink este programată pentru luna martie.
+
+---
+
+O rachetă *Ariane 5* în varianta ECA (singura rămasă în uz în prezent) a lansat în noaptea de marți spre miercuri, de la centrul spațial Kourou din Guiana Franceză, doi sateliți de telecomunicații: un satelit japonez JCSAT-17 și unul sud-coreean, Geo-Kompsat 2B, ambii ajungând cu succes pe orbită geostaționară. Masa totală urcată de orbită de Ariane 5 a fost de 10.2 tone (masa sateliților, a conului protector și a sistemului SYLDA de desprindere a sateliților), iar sateliții s-au separat complet de rachetă la 31 de minute și 9 secunde după lansare. A fost al doilea zbor Ariane 5 din acest an și al 108-lea al rachetei operate de compania europeană Arianespace.
+
+#+CAPTION: Lansarea rachetei Ariane 5 ECA de la Kourou, Guiana Franceză, cu sateliții de telecomunicație JCSAT-17 și Geo-Kompsat 2B (Sursa foto: Arianespace)
+[[/img/ariane5feb20]]
+
+---
+
+Miercuri, 19 februarie la 23:07, o rachetă *Changzheng-2D* decola pentru prima dată de la centrul spațial Xichang, lansatorul fiind folosit până acum doar de pe rampa centrului spațial Jiuquan. Acesta a urcat pe orbită terestră joasă 4 sateliți XJS, care vor testa noi tehnologii de comunicație intrasatelitară, dar și între sateliți și stațiile de la sol. A fost a 4-a lansare din China din 2020 și a 45-a pentru lansatorul Changzheng-4D, care a suferit un singur eșec de la debutul din 1992.
 
 *** Alte evenimente
 
-SpaceAdventures și SpaceX
+Compania *Space Adventures* va oferi în viitorul apropiat zboruri orbitale pentru turiștii interesați, cu ajutorul *SpaceX* și a capsulei Dragon-2. Space Adventures este cunoscută pentru că a organizat în trecut zboruri spre Stația Spațială Internațională pentru turiștii spațiali, prin intermediul agenției spatiale ruse, folosind capsula Soyuz. Cel mai recent astfel de zbor fiind canadianul Guy Laliberté, care în 2008 a ajuns pe orbită la bordul capsulei Soyuz TMA-16. De atunci Space Adevantures a promis și zboruri în jurul Lunii la bordul unei capsule Soyuz modificată, însă acest lucru nu a mai avut loc.
+
+De această dată însă, viitorii turiștii nu vor ajunge pe Stația Spațială Internațională, însă vor urca până la altitudini care nu au mai fost atinse în cazul unei orbite terestre din timpul programul Gemini. Primul astfel de zbor ar putea avea loc în 2021, cu 4 turiști la bord, care ar petrece până la 5 zile pe orbită. Prețul nu a fost făcut public, dar probabil este undeva în jurul valorii de 50 de milioane de dolari de persoană.
+
+---
+
+Doi cosmonauți au fost înlocuiți din echipajul viitoarei misiuni Soyuz MS-19, planificată pentru lansare în 9 aprilie 2020. Misiunea nu va fi amânată și este pentru prima dată când o rachetă Soyuz-2 va fi folosită pentru lansarea unui echipaj pe orbită. [[https://www.vedomosti.ru/politics/news/2020/02/19/823432-roskosmos-zamenit-ekipazh-ekspeditsii-k-mks][Presa rusă relatează]] că Nikolay Tikhonov s-a accidentat la un ochi, în timpul unei plimbări, din cauza unei... crengi. Este pentru a patra oară când un zbor orbital al lui Tikhonov a fost amânat, însă sunt șanse ca acesta să poată zbura în octombrie. Colegul său, Andrei Babkin, așteaptă o misiune orbitală de 20 de ani, dar a fost retras și el, pentru a permite unui echipaj de rezervă să zboare împreună. Astfel, Anatoli Ivanishin și Ivan Vagner îi vor înlocui pe Nikolay Tikhonov și Andrei Babkin, în timp ce NASA a declarat că Chris Cassidy nu va fi înlocuit și că acesta va zbura în aprilie.
 
 ** Buletin Cosmic nr. 62 :soyuz2:h2a:iran:simorgh:solarobiter:atlasv:soyuz:ms13:
 :PROPERTIES:
