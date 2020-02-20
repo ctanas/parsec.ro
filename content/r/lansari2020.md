@@ -21,7 +21,7 @@ draft = false
 | 13  | 17.02 15:05 | Falcon-9      | 60x Starlink-4 | COM   | SUA     | CC SLC-40         | LEO   | Succes   | [63](/bul/063) |
 | 14  | 18.02 22:18 | Ariane-5 ECA  | JCSAT-17       | COM   | Europa  | Kourou ELA-3      | GEO   | Succes   | [63](/bul/063) |
 | 15  | 19.02 21:07 | Changzheng-2D | 4x XJS         | SAT   | China   | Xichang LC-3      | LEO   | Succes   | [63](/bul/063) |
-| 16  | 20.02 08:24 | Soyuz-2.1a    | Meridian-M 9   | COM\* | Rusia   | Plesetsk 43/3     | MOL   | Succes   | 64             |
+| 16  | 20.02 08:22 | Soyuz-2.1a    | Meridian-M9    | COM\* | Rusia   | Plesetsk 43/3     | MOL   | Succes   | 64             |
 |     | 02.03 06:45 | Falcon-9      | Dragon CRS-20  | NAV   | SUA     | CC SLC-40         | ISS   |          |                |
 |     | 19.03 19:22 | Atlas-V 551   | AEHF-6         | COM\* | SUA     | CC SLC-41         | GEO   |          |                |
 
