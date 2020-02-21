@@ -1800,7 +1800,12 @@ Imediat după lansare, satelitul Olimp-K și-a schimbat de mai multe ori poziți
 
 *** Lansări orbitale
 
-Meridian
+Rusia a început lansările din acest an de la cosmodromul militar de la Plesetsk, plasând pe orbită satelitul *Meridian-M9*, folosind o rachetă *Soyuz-2.1a* dotată cu o treaptă superioară Fregat. Meridian este o constelație de sateliți folosită pentru comunicații militare la latitudini mari (în zonele polare), acolo unde sateliții geostaționari nu mai sunt eficienți. Din acest motiv, Meridian a ajuns pe o orbită specială, denumită Molniya, cu perigeul între 1500-2200 km, apogeul de până la 39000 km și înclinație orbitală de 63.4 grade, ceea ce îi permite să petreacă majoritatea timpului deasupra latitudinilor înalte de pe Pământ, având o perioadă orbitală de 12 ore. Meridian-M9 este al 9-lea satelit din constelația Meridian și al doilea dintr-un set de patru noi sateliți de acest tip, de generație nouă, următorul fiind planificat pentru lansare cândva spre sfârșitul anului, iar ultimul în 2022. 
+
+Lansarea a avut loc joi, 20 februarie, de pe rampa 43/3, una dintre cele două rampe de la cosmodromul militar Plesetsk (alături de 43/4) și a început să fie folosită din nou abia luna trecută, după ce a fost serios avariată în octombrie 2002, în urma unei lansări eșuate a rachetei Soyuz-U. A fost a 99-a lansare a rachetei Soyuz-2 care din 2004 a avut doar 7 lansări complet sau parțial eșuate.
+
+#+CAPTION: Lansarea rachetei Soyuz-2.1a cu satelitul militar Meridian-M9, de pe rampa 43/3 de la cosmodromul miltar Plesetsk (sursă foto: [[https://twitter.com/roscosmos/status/1230497305071104000][Roscosmos]]).
+[[/img/soyuz21a2.jpg]]
 
 *** Alte evenimente
 
