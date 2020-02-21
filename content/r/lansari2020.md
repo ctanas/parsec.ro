@@ -36,7 +36,7 @@ draft = false
 | Japonia   | 1      | I       |
 | Rusia     | 1      | I       |
 | Iran      | 1      | X       |
-| **TOTAL** | **16** | 14+1    |
+| **TOTAL** | **16** |         |
 
 
 ## Legendă tabel {#legendă-tabel}

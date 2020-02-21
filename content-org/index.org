@@ -635,7 +635,7 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 | Rusia   |   1 | I       |
 | Iran    |   1 | X       |
 |---------+-----+---------|
-| *TOTAL*   |  *16* | 14+1    |
+| *TOTAL*   |  *16* |         |
 
 
 **** Legendă tabel
