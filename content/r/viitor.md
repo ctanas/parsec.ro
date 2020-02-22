@@ -6,7 +6,7 @@ draft = false
 
 | Racheta           | Țara | Operator    | Inaugurare | Motor   | LEO   | SSO   | GTO   | Lună | Marte |
 |-------------------|------|-------------|------------|---------|-------|-------|-------|------|-------|
-| SLS Block1        | SUA  | NASA        | 2020       | RS-25   | 95t   |       |       | 26t  |       |
+| SLS Block1        | SUA  | NASA        | 2021       | RS-25   | 95t   |       |       | 26t  |       |
 | SLS Block1B       | SUA  | NASA        | 2024       | RS-25   | 105t  |       |       | 40t  |       |
 | SLS Block2        | SUA  | NASA        | 2028+      | RS-25   | 130t  |       |       |      | 45t   |
 | BFR               | SUA  | SpaceX      | 2020       | Raptor  | 150t  |       |       | 100t | 100t  |

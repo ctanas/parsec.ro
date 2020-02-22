@@ -44,27 +44,27 @@ draft = false
 -   **Data lansării**: data și ora lansării este UTC, data exprimată în formatul ZZ.LL HH:MM;
 -   **Lansator**: racheta, varianta folosită și treapta superioară (unde este cazul);
 -   **Satelit**: este menționat doar un satelit, cel principal; unde este cazul, este specificat numărul sateliților identici;
--   **Tip** (sateliții militari sau cei de spionaj sunt marcați cu un asterisc \*) :
-    -   INT (sondă interplanetară)
-    -   NAV (capsulă cargo, test capsulă echipaj dar fără echipaj la bord, navetă)
-    -   CRW (capsulă cu echipaj la bord)
-    -   MOD (modul stație spațială)
-    -   GNS (satelit de geolocație)
-    -   COM (satelit telecomunicații)
-    -   OBS (satelit de observație)
-    -   MET (satelit meteorologic)
-    -   SAT (alte categorii)
+-   **Tip**:sateliții militari sau cei de spionaj sunt marcați cu un asterisc\* :
+    -   INT: sondă interplanetară
+    -   NAV: capsulă cargo, test capsulă echipaj dar fără echipaj la bord, navetă
+    -   CRW: capsulă cu echipaj la bord
+    -   MOD: modul stație spațială
+    -   GNS: satelit de geolocație
+    -   COM: satelit telecomunicații
+    -   OBS: satelit de observație
+    -   MET: satelit meteorologic
+    -   SAT: alte categorii
 -   **Ținta**:
-    -   LEO (orbita terestră joasă, între 200-2000 km altitudine)
-    -   ISS (zbor spre ISS, un caz special de orbită terestră joasă)
-    -   SSO (orbită heliosincronă, un caz special de orbită terestră joasă)
-    -   MEO (orbită terestră medie, între LEO și GEO)
-    -   GEO (orbită terestră geosincronă, aprox. 30000 km altitudine)
-    -   GTO (orbită de transfer geosincronă, satelitul ajunge ulterior pe GEO)
-    -   MOL (orbită Molniya)
-    -   LUN (zbor spre Lună)
-    -   MAR (zbor spre Marte)
-    -   INT (zbor interplanetar, cu o destinație alta decât Luna sau Marte)
+    -   LEO: orbita terestră joasă, între 200-2000 km altitudine
+    -   ISS: zbor spre ISS, un caz special de orbită terestră joasă
+    -   SSO: orbită heliosincronă, un caz special de orbită terestră joasă
+    -   MEO: orbită terestră medie, între LEO și GEO
+    -   GEO: orbită terestră geosincronă, aprox. 30000 km altitudine
+    -   GTO: orbită de transfer geosincronă, satelitul ajunge ulterior pe GEO
+    -   MOL: orbită Molniya
+    -   LUN: zbor spre Lună
+    -   MAR: zbor spre Marte
+    -   INT: zbor interplanetar, cu o destinație alta decât Luna sau Marte
 -   **Buletin**: link spre Buletinul Cosmic care oferă mai multe detalii despre lansare.
 
 
