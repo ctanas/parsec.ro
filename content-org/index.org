@@ -1792,7 +1792,7 @@ Imediat după lansare, satelitul Olimp-K și-a schimbat de mai multe ori poziți
 :EXPORT_HUGO_SECTION: bul
 :END:
 
-** TODO Buletin Cosmic nr. 64 :meridian:
+** TODO Buletin Cosmic nr. 64 :meridian:soyuz2:
 :PROPERTIES:
 :EXPORT_FILE_NAME: 064
 :EXPORT_DATE: 2020-02-26
