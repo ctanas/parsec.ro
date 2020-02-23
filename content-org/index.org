@@ -1186,11 +1186,105 @@ Soyuz-U folosea motoare RD-118 pentru prima treaptă și RD-0110 pentru treapta 
 
 Soyuz-2, folosită începând cu 2006, vine însă în două variante: Soyuz-2.1a, cu motoare RD-0110 pentru treapta secundară, dar aceasta poate folosi și o treaptă secundară cu motoare RD-0124, mai performante, caz în care racheta se numește Soyuz-2.1b. Când racheta Soyuz-2 este lansată de compania Arianespace de la Guiana Franceză, aceasta este denumită Soyuz-STA, respectiv STB. Diferența dintre cele două motoare pentru treapta secundară este de aproximativ 1 tonă pentru orbita terestră joasă și 400 kg pentru orbită geostaționară. Mai există și varianta Soyuz-2.1v care înseamnă doar corpul central al rachetei, fără boosterele auxiliare, iar motorul ales pentru prima treaptă este NK-33 (care urmează să fie înlocuit cu RD-193), folosită mai rar (doar de 5 ori din 2013 și până în prezent).
 
-** Falcon 9 Block 5
+** Falcon 9
 :PROPERTIES:
 :EXPORT_FILE_NAME: falcon9 
 :END:
 
+#+CAPTION: Lista lansărilor Falon 9
+| Nr. | Var.   |       Data | Încărcătură         | Serie   | Rampa      |
+|-----+--------+------------+---------------------+---------+------------|
+|   1 | v1.0   | 08.12.2010 | Dragon C1           | N/A     | CC SLC-40  |
+|   2 | v1.0   | 04.06.2010 | Dragon              | B0003   | CC SLC-40  |
+|   3 | v1.0   | 22.05.2012 | Dragon C2           | N/A     | CC SLC-40  |
+|   4 | v1.0   | 08.10.2012 | Dragon CRS-1        | N/A     | CC SLC-40  |
+|   5 | v1.0   | 01.03.2013 | Dragon CRS-2        | N/A     | CC SLC-40  |
+|   6 | v1.1   | 29.09.2013 | CASSIOPE-1          | N/A     | VA SLC-4E  |
+|   7 | v1.1   | 03.12.2013 | SES-8               | N/A     | CC SLC-40  |
+|   8 | v1.1   | 06.01.2014 | Thaicom-6           | N/A     | CC  SLC-40 |
+|   9 | v1.1   | 18.04.2014 | Dragon CRS-3        | N/A     | CC SLC-40  |
+|  10 | v1.1   | 14.07.2014 | Orbcomm-FM          | N/A     | CC SLC-40  |
+|  11 | v1.1   | 05.08.2014 | AsiaSat-8           | N/A     | CC SLC-40  |
+|  12 | v1.1   | 07.09.2014 | AsiaSat-6           | N/A     | CC SLC-40  |
+|  13 | v1.1   | 21.09.2014 | Dragon CRS-4        | N/A     | CC SLC-40  |
+|  14 | v1.1   | 10.01.2015 | Dragon CRS-5        | N/A     | CC SLC-40  |
+|  15 | v1.1   | 11.02.2015 | DSCOVR              | N/A     | CC SLC-40  |
+|  16 | v1.1   | 02.03.2015 | ABS-3A              | N/A     | CC SLC-40  |
+|  17 | v1.1   | 14.04.2015 | Dragon CRS-6        | N/A     | CC SLC-40  |
+|  18 | v1.1   | 27.04.2015 | Türkmenalem-52E     | N/A     | CC SLC-40  |
+|  19 | v1.1   | 28.06.2015 | Dragon CRS-7        | N/A     | CC SLC-40  |
+|  20 | v1.2   | 22.12.2015 | Orbcomm-FM          | B1019.1 | CC SLC-40  |
+|  21 | v1.1   | 17.01.2016 | Jason-3             | N/A     | VA SLC-4E  |
+|  22 | v1.2   | 04.03.2016 | SES-9               | B1020.1 | CC SLC-40  |
+|  23 | v1.2   | 08.04.2016 | Dragon CRS-8        | B1021.1 | CC SLC-40  |
+|  24 | v1.2   | 06.05.2016 | JCSat-14            | B1022.1 | CC SLC-40  |
+|  25 | v1.2   | 27.05.2016 | Thaicom-8           | B1023.1 | CC SLC-40  |
+|  26 | v1.2   | 15.06.2016 | Eutelsat-117        | B1024.1 | CC SLC-40  |
+|  27 | v1.2   | 18.07.2016 | Dragon CRS-9        | B1025.1 | CC SLC-40  |
+|  28 | v1.2   | 14.08.2016 | JCSat-16            | B1026.1 | CC SLC-40  |
+|  -- | v1.2   | 01.09.2016 | AMOS-6              | B1028.1 | CC SLC-40  |
+|  29 | v1.2   | 14.01.2017 | Iridium-NEXT-1      | B1029.1 | VA SLC-4E  |
+|  30 | v1.2   | 19.02.2017 | Dragon CRS-10       | B1031.1 | LC-39A     |
+|  31 | v1.2   | 16.03.2017 | EchoStar-23         | B1030   | LC-39A     |
+|  32 | v1.2   | 30.03.2017 | SES-10              | B1021.2 | LC-39A     |
+|  33 | v1.2   | 01.05.2017 | NROL-76             | B1032.1 | LC-39A     |
+|  34 | v1.2   | 15.05.2017 | Inmarsat-5-F4       | B1034   | LC-39A     |
+|  35 | v1.2   | 03.06.2017 | Dragon CRS-11       | B1035.1 | LC-39A     |
+|  36 | v1.2   | 23.06.2017 | BulgariaSat-1       | B1029.2 | LC-39A     |
+|  37 | v1.2   | 25.06.2017 | Iridium-NEXT-2      | B1036.1 | VA SLC-4E  |
+|  38 | v1.2   | 05.07.2017 | Intelsat-35e        | B1037   | LC-39A     |
+|  39 | v1.2   | 14.08.2017 | Dragon CRS-12       | B1039.1 | LC-39A     |
+|  40 | v1.2   | 24.08.2017 | FORMOSAT-5          | B1038.1 | VA SLC-4E  |
+|  41 | v1.2   | 07.09.2017 | X-37B-OTV-5         | B1040.1 | LC-39A     |
+|  42 | v1.2   | 09.10.2017 | Iridium-NEXT-3      | B1041.1 | SLC-4E     |
+|  43 | v1.2   | 11.10.2017 | EchoStar-105/SES-11 | B1031.2 | LC-39A     |
+|  44 | v1.2   | 30.10.2017 | Koreasat-5A         | B1042.1 | LC-39A     |
+|  45 | v1.2   | 15.12.2017 | Dragon CRS-13       | B1035.2 | CC SLC-40  |
+|  46 | v1.2   | 23.12.2017 | Iridium-NEXT-4      | B1036.2 | VA SLC-4E  |
+|  47 | v1.2   | 08.01.2018 | Zuma                | B1043.1 | CC SLC-40  |
+|  48 | v1.2   | 31.01.2018 | SES-16              | B1032.2 | CC SLC-40  |
+|  49 | v1.2   | 22.02.2018 | Paz                 | B1038.2 | VA SLC-4E  |
+|  50 | v1.2   | 06.03.2018 | Hispasat-30W-6      | B1044.1 | CC SLC-40  |
+|  51 | v1.2   | 30.03.2018 | Iridium-NEXT-5      | B1041.2 | VA SLC-4E  |
+|  52 | v1.2   | 02.04.2018 | Dragon CRS-14       | B1039.2 | CC SLC-40  |
+|  53 | v1.2   | 18.04.2018 | TESS                | B1045.1 | CC SLC-40  |
+|  54 | v1.2b5 | 11.05.2018 | Bangabandhu-1       | B1046.1 | LC-39A     |
+|  55 | v1.2   | 22.05.2018 | Iridium-NEXT-6      | B1043.2 | VA SLC-4E  |
+|  56 | v1.2   | 04.06.2018 | SES-12              | B1040.2 | CC SLC-40  |
+|  57 | v1.2   | 29.06.2018 | Dragon CRS-15       | B1045.2 | CC SLC-40  |
+|  58 | v1.2b5 | 22.07.2018 | Telstar-19V         | B1047.1 | CC SLC-40  |
+|  59 | v1.2b5 | 25.07.2018 | Iridium-NEXT-7      | B1048.1 | VA SLC-4E  |
+|  60 | v1.2b5 | 07.08.2018 | Merah Putih         | B1046.2 | CC SLC-40  |
+|  61 | v1.2b5 | 10.09.2018 | Telstar-18V         | B1049.1 | CC SLC-40  |
+|  62 | v1.2b5 | 07.10.2018 | SAOCOM-1A           | B1048.2 | VA SLC-4E  |
+|  63 | v1.2b5 | 15.11.2018 | Es'hail-2           | B1047.2 | LC-39A     |
+|  64 | v1.2b5 | 03.12.2018 | SSO-A               | B1046.3 | VA SLC-4E  |
+|  65 | v1.2b5 | 05.12.2018 | Dragon CRS-16       | B1050.1 | CC SLC-40  |
+|  66 | v1.2b5 | 23.12.2018 | GPS-3-1             | B1054   | CC SLC-40  |
+|  67 | v1.2b5 | 11.01.2019 | Iridium-NEXT-8      | B1049.2 | VA SLC-4E  |
+|  68 | v1.2b5 | 22.02.2019 | PSN-6               | B1048.3 | CC SLC-40  |
+|  69 | v1.2b5 | 02.03.2019 | Crew-Dragon-1       | B1051.1 | LC-39A     |
+|  70 | v1.2b5 | 04.05.2019 | Dragon CRS-17       | B1056.1 | CC SLC-40  |
+|  71 | v1.2b5 | 24.05.2019 | Starlink-v0.9       | B1049.3 | CC SLC-40  |
+|  72 | v1.2b5 | 12.06.2019 | RCM-1               | B1051.2 | VA SLC-4E  |
+|  73 | v1.2b5 | 25.07.2019 | Dragon CRS-18       | B1056.2 | CC SLC-40  |
+|  74 | v1.2b5 | 06.08.2019 | AMOS-17             | B1047.3 | CC SLC-40  |
+|  75 | v1.2b5 | 11.11.2019 | Starlink-v1.0-1     | B1048.4 | CC SLC-40  |
+|  76 | v1.2b5 | 05.12.2019 | Dragon CRS-19       | B1059.1 | CC SLC-40  |
+|  77 | v1.2b5 | 16.12.2019 | JCSat-18            | B1056.3 | CC SLC-40  |
+|  78 | v1.2b5 | 07.01.2020 | Starlink v1.0-2     | B1049.4 | CC SLC-40  |
+|  79 | v1.2b5 | 19.01.2020 | CrewD               | B1046.4 | LC-39A     |
+|  80 | v1.2b5 | 29.01.2020 | Starlink v1.0-3     | B1051.3 | CC SLC-40  |
+|  81 | v1.2b5 | 17.02.2020 | Starlink v1.0-4     | B1056.4 | CC SLC-40  |
+
+#+CAPTION Lista lansărilor Falcon Heavy
+| Nr. |       Data | Încărcătură    | Treapte laterale | Centrală | Rampa  |
+|-----+------------+----------------+------------------+----------+--------|
+|   1 | 06.02.2018 | Tesla Roadster | B1023.2 B1025.2  | B1033    | LC-39A |
+|   2 | 11.04.2019 | Arabsat-6A     | B1052.1 B1053.1  | B1055    | LC-39A |
+|   3 | 25.06.2019 | STP-2          | B1052.2 B1053.2  | B1057    | LC-39A |
+
+#+CAPTION Lista treptelor primare Falcon 1 Block 5
 | Booster |       Data | Misiunea       | Recuperare       | Racheta    |
 |---------+------------+----------------+------------------+------------|
 | B1046.1 | 11.05.2018 | Bangabadhu-1   | OCISLY           | Falcon 9   |
