@@ -17,7 +17,7 @@ Siteul de față reprezintă o colecție personală de materiale, articole și n
 + *Lansări orbitale* ( [[/r/lansari2020/][2020]] | [[/r/lansari2019][2019]] );
 + Stația Spațială Internațională ([[/iss/intro/][astronauți și vehicule]], [[/iss/jurnal][jurnal]], [[/iss/ccdev][CC-Dev]], [[/iss/module][module]], [[https://www.heavens-above.com/PassSummary.aspx?satid=25544&lat=46.7712&lng=23.6236&loc=Cluj-Napoca&alt=0&tz=EET][observații]]);
 + [[/m/sonde][Lista sondelor interplanetare active]];
-+ [[/r/rachete][Lista rachetelor active]] (plus detalii despre [[/r/antares][Antares]], [[/r/soyuz-2][Soyuz-2]] și [[/r/falcon9][Falcon 9 Block 5]]);
++ [[/r/rachete][Lista rachetelor active]] (plus detalii despre [[/r/antares][Antares]], [[/r/soyuz-2][Soyuz-2]] și [[/r/falcon9][Falcon 9]]);
 + [[/r/viitor][Rachete aflate în dezvoltare]] (/draft/);
 + Programe spațiale active (/selecție/: [[/p/china][China]], [[/p/india][India]], [[/p/iran][Iran]]);
 + [[/m/meteoriti][Meteoriți]]: informații generale și lista meteoriților românești (/draft/);
@@ -1277,14 +1277,14 @@ Soyuz-2, folosită începând cu 2006, vine însă în două variante: Soyuz-2.1
 |  80 | v1.2b5 | 29.01.2020 | Starlink v1.0-3     | B1051.3 | CC SLC-40  |
 |  81 | v1.2b5 | 17.02.2020 | Starlink v1.0-4     | B1056.4 | CC SLC-40  |
 
-#+CAPTION Lista lansărilor Falcon Heavy
+#+CAPTION: Lista lansărilor Falcon Heavy
 | Nr. |       Data | Încărcătură    | Treapte laterale | Centrală | Rampa  |
 |-----+------------+----------------+------------------+----------+--------|
 |   1 | 06.02.2018 | Tesla Roadster | B1023.2 B1025.2  | B1033    | LC-39A |
 |   2 | 11.04.2019 | Arabsat-6A     | B1052.1 B1053.1  | B1055    | LC-39A |
 |   3 | 25.06.2019 | STP-2          | B1052.2 B1053.2  | B1057    | LC-39A |
 
-#+CAPTION Lista treptelor primare Falcon 1 Block 5
+#+CAPTION: Lista treptelor primare Falcon 1 Block 5
 | Booster |       Data | Misiunea       | Recuperare       | Racheta    |
 |---------+------------+----------------+------------------+------------|
 | B1046.1 | 11.05.2018 | Bangabadhu-1   | OCISLY           | Falcon 9   |

@@ -94,7 +94,10 @@ draft = false
 | 80  | v1.2b5 | 29.01.2020 | Starlink v1.0-3     | B1051.3 | CC SLC-40  |
 | 81  | v1.2b5 | 17.02.2020 | Starlink v1.0-4     | B1056.4 | CC SLC-40  |
 
-\#+CAPTION Lista lansărilor Falcon Heavy
+<div class="table-caption">
+  <span class="table-number">Table 2</span>:
+  Lista lansărilor Falcon Heavy
+</div>
 
 | Nr. | Data       | Încărcătură    | Treapte laterale | Centrală | Rampa  |
 |-----|------------|----------------|------------------|----------|--------|
@@ -102,7 +105,10 @@ draft = false
 | 2   | 11.04.2019 | Arabsat-6A     | B1052.1 B1053.1  | B1055    | LC-39A |
 | 3   | 25.06.2019 | STP-2          | B1052.2 B1053.2  | B1057    | LC-39A |
 
-\#+CAPTION Lista treptelor primare Falcon 1 Block 5
+<div class="table-caption">
+  <span class="table-number">Table 3</span>:
+  Lista treptelor primare Falcon 1 Block 5
+</div>
 
 | Booster | Data       | Misiunea       | Recuperare    | Racheta    |
 |---------|------------|----------------|---------------|------------|
