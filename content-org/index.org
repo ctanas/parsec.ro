@@ -1886,7 +1886,7 @@ Imediat după lansare, satelitul Olimp-K și-a schimbat de mai multe ori poziți
 :EXPORT_HUGO_SECTION: bul
 :END:
 
-** TODO Buletin Cosmic nr. 64 :meridian:soyuz2:
+** Buletin Cosmic nr. 64 :meridian:soyuz2:mev1:marte:insight:
 :PROPERTIES:
 :EXPORT_FILE_NAME: 064
 :EXPORT_DATE: 2020-02-26
@@ -1903,6 +1903,16 @@ Lansarea a avut loc joi, 20 februarie, de pe rampa 43/3, una dintre cele două r
 
 *** Alte evenimente
 
+Miercuri, 25 februarie, satelitul *MEV-1* al companiei americane Northrop Grumann a andocat cu satelitul *Intelsat-901*, o premieră în domeniul sateliților comerciali de telecomunicație. MEV-1 a fost lansat în octombrie anul trecut și până zilele trecute și-a ajustat constant orbita pentru a-și intercepta ținta. Intelsat-901 a fost lansat acum 18 ani și pentru că rezervele de combustibil erau scăzute, satelitul a fost mutat de pe orbita operațională pe o orbită rezervată sateliților dezafectați, pentru a nu perturba activitatea altor sateliți. Pentru că satelitul este altfel perfect funcțional, acesta va fi reactivat, odată ce MEV-1 își va folosi combustibilul și propulsoarele de la bord și îl va muta din nou pe o orbită operațională. Planul este ca MEV-1 să controleze poziția satelitului Intelsat-901 timp de 5 ani, după care să se decupleze de acesta și să se îndrepte spre  un alt satelit care are nevoie de repoziționare. În acest fel companiile de telecomunicații pot reduce semnificativ costurile, prin evitarea lansării unui satelit nou și prelungirea perioadei de viață a celor deja existenți. Nortrop Grumann a anuțat că un al doilea satelit de acest fel, MEV-2, este în lucru și urmează să fie lansat în viitorul apropiat, pentru a se cupla de un alt satelit Intelsat.
+
+---
+
+NASA a publicat o serie de 6 articole în revista Nature în care face publice rezultatele obținute de sonda *InSight* după primul an petrecut de aceasta pe *Marte*. Astfel, aflăm cu o oarecare surprindere că deși Marte nu are plăci tectonice ca cele ale planetei noastre, asta nu înseamnă că nu avem cutremure marțiene: seismograful de la bordul sondei InSight, aflată pe suprafața planetei Marte, a detectat peste 450 de cutremure într-o perioadă de un an de zile. Cutremurele marțiene, slabe în intensitate, ar fi produse în regiunile vulcanice active, dar și de impactul unor meteoriți cu suprafața planetei, impact care are loc la viteze mai mari decât pe Pământ, datorită atmosferei marțiene mult mai rarefiate. Sonda InSight a fost lansată în 5 mai 2018 de o rachetă Atlas V și a ajuns pe suprafața planetei Marte în 26 noiembrie 2018, în zona denumită Elysium Planitia, aproape de ecuatorul marțian.
+
+---
+
+După succesul misiunilor Hayabusa (două sonde care au vizitat asteroizii Itokawa și respectiv Ryugu, pentru colectare de probe de pe suprafața acestora), agenția spațială din Japonia plănuiește o misiune spre Phobos, unul dintre cei doi sateliți ai lui Marte. Sonda urmează să fie lansată în 2024, să ajungă pe Phobos în 2026, de unde să preleveze probe, pe care să le aducă apoi pe Pământ, în 2029. O misiune similară a fost încercată și de agenția spațială rusă în 2011, dar sonda Fobos-Grunt de atunci nu a fost plasată pe orbită corectă și câteva luni mai târziu s-a prăbușit în Pacific.
+
 ** Buletin Cosmic nr. 63 :antares:cygnus:ng13:ariane5:spacex:starlink:cz2d:soyuz:ms16:
 :PROPERTIES:
 :EXPORT_FILE_NAME: 063
@@ -1911,7 +1921,7 @@ Lansarea a avut loc joi, 20 februarie, de pe rampa 43/3, una dintre cele două r
 
 *** Lansări orbitale
 
-Sâmbătă, 15 februarie, o nouă lansare Antares-230+ a urcat pe orbită o capsulă Cygnus, încărcată cu peste 3 tone de provizii și echipamente științifice pentru echipajul Stației Spațiale Internaționale. Lansarea a avut loc de pe rampa LP-0A de la complexul Wallops din Virgina. Capsula Cygnus NG-13 /S.S. Robert H. Lawrence/ a ajuns în vecinătatea ISS în cursul zilei de vineri, de unde a fost capturată de echipaj folosind brațul robotic al stației și atașată modulului Unity, unde va petrece următoarele aproximativ 3 luni, până în 11 mai, când este programată decuplarea de ISS. Lansarea a fost amânată de două ori, în 9 februarie din cauza unei probleme cu un echipament de la sol, iar a doua oară, în 14 februarie, din cauza vânturilor puternice de la altitudine înaltă (motivul pentru care o lansare în 13 februarie nici nu a mai fost luată în considerare). Northrop Grumann a specificat că misiunea a fost lansată cu două luni mai devreme decât fusese inițial planificată, la solicitarea NASA.
+Sâmbătă, 15 februarie, o nouă lansare *Antares-230+* a urcat pe orbită o capsulă Cygnus, încărcată cu peste 3 tone de provizii și echipamente științifice pentru echipajul Stației Spațiale Internaționale. Lansarea a avut loc de pe rampa LP-0A de la complexul Wallops din Virgina. Capsula *Cygnus NG-13* /S.S. Robert H. Lawrence/ a ajuns în vecinătatea ISS în cursul zilei de vineri, de unde a fost capturată de echipaj folosind brațul robotic al stației și atașată modulului Unity, unde va petrece următoarele aproximativ 3 luni, până în 11 mai, când este programată decuplarea de ISS. Lansarea a fost amânată de două ori, în 9 februarie din cauza unei probleme cu un echipament de la sol, iar a doua oară, în 14 februarie, din cauza vânturilor puternice de la altitudine înaltă (motivul pentru care o lansare în 13 februarie nici nu a mai fost luată în considerare). Northrop Grumann a specificat că misiunea a fost lansată cu două luni mai devreme decât fusese inițial planificată, la solicitarea NASA.
 
 Capsula Cygnus NG-12 s-a desprins de ISS în 31 ianuarie (eliberând portul Unity-nadir) dar se află în continuare pe orbită, urmând să revină distructiv în atmosferă în următoarea perioadă, după ce va termina de derulat experimentele de la bord.
 
@@ -1920,7 +1930,7 @@ Capsula Cygnus NG-12 s-a desprins de ISS în 31 ianuarie (eliberând portul Unit
 
 ---
 
-SpaceX a lansat luni, 17 februarie, a 5-a tranșă de 60 de sateliți Starlink, folosind o rachetă Falcon 9 cu o treaptă primară aflată la al 4-lea zbor (seria B1056). Sateliții au ajuns cu bine pe orbită (de această dată una eliptică în prima fază, urmând să fie circularizată ulterior), însă recuperarea primei trepte nu a mai avut loc, aceasta ratând aterizarea pe barja OCISLY, cu câțiva zeci de metri. Prioritatea unei trepte primare Falcon 9 care se apropie de barjă este integritatea barjei, așa că probabil computerul de bord a identificat o problemă și a decis să nu aterizeze pe barjă. Cei 60 de sateliți Starlink sunt cântăresc peste 15 tone și sunt cele mai grele încărcături lansare de Falcon 9, motiv pentru care cantitatea de combustibil rămasă în prima treaptă după separare este redusă și nu îi permite să revină controlat la sol, iar ultima recuperare Falcon 9 pe barjă (29 ianuarie) a fost una mai dură decât de obicei, șocul fiind însă preluat de picioarele rachetei. Următoarea lansare Starlink este programată pentru luna martie.
+SpaceX a lansat luni, 17 februarie, a 5-a tranșă de 60 de sateliți *Starlink*, folosind o rachetă *Falcon 9* cu o treaptă primară aflată la al 4-lea zbor (seria B1056). Sateliții au ajuns cu bine pe orbită (de această dată una eliptică în prima fază, urmând să fie circularizată ulterior), însă recuperarea primei trepte nu a mai avut loc, aceasta ratând aterizarea pe barja OCISLY, cu câțiva zeci de metri. Prioritatea unei trepte primare Falcon 9 care se apropie de barjă este integritatea barjei, așa că probabil computerul de bord a identificat o problemă și a decis să nu aterizeze pe barjă. Cei 60 de sateliți Starlink sunt cântăresc peste 15 tone și sunt cele mai grele încărcături lansare de Falcon 9, motiv pentru care cantitatea de combustibil rămasă în prima treaptă după separare este redusă și nu îi permite să revină controlat la sol, iar ultima recuperare Falcon 9 pe barjă (29 ianuarie) a fost una mai dură decât de obicei, șocul fiind însă preluat de picioarele rachetei. Următoarea lansare Starlink este programată pentru luna martie.
 
 ---
 
