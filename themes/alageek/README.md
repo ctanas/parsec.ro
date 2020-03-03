@@ -1,12 +1,7 @@
-![](https://alageek.com/img/alageek-logo.png)
-
 # hugo-alageek-theme
 A [Cocoa Enhaced](https://github.com/mtn/cocoa-eh-hugo-theme) based theme. It's rewritten with **Bootstrap 4**.
 
-<a href="https://www.patreon.com/gkmngrgn" title="Donate to this project using Patreon">
-    <img src="https://img.shields.io/badge/become%20a%20patron-F96854.svg?longCache=true&style=for-the-badge"
-         alt="Patreon donate button" />
-</a>
+![](/images/screenshot.png)
 
 Websites that are using hugo with alaGeek theme:
 
@@ -34,31 +29,31 @@ Websites that are using hugo with alaGeek theme:
 * Disqus support
 * Dark-mode support
 * High accessibility score
+* Pagination support in blog posts
+* General and post-specific Table of Contents support.
 
 ## Supported Languages
 
-* English (Default)
-* Turkish
 * Catalan
-
-## TODO
-
-* Printer friendly output
+* English (Default)
+* Romanian
+* Russian
+* Turkish
 
 ## Dependency versions
 
-* bootstrap: 4.3.1
-* highlightjs: 9.15.8
-* jquery-slim: 3.3.1
+* bootstrap: 4.4.1
+* highlightjs: 9.15.10
+* jquery-slim: 3.4.1
 * mathjax: 2.7.5
 * progressively: 1.2.5
-* webfont: 1.6.28
+* popper.js: 1.16.0
 
 ## Typography
 
-* *Raleway* for the titles, light but clearly visible
-* *Merriweather* for the text, an awesome sans serif font to read without difficulties
-* *Menlo* for the code
+* Title: Merriweather Sans
+* Content: Merriweather
+* Code: Fira Code
 
 ## License
 

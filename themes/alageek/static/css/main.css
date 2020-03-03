@@ -11,9 +11,9 @@
     --color-ko-fi: #dc3545;
     --color-bmc: #dc3545;
 
-    --font-title: "Raleway", sans-serif;
-    --font-code: "Menlo", monospace;
+    --font-code: "Fira Code", monospace;
     --font-content: "Merriweather", serif;
+    --font-title: "Merriweather Sans", sans-serif;
 }
 
 .badge-info {
@@ -21,11 +21,11 @@
     color: #000;
 }
 
-/* @media (prefers-color-scheme: dark) {
+@media (prefers-color-scheme: dark) {
     :root {
         --main-bg-color: #1a1a1a;
         --main-font-color: #f8f9fa;
-        --main-link-color: #17bf63;
+        --main-link-color: #ffc107;
         --header-font-color: #efefef;
         --header-link-color: #eaeaea;
         --footer-link-color: #aaa;
@@ -35,7 +35,7 @@
         --color-ko-fi: #df5000;
         --color-bmc: #ff813f;
     }
-} */
+}
 
 /* Global styles */
 body {
@@ -205,7 +205,6 @@ h6 {
     margin-bottom: .75rem;
 }
 
-
 .content .meta,
 .content .markdown > h1,
 .content .markdown > h2,
@@ -224,10 +223,6 @@ h6 {
 
 .content .markdown figure {
     background: var(--main-bg-color);
-}
-
-.content .markdown p + p {
-/*    text-indent: 1.5rem;*/
 }
 
 .content .markdown code,
@@ -392,13 +387,6 @@ table {
     margin-right:auto;
   }
 
-tr:nth-child(even) {
-    background: #e5f2f2        /* Every other line is colore */
-    } 
-
-tr:nth-child(odd) {
-    background: #FFF           /* for better readability */
-    }     
 
 /* Footnotes customization */ 
 
@@ -412,21 +400,3 @@ tr:nth-child(odd) {
 img {							
     max-width: 100%;
     max-height: 100%;
-}
-
-/* Making the captions prettier */
-
-figcaption {
-	font-size: 100%;
-	font-family: monospace;
-	line-height: 1rem;
-	padding: 5px;
-}
-
-figure-number {
-    display: none;
-}
-
-img.center {
-    display:block;
-}
