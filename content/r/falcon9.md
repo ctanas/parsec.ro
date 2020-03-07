@@ -93,6 +93,7 @@ draft = false
 | 79  | v1.2b5 | 19.01.2020 | CrewD               | B1046.4 | LC-39A     |
 | 80  | v1.2b5 | 29.01.2020 | Starlink v1.0-3     | B1051.3 | CC SLC-40  |
 | 81  | v1.2b5 | 17.02.2020 | Starlink v1.0-4     | B1056.4 | CC SLC-40  |
+| 82  | v1.2b5 | 07.03.2020 | Dragon CRS-20       | B1059.2 | CC SLC-40  |
 
 <div class="table-caption">
   <span class="table-number">Table 2</span>:
@@ -144,6 +145,7 @@ draft = false
 | B1057.1 | 25.06.2019 | STP-2          | N/A[^fn:6]    | FH centru  |
 | B1058.1 | ??.??.2020 | Dragon DM-2    | ???[^fn:7]    | Falcon 9   |
 | B1059.1 | 05.12.2019 | Dragon CRS-19  | OCISLY        | Falcon 9   |
+| B1059.2 | 07.03.2020 | Dragon CRS-20  | LZ-1          | Falcon 9   |
 
 
 ## Abrevieri {#abrevieri}
