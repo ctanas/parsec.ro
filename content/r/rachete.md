@@ -22,7 +22,7 @@ draft = false
 | Changzheng-2D   | CHN  | CNSA        | 1992  | 4xYF-21C     | 3.5t  | 1.3t   |       | 46      | 45      | 1       | 19.02.2020 |
 | Changzheng-2F   | CHN  | CNSA        | 1999  | 4xYF-20B     | 8.4t  |        |       | 13      | 13      | 0       | 16.10.2016 |
 | Changzheng-3A   | CHN  | CNSA        | 1994  | 4xYF-21C     | 8.5t  |        | 2.6t  | 27      | 27      | 0       | 09.07.2018 |
-| Changzheng-3B   | CHN  | CNSA        | 1996  | 4xYF-21C     | 11.5t | 7.1t   | 5.5t  | 65      | 62      | 1+(2)   | 07.12.2020 |
+| Changzheng-3B   | CHN  | CNSA        | 1996  | 4xYF-21C     | 11.5t | 7.1t   | 5.5t  | 66      | 63      | 1+(2)   | 09.03.2020 |
 | Changzheng-3C   | CHN  | CNSA        | 2008  | 4xYF-21C     |       |        | 3.9t  | 17      | 17      | 0       | 17.05.2019 |
 | Changzheng-4B   | CHN  | CNSA        | 1999  | 4xYF-21C     | 4.2t  | 2.8t   | 1.5t  | 35      | 34      | 1       | 20.12.2019 |
 | Changzheng-4C   | CHN  | CNSA        | 2006  | 4xYF-21C     | 4.2t  | 2.8t   | 1.5t  | 28      | 26      | 2       | 27.11.2019 |
