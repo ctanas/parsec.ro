@@ -4,8 +4,11 @@ author = ["Claudiu"]
 draft = false
 +++
 
+09.03.2020
+: Capsula Dragon CRS-20 andochează la portul Harmony, după lansarea din 09.03.2020.
+
 18.02.2020
-: Capsula Cygnus NG-13 este atașată de modulul _Unity_, după lansarea din 15.02.2020.
+: Capsula Cygnus NG-13 este atașată de modulul _Unity_, după lansarea din 15.02.2020;
 
 06.02.2020
 : Începe **Expediția 62**;
