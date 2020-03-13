@@ -1889,7 +1889,7 @@ Imediat după lansare, satelitul Olimp-K și-a schimbat de mai multe ori poziți
 :EXPORT_HUGO_SECTION: bul
 :END:
 
-** TODO Buletin Cosmic nr. 66 :falcon9:crs20:dragon:beidou:axiom:chandrayaan:
+** Buletin Cosmic nr. 66 :falcon9:crs20:dragon:beidou:axiom:chandrayaan:
 :PROPERTIES:
 :EXPORT_FILE_NAME: 066
 :EXPORT_DATE: 2020-03-11
@@ -1897,19 +1897,26 @@ Imediat după lansare, satelitul Olimp-K și-a schimbat de mai multe ori poziți
 
 *** Lansări orbitale
 
-Falcon 9 / CRS-20
+Sâmbătă dimineața, o rachetă *Falcon 9* a lansat de pe rampa de la Cape Canaveral, Florida, capsula *Dragon CRS-20*, ultima din seria de capsule Dragon-1 folosite pentru aprovizionarea Stației Spațiale Internaționale. Din octombrie, SpaceX plănuiește să folosească capsula Dragon-2 pentru acest tip de misiuni, capsulă care are și o variantă pentru zboruri cu echipaj.
+
+În urma lansării, prima treaptă a rachetei Falcon 9 a aterizat la sol, aproape de rampa de lansare, fiind pentru a 50-a oară când SpaceX reușește să recupere prima treaptă a rachetei Falcon 9.
+
+Dragon CRS-20 a ajuns luni în vecinătatea stației spațiale, de unde a fost capturat folosind brațul robotic Candarm2 și atașat modulului american Harmony. Dragon-2 va putea andoca direct la ISS, așa cum în prezent se întâmplă cu vehiculele rusești Progress și Soyuz (din motive de siguranță, s-a optat pentru o cuplare indirectă în cazul capsulei Dragon-1, prin folosirea brațului robotic al stației).
+
+Dragon CRS-20 a adus pe orbită aproape 2 tone de provizii și echipamente științifice (din care peste 1.5 tone fiind plasate în compartimentul presurizat al capsulei) și este pentru a treia oară când această capsulă ajunge pe orbită, după ce a fost folosită și în misiunile CRS‑10 și CRS‑16 (februarie 2017, respectiv decembrie 2018). În compartimentul nepresurizat a fost transportată o platformă de cercetare europeană, denumită Bartolomeo, care va fi atașată modulului european Columbus, pentru diverse experimente științifice derulate de agenția spațială europeană, dar și de partenerii comerciali.
+
+#+CAPTION: Prima treaptă Falcon 9 recuperată, expusă la sediul SpaceX de la Hawthorne, California (Sursă foto: arhiva personală)
+[[/img/falcon9spx]]
 
 ---
 
-Changzheng-3B / BeiDou
+Tot luni, la ora 14, China a lansat de la centrul spațial Xichang un nou satelit *BeiDou-3* folosind o rachetă *Changzheng-3B*. Satelitul, cu o masă de 4.6 tone, face parte din constelația de localizare satelitară proprie, similară cu sistemul american GPS sau cel european Galileo. China se află acum la o singură lansare distanță de o acoperire globală a sistemului propriu BeiDou, lansare programată pentru luna mai. A fost a 5-a lansare reușită a Chinei în acest an, care o plasează pe un loc doi într-un clasament al numărului de lansări, după SUA (7 lansări) și în fața Europei (3 lansări), clasamentul fiind încheiat de Japonia și Rusia, fiecare cu câte o reușită.
 
 *** Alte evenimente
 
-Chandrayaan-3, 2021
+India promite că a treia sa misiune spre Lună, *Chandrayaan-3*, va fi lansată la jumătatea anului viitor. După ce o platformă și un rover indian s-au prăbușit anul trecut pe Lună, cu câteva secunde înainte de aselenizare, agenția spațială indiană a spus că va relua misiunea și va încerca din nou să trimită un rover Lună, folosindu-se de această dată de sonda orbitală Chandrayaan-2, care se află în prezent pe orbită în jurul Lunii, este funcțională și complet capabilă să ia parte la următoarea tentativă de aselenizare. Tot în 2021, India plănuiește să-și trimită primii cetățeni pe orbită, folosind o rachete proprie, în cadrul unui program denumit Gaganyaan. Patru viitori astronauți indieni se află deja în Rusia, unde iau parte la sesiuni de antrenament pentru aventura ce îi așteaptă în viitorul apropiat, India sperând să devină a patra națiune capabilă de lansări cu echipaj uman, după Rusia, SUA și China.
 
----
-
-Axiom Crew
+*Axiom Space*, o companie care plănuiește construcția unei stații spațiale orbitale, va folosi serviciile SpaceX pentru a transporta turiști spațiali pe Stația Spațială Internațională, folosind capsula Dragon-2. Turiștii vor petrece o perioadă de 8 zile la bordul avanpostului orbital. Prima misiune de acest fel ar putea avea loc chiar anul viitor, asta dacă SpaceX reușește să lanseze primii astronauți în luna mai a acestui an. Dacă totul decurge conform planului, Axiom Space speră ca în viitor să poată organiza două astfel de zboruri în fiecare an, fiecare cu câte 4 turiști spațiali. Anunțul vine la doar câteva săptămâni distanță după cel al companiei Space Adventures, care plănuiește zboruri orbitale ale capsulei Dragon-2 în scopuri comerciale, dar fără a andoca cu Stația Spațială Internațională.
 
 ** Buletin Cosmic nr. 65 :spacex:starship:exomars:astra:psyche:falconheavy:
 :PROPERTIES:
