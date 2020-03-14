@@ -25,7 +25,7 @@
     color: #000;
 }
 
-/*
+
 @media (prefers-color-scheme: dark) {
     :root {
         --main-bg-color: #002b36;
@@ -44,7 +44,7 @@
         --tr-child-odd-color: #073642;
     }
 }
-*/
+
 
 /* Global styles */
 body {
