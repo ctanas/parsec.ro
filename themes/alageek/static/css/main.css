@@ -402,7 +402,15 @@ tr:nth-child(even) {
 
 tr:nth-child(odd) {
     background: var(--tr-child-odd-color);           /* for better readability */
-    }     
+    }
+
+tr:hover {background-color: #dc322f;
+	  color: white;	
+	}
+
+th {background-color: #002b36;
+    color: #fdf6e3;    	
+   } 
 
 /* Footnotes customization */ 
 
