@@ -16,8 +16,8 @@
     --font-title: "Merriweather Sans", sans-serif;
     --font-table: "Cousine", monospace;
     
-    --tr-child-even-color: #e5f2f2;
-    --tr-child-odd-color: #FFF;
+    --tr-child-even-color: #fdf6e3;
+    --tr-child-odd-color: #eee8d5;
 }
 
 .badge-info {
@@ -25,11 +25,12 @@
     color: #000;
 }
 
+/*
 @media (prefers-color-scheme: dark) {
     :root {
         --main-bg-color: #002b36;
         --main-font-color: #839496;
-        --main-link-color: #cb4b16;
+        --main-link-color: #268bd2;
         --header-font-color: #efefef;
         --header-link-color: #eaeaea;
         --footer-link-color: #aaa;
@@ -43,7 +44,7 @@
         --tr-child-odd-color: #073642;
     }
 }
-
+*/
 
 /* Global styles */
 body {
