@@ -56,7 +56,7 @@ draft = false
     -   MET: satelit meteorologic
     -   SAT: alte categorii
 -   **Ținta**:
-    -   LEO: orbita terestră joasă, între 200-2000 km altitudine
+    -   LEO: orbita terestră joasă, între 200-2000 km altitudinesa
     -   ISS: zbor spre ISS, un caz special de orbită terestră joasă
     -   SSO: orbită heliosincronă, un caz special de orbită terestră joasă
     -   MEO: orbită terestră medie, între LEO și GEO
@@ -66,7 +66,7 @@ draft = false
     -   LUN: zbor spre Lună
     -   MAR: zbor spre Marte
     -   INT: zbor interplanetar, cu o destinație alta decât Luna sau Marte
--   **Buletin**: link spre Buletinul Cosmic care oferă mai multe detalii despre lansare.
+-   **Bul.**: link spre Buletinul Cosmic care oferă mai multe detalii despre lansare.
 
 
 ## Note de subsol {#note-de-subsol}

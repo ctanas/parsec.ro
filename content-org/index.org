@@ -389,11 +389,11 @@ Compania iSpace (sau, pe numele său complet /Beijing Interstellar Glory Space T
 
 *** Note de subsol
 
-[fn:ch1]: CNSA — *China National Space Administration*
-[fn:ch2]: CASC — *China Aerospace Science and Technology Corporation*
-[fn:ch3]: CALT — *China Academy of Launch Vehicle Technology*
-[fn:ch4]: *Changzheng-2* (din 1974) are 6 variante, din care trei (2, 2A, 2E sunt retrase) iar restul de trei (2C, 2D, 2F—singura certificată pentru zboruri cu echipaj, fiind proiectată pentru capsula Shenzhou) sunt încă active; *Changzheng-3* a fost folosită de 13 ori între 1984 și 2000 și din 1994 are și variantele Changzheng-3A (folosită de 27 de ori, fără să înregistreze nici un eșec), Changzheng-3B (din 1996, care ulterior a evoluat în 3B/E, fiind cea mai puternică rachetă din generația veche) și Changzheng-3C (din 2008); *Changzheng-4* are și ea trei variante: Changzheng-4A (folosită de două ori, în 1988 și 1980), Changzheng-4B (activă din 1999) și Changzheng-4C (activă din 2006).
-[fn:ch5]: China are 4 centre de lansări orbitale: *Jiuquan* (Mongolia Interioară) —cel mai folosit centru de lansare din China, are trei sectoare, din care doar unul are două rampe active, una pentru Changzheng-2F, iar alta pentru Changzheng-2C, 2D și 4C; *Xichang* (regiunea Sichuan) —are două rampe active, folosite în special pentru lansări de sateliți geostaționari, pentru rachetele Changzheng-2E, 3A, 3B și 3C, respectiv Changzheng-2C, 3, 3A și 3B; *Taiyuan* (regiunea Shanxi) —folosit în special pentru lansări de sateliți heliosincroni, are trei rampe, folosite pentru rachetele Changzheng 1D, 2C, 4A, 4B, 4C, Changzheng 2C, 4B, 4C și respectiv Changzheng-6; *Wenchang* (insula Hainan) —cel mai nou centru de lansări orbitale, construit special pentru noua generație de rachete, Changzheng-5 și Changzheng-7.
+[fn:ch1] CNSA — *China National Space Administration*
+[fn:ch2] CASC — *China Aerospace Science and Technology Corporation*
+[fn:ch3] CALT — *China Academy of Launch Vehicle Technology*
+[fn:ch4] *Changzheng-2* (din 1974) are 6 variante, din care trei (2, 2A, 2E sunt retrase) iar restul de trei (2C, 2D, 2F—singura certificată pentru zboruri cu echipaj, fiind proiectată pentru capsula Shenzhou) sunt încă active; *Changzheng-3* a fost folosită de 13 ori între 1984 și 2000 și din 1994 are și variantele Changzheng-3A (folosită de 27 de ori, fără să înregistreze nici un eșec), Changzheng-3B (din 1996, care ulterior a evoluat în 3B/E, fiind cea mai puternică rachetă din generația veche) și Changzheng-3C (din 2008); *Changzheng-4* are și ea trei variante: Changzheng-4A (folosită de două ori, în 1988 și 1980), Changzheng-4B (activă din 1999) și Changzheng-4C (activă din 2006).
+[fn:ch5] China are 4 centre de lansări orbitale: *Jiuquan* (Mongolia Interioară) —cel mai folosit centru de lansare din China, are trei sectoare, din care doar unul are două rampe active, una pentru Changzheng-2F, iar alta pentru Changzheng-2C, 2D și 4C; *Xichang* (regiunea Sichuan) —are două rampe active, folosite în special pentru lansări de sateliți geostaționari, pentru rachetele Changzheng-2E, 3A, 3B și 3C, respectiv Changzheng-2C, 3, 3A și 3B; *Taiyuan* (regiunea Shanxi) —folosit în special pentru lansări de sateliți heliosincroni, are trei rampe, folosite pentru rachetele Changzheng 1D, 2C, 4A, 4B, 4C, Changzheng 2C, 4B, 4C și respectiv Changzheng-6; *Wenchang* (insula Hainan) —cel mai nou centru de lansări orbitale, construit special pentru noua generație de rachete, Changzheng-5 și Changzheng-7.
 
 ** Programul spațial indian
 :PROPERTIES:
@@ -659,7 +659,7 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
   + MET: satelit meteorologic
   + SAT: alte categorii
 - *Ținta*:
-  + LEO: orbita terestră joasă, între 200-2000 km altitudine
+  + LEO: orbita terestră joasă, între 200-2000 km altitudinesa
   + ISS: zbor spre ISS, un caz special de orbită terestră joasă
   + SSO: orbită heliosincronă, un caz special de orbită terestră joasă
   + MEO: orbită terestră medie, între LEO și GEO
@@ -669,7 +669,7 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
   + LUN: zbor spre Lună
   + MAR: zbor spre Marte
   + INT: zbor interplanetar, cu o destinație alta decât Luna sau Marte
-- *Buletin*: link spre Buletinul Cosmic care oferă mai multe detalii despre lansare.
+- *Bul.*: link spre Buletinul Cosmic care oferă mai multe detalii despre lansare.
 
 **** Note de subsol
 
