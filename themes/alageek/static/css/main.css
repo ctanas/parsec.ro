@@ -11,6 +11,8 @@
     --color-ko-fi: #dc3545;
     --color-bmc: #dc3545;
 
+    --bold-color: #073642;
+
     --font-code: "Fira Code", monospace;
     --font-content: "Merriweather", serif;
     --font-title: "Merriweather Sans", sans-serif;
@@ -40,6 +42,8 @@
         --color-ko-fi: #df5000;
         --color-bmc: #ff813f;
         
+	--bold-color: #eee8d5;
+
         --tr-child-even-color: #002b36;
         --tr-child-odd-color: #073642;
     }
@@ -369,6 +373,8 @@ h6 {
 /* hic sunt dracones */
 
 /* Table customization */
+
+strong {color: var(--bold-color);}
 
     tr th, tr td {
     font-family: var(--font-table);      /* Monospace font, for better data display */
