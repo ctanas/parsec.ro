@@ -1,10 +1,10 @@
 :root {
-    --main-bg-color: #fff;
-    --main-font-color: #313537;
-    --main-link-color: #0011ff;
-    --header-font-color: #333333;
-    --header-link-color: #666666;
-    --footer-link-color: #313537;
+    --main-bg-color: #fdf6e3 ;
+    --main-font-color: #657b83;
+    --main-link-color: #268bd2;
+    --header-font-color: #002b36;
+    --header-link-color: #657b83;
+    --footer-link-color: #657b83;
     --pagination-border-color: #dee2e6;
 
     --color-patreon: #dc3545;
@@ -14,12 +14,36 @@
     --font-code: "Fira Code", monospace;
     --font-content: "Merriweather", serif;
     --font-title: "Merriweather Sans", sans-serif;
+    --font-table: "Cousine", monospace;
+    
+    --tr-child-even-color: #e5f2f2;
+    --tr-child-odd-color: #FFF;
 }
 
 .badge-info {
     background-color: #20c997;
     color: #000;
 }
+
+@media (prefers-color-scheme: dark) {
+    :root {
+        --main-bg-color: #002b36;
+        --main-font-color: #839496;
+        --main-link-color: #cb4b16;
+        --header-font-color: #efefef;
+        --header-link-color: #eaeaea;
+        --footer-link-color: #aaa;
+        --pagination-border-color: #222222;
+
+        --color-patreon: #dc322f;
+        --color-ko-fi: #df5000;
+        --color-bmc: #ff813f;
+        
+        --tr-child-even-color: #002b36;
+        --tr-child-odd-color: #073642;
+    }
+}
+
 
 /* Global styles */
 body {
@@ -346,8 +370,8 @@ h6 {
 /* Table customization */
 
     tr th, tr td {
-    font-family: monospace;      /* Monospace font, for better data display */
-    font-size: medium;          		     /* Small fonts, to fit more data */
+    font-family: var(--font-table);      /* Monospace font, for better data display */
+    font-size: small;          		     /* Small fonts, to fit more data */
     line-height: 1.4;          /* No need to waste much space */
     padding: 0px 0px 0px 12px; /* Make it more readeable, leave some space between columns,*/
 	}                          /* maybe there's a more elegant solution to it?*/
@@ -372,11 +396,11 @@ table {
   }
 
 tr:nth-child(even) {
-    background: #e5f2f2        /* Every other line is colored */
+    background: var(--tr-child-even-color);        /* Every other line is colored */
     } 
 
 tr:nth-child(odd) {
-    background: #FFF           /* for better readability */
+    background: var(--tr-child-odd-color);           /* for better readability */
     }     
 
 /* Footnotes customization */ 
