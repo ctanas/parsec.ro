@@ -54,6 +54,8 @@ Changzheng-7 este o rachetă în două trepte, derivată din Changzheng 2F, sing
 
 Lungă de 53 de metri, cu un diametru de 3.35 metri și cu o greutate pe rampa de lansare de aproape 600 de tone, Changzheng-7 este capabilă să transporte 13.5 tone pe orbită joasă și 5.5 tone pe orbita de transfer geostaționar. Pentru comparație, Falcon 9 poate urca peste 22 de tone pe orbită joasă și Atlas V aproape 19 tone. În primii ani, Changzheng-7 va fi folosită pentru transportul modulului cargo Tianzhou, venind astfel în sprijinul construcției noii stații spațiale chinezești. Tiangong-2 urmează să înlocuiască deja abandonata Tiangong-1. Însă Tiangon-2 nu este altceva decât un pas intermediar spre Tiangon-3. Prima lansare Tianzhou va fi cel mai probabil efectuată de Changzheng-7 în aprilie 2017. Până atunci va avea loc și lansarea inaugurală a rachetei de calibru greu Changzheng-5 (25 de tone spre orbita terestră joasă, similară cu actuala Delta IV Heavy), în toamna acestui an.
 
+Varianta Changzheng-7A este adaptată pentru orbita geostaționară și are în plus o a treia treaptă, împrumutată de la Changzheng-3B și propulsată de 2 motoare YF-75, ceea ce o face cea mai înaltă rachetă chinezească (60.13 metri).
+
 Cosmodromul de la Wenchang a fost construit special pentru lansatoarele Changzheng-5 și Changzheng-7 și a costat 800 de milioane de dolari. Amplasarea rampelor este mai fericită, fiind mai apropiată de Ecuator și înconjurată de ocean, nu de zone populate. Asta înseamnă că lansările vor fi nu doar mai ecologice, dar și mai sigure, iar apropierea insulei Hainan de Ecuator oferă o oarecare economisire a combustibilului și deci performanțe sporite (19 grade, față de 28 de grade unde este plasat Cape Canaveral).
 
 <div class="table-caption">
