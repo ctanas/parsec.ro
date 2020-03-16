@@ -413,6 +413,7 @@ tr:nth-child(odd) {
 
 tr:hover {background-color: #dc322f;
 	  color: white;	
+	  
 	}
 
 th {background-color: #002b36;
