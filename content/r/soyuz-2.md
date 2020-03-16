@@ -138,6 +138,7 @@ Soyuz-2.1a poate lansa cel mult 7 tone pe orbită terestră joasă sau 2.8 tone 
 | 97  | 18.12.2019 | Soyuz 2.1a/Fregat | CHEOPS                  | 2.519    | KO ELS  | SSO         |
 | 98  | 06.02.2020 | Soyuz 2.1b/Fregat | 34x OneWeb-2            | 5.015    | TB 31/6 | LEO         |
 | 99  | 20.02.2020 | Soyuz 2.1a/Fregat | Meridian-M9             | ~2.0     | PL 43/3 | MOL         |
+| 100 | 16.03.2020 | Soyuz 2.1b/Fregat | GLONASS-M               | 1.415    | PL 43/4 | MEO         |
 
 EEO
 : Orbită eliptică

@@ -611,7 +611,7 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 |     | 26.03 20:57 | Atlas-V 551  | AEHF-6         | COM* | SUA     | CC SLC-41      | GEO   | Planificat     |      |
 |     | 21.03 19:07 | Soyuz-2.1b   | 34x OneWeb-3   | COM  | Europa  | Baikonur 31/6  | LEO   | Planificat     |      |
 |     | 18.03 12:16 | Falcon-9     | 60xStarlink-5  | COM  | SUA     | KSC LC-39A     | LEO   | Planificat     |      |
-|     | 16.03 20:28 | Soyuz-2.1b   | Glonass-M      | CNS  | Rusia   | Plesetsk       | MEO   | Planificat     |      |
+|  20 | 16.03 20:28 | Soyuz-2.1b   | Glonass-M      | CNS  | Rusia   | Plesetsk       | MEO   | Succes         | 67   |
 |  19 | 16.03 13:34 | CZ-7A        | TJS-6          | COM  | China   | Wenchang LC201 | GEO   | Eșec[fn:l21]   | 67   |
 |  18 | 09.03 11:55 | CZ-3B        | BeiDou-3G2Q    | CNS  | China   | Xichang LC-2   | GEO   | Succes         | [[/bul/066][66]]   |
 |  17 | 07.03 06:50 | Falcon-9     | Dragon CRS-20  | NAV  | SUA     | CC SLC-40      | ISS   | Succes         | [[/bul/066][66]]   |
@@ -641,11 +641,11 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 | SUA     |   7 | IIIIIII |
 | China   |   6 | IIIIIX  |
 | Europa  |   3 | III     |
+| Rusia   |   2 | II      |
 | Japonia |   1 | I       |
-| Rusia   |   1 | I       |
 | Iran    |   1 | X       |
 |---------+-----+---------|
-| *TOTAL*   |  *19* |         |
+| *TOTAL*   |  *20* |         |
 
 
 **** Legendă tabel
@@ -851,7 +851,7 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 | Minotaur-C       | SUA  | NGSSG       |  1994 | Castor(S)    | 1.3t  |        |       |      10 |       7 |       3 | 31.10.2017 |
 | Minotaur V       | SUA  | NGSSG       |  2013 | Castor(S)    |       |        | 0.53t |       1 |       1 |       0 | 07.09.2013 |
 |------------------+------+-------------+-------+--------------+-------+--------+-------+---------+---------+---------+------------|
-| Soyuz-2          | RUS  | Roscosmos   |  2004 | 1xRD-108A    | 8.2t  | 4.9t   | 3.2t  |      98 |      91 |   4+(3) | 20.02.2020 |
+| Soyuz-2          | RUS  | Roscosmos   |  2004 | 1xRD-108A    | 8.2t  | 4.9t   | 3.2t  |     100 |      93 |   4+(3) | 16.03.2020 |
 | Proton-M         | RUS  | Roscosmos   |  2001 | 6xRD-275M    | 23t   |        | 6.3   |     109 |      98 |   9+(2) | 24.12.2019 |
 | Rockot           | RUS  | Roscosmos   |  1994 | 3xRD-0233    | 1.9t  | 1.2t   |       |      34 |      31 |   2+(1) | 27.12.2019 |
 | Angara           | RUS  | Roscosmos   |  2014 | 1xRD-191     | 3.8t  |        | 5.4t  |       2 |       2 |       0 | 23.12.2014 |
@@ -1076,8 +1076,10 @@ Soyuz-2.1a poate lansa cel mult 7 tone pe orbită terestră joasă sau 2.8 tone 
 |  95 | 06.12.2019 | Soyuz 2.1a        | Progress MS-13          |     ~7.2 | TB 31/6 | ISS          |
 |  96 | 11.12.2019 | Soyuz 2.1b/Fregat | GLONASS-M               |    1.415 | PL 43/3 | MEO          |
 |  97 | 18.12.2019 | Soyuz 2.1a/Fregat | CHEOPS                  |    2.519 | KO ELS  | SSO          |
+|-----+------------+-------------------+-------------------------+----------+---------+--------------|
 |  98 | 06.02.2020 | Soyuz 2.1b/Fregat | 34x OneWeb-2            |    5.015 | TB 31/6 | LEO          |
 |  99 | 20.02.2020 | Soyuz 2.1a/Fregat | Meridian-M9             |     ~2.0 | PL 43/3 | MOL          |
+| 100 | 16.03.2020 | Soyuz 2.1b/Fregat | GLONASS-M               |    1.415 | PL 43/4 | MEO          |
 |-----+------------+-------------------+-------------------------+----------+---------+--------------|
 
 - EEO :: Orbită eliptică
