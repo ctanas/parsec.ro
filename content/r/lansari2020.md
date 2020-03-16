@@ -24,6 +24,8 @@ draft = false
 | 16  | 20.02 08:22 | Soyuz-2.1a   | Meridian-M9    | COM\* | Rusia   | Plesetsk 43/3  | MOL   | Succes   | [64](/bul/064) |
 | 17  | 07.03 06:50 | Falcon-9     | Dragon CRS-20  | NAV   | SUA     | CC SLC-40      | ISS   | Succes   | [66](/bul/066) |
 | 18  | 09.03 11:55 | CZ-3B        | BeiDou-3G2Q    | CNS   | China   | Xichang LC-2   | GEO   | Succes   | [66](/bul/066) |
+|     | 16.03 20:23 | Soyuz-2.1b   | Glonass-M      | CNS   | Rusia   | Plesetsk       | MEO   |          |                |
+|     | 18.03 14:21 | Falcon-9     | 60xStarlink-5  | COM   | SUA     | KSC LC-39A     | LEO   |          |                |
 |     | 19.03 19:22 | Atlas-V 551  | AEHF-6         | COM\* | SUA     | CC SLC-41      | GEO   |          |                |
 
 
