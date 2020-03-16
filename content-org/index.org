@@ -372,6 +372,7 @@ Cosmodromul de la Wenchang a fost construit special pentru lansatoarele Changzhe
 |-----+------------+-------------+------+-------+----------|
 |   1 | 26.06.2016 | Tiange      | ??   | LEO   | Succes   |
 |   2 | 20.04.2017 | Tianzhou-1  | ??   | LEO   | Succes   |
+|   3 | 16.03.2020 | TJS-5       | ??   | GEO   | Eșec     |
 
 **** Changzheng-8 (proiect)
 Changzheng-8 este răspunsul Chinei la SpaceX și va încorpora o serie de elemente reutilizabile. Derivată din Changzheng-7 (diametru de 3.35 metri și proiectată pentru LEO), Changzheng-8 va fi dotată și cu două boostere auxiliare, derivate din Changzheng-11. Toate cele trei piese (prima treaptă centrală și cele două boostere) vor fi reutilizabile și vor ateriza vertical. Primul zbor este momentan planificat pentru 2021.
@@ -605,44 +606,45 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 :EXPORT_FILE_NAME: lansari2020
 :END:
 
-| Nr. | Data        | Lansator     | Satelit        | Tip  | Țara    | Centru / Rampa | Ținta | Rezultat   | Bul. |
-|-----+-------------+--------------+----------------+------+---------+----------------+-------+------------+------|
-|     | 19.03 19:22 | Atlas-V 551  | AEHF-6         | COM* | SUA     | CC SLC-41      | GEO   | Planificat |      |
-|     | 18.03 14:21 | Falcon-9     | 60xStarlink-5  | COM  | SUA     | KSC LC-39A     | LEO   | Planificat |      |
-|     | 16.03 20:23 | Soyuz-2.1b   | Glonass-M      | CNS  | Rusia   | Plesetsk       | MEO   | Planificat |      |
-|  18 | 09.03 11:55 | CZ-3B        | BeiDou-3G2Q    | CNS  | China   | Xichang LC-2   | GEO   | Succes     | [[/bul/066][66]]   |
-|  17 | 07.03 06:50 | Falcon-9     | Dragon CRS-20  | NAV  | SUA     | CC SLC-40      | ISS   | Succes     | [[/bul/066][66]]   |
-|-----+-------------+--------------+----------------+------+---------+----------------+-------+------------+------|
-|  16 | 20.02 08:22 | Soyuz-2.1a   | Meridian-M9    | COM* | Rusia   | Plesetsk 43/3  | MOL   | Succes     | [[/bul/064][64]]   |
-|  15 | 19.02 21:07 | CZ-2D        | 4x XJS         | SAT  | China   | Xichang LC-3   | LEO   | Succes     | [[/bul/063][63]]   |
-|  14 | 18.02 22:18 | Ariane-5 ECA | JCSAT-17       | COM  | Europa  | Kourou ELA-3   | GEO   | Succes     | [[/bul/063][63]]   |
-|  13 | 17.02 15:05 | Falcon-9     | 60x Starlink-4 | COM  | SUA     | CC SLC-40      | LEO   | Succes     | [[/bul/063][63]]   |
-|  12 | 14.02 20:21 | Antares-230  | Cygnus NG-13   | NAV  | SUA     | Wallops 0A     | ISS   | Succes     | [[/bul/063][63]]   |
-|  11 | 10.02 04:03 | Atlas-V 411  | Solar Orbiter  | INT  | SUA     | CC SLC-41      | INT   | Succes     | [[/bul/062][62]]   |
-|  10 | 09.02 18:45 | Simorgh      | Zafar-1        | OBS* | Iran    | Semnan         | LEO   | Eșec       | [[/bul/062][62]]   |
-|  09 | 09.02 01:34 | H-IIA 202    | IGS-Optical-7  | OBS* | Japonia | T-shima LA-Y1  | SSO   | Succes     | [[/bul/062][62]]   |
-|  08 | 06.02 21:42 | Soyuz-2.1b   | 34x OneWeb-2   | COM  | Europa  | Baikonur       | LEO   | Succes     | [[/bul/062][62]]   |
-|-----+-------------+--------------+----------------+------+---------+----------------+-------+------------+------|
-|  07 | 31.01 02:56 | Electron     | NROL-151       | SAT* | SUA     | Mahia LC-1     | LEO   | Succes     | [[/bul/061][61]]   |
-|  06 | 28.01 14:06 | Falcon-9     | 60x Starlink-3 | COM  | SUA     | CC SLC-40      | LEO   | Succes     | [[/bul/060][60]]   |
-|  05 | 16.01 21:05 | Ariane-5 ECA | Konnect        | COM  | Europa  | Kourou ELA-3   | GEO   | Succes     | [[/bul/059][59]]   |
-|  04 | 16.01 03:02 | Kuaizhou-1A  | Yinhe-1        | DEM  | China   | Jiuquan        | SSO   | Succes     | [[/bul/059][59]]   |
-|  03 | 15.01 02:53 | CZ-2D        | Kuanfu-1       | OBS  | China   | Taiyua LC-9    | LEO   | Succes     | [[/bul/058][58]]   |
-|  02 | 07.01 15:20 | CZ-3B        | TJSW-5         | COM* | China   | Xichang LC-2   | GTO   | Succes     | [[/bul/057][57]]   |
-|  01 | 07.01 02:19 | Falcon-9     | 60x Starlink-2 | COM  | SUA     | CC SLC-40      | LEO   | Succes     | [[/bul/057][57]]   |
+| Nr. | Data        | Lansator     | Satelit        | Tip  | Țara    | Centru / Rampa | Ținta | Rezultat     | Bul. |
+|-----+-------------+--------------+----------------+------+---------+----------------+-------+--------------+------|
+|     | 19.03 19:22 | Atlas-V 551  | AEHF-6         | COM* | SUA     | CC SLC-41      | GEO   | Planificat   |      |
+|     | 18.03 14:21 | Falcon-9     | 60xStarlink-5  | COM  | SUA     | KSC LC-39A     | LEO   | Planificat   |      |
+|     | 16.03 20:23 | Soyuz-2.1b   | Glonass-M      | CNS  | Rusia   | Plesetsk       | MEO   | Planificat   |      |
+|  19 | 16.03 15:34 | CZ-7A        | TJS-6          | COM  | China   | Wenchang       | GEO   | Eșec[fn:l21] | 67   |
+|  18 | 09.03 11:55 | CZ-3B        | BeiDou-3G2Q    | CNS  | China   | Xichang LC-2   | GEO   | Succes       | [[/bul/066][66]]   |
+|  17 | 07.03 06:50 | Falcon-9     | Dragon CRS-20  | NAV  | SUA     | CC SLC-40      | ISS   | Succes       | [[/bul/066][66]]   |
+|-----+-------------+--------------+----------------+------+---------+----------------+-------+--------------+------|
+|  16 | 20.02 08:22 | Soyuz-2.1a   | Meridian-M9    | COM* | Rusia   | Plesetsk 43/3  | MOL   | Succes       | [[/bul/064][64]]   |
+|  15 | 19.02 21:07 | CZ-2D        | 4x XJS         | SAT  | China   | Xichang LC-3   | LEO   | Succes       | [[/bul/063][63]]   |
+|  14 | 18.02 22:18 | Ariane-5 ECA | JCSAT-17       | COM  | Europa  | Kourou ELA-3   | GEO   | Succes       | [[/bul/063][63]]   |
+|  13 | 17.02 15:05 | Falcon-9     | 60x Starlink-4 | COM  | SUA     | CC SLC-40      | LEO   | Succes       | [[/bul/063][63]]   |
+|  12 | 14.02 20:21 | Antares-230  | Cygnus NG-13   | NAV  | SUA     | Wallops 0A     | ISS   | Succes       | [[/bul/063][63]]   |
+|  11 | 10.02 04:03 | Atlas-V 411  | Solar Orbiter  | INT  | SUA     | CC SLC-41      | INT   | Succes       | [[/bul/062][62]]   |
+|  10 | 09.02 18:45 | Simorgh      | Zafar-1        | OBS* | Iran    | Semnan         | LEO   | Eșec         | [[/bul/062][62]]   |
+|  09 | 09.02 01:34 | H-IIA 202    | IGS-Optical-7  | OBS* | Japonia | T-shima LA-Y1  | SSO   | Succes       | [[/bul/062][62]]   |
+|  08 | 06.02 21:42 | Soyuz-2.1b   | 34x OneWeb-2   | COM  | Europa  | Baikonur       | LEO   | Succes       | [[/bul/062][62]]   |
+|-----+-------------+--------------+----------------+------+---------+----------------+-------+--------------+------|
+|  07 | 31.01 02:56 | Electron     | NROL-151       | SAT* | SUA     | Mahia LC-1     | LEO   | Succes       | [[/bul/061][61]]   |
+|  06 | 28.01 14:06 | Falcon-9     | 60x Starlink-3 | COM  | SUA     | CC SLC-40      | LEO   | Succes       | [[/bul/060][60]]   |
+|  05 | 16.01 21:05 | Ariane-5 ECA | Konnect        | COM  | Europa  | Kourou ELA-3   | GEO   | Succes       | [[/bul/059][59]]   |
+|  04 | 16.01 03:02 | Kuaizhou-1A  | Yinhe-1        | DEM  | China   | Jiuquan        | SSO   | Succes       | [[/bul/059][59]]   |
+|  03 | 15.01 02:53 | CZ-2D        | Kuanfu-1       | OBS  | China   | Taiyua LC-9    | LEO   | Succes       | [[/bul/058][58]]   |
+|  02 | 07.01 15:20 | CZ-3B        | TJSW-5         | COM* | China   | Xichang LC-2   | GTO   | Succes       | [[/bul/057][57]]   |
+|  01 | 07.01 02:19 | Falcon-9     | 60x Starlink-2 | COM  | SUA     | CC SLC-40      | LEO   | Succes       | [[/bul/057][57]]   |
 
 **** Clasament
 
 | Țara    | Nr. | Lansări |
 |---------+-----+---------|
 | SUA     |   7 | IIIIIII |
-| China   |   5 | IIIII   |
+| China   |   6 | IIIIIX  |
 | Europa  |   3 | III     |
 | Japonia |   1 | I       |
 | Rusia   |   1 | I       |
 | Iran    |   1 | X       |
 |---------+-----+---------|
-| *TOTAL*   |  *18* |         |
+| *TOTAL*   |  *19* |         |
 
 
 **** Legendă tabel
@@ -674,6 +676,7 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 - *Bul.*: link spre Buletinul Cosmic care oferă mai multe detalii despre lansare.
 
 **** Note de subsol
+[fn:l21] Prima lansare a rachetei Changzheng-7A.
 
 *** Lansări orbitale 2019
 :PROPERTIES:
@@ -862,6 +865,7 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 | Changzheng-5     | CHN  | CNSA        |  2016 | 2xYF-100     | 25t   |        | 14t   |       3 |       2 |       1 | 27.12.2019 |
 | Changzheng-5B    | CHN  | CNSA        |  2020 | 2xYF-100     |       |        |       |       0 |       0 |       0 |            |
 | Changzheng-6     | CHN  | CNSA        |  2015 | 1xYF-100     |       | 1t     |       |       3 |       3 |       1 | 13.11.2019 |
+| Changzheng-7A    | CHN  | CNSA        |  2020 | 1xYF-100     |       |        | 7.0t  |       1 |       0 |       1 | 16.03.2020 |
 | Changzheng-7     | CHN  | CNSA        |  2016 | 2xYF-100     | 13.5t |        | 5.5t  |       2 |       2 |       0 | 20.04.2017 |
 | Changzheng-11    | CHN  | CNSA        |  2015 | P35 (S)      | 0.7t  | 0.35t  |       |       8 |       8 |       0 | 19.09.2019 |
 | Jielong-1        | CHN  | CNSA        |  2019 | (S)          | ?     | ?      |       |       1 |       1 |       0 | 17.08.2019 |

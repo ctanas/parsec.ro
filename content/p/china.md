@@ -67,6 +67,7 @@ Cosmodromul de la Wenchang a fost construit special pentru lansatoarele Changzhe
 |-----|------------|-------------|------|-------|----------|
 | 1   | 26.06.2016 | Tiange      | ??   | LEO   | Succes   |
 | 2   | 20.04.2017 | Tianzhou-1  | ??   | LEO   | Succes   |
+| 3   | 16.03.2020 | TJS-5       | ??   | GEO   | Eșec     |
 
 
 ### Changzheng-8 (proiect) {#changzheng-8--proiect}

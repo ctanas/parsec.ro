@@ -29,6 +29,7 @@ draft = false
 | Changzheng-5    | CHN  | CNSA        | 2016  | 2xYF-100     | 25t   |        | 14t   | 3       | 2       | 1       | 27.12.2019 |
 | Changzheng-5B   | CHN  | CNSA        | 2020  | 2xYF-100     |       |        |       | 0       | 0       | 0       |            |
 | Changzheng-6    | CHN  | CNSA        | 2015  | 1xYF-100     |       | 1t     |       | 3       | 3       | 1       | 13.11.2019 |
+| Changzheng-7A   | CHN  | CNSA        | 2020  | 1xYF-100     |       |        | 7.0t  | 1       | 0       | 1       | 16.03.2020 |
 | Changzheng-7    | CHN  | CNSA        | 2016  | 2xYF-100     | 13.5t |        | 5.5t  | 2       | 2       | 0       | 20.04.2017 |
 | Changzheng-11   | CHN  | CNSA        | 2015  | P35 (S)      | 0.7t  | 0.35t  |       | 8       | 8       | 0       | 19.09.2019 |
 | Jielong-1       | CHN  | CNSA        | 2019  | (S)          | ?     | ?      |       | 1       | 1       | 0       | 17.08.2019 |
