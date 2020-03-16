@@ -1898,6 +1898,271 @@ Propulsoarele care funcționează pe baza principiul Hall sunt de fapt un caz ap
 Imediat după lansare, satelitul Olimp-K și-a schimbat de mai multe ori poziția pe orbită, inclusiv altitudinea: în februarie 2015, aceasta a coborât cu 260 kilometri și a devenit perfect circulară. În aprilie, Olimp-K s-a poziționat între sateliții Intelsat 7 și Intelsat 901, uneori și la o distanță de 10 km de aceștia. Un purtător de cuvânt al Forțelor Aeriene SUA a declarat că Olimp-K s-a apropiat, de trei ori, până la 5 km de un alt satelit american, al cărui nume nu a fost specificat. În septembrie 2015, Olimp-K s-a apropiat de un alt satelit Intelsat (905). Unii observatori au observat că mișcările satelitului este corelată și cu deplasările unor elemente ale flotei rusești, lucru care se potrivește cu ipoteza care spune că aceasta este folosit pentru comunicații militare. Acum câteva zile, în 24 februarie 2016, Olimp-K s-a poziționat din nou curios, între alți doi sateliți: Intelsat 10-02 (satelit de telecomunicații comerciale) și Skynet 4C (un mai vechi satelit al ministerului de apărare britanic). Aceste manevre nu sunt deloc agreată de comunitatea internațională pentru că pun în pericol sateliții de telecomunicație, care au sloturi orbitale bine definite și care la o distanță mai mică de 10 km unul de altul sunt considerați a fi în pericol de coliziune. Cu toate acestea, Olimp-K nu este singurul satelit curios de pe orbită, Statele Unite au și ele astfel de sateliți mobili.
 
 
+* Interviuri
+:PROPERTIES:
+:EXPORT_HUGO_SECTION: i
+:END:
+
+** Hasegan (2011)
+:PROPERTIES:
+:EXPORT_FILE_NAME: hasegan
+:END:
+
+Lansam cu ceva timp în urmă o invitație cititorilor acestui site de a adresa întrebări domnului Dumitru Hașegan, coordonatorul primului experiment românesc transportat de naveta spațială Discovery (în ultimul său zbor înainte de retragerea în muzeu) pe Stația Spațială Internațională. Domnia sa a fost extrem de amabil și a dat curs invitației parsec.ro, astfel că puteți citi în cele ce urmează interviul, unul foarte interesant, care ne dezvăluie puțin din culisele colaborării echipei românești cu ESA, NASA și Agenția Spațială Rusă, despre ce înseamnă un experiment pe orbita Pământului și despre contribuțiile României în acest domeniu.
+Echipa experimentului CFS-A la Kennedy Space Center, NASA, Florida: Neil Melville – ESA Management; Dumitru Hasegan – Principal Investigator, Institutul de Stiinte Spoatiale, Bucuresti, Romania; Piet Rosiers – Payload Developer, QinetiQ Space nv, Belgium: Peter Nobmann – CFS-A PIM (Payload Integration Manager), EADS-Astrium, Bremen, Germany: Steven Hens – Payload Developer, QinetiQ Space nv, Belgium: Ioana Gomoiu – Co Investigator, Institutul de Biologie al Academiei Romane, Bucuresti, Romania
+
+parsec.ro: Ne puteți face o scurtă istorie a cercetării spațiale românești, în paralel cu descrierea institului pe care îl conduceți? Ce proiecte spațiale a derulat România înainte de 1989 și în ce context au fost acestea reluate după 1990?
+
+Dumitru Hașegan: În anul 1965 s-a propus dezvoltarea colaborării în domeniul cercetării şi utilizării spaţiului extraatmosferic în scopuri paşnice prin studierea posibilităţiilor şi intereselor ştiinţifice şi tehnice ale diferitelor ţări. În anul 1967, ca urmare a tratativelor asupra conţinutului şi formei unei asemenea colaborări s-a definitivat un Program complex care, în anul 1970, a primit numele de „PROGRAMUL INTERCOSMOS”. Pentru coordonarea acestei activităţi în România, în anul 1968 s-a înfiinţat „Comisia Română pentru Activităţi Spaţiale (CRAS)”, în compunerea căreia au intrat reprezentanţi din ministerele interesate în cercetarea ştiinţifică şi/sau utilizarea spaţiului extraatmosferic sau în dezvoltarea tehnicilor spaţiale, ca şi specialişti din institute de cercetare ştiinţifică şi de învăţământ superior. Scopurile principale ale CRAS au fost elaborarea planurilor de perspectivă ale cercetării spaţiale precum şi finanţarea acestor cercetări. Domeniile principale de activitate au fost: fizică, medicină-biologie, comunicaţii, meteorologie şi teledetecţie.
+
+Activităţile spaţiale în România, implicit şi cele de ştiinţe spaţiale, au două perioade distincte: 1965 – 1991 şi după anul 1991.
+
+Prima perioadă acoperă, evident, participarea cercetătorilor români, ca şi a celor din celelalte ţări central şi est europene, la „Programul INTERCOSMOS”. Acum, din perspectiva timpului, se pot sublinia câteva din rezultatele globale ale acestei participări:
+
+    cercetătorii din aceste ţari au avut oportunitatea participării la diferite proiecte spaţiale, inclusiv accesul direct la sateliţi şi staţii spaţiale;
+    s-au creat reţele de institute şi departamente din universităţi care au lucrat în domeniul spaţial sau în domenii conexe;
+    în perioada de peste 25 ani s-a format o generaţie de oameni de ştiinţă şi ingineri calificată pentru a accepta provocarea spaţială;
+    experienţa obţinută în această perioadă s-a dovedit extrem de utilă pentru racordarea din mers a cercetătorilor români la programele europene şi mondiale din domeniul spaţial.
+
+După anul 1990, pentru coordonarea activităţilor spaţiale româneşti şi conectarea lor mai accentuată la programele spaţiale europene şi mondiale, s-a înfiinţat „Agenţia Spaţială Română (ROSA)”. Primul “Acord dintre Guvernul României şi Agenţia Spaţială Europeană (E.S.A.) privind cooperarea spaţială în scopuri paşnice” a fost semnat la Paris la 11 decembrie 1992 şi ratificat prin Legea Nr.40/1993. În anul 1999 s-a semnat la Bucureşti un nou Acord de Asociere cu Agenţia Spaţială Europeană pe o perioadă de 5 ani. Aceste acorduri crează posibilitatea ca activităţile spaţiale româneşti să se racordeze la programele ştiinţifice ale comunitătii europene. În anul 2000 au fost semnate primele acorduri de cooperare între Guvernul României – Agenţia Spaţială Română şi NASA (Administraţia Naţională pentru Aeronautică şi Spaţiu). În luna februarie 2006 s-a semnat aderarea Romaniei la „Programul pentru Tarile Europene Colaboratoare (Programme for European Cooperating States – PECS)” al ESA, acord care a fost oficializat prin  LEGEA   Nr. 1 din  9 ianuarie 2007 pentru ratificarea Acordului de cooperare stat european cooperant dintre Guvernul României şi Agenţia Spaţială Europeană, semnat la Bucureşti la 17 februarie 2006. În anul 2007 s-a semnat Charter-ul cuprinzând primele proiecte selectate de ESA a fi finanțate de PECS, iar în luna februarie 2011 România a semnat „Acordul de aderare la Conventia ESA”, ceea ce înseamnă că, dupa ratificare, România devine Stat Membru ESA. Actualul Institut de Știinte Spațiale s-a înființat în anul 1990. În realitate, rădpcinile lui se întind, practic, până la înființarea Institutului de Fizica Atomică de la Măgurele (1949) când, în cadrul Laboratorului de Raze Cosmice, au debutat cercetările asupra acestei componente a Universului.  Din anul 1976 până în 1990, institutul a funcționat sub numele de „Centrul de Astronomie și Științe Spațiale”. De la înființare, Institutul de Științe Spațiale și-a propus un scop “simplu”: să participe la continuarea și dezvoltarea tradiției României în cercetările din domeniu. România, ca Stat Membru din anul 1967 în Programul INTERCOSMOS, a acumulat capacități și capabiliăți importante de cercetare în domeniul spațial. În țară, în special în actualul Institut de Științe Spațiale, s-au conceput, integral sau în colaborare internațională, experimente care s-au realizat la bordul a peste 30 de sateliți artificiali automați și nave spațiale cu echipaj uman. De asemenea, institutul a avut o contribuție substanțială la programul științific al zborului primului cosmonaut roman, Dumitru Dorin Prunariu. După încheierea Programului INTERCOSMOS, care a coincis cu înființarea Institutului de Științe Spațiale, scopul major a fost integrarea în activitățile spațiale europene și mondiale, cu țintă principală cuplarea la programele și misiunile Agenției Spațiale Europene. Deja, de mai mult timp cercetatori din Institutul de Știinte Spațiale colaborează la misiuni ale Agenției Spațiale Europene (ESA).
+
+parsec.ro: Din perspectiva dumneavoastră, care ar fi principalele diferențe dintre colaborarea cu agenția spațială rusă față de colaborarea cu ESA, respectiv NASA?
+
+Dumitru Hașegan: Colaborarea mea cu Agenția Spațială Rusă s-a făcut implicit prin participarea la Programul INTERCOSMOS timp de aproximativ 25 ani,  începând cu anul 1974, când am avut primul experiment în spațiul cosmic, fiind Investigator Principal la experimente realizate la bordul a 9 sateliți artificiali și 3 stații orbitale cu echipaj uman, inclusiv experimentele incluse în programul științific al primului cosmonaut român, Dumitru Dorin Prunariu: Investigator Principal la experimentele INTEGRAL și MINIDOZA și Co-Investigator la experimentele ASTRO-1, Astro-2 și IMUNITATEA. În toată această perioadă a fost într-adevăr o colaborare cu partenerii ruși.
+
+Colaborarea cu ESA a început în anul 2006 când Proiectul CFS a fost selectat de ESA pentru a fi finanțat prin Proiectul ESA – SURE. Și în acest caz colaborarea a fost perfectă în îndeplinirea tuturor testelor la sol și a documentației necesare acceptării lansării aparaturii. Colaborarea cu NASA s-a făcut pe timpul pregătirii și lansării experimentului cand am avut tot suportul necesar la Kennedy Space Center, NASA, Florida, inclusiv prin punerea la dispoziție a laboratoarelor și aparaturii necesare.
+
+Activitatea spaială are unele constrângeri specifice și deosebite în comparație cu cea terestră și care sunt generale tuturor participanților. Ca urmare și organizarea funcțională este similară, indiferent de țară. De aceea nu am constatat diferențe majore. Pentru a realiza un experiment cosmic, indiferent de lansator, criteriile de acceptare sunt, practic, aceleași: valoarea științifică și relevanța spațială. În plus, trebuiesc acoperite aceleași cerințe de siguranță, mai ales dacă experimentul se face pe o nava cu echipaj uman.
+
+parsec.ro: Mai aveți cuoștiință și de alte de programe spațiale în care sunt implicați români?
+
+Dumitru Hașegan: Folosind experiența acumulată prin participarea la Programul INTERCOSMOS și prin creșterea unei noi generații de cercetători, Institutul de Știinte Spațiale participă, încă din anii ’90, la misiunile spațiale ale ESA: Cluster, Plank, Venus Express, iar Institutul de Astronomie al Academiei Române la misiunile Corot, Soho / Trace si GAIA, toate ale Agenției Spațiale Europene.
+
+parsec.ro: Care este atitudinea institutului dumneavoastră referitor la proiectele spațiale românești private? Ați colaborat, veți colabora în viitor, vi s-a propus o colaborare în acest sens?
+
+Dumitru Hașegan: Institutul de Științe Spațiale își desfășoară majoritatea activității de cercetare în colaborări internaționale cu institute și universități în special din Europa. În paralel, are proiecte de cercetare in Programele Nationale de Cercetare-Dezvoltare realizate în parteneriate cu alte unități de cercetare-dezvoltare, inclusiv private. Sper căeste clar că institutul este deschis colaborării cu firmele private. Esențială este calitatea proiectelor.
+
+parsec.ro: Revenind la experimentul CFS-A, acum că Discovery s-a întors pe Pământ, aveți unele rezultate preliminare? Unde vom putea urmări evoluția experimentului, vedea date și rezultate preliminare sau finale?
+
+Dumitru Hașegan: Experimentul CFS-A a constat în expunerea la condițiile mediului extraterestru, microgravitație si radiațiile cosmice, a 4 containere conținând culturi pe mediu nutritiv, 3 containere, și spori, un container. Primele 3 containere s-au intors cu naveta Discovery iar al 3-lea se va întoarce în toamna cu o nava Soyuz. Procesul de măsurători, analize și interpretări este mai îndelungat. Desigur că toate rezultatele științifice vor fi publicate în reviste de specialitate.
+
+parsec.ro: Cine va urmări pe ISS buna desfășurare a experimentului și în ce modul este găzduit acesta la bordul Stației Spațiale?
+
+Dumitru Hașegan: Programul de zbor negociat și agreat cu ESA si NASA este următorul: cele 3 containere având culturi vii vor rămâne numai pe perioada zborului navetei spatiale Discovery, deci pleacă odată cu ea și se întorc “împreună”. Containerul 4, cu spori, rămane în interiorul modulului Columbus al Agenției Spațiale Europene, care face parte componenta a Stației, între 6 si 9 luni, și este adus pe Pamant cu o navă rusească Soyuz, în funcție de programul și încărcătura navelor rusești Soyuz. După aterizarea navei în Kazahstan, containerul este recuperat de ESA și trimis la București pentru studii.
+
+În programul de zbor au fost prevăzute două sesiuni foto în care containerele având MicroCapsule cu culturi vii au fost fotografiate iar fotografiile au fost trimise la sol. La intoarcerea celor trei containere am primit și MemoryCard-ul cu toate fotografiile relizate pe Statia Spatiala Internațională – modulul Columbus. Ambele sesiuni foto au fost realizate de astronautul american Scott Kelly.
+
+parsec.ro: De când ați știut că experimentul va fi inclus în misiunea STS-133? Cam cât durează aprobarea unui astfel de experiment?
+
+Dumitru Hașegan: Se poate estima o durată medie pentru un experiment de la selectare până la realizarea pe orbită ca fiind 5 – 7 ani, în funcție de complexitatea lui și de oportunitățile de lansare.
+
+Experimentul CFS-A a pus probleme numai din punct de vedere al securității și de aceea s-au făcut numai teste de „scăpări”, de vibrații și de șoc. Și, desigur, testul EST (Experiment Sequence Test) care constă în repetarea experimentului pe toate secvențele lui, la sol, în timpul pregătirii, și simularea desfășurării în zbor cosmic.
+Pentru lansarea experimentului au fost mai multe scenarii, inclusiv cu nave Soyuz. La începutul anului 2009 s-a decis lansarea cu Space Shuttle.
+
+parsec.ro: Ce ați mai dori să adăugați, referitor la CFA-A?
+
+Dumitru Hașegan: Propunerea de proiect CFS a trecut printr-un proces de selecție în cadrul unei competiții, normal și în activitatea de cercetare spațială. În anul 2005 Agenția Spațială Europeană (ESA) a anunțat o competiție pentru finanțarea accesului cercetătorilor europeni la Stația Spatială Internațională care reprezintă o infrastructură unică de cercetare. Un colectiv mixt (la propriu și la figurat) format din cercetători de la Institutul de Știinte Spațiale și de la Institutul de Biologie al Academiei Române, eu fiind Investigatorul Principal, a făcut o propunere de proiect care, în anul 2006, a fost evaluat de Comitetul Științific la ESA și de evaluatori externi. Criteriile de evaluare au fost: meritul științific și relevanța spațială. Propunerea noastră a fost selectată (singura din România) pentru finanțare, împreună cu alte 9 proiecte din alte țări, din 34 de propuneri. Astfel că am semnat contractul cu ESA pentru finanțarea segmentului de zbor. Pentru finanțarea segmentului de sol, am semnat un alt contract cu “Programul pentru Țările Europene Colaboratoare (Programme for European Cooperating States – PECS)”, tot al Agentiei Spatiale Europene, cu implicarea Agenției Spațiale Române. În decurs de aproximativ 4 ani s-a lucrat intens, sub continua verificare a Agenției Spațiale Europene, cu ajutor extrem de important din partea unor instituții și organizații din Europa, dintre care menționez numai EADS-Astrium ST GmbH, Germany și BIOTESC-Biotechnology Space Support Center, Swiss Federal Institute of Technology, Zurich, Switzerland. În faza finală, pentru pregătirea experimentului CFS-A în laboratoarele NASA de la Kennedy Space Center, Florida, pentru lansarea cu naveta spațială Discovery, delegația experimentului a fost formată din din Neil Melville – ESA Management; Dumitru Hașegan – Principal Investigator, Institutul de Știinte Spațiale, București, România; Piet Rosiers – Payload Developer, QinetiQ Space nv, Belgia; Peter Nobmann – CFS-A PIM (Payload Integration Manager), EADS-Astrium, Bremen, Germania; Steven Hens – Payload Developer, QinetiQ Space nv, Belgia; Ioana Gomoiu – Co Investigator, Institutul de Biologie al Academiei Române, București, România. În perioada 17 – 24 februarie 2011 s-au pregătit și s-au calificat pentru zborul spațial containerele cu eșantioanele biologice care au fost depozitate în spațiul special destinat experimentului în interiorul navetei spațiale Discovery.
+
+Pentru mine personal experimentul CFS-A are o încărcătură sentimentală aparte: la exact 30 de ani de la momentul experimentelor mele realizate de cosmonautul roman Dorin Dumitru Prunariu (dar nu de la ultimul meu experiment spatial care a fost in 1993 pe satelitul COSMOS  2229), sunt din nou Investigator Principal al unui experiment realizat în spațiul cosmic de un astronaut, de data aceasta, unul american. Si mai mult, este primul experiment românesc realizat la bordul Stației Spațiale Internaționale.
+
+parsec.ro: Aveți în plan continuarea proiectului și a colaborării cu ESA și în viitor?
+
+Dumitru Hașegan: Dupa cum spuneam anterior, în luna februarie 2011 România a semnat Acordul de aderare la Convenția ESA, ceea ce înseamnă că, după ratificare, România devine Stat Membru ESA. Odata cu acest pas, colaborarea României cu ESA se va intensifica și diversifica, inclusiv cu firme din țară pentru proiecte industriale. Desigur, colaborarea în domeniul Științelor Spațiale va continua. ESA a realizat strategia pe termen mediu intitulată „Cosmic Vision 2015 – 2025” care este centrată pe căutarea răspunsurilor la 4 întrebări fundamentale:
+
+    Care sunt condițiile pentru formarea unei planete și apariția vieții?
+    Cum funcționează Sistemul Solar?
+    Care sunt legile fizice fundamentale în Univers?
+    Cum s-a format Universul și din este facut?
+
+Institutul de Științe Spațiale din București este deja co-autor la propuneri pentru două misiuni: EUCLID si Cross Scale.
+
+De asemenea, în institut s-a realizat și se dezvoltă o puternică bază de calcul pentru prelucrarea datelor din experimentele spațiale.
+
+parsec.ro: Când credeți că vom vedea alte experimente românești urcate pe orbită?
+
+Dumitru Hașegan: Foarte curând! Într-un consorțiu condus de Agenția Spațială Română, din care Institutul de Științe Spațiale face parte, s-a realizat primul satelit romanesc, „GOLIAT” care este un microsatelit de tip CubSat. Satelitul este gata, a fost testat și aprobat de ESA pentru a fi lansat cu o racheta ESA – Vega. În prezent se așteaptă decizia de lansare, care se speră să aibă loc în acest an.
+
+parsec.ro: Acum că naveta spațială se află la ultimele zboruri, cum credeți că va evolua în viitor explorarea cu echipaj uman a spațiului cosmic? Mizați pe dezvoltarea sectorului privat în acest domeniu? Cum comentați declinul general al interesul pentru spațiu manifestat în ultimii ani?
+
+Dumitru Hașegan: Eu sunt convins că prezența omului în misiunile spațiale este obligatorie deoarece el poate efectua operații pe care roboții nu le pot face. Iar în programul de explorare și utilizare a altor planete, numai misiunile automate nu sunt suficiente, trebuie să fie prezent omul, atunci cand este fezabil, pentru a se putea beneficia de resursele existente acolo.
+
+Încheierea misiunii istorice a navetelor spațiale nu înseamnă deloc oprirea explorării cu echipaj uman. În prezent există și alți lansatori de misiuni cu echipaj uman: Federația Rusă și China, la care se vor aduga și alte state, inclusiv noile rachete ale SUA care sunt în faza de testare.
+
+Cred că „declin” este prea mult spus și probabil chiar un termen incorect folosit. Cred că trebuie privit în ansamblu globul pământesc, nu numai partea de vest. Ar trebui cunoscute programele spațiale și din partea estică, China, Japonia, India, etc. De asemenea, trebuie luate în calcul și programele de exploatare a spațiului cosmic, nu numai cele de explorare: sistemele de poziționare dezvoltate de Europa și Federeația Rusă pe langa binecunoscutul GPS; rețelele de sateliți pentru monitorizarea dezastrelor; rețelele de sateliți de comunicație; rețelele de sateliți de supraveghere a „Space Weather”; etc.
+
+De aceea eu nu cred că există un declin al interesului pentru spațiu!
+
+În tot acest peisaj, sectorul privat va avea un cuvant din ce în ce mai greu, inclusiv în exploatarea Stației Spațiale Internaționale.
+
+parsec.ro: Cum considerați că trebuie procedat pentru informarea și atragerea publicului neavizat către acest domeniu?
+
+Dumitru Hașegan: Consider întrebarea ca fiind foarte importantă: majoritatea misiunilor, programelor și proiectelor se realizează cu bani publici, deci cetățenii sunt „investitori” ai acestora. Ei trebuie să fie informați de modul în care se cheltuiesc fondurile destinate spațiului. De aceea, marile agenții au programe speciale de informare, cel mai bun exemplu mi se pare a fi NASA. Dar acest proces este biunivoc: oamenii de știință trebuie să fie deschiși și să comunice, dar și mass media să fie interesate, să preia informațiile și să le difuzeze. Publicul trebuie informat că extrem de multe facilități, obiecte, instrumente, etc. cu care s-a obisnuit provin din cercetările spațiale. Închei cu un exemplu: câți oameni cunosc că banalul „arici” folosit la încălțăminte, îmbrăcăminte, etc. provine din „spațiu”, din necesitatea de a fixa obiectele în spațiu, pe un perete, pentru a nu pluti?
+
+parsec.ro: Stimate domnule Dumitru Hașegan, vă mulțumim pentru amabilitatea de a răspunde întrebărilor noastre!
+
+** Prunariu (2011)
+:PROPERTIES:
+:EXPORT_FILE_NAME: prunariu
+:END:
+
+În 2011 nu sărbătorim doar 50 de ani de la zborul lui Gagarin, primul om în spațiul cosmic sau 30 de ani de la prima misiunea a unui vehicul spațial reutilizabil, naveta spațială americană Columbia. Pe 16 mai 2011, românii au un nou prilej de sărbătoare: se împlinesc 30 de ani de la zborul primului cosmonaut și singurului cosmonaut român, Dumitru Dorin Prunariu.
+
+La bordul unei capsule Soyuz, în cadrul ultimei misiuni din programul Intercosmos, cosmonautul nostru s-a îndreptat către stația spațială rusească Salyut 6, unde a petrecut șapte zile, revenind pe Pământ în 22 mai 1981.
+
+Pe Dumitru Dorin Prunariu l-am întâlnit prima dată acum 8 ani, la Cluj-Napoca, în cadrul simpozionului dedicat lui Hermann Oberth. Era aniversarea a 80 de ani de la obţinerea de către Hermann Oberth a diplomei de profesor de fizică şi matematică la Universitatea din Cluj, ocazie cu care a fost dezvelit și un bust al marelui savant, în holul Universității. Am obținut atunci un atuograf pe o schiță a navei Enterprise NCC-1701-D. A doua întâlnire cu primul cosmonaut român a avut loc acum câteva zile la evenimentul organizat de SGAC, “Viitorul Apărării Planetare”, unde am mai făcut un pas și am obținut promisiunea domnului Prunariu de a acorda un interviu pentru site-ul parsec.ro.
+
+Astfel, cosmonautul Dumitru-Dorin Prunariu a răspuns următoarelor întrebări primite prin intermediul site-ului parsec.ro:
+
+Bogdan: Daca Dumitru Prunariu ar avea posibilitatea sa se intoarca in timp si sa aleaga orice misiune cu echipaj uman la care sa participe, americana, ruseasca, europeana sau cu oricare alta agentie , din toata istoria misiunilor spatiale, alta decat cea la care a participat, Vostok 1 sau Apollo 11, ce ar fi ales si de ce?
+
+DP: Greu de spus. Cred ca un zbor pe Luna nu as fi ratat.
+
+Tudor: Sunt curios ce altceva se mai putea vedea prin hubloul statiei Salyut 6, in afara Pamântului și a Soarelui. Sateliți? Space debris? Cât de poluat cu obiecte era spațiul la acea altitudine?
+
+DP: De cand am zburat eu si pana acum au mai trecut 30 de ani de poluare a spatiului. Atunci produceam inca destule deseuri, acum ne gandim cum sa scapam de ele si cum sa salvam navele active de la posibile impacturi cu astfel de resturi ale activitatii umane in spatiu.
+
+In afara de Terra cu toate fenomenele de la suprafata ei si din atmosfera, Soare, Luna si constelatii nu vezi altceva. La 8 km/sec. viteza medie a satelitilor si deseurilor cosmice, chiar daca acestea ar trece pe langa hubloul navei pe alta directie decat aceasta,  ochiul nu ar avea capacitatea fizica sa le perceapa.
+
+Visan Marius-Cosmin: PrunariuDomnule Prunariu este adevarat ca Americanii nu au calcat niciodata pe luna? Avand o experienta spatiala destul de consistenta in spate, planeta noastra se afla in pericol in urmatorii ani? Cum va simtiti acum, dupa 30 ani stiind ca sunteti in continuare singurul Roman ce a calatorit in spatiu?
+
+DP: 1. Nu e adevarat ca nu au calcat pe Luna. In acea perioada rusii ar fi fost primii care ar fi contestat zborul americanilor pe Luna daca acesta nu ar fi avut loc. 2. Planeta se afla intr-un permanent pericol. Problerma este ca pericolele naturale, cataclismele, ciocnirile cu alte corpuri ceresti semnificative, efectele catastrofale ale unei activitati solare  majore se produc la intervale atat de mari de timp incat nu raman in memoria unei generatii, iar noi vorbim despre astfel de fenomene din istoria planetei ca despre niste legende. Oricand este posibil insa ca ele sa se repete.
+
+Piccard: In contextul actual creat de afirmatiile lui Hawking, despre lumea de apoi si religie in general, prin faptul ca acum 30 de ani v-ati “ridicat la ceruri”, si chiar ati trecut dincolo de ele, ne puteti spune daca v-ati simtit mai aproape sau mai departe de Dumnezeu?
+
+DP: Nu distantele fizice fata de „cer” te fac sa te simti mai aproape sau mai departe de Dumnezeu. Pe Dumnezeu il ai in tine si doar intensitatea trairilor si nevoie de a-L avea aproape in anumite situatii te fac sa-L constientizezi.
+
+nicolae dima: cum se vedea soarele la apusul si rasaritul lui in afara atmosferei terestre? avea aceiasi culoare rosu portocaliu cum il vedem noi la orizont? se spune ca atmosfera, la rasaritul si apusul soarelui, este un filtru care lasa sa se probage numai frecventele culorilor rosu portocaliu din spectru de culori.
+
+DP: Corect. Intrebarea include raspunsul. Singura deosebire consta in faptul ca procesul reprezentat de rasarit sau apus se petrece de 16 ori mai repede la nivelul orbitelor circumterestre joase, iar cerul pe care se profileaza Soarele dupa ce trece de atmosfera este negru.
+
+Seinfeld: D-le Prunariu, Sunt convins ca astronautii au mult umor. Care era cea mai buna poanta ori cel mai bun banc sau vorba de duh care va amuza in acele vremuri, evident legat de calatoria in spatiu? Sau care a fost un moment care va amuzat teribil in timpul pregatirilor pentru calatorie ori chiar in timpul zborului in spatiu?
+
+DP: Singurele lucruri care nu ne amuzau erau prostia si ignoranta, in afara de situatiile de viata dificile. In rest incercam sa ne traim din plin viata cu distractiile si amuzamentele pe care ni le oferea sau pe care ni le ofeream.
+
+Chandler: Care sunt cateva din superstitiile si/sau traditiile pe care astronautii le aveau inainte de misiune sau chiar si in timpul misiuni. Dumneavoastra aveati asa ceva?
+
+DP: Nu am superstitii dar din obisnuinta evit sa intersectez cu masina drumul unei pisici negre, ma gandesc de doua ori inainte sa intreprind ceva major intr-o zi de 13,  etc :))
+
+barabas: Domnule Prunariu cind credeti ca va pleca primul echipaj uman spre Marte ?
+
+DP: Intrebarea este dificila. In aprecierea mea nu mai devreme de 25 de ani.
+
+Guardiola: Din toata pregatirea si antrenamentul pentru zborul dumneavoastra, ce ati invatat care v-a folosit atat in timpul orbitarii, dar de asemenea mai departe in viata?
+
+DP: siguranta de sine, nevoia de incredere in parteneri, analizarea tuturor laturilor unor situatii dificile si luarea deciziei optime, ordinea si precizia.
+
+Bogdan: D-le Prunariu, ce părere aveţi despre proiectele ARCA? Aţi testa un avion produs de ei?
+
+DP: Sunt proiecte strict private cu o insemnata componenta de publicitate, foarte necesara insa sponsorilor. Deocamdata rezultatele practice sunt departe de asteptarile rezultate din activitatile de promovare.
+
+alexis: As vrea sa-l intreb pe dl. Prunariu ce mai face celalalt pilot roman selectat ” in finala ” pentru a fi primul cosmonaut roman . De fapt – daca-mi amintesc bine – celalalt pilot era in ” pole position ” – echipa din care facea parte dl . Prunariu era echipa de rezerva . Multumesc
+
+DP: Nu stiu ce amintiri aveti si din ce perioade, pentru ca informatii concrete despre rezultatele noastre in pregatire nu au fost  puse in circulatie in perioada zborului, iar lipsa de informatii duce intotdeauna la scenarite. Ce va pot spune este faptul ca din toata grupa Intercosmos eu am avut calificativele maxime la toate examenele finale. Dediu (inginer nu pilot, ca si mine  de altfel), dar mai ales familia lui, nu s-au impacat niciodata cu ideea ca el a ramas pe locul doi.  Acum are 69 de ani, pensionat de 14 ani de la compania Romavia, din pacate are serioase probleme de sanatate.
+
+** Stofan (2011)
+:PROPERTIES:
+:EXPORT_FILE_NAME: stofan
+:END:
+
+Pe Ellen Stofan am întâlnit-o în 2009, la Centrul Spațial Johnson din Houston, Texas, în timp ce ne vorbea cu pasiune despre necesitatea unei misiuni spre Venus. În timp ce toată atenția pare astăzi îndreptată spre Marte și Lună, Ellen Stofan, membră a grupului VEXAG, ne vorbea despre sateliți artificiali în jurul lui Venus și despre sonde atașate de baloane care urmau să îi exploreze atmosfera, pentru a cunoaște mai multe despre condițiile extreme de pe planeta vecină.
+
+În prezent, Ellen Stofan este Chief Scientist al NASA.
+
+Recent am aflat însă despre o misiune și mai ambițioasă, TiME – Titan Mare Explorer, care își propune, nici mai mult, nici mai puțin decât să pună un mic vaporaș pe una din mările de metan ale lui Titan, satelitul lui Saturn. Acolo există mări și oceane ca pe Pământ, doar că nu sunt formate din apă ci din… metan. Din cauza condițiilor extreme, metanul de la sol este lichefiat și probabil că sunt și ploi de metan. Titan fiind una din destinațiile din sistemul nostru solar în care șansele să găsim forme de viață sunt sensibil mai mari decât în majoritatea altor locuri, probabil doar Europa s-ar situa deasupra lui Titan într-un astfel de clasament. Deocamdată misiunea este doar în stadiul de propunere, încă nu a fost acceptată pentru finanțare, iar în spatele ei se află aceiași Ellen Stofan, care a fost de acord să răspundă câtorva întrebări, în exclusivitate pentru cititorii parsec.ro:
+
+parsec.ro: Un vapor navigând pe mările de metan ale lui Titan. Este probabilă una din cele mai interesante misiuni robotice de explorare după… Sputnik. Când și cum v-ați gândit la așa ceva?
+
+Ellen Stofan: Am fost abordată de Ben Clark, de la compania Lockheed Martin, care m-a întrebat dacă aș fi interesată de acest studiu. Nu credeam că o astfel de misiune va fi posibilă în programul de misiuni cu buget restrâns al NASA, dar se pare că m-am înșelat!
+
+parsec.ro: Care sunt obiectivele misiunii TiME? Ce sperăm să găsim pe Titan?
+
+Ellen Stofan: Misiunea își propune să studieze mediul înconjurător, compoziția mării  și suprafața acesteia (temperatură, presiune, umiditate), să măsoare adâncimea mării și să observe formațiunile de la suprafața sa, valuri, bule de gaz, etc. Nu știm încă foarte multe despre compoziția acestei mări sau despre parametri ei fizici, așa că putem învăța extraordinar de multe lucruri doar prin aceste simple măsurători. Și pentru că este vorba despre singura mare aflată la suprafața unui corp din sistemul solar (în afara Pământului, evident!), sperăm să înțelegem mai bine rolul mărilor în clima lui Titan și să comparăm cu ce vedem aici, pe Pământ.
+
+parsec.ro: Din câte am înțeles, mai există o rundă de evaluare înainte ca TiME să primească finanțare de la NASA. Ce se va întâmpla în nefericitul caz în care TiME nu va trece de acestă rundă?
+
+Ellen Stofan: După 2025 se va întuneca la polul nord al lui Titan și o misiune din clasa celor cu buget restrâns nu va mai putea avea loc pentru câteva decenii, pentru că alinierea dintre Titan, Soare și pământ nu va mai permite o comunicare directă (așa cum va avea TiME) între sondă și Pământ, misiunea având nevoie de sprijinul unor sateliți artificiali pe orbita lui Titan care să funcționeze ca niște relee pentru comunicațiile cu sonda. În plus, nu vom vedea mare lucru, fiind destul de întuneric.
+
+parsec.ro: Știu că banda de comunicații dintre sistemul saturnian și Pământ nu este una foarte largă. Ce fel de date vom primi în timp real, în afară de telemetrie?
+
+Ellen Stofan: Datorită distanței mari dintre pământ și Saturn, datele vor avea o oarecare întârziere, dar vom putea primi și imagini, deși nu foarte multe. Comunicarea se va face probabil în reprize, de câteva ori în timpul unei zile de pe Titan. Nu vom putea folosi sonda Cassini, existentă în acest moment în sistemul saturnian, pentru că ea nu va mai fi funcțională în 2023, anul în care TiME va ajunge pe Titan.
+
+parsec.ro Odată ajunsă pe Titan, va putea TiME să cârmească?  Sau va pluti, dusă de valuri?
+
+Ellen Stofan: Ne așteptăm ca în cea mai mare parte a timpul să nu fie valuri, așa că TiME va fi purtat de vânturile slabe de pe Titan.
+
+parsec.ro: Să îndrăznesc să întreb dacă aceasta este o misiune pentru detectarea unor forme de viață? Poate TiME să detecteze procese metabolice sau microorganisme în mările lui Titan?
+
+Ellen Stofan: TiME va avea un spectrometru de masă la bord și o cameră foto, dar nu este echipat pentru detecția directă a vieții. Se crede că marea de pe Titan este prea rece pentru ca viața, așa cum o cunoaștem noi, să se fi dezvoltat acolo. Dar asta nu ne împiedică să căutăm indicii în datele oferite de spectrometru de masă, indicii care ar putea indica reacții chimice specifice unor forme de viață care s-ar putea afla în marea extraterestră a lui Titan.
+
+parsec.ro: Roverele marțiene ne-au trimis mii de imagini spectaculoase de pe Marte. Va putea TiME să ne impresioneze cu astfel de imagini de pe titan? O mare de metan cu inelele lui Saturn în fundal ar putea fi o imagine demnă de o copertă a unei cărți science-fiction și va avea probabil un impact uriaș asupra publicului.
+
+Ellen Stofan: Din păcate, Saturn se va afla în acea perioadă sub orizont și nu îl vom putea vedea… Cu toate astea, imaginile primite de pe Titan ne va înfățișa o suprafață interesantă a mării de acolo, poate brăzdată de valuri. Și poate spre sfârșitul misiunii ne vom apropia și de țărm.
+
+parsec.ro: Și acum, oarecum în afara subiectului de față, ce se mai aude despre misiunea spre Venus? Sunteți membră a grupului VEXAG, un grup de oameni de știință care pregătesc următoarea misiune de anvergură a NASA spre planeta vecină. Puteți face un scurt rezumat al viitoarei misiuni?
+
+Ellen Stofan: VEXAG a studiat recent o sondă care ar urma să ajungă pe orbita lui Venus pentru a-i analiza atmosfera, o misiune complementară cu cea a sondei Venus Express (ESA) care se află deja acolo. Efectul de seră de pe Venus are multe de spus despre rolul norilor și al aerosolilor în atmosferele cu efect de seră, cu siguranță va fi ceva ce se poate aplica și aici, pe Pământ. Venus este o planetă ce ne oferă multe lucruri de explorat: suprafața sa, atmosfera și interiorul planetei, foarte asemănătoare cu Pământul, dar în același timp cu un efect de seră extrem de pronunțat și de ostil.
+
+** Trusculescu (2012)
+:PROPERTIES:
+:EXPORT_FILE_NAME: trusculescu
+:END:
+
+Marius Trusculescu, unul din membri echipei Goliat, a acceptat să răspundă întrebărilor venite din partea noastră, dar și a publicului parsec.ro. Publicăm în continuare interviul promis, nu înainte de a-i mulțumi lui Marius Trusculescu pentru amabilitatea de care a dat dovadă în toată această perioadă.
+
+parsec.ro: Când si cui i-a venit ideea pentru Goliat?
+
+M. Trusculescu: Ideea unui satelit de mici dimensiuni în România este destul de veche, cred că mai veche de un deceniu. Materializarea acestei idei într-un proiect concret s-a realizat prin cooptarea de către Agenția Spațială Română și Institutul de Științe Spațiale a unui grup de studenți ce participase la campania ESA Parabolic Flight Campaign. Desigur, echipa a fost lărgită prin implicarea unui număr mai mare de studenți, și unul dintre obiectivele prioritare ale proiectului a rămas atragerea şi instruirea tinerilor prin implicarea în toate etapele proiectului: analiză, proiectare, fabricare, testare, documentare, prelucrare a datelor.
+
+parsec.ro: Care sunt costurile de lansare ale unui microsatelit, comparativ cu ale unui satelit de dimensiuni normale?
+
+M. Trusculescu: Este evident că în cazul sateliților de mici dimensiuni costurile totale sunt mult mai mici decât în cazul sateliților de sute sau mii de kilograme. În domeniul spațial se vorbește însă de costuri per kilogram livrat pe orbită. Dacă ne uităm la acest indicator, lansarea microsateliților are un cost mai mare, de aproximativ 50 000 Euro. Aceasta se datorează atât părții birocratice, numărul de avize este aproximativ același, cât și considerentelor economice – eforturile şi riscurile de integrare a unei încărcături secundare de nanosateliți la bordul rachetei ridică costul minim de rentabilitate.
+
+parsec.ro: Ce ar trebui să știe un tânăr care dorește să participe în viitor la construcția unui satelit, în particular, sau să activeze în domeniul spațial, în general? Ce facultăți, ce domenii ar trebui să aprofundeze?
+
+M. Trusculescu: Ştiu că pare un refren, dar sugestia mea este ca fiecare să studieze domeniul care îl atrage cel mai mult. Asta pentru nu există o singură specializare care să lanseze pe cineva în domeniul aerospațial şi că o misiuni completă implică participanţi din aproape toate domeniile: electroniști, analiști de structură mecanică, fizicieni, biologi, etc. Principalul sfat pe care îl dau tinerilor interesaţi de spaţiu este să urmărească pagina Agenţiei Spaţiale Europene (ESA) dedicată iniţiativelor educaţionale: http://www.esa.int/SPECIALS/Education/. Acum când România este stat membru ESA, studenţii sau elevii români pot participa la toate competiţiile educaţionale. Desigur că şi noi le vom oferi ajutorul dacă aceste ne este solicitat.
+
+parsec.ro: Lăsând la o parte întârzierile cauzate de terminarea rachetei Vega, cât timp a durat construcția satelitului?
+
+M. Trusculescu: Nu pot estima durata exactă a proiectului, din cauză că, pe toată perioada după selecția pentru lansarea cu VEGA și integrarea satelitului la bordul rachetei, am avut de documentat, testat și, uneori, de modificat diversele subsisteme ale satelitului. Condițiile impuse prin Interface Control Document s-au modificat frecvent pe parcursul dezvoltării rachetei, ultima iterație a documentului fiind din primăvara anului 2011.
+
+parsec.ro: Estimativ, câte persoane au fost implicate în proiectul Goliat?
+
+M. Trusculescu: În partea de proiectare și dezvoltare a satelitului au fost implicate direct în jur de 10 – 15 persoane. Majoritatea a participat doar în unele dintre etapele proiectului, echipa fiind mult restrânsă în ultimele faze.
+
+parsec.ro: Care este starea satelitului în acest moment? Cum au afectat problemele apărute imediat după lansare activitatea științifică a lui Goliat? Cat de des sunteți în contact cu satelitul?
+
+M. Trusculescu: Datele de telemetrie decodate de la satelit sunt foarte puține. Una dintre cauzele posibile este chiar modificarea sub acţiunea radiaţiilor a unor adrese din memoria procesoarelor de bord şi, deci a programelor în sine. Anterior lansării, anticipam că fluxul de radiație, mult superior celui caracteristic orbitelor cu altitudini de 700-800 km, va afecta buna funcționare a aparaturii de bord. Nu am putut anticipa gradul acestui impact, deoarece discutăm de fenomene aleatoare. De aceea, încercăm să folosim datele de telemetrie pentru a reproduce condițiile de operare la nivelul modelului de laborator. Vrem, să determinăm cum răspund subsistemele satelitului în cazul unor evenimente ce ar putea avea loc pe orbită (restart, modificarea aleatoare a comenzilor de la procesoare, fluctuații ale curenților și ale tensiunilor). Pe baza acestor teste încercăm să modificăm programele procesoarelor. Până acum experimentele științifice nu au fost pornite.
+
+parsec.ro: Pe când ne putem aștepta la primele imagini primite de pe orbită sau de unde le vom putea descarca?
+
+M. Trusculescu:Ca și în cazul celorlalte experimente științifice, camera de la bordul satelitului va fi comandată după stabilizarea sistemelor de bus. De asemenea, pentru a obține imaginile de la satelit încercăm să stabilim comunicațiile bidirecționale în banda de 2,4 GHz. Imaginile de la satelit vor fi publicate pe paginile www.goliat.ro și www.rosa.ro.
+
+parsec.ro: Cum pot cei interesați să urmărească activitatea lui Goliat?
+
+M. Trusculescu: Încercăm să actualizăm pagina proiectului www.goliat.ro. Dacă se doreşte contactarea noastră directă, datele de contact sunt afişate de asemenea pe această pagină..
+
+parsec.ro: Exista planuri pentru Goliat 2 în viitorul apropiat?
+
+M. Trusculescu: GOLIAT reprezintă prima etapă în dezvoltarea unei platforme de nanosateliţi aflaţi în zbor în formaţie. Acesta este un domeniu relativ recent, dar care cunoaşte o evoluţie rapidă la nivel internaţional. De aceea ne propunem să continuăm eforturile de cercetare în această direcţie prin dezvoltarea şi testare subsistemelor necesare în zbor prin intermediul unor misiuni demonstrative.
+
+—
+Intrebari din partea publicului:
+
+Radu – Eosif Mihailescu: Sunt disponibile undeva date detaliate despre Goliat? Cum ar fi scheme/desene, imagini cu firmware-ul, fotografii de inalta rezolutie ale lui si/sau ale subansamblurilor lui? Sau e TOP SECRET? :-)
+
+M. Trusculescu: Astfel de date se găsesc în articolele publicate şi în prezentările susţinute la conferinţe. Aceste date ale proiectului nu sunt secrete, dar, din câte ştiu eu, există anumite clauze care restricţionează publicarea completă a proiectelor şi specificaţiilor fără acordul tuturor membrilor consorţiului.
+
+Radu – Eosif Mihailescu:Ma bucur sa observ ca, dupa atatia ani, s-a pastrat traditia lui “verde ICE Felix” :-) Culoarea cablajului imprimat este marcanta pentru industria romaneasca de profil, as recunoaste-o oriunde :-)
+
+Catalin Cristea: Cum de v-ati gandit la denumirea de Goliat pentru un satelit romanesc?
+
+M. Trusculescu: Denumirea satelitului şi a proiectului a aleasă pentru că este în antiteză cu dimensiunea satelitului.
+
+Petrica: Este posibil ca imaginile transmise de goliat sa fie receptionate si de persoane fizice (radioamatori, etc)?
+
+M. Trusculescu: Imaginile de la satelit sunt prea mari pentru a fi transmise prin intermediul balizei ce funcţionează în banda de radioamatori de 70 cm, dar există alte informaţii transmise prin intermediul acesteia. Pentru o explicaţie mai clară a modului de recepţie a balizei puteţi accesa pagina http://www.goliat.ro/index.php/radio/beacon-receive-data.
+
+
 * Buletin Cosmic
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: bul
