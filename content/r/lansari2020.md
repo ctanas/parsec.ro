@@ -9,8 +9,8 @@ draft = false
 |     | 26.03 20:57 | Atlas-V 551  | AEHF-6         | COM\* | SUA     | CC SLC-41      | GEO   | Planificat    |                |
 |     | 21.03 19:07 | Soyuz-2.1b   | 34x OneWeb-3   | COM   | Europa  | Baikonur 31/6  | LEO   | Planificat    |                |
 |     | 18.03 12:16 | Falcon-9     | 60xStarlink-5  | COM   | SUA     | KSC LC-39A     | LEO   | Planificat    |                |
-| 20  | 16.03 20:28 | Soyuz-2.1b   | Glonass-M      | CNS   | Rusia   | Plesetsk       | MEO   | Succes        | 67             |
-| 19  | 16.03 13:34 | CZ-7A        | TJS-6          | COM   | China   | Wenchang LC201 | GEO   | Eșec[^fn:1]   | 67             |
+| 20  | 16.03 20:28 | Soyuz-2.1b   | Glonass-M      | CNS   | Rusia   | Plesetsk 43/4  | MEO   | Succes        | 67             |
+| 19  | 16.03 13:34 | CZ-7A        | TJS-6          | COM\* | China   | Wenchang LC201 | GEO   | Eșec[^fn:1]   | 67             |
 | 18  | 09.03 11:55 | CZ-3B        | BeiDou-3G2Q    | CNS   | China   | Xichang LC-2   | GEO   | Succes        | [66](/bul/066) |
 | 17  | 07.03 06:50 | Falcon-9     | Dragon CRS-20  | NAV   | SUA     | CC SLC-40      | ISS   | Succes        | [66](/bul/066) |
 | 16  | 20.02 08:22 | Soyuz-2.1a   | Meridian-M9    | COM\* | Rusia   | Plesetsk 43/3  | MOL   | Succes        | [64](/bul/064) |
