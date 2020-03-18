@@ -610,9 +610,9 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 |-----+-------------+--------------+----------------+------+---------+----------------+-------+----------------+------|
 |     | 26.03 20:57 | Atlas-V 551  | AEHF-6         | COM* | SUA     | CC SLC-41      | GEO   | Planificat     |      |
 |     | 21.03 19:07 | Soyuz-2.1b   | 34x OneWeb-3   | COM  | Europa  | Baikonur 31/6  | LEO   | Planificat     |      |
-|  21 | 18.03 12:16 | Falcon-9     | 60xStarlink-5  | COM  | SUA     | KSC LC-39A     | LEO   | Succes         | 67   |
-|  20 | 16.03 20:28 | Soyuz-2.1b   | Glonass-M      | CNS  | Rusia   | Plesetsk 43/4  | MEO   | Succes         | 67   |
-|  19 | 16.03 13:34 | CZ-7A        | TJS-6          | COM* | China   | Wenchang LC201 | GEO   | Eșec[fn:l21]   | 67   |
+|  21 | 18.03 12:16 | Falcon-9     | 60xStarlink-5  | COM  | SUA     | KSC LC-39A     | LEO   | Succes[fn:l23] | [[/bul/067][67]]   |
+|  20 | 16.03 20:28 | Soyuz-2.1b   | Glonass-M      | CNS  | Rusia   | Plesetsk 43/4  | MEO   | Succes[fn:l24] | [[/bul/067][67]]   |
+|  19 | 16.03 13:34 | CZ-7A        | TJS-6          | COM* | China   | Wenchang LC201 | GEO   | Eșec[fn:l21]   | [[/bul/067][67]]   |
 |  18 | 09.03 11:55 | CZ-3B        | BeiDou-3G2Q    | CNS  | China   | Xichang LC-2   | GEO   | Succes         | [[/bul/066][66]]   |
 |  17 | 07.03 06:50 | Falcon-9     | Dragon CRS-20  | NAV  | SUA     | CC SLC-40      | ISS   | Succes         | [[/bul/066][66]]   |
 |-----+-------------+--------------+----------------+------+---------+----------------+-------+----------------+------|
@@ -679,6 +679,8 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 **** Note de subsol
 [fn:l21] Prima lansare a rachetei Changzheng-7A.
 [fn:l22] Deși lansarea este efectuată la Baikonur, folosind o rachetă rusă, compania Arianespace este cea care operează acestă lansare, astfel lansarea este considerată a fi una europeană (la fel cum și lansările rachetei Soyuz care au loc din Guiana Franceză sunt considerate europene).
+[fn:l23] A fost pentru prima dată când SpaceX a folosit pentru a 5-a oară o treaptă primară; în timpul lansării unul din cele 9 motoare Merlin a suferit o problemă tehnică, însă celelalte 8 au compensat și treapta secundară a ajuns pe traiectoria corectă; din păcate, treapta primară a ratat întâlnirea cu barja OCISLY din Atlantic și astfel nu a mai fost recuperată. A fost pentru prima dată când SpaceX a refolosit conul protector.
+[fn:l24] A fost a 100-a lansare a unei rachete Soyuz-2.
 
 *** Lansări orbitale 2019
 :PROPERTIES:
@@ -2174,6 +2176,31 @@ Marius Trusculescu, unul din membri echipei Goliat, primul satelit românesc, a 
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: bul
 :END:
+
+** Buletin Cosmic nr. 67 :spacex:falcon9:soyuz2:glonass:cz7a:exomars:
+:PROPERTIES:
+:EXPORT_FILE_NAME: 067
+:EXPORT_DATE: 2020-03-18 
+:END:
+
+*** Lansări orbitale
+
+Miercuri, 18 februarie, *SpaceX* a lansat un nou set de 60 de sateliți *Starlink* pe orbită terestră joasă, însă lansarea nu a fost lipsită de evenimente. Programată inițial pentru duminică, 15 martie, racheta *Falcon 9* nu a vrut să se desprindă de rampă, lansarea fiind anulată în secunda în care cele 9 motoare Merlin trebuiau să pornească. Miercuri însă lansarea a avut loc, însă în drumul spre orbită, unul dintre cele 9 motoare ale primei trepte a suferit o problemă tehnică, însă sarcina sa a fost preluată de restul motoarelor care a urcat treapta a doua pe traiectoria corectă. Totuși, această problemă ar putea amâna următoarele lansări, până la identificarea cauzei acesteia. La revenirea prin atmosferă, treapta primară a ratat întâlnirea cu barja Off Course I Still Love You și recuperarea acesteia nu a mai avut loc. A fost pentru prima dată când SpaceX a folosit pentru a 5-a oară o treaptă primară și tot pentru prima dată când conul protector care protejează sateliții în primele minute de zbor s-a aflat la al doilea zbor. Cele două jumătăți ale conului au fost recuperate și de această dată. În prezent 360 de sateliți Starlink se află pe orbită, doi fiind deorbitați în ultima perioadă.
+
+#+CAPTION: A cincea lansarea a unei trepte primare Falcon 9 (seria B1048) și pentru prima dată când SpaceX a refolosit conul protector. Din păcate, o nouă recuperare a primei trepte a eșuat, iar unul din cele motoare Merlin a suferit probleme tehnic în timp ce racheta se îndrepta spre orbită, însă lipsa lui a fost compensată de celelalte opt motoare, misiunea fiind una încheiată cu succes. Sursa foto: /[[https://www.flickr.com/photos/spacex/49672551378/][SpaceX]]/
+[[/img/falcon9sl5.jpg]]
+
+Lansarea inaugurală a rachetei chinezești *Changzheng-7A* de luni, 16 martie, a decurs însă și mai rău: din motive tehnice încă necunoscute publicului larg, satelitul militar de telecomunicații TJS-6 nu a mai ajuns pe orbită și misiunea s-a încheiat cu un eșec, primul pentru China din acest an. Changzheng-7A este o variantă a rachetei Changzheng-7, cu o a treia treaptă suplimentară,rachetă adaptată pentru lansari de sateliți de telecomunicații spre orbită geostaționară. Changzheng-7 este una dintre noile rachete chinezești care urmează să înlocuiască flota formată din rachete deszvoltate în anii 70-80 și a zburat până acum de 2 ori spre orbita terestră joasă, iar eșecul de luni ar putea însemna întârzieri și pentru viitoarele lansări Changzheng-5, necesare pentru misiuni spre Marte sau spre Lună.
+
+Tot luni, de la cosmodromul militar Plesetsk, a decolat o rachetă *Soyuz-2.1b*, având la bord un satelit *GLONASS-M* pentru completarea sistemului rusesc de poziționare prin satelit, similar cu sistemul GPS american sau cu sistemul Galileo european. Satelitul a ajuns cu bine pe orbită și a fost lansarea cu numărul 100 pentru o rachetă Soyuz-2, care este în prezent cel mai utilizat și mai fiabil lansator rusesc, urmând să fie folosit din acest an și pentru lansări cu echipaj spre Stația Spațială Internațională.
+
+*** Alte evenimente
+
+Industria spațială nu putea rămâne neafectată de ravagiile pe care le face virusul *SARS-CoV-2* în întreaga lume. Astfel, compania franceză Arianspace a închis complet operațiunile de la centrul spațial din Guiana Franceză din acest motiv. Sunt direct afectate cel puțin două lansări Soyuz, programate pentru lunile aprilie și mai. Agenția spațială rusă Roscosmos a declarat că cel puțin pentru următoarele zile, cosmodromul de la Baikonur rămâne operațional. De aici este programată pentru mâine, sâmbătă, o nouă lansare a unei rachete Soyuz-2, având la bord 34 de sateliți OneWeb, o competiție pentru constelația Starlink a companiei SpaceX, iar pentru 9 aprilie este programată o lansare a unei capsule Soyuz cu echipaj spre Stația Spațială Internațională. 
+
+După o discuție între directorii agențiilor spațiale europene și ruse, s-a decis ca misiunea *ExoMars II* să nu decoleze spre Marte în acest an. Parțial din cauza efectelor virusului SARS-CoV-2, dar oricum erau necesare mai multe teste ale parașutelor landerului și ale software-ului de la bord. Prima parte a misiunii ExoMars a ajuns pe Marte în 2016 și a constat dintr-o sondă aflată și în prezent pe orbită (TGO - /Trace Gas Orbiter/) și un mic lander, denumit Schiaparelli, care s-a prăbușit din păcate pe suprafața planetei, din cauza unor probleme tehnice. Următoarea oportunitate de lansare spre Marte va fi între august și noiembrie 2022 cu sosire pe Planeta Roșie în aprilie-iulie 2023.
+
+Miercuri, 18 martie, ne-a părăsit, la 88 de ani, *Al Worden*, unul dintre cei 24 de pământeni care, în cadrul programului Apollo, au părăsit orbita Pământului și s-au îndreptat spre Lună. El nu a coborât pe Lună, misiunea sa fiind accea de a-i aștepta pe orbita Lunii, în modulul de comandă, pe colegii săi Dave Scott și Jim Irwin. Și tot în această săptămână, agenția spațială rusă a anunțat că marți, 17 martie, ne-a părăsit, la 85 de ani, *Valentina Gagarina*, soția lui Iuri Gagarin, primul om care a zburat în spațiu, în 1961. Din păcare, Gagarin ne-a părăsit prematur, în 1968 la doar 34 de ani. 
 
 ** Buletin Cosmic nr. 66 :falcon9:crs20:dragon:beidou:axiom:chandrayaan:
 :PROPERTIES:
