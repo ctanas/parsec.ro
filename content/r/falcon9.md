@@ -94,6 +94,7 @@ draft = false
 | 80  | v1.2b5 | 29.01.2020 | Starlink v1.0-3     | B1051.3 | CC SLC-40  |
 | 81  | v1.2b5 | 17.02.2020 | Starlink v1.0-4     | B1056.4 | CC SLC-40  |
 | 82  | v1.2b5 | 07.03.2020 | Dragon CRS-20       | B1059.2 | CC SLC-40  |
+| 83  | v1.2b5 | 18.03.2020 | Starlink v1.0-5     | B1048.5 | LC-39A     |
 
 <div class="table-caption">
   <span class="table-number">Table 2</span>:
@@ -124,6 +125,7 @@ draft = false
 | B1048.2 | 08.10.2018 | SAOCOM-1A      | LZ4           | Falcon 9   |
 | B1048.3 | 21.02.2019 | PSN-6          | OCISLY        | Falcon 9   |
 | B1048.4 | 11.11.2019 | Starlink-L1    | OCISLY        | Falcon 9   |
+| B1048.5 | 18.03.2020 | Starlink-5     | OCISLY        | Falcon 9   |
 | B1049.1 | 10.09.2018 | Telstar-18V    | OCISLY        | Falcon 9   |
 | B1049.2 | 11.01.2019 | Iridium-8      | JRTI          | Falcon 9   |
 | B1049.3 | 24.05.2019 | Starlink v.0.9 | OCISLY        | Falcon 9   |
