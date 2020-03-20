@@ -13,11 +13,17 @@
 
     --bold-color: #073642;
 
+/*
     --font-code: "Fira Code", monospace;
     --font-content: "Merriweather", serif;
     --font-title: "Merriweather Sans", sans-serif;
     --font-table: "Cousine", monospace;
+*/
     
+    --font-content: "IBM Plex Serif", serif;
+    --font-title: "IBM Plex Sans", sans-serif;
+    --font-table: "IBM Plex Mono", monospace;
+	
     --tr-child-even-color: #fdf6e3;
     --tr-child-odd-color: #eee8d5;
 }
@@ -201,7 +207,7 @@ h6 {
 .content .markdown {
     position: relative;
     font-size: 1.1em;
-    line-height: 1.75em;
+    line-height: 1.5em;
 }
 
 .content twitterwidget {
@@ -418,6 +424,7 @@ tr:hover {background-color: #dc322f;
 
 th {background-color: #002b36;
     color: #fdf6e3;    	
+	
    } 
 
 /* Footnotes customization */ 
@@ -437,7 +444,7 @@ img {
 /* Making the captions prettier */
 
 figcaption {
-	font-size: 100%;
+	font-size: 90%;
 	font-family: monospace;
 	line-height: 1rem;
 	padding: 5px;
