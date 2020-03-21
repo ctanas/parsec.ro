@@ -4,7 +4,7 @@ author = ["Claudiu"]
 draft = false
 +++
 
-Materialele care nu mai au un caracter de noutate sunt arhivate în această secțiune.
+Materialele care nu mai au un caracter de noutate (și care probabil nu vor mai fi aduse la zi) sunt arhivate în această secțiune.
 
 
 ## Lansări orbitale {#lansări-orbitale}
@@ -14,7 +14,7 @@ Materialele care nu mai au un caracter de noutate sunt arhivate în această sec
 
 ## Interviuri {#interviuri}
 
--   [Dumitru Hașegan](/i/hasegan) --coordonatorul primului și singurului experiment românesc lansat în spațiu de o navetă spațială
+-   [Dumitru Hașegan](/i/hasegan) --despre singurul experiment românesc lansat în spațiu de o navetă spațială
 -   [Dumitru Prunariu](/i/prunariu) --primul și singurul cosmonaut român
 -   [Ellen Stofan](/i/stofan) --despre posibilitatea studierii satelitului saturnian Titan
 -   [Marius Trusculescu](/i/trusculescu) --povestea primului satelit românesc.

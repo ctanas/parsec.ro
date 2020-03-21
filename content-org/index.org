@@ -79,7 +79,7 @@ Apreciez orice feedback, comentariu, sugestie, critică constructivă. Mă găsi
 :EXPORT_TITLE: Arhivă
 :END:
 
-Materialele care nu mai au un caracter de noutate sunt arhivate în această secțiune.
+Materialele care nu mai au un caracter de noutate (și care probabil nu vor mai fi aduse la zi) sunt arhivate în această secțiune.
 
 ** Lansări orbitale
 
@@ -87,7 +87,7 @@ Materialele care nu mai au un caracter de noutate sunt arhivate în această sec
 
 ** Interviuri
 
-+ [[/i/hasegan][Dumitru Hașegan]] --coordonatorul primului și singurului experiment românesc lansat în spațiu de o navetă spațială
++ [[/i/hasegan][Dumitru Hașegan]] --despre singurul experiment românesc lansat în spațiu de o navetă spațială
 + [[/i/prunariu][Dumitru Prunariu]] --primul și singurul cosmonaut român
 + [[/i/stofan][Ellen Stofan]] --despre posibilitatea studierii satelitului saturnian Titan
 + [[/i/trusculescu][Marius Trusculescu]] --povestea primului satelit românesc.
