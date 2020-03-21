@@ -61,7 +61,7 @@ body {
     background-color: var(--main-bg-color);
     color: var(--main-font-color);
     font-family: var(--font-content);
-    text-align: justify;
+
 }
 
 a,
@@ -238,6 +238,41 @@ h6 {
 .content .markdown > blockquote {
     margin-left: 1.5rem; /* equal to mx-md-4 in bootstrap */
     margin-right: 1.5rem;
+    text-align: justify;
+}
+
+/* This class is for NOT having justified text on index page*/
+
+.content .markdown2 {
+    position: relative;
+    font-size: 1.1em;
+    line-height: 1.5em;
+}
+
+.content .markdown2 > h1,
+.content .markdown2 > h2,
+.content .markdown2 > h3,
+.content .markdown2 > h4,
+.content .markdown2 > h5,
+.content .markdown2 > h6 {
+    margin-top: 3rem;
+    margin-bottom: .75rem;
+}
+
+.content .markdown2 > h1,
+.content .markdown2 > h2,
+.content .markdown2 > h3,
+.content .markdown2 > h4,
+.content .markdown2 > h5,
+.content .markdown2 > h6,
+.content .markdown2 > p,
+.content .markdown2 > ul,
+.content .markdown2 > ol,
+.content .markdown2 > dl,
+.content .markdown2 > blockquote {
+    margin-left: 1.5rem; /* equal to mx-md-4 in bootstrap */
+    margin-right: 1.5rem;
+
 }
 
 .content .markdown figure {
