@@ -7,7 +7,7 @@ draft = false
 | Nr. | Data        | Lansator     | Satelit        | Tip   | Țara    | Centru / Rampa | Ținta | Rezultat      | Bul.           |
 |-----|-------------|--------------|----------------|-------|---------|----------------|-------|---------------|----------------|
 |     | 26.03 20:57 | Atlas-V 551  | AEHF-6         | COM\* | SUA     | CC SLC-41      | GEO   | Planificat    |                |
-|     | 21.03 19:07 | Soyuz-2.1b   | 34x OneWeb-3   | COM   | Europa  | Baikonur 31/6  | LEO   | Planificat    |                |
+| 22  | 21.03 19:07 | Soyuz-2.1b   | 34x OneWeb-3   | COM   | Rusia   | Baikonur 31/6  | LEO   | Planificat    | 68             |
 | 21  | 18.03 12:16 | Falcon-9     | 60xStarlink-5  | COM   | SUA     | KSC LC-39A     | LEO   | Succes[^fn:1] | [67](/bul/067) |
 | 20  | 16.03 20:28 | Soyuz-2.1b   | Glonass-M      | CNS   | Rusia   | Plesetsk 43/4  | MEO   | Succes[^fn:2] | [67](/bul/067) |
 | 19  | 16.03 13:34 | CZ-7A        | TJS-6          | COM\* | China   | Wenchang LC201 | GEO   | Eșec[^fn:3]   | [67](/bul/067) |
