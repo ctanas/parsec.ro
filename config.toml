@@ -25,9 +25,15 @@ email = "contact@parsec.ro"
 
 [[menu.primary]]
 identifier = "bul"
-name = "Buletin cosmic"
+name = "Buletine cosmice"
 url = "/bul/"
 weight = 10
+
+[[menu.primary]]
+identifier = "arhiva"
+name = "Arhivă"
+url = "/arhiva/"
+weight = 15
 
 [[menu.primary]]
 identifier = "FAQ"

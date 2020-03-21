@@ -1,0 +1,30 @@
++++
+title = "Arhivă"
+author = ["Claudiu"]
+draft = false
++++
+
+Materialele care nu mai au un caracter de noutate sunt arhivate în această secțiune.
+
+
+## Lansări orbitale {#lansări-orbitale}
+
+-   Tabel cu [lansările orbitale din 2019](/r/lansari2019).
+
+
+## Interviuri {#interviuri}
+
+-   [Dumitru Hașegan](/i/hasegan) --coordonatorul primului și singurului experiment românesc lansat în spațiu de o navetă spațială
+-   [Dumitru Prunariu](/i/prunariu) --primul și singurul cosmonaut român
+-   [Ellen Stofan](/i/stofan) --despre posibilitatea studierii satelitului saturnian Titan
+-   [Marius Trusculescu](/i/trusculescu) --povestea primului satelit românesc.
+
+
+## Diverse materiale {#diverse-materiale}
+
+-   [Buran](/m/buran) --naveta spațială sovietică;
+-   [Soyuz-FG](/r/soyuz-fg) --racheta rusă fără viitor;
+-   [Athena](/r/athena) --racheta înlocuită de Minotaur;
+-   [Olimp-K](/m/olimp-k) --povestea unui satelit de spionaj;
+-   [Orel](/m/orel) --notițe despre viitoare capsulă rusă;
+-   [ARCA Space](/m/arca) --despre plăci zburătoare și alte povești.

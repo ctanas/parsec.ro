@@ -14,15 +14,29 @@ Siteul de față reprezintă o colecție personală de materiale, articole și n
 
 Știrile sunt grupate în [[/bul][Buletine Cosmice]] (cu o frecvență aproximativ săptămânală), materiale care conțin detalii despre lansările orbitale, dar și noutăți cu privire la explorarea spațiului cosmic.
 
-+ *Lansări orbitale* ( [[/r/lansari2020/][2020]] | [[/r/lansari2019][2019]] );
-+ Stația Spațială Internațională ([[/iss/intro/][astronauți și vehicule]], [[/iss/jurnal][jurnal]], [[/iss/ccdev][CC-Dev]], [[/iss/module][module]], [[https://www.heavens-above.com/PassSummary.aspx?satid=25544&lat=46.7712&lng=23.6236&loc=Cluj-Napoca&alt=0&tz=EET][observații]]);
-+ [[/m/sonde][Lista sondelor interplanetare active]];
-+ [[/r/rachete][Lista rachetelor active]] (plus detalii despre [[/r/antares][Antares]], [[/r/soyuz-2][Soyuz-2]] și [[/r/falcon9][Falcon 9]]);
-+ [[/r/viitor][Rachete aflate în dezvoltare]] (/draft/);
-+ Programe spațiale active (/selecție/: [[/p/china][China]], [[/p/india][India]], [[/p/iran][Iran]]);
-+ [[/m/meteoriti][Meteoriți]]: informații generale și lista meteoriților românești (/draft/);
-+ Articole diverse: [[/m/x37b][X-37B]], [[/m/buran][Buran]], [[/r/soyuz-fg][Soyuz-FG]], [[/r/athena][Athena]], [[/m/olimp-k][Olimp-K]], [[/m/orel][Orel]].
+** Tabele și articole
 
++ [[/r/lansari2020][Lista lansărilor orbitale din 2020]];
++ [[/r/rachete][Lista rachetelor active]] (plus detalii despre [[/r/antares][Antares]], [[/r/soyuz-2][Soyuz-2]] și [[/r/falcon9][Falcon 9]]);
++ [[/r/viitor][Rachete aflate în dezvoltare]];
++ [[/m/sonde][Lista sondelor interplanetare active]];
++ [[/m/meteoriti][Meteoriți]] --informații generale și lista meteoriților românești (/draft/);
++ [[/m/x37b][X-37B]] --naveta spațială autonomă a Forțelor Aeriene ale SUA.
+
+** Stația Spațială Internațională (ISS) 
+
++ Lista [[/iss/intro/][astronauților aflați la bord și a vehicule andocate]];
++ [[/iss/jurnal][Jurnal de activități]];
++ Zboruri comerciale cu echipaj ([[/iss/ccdev][CC-Dev]]);
++ Detalii despre [[/iss/module][modulele ISS]];
++ Oportunități de [[https://www.heavens-above.com/PassSummary.aspx?satid=25544&lat=46.7712&lng=23.6236&loc=Cluj-Napoca&alt=0&tz=EET][observație]] a ISS.
+
+** Programe spațiale
+
++ [[/p/china][China]] --stații spațiale și noile sale lansatoare orbitale;
++ [[/p/india][India]] -detalii despre rachete, sonde selenare și viitoare echipaje;
++ [[/p/iran][Iran]] --lista lansărilor și detalii despre rachetele orbitale.
+ 
 
 * About
 :PROPERTIES:
@@ -56,6 +70,36 @@ Site-ul de față este generat din [Emacs](https://www.gnu.org/software/emacs/) 
 
 *** Contact
 Apreciez orice feedback, comentariu, sugestie, critică constructivă. Mă găsiți la adresa de mail contact@parsec.ro sau îmi puteți trimite un mesaj pe [[https://www.facebook.com/parsec.ro][Facebook]].
+
+
+* Arhivă
+:PROPERTIES:
+:EXPORT_HUGO_SECTION: /
+:EXPORT_FILE_NAME: arhiva
+:EXPORT_TITLE: Arhivă
+:END:
+
+Materialele care nu mai au un caracter de noutate sunt arhivate în această secțiune.
+
+** Lansări orbitale
+
++ Tabel cu [[/r/lansari2019][lansările orbitale din 2019]].
+
+** Interviuri
+
++ [[/i/hasegan][Dumitru Hașegan]] --coordonatorul primului și singurului experiment românesc lansat în spațiu de o navetă spațială
++ [[/i/prunariu][Dumitru Prunariu]] --primul și singurul cosmonaut român
++ [[/i/stofan][Ellen Stofan]] --despre posibilitatea studierii satelitului saturnian Titan
++ [[/i/trusculescu][Marius Trusculescu]] --povestea primului satelit românesc.
+
+** Diverse materiale
+
++ [[/m/buran][Buran]] --naveta spațială sovietică;
++ [[/r/soyuz-fg][Soyuz-FG]] --racheta rusă fără viitor;
++ [[/r/athena][Athena]] --racheta înlocuită de Minotaur;
++ [[/m/olimp-k][Olimp-K]] --povestea unui satelit de spionaj;
++ [[/m/orel][Orel]] --notițe despre viitoare capsulă rusă;
++ [[/m/arca][ARCA Space]] --despre plăci zburătoare și alte povești.
 
 
 * FAQ
