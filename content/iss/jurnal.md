@@ -4,6 +4,9 @@ author = ["Claudiu"]
 draft = false
 +++
 
+19.03.2020
+: Progress MS-13 și-a activat motoarele pentru 534 de secunde, crescând viteza ISS cu 0.6 m/s (416.68x439.57 km)
+
 09.03.2020
 : Capsula Dragon CRS-20 andochează la portul Harmony, după lansarea din 09.03.2020.
 
@@ -23,6 +26,9 @@ draft = false
 
 25.01.2020
 : EVA-227 (6 ore, 16 minute): Morgan și Parmitano, pentru întreținerea AMS-02;
+
+23.01.2020
+: Progress MS-13 și-a activat motoarele pentru 563+282 secunde, crescând viteza ISS cu un total de 0.84 m/s (415.9x437.0 km)
 
 20.01.2020
 : EVA-226 (6 ore, 58 minute): Koch și Meir, pentru înlocuirea bateriilor ISS;

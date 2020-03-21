@@ -171,6 +171,7 @@ Da! Datorită panourilor solare de mari dimensiuni, ISS poate fi văzută cu uș
 :EXPORT_FILE_NAME: jurnal
 :END:
 
+- 19.03.2020 :: Progress MS-13 și-a activat motoarele pentru 534 de secunde, crescând viteza ISS cu 0.6 m/s (416.68x439.57 km)
 - 09.03.2020 :: Capsula Dragon CRS-20 andochează la portul Harmony, după lansarea din 09.03.2020.
 - 18.02.2020 :: Capsula Cygnus NG-13 este atașată de modulul /Unity/, după lansarea din 15.02.2020;
 - 06.02.2020 :: Începe *Expediția 62*;
@@ -178,6 +179,7 @@ Da! Datorită panourilor solare de mari dimensiuni, ISS poate fi văzută cu uș
 - 06.02.2020 :: Soyuz MS-13 revine pe Pământ cu Koch, Skvortsov, Parmitano;
 - 31.01.2020 :: Capsula Cygnus NG-12 se desprinde de ISS;
 - 25.01.2020 :: EVA-227 (6 ore, 16 minute): Morgan și Parmitano, pentru întreținerea AMS-02;
+- 23.01.2020 :: Progress MS-13 și-a activat motoarele pentru 563+282 secunde, crescând viteza ISS cu un total de 0.84 m/s (415.9x437.0 km)
 - 20.01.2020 :: EVA-226 (6 ore, 58 minute): Koch și Meir, pentru înlocuirea bateriilor ISS;
 - 15.01.2020 :: EVA-225 (7 ore, 29 minute): Meir și Koch, pentru înlocuirea bateriilor ISS;
 - 07.01.2020 :: Capsula Dragon CRS-19 se desprinde de ISS și revine în siguranță înapoi pe Pământ;
@@ -2202,6 +2204,10 @@ După o discuție între directorii agențiilor spațiale europene și ruse, s-a
 
 Miercuri, 18 martie, ne-a părăsit, la 88 de ani, *Al Worden*, unul dintre cei 24 de pământeni care, în cadrul programului Apollo, au părăsit orbita Pământului și s-au îndreptat spre Lună. El nu a coborât pe Lună, misiunea sa fiind accea de a-i aștepta pe orbita Lunii, în modulul de comandă, pe colegii săi Dave Scott și Jim Irwin. Și tot în această săptămână, agenția spațială rusă a anunțat că marți, 17 martie, ne-a părăsit, la 85 de ani, *Valentina Gagarina*, soția lui Iuri Gagarin, primul om care a zburat în spațiu, în 1961. Din păcare, Gagarin ne-a părăsit prematur, în 1968 la doar 34 de ani. 
 
+---
+
+Varianta audio a acestui material poate fi ascultată pe site-ul [[https://radioromaniacultural.ro/buletin-cosmic-nr-67/][Radio România Cultural]].
+
 ** Buletin Cosmic nr. 66 :falcon9:crs20:dragon:beidou:axiom:chandrayaan:
 :PROPERTIES:
 :EXPORT_FILE_NAME: 066
@@ -2253,6 +2259,10 @@ Compania americană *Astra* a ratat premiul de 12 milioane de dolari oferit de A
 ---
 
 NASA a anunțat săptămâna trecută că a decis să folosească o rachetă *Falcon Heavy* a companiei SpaceX pentru lansarea sondei *Psyche* în iulie 2022. Aceasta se va îndrepta spre asteroidul cu același nume, aflat undeva între Marte și Jupiter, inserția orbitală fiind planificată pentru 2026. Falcon Heavy este în prezent cea mai puternică rachetă activă, fiind vorba practic despre o rachetă Falcon 9 dotată cu două boostere suplimentare care sunt de fapt trepte primare Falcon 9. Falcon Heavy a avut trei zboruri până acum, toate reușite, alte trei fiind programate până la debutul misiunii Psyche, următoarea chiar în acest an, când va avea loc lansarea unui satelit de telecomunicații al forțelor aeriene americane. 
+
+---
+
+Varianta audio a acestui material poate fi ascultată pe site-ul [[https://radioromaniacultural.ro/buletin-cosmic-nr-65/][Radio România Cultural]].
 
 ** Buletin Cosmic nr. 64 :meridian:soyuz2:mev1:marte:insight:
 :PROPERTIES:
@@ -2356,6 +2366,10 @@ Alexandr Skvortsov, Luca Parmitano și Christina Koch au revenit joi, 6 februari
 
 Se vehiculează luna mai pentru prima lansare Dragon-2 cu echipaj la bord, după ce datele ultimului test al capsulei par să nu evidențieze nici o problemă majoră a vehiculului. Din punct de vedere tehnic, capsula este gata pentru zbor, au mai rămas doar proceduri birocratice de rezolvat de către SpaceX și NASA înainte ca Doug Hurley și Bob Behnken să pornească spre Stația Spațială Internațională. Din 2011, după retragerea navetelor spațiale, nici un astronaut nu a mai fost lansat de pe teritoriul Statelor Unite, fiind cea mai lungă pauză de acest fel de la începutul erei spațiale din anii 60, însă în acest an atât SpaceX, cât și Boeing, par să fie gata să înceapă lansările comerciale ale astronauților spre orbită de la Cape Canaveral.
 
+---
+
+Varianta audio a acestui material poate fi ascultată pe site-ul [[https://radioromaniacultural.ro/buletin-cosmic-nr-62/][Radio România Cultural]].
+
 ** Buletin Cosmic nr. 61 :electron:cygnus:ng12:spitzer:sls:
 :PROPERTIES:
 :EXPORT_FILE_NAME: 061
@@ -2392,6 +2406,10 @@ Astronomii amatori au observat că satelitul rusesc Kosmos-2542 s-a apropiat la 
 
 Agenția spațială rusă *Roscosmos* ia în considerare o nouă misiune spre *Venus*, în colaborare cu NASA, misiune care ar conține cel puțin o sondă orbitală și un lander. Misiunea, denumită Venera-D, urmează să fie lansată cel mai devreme în 2029, folosind o rachetă Angara-A5 și proiectul urmează să coste aproximativ echivalentul a 260 milioane de dolari. Ultimul lander care a ajuns pe Venus a fost Vega-2, o sondă a fostei URSS, care a ajuns pe suprafața planetei în 1984. De atunci doar sonda europeană Venus Express a mai fost trimis pe orbita planetei vecine, deoarece condițiile de la suprafață sunt extrem de neprietenoase: presiunea de aproape 100 de ori mai mare decât pe Pământ, temperaturi de peste 400 de grade și nori din acid sulfuric. NASA explorează și posibilitatea de a trimite baloane în atmosfera lui Venus, însă nu a concretizat deocamdată nimic în acest sens.
 
+---
+
+Varianta audio a acestui material poate fi ascultată pe site-ul [[https://radioromaniacultural.ro/buletin-cosmic-nr-61/][Radio România Cultural]].
+
 ** Buletin Cosmic nr. 60 :eva:iss:jwst:progressms13:axiom: 
 :PROPERTIES:
 :EXPORT_FILE_NAME: 060
@@ -2420,6 +2438,10 @@ NASA își dorește să extindă Stația Spațială Internațională prin atașa
 ---
 
 Nava cargo Progress MS-13, andocată la modulul Pirs al Stației Spațiale Internaționale, și-a activat joi propulsoarele pentru a modifica orbita avanpostului orbital, o operațiune de rutină care are loc pentru alinierea traiectoriei stației cu viitoarele vehicule care urmează să fie lansate sau pentru a evita potențiale resturi orbitale care s-ar putea apropia prea mult de ISS. Astfel, la ora 17:15, motorul Progress MS-13 a fost pornit pentru 562 de secunde, după care la 17:23 același motor a funcționat pentru 282 de secunde. În total, delta-V pentru ISS a fost crescută cu 0.84 m/s iar noua orbită este 415.4 x 423.0 km (de la 414.7 x 421.2 km).
+
+---
+
+Varianta audio a acestui matarial poate fi ascultată pe site-ul [[https://radioromaniacultural.ro/buletin-cosmic-nr-60/][Radio România Cultural]].
 
 ** Buletin Cosmic nr. 59 :arianev:kuazhou:mars2020:firefly:eva:iss:spacex:dragon2:
 :PROPERTIES:
