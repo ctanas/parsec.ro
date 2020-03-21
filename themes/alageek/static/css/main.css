@@ -20,8 +20,8 @@
     --font-table: "Cousine", monospace;
 */
     
-    --font-content: "IBM Plex Serif", serif;
-    --font-title: "IBM Plex Sans", sans-serif;
+    --font-content: "IBM Plex Sans", serif;
+    --font-title: "IBM Plex Sans Condensed", sans-serif;
     --font-table: "IBM Plex Mono", monospace;
 	
     --tr-child-even-color: #fdf6e3;
