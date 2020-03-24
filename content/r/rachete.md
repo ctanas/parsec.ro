@@ -18,7 +18,7 @@ draft = false
 | Proton-M        | RUS  | Roscosmos   | 2001  | 6xRD-275M    | 23t   |        | 6.3   | 109     | 98      | 9+(2)   | 24.12.2019 |
 | Rockot          | RUS  | Roscosmos   | 1994  | 3xRD-0233    | 1.9t  | 1.2t   |       | 34      | 31      | 2+(1)   | 27.12.2019 |
 | Angara          | RUS  | Roscosmos   | 2014  | 1xRD-191     | 3.8t  |        | 5.4t  | 2       | 2       | 0       | 23.12.2014 |
-| Changzheng-2C   | CHN  | CNSA        | 1982  | 4xYF-21C     | 3.85t | 1.9t   | 1.25t | 51      | 50      | 1       | 26.07.2019 |
+| Changzheng-2C   | CHN  | CNSA        | 1982  | 4xYF-21C     | 3.85t | 1.9t   | 1.25t | 52      | 51      | 1       | 24.03.2020 |
 | Changzheng-2D   | CHN  | CNSA        | 1992  | 4xYF-21C     | 3.5t  | 1.3t   |       | 46      | 45      | 1       | 19.02.2020 |
 | Changzheng-2F   | CHN  | CNSA        | 1999  | 4xYF-20B     | 8.4t  |        |       | 13      | 13      | 0       | 16.10.2016 |
 | Changzheng-3A   | CHN  | CNSA        | 1994  | 4xYF-21C     | 8.5t  |        | 2.6t  | 27      | 27      | 0       | 09.07.2018 |
