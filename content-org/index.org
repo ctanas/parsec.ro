@@ -2225,7 +2225,7 @@ Marius Trusculescu, unul din membri echipei Goliat, primul satelit românesc, a 
 :EXPORT_HUGO_SECTION: bul
 :END:
 
-** TODO Buletin Cosmic nr. 68
+** Buletin Cosmic nr. 68 :soyuz2:oneweb:cz2c:dragon2:esa:mex:tgo:
 :PROPERTIES:
 :EXPORT_FILE_NAME: 068
 :EXPORT_DATE: 2020-03-25
@@ -2233,19 +2233,26 @@ Marius Trusculescu, unul din membri echipei Goliat, primul satelit românesc, a 
 
 *** Lansări orbitale
 
-Soyuz OneWeb
+Sâmbătă, 21 martie la ora 19:06, de la cosmodromul Baikonur, o rachetă *Soyuz-2.1b* a lansat 34 de sateliți *OneWeb* pentru o constelație de sateliți de telecomunicații plasați pe orbită terestră joasă, care își propune să ofere, la fel ca și Starlink, conexiune la internet de mare viteză, deasupra oricărui punct de pe suprafața Pământului. Lansarea a fost operată de compania europeană Arianespace, chiar dacă lansatorul a fost unul rusesc. Treapta superioară Fregat-M a plasat cei 34 de sateliți pe orbita corectă în mai puțin de 4 ore după lansară, aducând la 74 numărul de sateliți OneWeb aflați în spațiu. Spre deosebire de Starlink, OneWeb va opera de la o altitudine mai ridicată (1200 km și înclinație orbitală de 87.4 grade), ceea ce înseamnă că pentru acoperirea suprafeței Pământului are nevoie de doar 650 de sateliți activi. Însă, cu câteva zile înainte de această lansare, oficiali ai companiei au declarat că au inițiat procedurile pentru faliment, așa că viitorul OneWeb nu este deloc unul clar. A fost a 101-a lansare orbitală a unei rachete Soyuz-2, iar masa celor 34 de sateliți a fost de 5015 kilograme. Sateliții sunt dotați cu un sistem de propulsie cu plasmă și două panouri solare folosite pentru reîncărcarea acumulatorilor cu litiu de la bord.
+
+#+CAPTION: Racheta Soyuz-2.1b cu treapta superioară Fregat-M, înainte lansării celor 34 de sateliți OneWeb, de pe rampa 31/6 de la Baikonur.
+[[/img/soyuzoneweb.jpg]]
 
 ---
 
-CZ-2C
+Luni, 23 martie la ora 05:43, de la centrul spațial Xichang, o rachetă chinezeasc *Changzheng-2C* a lansat trei sateliți Yaogan Weixin, despre care nu se cunosc detalii, dar numele acestora de obicei este un indiciu pentru caracterul militar al acestora. Iar racheta Changzheng-2C este de obicei folosită pentru misiuni spre orbită terestră joasă, unde acest lansator poate urca aproape 4 tone. A fost a 52-a lansare a acestei rachete, care din 1982 a suferit un singur eșec, iar lansarea de luni a fost a 23-a lansare orbitală din 2020 și a 7-a pentru China, care săptămâna trecută a înregistrat primul său eșec din acest an, când primul zbor al rachete Changzheng-7A nu a reușit să urce satelitul militar TJS-6 pe orbită.
 
 *** Alte evenimente
 
-ESA și covid
+Agenția Spațială Europeană (*ESA*)  a anunțat la începutul acestei săptămâni că datorită răspândirii infecției cu virusul SARS-CoV-2 și-a redus activitățile neesențiale și ca urmare câteva sonde interplanetare au fost plasate într-o stare de hibernare pe termen lung, fără a periclita însă misiunea acestora. Instrumentele de la bordul sondei Solar Orbiter, Mars Express și Trace Gas Orbiter au fost oprite, în timp ce sondele se află pe traiectorii stabile, utlimele două fiind pe orbita planetei Marte, urmând ca în viitor acestea să fie reactivate, când situația din centrele ESA o va permite.
 
 ---
 
-Dragon elicopter
+Și tot ca urmare a răspândirii Covid-19, compania *Bigelow Aerospace* și-a concediat toți angajații și și-a suspendat activitatea, probabil permanent. Bigelow Aerospace plănuia dezvoltarea unor module orbitale gonflabile care ar fi putut andoca după lansare și forma o stație spațială comercială, destinată activităților de cercetare, dar și pentru turism spațial. Modulele gonflabile au avantajul de a avea un volum seminificativ mic în timpul lansării, volum care crește după amplasarea acestora pe orbită, spre deosebire de modulele rigide din care este formată Stația Spațială Internațională. Din 2016, un astfel de modul test dezvoltat de Bigelow, denumit BEAM, se află andocat la Stația Spațială Internațională, oferind echipajului de la bord un plus de 16 metri cubi. În viitor, Bigelow plănuia dezvoltarea unor module de 330 metri cubi care urmau să fie asamblate și cuplate pe orbită (volumul intern al ISS este de 900 metri cubi).
+
+---
+
+O capsulă *Dragon-2* a companiei *SpaceX* a fost avariată marți, în timpul unui test al parașutelor, însă nu din cauza funcționării necorespunzătoare a acestora. Înainte de a începe testul, capsula a fost transportată de un elicopter, însă sistemul a devenit instabil și a pus în pericol echipajul elicopterului, care a decis imediată separarea de capsulă. Astfel, capsula s-a prăbușit și a fost distrusă, pentru că sistemul de parașute nu a fost activat, însă nimeni nu a fost rănit. În plus, nu era vorba de o capsulă destinată unei lansări orbitale, ci doar de una destinată testelor, așa că pierderea pentru SpaceX nu este una majoră și probabil nu va influența negativ misiunea cu echipaj spre Stația Spațială Internațională, planificată pentru luna mai.
 
 ** Buletin Cosmic nr. 67 :spacex:falcon9:soyuz2:glonass:cz7a:exomars:
 :PROPERTIES:
