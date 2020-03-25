@@ -27,7 +27,7 @@ Siteul de față reprezintă o colecție personală de materiale, articole și n
 -   [Jurnal de activități](/iss/jurnal);
 -   Zboruri comerciale cu echipaj ([CC-Dev](/iss/ccdev));
 -   Detalii despre [modulele ISS](/iss/module);
--   Oportunități de [observație](https://www.heavens-above.com/PassSummary.aspx?satid=25544&lat=46.7712&lng=23.6236&loc=Cluj-Napoca&alt=0&tz=EET) a ISS.
+-   Oportunități de [observare](https://www.heavens-above.com/PassSummary.aspx?satid=25544&lat=46.7712&lng=23.6236&loc=Cluj-Napoca&alt=0&tz=EET) a ISS.
 
 
 ## Programe spațiale {#programe-spațiale}
