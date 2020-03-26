@@ -7,7 +7,7 @@ draft = false
 | Racheta         | Țara | Operator    | Debut | Motor        | LEO   | SSO    | GTO   | Lansări | Succese | Eșecuri | Ultima     |
 |-----------------|------|-------------|-------|--------------|-------|--------|-------|---------|---------|---------|------------|
 | Antares[^fn:1]  | SUA  | NGSSG       | 2013  | 2xRD-181     | 8t    |        |       | 12      | 11      | 1       | 14.02.2020 |
-| Atlas V         | SUA  | ULA         | 2002  | 1xRD-180     | 20.5t |        | 8.9t  | 82      | 81      | (1)     | 10.02.2020 |
+| Atlas V         | SUA  | ULA         | 2002  | 1xRD-180     | 20.5t |        | 8.9t  | 83      | 82      | (1)     | 26.03.2020 |
 | Delta IV Heavy  | SUA  | ULA         | 2004  | 1xRS-68A     | 28.7  |        | 14.2t | 10      | 9       | (1)     | 19.01.2019 |
 | Electron        | SUA  | RocketLab   | 2017  | 9xRutherford |       | 0.225t |       | 11      | 10      | 1       | 31.01.2020 |
 | Falcon 9[^fn:2] | SUA  | SpaceX      | 2010  | 9xMerlin     | 22.8t |        | 8.3t  | 83      | 81      | 1+(1)   | 18.03.2020 |
