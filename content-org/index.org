@@ -2226,7 +2226,7 @@ Marius Trusculescu, unul din membri echipei Goliat, primul satelit românesc, a 
 :EXPORT_HUGO_SECTION: bul
 :END:
 
-** TODO Buletin Cosmic nr. 69
+** Buletin Cosmic nr. 69
 :PROPERTIES:
 :EXPORT_FILE_NAME: 069
 :EXPORT_DATE: 2020-04-01
@@ -2234,19 +2234,31 @@ Marius Trusculescu, unul din membri echipei Goliat, primul satelit românesc, a 
 
 *** Lansări orbitale
 
-Atlas V
+Joi, 26 martie la ora 21:18, o rachetă *Atlas V* în configurația 551 a lansat al 6-lea satelit din constelația *AEHF*, dedicată comunicațiilor militare securizate, care înlocuiește mai vechea constelație Milstar. Lansarea a avut loc de pe rampa SLC-41 de la Cape Canaveral și este prima lansare orbitală pentru Forțele Spațiale Americane[fn:spaceforce1], noua ramură a armatei americane, creată la finalul anului trecut. Toți ceilalți sateliți AEHF au fost lansați de rachete Atlas V, începând cu 2010. Sateliții, construiți de compania Lockheed Martin, au fiecare masa de peste 6 tone și au fost plasați pe orbite geosincrone, iar perioada lor de viață este estimată la cel puțin 14 ani. Aceștia sunt dotați cu două tipuri de propulsie, una cu combustibil clasic, pentru controlul orientării în jurul axei, în timp ce o propulsie cu efect Hall este folosită pentru menținerea altitudinii pe termen lung. Varianta 551 a rachetei înseamnă 5 boostere suplimentare cu combustibil solid, un diametru de 5 metri a conului protector și un singur motor RL-10 pentru treapta secundară (Centaur) iar această lansare a însemna în același timp a 500-a lansarea a unei trepte superioare propulsate de un motor RL-10, produs de compania Aeroject Rocketdyne, folosit, în diverse variante, din 1962.
+
+A fost ultima lansare programată pentru următoarea perioadă de pe teritoriul Statelor Unite datorită restrângerii activităților companiilor din cauza efectelor pandemiei actuale, însă este posibil ca în aprilie SpaceX să încerce să lanseze o nouă misiune Starlink.
+
+#+CAPTION: Lansarea satelitului AEHF-6 de racheta Atlas V 551 de pe rampa SLC-41 de la Cape Canaveral, în prima lansare orbitală pentru Forțele Spațiale Americane. /Credit: [[https://media.defense.gov/2020/Mar/27/2002271429/-1/-1/0/200326-F-KD758-1007.JPG][US Space Force]]/.
+[[/img/aehf6.jpg]]
 
 *** Alte evenimente
 
-Dragon XL
+Vinerea trecută *NASA* a anunțat că a selectat racheta *Falcon Heavy* ca unul din mijloacele prin care urmează să transporte echipamente și provizii spre viitoarea stație spațială selenară *Gateway*[fn:gwdragonxl]. Pentru acest tip de misiuni cargo, SpaceX va dezvolta o nouă capsulă Dragon, denumită *Dragon XL*, derivată din actuala Dragon2, dar cu un volum mai mare, asemănător oarecum cu actuala capsulă Cygnus folosită de compania Northrop Grumman pentru aprovizionarea Stației Spațiale Internaționale. Deși recent NASA a declarat că Gateway nu mai este o piesă esențială a planului de aselenizare în 2024, viitoarea stație spațială rămâne parte a proiectului Artemis, urmând să fie folosită în misiunile Artemis ulterioare, probabil în a doua parte a decadei.
 
 ---
 
-Nipon Dragon2
+Deși prima lansare a unor astronauți la bordul unei capsule Dragon nu va avea loc mai devreme de luna mai, NASA a creionat deja echipajului următoarei misiuni SpaceX cu echipaj uman. Lansarea din mai este denumită Demo Mission 2, urmând ca lansarea ulterioară să fie prima misiune operațională derulată de *SpaceX*. Aceasta nu are încă programată data lansării, dar va fi o misiune de lungă durată, în care echipajul va petrece 6 luni pe orbită și la care vor lua parte americanii Mike Hopkins, Victor Glover, Shannon Walker dar și niponul *Soichi Noguchi*[fn:spxm1]. Acesta din urmă s-a afla la al treilea zbor în spațiu cu al treilea vehicul, după ce a mai ajuns pe orbită la bordul navetei spațiale Discovery și ulterior la bordul unei capsule Soyuz. 
 
 ---
 
-Uranus și Voyager
+Datele transmise de sonda interplanetară *Voyager 2* continuă să uimească lumea științifică. La 34 de ani după ce sonda a survolat planeta Uranus, cercetătorii de la Jet Propulsion Laboratory au prelucrat din nou datele primite și au descoperit un amănunt ignorat până în prezent: se pare că în 1986, în timpul survolului, sonda a trecut printr-un plasmoid, o buclă a câmpului magnetic al planetei, prin care se elibera în spațiu fragmente din atmosfera lui Uranus[fn:voy2uranus]. Această descoperire aruncă o nouă lumină asupra misterioasei planete Uranus, care de atunci nu a mai fost survolată de o altă sondă.
+
+---
+
+[fn:voy2uranus] https://www.jpl.nasa.gov/news/news.php?feature=7623
+[fn:spxm1] https://www.nasa.gov/press-release/nasa-adds-shannon-walker-to-first-operational-crewed-spacex-mission
+[fn:gwdragonxl] https://www.nasa.gov/press-release/nasa-awards-artemis-contract-for-gateway-logistics-services
+[fn:spaceforce1] https://www.spaceforce.mil/News/Article/2129221/aehf-6-satellite-completes-protected-satellite-constellation
 
 ** Buletin Cosmic nr. 68 :soyuz2:oneweb:cz2c:dragon2:esa:mex:tgo:
 :PROPERTIES:
