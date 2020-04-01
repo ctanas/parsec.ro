@@ -47,6 +47,8 @@ _Post Certification Mission 1_
 
 -   **Victor Glover** (primul zbor spațial)
 -   **Mike Hopkins** (Soyuz TMA-10M, 166 zile ISS, 2 EVA)
+-   **Shannon Walker** (Soyuz TMA-19, 163 zile ISS)
+-   **Soichi Noguchi** (_JAXA_) (STS-114, Soyuz TMA-17, 177 zile ISS)
 
 
 ## Boeing PCM-1 (2020) {#boeing-pcm-1--2020}
