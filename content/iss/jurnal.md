@@ -4,6 +4,9 @@ author = ["Claudiu"]
 draft = false
 +++
 
+02.04.2020
+: Progress MS-13 și-a activat motoarele pentru 427.2 secunde, crescând viteza ISS cu 0.48 m/s (419.3x440.9 km)
+
 19.03.2020
 : Progress MS-13 și-a activat motoarele pentru 534 de secunde, crescând viteza ISS cu 0.6 m/s (416.68x439.57 km)
 

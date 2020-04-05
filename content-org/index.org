@@ -21,7 +21,8 @@ Siteul de față reprezintă o colecție personală de materiale, articole și n
 + [[/r/viitor][Rachete aflate în dezvoltare]];
 + [[/m/sonde][Lista sondelor interplanetare active]];
 + [[/m/meteoriti][Meteoriți]] --informații generale și lista meteoriților românești (/draft/);
-+ [[/m/x37b][X-37B]] --naveta spațială autonomă a Forțelor Aeriene ale SUA.
++ [[/m/x37b][X-37B]] --naveta spațială autonomă a Forțelor Aeriene ale SUA;
++ [[/m/gateway][Gateway]] --viitoarea stație spațială de pe orbita Lunii.
 
 ** Stația Spațială Internațională (ISS) 
 
@@ -215,6 +216,7 @@ Da! Datorită panourilor solare de mari dimensiuni, ISS poate fi văzută cu uș
 :EXPORT_FILE_NAME: jurnal
 :END:
 
+- 02.04.2020 :: Progress MS-13 și-a activat motoarele pentru 427.2 secunde, crescând viteza ISS cu 0.48 m/s (419.3x440.9 km)
 - 19.03.2020 :: Progress MS-13 și-a activat motoarele pentru 534 de secunde, crescând viteza ISS cu 0.6 m/s (416.68x439.57 km)
 - 09.03.2020 :: Capsula Dragon CRS-20 andochează la portul Harmony, după lansarea din 09.03.2020.
 - 18.02.2020 :: Capsula Cygnus NG-13 este atașată de modulul /Unity/, după lansarea din 15.02.2020;
@@ -1956,6 +1958,50 @@ Propulsoarele care funcționează pe baza principiul Hall sunt de fapt un caz ap
 În 2013 apar zvonuri care spun că mai multe unități rusesc lucrează pentru un satelit militar ce primește indicativul 14K166 și care urmează să petreacă cel puțin 15 ani pe orbită. Este vorba despre ISS Reshetnev, Geofizika, LOMO și NPO Kvant. La începutul anului 2014, Roscosmos anunță iminenta lansare a unui satelit Luch. Aceasta este o serie binecunoscută de sateliți dedicați sectorului civil și după completarea constelației Luch-5 nu se mai aștepta nimeni la o nouă lansare din acest program. Dar acesta nu a fost singurul semn de întrebare ridicat în urma anunțului Roscosmos. Până acum, sateliții Luch nu erau prea masivi și de obicei împărțau drumul spre orbită oferit de generoasa rachetă Proton-M cu o altă încărcătură, un alt satelit. Însă de data asta, întreaga rachetă proton-M îi era dedicată, ceea ce înseamnă că satelitul are o masă considerabil mai mare (caracteristică specifică sateliților militari). Mai mult decât atât, sateliții din seria Luch poartă câte un număr (Luch 4, Luch 5, Luch 5A etc), însă de această dată acest număr suplimentar nu mai apare în anunțul Roscosmos. Toate aceste motive conduc la o singură explicație: lansarea Luch este de fapt o diversiune pentru lansarea unei încărcături militare secrete. În zona hangarului 92-50 din Baikonur, unde a fost pregătită încărcătura pentru conectarea acesteia la treapta superioară Briz-M, au fost făcute modificări pentru a împiedica ingineri străini (care iau uneori parte la pregătirile pentru lansările Proton-M) să poată vedea satelitul, operațiune care are loc de fiecare dată când acesta este un satelit militar. După lansare, mass-media din Rusia vorbește despre Luch ca despre un satelit civil, care va ajuta în comunicațiile dintre Stația Spațială Internațională și Pământ și va fi folosit și pentru a corecta semnalele sateliților de poziționare GLONASS, însă la scurt timp după acest anunț, satelitul primește indicativul Kosmos-2501, specific satelițior militari.
 
 Imediat după lansare, satelitul Olimp-K și-a schimbat de mai multe ori poziția pe orbită, inclusiv altitudinea: în februarie 2015, aceasta a coborât cu 260 kilometri și a devenit perfect circulară. În aprilie, Olimp-K s-a poziționat între sateliții Intelsat 7 și Intelsat 901, uneori și la o distanță de 10 km de aceștia. Un purtător de cuvânt al Forțelor Aeriene SUA a declarat că Olimp-K s-a apropiat, de trei ori, până la 5 km de un alt satelit american, al cărui nume nu a fost specificat. În septembrie 2015, Olimp-K s-a apropiat de un alt satelit Intelsat (905). Unii observatori au observat că mișcările satelitului este corelată și cu deplasările unor elemente ale flotei rusești, lucru care se potrivește cu ipoteza care spune că aceasta este folosit pentru comunicații militare. Acum câteva zile, în 24 februarie 2016, Olimp-K s-a poziționat din nou curios, între alți doi sateliți: Intelsat 10-02 (satelit de telecomunicații comerciale) și Skynet 4C (un mai vechi satelit al ministerului de apărare britanic). Aceste manevre nu sunt deloc agreată de comunitatea internațională pentru că pun în pericol sateliții de telecomunicație, care au sloturi orbitale bine definite și care la o distanță mai mică de 10 km unul de altul sunt considerați a fi în pericol de coliziune. Cu toate acestea, Olimp-K nu este singurul satelit curios de pe orbită, Statele Unite au și ele astfel de sateliți mobili.
+
+** Gateway
+:PROPERTIES:
+:EXPORT_FILE_NAME: gateway
+:END:
+
+Gateway (sau /Deep Space Gateway/ --DSG, /Lunar Gateway/, /Lunar Orbital Platform-Gateway/ --LOP-G) este o stație spațială aflată deocamdată în stadiul de proiect, care urmează să fie plasată în jurul Lunii, pentru a sprijini  activitățile cu echipaj uman de la suprafața Lunii, din cadrul programului Artemis. 
+
+*** Orbita selenară
+
+Gateway va orbita Luna pe o orbită NRHO (/near-rectilinear halo orbit/) cu excentricitate ridicată, o perioadă de 7 zile, orbită care trece pe deasupra polilor selenari (3000 km de Polul Nord și 70000 km de Polul Sud). O astfel de orbită permite un contact permanent cu Pământul (pentru comunicație) și cu Soarele (pentru energie). Pentru andocare, navele pornite de pe orbită terestră joasă (LEO) vor avea nevoie de un delta-v de doar 3.63 km/s până la andocarea cu Gateway, față de 8.0 km/s cât ar avea nevoie de pe LEO până direct pe orbita lunară joasă. Unul din motivele pentru care a fost aleasă această orbită este pentru că capsula Orion nu putea ajunge de pe Pământ până direct pe orbită lunară. Gateway va juca rolul modulului de serviciu/comandă, care aștepta astronauții să revină de pe suprafața Lunii, în modulul lor lunar, însă prin această nouă abordare, practic modulul de serviciu/comandă poate fi refolosit pentru mai multe misiuni și nu este nevoie de un nou astfel de modul pentru fiecare misiunie în parte. Similar, poate fi refolosit și modulul lunar, care poate rămâne andocat la Gateway, între misiuni.
+
+*** Module
+
+Primul modul, *Power and Propulsion Element*, --PPE, urmează să fie lansat în 2022 la bordul unei rachete comerciale și va fi un modul proiectat de JPL care va genera electricitate cu ajutorul panourilor solare vitală pentru desfășurarea operațiunilor viitoare. PPE este derivat dintr-o navă cu propulsie electrică pe care NASA intenționa să o folosească în cadrul programului /Asteroid Redirect Mission/ --ARM, anulat în 2017. Modulul va fi construit de compania Maxar pentru 375 milioane de dolari[fn:maxar1], este derivat din sateliții Maxar 1300, va avea 9 tone și va panourile solare vor genera 50 kW energie electrică, iar pentru propulsie vor fi folosite motoare ionice cu efect Hall.
+
+În 2023 urmează să fie lansat modulul *Habitation and Logistics Outpost*, --HALO, realizat de compania Northrop-Grumann și evoluat din capsula Cygnus, folosită în prezent pentru aprovizionarea Stației Spațiale Internaționale. HALO urmează să fie dotat cu porturi de andocare, antene de comunicații și va putea găzdui un echipaj Artemis pentru o perioadă de 30 de zile, deși va avea dimensiuni mai mici decât un modul al actualei ISS.
+
+Cele două module sunt suficiente pentru a susține operațiunile de aselenizare, dar NASA nu plănuiește să folosească Gateway pentru misiunea Artemis 3, prima care va transporta un echipaj pe suprafața Lunii.
+
+După 2024, sunt programate alte doi noi module, *European System Providing Refueling, Infrastructure and Telecommunications*, --ESPRIT (care va asigura propulsie, echipamente științifice și de comunicație, porturi pentru andocare) și *International Habitation Module*, --iHAB, o colaborare între ESA și JAXA pentru un modul care va mări volumul presurizat pe care echipajul îl va avea la dispoziție.
+
+#+CAPTION: Cronologia asamblării Gateway
+| Lansare | Modul  | Producător       | Finanțare |
+|---------+--------+------------------+-----------|
+|    2022 | PPE    | Maxar            | NASA      |
+|    2023 | HALO   | Northrop-Grumann | NASA      |
+|    2025 | ESPRIT | Airbus/OHB       | ESA       |
+|    2026 | iHAB   | TBD              | ESA/JAXA  |
+
+*** Aprovizionare
+
+Capsula *Dragon-XL* a comapaniei SpaceX a fost primul vehicul pe care NASA l-a desemnat pentru a face parte din soluțiile comerciale alese pentru aprovizionarea viitoarei stații spațiale Gateway[fn:lopgdrgnxl]. Acest vehicul este derivat din versiunea Dragon2 Cargo și va folosi probabil propulsia cu motoare Draco (nu va fi nevoie de motoare SuperDraco), sistemul de andocare și softul de la bord, dar are unele particularități: 
+ - va fi lansat exclusiv de o rachetă Flacon Heavy;
+ - va putea transporta aproximativ 5 tone încărăctură utilă spre Gateway;
+ - va fi autonom pentru cel mult 30 de zile și va putea rămâne andocat la Gateway pentru cel mult 3 ani;
+ - nu va putea fi recuperat după trecerea prin atmosferă (nu este aerodinamic, nu are scut termic);
+ - lipsa oricăror elemente aerodinamice înseamnă că în timpul lansării va fi în interiorul unui con protector (lucru care nu se întâmplă pentru restul capsulelor Dragon);
+ - partea presurizată nu se va desprinde de partea nepresurizată (cum se întâmplă cu restul capsulelor Dragon).
+
+*** Note de subsol
+
+[fn:maxar1] https://www.nasa.gov/press-release/nasa-awards-artemis-contract-for-lunar-gateway-power-propulsion
+[fn:lopgdrgnxl] https://www.nasa.gov/press-release/nasa-awards-artemis-contract-for-gateway-logistics-services
 
 
 * Interviuri

@@ -18,7 +18,8 @@ Siteul de față reprezintă o colecție personală de materiale, articole și n
 -   [Rachete aflate în dezvoltare](/r/viitor);
 -   [Lista sondelor interplanetare active](/m/sonde);
 -   [Meteoriți](/m/meteoriti) --informații generale și lista meteoriților românești (_draft_);
--   [X-37B](/m/x37b) --naveta spațială autonomă a Forțelor Aeriene ale SUA.
+-   [X-37B](/m/x37b) --naveta spațială autonomă a Forțelor Aeriene ale SUA;
+-   [Gateway](/m/gateway) --viitoarea stație spațială de pe orbita Lunii.
 
 
 ## Stația Spațială Internațională (ISS) {#stația-spațială-internațională--iss}
