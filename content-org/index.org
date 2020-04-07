@@ -333,6 +333,8 @@ Programul CC-Dev al NASA presupune subvenționarea companiilor private americane
 
 Capsula CST-100 Starliner "Calypso" a fost lansată în 22 decembrie pentru un test fără echipaj pentru o andocare cu Stația Spațială Internațională. Primul zbor al rachetei Atlas V N22 (cu o treaptă Centaur cu două motoare) a decurs perfect și a înscris capsula pe o traiectorie suborbitală. Capsula trebuia să își folosească motoarele pentru sistemul de anulare al lansării pentru a înscrie capsula pe orbită, însă acest lucru nu s-a întâmplat din cauza desincronizării ceasului de la bordul capsulei (cu peste 11 ore!). Problemele au fost agravate și de faptul că inginerii Boeing de la sol nu au putut primi telemetria în timp real, datorită nealinierii sateliților TDRSS folosiți pentru astfel de comunicații. Capsula a reușit inserția orbitală folosind mai multe manevre ale propulsoarelor de la bord, dar și-a consumat o bună parte din combustibil și andocarea cu ISS a fost anulată. Din fericire, capsula a reușit inserția pe o traiectorie stabilă, circulară (250km) și a revenit cu bine înapoi pe Pământ două zile mai târziu, duminică, 22 decembrie 2019, la baza aeriană de la White Sands, New Mexico.
 
+Boeing a anunțat că misiunea OFT va fi repetată[fn:reoft1], nu mai devreme de octombrie 2020, compania suportând integral costurile suplimentare asociate cu noua misiune.
+
 *** SpaceX DM-2 (aprilie 2020)
 /Demo Mission 2/
 
@@ -364,6 +366,8 @@ Capsula CST-100 Starliner "Calypso" a fost lansată în 22 decembrie pentru un t
 *** Note
 De la ultima lansare a unei navetei spațiale americane cu echipaj (Atlantis, STS-135, 8 iulie 2011) au trecut peste 3083 zile, cea mai lungă perioadă în care SUA nu a avut posibilitatea de a lansa astronauți pe orbită folosind soluții proprii (rachete și vehicule americane). Între Apollo-Soyuz (ASTP, 15 iulie 1975) și primul zbor al navetei spațiale (Columbia, STS-1, 12 aprilie 1981) au fost doar 2098 zile.
 
+*** Note de subsol
+[fn:reoft1] https://boeing.mediaroom.com/2020-04-06-Boeing-Statement-on-Starliners-Next-Flight
 
 * Programe
 :PROPERTIES:
