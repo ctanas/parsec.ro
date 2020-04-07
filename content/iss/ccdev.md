@@ -33,16 +33,6 @@ _Demo Mission 2_
 -   **Doug Hurley** (pilot STS-135, Endeavor STS-127)
 
 
-## Boeing CFT (mijloc 2020) {#boeing-cft--mijloc-2020}
-
-_Crew Flight Test_
-
--   **Michael Fincke** (Soyuz TMA-4, Soyuz TMA-13, Endeavour STS-134)
-    -   l-a înlocuit pe Eric Boe, programat inițial pentru această misiune, dar care s-a retras din program în 2019 din motive medicale.
--   **Chris Ferguson** (Atlantis STS-115, Endeavour STS-126, Atlantis STS-135)
--   **Nicole Aunapu Mann** (primul zbor spațial)
-
-
 ## SpaceX PCM-1 (2020) {#spacex-pcm-1--2020}
 
 _Post Certification Mission 1_ (6 luni)
@@ -53,7 +43,17 @@ _Post Certification Mission 1_ (6 luni)
 -   **Soichi Noguchi** (_JAXA_) (Discovery STS-114, Soyuz TMA-17, 177 zile ISS)
 
 
-## Boeing PCM-1 (2020) {#boeing-pcm-1--2020}
+## Boeing CFT (2021) {#boeing-cft--2021}
+
+_Crew Flight Test_
+
+-   **Michael Fincke** (Soyuz TMA-4, Soyuz TMA-13, Endeavour STS-134)
+    -   l-a înlocuit pe Eric Boe, programat inițial pentru această misiune, dar care s-a retras din program în 2019 din motive medicale.
+-   **Chris Ferguson** (Atlantis STS-115, Endeavour STS-126, Atlantis STS-135)
+-   **Nicole Aunapu Mann** (primul zbor spațial)
+
+
+## Boeing PCM-1 (2021) {#boeing-pcm-1--2021}
 
 _Post Certification Mission 1_
 

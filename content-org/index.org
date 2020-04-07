@@ -341,14 +341,6 @@ Boeing a anunțat că misiunea OFT va fi repetată[fn:reoft1], nu mai devreme de
 - *Bob Behnken* (STS-123, STS-130, ambele Endeavour, 6 EVA = 37 ore)
 - *Doug Hurley* (pilot STS-135, Endeavor STS-127)
 
-*** Boeing CFT (mijloc 2020)
-/Crew Flight Test/
-
-- *Michael Fincke* (Soyuz TMA-4, Soyuz TMA-13, Endeavour STS-134)
-  - l-a înlocuit pe Eric Boe, programat inițial pentru această misiune, dar care s-a retras din program în 2019 din motive medicale.
-- *Chris Ferguson* (Atlantis STS-115, Endeavour STS-126, Atlantis STS-135)
-- *Nicole Aunapu Mann* (primul zbor spațial)
-
 *** SpaceX PCM-1 (2020)
 /Post Certification Mission 1/ (6 luni)
 
@@ -357,7 +349,15 @@ Boeing a anunțat că misiunea OFT va fi repetată[fn:reoft1], nu mai devreme de
 - *Shannon Walker* (Soyuz TMA-19, 163 zile ISS)
 - *Soichi Noguchi* (/JAXA/) (Discovery STS-114, Soyuz TMA-17, 177 zile ISS)
 
-*** Boeing PCM-1 (2020)
+*** Boeing CFT (2021)
+/Crew Flight Test/
+
+- *Michael Fincke* (Soyuz TMA-4, Soyuz TMA-13, Endeavour STS-134)
+  - l-a înlocuit pe Eric Boe, programat inițial pentru această misiune, dar care s-a retras din program în 2019 din motive medicale.
+- *Chris Ferguson* (Atlantis STS-115, Endeavour STS-126, Atlantis STS-135)
+- *Nicole Aunapu Mann* (primul zbor spațial)
+
+*** Boeing PCM-1 (2021)
 /Post Certification Mission 1/
 
 - *John Cassada* (primul zbor spațial)
@@ -368,6 +368,7 @@ De la ultima lansare a unei navetei spațiale americane cu echipaj (Atlantis, ST
 
 *** Note de subsol
 [fn:reoft1] https://boeing.mediaroom.com/2020-04-06-Boeing-Statement-on-Starliners-Next-Flight
+
 
 * Programe
 :PROPERTIES:
@@ -2282,6 +2283,36 @@ Marius Trusculescu, unul din membri echipei Goliat, primul satelit românesc, a 
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: bul
 :END:
+
+** TODO Buletin Cosmic nr. 71 :soyuz:ms19:bepicolombo:
+:PROPERTIES:
+:EXPORT_FILE_NAME: 071
+:EXPORT_DATE: 2020-04-15
+:END:
+
+*** Lansări orbitale
+
+Soyuz MS-19
+
+*** Alte evenimente
+
+survol BepiCololmbo
+
+** TODO Buletin Cosmic nr. 70 :starliner:boeing:
+:PROPERTIES:
+:EXPORT_FILE_NAME: 070
+:EXPORT_DATE: 2020-04-08
+:END:
+
+Boeing CST-100
+
+---
+
+Dragon
+
+---
+
+Starship SN3 
 
 ** Buletin Cosmic nr. 69 :atlasv:aehf:dragonxl:spacex:falconheavy:uranus:voyager2:
 :PROPERTIES:
