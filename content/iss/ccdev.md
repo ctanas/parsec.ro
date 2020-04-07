@@ -63,7 +63,7 @@ _Post Certification Mission 1_
 
 ## Note {#note}
 
-De la ultima lansare a unei navetei spațiale americane cu echipaj (Atlantis, STS-135, 8 iulie 2011) au trecut peste 3083 zile, cea mai lungă perioadă în care SUA nu a avut posibilitatea de a lansa astronauți pe orbită folosind soluții proprii (rachete și vehicule americane). Între Apollo-Soyuz (ASTP, 15 iulie 1975) și primul zbor al navetei spațiale (Columbia, STS-1, 12 aprilie 1981) au fost doar 2098 zile.
+De la ultima lansare a unei navetei spațiale americane cu echipaj (Atlantis, STS-135, 8 iulie 2011) au trecut peste 3200 zile, cea mai lungă perioadă în care SUA nu a avut posibilitatea de a lansa astronauți pe orbită folosind soluții proprii (rachete și vehicule americane). Între Apollo-Soyuz (ASTP, 15 iulie 1975) și primul zbor al navetei spațiale (Columbia, STS-1, 12 aprilie 1981) au fost doar 2098 zile.
 
 
 ## Note de subsol {#note-de-subsol}
