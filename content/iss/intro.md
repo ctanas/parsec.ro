@@ -17,16 +17,16 @@ Construcția ISS a însemnat asamblare pe orbită a [modulelor componente](<http
 
 | Nume            | Agn  | Sosire      | Data       | Plecare     | Data         |
 |-----------------|------|-------------|------------|-------------|--------------|
-| Andrew Morgan   | NASA | Soyuz MS-13 | 20.07.2019 | Soyuz MS-15 | _01.04.2020_ |
-| Oleg Skripochka | RSA  | Soyuz MS-15 | 25.09.2019 | Soyuz MS-15 | _01.04.2020_ |
-| Jessica Meir    | NASA | Soyuz MS-15 | 25.09.2019 | Soyuz MS-15 | _01.04.2020_ |
+| Andrew Morgan   | NASA | Soyuz MS-13 | 20.07.2019 | Soyuz MS-15 | _17.04.2020_ |
+| Oleg Skripochka | RSA  | Soyuz MS-15 | 25.09.2019 | Soyuz MS-15 | _17.04.2020_ |
+| Jessica Meir    | NASA | Soyuz MS-15 | 25.09.2019 | Soyuz MS-15 | _17.04.2020_ |
 
 
 ## Câte vehicule sunt în prezent andocate la ISS? {#câte-vehicule-sunt-în-prezent-andocate-la-iss}
 
 | Vehicul        | Lansare    | Rachetă     | Port   | Sosire     | Plecare      | Recuperare |
 |----------------|------------|-------------|--------|------------|--------------|------------|
-| Soyuz MS-15    | 25.09.2019 | Soyuz-FG    | Zvezda | 25.09.2019 | _01.04.2020_ | DA         |
+| Soyuz MS-15    | 25.09.2019 | Soyuz-FG    | Zvezda | 25.09.2019 | _17.04.2020_ | DA         |
 | Progress MS-13 | 06.12.2019 | Soyuz-2.1a  | Pirs   | 09.12.2019 | xx.xx.2020   | NU         |
 | Cygnus NG-13   | 15.02.2020 | Antares-230 | Unity  | 18.02.2020 | 11.05.2020   | NU         |
 

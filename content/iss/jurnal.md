@@ -4,6 +4,9 @@ author = ["Claudiu"]
 draft = false
 +++
 
+07.04.2020
+: Capsula Dragon CRS-10 se desprinde de modulul Harmony și revine cu bine pe Pământ; este ultima capsulă Dragon de primă generație folosită.
+
 02.04.2020
 : Progress MS-13 și-a activat motoarele pentru 427.2 secunde, crescând viteza ISS cu 0.48 m/s (419.3x440.9 km)
 
