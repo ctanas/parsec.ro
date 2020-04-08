@@ -6,9 +6,11 @@ draft = false
 
 | Nr. | Data        | Lansator     | Satelit        | Tip   | Țara    | Centru / Rampa  | Ținta | Rezultat         | Bul.           |
 |-----|-------------|--------------|----------------|-------|---------|-----------------|-------|------------------|----------------|
-|     | 29.04       | Falcon-9     | GPS-III SV03   | CNS   | SUA     | CC SLC-40       | MEO   | Programat        |                |
+|     | 30.06       | Falcon-9     | GPS-III SV03   | CNS   | SUA     | CC SLC-40       | MEO   | Programat        |                |
 |     | 25.04 01:51 | Soyuz-2.1a   | Progress MS-14 | NAV   | Rusia   | Baikonur 31/6   | ISS   | Programat        |                |
 |     | 24.04       | CZ-5B        | _ShenzhouNEXT_ | NAV   | China   | Wenchang LC-101 | LEO   | Programat[^fn:1] |                |
+|     | 16.04 21:31 | Falcon-9     | 60xStarlink-6  | COM   | SUA     | KSC LC-39A      | LEO   | Programat        |                |
+|     | 09.04 11:40 | CZ-3B        | Palapa-N1      | COM   | China   | Xichang         | GEO   | Programat        |                |
 |     | 09.04 08:05 | Soyuz-2.1a   | Soyuz MS-16    | CRW   | Rusia   | Baikonur 31/6   | ISS   | Programat        |                |
 | 24  | 26.03 19:18 | Atlas-V 551  | AEHF-6         | COM\* | SUA     | CC SLC-41       | GEO   | Succes[^fn:2]    | [69](/bul/069) |
 | 23  | 24.03 04:43 | CZ-2C        | 3x Yaogan 30   | COM\* | Chna    | Xichang         | LEO   | Succes           | [68](/bul/068) |
