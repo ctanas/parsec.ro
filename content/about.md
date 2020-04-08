@@ -29,9 +29,9 @@ Mulțumesc [Brandbura Productions](<https://www.facebook.com/Brandbura/>) pentru
 
 ## Detalii tehnice {#detalii-tehnice}
 
-Site-ul de față este generat din [Emacs](<https://www.gnu.org/software/emacs/>) folosind pachetul [ox-hugo](<https://ox-hugo.scripter.co/>) pentru transformarea [fișierului sursă](<https://github.com/ctanas/parsec.ro/blob/master/content-org/index.org>) din _org-mode_ în _Markdown_. [Hugo](<https://gohugo.io/>) preia aceste fișiere și generează fișerele statice HTML, îmbrăcate frumos într-o variantă ușor modificată a temei [alageek](<https://github.com/gkmngrgn/hugo-alageek-theme>), fișiere care sunt împinse în GitHub după fiecare modificare. [Netlify](<https://www.netlify.com/>) preia modificările din [GitHub](<https://github.com/ctanas/parsec-alageek>), generează o nouă versiune a paginilor modificate de fiecare dată când e cazul și afișează conținutul pe care îl aveți în fața voastră.
+Conținutul site-ul de față este generat din [Emacs](<https://www.gnu.org/software/emacs/>), folosind pachetul [ox-hugo](<https://ox-hugo.scripter.co/>) pentru transformarea textului din [fișierul sursă](<https://github.com/ctanas/parsec.ro/blob/master/content-org/index.org>) din _org-mode_ în _Markdown_. [Hugo](<https://gohugo.io/>) preia aceste fișiere _Markdown_ și generează fișerele statice HTML, îmbrăcate frumos într-o variantă ușor modificată a temei [alageek](<https://github.com/gkmngrgn/hugo-alageek-theme>), fișiere HTML fiind apoi împinse în GitHub, după fiecare modificare. [Netlify](<https://www.netlify.com/>) preia modificările din [GitHub](<https://github.com/ctanas/parsec-alageek>), generează o nouă versiune a paginilor modificate de fiecare dată când e cazul și afișează conținutul pe care îl aveți în fața voastră.
 
 
 ## Contact {#contact}
 
-Apreciez orice feedback, comentariu, sugestie, critică constructivă. Mă găsiți la adresa de mail contact@parsec.ro sau îmi puteți trimite un mesaj pe [Facebook](https://www.facebook.com/parsec.ro).
+Apreciez orice feedback, comentariu, sugestie, critică constructivă. Mă găsiți oricând la adresa de mail contact@parsec.ro sau îmi puteți trimite un mesaj pe pagina de [Facebook](https://www.facebook.com/parsec.ro).
