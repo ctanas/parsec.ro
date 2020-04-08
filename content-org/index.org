@@ -2300,21 +2300,46 @@ Soyuz MS-19
 
 survol BepiCololmbo
 
-** TODO Buletin Cosmic nr. 70 :starliner:boeing:
+** Buletin Cosmic nr. 70 :starliner:boeing:dragon:crs20:covid19:
 :PROPERTIES:
 :EXPORT_FILE_NAME: 070
 :EXPORT_DATE: 2020-04-08
 :END:
 
-Boeing CST-100
+*Boeing* a anunțat luni, 6 aprilie, că va repeta misiunea OFT a capsulei *CST-100 Starliner*, înainte ca la bordul capsulei să urce un echipaj[fn:reoftboeing]. Misiunea din decembrie s-a terminat prematur și fără ca Starliner să mai ajungă la ISS, din cauza unei probleme software, care a cauzat ratarea unei manevre în timpul operațiunilor de inserție orbitală. În urma anchetei au fost găsite și alte probleme cu softul de bord, deși capsula a a ajuns în cele din urmă cu bine pe Pământ[fn:reoftend] și oficiali ai Boeing au declarat că dacă un echipaj ar fi fost la bord, acesta nu s-ar fi aflat în nici un moment în pericol. În cele din urmă, din motive de siguranță, Boeing a anunțat că va suporta integral cheltuielile asociate cu un nou test, programat probabil pentru toamna acestui an, ceea ce înseamnă că sunt șanse aproape nule ca Starliner să lanseze un echipaj în acest an. SpaceX continuă pregătirile pentru zborul din această primăvară și dacă totul merge bine, are mari șanse să efectueze două zboruri cu echipaj spre Stația Spațială Internațională înainte ca astronauții să urce la bordul CST-100 Starliner. 
 
 ---
 
-Dragon
+Ultima capsulă *Dragon* de primă generație s-a desprins marți, 7 aprilie, de Stația Spațială Internațională[fn:isscrs20] și a fost ulterior recuperată cu succes din apele Oceanului Pacific. Aceasta a dus de pe ISS și o serie de experimente științifice, fiind în acest moment singura variantă prin care aceste experimente pot ajunge înapoi pe Pământ (capsula Soyuz are un volum limitat și prioritate are echipajul de la bord). Misiunea CRS-20 a fost a 20-a și ultima care a folosit acest tip de capsulă Dragon, în viitor SpaceX va folosi capsule de generație nouă, Dragon2, atât pentru zboruri cargo, cât și pentru zboruri cu echipaj la bord, capsule care vor andoca direct cu ISS, fără ajutorul brațului robotic al stației. A fost pentru a treia oară când această capsulă a zburat în spațiu, după ce a mai fost folosită și pentru misiunile CRS-10 (2017) și CRS-16 (2018).
+
+#+CAPTION: Capsula Dragon CRS-20, cu câteva momente înainte de a se desprinde de brațul robotic Canadarm2 al ISS (/Sursa foto: [[https://twitter.com/AstroDrewMorgan/status/1247582311488487424][Andrew Morgan-NASA]]/)
+[[/img/dragon_crs20.jpg]]
 
 ---
 
-Starship SN3 
+Un nou prototip *Starship* [[https://www.youtube.com/watch?v=wFXQ5SRCy74][a fost distrus în urma unui test]]: este vorba despre SN3, care a cedat duminică, 5 aprilie, la centrul *SpaceX* de la Boca Chica, Texas. Din fericire nu este vorba despre o nouă problemă de design, ci mai mult a fost o problemă de derulare a testului: în timp ce rezervorul superior a fost umplut cu combustibil, partea inferioară nu a fost prezurizată și în cele din urmă a cedat, avariind însă întreg vehiculul. Starship SN4 se află deja într-o fază avansată a construcției și a devenit rapid propritatea echipei de ingineri care se ocupă de proiectul Starship.
+
+---
+
+Răspândirea virusului *SARS-CoV-2* continuă să afecteze activitățile spațiale. SpaceX a anunțat recent că cel puțin 6 angajați au fost testați pozitiv cu noul virus[fn:spx6cas], iar lansarea unui satelit GPS pentru forțele aeriene ale Statelor Unite de către o rachetă Falcon 9 a fost amânată din 29 aprilie pentru 30 iunie[fn:spxgps3a]. Cu toate acestea, continuă pregătirile pentru lansarea săptămâna viitoare a unui nou set de sateliți Starlink, deși în prezent nici o lansare de pe rampele din Statele Unite ale Americii nu are stabilită o dată fixă. Lansarea sateliților Starlink ar putea totuși avea loc, fiind o activitate internă SpaceX, care nu are legătură cu terțe părți, în afara suportului tehnic oferit de armata SUA pentru lansarea propriu-zisă (sisteme radar, prognoze meteo etc). Restul lansărilor din Guiana Franceză[fn:arianecrna], Japonia sau India sunt amânate pentru o perioadă nedeterminată, China fiind singura putere spațială care ar putea continua lansările orbitale în această perioadă, împreună cu Rusia, care continuă să susțină activitatea de la bordul Stației Spațiale Internaționale.
+
+#+CAPTION: Al treilea satelit GPS-III (a treia generație), fotografiat după ce a ajuns la Cape Canaveral, unde este pregătit pentru lansarea la bordul unei rachete Falcon 9 (/Sursa foto: [[https://www.lockheedmartin.com/en-us/products/gps.html][Lockheed Martin]]/)
+[[/img/gps303.png]]
+
+În Rusia, tot din cauza COVID-19, antrenamentul celor 4 viitori astronauți indieni, care a început în februarie, a fost suspendat[fn:crnagang1]. Aceștia se pregătesc la centrul Yuri Gagarin de lângă Moscova să devină primii indieni lansați în spațiu folosind rachete produse și lansate din India, activitate ce face parte din programului Gangayaan al Agenției Spațiale Indiene, program care are ca țintă lansarea primilor astronauți la finalul anului viitor sau, cel mai probabil, în 2022. Până atunci India urmează să certifice racheta GSLV Mk.3 pentru zboruri cu echipaj și să testeze capsula care-i va transporta pe orbită pe astronauții indieni.
+
+Dacă în 24 martie Agenția Spațială Europeană (ESA) a declarat că suspendă patru misiuni spațiale din cauza COVID-19, în 2 aprilie ESA a renunțat la această măsură și a reactivat sondele Cluster, Mars Express, Exomars Trace Gas Orbiter și Solar Orbiter[fn:esacrnaresume]. Unul dintre angajații centrului de comandă din Darmstadt (Germania) a fost testat pozitiv și ar fi intrat în contact cu alți 20 de angajați ai centrului, iar izolarea acestora a dus restrângerea temporară a activităților centrului de comandă. Intrarea în hibernare a sondei Mars Express a afectat și misiunile americane Curiosity și InSight, care foloseau sonda europeană ca releu pentru transmiterea datelor de pe suprafața planetei spre Pământ.
+
+*** Note de subsol
+
+[fn:spx6cas] https://www.cnbc.com/2020/04/06/spacex-coronavirus-cases-six-employees-test-positive-for-covid-19.html
+[fn:spxgps3a] https://www.spaceforce.mil/News/Article/2141251/smc-reschedules-gps-iii-3-launch
+[fn:crnagang1] https://www.outlookindia.com/newsscroll/training-of-gaganyaan-astronauts-in-russia-put-on-hold-due-to-lockdown-sources/1793680
+[fn:arianecrna] https://www.arianespace.com/press-release/covid-19-guiana-space-center-suspends-launch-campaigns/
+[fn:esacrnaresume] https://spacenews.com/esa-restores-operations-of-space-science-missions/
+[fn:reoftboeing] https://boeing.mediaroom.com/2020-04-06-Boeing-Statement-on-Starliners-Next-Flight
+[fn:reoftend] https://boeing.mediaroom.com/2019-12-22-Boeing-Starliner-Completes-First-Orbital-Flight-Test-with-Successful-Landing
+[fn:isscrs20] https://blogs.nasa.gov/spacestation/2020/04/07/dragon-leaves-station-returns-to-earth-with-valuable-science/
 
 ** Buletin Cosmic nr. 69 :atlasv:aehf:dragonxl:spacex:falconheavy:uranus:voyager2:
 :PROPERTIES:
