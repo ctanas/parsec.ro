@@ -4,8 +4,11 @@ author = ["Claudiu"]
 draft = false
 +++
 
+09.04.2020
+: Soyuz MS-16 (Ivanishin, Vagner, Cassidy) este lansată și andochează după 6 ore cu ISS la portul _Poisk_.
+
 07.04.2020
-: Capsula Dragon CRS-10 se desprinde de modulul Harmony și revine cu bine pe Pământ; este ultima capsulă Dragon de primă generație folosită.
+: Capsula Dragon CRS-10 se desprinde de modulul Harmony și revine cu bine pe Pământ; este ultima capsulă Dragon de primă generație folosită;
 
 02.04.2020
 : Progress MS-13 și-a activat motoarele pentru 427.2 secunde, crescând viteza ISS cu 0.48 m/s (419.3x440.9 km)
@@ -90,7 +93,7 @@ draft = false
 : HTV-8 andochează la portul _Harmony nadir_, după ce a fost lansată în 24.09.2010;
 
 25.09.2019
-: Soyuz MS-15 (Skripochka, Meir, Mansouri)  este lansată și andochează după 6 ore cu ISS;
+: Soyuz MS-15 (Skripochka, Meir, Mansouri) este lansată și andochează după 6 ore cu ISS;
 
 06.08.2019
 : Soyuz MS-14 revine cu bine înapoi pe Pământ;

@@ -188,13 +188,17 @@ Construcția ISS a însemnat asamblare pe orbită a [modulelor componente](https
 
 În prezent sunt 6 astronauți la bordul Stației Spațiale Internaționale, parte a Expdiției 61:
 
-| Nume              | Agn   | Sosire      |       Data | Plecare     | Data       |
-|-------------------+-------+-------------+------------+-------------+------------|
-| Andrew Morgan     | NASA  | Soyuz MS-13 | 20.07.2019 | Soyuz MS-15 | /17.04.2020/ |
-|-------------------+-------+-------------+------------+-------------+------------|
-| Oleg Skripochka   | RSA   | Soyuz MS-15 | 25.09.2019 | Soyuz MS-15 | /17.04.2020/ |
-| Jessica Meir      | NASA  | Soyuz MS-15 | 25.09.2019 | Soyuz MS-15 | /17.04.2020/ |
-|-------------------+-------+-------------+------------+-------------+------------|
+| Nume              | Agn  | Sosire      |       Data | Plecare     | Data       |
+|-------------------+------+-------------+------------+-------------+------------|
+| Andrew Morgan     | NASA | Soyuz MS-13 | 20.07.2019 | Soyuz MS-15 | /17.04.2020/ |
+|-------------------+------+-------------+------------+-------------+------------|
+| Oleg Skripochka   | RSA  | Soyuz MS-15 | 25.09.2019 | Soyuz MS-15 | /17.04.2020/ |
+| Jessica Meir      | NASA | Soyuz MS-15 | 25.09.2019 | Soyuz MS-15 | /17.04.2020/ |
+|-------------------+------+-------------+------------+-------------+------------|
+| Anatoli Ivanishin | RSA  | Soyuz MS-16 | 09.04.2020 | Soyuz MS-16 | xx.10.2020 |
+| Ivan Vagner       | RSA  | Soyuz MS-16 | 09.04.2020 | Soyuz MS-16 | xx.10.2020 |
+| Cris Cassidy      | NASA | Soyuz MS-16 | 09.04.2020 | Soyuz MS-16 | xx.10.2020 |
+
 
 *** Câte vehicule sunt în prezent andocate la ISS?
 
@@ -203,6 +207,7 @@ Construcția ISS a însemnat asamblare pe orbită a [modulelor componente](https
 | Soyuz MS-15    | 25.09.2019 | Soyuz-FG    | Zvezda | 25.09.2019 | /17.04.2020/ | DA         |
 | Progress MS-13 | 06.12.2019 | Soyuz-2.1a  | Pirs   | 09.12.2019 | xx.xx.2020 | NU         |
 | Cygnus NG-13   | 15.02.2020 | Antares-230 | Unity  | 18.02.2020 | 11.05.2020 | NU         |
+| Soyuz MS-16    | 09.04.2020 | Soyuz-2.1a  | Poisk  | 09.04.2020 | xx.10.2020 | DA         |
 
 *** Câți astronauți sunt de obicei la bordul ISS?
 
@@ -216,7 +221,8 @@ Da! Datorită panourilor solare de mari dimensiuni, ISS poate fi văzută cu uș
 :EXPORT_FILE_NAME: jurnal
 :END:
 
-- 07.04.2020 :: Capsula Dragon CRS-10 se desprinde de modulul Harmony și revine cu bine pe Pământ; este ultima capsulă Dragon de primă generație folosită.
+- 09.04.2020 :: Soyuz MS-16 (Ivanishin, Vagner, Cassidy) este lansată și andochează după 6 ore cu ISS la portul /Poisk/.
+- 07.04.2020 :: Capsula Dragon CRS-10 se desprinde de modulul Harmony și revine cu bine pe Pământ; este ultima capsulă Dragon de primă generație folosită;
 - 02.04.2020 :: Progress MS-13 și-a activat motoarele pentru 427.2 secunde, crescând viteza ISS cu 0.48 m/s (419.3x440.9 km)
 - 19.03.2020 :: Progress MS-13 și-a activat motoarele pentru 534 de secunde, crescând viteza ISS cu 0.6 m/s (416.68x439.57 km)
 - 09.03.2020 :: Capsula Dragon CRS-20 andochează la portul Harmony, după lansarea din 09.03.2020.
@@ -245,7 +251,7 @@ Da! Datorită panourilor solare de mari dimensiuni, ISS poate fi văzută cu uș
 ---
 - 03.10.2019 :: Soyuz MS-12 revine pe Pământ cu Ovcinin, Hague, Mansouri;
 - 28.09.2019 :: HTV-8 andochează la portul /Harmony nadir/, după ce a fost lansată în 24.09.2010;
-- 25.09.2019 :: Soyuz MS-15 (Skripochka, Meir, Mansouri)  este lansată și andochează după 6 ore cu ISS;
+- 25.09.2019 :: Soyuz MS-15 (Skripochka, Meir, Mansouri) este lansată și andochează după 6 ore cu ISS;
 - 06.08.2019 :: Soyuz MS-14 revine cu bine înapoi pe Pământ;
 - 27.08.2019 :: Soyuz MS-14 andochează la portul /Zvezda; Dragon CRS-18 se desprinde de modulul /Harmony/ și revine cu bine pe Pământ;
 - 26.08.2019 :: Skortsov, Parmitano și Morgan urcă la bordul Soyuz MS-13 și mută capsula de la portul /Zvezda/ la /Poisk/; 
@@ -2296,7 +2302,7 @@ Marius Trusculescu, unul din membri echipei Goliat, primul satelit românesc, a 
 
 *** Lansări orbitale
 
-Joi, 9 aprilie, capsula *Soyuz MS-16* a fost lansată de la Baikonur, folosindu-se pentru prima dată în lansarea unei capsule cu echipaj o rachetă Soyuz-2.1a, după ce mai vechea rachetă Soyuz-FG a fost retrasă din uz anul trecut. Cei trei membri ai echiapjului, Anatoli Ivanishin, Ivan Vagner și Chris Cassidy, au făcut 6 ore până au adocat cu Stația Spațială Internațională, unde vor rămâne timp de aproximativ 6 luni. Ivanishin și Cassidy se află la cel de-al treilea zbor orbital, în timp ce Vagner este la prima sa lansare în spațiu. Inițial din echipaj trebuia să facă parte Nikolai Tikhonov și Andrei Babkin, dar din motive medicale (o accidentare nefericită a lui Tikhonov), cei doi au fost înlocuiți cu echipajul de rezervă. În acest moment, la bordul Stației Spațiale Internaționale se află 6 astronauți, dar Andrew Morgan, Oleg Skripochka și Jessica Meir vor reveni pe Pământ la bordul capsulei Soyuz MS-15 în 17 aprilie.
+Joi, 9 aprilie, de la ora 11:05, capsula *Soyuz MS-16* a fost lansată de la Baikonur, folosindu-se pentru prima dată în lansarea unei capsule cu echipaj o rachetă Soyuz-2.1a, după ce mai vechea rachetă Soyuz-FG a fost retrasă din uz anul trecut. Cei trei membri ai echiapjului, Anatoli Ivanishin, Ivan Vagner și Chris Cassidy, au făcut 6 ore până au adocat cu Stația Spațială Internațională, unde vor rămâne timp de aproximativ 6 luni. Andocarea a avut loc la ora 17:13. Ivanishin și Cassidy se află la cel de-al treilea zbor orbital, în timp ce Vagner este la prima sa lansare în spațiu. Inițial din echipaj trebuia să facă parte Nikolai Tikhonov și Andrei Babkin, dar din motive medicale (o accidentare nefericită a lui Tikhonov), cei doi au fost înlocuiți cu echipajul de rezervă. În acest moment, la bordul Stației Spațiale Internaționale se află 6 astronauți, dar Andrew Morgan, Oleg Skripochka și Jessica Meir vor reveni pe Pământ la bordul capsulei Soyuz MS-15 în 17 aprilie.
 
 #+CAPTION: Lansarea primei rachete Sozyu-2.1a cu o capsulă cu echipaj la bord (Soyuz MS-16) de la cosmodromul din Baikonur. A fost al 102-lea zbor al unei rachete Soyuz. (Sursa foto: [[https://twitter.com/roscosmos/status/1248216758969937920][Roscosmos]])
 [[/img/soyuzms16r.jpg]]
