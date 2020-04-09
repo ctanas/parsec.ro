@@ -33,7 +33,7 @@ _Demo Mission 2_
 -   **Doug Hurley** (pilot STS-135, Endeavor STS-127)
 
 
-## SpaceX PCM-1 (2020) {#spacex-pcm-1--2020}
+## SpaceX PCM-1 (august 2020) {#spacex-pcm-1--august-2020}
 
 _Post Certification Mission 1_ (6 luni)
 
@@ -43,7 +43,14 @@ _Post Certification Mission 1_ (6 luni)
 -   **Soichi Noguchi** (_JAXA_) (Discovery STS-114, Soyuz TMA-17, 177 zile ISS)
 
 
-## Boeing CFT (2021) {#boeing-cft--2021}
+## Boeing OFT-2 (octombrie 2020) {#boeing-oft-2--octombrie-2020}
+
+_Orbital Flight Test 2_
+
+-   fără echipaj
+
+
+## Boeing CFT (martie 2021) {#boeing-cft--martie-2021}
 
 _Crew Flight Test_
 
@@ -53,12 +60,13 @@ _Crew Flight Test_
 -   **Nicole Aunapu Mann** (primul zbor spațial)
 
 
-## Boeing PCM-1 (2021) {#boeing-pcm-1--2021}
+## Boeing PCM-1 (august 2021) {#boeing-pcm-1--august-2021}
 
 _Post Certification Mission 1_
 
 -   **John Cassada** (primul zbor spațial)
--   **Sunita Williams** (322 zile pe în spațiu, 7 EVA, Discovery STS-116, Atlantis STS-117, Soyuz TMA-05M)
+-   **Sunita Williams** (322 zile petrecute în spațiu, 7 EVA, Discovery STS-116, Atlantis STS-117, Soyuz TMA-05M)
+-   **Thomas Pesquet** (196 zile petrecute în spațiu, Soyuz MS-03)
 
 
 ## Note {#note}

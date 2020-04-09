@@ -348,7 +348,7 @@ Boeing a anunțat că misiunea OFT va fi repetată[fn:reoft1], nu mai devreme de
 - *Bob Behnken* (STS-123, STS-130, ambele Endeavour, 6 EVA = 37 ore)
 - *Doug Hurley* (pilot STS-135, Endeavor STS-127)
 
-*** SpaceX PCM-1 (2020)
+*** SpaceX PCM-1 (august 2020)
 /Post Certification Mission 1/ (6 luni)
 
 - *Victor Glover* (primul zbor spațial)
@@ -356,7 +356,11 @@ Boeing a anunțat că misiunea OFT va fi repetată[fn:reoft1], nu mai devreme de
 - *Shannon Walker* (Soyuz TMA-19, 163 zile ISS)
 - *Soichi Noguchi* (/JAXA/) (Discovery STS-114, Soyuz TMA-17, 177 zile ISS)
 
-*** Boeing CFT (2021)
+*** Boeing OFT-2 (octombrie 2020) 
+/Orbital Flight Test 2/
+- fără echipaj
+
+*** Boeing CFT (martie 2021)
 /Crew Flight Test/
 
 - *Michael Fincke* (Soyuz TMA-4, Soyuz TMA-13, Endeavour STS-134)
@@ -364,11 +368,12 @@ Boeing a anunțat că misiunea OFT va fi repetată[fn:reoft1], nu mai devreme de
 - *Chris Ferguson* (Atlantis STS-115, Endeavour STS-126, Atlantis STS-135)
 - *Nicole Aunapu Mann* (primul zbor spațial)
 
-*** Boeing PCM-1 (2021)
+*** Boeing PCM-1 (august 2021)
 /Post Certification Mission 1/
 
 - *John Cassada* (primul zbor spațial)
-- *Sunita Williams* (322 zile pe în spațiu, 7 EVA, Discovery STS-116, Atlantis STS-117, Soyuz TMA-05M)
+- *Sunita Williams* (322 zile petrecute în spațiu, 7 EVA, Discovery STS-116, Atlantis STS-117, Soyuz TMA-05M)
+- *Thomas Pesquet* (196 zile petrecute în spațiu, Soyuz MS-03)
 
 *** Note
 De la ultima lansare a unei navetei spațiale americane cu echipaj (Atlantis, STS-135, 8 iulie 2011) au trecut peste 3200 zile, cea mai lungă perioadă în care SUA nu a avut posibilitatea de a lansa astronauți pe orbită folosind soluții proprii (rachete și vehicule americane). Între Apollo-Soyuz (ASTP, 15 iulie 1975) și primul zbor al navetei spațiale (Columbia, STS-1, 12 aprilie 1981) au fost doar 2098 zile.
@@ -2303,14 +2308,14 @@ Marius Trusculescu, unul din membri echipei Goliat, primul satelit românesc, a 
 
 *** Lansări orbitale
 
-Joi, 9 aprilie, de la ora 11:05, capsula *Soyuz MS-16* a fost lansată de la Baikonur, folosindu-se pentru prima dată în lansarea unei capsule cu echipaj o rachetă Soyuz-2.1a, după ce mai vechea rachetă Soyuz-FG a fost retrasă din uz anul trecut. Cei trei membri ai echiapjului, Anatoli Ivanishin, Ivan Vagner și Chris Cassidy, au făcut 6 ore până au adocat cu Stația Spațială Internațională, unde vor rămâne timp de aproximativ 6 luni. Andocarea a avut loc la ora 17:13. Ivanishin și Cassidy se află la cel de-al treilea zbor orbital, în timp ce Vagner este la prima sa lansare în spațiu. Inițial din echipaj trebuia să facă parte Nikolai Tikhonov și Andrei Babkin, dar din motive medicale (o accidentare nefericită a lui Tikhonov), cei doi au fost înlocuiți cu echipajul de rezervă. În acest moment, la bordul Stației Spațiale Internaționale se află 6 astronauți, dar Andrew Morgan, Oleg Skripochka și Jessica Meir vor reveni pe Pământ la bordul capsulei Soyuz MS-15 în 17 aprilie.
+Joi, 9 aprilie, de la ora 11:05, capsula *Soyuz MS-16* a fost lansată de la Baikonur, folosindu-se pentru prima dată în lansarea unei capsule cu echipaj o rachetă Soyuz-2.1a, după ce mai vechea rachetă Soyuz-FG a fost retrasă din uz anul trecut. Cei trei membri ai echiapjului, Anatoli Ivanishin, Ivan Vagner și Chris Cassidy, au făcut 6 ore până au adocat cu Stația Spațială Internațională, unde vor rămâne timp de aproximativ 6 luni. Andocarea a avut loc la ora 17:13. Ivanishin și Cassidy se află la cel de-al treilea zbor orbital, în timp ce Vagner este la prima sa lansare în spațiu. Inițial din echipaj trebuia să facă parte Nikolai Tikhonov și Andrei Babkin, dar din motive medicale (o accidentare nefericită a lui Tikhonov), cei doi au fost înlocuiți cu echipajul de rezervă. În acest moment, la bordul Stației Spațiale Internaționale se află 6 astronauți, dar Andrew Morgan, Oleg Skripochka și Jessica Meir vor reveni pe Pământ la bordul capsulei Soyuz MS-15, în 17 aprilie.
 
 #+CAPTION: Lansarea primei rachete Sozyu-2.1a cu o capsulă cu echipaj la bord (Soyuz MS-16) de la cosmodromul din Baikonur. A fost al 102-lea zbor al unei rachete Soyuz. (Sursa foto: [[https://twitter.com/roscosmos/status/1248216758969937920][Roscosmos]])
 [[/img/soyuzms16r.jpg]]
 
 ---
 
-Tot joi, din China a avut loc o nouă lansare orbitală, o rachetă *Changzheng-3B* a decolat de la centrul spațial Xichang și trebuia să urce pe orbită geostaționară satelitul de telecomunicații indonezian Palapa-N1, construit de China. Din păcare, lansarea a eșuat, din cauza unor probleme tehnice ale celei de-a treia trepte[fn:bul71a], fiind al doilea eșec al Chinei din acest an, după eșecul rachetei Changzheng-7A de luna trecută. Satelitul pierdut urma să înlocuiască mai vechiul satelit Palapa-D, construit de compania europeană Thales-Alenia și lansat în 2009. Acesta a ajuns la finalul vieții, prin diminuarea rezervelor de combustibil de la bord. Noul satelit Palapa-N1 cântărea 5550 de kilograme și urma să devină activ în luna iunie. Pentru această lansare a fost folosită versiunea G2 a rachetei Changzheng-3B care permite lansarea de cel mult 5550 kg spre orbită geostaționară, spre deosebire de varianta normală a rachetei, care poate urca dar 11.2 tone pe orbită terestră joasă sau 5.1 tone pe orbită geostaționară. Changzheng-3B este principala rachetă chinezească folosită pentru lansări spre orbită geostațonară și urma să lanseze în următoarea perioadă ultimii doi sateliți Beidou, care ar fi completat în primă fază constelația de sateliți de geolocație a Chinei.
+Tot joi, din China a avut loc o nouă lansare orbitală, o rachetă *Changzheng-3B* a decolat de la centrul spațial Xichang și trebuia să urce pe orbită geostaționară satelitul de telecomunicații indonezian Palapa-N1, construit de China. Din păcare, lansarea a eșuat, din cauza unor probleme tehnice ale celei de-a treia trepte[fn:bul71a], fiind al doilea eșec al Chinei din acest an, după eșecul rachetei Changzheng-7A de luna trecută. Satelitul pierdut urma să înlocuiască mai vechiul satelit Palapa-D, construit de compania europeană Thales-Alenia și lansat în 2009, tot de o rachetă Changzheng-3B care și atunci a avut o problemă cu unul din cele două motoare ale celei de-a treia trepte, rezultând într-o orbită inferioară celei planificate, dar satelitul a reușit să-și folosească propulsoarele de la bord pentru a ajunge în cel din urmă pe orbita corectă. Din acest motiv, scesta a ajuns la finalul vieții mai repede, după 10 ani și nu după 15, așa cum ar fi fost normal, prin diminuarea rezervelor de combustibil de la bord. Noul satelit Palapa-N1 cântărea 5550 de kilograme și urma să devină activ în luna iunie. Pentru această lansare a fost folosită versiunea G2 a rachetei Changzheng-3B care permite lansarea de cel mult 5550 kg spre orbită geostaționară, spre deosebire de varianta normală a rachetei, care poate urca dar 11.2 tone pe orbită terestră joasă sau 5.1 tone pe orbită geostaționară. Changzheng-3B este principala rachetă chinezească folosită pentru lansări spre orbită geostațonară și urma să lanseze în următoarea perioadă ultimii doi sateliți Beidou, care ar fi completat în primă fază constelația de sateliți de geolocație a Chinei.
 
 *** Alte evenimente
 
