@@ -10,8 +10,8 @@ draft = false
 |     | 25.04 01:51 | Soyuz-2.1a   | Progress MS-14 | NAV   | Rusia   | Baikonur 31/6   | ISS   | _Programat_        |                |
 |     | 24.04       | CZ-5B        | _ShenzhouNEXT_ | NAV   | China   | Wenchang LC-101 | LEO   | _Programat_[^fn:1] |                |
 |     | 16.04 21:31 | Falcon-9     | 60xStarlink-6  | COM   | SUA     | KSC LC-39A      | LEO   | _Programat_        |                |
-|     | 09.04 11:40 | CZ-3B        | Palapa-N1      | COM   | China   | Xichang         | GEO   | _Programat_        |                |
-|     | 09.04 08:05 | Soyuz-2.1a   | Soyuz MS-16    | CRW   | Rusia   | Baikonur 31/6   | ISS   | _Programat_[^fn:2] |                |
+| 27  | 09.04 11:45 | CZ-3B        | Palapa-N1      | COM   | China   | Xichang         | GEO   | _Programat_        | 71             |
+| 26  | 09.04 08:05 | Soyuz-2.1a   | Soyuz MS-16    | CRW   | Rusia   | Baikonur 31/6   | ISS   | Succes//[^fn:2]    | 71             |
 | 24  | 26.03 19:18 | Atlas-V 551  | AEHF-6         | COM\* | SUA     | CC SLC-41       | GEO   | Succes[^fn:3]      | [69](/bul/069) |
 | 23  | 24.03 04:43 | CZ-2C        | 3x Yaogan 30   | COM\* | Chna    | Xichang         | LEO   | Succes             | [68](/bul/068) |
 | 22  | 21.03 17:06 | Soyuz-2.1b   | 34x OneWeb-3   | COM   | Europa  | Baikonur 31/6   | LEO   | Succes             | [68](/bul/068) |
@@ -43,12 +43,12 @@ draft = false
 | Țara      | Nr.    | Lansări   |
 |-----------|--------|-----------|
 | SUA       | 9      | IIIIIIIII |
-| China     | 7      | IIIIIXI   |
+| China     | 8      | IIIIIXII  |
 | Europa    | 4      | IIII      |
-| Rusia     | 2      | III       |
+| Rusia     | 4      | IIII      |
 | Japonia   | 1      | I         |
 | Iran      | 1      | X         |
-| **TOTAL** | **24** |           |
+| **TOTAL** | **27** |           |
 
 
 ## Legendă tabel {#legendă-tabel}

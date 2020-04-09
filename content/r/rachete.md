@@ -14,7 +14,7 @@ draft = false
 | Falcon Heavy    | SUA  | SpaceX      | 2018  | 27xMerlin    | 63.8  |        | 26.7  | 3       | 3       | 0       | 25.06.2019 |
 | Minotaur-C      | SUA  | NGSSG       | 1994  | Castor(S)    | 1.3t  |        |       | 10      | 7       | 3       | 31.10.2017 |
 | Minotaur V      | SUA  | NGSSG       | 2013  | Castor(S)    |       |        | 0.53t | 1       | 1       | 0       | 07.09.2013 |
-| Soyuz-2         | RUS  | Roscosmos   | 2004  | 1xRD-108A    | 8.2t  | 4.9t   | 3.2t  | 101     | 94      | 4+(3)   | 21.03.2020 |
+| Soyuz-2         | RUS  | Roscosmos   | 2004  | 1xRD-108A    | 8.2t  | 4.9t   | 3.2t  | 102     | 95      | 4+(3)   | 09.04.2020 |
 | Proton-M        | RUS  | Roscosmos   | 2001  | 6xRD-275M    | 23t   |        | 6.3   | 109     | 98      | 9+(2)   | 24.12.2019 |
 | Rockot          | RUS  | Roscosmos   | 1994  | 3xRD-0233    | 1.9t  | 1.2t   |       | 34      | 31      | 2+(1)   | 27.12.2019 |
 | Angara          | RUS  | Roscosmos   | 2014  | 1xRD-191     | 3.8t  |        | 5.4t  | 2       | 2       | 0       | 23.12.2014 |
@@ -22,7 +22,7 @@ draft = false
 | Changzheng-2D   | CHN  | CNSA        | 1992  | 4xYF-21C     | 3.5t  | 1.3t   |       | 46      | 45      | 1       | 19.02.2020 |
 | Changzheng-2F   | CHN  | CNSA        | 1999  | 4xYF-20B     | 8.4t  |        |       | 13      | 13      | 0       | 16.10.2016 |
 | Changzheng-3A   | CHN  | CNSA        | 1994  | 4xYF-21C     | 8.5t  |        | 2.6t  | 27      | 27      | 0       | 09.07.2018 |
-| Changzheng-3B   | CHN  | CNSA        | 1996  | 4xYF-21C     | 11.5t | 7.1t   | 5.5t  | 66      | 63      | 1+(2)   | 09.03.2020 |
+| Changzheng-3B   | CHN  | CNSA        | 1996  | 4xYF-21C     | 11.5t | 7.1t   | 5.5t  | 67      | 64      | 1+(2)   | 08.04.2020 |
 | Changzheng-3C   | CHN  | CNSA        | 2008  | 4xYF-21C     |       |        | 3.9t  | 17      | 17      | 0       | 17.05.2019 |
 | Changzheng-4B   | CHN  | CNSA        | 1999  | 4xYF-21C     | 4.2t  | 2.8t   | 1.5t  | 35      | 34      | 1       | 20.12.2019 |
 | Changzheng-4C   | CHN  | CNSA        | 2006  | 4xYF-21C     | 4.2t  | 2.8t   | 1.5t  | 28      | 26      | 2       | 27.11.2019 |
