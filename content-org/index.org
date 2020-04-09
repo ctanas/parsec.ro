@@ -674,8 +674,8 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 |     | 25.04 01:51 | Soyuz-2.1a   | Progress MS-14 | NAV  | Rusia   | Baikonur 31/6   | ISS   | /Programat/         |      |
 |     | 24.04       | CZ-5B        | /ShenzhouNEXT/   | NAV  | China   | Wenchang LC-101 | LEO   | /Programat/[fn:126] |      |
 |     | 16.04 21:31 | Falcon-9     | 60xStarlink-6  | COM  | SUA     | KSC LC-39A      | LEO   | /Programat/         |      |
-|  27 | 09.04 11:45 | CZ-3B        | Palapa-N1      | COM  | China   | Xichang         | GEO   | /Programat/         | 71   |
-|  26 | 09.04 08:05 | Soyuz-2.1a   | Soyuz MS-16    | CRW  | Rusia   | Baikonur 31/6   | ISS   | Succes//[fn:127]  | 71   |
+|  27 | 09.04 11:45 | CZ-3B        | Palapa-N1      | COM  | China   | Xichang         | GEO   | Eșec[fn:128]      | 71   |
+|  26 | 09.04 08:05 | Soyuz-2.1a   | Soyuz MS-16    | CRW  | Rusia   | Baikonur 31/6   | ISS   | Succes[fn:127]    | 71   |
 |  24 | 26.03 19:18 | Atlas-V 551  | AEHF-6         | COM* | SUA     | CC SLC-41       | GEO   | Succes[fn:125]    | [[/bul/069][69]]   |
 |  23 | 24.03 04:43 | CZ-2C        | 3x Yaogan 30   | COM* | Chna    | Xichang         | LEO   | Succes            | [[/bul/068][68]]   |
 |  22 | 21.03 17:06 | Soyuz-2.1b   | 34x OneWeb-3   | COM  | Europa  | Baikonur 31/6   | LEO   | Succes            | [[/bul/068][68]]   |
@@ -708,7 +708,7 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 | Țara    | Nr. | Lansări   |
 |---------+-----+-----------|
 | SUA     |   9 | IIIIIIIII |
-| China   |   8 | IIIIIXII  |
+| China   |   8 | IIIIIXIX  |
 | Europa  |   4 | IIII      |
 | Rusia   |   4 | IIII      |
 | Japonia |   1 | I         |
@@ -752,6 +752,7 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 [fn:125] A 500-a lansare a unei trepte superioare propulsate de un motor RL-10 și prima lansare pentru noa ramură a armatei americane US Space Force.
 [fn:126] Prima lansarea a variante Changzheng-5B, derivată din Changzheng-5, dar destinată orbitei terestre joase (LEO); zborul este dedicat testării noii capsule care urmează să fie folosite pentru viitoare lansări cu echipaj.
 [fn:127] Prima lansare a unui echipaj la bordul unei rachete Soyuz-2.
+[fn:128] Din cauza unor probleme cu cea de-a treia treaptă, lansarea a eșuat și satelitul a fost pierdut.
 
 *** Lansări orbitale 2019
 :PROPERTIES:
@@ -933,7 +934,7 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 | Changzheng-2D    | CHN  | CNSA        |  1992 | 4xYF-21C     | 3.5t  | 1.3t   |       |      46 |      45 |       1 | 19.02.2020 |
 | Changzheng-2F    | CHN  | CNSA        |  1999 | 4xYF-20B     | 8.4t  |        |       |      13 |      13 |       0 | 16.10.2016 |
 | Changzheng-3A    | CHN  | CNSA        |  1994 | 4xYF-21C     | 8.5t  |        | 2.6t  |      27 |      27 |       0 | 09.07.2018 |
-| Changzheng-3B    | CHN  | CNSA        |  1996 | 4xYF-21C     | 11.5t | 7.1t   | 5.5t  |      67 |      64 |   1+(2) | 08.04.2020 |
+| Changzheng-3B    | CHN  | CNSA        |  1996 | 4xYF-21C     | 11.5t | 7.1t   | 5.5t  |      67 |      63 |   2+(2) | 08.04.2020 |
 | Changzheng-3C    | CHN  | CNSA        |  2008 | 4xYF-21C     |       |        | 3.9t  |      17 |      17 |       0 | 17.05.2019 |
 | Changzheng-4B    | CHN  | CNSA        |  1999 | 4xYF-21C     | 4.2t  | 2.8t   | 1.5t  |      35 |      34 |       1 | 20.12.2019 |
 | Changzheng-4C    | CHN  | CNSA        |  2006 | 4xYF-21C     | 4.2t  | 2.8t   | 1.5t  |      28 |      26 |       2 | 27.11.2019 |
@@ -2309,11 +2310,15 @@ Joi, 9 aprilie, de la ora 11:05, capsula *Soyuz MS-16* a fost lansată de la Bai
 
 ---
 
-Tot joi, din China a avut loc o nouă lansare orbitală: o rachetă *Changzheng-3B* a decolat de la centrul spațial Xichang și a urcat pe orbită geostaționară satelitul de telecomunicații indonezian Palapa-N1, construit de China. Acesta urmează să înlocuiască mai vechiul satelit Palapa-D, construit de compania europeană Thales-Alenia și lansat în 2009. Acesta a ajuns la finalul vieții, prin diminuarea rezervelor de combustibil de la bord. Noul satelit Palapa-N1 cântărește 5550 de kilograme și urmează să devină activ în luna iunie. Pentru această lansare a fost folosită versiunea G2 a rachetei Changzheng-3B care permite lansarea de cel mult 5550 kg spre orbită geostaționară, spre deosebire de varianta normală a rachetei, care poate urca dar 11.2 tone pe orbită terestră joasă sau 5.1 tone pe orbită geostaționară.
+Tot joi, din China a avut loc o nouă lansare orbitală, o rachetă *Changzheng-3B* a decolat de la centrul spațial Xichang și trebuia să urce pe orbită geostaționară satelitul de telecomunicații indonezian Palapa-N1, construit de China. Din păcare, lansarea a eșuat, din cauza unor probleme tehnice ale celei de-a treia trepte[fn:bul71a], fiind al doilea eșec al Chinei din acest an, după eșecul rachetei Changzheng-7A de luna trecută. Satelitul pierdut urma să înlocuiască mai vechiul satelit Palapa-D, construit de compania europeană Thales-Alenia și lansat în 2009. Acesta a ajuns la finalul vieții, prin diminuarea rezervelor de combustibil de la bord. Noul satelit Palapa-N1 cântărea 5550 de kilograme și urma să devină activ în luna iunie. Pentru această lansare a fost folosită versiunea G2 a rachetei Changzheng-3B care permite lansarea de cel mult 5550 kg spre orbită geostaționară, spre deosebire de varianta normală a rachetei, care poate urca dar 11.2 tone pe orbită terestră joasă sau 5.1 tone pe orbită geostaționară. Changzheng-3B este principala rachetă chinezească folosită pentru lansări spre orbită geostațonară și urma să lanseze în următoarea perioadă ultimii doi sateliți Beidou, care ar fi completat în primă fază constelația de sateliți de geolocație a Chinei.
 
 *** Alte evenimente
 
 survol BepiCololmbo
+
+*** Note de subsol
+
+[fn:bul71a] http://www.bjnews.com.cn/news/2020/04/09/715164.html
 
 ** Buletin Cosmic nr. 70 :starliner:boeing:dragon:crs20:covid19:
 :PROPERTIES:
