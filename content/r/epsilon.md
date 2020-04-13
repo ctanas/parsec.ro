@@ -24,7 +24,7 @@ Lansările Epsilon au loc de la centrul spațial Uchinoura, folosit pentru foste
 | 14.09.2013 | Epsilon-1    | EXCEED   | 340 kg | LEO    | Succes   |
 | 20.12.2016 | Epsilon-2    | ERG      | 350 kg | LEO    | Succes   |
 | 17.01.2018 | Epsilon-2    | ASNARO-2 | 570 kg | SSO    | Succes   |
-| 18.01.2018 | Epsilon-2    | RAPIS-1  | 200 kg | SSO    | Succes   |
+| 18.01.2019 | Epsilon-2    | RAPIS-1  | 200 kg | SSO    | Succes   |
 
 
 ## Note de subsol {#note-de-subsol}

@@ -935,20 +935,20 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 | Rockot           | RUS  | Roscosmos   |  1994 | 3xRD-0233    | 1.9t  | 1.2t   |       |      34 |      31 |   2+(1) | 27.12.2019 |
 | Angara           | RUS  | Roscosmos   |  2014 | 1xRD-191     | 3.8t  |        | 5.4t  |       2 |       2 |       0 | 23.12.2014 |
 |------------------+------+-------------+-------+--------------+-------+--------+-------+---------+---------+---------+------------|
-| Changzheng-2C    | CHN  | CNSA        |  1982 | 4xYF-21C     | 3.85t | 1.9t   | 1.25t |      52 |      51 |       1 | 24.03.2020 |
-| Changzheng-2D    | CHN  | CNSA        |  1992 | 4xYF-21C     | 3.5t  | 1.3t   |       |      46 |      45 |       1 | 19.02.2020 |
-| Changzheng-2F    | CHN  | CNSA        |  1999 | 4xYF-20B     | 8.4t  |        |       |      13 |      13 |       0 | 16.10.2016 |
-| Changzheng-3A    | CHN  | CNSA        |  1994 | 4xYF-21C     | 8.5t  |        | 2.6t  |      27 |      27 |       0 | 09.07.2018 |
-| Changzheng-3B    | CHN  | CNSA        |  1996 | 4xYF-21C     | 11.5t | 7.1t   | 5.5t  |      67 |      63 |   2+(2) | 08.04.2020 |
-| Changzheng-3C    | CHN  | CNSA        |  2008 | 4xYF-21C     |       |        | 3.9t  |      17 |      17 |       0 | 17.05.2019 |
-| Changzheng-4B    | CHN  | CNSA        |  1999 | 4xYF-21C     | 4.2t  | 2.8t   | 1.5t  |      35 |      34 |       1 | 20.12.2019 |
-| Changzheng-4C    | CHN  | CNSA        |  2006 | 4xYF-21C     | 4.2t  | 2.8t   | 1.5t  |      28 |      26 |       2 | 27.11.2019 |
-| Changzheng-5     | CHN  | CNSA        |  2016 | 2xYF-100     | 25t   |        | 14t   |       3 |       2 |       1 | 27.12.2019 |
-| Changzheng-5B    | CHN  | CNSA        |  2020 | 2xYF-100     |       |        |       |       0 |       0 |       0 |            |
-| Changzheng-6     | CHN  | CNSA        |  2015 | 1xYF-100     |       | 1t     |       |       3 |       3 |       1 | 13.11.2019 |
-| Changzheng-7A    | CHN  | CNSA        |  2020 | 1xYF-100     |       |        | 7.0t  |       1 |       0 |       1 | 16.03.2020 |
-| Changzheng-7     | CHN  | CNSA        |  2016 | 2xYF-100     | 13.5t |        | 5.5t  |       2 |       2 |       0 | 20.04.2017 |
-| Changzheng-11    | CHN  | CNSA        |  2015 | P35 (S)      | 0.7t  | 0.35t  |       |       8 |       8 |       0 | 19.09.2019 |
+| CZ-2C            | CHN  | CNSA        |  1982 | 4xYF-21C     | 3.85t | 1.9t   | 1.25t |      52 |      51 |       1 | 24.03.2020 |
+| CZ-2D            | CHN  | CNSA        |  1992 | 4xYF-21C     | 3.5t  | 1.3t   |       |      46 |      45 |       1 | 19.02.2020 |
+| CZ-2F            | CHN  | CNSA        |  1999 | 4xYF-20B     | 8.4t  |        |       |      13 |      13 |       0 | 16.10.2016 |
+| CZ-3A            | CHN  | CNSA        |  1994 | 4xYF-21C     | 8.5t  |        | 2.6t  |      27 |      27 |       0 | 09.07.2018 |
+| CZ-3B            | CHN  | CNSA        |  1996 | 4xYF-21C     | 11.5t | 7.1t   | 5.5t  |      67 |      63 |   2+(2) | 08.04.2020 |
+| CZ-3C            | CHN  | CNSA        |  2008 | 4xYF-21C     |       |        | 3.9t  |      17 |      17 |       0 | 17.05.2019 |
+| CZ-4B            | CHN  | CNSA        |  1999 | 4xYF-21C     | 4.2t  | 2.8t   | 1.5t  |      35 |      34 |       1 | 20.12.2019 |
+| CZ-4C            | CHN  | CNSA        |  2006 | 4xYF-21C     | 4.2t  | 2.8t   | 1.5t  |      28 |      26 |       2 | 27.11.2019 |
+| CZ-5             | CHN  | CNSA        |  2016 | 2xYF-100     | 25t   |        | 14t   |       3 |       2 |       1 | 27.12.2019 |
+| CZ-5B            | CHN  | CNSA        |  2020 | 2xYF-100     |       |        |       |       0 |       0 |       0 |            |
+| CZ-6             | CHN  | CNSA        |  2015 | 1xYF-100     |       | 1t     |       |       3 |       3 |       1 | 13.11.2019 |
+| CZ-7             | CHN  | CNSA        |  2016 | 2xYF-100     | 13.5t |        | 5.5t  |       2 |       2 |       0 | 20.04.2017 |
+| CZ-7A            | CHN  | CNSA        |  2020 | 1xYF-100     |       |        | 7.0t  |       1 |       0 |       1 | 16.03.2020 |
+| CZ-11            | CHN  | CNSA        |  2015 | P35 (S)      | 0.7t  | 0.35t  |       |       8 |       8 |       0 | 19.09.2019 |
 | Jielong-1        | CHN  | CNSA        |  2019 | (S)          | ?     | ?      |       |       1 |       1 |       0 | 17.08.2019 |
 | Kuaizhou         | CHN  | CNSA        |  2013 | (S)          | 0.3t  | 0.2t   |       |      10 |      10 |       0 | 16.01.2020 |
 |------------------+------+-------------+-------+--------------+-------+--------+-------+---------+---------+---------+------------|
@@ -957,6 +957,7 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 |------------------+------+-------------+-------+--------------+-------+--------+-------+---------+---------+---------+------------|
 | H-2A             | JPN  | JAXA        |  2001 | 1xLE-7A      | 15t   |        | 6t    |      41 |      40 |       1 | 09.02.2020 |
 | H-2B             | JPN  | JAXA        |  2009 | 2xLE-7A      | 16.5t |        | 8t    |       8 |       8 |       0 | 24.09.2019 |
+| Epsilon          | JPN  | JAXA        |  2013 | M-35 (S)     | 1.2   | 0.45   |       |       4 |       4 |       0 | 18.01.2019 |
 |------------------+------+-------------+-------+--------------+-------+--------+-------+---------+---------+---------+------------|
 | PSLV             | IND  | ISRO        |  1993 | (S)          | 3.8t  | 1.75t  | 1.2t  |      50 |      47 |   2+(1) | 11.12.2019 |
 | GSLV Mk.II       | IND  | ISRO        |  2010 | S139 (S)     | 5t    |        | 2.7t  |       7 |       6 |       1 | 19.12.2018 |
@@ -1613,12 +1614,13 @@ Lansările Epsilon au loc de la centrul spațial Uchinoura, folosit pentru foste
 | 14.09.2013 | Epsilon-1    | EXCEED   | 340 kg | LEO    | Succes   |
 | 20.12.2016 | Epsilon-2    | ERG      | 350 kg | LEO    | Succes   |
 | 17.01.2018 | Epsilon-2    | ASNARO-2 | 570 kg | SSO    | Succes   |
-| 18.01.2018 | Epsilon-2    | RAPIS-1  | 200 kg | SSO    | Succes   |
+| 18.01.2019 | Epsilon-2    | RAPIS-1  | 200 kg | SSO    | Succes   |
 
 *** Note de subsol
 
 [fn:epsilonmoon] https://english.kyodonews.net/news/2020/04/5065353da362-japan-eyes-sending-micro-lunar-probe-on-solid-fuel-rocket-in-2020s.html
 [fn:epsilonspecs] https://global.jaxa.jp/projects/rockets/epsilon
+
 
 * Materiale diverse
 :PROPERTIES:
