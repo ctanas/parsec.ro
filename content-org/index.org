@@ -35,7 +35,7 @@ Siteul de față reprezintă o colecție personală de materiale, articole și n
 ** Programe spațiale
 
 + [[/p/china][China]] --stații spațiale și noile sale lansatoare orbitale;
-+ [[/p/india][India]] -detalii despre rachete, sonde selenare și viitoare echipaje;
++ [[/p/india][India]] --detalii despre rachete, sonde selenare și viitoare echipaje;
 + [[/p/iran][Iran]] --lista lansărilor și detalii despre rachetele orbitale.
  
 
@@ -2485,6 +2485,14 @@ Tot joi, din China a avut loc o nouă lansare orbitală, o rachetă *Changzheng-
 *** Alte evenimente
 
 survol BepiCololmbo
+
+---
+
+epsilon luna, toyota
+
+---
+
+rocketlab
 
 *** Note de subsol
 
