@@ -34,5 +34,5 @@ Siteul de față reprezintă o colecție personală de materiale, articole și n
 ## Programe spațiale {#programe-spațiale}
 
 -   [China](/p/china) --stații spațiale și noile sale lansatoare orbitale;
--   [India](/p/india) -detalii despre rachete, sonde selenare și viitoare echipaje;
+-   [India](/p/india) --detalii despre rachete, sonde selenare și viitoare echipaje;
 -   [Iran](/p/iran) --lista lansărilor și detalii despre rachetele orbitale.
