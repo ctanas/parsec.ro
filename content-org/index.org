@@ -2465,7 +2465,7 @@ Marius Trusculescu, unul din membri echipei Goliat, primul satelit românesc, a 
 :EXPORT_HUGO_SECTION: bul
 :END:
 
-** TODO Buletin Cosmic nr. 71 :soyuz:ms16:bepicolombo:cz3b:
+** Buletin Cosmic nr. 71 :soyuz:ms16:bepicolombo:cz3b:
 :PROPERTIES:
 :EXPORT_FILE_NAME: 071
 :EXPORT_DATE: 2020-04-15
@@ -2484,19 +2484,23 @@ Tot joi, din China a avut loc o nouă lansare orbitală, o rachetă *Changzheng-
 
 *** Alte evenimente
 
-survol BepiCololmbo
+Lansată în 20 octombrie 2018, sonda *BepiColombo* a survolat vineri, 10 aprilie, Pământul, într-o manevră menită să-i ajusteze traiectoria pentru inserția orbitală în jurul planetei Mercur, în 2025. Sonda europeană s-a apropiat până la 12700 km de planeta noastră, sâmbătă dimineața la ora 07:25[fn:bul71d], înainte de a se depărta pentru totdeauna de Pământ. Până va ajunge să orbiteze Mercur, sonda va mai efectua încă opt astfel astfel de manevre asistate de gravitația unei planete, următoarele două fiind ajutată de Venus, iar restul le va efectua în jurul lui Mercur, înainte de a intra pe orbita planetei. Astfel de manevre măresc timpul necesar sondei să ajungă la destinație, dar în același timp înseamnă o economie de combustibil și astfel mai mult loc pentru echipamente științifice. BepiColombo este o colaborare între agenția spațială europeană și cea japoneză și conține de fapt două sonde orbitale: cea europeană, /Mercury Planetary Orbiter/ --MPO și cea japoneză, /Mercury Magnetospheric Orbiter/ --Mio.
 
 ---
 
-epsilon luna, toyota
+Agenția spațială japoneză (*JAXA*) își concentrează din ce în ce mai mult eforturile spre Lună: în următorii ani sunt plănuite două misiune nipone spre Lună, una constând dintr-o sondă orbitală, dar și un lander de mici dimensiuni, misiune ce urmează să fie lansată de o rachetă cu combustibil solid Epsilon[fn:bul71c], de producție proprie, o alternativă la familia de rachete H-IIA folosite de obice de agenția spațială japoneză. În 2021, tot din Japonia urmează să plece spre Lună două landere, fiecare de 50 de kilograme, la bordul unei rachete H-IIA, într-o misiune care își propune să testeze aselenizarea la punct fix[fn:bul71b], pentru ca în viitor Japonia să poată aduce eșantioane de sol selenar pe Pământ, așa cum a făcut-o deja de pe asteoridul Itokawa, în misiunea Hayabusa. Pentru 2029, agenția spațială japoneză, în parteneriat cu constructorul de automobile Toyota, intenționează să trimită un rover pe Lună, rover cu spațiu interior presurizat care ar putea fi folosit de eventualii ocupanți ai une baze selenare, dacă programul Artemis al NASA nu va fi întrerupt până atunci. Între 2007 șo 2009, Japonia a avut sonda Kaguya pe orbita Lunii, cea mai ambițioasă misiune selenară după finalizarea programului Apollo.
 
 ---
 
-rocketlab
+*Rocketlab* a anunțat că recent a efectuat cu succes un test al sistemului de recuperare al primei trepte a unei rachete *Electron*[fn:bul71e]. Spre deosebire de SpaceX, RocketLab nu își propune să controleze propulsiv revenirea primei trepte prin atmosferă ci va folosi pentru recuperarea acesteia un sistem de parașute, iar un elicopter va captura astfel din zbor treapta primară, care urmează să fie refolosită. Electron este o rachetă de calibru ușor, care poate lansa cel mult 225 kilograme pe orbită, dar costul unei lansări este deja unul scăzut, doar 6 milioane de dolari, de 10 ori mai mult decât prețul unei rachete Falcon 9 (care poate urca peste 22 de tone pe orbită).
 
 *** Note de subsol
 
 [fn:bul71a] http://www.bjnews.com.cn/news/2020/04/09/715164.html
+[fn:bul71b] https://global.jaxa.jp/projects/sas/slim/
+[fn:bul71c] https://english.kyodonews.net/news/2020/04/5065353da362-japan-eyes-sending-micro-lunar-probe-on-solid-fuel-rocket-in-2020s.html
+[fn:bul71d] https://sci.esa.int/web/bepicolombo/-/bepicolombo-takes-last-snaps-of-earth-en-route-to-mercury
+[fn:bul71e] https://www.rocketlabusa.com/news/updates/rocket-lab-successfully-completes-electron-mid-air-recovery-test-the-successful-test-brings-rocket-lab-another-step-closer-to-making-electron-a-reusable-launch-vehicle/
 
 ** Buletin Cosmic nr. 70 :starliner:boeing:dragon:crs20:covid19:
 :PROPERTIES:
