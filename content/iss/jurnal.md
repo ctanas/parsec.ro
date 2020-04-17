@@ -4,8 +4,16 @@ author = ["Claudiu"]
 draft = false
 +++
 
+17.04.2020
+: Începe **Expediția 63**;
+
+---
+
+17.04.2020
+: Soyuz MS-15 revine pe Pământ, cu Skripochka, Meir, Morgan;
+
 09.04.2020
-: Soyuz MS-16 (Ivanishin, Vagner, Cassidy) este lansată și andochează după 6 ore cu ISS la portul _Poisk_.
+: Soyuz MS-16 (Ivanishin, Vagner, Cassidy) este lansată și andochează după 6 ore cu ISS la portul _Poisk_;
 
 07.04.2020
 : Capsula Dragon CRS-10 se desprinde de modulul Harmony și revine cu bine pe Pământ; este ultima capsulă Dragon de primă generație folosită;

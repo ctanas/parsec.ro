@@ -190,21 +190,15 @@ Construcția ISS a însemnat asamblare pe orbită a [modulelor componente](https
 
 | Nume              | Agn  | Sosire      |       Data | Plecare     | Data       |
 |-------------------+------+-------------+------------+-------------+------------|
-| Andrew Morgan     | NASA | Soyuz MS-13 | 20.07.2019 | Soyuz MS-15 | /17.04.2020/ |
-|-------------------+------+-------------+------------+-------------+------------|
-| Oleg Skripochka   | RSA  | Soyuz MS-15 | 25.09.2019 | Soyuz MS-15 | /17.04.2020/ |
-| Jessica Meir      | NASA | Soyuz MS-15 | 25.09.2019 | Soyuz MS-15 | /17.04.2020/ |
-|-------------------+------+-------------+------------+-------------+------------|
 | Anatoli Ivanishin | RSA  | Soyuz MS-16 | 09.04.2020 | Soyuz MS-16 | xx.10.2020 |
 | Ivan Vagner       | RSA  | Soyuz MS-16 | 09.04.2020 | Soyuz MS-16 | xx.10.2020 |
 | Cris Cassidy      | NASA | Soyuz MS-16 | 09.04.2020 | Soyuz MS-16 | xx.10.2020 |
-
+|-------------------+------+-------------+------------+-------------+------------|
 
 *** Câte vehicule sunt în prezent andocate la ISS?
 
 | Vehicul        |    Lansare | Rachetă     | Port   |     Sosire | Plecare    | Recuperare |
 |----------------+------------+-------------+--------+------------+------------+------------|
-| Soyuz MS-15    | 25.09.2019 | Soyuz-FG    | Zvezda | 25.09.2019 | /17.04.2020/ | DA         |
 | Progress MS-13 | 06.12.2019 | Soyuz-2.1a  | Pirs   | 09.12.2019 | xx.xx.2020 | NU         |
 | Cygnus NG-13   | 15.02.2020 | Antares-230 | Unity  | 18.02.2020 | 11.05.2020 | NU         |
 | Soyuz MS-16    | 09.04.2020 | Soyuz-2.1a  | Poisk  | 09.04.2020 | xx.10.2020 | DA         |
@@ -221,7 +215,10 @@ Da! Datorită panourilor solare de mari dimensiuni, ISS poate fi văzută cu uș
 :EXPORT_FILE_NAME: jurnal
 :END:
 
-- 09.04.2020 :: Soyuz MS-16 (Ivanishin, Vagner, Cassidy) este lansată și andochează după 6 ore cu ISS la portul /Poisk/.
+- 17.04.2020 :: Începe *Expediția 63*;
+---
+- 17.04.2020 :: Soyuz MS-15 revine pe Pământ, cu Skripochka, Meir, Morgan;
+- 09.04.2020 :: Soyuz MS-16 (Ivanishin, Vagner, Cassidy) este lansată și andochează după 6 ore cu ISS la portul /Poisk/;
 - 07.04.2020 :: Capsula Dragon CRS-10 se desprinde de modulul Harmony și revine cu bine pe Pământ; este ultima capsulă Dragon de primă generație folosită;
 - 02.04.2020 :: Progress MS-13 și-a activat motoarele pentru 427.2 secunde, crescând viteza ISS cu 0.48 m/s (419.3x440.9 km)
 - 19.03.2020 :: Progress MS-13 și-a activat motoarele pentru 534 de secunde, crescând viteza ISS cu 0.6 m/s (416.68x439.57 km)
