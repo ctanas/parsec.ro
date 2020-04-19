@@ -264,7 +264,7 @@ Da! Datorită panourilor solare de mari dimensiuni, ISS poate fi văzută cu uș
 :EXPORT_FILE_NAME: module
 :END:
 
-Imaginile de mai jos ale modulelor ISS sunt publicate cu acceptul autorului și modelele originale pot fi găsite la pe site-ul [Behance]( https://www.behance.net/gallery/32371977/International-Space-Station-(ISS)) și [SpacecraftEarth](http://www.spacecraftearth.com/).
+Imaginile de mai jos ale modulelor ISS sunt publicate cu acceptul autorului și modelele originale pot fi găsite la pe site-ul [Behance]( https://www.behance.net/gallery/32371977/International-Space-Station-(ISS)) și [SpacecraftEarth](http://www.spacecraftearth.com/), reproduse aici cu permisiunea autorului.
 
 *** Zarya (FGB)
 [[/img/zarya.jpg]]

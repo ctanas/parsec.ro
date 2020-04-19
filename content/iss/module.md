@@ -4,7 +4,7 @@ author = ["Claudiu"]
 draft = false
 +++
 
-Imaginile de mai jos ale modulelor ISS sunt publicate cu acceptul autorului și modelele originale pot fi găsite la pe site-ul [Behance]( <https://www.behance.net/gallery/32371977/International-Space-Station-(ISS)>) și [SpacecraftEarth](<http://www.spacecraftearth.com/>).
+Imaginile de mai jos ale modulelor ISS sunt publicate cu acceptul autorului și modelele originale pot fi găsite la pe site-ul [Behance]( <https://www.behance.net/gallery/32371977/International-Space-Station-(ISS)>) și [SpacecraftEarth](<http://www.spacecraftearth.com/>), reproduse aici cu permisiunea autorului.
 
 
 ## Zarya (FGB) {#zarya--fgb}
