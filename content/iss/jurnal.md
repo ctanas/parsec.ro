@@ -4,6 +4,9 @@ author = ["Claudiu"]
 draft = false
 +++
 
+19.04.2020
+: Modulul Zvezda și-a activat motoarele pentru 58.5 secunde pentru a reduce viteza ISS cu 0.97 ms/s și coborând altitudinea cu 1.6 km (436.62x417.69 km), ajustând prbita pentru lansarea Progress MS-14[^fn:1].
+
 17.04.2020
 : Începe **Expediția 63**;
 
@@ -22,7 +25,7 @@ draft = false
 : Progress MS-13 și-a activat motoarele pentru 427.2 secunde, crescând viteza ISS cu 0.48 m/s (419.3x440.9 km)
 
 19.03.2020
-: Progress MS-13 și-a activat motoarele pentru 534 de secunde, crescând viteza ISS cu 0.6 m/s (416.68x439.57 km)
+: Progress MS-13 și-a activat motoarele pentru 534 secunde, crescând viteza ISS cu 0.6 m/s (416.68x439.57 km)
 
 09.03.2020
 : Capsula Dragon CRS-20 andochează la portul Harmony, după lansarea din 09.03.2020.
@@ -126,3 +129,5 @@ draft = false
 
 24.06.2019
 : Începe **Expediția 60**;
+
+[^fn:1]: <https://www.roscosmos.ru/28413/>
