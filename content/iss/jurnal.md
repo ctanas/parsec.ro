@@ -5,7 +5,7 @@ draft = false
 +++
 
 19.04.2020
-: Modulul Zvezda și-a activat motoarele pentru 58.5 secunde pentru a reduce viteza ISS cu 0.97 ms/s și coborând altitudinea cu 1.6 km (436.62x417.69 km), ajustând prbita pentru lansarea Progress MS-14[^fn:1].
+: Modulul Zvezda și-a activat motoarele pentru 58.5 secunde pentru a reduce viteza ISS cu 0.97 ms/s și coborând altitudinea (417.69x436.62 km), ajustând orbita pentru lansarea Progress MS-14[^fn:1].
 
 17.04.2020
 : Începe **Expediția 63**;
@@ -22,10 +22,10 @@ draft = false
 : Capsula Dragon CRS-10 se desprinde de modulul Harmony și revine cu bine pe Pământ; este ultima capsulă Dragon de primă generație folosită;
 
 02.04.2020
-: Progress MS-13 și-a activat motoarele pentru 427.2 secunde, crescând viteza ISS cu 0.48 m/s (419.3x440.9 km)
+: Progress MS-13 și-a activat motoarele pentru 427.2 secunde, crescând viteza ISS cu 0.48 m/s (419.3x440.9 km)[^fn:2]
 
 19.03.2020
-: Progress MS-13 și-a activat motoarele pentru 534 secunde, crescând viteza ISS cu 0.6 m/s (416.68x439.57 km)
+: Progress MS-13 și-a activat motoarele pentru 534 secunde, crescând viteza ISS cu 0.6 m/s (416.68x439.57 km)[^fn:3]
 
 09.03.2020
 : Capsula Dragon CRS-20 andochează la portul Harmony, după lansarea din 09.03.2020.
@@ -48,7 +48,7 @@ draft = false
 : EVA-227 (6 ore, 16 minute): Morgan și Parmitano, pentru întreținerea AMS-02;
 
 23.01.2020
-: Progress MS-13 și-a activat motoarele pentru 563+282 secunde, crescând viteza ISS cu un total de 0.84 m/s (415.9x437.0 km)
+: Progress MS-13 și-a activat motoarele pentru 563+282 secunde, crescând viteza ISS cu un total de 0.84 m/s (415.9x437.0 km)[^fn:4]
 
 20.01.2020
 : EVA-226 (6 ore, 58 minute): Koch și Meir, pentru înlocuirea bateriilor ISS;
@@ -130,4 +130,7 @@ draft = false
 24.06.2019
 : Începe **Expediția 60**;
 
-[^fn:1]: <https://www.roscosmos.ru/28413/>
+[^fn:1]: <https://www.roscosmos.ru/28413>
+[^fn:2]: <https://www.roscosmos.ru/28302>
+[^fn:3]: <https://www.roscosmos.ru/28215>
+[^fn:4]: <https://www.roscosmos.ru/27958>

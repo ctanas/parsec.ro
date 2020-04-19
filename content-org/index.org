@@ -215,14 +215,14 @@ Da! Datorită panourilor solare de mari dimensiuni, ISS poate fi văzută cu uș
 :EXPORT_FILE_NAME: jurnal
 :END:
 
-- 19.04.2020 :: Modulul Zvezda și-a activat motoarele pentru 58.5 secunde pentru a reduce viteza ISS cu 0.97 ms/s și coborând altitudinea cu 1.6 km (436.62x417.69 km), ajustând prbita pentru lansarea Progress MS-14[fn::https://www.roscosmos.ru/28413/].
+- 19.04.2020 :: Modulul Zvezda și-a activat motoarele pentru 58.5 secunde pentru a reduce viteza ISS cu 0.97 ms/s și coborând altitudinea (417.69x436.62 km), ajustând orbita pentru lansarea Progress MS-14[fn::https://www.roscosmos.ru/28413].
 - 17.04.2020 :: Începe *Expediția 63*;
 ---
 - 17.04.2020 :: Soyuz MS-15 revine pe Pământ, cu Skripochka, Meir, Morgan;
 - 09.04.2020 :: Soyuz MS-16 (Ivanishin, Vagner, Cassidy) este lansată și andochează după 6 ore cu ISS la portul /Poisk/;
 - 07.04.2020 :: Capsula Dragon CRS-10 se desprinde de modulul Harmony și revine cu bine pe Pământ; este ultima capsulă Dragon de primă generație folosită;
-- 02.04.2020 :: Progress MS-13 și-a activat motoarele pentru 427.2 secunde, crescând viteza ISS cu 0.48 m/s (419.3x440.9 km)
-- 19.03.2020 :: Progress MS-13 și-a activat motoarele pentru 534 secunde, crescând viteza ISS cu 0.6 m/s (416.68x439.57 km)
+- 02.04.2020 :: Progress MS-13 și-a activat motoarele pentru 427.2 secunde, crescând viteza ISS cu 0.48 m/s (419.3x440.9 km)[fn::https://www.roscosmos.ru/28302]
+- 19.03.2020 :: Progress MS-13 și-a activat motoarele pentru 534 secunde, crescând viteza ISS cu 0.6 m/s (416.68x439.57 km)[fn::https://www.roscosmos.ru/28215]
 - 09.03.2020 :: Capsula Dragon CRS-20 andochează la portul Harmony, după lansarea din 09.03.2020.
 - 18.02.2020 :: Capsula Cygnus NG-13 este atașată de modulul /Unity/, după lansarea din 15.02.2020;
 - 06.02.2020 :: Începe *Expediția 62*;
@@ -230,7 +230,7 @@ Da! Datorită panourilor solare de mari dimensiuni, ISS poate fi văzută cu uș
 - 06.02.2020 :: Soyuz MS-13 revine pe Pământ cu Koch, Skvortsov, Parmitano;
 - 31.01.2020 :: Capsula Cygnus NG-12 se desprinde de ISS;
 - 25.01.2020 :: EVA-227 (6 ore, 16 minute): Morgan și Parmitano, pentru întreținerea AMS-02;
-- 23.01.2020 :: Progress MS-13 și-a activat motoarele pentru 563+282 secunde, crescând viteza ISS cu un total de 0.84 m/s (415.9x437.0 km)
+- 23.01.2020 :: Progress MS-13 și-a activat motoarele pentru 563+282 secunde, crescând viteza ISS cu un total de 0.84 m/s (415.9x437.0 km)[fn::https://www.roscosmos.ru/27958]
 - 20.01.2020 :: EVA-226 (6 ore, 58 minute): Koch și Meir, pentru înlocuirea bateriilor ISS;
 - 15.01.2020 :: EVA-225 (7 ore, 29 minute): Meir și Koch, pentru înlocuirea bateriilor ISS;
 - 07.01.2020 :: Capsula Dragon CRS-19 se desprinde de ISS și revine în siguranță înapoi pe Pământ;
