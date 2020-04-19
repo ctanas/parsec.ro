@@ -2463,7 +2463,7 @@ Marius Trusculescu, unul din membri echipei Goliat, primul satelit românesc, a 
 :EXPORT_HUGO_SECTION: bul
 :END:
 
-** Buletin Cosmic nr. 72
+** Buletin Cosmic nr. 72 :iss:mev1:dragon2:asat:starlink:
 :PROPERTIES:
 :EXPORT_FILE_NAME: 072
 :EXPORT_DATE: 2020-04-22
@@ -2471,7 +2471,7 @@ Marius Trusculescu, unul din membri echipei Goliat, primul satelit românesc, a 
 
 Oleg Skripochka, Jessica Meir și Andrew Morgan au ajuns azi dimineață înapoi pe Pământ, la bordul capsulei Soyuz MS-15. Pe Stația Spațială Internațională a început astfel Expediția 63, pe orbită aflându-se Anatoli Ivanishin, Ivan Vagner și Chris Cassidy, ajunși în spațiu joia trecută, cu capsula Soyuz MS-16. Următorii astronauți care vor fi lansați în spațiu sunt Bob Behnken și Dough Hurley, cu racheta Falcon 9 (!), la bordul capsulei Dragon2 (!!), lansare programată pentru finalul lunii mai (sau începutul lunii iunie). Următorul zbor al unei capsulei Soyuz, MS-17, este programat pentru luna octombrie, până când mai este așteptat un al doilea zbor SpaceX cu echipaj la bord.
 
-modificare orbită
+modificare orbită[fn::https://www.roscosmos.ru/28413/]
 
 ---
 
