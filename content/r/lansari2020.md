@@ -14,7 +14,7 @@ draft = false
 | 16.05       | Atlas V 501 | OTV-6               | NAV\* | SUA     | CC SLC-41       | LEO   |
 | 25.04 01:51 | Soyuz-2.1a  | Progress MS-14      | NAV   | Rusia   | Baikonur 31/6   | ISS   |
 | 24.04       | CZ-5B       | _Shenzhou2?_[^fn:1] | NAV   | China   | Wenchang LC-101 | LEO   |
-| 23.04 19:16 | Falcon-9    | 60xStarlink-6       | COM   | SUA     | KSC LC-39A      | LEO   |
+| 22.04 19:37 | Falcon-9    | 60xStarlink-6       | COM   | SUA     | KSC LC-39A      | LEO   |
 
 
 ## Lansări orbitale efectuate în 2020 {#lansări-orbitale-efectuate-în-2020}
