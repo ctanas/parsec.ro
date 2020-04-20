@@ -672,7 +672,7 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 :EXPORT_FILE_NAME: lansari2020
 :END:
 
-#+CAPTION: Lansări orbitale programate în perioada următoare
+**** Lansări orbitale programate în perioada următoare
 | Data        | Lansator    | Satelit            | Tip  | Țara    | Centru / Rampa  | Ținta |
 |-------------+-------------+--------------------+------+---------+-----------------+-------|
 | 30.06       | Falcon-9    | GPS-III SV03       | CNS  | SUA     | CC SLC-40       | MEO   |
@@ -683,8 +683,7 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 | 24.04       | CZ-5B       | /Shenzhou2?/[fn:126] | NAV  | China   | Wenchang LC-101 | LEO   |
 | 23.04 19:16 | Falcon-9    | 60xStarlink-6      | COM  | SUA     | KSC LC-39A      | LEO   |
 
-
-#+CAPTION: Lansări orbitale efectuate în 2020
+**** Lansări orbitale efectuate în 2020
 | Nr. | Data        | Lansator     | Satelit        | Tip  | Țara    | Centru / Rampa  | Ținta | Rezultat          | Bul. |
 |-----+-------------+--------------+----------------+------+---------+-----------------+-------+-------------------+------|
 |  27 | 09.04 11:45 | CZ-3B        | Palapa-N1      | COM  | China   | Xichang         | GEO   | Eșec[fn:128]      | [[/bul/071][71]]   |
@@ -717,7 +716,6 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 |  01 | 07.01 02:19 | Falcon-9     | 60x Starlink-2 | COM  | SUA     | CC SLC-40       | LEO   | Succes            | [[/bul/057][57]]   |
 
 **** Clasament
-
 | Țara    | Nr. | Lansări   |
 |---------+-----+-----------|
 | SUA     |   9 | IIIIIIIII |

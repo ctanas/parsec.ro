@@ -4,10 +4,7 @@ author = ["Claudiu"]
 draft = false
 +++
 
-<div class="table-caption">
-  <span class="table-number">Table 1</span>:
-  Lansări orbitale programate în perioada următoare
-</div>
+## Lansări orbitale programate în perioada următoare {#lansări-orbitale-programate-în-perioada-următoare}
 
 | Data        | Lansator    | Satelit             | Tip   | Țara    | Centru / Rampa  | Ținta |
 |-------------|-------------|---------------------|-------|---------|-----------------|-------|
@@ -19,10 +16,8 @@ draft = false
 | 24.04       | CZ-5B       | _Shenzhou2?_[^fn:1] | NAV   | China   | Wenchang LC-101 | LEO   |
 | 23.04 19:16 | Falcon-9    | 60xStarlink-6       | COM   | SUA     | KSC LC-39A      | LEO   |
 
-<div class="table-caption">
-  <span class="table-number">Table 2</span>:
-  Lansări orbitale efectuate în 2020
-</div>
+
+## Lansări orbitale efectuate în 2020 {#lansări-orbitale-efectuate-în-2020}
 
 | Nr. | Data        | Lansator     | Satelit        | Tip   | Țara    | Centru / Rampa | Ținta | Rezultat      | Bul.           |
 |-----|-------------|--------------|----------------|-------|---------|----------------|-------|---------------|----------------|
