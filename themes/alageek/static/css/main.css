@@ -479,7 +479,7 @@ img {
 /* Making the captions prettier */
 
 figcaption {
-	font-size: 90%;
+	font-size: 75%;
 	font-family: monospace;
 	line-height: 1rem;
 	padding: 5px;
