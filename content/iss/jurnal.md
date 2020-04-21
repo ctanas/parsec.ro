@@ -5,7 +5,7 @@ draft = false
 +++
 
 19.04.2020
-: Modulul Zvezda și-a activat motoarele pentru 58.5 secunde pentru a reduce viteza ISS cu 0.97 ms/s și coborând altitudinea (417.69x436.62 km), ajustând orbita pentru lansarea Progress MS-14[^fn:1].
+: Modulul Zvezda și-a activat motoarele pentru 58.5 secunde pentru a reduce viteza ISS cu 0.97 m/s și coborând altitudinea (417.69x436.62 km), ajustând orbita pentru lansarea Progress MS-14[^fn:1].
 
 17.04.2020
 : Începe **Expediția 63**;

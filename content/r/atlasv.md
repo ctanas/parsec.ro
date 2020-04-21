@@ -6,13 +6,13 @@ draft = false
 
 Atlas V este un lansator de calibru mediu, dezvoltat de compania Lockheed Martin, dar ulterior a trecut în portofoliul United Launch Alliace (ULA) care adună sub un singur acoperiș rachetele Atlas și Delta (aceasta din urmă fiind inițial dezvoltată de Beoing).
 
-Prima treaptă Atlas V este propulsată de un motor RD-180 de producție rusească, alimentat cu LOX/RP-1. De obicei, Atlas V folosește un număr de 1-5 boostere suplimentare cu combustibil solid produse de Aerojet Rocketdyne. A doua treaptă este legendara treaptă superioară Centaur, propulsată de unul sau două motoare RL10, care ard LOX/LH2. Configurația unei rachete Atlas este specificată prin trei numere XYZ:
+Prima treaptă Atlas V este propulsată de un motor RD-180 de producție rusească, alimentat cu LOX/RP-1. De obicei, Atlas V folosește un număr de 1-5 boostere suplimentare cu combustibil solid produse de Aerojet Rocketdyne (acestea urmează să fie înlocuite cu boostere GEM-63, produse de Nortrop Grumann). A doua treaptă este legendara treaptă superioară Centaur, propulsată de unul sau două motoare RL10, care ard LOX/LH2. Configurația unei rachete Atlas este specificată prin trei numere XYZ:
 
 -   X reprezintă diametrul conului protector al încărcăturii, exprimat în metri (4 sau 5)
 -   Y este numărul de boostere suplimentare cu combustibil solid (între 0 și 5)
 -   Z numărul de motoare ale treptei superioare Centaur (1 sau 2)
 
-Astfel 521 înseamnă un satelit voluminos, care are nevoie de un con protector cu diametrul de 5 metri, sunt folosite două boostere cu combustibil solid și treapta Centaur are 1 singur motor.
+Astfel 521 înseamnă un satelit voluminos, care are nevoie de un con protector cu diametrul de 5 metri, sunt folosite 2 boostere cu combustibil solid și treapta Centaur are 1 singur motor (de fapt treapta superioară Centaur nu a folosit 2 motoare pentru o lansare Atlas V decât în cazul lansării capsulei Boeing CST-100 Starliner, în configurația N22).
 
 În funcție de configurația de zbor, o rachetă Atlas V poate urca între 8250 și 20520 kilograme pe orbită terestră joasă și între 4750 și 8900 kilograme pe orbită geostaționară.
 
