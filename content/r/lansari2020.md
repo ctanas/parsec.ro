@@ -21,7 +21,7 @@ draft = false
 
 | Nr. | Data        | Lansator     | Satelit        | Tip   | Țara    | Centru / Rampa | Ținta | Rezultat      | Bul.           |
 |-----|-------------|--------------|----------------|-------|---------|----------------|-------|---------------|----------------|
-| 28  | 22.04.??:?? | Qased        | Noor           | MIL   | Iran    | Shahroud       | LEO   | Succes        | 72             |
+| 28  | 22.04.??:?? | Qased        | Noor           | MIL   | Iran    | Shahroud       | LEO   | Succes        | [72](/bul/072) |
 | 27  | 09.04 11:45 | CZ-3B        | Palapa-N1      | COM   | China   | Xichang        | GEO   | Eșec[^fn:2]   | [71](/bul/071) |
 | 26  | 09.04 08:05 | Soyuz-2.1a   | Soyuz MS-16    | CRW   | Rusia   | Baikonur 31/6  | ISS   | Succes[^fn:3] | [71](/bul/071) |
 | 24  | 26.03 19:18 | Atlas-V 551  | AEHF-6         | COM\* | SUA     | CC SLC-41      | GEO   | Succes[^fn:4] | [69](/bul/069) |

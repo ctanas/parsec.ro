@@ -688,7 +688,7 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 **** Lansări orbitale efectuate în 2020
 | Nr. | Data        | Lansator     | Satelit        | Tip  | Țara    | Centru / Rampa | Ținta | Rezultat       | Bul. |
 |-----+-------------+--------------+----------------+------+---------+----------------+-------+----------------+------|
-|  28 | 22.04.??:?? | Qased        | Noor           | MIL  | Iran    | Shahroud       | LEO   | Succes         | 72   |
+|  28 | 22.04.??:?? | Qased        | Noor           | MIL  | Iran    | Shahroud       | LEO   | Succes         | [[/bul/072][72]]   |
 |  27 | 09.04 11:45 | CZ-3B        | Palapa-N1      | COM  | China   | Xichang        | GEO   | Eșec[fn:128]   | [[/bul/071][71]]   |
 |  26 | 09.04 08:05 | Soyuz-2.1a   | Soyuz MS-16    | CRW  | Rusia   | Baikonur 31/6  | ISS   | Succes[fn:127] | [[/bul/071][71]]   |
 |  24 | 26.03 19:18 | Atlas-V 551  | AEHF-6         | COM* | SUA     | CC SLC-41      | GEO   | Succes[fn:125] | [[/bul/069][69]]   |
