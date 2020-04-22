@@ -27,7 +27,7 @@ Starlink-1
 : 1007-1017, 1019-1065, 1067-1068
 
 Starlink-2
-: 1066, 1069-1104, 1106-1119, 1121-1126, 1128, 1130, 1144
+: 1066, 1069-1104, 1106-1119, 1121-1126, 1128, 1130 (Darksat), 1144
 
 Starlink-3
 : 1120, 1127, 1129, 1131-1137, 1139-1142, 1145-1153, 1155-1186, 1190, 1193-1196
@@ -39,9 +39,18 @@ Starlink-5
 : 1207, 1213, 1255-1260, 1262-1268, 1272-1293, 1295-1308, 1309-1313, 1316-1319
 
 
+## Lista sateliților Starlink deorbitați {#lista-sateliților-starlink-deorbitați}
+
+Starlink-0
+: 46 (20.02.2020)
+
+Starlink-4
+: 1220 (09.03.2020)
+
+
 ## Oportunități de observare {#oportunități-de-observare}
 
-[Heavens Above](https://www.heavens-above.com/StarlinkLaunchPasses.aspx) (site web, nu uitați să specificați locul de observație și setul de sateliți Starlink)
-[First Starlink](https://findstarlink.com/) (site web și aplicații mobile, interfață simplă)
-[James Darpinian](https://james.darpinian.com/satellites/?special=starlink) (site web, folosește Google Street View, pentru o orientare și mai simplă)
-[GoSatWatch](https://gosoftworks.com/apps/gosatwatch/) (aplicație iOS, care permite folosirea TLE de la Celestrak, inclusiv Starlink)
+-   [Heavens Above](https://www.heavens-above.com/StarlinkLaunchPasses.aspx) (site web, nu uitați să specificați locul de observație și setul de sateliți Starlink)
+-   [First Starlink](https://findstarlink.com/) (site web și aplicații mobile, interfață simplă)
+-   [James Darpinian](https://james.darpinian.com/satellites/?special=starlink) (site web, folosește Google Street View, pentru o orientare și mai simplă)
+-   [GoSatWatch](https://gosoftworks.com/apps/gosatwatch/) (aplicație iOS, care permite folosirea TLE de la Celestrak, inclusiv Starlink)
