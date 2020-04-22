@@ -21,6 +21,7 @@ Siteul de față reprezintă o colecție personală de materiale, articole și n
 + [[/r/rachete][Lista rachetelor active]] (plus detalii despre [[/r/atlasv][Atlas V]], [[/r/antares][Antares]], [[/r/soyuz-2][Soyuz-2]] și [[/r/falcon9][Falcon 9]]);
 + [[/r/viitor][Rachete aflate în dezvoltare]];
 + [[/m/sonde][Lista sondelor interplanetare active]];
++ [[/m/starlink][Starlink]] (liste cu sateliți lansați, activi, retrași și oportunități de observare)
 + [[/m/meteoriti][Meteoriți]] --informații generale și lista meteoriților românești (/draft/);
 + [[/m/x37b][X-37B]] --naveta spațială autonomă a Forțelor Aeriene ale SUA;
 + [[/m/gateway][Gateway]] --viitoarea stație spațială de pe orbita Lunii.
@@ -2211,7 +2212,7 @@ Capsula *Dragon-XL* a comapaniei SpaceX a fost primul vehicul pe care NASA l-a d
 |    29.01.2020 | Starlink-3 | 550 km  | 53°   |   60 | v1.0  |
 |    17.02.2020 | Starlink-4 | 550 km  | 53°   |   60 | v1.0  |
 |    18.03.2020 | Starlink-5 | 550 km  | 53°   |   60 | v1.0  |
-|    22.03.2020 | Starlink-6 | 550 km  | 53°   |   60 | v1.0  |
+|    /22.04.2020/ | Starlink-6 | 550 km  | 53°   |   60 | v1.0  |
 
 *** Lista sateliților Starlink lansați
 
