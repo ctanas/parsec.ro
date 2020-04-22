@@ -61,7 +61,7 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 | 05.02.2019 | Safir       | Doosti                     | Eșec     | Lansare eșuată            |
 | 29.08.2019 | Safir       | Nahid-1                    | Eșec     | Explozie pe rampă         |
 | 09.02.2020 | Simorhg     | Zafar-1                    | Eșec     | Lansare eșuată            |
-| 22.04.2020 | Qased       | Noor                       | Succes   |                           |
+| 22.04.2020 | Qased       | Noor                       | Succes   | Satelit plasat pe orbită  |
 
 
 ## Note de subsol {#note-de-subsol}

@@ -44,7 +44,7 @@ draft = false
 | GSLV Mk.III     | IND  | ISRO        | 2017  | S200 (S)     | 10t   |       | 4t    | 4    | 4    | 0     | 22.07.2019 |
 | Safir[^fn:3]    | IRN  | ISA         | 2008  | ??           | <0.1? |       |       | 8    | 4    | 4     | 05.02.2019 |
 | Simorgh         | IRN  | ISA         | 2016  | 4xNodong?    | 0.35? |       |       | 4    | 1    | 3     | 09.02.2020 |
-| Qased           | IRN  | IRG         | 2020  | ??           | ??    | ??    | ??    | 1    | 1    | 0     | 22.04.2020 |
+| Qased           | IRN  | IRG         | 2020  | ?Nodong?     | ??    | ??    | ??    | 1    | 1    | 0     | 22.04.2020 |
 | Unha-3          | PRK  | NADA        | 2012  | 4xNodong?    | 0.2?  |       |       | 3    | 2    | 1     | 07.02.2016 |
 
 [^fn:1]: După eșecul celei de-a 5-a lansări Antares, din 28.10.2014, racheta a schimbat motorul primei trepte din NK-33 în RD-181.
