@@ -2538,11 +2538,11 @@ A fost a 83-a lansare a unei rachete Falcon 9 (a 6-a din 2020), a 51-a recuperar
 
 *** Alte evenimente
 
-*Oleg Skripochka, Jessica Meir și Andrew Morgan* au ajuns azi dimineață înapoi pe Pământ, la bordul capsulei *Soyuz MS-15*[fn::https://blogs.nasa.gov/spacestation/2020/04/17/touchdown-expedition-62-returns-to-earth-completes-station-mission/] Pe Stația Spațială Internațională a început astfel Expediția 63, pe orbită aflându-se Anatoli Ivanishin, Ivan Vagner și Chris Cassidy, ajunși în spațiu joia trecută, cu capsula Soyuz MS-16. Următorii astronauți care vor fi lansați în spațiu sunt Bob Behnken și Dough Hurley, cu racheta Falcon 9, la bordul capsulei Dragon2, lansare programată pentru finalul lunii mai. Următorul zbor al unei capsulei Soyuz, MS-17, este programat pentru luna octombrie, însă până atunci mai este așteptat un al doilea zbor SpaceX cu echipaj la bord.
+*Oleg Skripochka, Jessica Meir și Andrew Morgan* au ajuns vineri dimineață (17 aprilie)  înapoi pe Pământ, la bordul capsulei *Soyuz MS-15*[fn::https://blogs.nasa.gov/spacestation/2020/04/17/touchdown-expedition-62-returns-to-earth-completes-station-mission/] Pe Stația Spațială Internațională a început astfel Expediția 63, pe orbită aflându-se Anatoli Ivanishin, Ivan Vagner și Chris Cassidy, ajunși în spațiu joia trecută, cu capsula Soyuz MS-16. Următorii astronauți care vor fi lansați în spațiu sunt Bob Behnken și Dough Hurley, cu racheta Falcon 9, la bordul capsulei Dragon2, lansare programată pentru finalul lunii mai. Următorul zbor al unei capsulei Soyuz, MS-17, este programat pentru luna octombrie, însă până atunci mai este așteptat un al doilea zbor SpaceX cu echipaj la bord.
 
 Sâmbătă, modulul Zvezda al Stației Spațiale Internaționale și-a activat motoarele pentru 58.5 secunde, reducând astfel viteza stației cu 0.97 m/s și ajustând orbita ISS  pentru lansarea Progress MS-14[fn::https://www.roscosmos.ru/28413/], programată pentru sâmbătă, care urmează să andocheze chiar cu modulul Zvezda. Acesta este rar folosit pentru astfel de manvere, deoarece motoarele sale sunt de obicei blocate de vehicule andocate, iar modificarea orbitei ISS se realizează prin motoarele acestor vehicule, de obicei nave Progress.
 
-#+CAPTION: Andrew Morgan (NASA), Oleg Skripochka (Roscosmos) și Jessica Meir (NASA), înainte de a reveni pe Pământ. /Sursa: [[https://www.flickr.com/photos/nasa2explore/49728158496/][NASA]]/
+#+CAPTION: Andrew Morgan (NASA), Oleg Skripochka (Roscosmos) și Jessica Meir (NASA), înainte de a reveni pe Pământ. /Sursa foto: [[https://www.flickr.com/photos/nasa2explore/49728158496/][NASA]]/
 [[/img/exp62.jpg]]
 
 ---
