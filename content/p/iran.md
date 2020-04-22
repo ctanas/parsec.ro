@@ -32,11 +32,11 @@ Pentru 2019 au fost programate trei lansări, însă toate trei s-au soldat cu u
 
 {{< figure src="/img/simorgh.jpg" caption="Figure 1: Racheta Simorgh cu satelitul Zafar-1, la centrul spațial Semnan, înainte de lansarea eșuată din 9 februarie 2020 (Sursa: IRNA)" >}}
 
-Ultimul satelit funcțional al Iranului a fost lansat deci în 2015, iar din 2017 și până în prezent au avut loc nu mai puțin de 5 eșecuri consecutive, pentru fiecare dintre cele două lansatoare orbitale (Safir și Simorgh), o serie de evenimente care va întârzia semnificativ planurile agenției spațiale iraniene pentru următorii ani.
-
 {{< figure src="/img/rampasenmam.jpg" caption="Figure 2: Rampa de lansare a rachetei Safir, avariate în jurul datei de 29 august." >}}
 
-Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lansările au avut loc de la Centrul Spațial "Imam Khomeini", aflat în sud-estul provinciei Semnan.
+În 22 aprilie 2020, armata iraniană anunță lansarea cu succes a satelitului Noor, folosind o rachetă nouă, Quased[^fn:6]. Este primul satelit militar iranian, care probabil își are originile în programul spațial al armatei, unul derulat în paralel cu cel civil (al agenției spațiale iraniene). Quased este un lansator în două trepte, derivat din Safir, cu un diametru de 1.25 metri și o treaptă secundară nouă (Salman), propulsată cu combustibil solid. Spre deosebire de celelalte lansări care au avut loc de la centrul spațial Khomeini din Semnan, lansarea inaugurală Quased a avut loc de la o bază militară din Shahroud (55.3340E 36.2006N).
+
+Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lansările au avut loc de la Centrul Spațial "Imam Khomeini", aflat în sud-estul provinciei Semnan, cu excepția lansării din 22 aprilie 2020, care a avut loc de la baza militară Shahroud.
 
 | Data       | Lansator    | Încărcătură                | Rezultat | Observații                |
 |------------|-------------|----------------------------|----------|---------------------------|
@@ -61,6 +61,7 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 | 05.02.2019 | Safir       | Doosti                     | Eșec     | Lansare eșuată            |
 | 29.08.2019 | Safir       | Nahid-1                    | Eșec     | Explozie pe rampă         |
 | 09.02.2020 | Simorhg     | Zafar-1                    | Eșec     | Lansare eșuată            |
+| 22.04.2020 | Qased       | Noor                       | Succes   |                           |
 
 
 ## Note de subsol {#note-de-subsol}
@@ -70,3 +71,4 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 [^fn:3]: <https://www.reuters.com/article/us-iran-space-launch-failure/iranian-satellite-launch-fails-due-to-technical-issues-official-idUSKCN1VJ2HK>
 [^fn:4]: <https://twitter.com/realDonaldTrump/status/1167493371973255170> (imagine probabil surprinsă de satelitul de spionaj USA-224/NROL-49, a cărui traiectorie trece exact pe deasupra rampei respective, la ora la care a fost surprinsă fotografia).
 [^fn:5]: <https://en.mehrnews.com/news/155470/Another-copy-of-Zafar-satellite-to-be-sent-into-orbit-in-June>
+[^fn:6]: <https://apnews.com/0b45baa8a846f55e058e98905e290ce5>

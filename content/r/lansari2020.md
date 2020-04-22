@@ -21,6 +21,7 @@ draft = false
 
 | Nr. | Data        | Lansator     | Satelit        | Tip   | Țara    | Centru / Rampa | Ținta | Rezultat      | Bul.           |
 |-----|-------------|--------------|----------------|-------|---------|----------------|-------|---------------|----------------|
+| 28  | 22.04.??:?? | Qased        | Noor           | MIL   | Iran    | Shahroud       | LEO   | Succes        | 72             |
 | 27  | 09.04 11:45 | CZ-3B        | Palapa-N1      | COM   | China   | Xichang        | GEO   | Eșec[^fn:2]   | [71](/bul/071) |
 | 26  | 09.04 08:05 | Soyuz-2.1a   | Soyuz MS-16    | CRW   | Rusia   | Baikonur 31/6  | ISS   | Succes[^fn:3] | [71](/bul/071) |
 | 24  | 26.03 19:18 | Atlas-V 551  | AEHF-6         | COM\* | SUA     | CC SLC-41      | GEO   | Succes[^fn:4] | [69](/bul/069) |
@@ -97,7 +98,7 @@ draft = false
 [^fn:2]: Din cauza unor probleme cu cea de-a treia treaptă, lansarea a eșuat și satelitul a fost pierdut.
 [^fn:3]: Prima lansare a unui echipaj la bordul unei rachete Soyuz-2.
 [^fn:4]: A 500-a lansare a unei trepte superioare propulsate de un motor RL-10 și prima lansare pentru noa ramură a armatei americane US Space Force.
-[^fn:5]: A fost pentru prima dată când SpaceX a folosit pentru a 5-a oară o treaptă primară; în timpul lansării unul din cele 9 motoare Merlin a suferit o problemă tehnică, însă celelalte 8 au compensat și treapta secundară a ajuns pe traiectoria corectă; din păcate, treapta primară a ratat întâlnirea cu barja OCISLY din Atlantic și astfel nu a mai fost recuperată. A fost pentru prima dată când SpaceX a refolosit conul protector.
+[^fn:5]: A fost pentru prima dată când SpaceX a folosit pentru a 5-a oară o treaptă primară; în timpul lansării unul din cele 9 motoare Merlin a suferit o problemă tehnică (scurgere de alcool izopropilic, folosit ca lichid de curățare), însă celelalte 8 au compensat și treapta secundară a ajuns pe traiectoria corectă; din păcate, treapta primară a ratat întâlnirea cu barja OCISLY din Atlantic și astfel nu a mai fost recuperată. A fost pentru prima dată când SpaceX a refolosit conul protector.
 [^fn:6]: A fost a 100-a lansare a unei rachete Soyuz-2.
 [^fn:7]: Prima lansare a rachetei Changzheng-7A.
 [^fn:8]: Deși lansarea este efectuată la Baikonur, folosind o rachetă rusă, compania Arianespace este cea care operează acestă lansare, astfel lansarea este considerată a fi una europeană (la fel cum și lansările rachetei Soyuz care au loc din Guiana Franceză sunt considerate europene).
