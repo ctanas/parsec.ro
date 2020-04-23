@@ -23,7 +23,7 @@ A doua tentativă de lansare a rachetei Changzheng-5 a avut loc în 2 iulie 2017
 După terminarea combustibilului primei trepte, aceasta trebuia să se desprindă de a doua treaptă, la 465 de secunde după lansare, însă separarea a avut loc la 570 de secunde, cu 105 secunde mai târziu. Întârzierea s-a dovedit a fi fatală pentru soarta satelitului, pentru că deși motoarele celei de-a doua trepte au pornit, satelitul și cea de-a doua treaptă pierdeau altitudine, datorită timpului prea lung în care prima treaptă a rămas cuplată. Motoarele celei de-a doua trepte s-au oprit după trei minute, timp insuficient pentru a corecta traiectoria care ducea satelitul spre Pământ. Oricum, planul inițial era ca a doua treaptă să ardă pentru cel puțin 4 minute, pentru a plasa încărcătura pe orbită intermediară.
 
 <div class="table-caption">
-  <span class="table-number">Tabel 1</span>:
+  <span class="table-number">Table 1</span>:
   Lansările lansatorului Changzheng-5
 </div>
 
@@ -38,7 +38,7 @@ După terminarea combustibilului primei trepte, aceasta trebuia să se desprind�
 Changzheng-6 se vrea racheta de calibru mic, pentru încărcături ușoare spre orbită terestră heliosincronă (joasă) și care poate fi pregătită rapid pentru lansarea de la noul centru de la Wenchang (comparabilă cu Minotaur sau PSLV). Are trei trepte, primele două propulsate de câte un motor YF-100, respectiv YF-115 ambele cu combustibil lichid (oxigen lichid și kerosen), iar a treia treaptă cu un motor cu tetraoxid de azot. Changzheng-6 poate lansa aproximativ 1 tonă la 700 km altitudine, are o înălțime de 29 de metri și un diametru de 3.35 metri.
 
 <div class="table-caption">
-  <span class="table-number">Tabel 2</span>:
+  <span class="table-number">Table 2</span>:
   Lansările lansatorului Changzheng-6
 </div>
 
@@ -59,7 +59,7 @@ Varianta Changzheng-7A este adaptată pentru orbita geostaționară și are în 
 Cosmodromul de la Wenchang a fost construit special pentru lansatoarele Changzheng-5 și Changzheng-7 și a costat 800 de milioane de dolari. Amplasarea rampelor este mai fericită, fiind mai apropiată de Ecuator și înconjurată de ocean, nu de zone populate. Asta înseamnă că lansările vor fi nu doar mai ecologice, dar și mai sigure, iar apropierea insulei Hainan de Ecuator oferă o oarecare economisire a combustibilului și deci performanțe sporite (19 grade, față de 28 de grade unde este plasat Cape Canaveral).
 
 <div class="table-caption">
-  <span class="table-number">Tabel 3</span>:
+  <span class="table-number">Table 3</span>:
   Lansările lansatorului Changzheng-7
 </div>
 
