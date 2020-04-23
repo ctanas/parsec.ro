@@ -20,8 +20,11 @@ draft = false
 
 ## Lista sateliților Starlink lansați {#lista-sateliților-starlink-lansați}
 
+TinTin
+: A,B
+
 Starlink-0
-: 1-60
+: 21-46,48-81
 
 Starlink-1
 : 1007-1017, 1019-1065, 1067-1068
@@ -44,8 +47,20 @@ Starlink-5
 Starlink-0
 : 46 (20.02.2020)
 
+Starlink-2
+: 1118 (02.04.2020) --deorbitare naturală
+
 Starlink-4
 : 1220 (09.03.2020)
+
+
+## Lista sateliților Starlink inactivi {#lista-sateliților-starlink-inactivi}
+
+TinTin
+: A,B
+
+Starlink-0
+: 43,48,60,80
 
 
 ## Oportunități de observare {#oportunități-de-observare}
