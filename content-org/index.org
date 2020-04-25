@@ -204,6 +204,7 @@ Construcția ISS a însemnat asamblare pe orbită a [modulelor componente](https
 | Progress MS-13 | 06.12.2019 | Soyuz-2.1a  | Pirs   | 09.12.2019 | xx.xx.2020 | NU         |
 | Cygnus NG-13   | 15.02.2020 | Antares-230 | Unity  | 18.02.2020 | 11.05.2020 | NU         |
 | Soyuz MS-16    | 09.04.2020 | Soyuz-2.1a  | Poisk  | 09.04.2020 | xx.10.2020 | DA         |
+| Progress MS-14 | 25.04.2020 | Soyuz-2.1a  | Zvezda | 25.04.2020 | xx.10.2020 | NU         |
 
 *** Câți astronauți sunt de obicei la bordul ISS?
 
@@ -217,7 +218,8 @@ Da! Datorită panourilor solare de mari dimensiuni, ISS poate fi văzută cu uș
 :EXPORT_FILE_NAME: jurnal
 :END:
 
-- 19.04.2020 :: Modulul Zvezda și-a activat motoarele pentru 58.5 secunde pentru a reduce viteza ISS cu 0.97 m/s și coborând altitudinea (417.69x436.62 km), ajustând orbita pentru lansarea Progress MS-14[fn::https://www.roscosmos.ru/28413].
+- 25.04.2020 :: Progress MS-14 andochează la modulul /Zvezda/, la 3 ore și 21 de minute după lansare[fn::https://blogs.nasa.gov/spacestation/2020/04/25/progress-cargo-ship-docked-to-station/].
+- 19.04.2020 :: Modulul Zvezda și-a activat motoarele pentru 58.5 secunde pentru a reduce viteza ISS cu 0.97 m/s și coborând altitudinea (417.69x436.62 km), ajustând orbita pentru lansarea Progress MS-14[fn::https://www.roscosmos.ru/28413];
 - 17.04.2020 :: Începe *Expediția 63*;
 ---
 - 17.04.2020 :: Soyuz MS-15 revine pe Pământ, cu Skripochka, Meir, Morgan;
@@ -682,11 +684,11 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 | 27.05 20:32 | Falcon-9    | Dragon2            | CRW  | SUA     | KSC LC-39A      | ISS   |
 | 20.05 17:30 | H-IIB       | HTV-9              | NAV  | Japonia | Tanegashima     | ISS   |
 | 16.05       | Atlas V 501 | OTV-6              | NAV* | SUA     | CC SLC-41       | LEO   |
-| 25.04 01:51 | Soyuz-2.1a  | Progress MS-14     | NAV  | Rusia   | Baikonur 31/6   | ISS   |
 
 **** Lansări orbitale efectuate în 2020
 | Nr. | Data        | Lansator     | Satelit        | Tip  | Țara    | Centru / Rampa | Ținta | Rezultat       | Bul. |
 |-----+-------------+--------------+----------------+------+---------+----------------+-------+----------------+------|
+|  30 | 25.04 01:51 | Soyuz-2.1a   | Progress MS-14 | NAV  | Rusia   | Baikonur 31/6  | ISS   | Succes         | 73   |
 |  29 | 22.04 19:30 | Falcon-9     | 60xStarlink-6  | COM  | SUA     | KSC LC-39A     | LEO   | Succes         | [[/bul/072][72]]   |
 |  28 | 22.04 04:00 | Qased        | Noor           | SAT* | Iran    | Shahroud       | LEO   | Succes         | [[/bul/072][72]]   |
 |  27 | 09.04 11:45 | CZ-3B        | Palapa-N1      | COM  | China   | Xichang        | GEO   | Eșec[fn:128]   | [[/bul/071][71]]   |
@@ -939,7 +941,7 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 | Minotaur-C       | SUA  | NGSSG       |  1994 | Castor(S)    | 1.3t  |       |       |   10 |    7 |     3 | 31.10.2017 |
 | Minotaur V       | SUA  | NGSSG       |  2013 | Castor(S)    |       |       | 0.53t |    1 |    1 |     0 | 07.09.2013 |
 |------------------+------+-------------+-------+--------------+-------+-------+-------+------+------+-------+------------|
-| Soyuz-2          | RUS  | Roscosmos   |  2004 | 1xRD-108A    | 8.2t  | 4.9t  | 3.2t  |  102 |   95 | 4+(3) | 09.04.2020 |
+| Soyuz-2          | RUS  | Roscosmos   |  2004 | 1xRD-108A    | 8.2t  | 4.9t  | 3.2t  |  103 |   96 | 4+(3) | 25.04.2020 |
 | Proton-M         | RUS  | Roscosmos   |  2001 | 6xRD-275M    | 23t   |       | 6.3   |  109 |   98 | 9+(2) | 24.12.2019 |
 | Rockot           | RUS  | Roscosmos   |  1994 | 3xRD-0233    | 1.9t  | 1.2t  |       |   34 |   31 | 2+(1) | 27.12.2019 |
 | Angara           | RUS  | Roscosmos   |  2014 | 1xRD-191     | 3.8t  |       | 5.4t  |    2 |    2 |     0 | 23.12.2014 |
@@ -1172,6 +1174,7 @@ Soyuz-2.1a poate lansa cel mult 7 tone pe orbită terestră joasă sau 2.8 tone 
 | 100 | 16.03.2020 | Soyuz 2.1b/Fregat | GLONASS-M               |    1.415 | PL 43/4 | MEO          |
 | 101 | 21.03.2020 | Soyuz 2.1b/Fregat | 34x OneWeb-3            |    5.015 | TB 31/6 | LEO          |
 | 102 | 08.04.2020 | Soyuz 2.1a        | Soyuz MS-16             |     ~7.2 | TB 31/6 | ISS          |
+| 103 | 15.04.2020 | Soyuz 2.1a        | Progress MS-14          |     ~7.2 | TB 31/6 | ISS          |
 |-----+------------+-------------------+-------------------------+----------+---------+--------------|
 
 - EEO :: Orbită eliptică
