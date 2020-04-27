@@ -66,6 +66,6 @@ Starlink-0
 ## Oportunități de observare {#oportunități-de-observare}
 
 -   [Heavens Above](https://www.heavens-above.com/StarlinkLaunchPasses.aspx) (site web, nu uitați să specificați locul de observație și setul de sateliți Starlink)
--   [First Starlink](https://findstarlink.com/) (site web și aplicații mobile, interfață simplă)
+-   [Find Starlink](https://findstarlink.com/) (site web și aplicații mobile, interfață simplă)
 -   [James Darpinian](https://james.darpinian.com/satellites/?special=starlink) (site web, folosește Google Street View, pentru o orientare și mai simplă)
 -   [GoSatWatch](https://gosoftworks.com/apps/gosatwatch/) (aplicație iOS, care permite folosirea TLE de la Celestrak, inclusiv Starlink)
