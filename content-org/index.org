@@ -2247,7 +2247,7 @@ Capsula *Dragon-XL* a comapaniei SpaceX a fost primul vehicul pe care NASA l-a d
 *** Oportunități de observare
 
 + [[https://www.heavens-above.com/StarlinkLaunchPasses.aspx][Heavens Above]] (site web, nu uitați să specificați locul de observație și setul de sateliți Starlink)
-+ [[https://findstarlink.com/][First Starlink]] (site web și aplicații mobile, interfață simplă)
++ [[https://findstarlink.com/][Find Starlink]] (site web și aplicații mobile, interfață simplă)
 + [[https://james.darpinian.com/satellites/?special=starlink][James Darpinian]] (site web, folosește Google Street View, pentru o orientare și mai simplă)
 + [[https://gosoftworks.com/apps/gosatwatch/][GoSatWatch]] (aplicație iOS, care permite folosirea TLE de la Celestrak, inclusiv Starlink)
 
@@ -2526,6 +2526,25 @@ Marius Trusculescu, unul din membri echipei Goliat, primul satelit românesc, a 
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: bul
 :END:
+
+** TODO Buletin Cosmic nr. 73 :progress:ms14:hope:tianwen:sealaunch:
+:PROPERTIES:
+:EXPORT_FILE_NAME: 073
+:EXPORT_DATE: 2020-04-29
+:END:
+
+*** Lansări orbitale
+
+Progress MS-14
+
+*** Alte evenimente
+
+Tianwen-1
+
+Hope
+
+Faliment SeaLaunch
+
 
 ** Buletin Cosmic nr. 72 :iss:mev1:dragon2:asat:starlink:iran:spacex:
 :PROPERTIES:
