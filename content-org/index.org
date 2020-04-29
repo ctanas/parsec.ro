@@ -2528,7 +2528,7 @@ Marius Trusculescu, unul din membri echipei Goliat, primul satelit românesc, a 
 :EXPORT_HUGO_SECTION: bul
 :END:
 
-** Buletin Cosmic nr. 73 :progress:ms14:hope:tianwen:sealaunch:spacex:
+** Buletin Cosmic nr. 73 :progress:ms14:hope:tianwen:sealaunch:spacex:luna25:vega:ariane5:
 :PROPERTIES:
 :EXPORT_FILE_NAME: 073
 :EXPORT_DATE: 2020-04-29
@@ -2551,7 +2551,7 @@ Misiunea chineză care va pleca spre Marte în această vară (cândva în luna 
 
 ---
 
-Roscosmos, agenția spațială rusă, a dat recent mai multe detalii cu privire la următoarea misiune selenară Luna-25. Bineînțeles fără echipaj la bord, aceasta va consta dintr-un lander care va ajunge la Polul Sud selenar în octombrie 2021[fn::https://ria.ru/20200428/1570702396.html], cu ajutorul unei rachete Soyuz-2.1a, ajutată de treapta superioară Fregat. la 10 zile după lansare, landerul va ajunge pe suprafața Lunii, unde își va începe misiunea științifică. Rusia nu a mai ajuns pe Lună din 1976, când Luna-24 devenea prima misiune selenară automatizată care a adus pe Pământ 170 de grame de sol lunar.
+Roscosmos, agenția spațială rusă, a dat recent mai multe detalii cu privire la următoarea misiune selenară Luna-25. Bineînțeles fără echipaj la bord, aceasta va consta dintr-un lander care va ajunge la Polul Sud selenar în octombrie 2021[fn::https://ria.ru/20200428/1570702396.html], cu ajutorul unei rachete Soyuz-2.1a, ajutată de treapta superioară Fregat. La 10 zile după lansare, landerul va ajunge pe suprafața Lunii, unde își va începe misiunea științifică. Rusia nu a mai ajuns pe Lună din 1976, când Luna-24 devenea prima misiune selenară automatizată care a adus pe Pământ 170 de grame de sol lunar.
 
 ---
 
