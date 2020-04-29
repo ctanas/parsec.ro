@@ -25,7 +25,7 @@ Capsula CST-100 Starliner "Calypso" a fost lansată în 22 decembrie pentru un t
 Boeing a anunțat că misiunea OFT va fi repetată[^fn:1], nu mai devreme de octombrie 2020, compania suportând integral costurile suplimentare asociate cu noua misiune.
 
 
-## SpaceX DM-2 (aprilie 2020) {#spacex-dm-2--aprilie-2020}
+## SpaceX DM-2 (27 mai 2020) {#spacex-dm-2--27-mai-2020}
 
 _Demo Mission 2_
 

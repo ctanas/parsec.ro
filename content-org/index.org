@@ -344,7 +344,7 @@ Capsula CST-100 Starliner "Calypso" a fost lansată în 22 decembrie pentru un t
 
 Boeing a anunțat că misiunea OFT va fi repetată[fn:reoft1], nu mai devreme de octombrie 2020, compania suportând integral costurile suplimentare asociate cu noua misiune.
 
-*** SpaceX DM-2 (aprilie 2020)
+*** SpaceX DM-2 (27 mai 2020)
 /Demo Mission 2/
 
 - *Bob Behnken* (STS-123, STS-130, ambele Endeavour, 6 EVA = 37 ore)
@@ -680,10 +680,10 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 | Data        | Lansator    | Satelit            | Tip  | Țara    | Centru / Rampa  | Ținta |
 |-------------+-------------+--------------------+------+---------+-----------------+-------|
 | 30.06       | Falcon-9    | GPS-III SV03       | CNS  | SUA     | CC SLC-40       | MEO   |
-| XX.05       | CZ-5B       | /Shenzhou2?/[fn:126] | NAV  | China   | Wenchang LC-101 | LEO   |
 | 27.05 20:32 | Falcon-9    | Dragon2            | CRW  | SUA     | KSC LC-39A      | ISS   |
 | 20.05 17:30 | H-IIB       | HTV-9              | NAV  | Japonia | Tanegashima     | ISS   |
 | 16.05       | Atlas V 501 | OTV-6              | NAV* | SUA     | CC SLC-41       | LEO   |
+| 05.05       | CZ-5B       | /Shenzhou2?/[fn:126] | NAV  | China   | Wenchang LC-101 | LEO   |
 
 **** Lansări orbitale efectuate în 2020
 | Nr. | Data        | Lansator     | Satelit        | Tip  | Țara    | Centru / Rampa | Ținta | Rezultat       | Bul. |

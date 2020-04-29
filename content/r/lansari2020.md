@@ -9,10 +9,10 @@ draft = false
 | Data        | Lansator    | Satelit             | Tip   | Țara    | Centru / Rampa  | Ținta |
 |-------------|-------------|---------------------|-------|---------|-----------------|-------|
 | 30.06       | Falcon-9    | GPS-III SV03        | CNS   | SUA     | CC SLC-40       | MEO   |
-| XX.05       | CZ-5B       | _Shenzhou2?_[^fn:1] | NAV   | China   | Wenchang LC-101 | LEO   |
 | 27.05 20:32 | Falcon-9    | Dragon2             | CRW   | SUA     | KSC LC-39A      | ISS   |
 | 20.05 17:30 | H-IIB       | HTV-9               | NAV   | Japonia | Tanegashima     | ISS   |
 | 16.05       | Atlas V 501 | OTV-6               | NAV\* | SUA     | CC SLC-41       | LEO   |
+| 05.05       | CZ-5B       | _Shenzhou2?_[^fn:1] | NAV   | China   | Wenchang LC-101 | LEO   |
 
 
 ## Lansări orbitale efectuate în 2020 {#lansări-orbitale-efectuate-în-2020}
