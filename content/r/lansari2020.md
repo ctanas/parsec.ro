@@ -19,7 +19,7 @@ draft = false
 
 | Nr. | Data        | Lansator     | Satelit        | Tip   | Țara    | Centru / Rampa | Ținta | Rezultat      | Bul.           |
 |-----|-------------|--------------|----------------|-------|---------|----------------|-------|---------------|----------------|
-| 30  | 25.04 01:51 | Soyuz-2.1a   | Progress MS-14 | NAV   | Rusia   | Baikonur 31/6  | ISS   | Succes        | 73             |
+| 30  | 25.04 01:51 | Soyuz-2.1a   | Progress MS-14 | NAV   | Rusia   | Baikonur 31/6  | ISS   | Succes        | [73](/bul/073) |
 | 29  | 22.04 19:30 | Falcon-9     | 60xStarlink-6  | COM   | SUA     | KSC LC-39A     | LEO   | Succes        | [72](/bul/072) |
 | 28  | 22.04 04:00 | Qased        | Noor           | SAT\* | Iran    | Shahroud       | LEO   | Succes        | [72](/bul/072) |
 | 27  | 09.04 11:45 | CZ-3B        | Palapa-N1      | COM   | China   | Xichang        | GEO   | Eșec[^fn:2]   | [71](/bul/071) |

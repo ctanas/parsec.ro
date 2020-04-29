@@ -688,11 +688,12 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 **** Lansări orbitale efectuate în 2020
 | Nr. | Data        | Lansator     | Satelit        | Tip  | Țara    | Centru / Rampa | Ținta | Rezultat       | Bul. |
 |-----+-------------+--------------+----------------+------+---------+----------------+-------+----------------+------|
-|  30 | 25.04 01:51 | Soyuz-2.1a   | Progress MS-14 | NAV  | Rusia   | Baikonur 31/6  | ISS   | Succes         | 73   |
+|  30 | 25.04 01:51 | Soyuz-2.1a   | Progress MS-14 | NAV  | Rusia   | Baikonur 31/6  | ISS   | Succes         | [[/bul/073][73]]   |
 |  29 | 22.04 19:30 | Falcon-9     | 60xStarlink-6  | COM  | SUA     | KSC LC-39A     | LEO   | Succes         | [[/bul/072][72]]   |
 |  28 | 22.04 04:00 | Qased        | Noor           | SAT* | Iran    | Shahroud       | LEO   | Succes         | [[/bul/072][72]]   |
 |  27 | 09.04 11:45 | CZ-3B        | Palapa-N1      | COM  | China   | Xichang        | GEO   | Eșec[fn:128]   | [[/bul/071][71]]   |
 |  26 | 09.04 08:05 | Soyuz-2.1a   | Soyuz MS-16    | CRW  | Rusia   | Baikonur 31/6  | ISS   | Succes[fn:127] | [[/bul/071][71]]   |
+|-----+-------------+--------------+----------------+------+---------+----------------+-------+----------------+------|
 |  24 | 26.03 19:18 | Atlas-V 551  | AEHF-6         | COM* | SUA     | CC SLC-41      | GEO   | Succes[fn:125] | [[/bul/069][69]]   |
 |  23 | 24.03 04:43 | CZ-2C        | 3x Yaogan 30   | COM* | Chna    | Xichang        | LEO   | Succes         | [[/bul/068][68]]   |
 |  22 | 21.03 17:06 | Soyuz-2.1b   | 34x OneWeb-3   | COM  | Europa  | Baikonur 31/6  | LEO   | Succes         | [[/bul/068][68]]   |
@@ -2527,7 +2528,7 @@ Marius Trusculescu, unul din membri echipei Goliat, primul satelit românesc, a 
 :EXPORT_HUGO_SECTION: bul
 :END:
 
-** TODO Buletin Cosmic nr. 73 :progress:ms14:hope:tianwen:sealaunch:
+** Buletin Cosmic nr. 73 :progress:ms14:hope:tianwen:sealaunch:spacex:
 :PROPERTIES:
 :EXPORT_FILE_NAME: 073
 :EXPORT_DATE: 2020-04-29
@@ -2535,16 +2536,22 @@ Marius Trusculescu, unul din membri echipei Goliat, primul satelit românesc, a 
 
 *** Lansări orbitale
 
-Progress MS-14
+Sâmbătă dimineața, la ora 04:51 ora României, o navă cargo Progress MS-14 a ajuns pe orbită[fn::https://blogs.nasa.gov/spacestation/2020/04/24/russian-resupply-ship-headed-for-station/], după ce a fost lansată de o rachetă Soyuz-2.1a de la Baikonur, Kazahstan. Într-un gest rar al agenției spațiale ruse, racheta a fost botezată "Victory Rocket", lansarea ei având loc la câteva zile după Ziua Victoriei sărbătorită la Moscova. La doar 3 ore și 21 de minute după lansare (și doar 2 orbite parcurse în jurul Pământului), nava Progress MS-14 a andocat cu modulul Zvezda al ISS la ora 08:12, ora României[fn::https://blogs.nasa.gov/spacestation/2020/04/25/progress-cargo-ship-docked-to-station/]. Progress MS-14 a transportat pe ISS 700 de kilograme de combustibil, 1350 de kilograme de provizii pentru echipaj și echipamente științifice, 429 de litri de apă și 46 kilograme de aer. Treapta superioară a rachetei lansatoare Soyuz-2.1a a revenit în atmosferă, putând fi observată deasupra regiunei spaniole Coruña, marți dimineață la ora 7:45 ora României[fn::https://twitter.com/Canaan_1983/status/1255035545648062464].
+
+#+CAPTION: Racheta Soyuz-2.1a, înaintea lansării navei cargo Progress MS-14 spre Stația Spațială Internațională. /Sursa foto: [[https://twitter.com/Space_Station/status/1253810784439689216][NASA]]/
+[[/img/progressms14.jpg]]
 
 *** Alte evenimente
 
-Tianwen-1
+Un nou test al unui prototip Starship a avut loc la sediul SpaceX din Boca Chica, Texas. De acestă dată, vehiculul SN4 a trecut cu brio testul de presurizare[fn::https://twitter.com/elonmusk/status/1254632509863866368], după ce trei vehiculele precedente au explodat în diverse etape ale testării. Testul de luni a însemnat presurizarea rezervorului intern până al 4.9 bari[fn::https://www.youtube.com/watch?v=N5t-oEbBprc], o presiune inferioară celei necesare pentru un zbor orbital (6 bari), dar a fost vorba de un prim test al acestui vehicul nou, care incorporează o serie de modificări realizate după problemele versiunilor anterioare. În urmatoarele zile, SN4 va primi un motor Raptor pentru un test static, urmând ca în viitor, versiunea SN5 va primi trei astfel de motoare, care urmează să fie folosite pentru zboruri atmosferice.
 
-Hope
+---
 
-Faliment SeaLaunch
+Misiunea chineză care va pleca spre Marte în această vară (cândva în luna iulie, cu ajutorul unei rachete Changzheng-5B) a fost recent denumită Tianwen-1[fn::http://www.xinhuanet.com/english/2020-04/24/c_139004198.htm]. Numele roverului marțian nu a fost încă făcut public, urmează să fie anunțat de agenția spațială chineză în viitorul apropiat. Tianwen înseamnă “întrebări cerești” și este titlul unui poem scris de Qu Yuan, în China antică (340 – 278 îen). Agenția spațială chineză a declarat că intenționează să folosească numele Tianwen și pentru următoarele misiuni interplanetare chinezești.
 
+---
+
+Compania rusă care a achiziționat recent platforma maritimă SeaLaunch a declarat că a început procedurile pentru faliment[fn::https://www.rbc.ru/business/23/04/2020/5ea13ead9a79477951e55803]. Asta după ce platforma a fost mutată în ultimele săptămâni din largul coastei de vest a Statelor Unite până la Vladivostok, în încercarea de a resuscita operațiunile de lansări orbitale de pe platforma maritimă. Între 1999 și 2014  au fost 36 de lansări ale rachetei ucrainiene Zenit, din care 4 s-au încheiat cu un eșec, platforma permițând astfel rachetei să fie lansată din apropierea ecuatorului, profitând la maximum de viteza de rotație a Pământului în jurul axei și aducând astfel un plus de performanță. În iunie 2019, racheta Changzheng-11 devenea prima rachetă din China care era lansată de pe o platformă maritimă proprie, plasată în Marea Galbenă, o a doua astfel de platofrmă folosită pentru lansări orbitale și aparent singura operațională în prezent.
 
 ** Buletin Cosmic nr. 72 :iss:mev1:dragon2:asat:starlink:iran:spacex:
 :PROPERTIES:
