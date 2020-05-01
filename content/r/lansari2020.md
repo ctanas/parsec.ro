@@ -12,6 +12,7 @@ draft = false
 | 27.05 20:32 | Falcon-9    | Dragon2             | CRW   | SUA     | KSC LC-39A      | ISS   |
 | 20.05 17:30 | H-IIB       | HTV-9               | NAV   | Japonia | Tanegashima     | ISS   |
 | 16.05       | Atlas V 501 | OTV-6               | NAV\* | SUA     | CC SLC-41       | LEO   |
+| 07.05 11:30 | Falcon-9    | Starlink-7          | COM   | SUA     | CC SLC-41       | LEO   |
 | 05.05       | CZ-5B       | _Shenzhou2?_[^fn:1] | NAV   | China   | Wenchang LC-101 | LEO   |
 
 
