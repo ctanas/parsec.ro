@@ -1,5 +1,5 @@
-#+hugo_base_dir: ../
 #+author: Claudiu
+#+hugo_base_dir: ../
 #+language: ro
 
 * Index
@@ -344,7 +344,7 @@ Capsula CST-100 Starliner "Calypso" a fost lansată în 22 decembrie pentru un t
 
 Boeing a anunțat că misiunea OFT va fi repetată[fn:reoft1], nu mai devreme de octombrie 2020, compania suportând integral costurile suplimentare asociate cu noua misiune.
 
-*** SpaceX DM-2 (aprilie 2020)
+*** SpaceX DM-2 (27 mai 2020)
 /Demo Mission 2/
 
 - *Bob Behnken* (STS-123, STS-130, ambele Endeavour, 6 EVA = 37 ore)
@@ -680,21 +680,22 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 | Data        | Lansator    | Satelit            | Tip  | Țara    | Centru / Rampa  | Ținta |
 |-------------+-------------+--------------------+------+---------+-----------------+-------|
 | 30.06       | Falcon-9    | GPS-III SV03       | CNS  | SUA     | CC SLC-40       | MEO   |
-| XX.05       | CZ-5B       | /Shenzhou2?/[fn:126] | NAV  | China   | Wenchang LC-101 | LEO   |
 | 27.05 20:32 | Falcon-9    | Dragon2            | CRW  | SUA     | KSC LC-39A      | ISS   |
 | 20.05 17:30 | H-IIB       | HTV-9              | NAV  | Japonia | Tanegashima     | ISS   |
 | 16.05       | Atlas V 501 | OTV-6              | NAV* | SUA     | CC SLC-41       | LEO   |
+| 05.05       | CZ-5B       | /Shenzhou2?/[fn:126] | NAV  | China   | Wenchang LC-101 | LEO   |
 
 **** Lansări orbitale efectuate în 2020
 | Nr. | Data        | Lansator     | Satelit        | Tip  | Țara    | Centru / Rampa | Ținta | Rezultat       | Bul. |
 |-----+-------------+--------------+----------------+------+---------+----------------+-------+----------------+------|
-|  30 | 25.04 01:51 | Soyuz-2.1a   | Progress MS-14 | NAV  | Rusia   | Baikonur 31/6  | ISS   | Succes         | 73   |
-|  29 | 22.04 19:30 | Falcon-9     | 60xStarlink-6  | COM  | SUA     | KSC LC-39A     | LEO   | Succes         | [[/bul/072][72]]   |
-|  28 | 22.04 04:00 | Qased        | Noor           | SAT* | Iran    | Shahroud       | LEO   | Succes         | [[/bul/072][72]]   |
-|  27 | 09.04 11:45 | CZ-3B        | Palapa-N1      | COM  | China   | Xichang        | GEO   | Eșec[fn:128]   | [[/bul/071][71]]   |
-|  26 | 09.04 08:05 | Soyuz-2.1a   | Soyuz MS-16    | CRW  | Rusia   | Baikonur 31/6  | ISS   | Succes[fn:127] | [[/bul/071][71]]   |
+|  29 | 25.04 01:51 | Soyuz-2.1a   | Progress MS-14 | NAV  | Rusia   | Baikonur 31/6  | ISS   | Succes         | [[/bul/073][73]]   |
+|  28 | 22.04 19:30 | Falcon-9     | 60xStarlink-6  | COM  | SUA     | KSC LC-39A     | LEO   | Succes         | [[/bul/072][72]]   |
+|  27 | 22.04 04:00 | Qased        | Noor           | SAT* | Iran    | Shahroud       | LEO   | Succes         | [[/bul/072][72]]   |
+|  26 | 09.04 11:45 | CZ-3B        | Palapa-N1      | COM  | China   | Xichang        | GEO   | Eșec[fn:128]   | [[/bul/071][71]]   |
+|  25 | 09.04 08:05 | Soyuz-2.1a   | Soyuz MS-16    | CRW  | Rusia   | Baikonur 31/6  | ISS   | Succes[fn:127] | [[/bul/071][71]]   |
+|-----+-------------+--------------+----------------+------+---------+----------------+-------+----------------+------|
 |  24 | 26.03 19:18 | Atlas-V 551  | AEHF-6         | COM* | SUA     | CC SLC-41      | GEO   | Succes[fn:125] | [[/bul/069][69]]   |
-|  23 | 24.03 04:43 | CZ-2C        | 3x Yaogan 30   | COM* | Chna    | Xichang        | LEO   | Succes         | [[/bul/068][68]]   |
+|  23 | 24.03 04:43 | CZ-2C        | 3x Yaogan 30   | COM* | China   | Xichang        | LEO   | Succes         | [[/bul/068][68]]   |
 |  22 | 21.03 17:06 | Soyuz-2.1b   | 34x OneWeb-3   | COM  | Europa  | Baikonur 31/6  | LEO   | Succes         | [[/bul/068][68]]   |
 |  21 | 18.03 12:16 | Falcon-9     | 60xStarlink-5  | COM  | SUA     | KSC LC-39A     | LEO   | Succes[fn:l23] | [[/bul/067][67]]   |
 |  20 | 16.03 20:28 | Soyuz-2.1b   | Glonass-M      | CNS  | Rusia   | Plesetsk 43/4  | MEO   | Succes[fn:l24] | [[/bul/067][67]]   |
@@ -721,16 +722,16 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 |  01 | 07.01 02:19 | Falcon-9     | 60x Starlink-2 | COM  | SUA     | CC SLC-40      | LEO   | Succes         | [[/bul/057][57]]   |
 
 **** Clasament
-| Țara    | Nr. | Lansări   |
-|---------+-----+-----------|
-| SUA     |   9 | IIIIIIIII |
-| China   |   8 | IIIIIXIX  |
-| Europa  |   4 | IIII      |
-| Rusia   |   4 | IIII      |
-| Iran    |   2 | XI        |
-| Japonia |   1 | I         |
-|---------+-----+-----------|
-| *TOTAL*   |  *28* |           |
+| Țara    | Nr. | Lansări    |
+|---------+-----+------------|
+| SUA     |  10 | IIIIIIIIII |
+| China   |   8 | IIIIIXIX   |
+| Europa  |   4 | IIII       |
+| Rusia   |   4 | IIII       |
+| Iran    |   2 | XI         |
+| Japonia |   1 | I          |
+|---------+-----+------------|
+| *TOTAL*   |  *29* |            |
 
 **** Legendă tabel
 
@@ -2527,7 +2528,7 @@ Marius Trusculescu, unul din membri echipei Goliat, primul satelit românesc, a 
 :EXPORT_HUGO_SECTION: bul
 :END:
 
-** TODO Buletin Cosmic nr. 73 :progress:ms14:hope:tianwen:sealaunch:
+** Buletin Cosmic nr. 73 :progress:ms14:hope:tianwen:sealaunch:spacex:luna25:vega:ariane5:
 :PROPERTIES:
 :EXPORT_FILE_NAME: 073
 :EXPORT_DATE: 2020-04-29
@@ -2535,16 +2536,34 @@ Marius Trusculescu, unul din membri echipei Goliat, primul satelit românesc, a 
 
 *** Lansări orbitale
 
-Progress MS-14
+Sâmbătă dimineața, la ora 04:51 ora României, o navă cargo Progress MS-14 a ajuns pe orbită[fn::https://blogs.nasa.gov/spacestation/2020/04/24/russian-resupply-ship-headed-for-station/], după ce a fost lansată de o rachetă Soyuz-2.1a de la Baikonur, Kazahstan. Într-un gest rar al agenției spațiale ruse, racheta a fost botezată "Victory Rocket", lansarea ei având loc la câteva zile după Ziua Victoriei sărbătorită la Moscova. La doar 3 ore și 21 de minute după lansare (și doar 2 orbite parcurse în jurul Pământului), nava Progress MS-14 a andocat cu modulul Zvezda al ISS la ora 08:12, ora României[fn::https://blogs.nasa.gov/spacestation/2020/04/25/progress-cargo-ship-docked-to-station/]. Progress MS-14 a transportat pe ISS 700 de kilograme de combustibil, 1350 de kilograme de provizii pentru echipaj și echipamente științifice, 429 de litri de apă și 46 kilograme de aer. Treapta superioară a rachetei lansatoare Soyuz-2.1a a revenit în atmosferă, putând fi observată deasupra regiunei spaniole Coruña, marți dimineață la ora 7:45 ora României[fn::https://twitter.com/Canaan_1983/status/1255035545648062464].
+
+#+CAPTION: Racheta Soyuz-2.1a, înaintea lansării navei cargo Progress MS-14 spre Stația Spațială Internațională. /Sursa foto: [[https://twitter.com/Space_Station/status/1253810784439689216][NASA]]/
+[[/img/progressms14.jpg]]
 
 *** Alte evenimente
 
-Tianwen-1
+Un nou test al unui prototip Starship a avut loc la sediul SpaceX din Boca Chica, Texas. De acestă dată, vehiculul SN4 a trecut cu brio testul de presurizare[fn::https://twitter.com/elonmusk/status/1254632509863866368], după ce trei vehiculele precedente au explodat în diverse etape ale testării. Testul de luni a însemnat presurizarea rezervorului intern până al 4.9 bari[fn::https://www.youtube.com/watch?v=N5t-oEbBprc], o presiune inferioară celei necesare pentru un zbor orbital (6 bari), dar a fost vorba de un prim test al acestui vehicul nou, care incorporează o serie de modificări realizate după problemele versiunilor anterioare. În urmatoarele zile, SN4 va primi un motor Raptor pentru un test static, urmând ca în viitor, versiunea SN5 va primi trei astfel de motoare, care urmează să fie folosite pentru zboruri atmosferice.
 
-Hope
+---
 
-Faliment SeaLaunch
+Misiunea chineză care va pleca spre Marte în această vară (cândva în luna iulie, cu ajutorul unei rachete Changzheng-5) a fost recent denumită Tianwen-1[fn::http://www.xinhuanet.com/english/2020-04/24/c_139004198.htm]. Numele roverului marțian nu a fost încă făcut public, urmează să fie anunțat de agenția spațială chineză în viitorul apropiat. Tianwen înseamnă “întrebări cerești” și este titlul unui poem scris de Qu Yuan, în China antică (340 – 278 îen). Agenția spațială chineză a declarat că intenționează să folosească numele Tianwen și pentru următoarele misiuni interplanetare chinezești.
 
+---
+
+Roscosmos, agenția spațială rusă, a dat recent mai multe detalii cu privire la următoarea misiune selenară Luna-25. Bineînțeles fără echipaj la bord, aceasta va consta dintr-un lander care va ajunge la Polul Sud selenar în octombrie 2021[fn::https://ria.ru/20200428/1570702396.html], cu ajutorul unei rachete Soyuz-2.1a, ajutată de treapta superioară Fregat. La 10 zile după lansare, landerul va ajunge pe suprafața Lunii, unde își va începe misiunea științifică. Rusia nu a mai ajuns pe Lună din 1976, când Luna-24 devenea prima misiune selenară automatizată care a adus pe Pământ 170 de grame de sol lunar.
+
+---
+
+Compania rusă care a achiziționat recent platforma maritimă SeaLaunch a declarat că a început procedurile pentru faliment[fn::https://www.rbc.ru/business/23/04/2020/5ea13ead9a79477951e55803]. Asta după ce platforma a fost mutată în ultimele săptămâni din largul coastei de vest a Statelor Unite până la Vladivostok, în încercarea de a resuscita operațiunile de lansări orbitale de pe platforma maritimă. Între 1999 și 2014  au fost 36 de lansări ale rachetei ucrainiene Zenit, din care 4 s-au încheiat cu un eșec, platforma permițând astfel rachetei să fie lansată din apropierea ecuatorului, profitând la maximum de viteza de rotație a Pământului în jurul axei și aducând astfel un plus de performanță. În iunie 2019, racheta Changzheng-11 devenea prima rachetă din China care era lansată de pe o platformă maritimă proprie, plasată în Marea Galbenă, o a doua astfel de platofrmă folosită pentru lansări orbitale și aparent singura operațională în prezent.
+
+---
+
+Avem și vești bune, pentru că Arianespace va începe din iunie să reia lansările orbitale suspendate din cauza actualei pandemii: astfel, la mijlocul lunii iunie este programat un zbor al unei rachete Vega, primul după eșecul din iulie anul trecut al acestui lansator de calibru ușor, în timp ce următoarea lansare Ariane 5 este programată pentru finalul lunii iulie[fn::https://www.arianespace.com/press-release/covid-19-arianespace-to-resume-its-launch-campaigns-at-the-guiana-space-center/]. Vega va urca pe orbită 50 de sateliți de mici dimensiuni, în timp ce Ariane 5 va lansa spre orbită geostaționară doi sateliți de telecomunicații, pentru companiile Intelsat și B-SAT.
+
+---
+
+Versiunea audio a acestui material poate fi ascultată pe site-ul [[https://radioromaniacultural.ro/buletin-cosmic-nr-73/][Radio România Cultural]].
 
 ** Buletin Cosmic nr. 72 :iss:mev1:dragon2:asat:starlink:iran:spacex:
 :PROPERTIES:
@@ -2593,6 +2612,10 @@ Pentru că NASA va începe din acest an să lanseze astronauți pe orbită, dimi
 
 Rusia a efectuat săptămâna trecută un *test al unei rachete balistice anti-satelit* A-235 PL-19 Nudol (Anti-satellite weapons --ASAT)[fn::https://www.spacecom.mil/MEDIA/NEWS-ARTICLES/Article/2151611/russia-tests-direct-ascent-anti-satellite-missile/]. Asta este vestea proastă, vestea bună fiind aceea că nu a avut loc o interceptare reală a unui satelit, deci nu s-a produs nici o explozie pe orbită care să genereze resturi, fiind testată doar racheta în sine. Lucru oarecum de așteptat pentru că Rusia nu are nici un astfel de satelit-țintă pe o orbită inferioară și probabil dacă va efectua un test cu interceptare, nu o va face cu un satelit aflat la 500 km altitudine ci va lansa în prealabil un satelit care va fi plasat pe orbită joasă, așa cum a făcut și India la începutul anului trecut, înainte să efectueze un astfel de test, criticat de comunitatea științifică internațională.
 
+---
+
+Versiunea audio a acestui material poate fi ascultată pe site-ul [[https://radioromaniacultural.ro/buletin-cosmic-nr-72/][Radio România Cultural]].
+
 ** Buletin Cosmic nr. 71 :soyuz:ms16:bepicolombo:cz3b:
 :PROPERTIES:
 :EXPORT_FILE_NAME: 071
@@ -2621,6 +2644,10 @@ Agenția spațială japoneză (*JAXA*) își concentrează din ce în ce mai mul
 ---
 
 *Rocketlab* a anunțat că recent a efectuat cu succes un test al sistemului de recuperare al primei trepte a unei rachete *Electron*[fn:bul71e]. Spre deosebire de SpaceX, RocketLab nu își propune să controleze propulsiv revenirea primei trepte prin atmosferă ci va folosi pentru recuperarea acesteia un sistem de parașute, iar un elicopter va captura astfel din zbor treapta primară, care urmează să fie refolosită. Electron este o rachetă de calibru ușor, care poate lansa cel mult 225 kilograme pe orbită, dar costul unei lansări este deja unul scăzut, doar 6 milioane de dolari, de 10 ori mai mult decât prețul unei rachete Falcon 9 (care poate urca peste 22 de tone pe orbită).
+
+---
+
+Versiunea audio a acestui material poate fi ascultată pe site-ul [[https://radioromaniacultural.ro/buletin-cosmic-nr-71/][Radio România Cultural]].
 
 *** Note de subsol
 
@@ -2659,6 +2686,10 @@ Răspândirea virusului *SARS-CoV-2* continuă să afecteze activitățile spaț
 În Rusia, tot din cauza COVID-19, antrenamentul celor 4 viitori astronauți indieni, care a început în februarie, a fost suspendat[fn:crnagang1]. Aceștia se pregătesc la centrul Yuri Gagarin de lângă Moscova să devină primii indieni lansați în spațiu folosind rachete produse și lansate din India, activitate ce face parte din programului Gangayaan al Agenției Spațiale Indiene, program care are ca țintă lansarea primilor astronauți la finalul anului viitor sau, cel mai probabil, în 2022. Până atunci India urmează să certifice racheta GSLV Mk.3 pentru zboruri cu echipaj și să testeze capsula care-i va transporta pe orbită pe astronauții indieni.
 
 Dacă în 24 martie Agenția Spațială Europeană (ESA) a declarat că suspendă patru misiuni spațiale din cauza COVID-19, în 2 aprilie ESA a renunțat la această măsură și a reactivat sondele Cluster, Mars Express, Exomars Trace Gas Orbiter și Solar Orbiter[fn:esacrnaresume]. Unul dintre angajații centrului de comandă din Darmstadt (Germania) a fost testat pozitiv și ar fi intrat în contact cu alți 20 de angajați ai centrului, iar izolarea acestora a dus restrângerea temporară a activităților centrului de comandă. Intrarea în hibernare a sondei Mars Express a afectat și misiunile americane Curiosity și InSight, care foloseau sonda europeană ca releu pentru transmiterea datelor de pe suprafața planetei spre Pământ.
+
+---
+
+Versiunea audio a acestui material poate fi ascultată pe site-ul [[https://radioromaniacultural.ro/buletin-cosmic-nr-70/][Radio România Cultural]].
 
 *** Note de subsol
 
@@ -2700,6 +2731,8 @@ Datele transmise de sonda interplanetară *Voyager 2* continuă să uimească lu
 
 ---
 
+Versiunea audio a acestui material poate fi ascultată pe site-ul [[https://radioromaniacultural.ro/buletin-cosmic-nr-69/][Radio România Cultural]].
+
 [fn:voy2uranus] https://www.jpl.nasa.gov/news/news.php?feature=7623
 [fn:spxm1] https://www.nasa.gov/press-release/nasa-adds-shannon-walker-to-first-operational-crewed-spacex-mission
 [fn:gwdragonxl] https://www.nasa.gov/press-release/nasa-awards-artemis-contract-for-gateway-logistics-services
@@ -2733,6 +2766,10 @@ Agenția Spațială Europeană (*ESA*)  a anunțat la începutul acestei săptă
 ---
 
 O capsulă *Dragon-2* a companiei *SpaceX* a fost avariată marți, în timpul unui test al parașutelor, însă nu din cauza funcționării necorespunzătoare a acestora. Înainte de a începe testul, capsula a fost transportată de un elicopter, însă sistemul a devenit instabil și a pus în pericol echipajul elicopterului, care a decis imediată separarea de capsulă. Astfel, capsula s-a prăbușit și a fost complet distrusă, pentru că sistemul de parașute nu a fost activat, însă nimeni nu a fost rănit. În plus, nu era vorba de o capsulă destinată unei lansări orbitale, ci doar de una destinată testelor, așa că pierderea pentru SpaceX nu este una majoră și probabil nu va influența negativ misiunea cu echipaj spre Stația Spațială Internațională, planificată pentru luna mai.
+
+---
+
+Versiunea audio a acestui material poate fi ascultată pe site-ul [[https://radioromaniacultural.ro/buletin-cosmic-nr-68/][Radio România Cultural]].
 
 ** Buletin Cosmic nr. 67 :spacex:falcon9:soyuz2:glonass:cz7a:exomars:
 :PROPERTIES:
@@ -2965,7 +3002,7 @@ Agenția spațială rusă *Roscosmos* ia în considerare o nouă misiune spre *V
 
 Varianta audio a acestui material poate fi ascultată pe site-ul [[https://radioromaniacultural.ro/buletin-cosmic-nr-61/][Radio România Cultural]].
 
-** Buletin Cosmic nr. 60 :eva:iss:jwst:progressms13:axiom: 
+** Buletin Cosmic nr. 60 :eva:iss:jwst:progressms13:axiom:
 :PROPERTIES:
 :EXPORT_FILE_NAME: 060
 :EXPORT_DATE: 2020-01-29
@@ -4419,7 +4456,7 @@ NASA a confirmat că Rusia se gândește să-și reducă echipajul de la bordul 
 
 Până atunci, echipajul stației spațiale se pregătește pentru o nouă activitate extravehiculară vineri, pentru a monta International Docking Adapter (IDA), un adaptor transportat de ultimul zbor SpaceX, și care urmează să fie atașat modulului american Harmony. Acesta va permite andocarea viitoarelor vehicule spațiale cu echipaj. Este al doilea astfel de adaptor lansat, precedentul fiind pierdut vara trecută, în ultimul eșec al unei rachete Falcon 9. Jeff Williams și Kate Rubins vor ieși în afara stației, pentru a manipula adaptorul și a efectua conexiunile necesare între acesta și sistemele stației. NASA TV va transmite în direct această operațiune, care nu este programată să dureze mai mult de 6 ore și jumătate.
 
-** Buletin Cosmic nr. 09
+** Buletin Cosmic nr. 09 :iss:romania:spacex:falcon9:starshot:ula:atlasv:beam:
 :PROPERTIES:
 :EXPORT_FILE_NAME: 009
 :EXPORT_DATE: 2016-04-12
@@ -4427,15 +4464,21 @@ Până atunci, echipajul stației spațiale se pregătește pentru o nouă activ
 
 Stația Spațială Internațională a trecut și astăzi pe deasupra României, iar cei de la Universitatea Valahia din Tărgoviște au profitat de ocazie, s-au organizat și, împreună cu sprijinul Vodafone, au reușit să ia legătura, prin radio cu Jeff Williams, astronaut american, aflat la bordul Stației Spațiale Internaționale. La eveniment au fost prezenți un număr de elevi care în cele aproximativ 10 minute cât a durat survolul SSI al teritoriului nostru, au reușit să îi pună întrebări lui Jeff Williams și să primească răspuns direct de la acesta, prin radio, fără alte mijloace de comunicare intermediare. La eveniment a fost prezent și singurul nostru cosmonaut, Dumitru Prunariu, care le-a vorbit celor prezenți despre experiența sa orbitală din 1981 de la bordul stației Saliut 6. Este primul eveniment de o asemenea anvergură organizat în țara noastră, însă orice radioamator poate lua legătura cu astronauții de pe Stația Spațială Internațională. Aveți nevoie de o licență de radioamator, echipamentul de emisie-recepție corespunzător, stația spațială trebuie să treacă pe deasupra României și în acel timp astronauții să fie pe recepție și să aibă timp de stat la povești pe calea undelor. În cazul în care nu au timp de așa ceva, uneori emițătorul SSTV este lăsat pornit, așa că puteți încerca să primiți imagini de pe Stația Spațială Internațională, prin unde radio, pe frecvența 145.800 MHz (chiar dacă nu aveți licență puteți recepționa semnal SSTV sau chiar voce, dacă aveți instrumentele necesare). De fapt, chiar acest modul SSTV, lăsat astăzi activ, a bruiat transmisiunea de la bordul SSI și cei din Târgoviște nu au reușit să realizeze contactul cu Jeff Williams la ora stabilită (16:46), însă problemele tehnice s-au remediat aproximativ 90 de minute mai tărziu, când stația a efectuat o nouă trecere deasupra noastră. Detalii și frecvențe puteți găsi pe pagina [[http://www.ariss.org/][ARISS]] sau la [[http://spaceflight.nasa.gov/station/reference/radio/][NASA]].
 
+---
+
 De dimineață a intrat în portul de la Cape Canaveral vasul Of Course I Still Love You, care a adus din largul Atlanticului prima treaptă a rachetei Falcon 9, recuperată după lansarea de vineri noaptea. Planul lui Elon Musk este de inspecta racheta, de a testa motoarele (10 aprinderi) și după ce acestea își vor dovedi fiabilitatea, este posibil ca în iunie să vedem o a doua lansare a acestei trepte și o nouă tentativă de recuperare. Deja compania de telecomunicații SES s-a arătat interesată să-și transporte unul dintre sateliți folosind această treaptă recuperată, însă a ținut să menționeze că se așteaptă la un preț mai scăzut decât în mod normal, dat fiind factorul de risc ridicat pe care îl presupune o astfel de lansare. Imagini surprinse în timpul aterizării rachetei pe vas pot fi găsit pe [[https://www.flickr.com/photos/spacex][contul oficial de Flickr al SpaceX]].
+
+---
 
 Însă știrea zilei vine de la New York, acolo unde miliardarul rus Yuri Milner, împreună cu Stephen Hawking, Freeman Dyson (fizician), Ann Druyan (soția regretatului Carl Sagan) și Mae Jemison (fost astronaut) au anunțat o inițiativă absolut inedită de explorare a stelei Alpha Centauri, cea mai apropiată stea de Pământ, după Soare (4.37 ani lumină sau 1.34 parseci distanță de noi): trimiterea unei flote de sonde spațiale de mici dimensiuni (câteva grame), propulsate de o velă solară (care ar putea funcționa și ca un telescop pe durata deplasării). Inițiativa poartă numele de [[http://www.breakthroughinitiatives.org/][Starshot]]. Nimic ieșit din comun până acum, doar că o astfel de sondă urmează să fie accelerată folosind lasere montate pe Pământ și astfel propulsată până la viteze extraordinar de mari: 20% din viteza luminii! În acest fel, sondele vor putea ajunge să survoleze planetele din jurul stelei Alpha Centauri în aproximativ 20 de ani de la lansare. Sursa de energie urmează să fie baterie alimentată de un RTG (generator termoelectric cu radiozotopi) și vor fi, se pare, și instrumente optice la bord, încât să putem recepționa imagini și alte informații din timpul călătoriei, dar și din timpul survolului unor corpuri, inclusiv a planetelor din sistemul Alpha Centauri. Sonda va putea evita anumite obstacole, având posibilități de a-și modifica traiectoria în timpul zborului, iar un sistem de lasere de la bord va putea comunica cu Pământul la viteze de câțiva KB/s, ceea ce nu este deloc rău. Având în vedere dimensiunile reduse ale sondei (și costurile estimate undeva la sute de dolari fiecare), pot fi lansate mii sau zeci de mii de sonde, fiecare dotate cu câte un set diferit de senzori, pentru a maximiza șansele ca măcar unele dintre acestea să ajungă la destinație. Acum, cum se va putea reuși crearea unui obiect macroscopic care să atingă asemenea accelerați (60000g) și viteze ridicate (0.2c) și să aibă și electronică funcțională la bord, rămâne de văzut. Yuri Milner, alături de alți finanțatori, printre care și Mark Zuckerberg (fondatorul Facebook), pun la bătaie 100 de milioane de dolari pentru un prim studiu care urmează să se desfășoare în următorii 10 ani și care să pună la punct tehnologiile necesare unei astfel de misiuni. Bugetul va 10 miliarde de dolari în viitor, dacă misiunea va fi una realizabilă, dar eu sunt convins că banii se vor găsi, problemele proiectului sunt în primul rând de ordin tehnic. Detalii despre acest anunț pot fi citite în [[http://arstechnica.com/science/2016/04/breakthrough-starshot-announces-plans-to-send-ship-to-alpha-centauri/][Ars Technica]], [[https://www.newscientist.com/article/2084029-billionaire-pledges-100m-to-send-spaceships-to-alpha-centauri/?utm_source=NSNS&utm_medium=SOC&utm_campaign=hoot&cmpid=SOC%7CNSNS%7C2016-GLOBAL-twitter][New Scientist]], [[http://www.scientificamerican.com/article/100-million-plan-will-send-probes-to-the-nearest-star/][Scientific American]], [[http://www.popsci.com/tiny-spaceship-could-take-us-to-alpha-centauri-started-on-kickstarter][Popular Science]] sau [[http://www.nytimes.com/2016/04/13/science/alpha-centauri-breakthrough-starshot-yuri-milner-stephen-hawking.html?_r=0][New York Times]]. Nu știu cum vă simțiți voi, dar eu mă simt nemaipomenit de bine să trăiesc într-o lume în care miliardarii discută planuri de explorare a sistemului Alpha Centauri, explorare care va putea avea loc în timpul vieții multora dintre noi.
 
 Veștile bune nu se opresc însă la planurile de explorare ale lui Alpha Centauri, pentru că exact în același timp, de la a 32-a ediție a Simpozionului Spațial de la Colorado am aflat alte două noutăți care vor schimba peisajul orbital în anii ce urmează. Prima știre vine de la compania Orbital ATK care a anunțat că dorește în următorii ani se dezvolte un vehicul spațiale pentru prelungirea vieații sateliților. Tentative de a repara sateliți sau de a-i aduce pe Pământ pentru recondiționare au mai avut loc în cadrul misiunilor navetei spațiale, însă s-a dovedit că un satelit nou poate fi mai ieftin decât o misiune cu echipaj uman care să aducă satelitul la sol sau care să efectueze manevere riscante pe orbită. Propunerea Orbital ATK este însă una mult mai simplă: un vehicul (evident, fără echipaj) se va apropia de satelitul aflat în dificultate, va andoca cu acesta și îl va putea muta pe o altă orbită, folosind combustibilul propriu și nu cel al satelitului în cauză. Primul test va avea loc în câțiva ani și primul partener va fi Intelsat, pentru care Orbital ATK va lansa în 2018 un satelit de telecomunicații, după care urmează lansarea vehiculului MEV-1 (Mission Extension Vehicle, practic un satelit GEOStar modificat) care după ce va ajunge pe orbită și va efectua unele manevre test, în 2019 va andoca cu satelitul Intelsat, pentru a-i modifica orbita. MEV-1 urmează să aibă o perioadă de viață de 15 ani, timp în care va putea efectua numeroase andocări cu mai mulți sateliți. Orbital ATK este compania care a produs capsula Cygnus și care se află acum cuplată cu Stația Spațială Internațională, iar în acest an sperăm să revedem la lucru lansatorul propriu, Antares, care urmează să revină pe rampa de lansare după necazul din toamna lui 2014.
 
+---
+
 La același simpozion din Colorado, United Launch Alliance (ULA) și Bigelow Aerospace au anunțat că intenționează  să lanseze împreună, folosind în 2020 o rachetă Atlas V, un modul gonflabil BA330 care va juca rolul unei stații spațiale, probabil prima stație spațială privată de pe orbită. Un model de dimensiuni reduse (BEAM) a fost lansat vineri de către SpaceX și urmează să fie cuplat cu Stația Spațială Internațională, iar Bigelow Aerospace intenționează să lanseze în viitor un nod central, de care să atașeze un număr mai mare de astfel de module BA330 (maximum 6), mai mari decât BEAM. Volumul total presurizat al Stației Spațiale Internaționale este de 916 metri cubi (388 utilizați de către echipaj), iar un singur modul BA330 are nu mai puțin de 330 de metri cubi care pot fi presurizați, astfel că folosind doar câteva lansări Atlas V (mult mai ieftine decât lansările Proton sau ale navetei spațiale), în mai puțin de un an, stația spațială privată a celor de la Bigelow poate ajunge foarte rapid la volumul actual al actualei Stații Spațiale Internaționale. Și merită menționat aici că NASA are deocamdată fonduri pentru utilizarea SSI până în 2024, după care se va gândi serios la de-orbitarea avanpostului orbital, din pricina uzurii diverselor componente care nu pot fi înlocuite. Bigelow afirmă că există deja cereri pentru astfel de stații spațiale, din sectorul cercetării, dar și al turismului spațial sau cel al divertismentului. BA330 cântărește 20 de tine și are un volum inițial, în timpul lansării, de 20 de ori mai mic decât cel final, de pe orbită. Însă adevăratul câștig va fi posibilitatea de a folosi aceste habitate gonflabile nu doar pe orbita Pământului, dar și în drum spre Marte, pe suprafața marțiană sau ca viitoare baze selenare.
 
-** Buletin Cosmic nr. 08
+** Buletin Cosmic nr. 08 :exomars:gto:schiaparelli:mro:spacex:rs25:ariane5:
 :PROPERTIES:
 :EXPORT_FILE_NAME: 008
 :EXPORT_DATE: 2016-03-16
@@ -4467,7 +4510,7 @@ A doua lansare din 2016 a unei rachete europene Ariane 5 a avut loc în 9 martie
 
 Cel mai nou satelit meteorologic militar, DMSP F19 (Defense Meteorological Satellite Program Flight 19) refuză să răspundă comenzilor de la sol și astfel nu mai poate fi controlat de aproape o lună de zile. Cu o masă de 1.2 tone, satelitul a fost lansat în 3 aprilie 2014 de către o rachetă Atlas V și de atunci se află pe orbită polară, alături de alți 5 sateliți din aceiași constelație. Satelitul trebuia să funcționeze pentru o perioadă de cel puțin 5 ani de zile, iar ceilalți sateliți meteorologici din aceiași constelație și-au depășit deja perioada de funcționare estimată inițial. Nu este pentru prima dată când sateliții DMSP, construiți de Lockheed Martin, au probleme: un astfel de satelit lansat în 1995 (DMSP F13) a explodat pe orbită anul trecut, împrăștiind reziduuri pe o zonă extinsă. US Air Force intenționează să-și modernizeze flota de sateliți meteorologici proprii începând cu 2020. DMSP F19 a fost construit în 1998 și depozitat până la momentul lansării din 2014.
 
-** Buletin Cosmic nr. 07
+** Buletin Cosmic nr. 07 :iss:progress:m29m:spacex:ses9:exomars:coreeadenord:
 :PROPERTIES:
 :EXPORT_FILE_NAME: 007
 :EXPORT_DATE: 2016-03-06
@@ -4503,7 +4546,7 @@ Satelitul românesc Goliat nu a fost o reușită pentru noi, însă o echipă de
 
 Următoarea lansare din această lună este programată pentru miercuri dimineață, când o rachetă Ariane 5 va urca pe orbită satelitul de telecomunicații Eutelsat 65 West A, iar joi este programată lansarea unui nou satelit indian din seria IRNSS. Încă alte 6 lansări mai sunt programate pentru luna martie, din care 4 zboruri spre Stația Spațială Internațională (Soyuz — cu echipaj, Progress, Dragon și Cygnus) și unul spre Marte (ExoMars).
 
-** Buletin Cosmic nr. 06
+** Buletin Cosmic nr. 06 :sentinel:h2a:progress:m29m:spacex:2013tx68:iss:cygnus:
 :PROPERTIES:
 :EXPORT_FILE_NAME: 006
 :EXPORT_DATE: 2016-02-22
@@ -4547,7 +4590,7 @@ De pe Lună, doar vești bune: Chang'E 3 tocmai a început a 28-a zi lunară a m
 
 Și dacă tot am adus vorba de China, veștile de acolo sunt și ele îmbucurătoare: China vrea să mărească ritmul lansărilor cu echipaj uman: după ce Shenzhou-11 este pregătită pentru zbor în acest an, se pare că pentru anul viitor este deja programată misiunea Shenzhou-12. Până în prezent au avut loc 5 zboruri ale taikonauților cu capsula Shenzhou: Shenzhou-5 (2003), Shenzhou-6 (2005), Shenzhou-7 (2008), Shenzhou-9 (2012) și Shenzhou-10 (2013). În 2003, China a devenit a treia națiune care poate transporta oameni pe orbită și, din 2011, după ce SUA a încetat să mai folosească navetele spațiale, a rămas a doua țară, după Rusia, care este capabilă să-și transporte singură astronauții în cosmos.
 
-** Buletin Cosmic nr. 05
+** Buletin Cosmic nr. 05 :philae:delta4:gslv:apophis:sls:
 :PROPERTIES:
 :EXPORT_FILE_NAME: 005
 :EXPORT_DATE: 2016-02-15
@@ -4575,7 +4618,7 @@ O știre bizară vine din Rusia, care anunță că dorește să testeze o nouă 
 
 Deși bugetul SUA va fi cu 4% mai mare în 2017, banii ceruți de administrația Obama pentru NASA vor scădea cu 300 de milioane dolari față de 2016. Space Launch System (SLS) pierde 35% din bugetul pe 2016 (primește doar 1.3 miliarde în loc de 2 miliarde cât a fost alocat pentru 2016). Reducerile înseamnă și amânarea cu cel puțin cinci ani a unei misiuni spre Europa, împinsă acum undeva aproape de anul 2030. În total, bugetul NASA pentru 2017 urmează să fie 19,025 miliarde dolari, însă aceasta este doar o propunere a președintelui, care trebuie să treacă și de Congres.
 
-** Buletin Cosmic nr. 04
+** Buletin Cosmic nr. 04 :orion:eva42:juno:yutu:change3:atlasv:
 :PROPERTIES:
 :EXPORT_FILE_NAME: 004
 :EXPORT_DATE: 2016-02-08
@@ -4611,7 +4654,7 @@ Edgar Mitchell, unul dintre cei 12 oameni care au pășit pe Lună, a murit vine
 
 În noaptea de vineri spre sâmbătă am avut parte de două lansări, la distanță de câteva minute între ele: o rachetă Soyuz a lansat un satelit GLONASS-M, pentru a consolida constelația de geolocalizare rusească, dar și o lansare din... Coreea de Nord.
 
-** Buletin Cosmic nr. 03
+** Buletin Cosmic nr. 03 :opportunity:marsexpress:soyuz:tma20m:protonm:ariane5:shenlong:
 :PROPERTIES:
 :EXPORT_FILE_NAME: 003
 :EXPORT_DATE: 2016-02-01
@@ -4647,7 +4690,7 @@ Ați avut ieri probleme joi cu navigatorul GPS? Dacă da, a fost din cauza unui 
 
 Falcon 9 a celor de la SpaceX, varianta "Full Thrust", a fost certificată pentru lansări necesare pentru National Security Space (NSS). Asta înseamnă că SpaceX va putea concura în continuare pentru licitațiile lansărilor de sateliți GPS, dar și alți sateliți militari. Însă clienții comerciali sunt nemulțumiți de întârzierile acumulate de SpaceX în ultimul timp, întârzieri care se propagă și pe parcursul lui 2016.
 
-** Buletin Cosmic nr. 02
+** Buletin Cosmic nr. 02 :irnss:india:dragon2:angara:newshepard:
 :PROPERTIES:
 :EXPORT_FILE_NAME: 002
 :EXPORT_DATE: 2016-01-25
@@ -4671,7 +4714,7 @@ Blue Origin a lansat din nou capsula New Shepard dincolo de limita Kármán (100
 
 Conform NORAD, treapta superioară Breeze-M a unei rachete Proton M, care în 16 ianuarie 2016 a livrat pe orbită satelitul militar rusesc Garpun 12L (Kosmos 2513), a explodat undeva la o altitudine de 35 kilometri, după ce a efectuat o serie de manevre aparent necontrolate. Cel mai probabil, combustibilul de la borul treptei s-a scurs și în cele din urmă s-a aprins. Satelitul se află în siguranță și nu a fost afectat de acest eveniment.
 
-** Buletin Cosmic nr. 01
+** Buletin Cosmic nr. 01 :ula:change4:tianzhou:rd180:raptor:cassini:juno:
 :PROPERTIES:
 :EXPORT_FILE_NAME: 001
 :EXPORT_DATE: 2016-01-18
@@ -4726,3 +4769,4 @@ Sonda Cassini a efectuat de curând ultimul său survol al satelitului saturnian
 ---
 
 Juno a depășit recordul pentru cea mai îndepărtată sondă care folosește panouri solare pentru generarea energiei electrice necesară la bord. Aflată la 793 milioane de kilometri, Juno întrece astfel sonda Rosetta, până ieri deținătoarea recordului (792 milioane de kilometri, în octombrie 2012). În patru iulie 2016, Juno va ajunge pe orbita lui Jupiter, desintația finală a sondei. Din păcate, Rosetta nu mai are nici o veste cu privire la Philae. Acestuia i-au fost transmise un set de comenzi care să-l facă să salte puțin, să-și scuture de praf panourile solar și să poată astfel încerca să comunice cu Rosetta. Temperaturile de pe suprafața cometei ating deja valori care face tot mai neverosimilă o viitoare comunicare cu landerul Philae.
+
