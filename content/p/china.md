@@ -69,11 +69,11 @@ Cosmodromul de la Wenchang a fost construit special pentru lansatoarele Changzhe
   Lansările lansatorului Changzheng-7
 </div>
 
-| Nr. | Data       | Încărcătură | Masa | Dest. | Rezultat |
-|-----|------------|-------------|------|-------|----------|
-| 1   | 26.06.2016 | Tiange      | ??   | LEO   | Succes   |
-| 2   | 20.04.2017 | Tianzhou-1  | ??   | LEO   | Succes   |
-| 3   | 16.03.2020 | TJS-5       | ??   | GEO   | Eșec     |
+| Nr. | Data       | Variantă | Încărcătură | Masa | Dest. | Rezultat |
+|-----|------------|----------|-------------|------|-------|----------|
+| 1   | 26.06.2016 | CZ-7     | Tiange      | ??   | LEO   | Succes   |
+| 2   | 20.04.2017 | CZ-7     | Tianzhou-1  | ??   | LEO   | Succes   |
+| 3   | 16.03.2020 | CZ-7A    | TJS-5       | ??   | GEO   | Eșec     |
 
 
 ### Changzheng-8 (proiect) {#changzheng-8--proiect}
@@ -88,7 +88,20 @@ Changzheng-9 urmează să fie lansatorul de calibru supergreu al Chinei, compara
 
 ### Changzheng-11 {#changzheng-11}
 
-Spre deosebire de rachetele din noua generație prezentate mai sus, Changzheng 11 este o rachetă cu combustibil solid. Asta înseamnă că ea poate fi lansată rapid, la nevoie, putând fi lansată de pe platforme mobile sau chiar maritime (dacă sunt apropiate de ecuator, platformele maritime oferă un plus de performanță). Changzheng-11 are în schimb performanțe modeste: doar 700 de kilograme pe LEO și 350 kg pe orbită heliosincronă, însă din cele 8 lansări de până acum (din 2015) ea nu a suferit nici un eșec. În 5 iunie 2019 China reușea prima lansare de pe o platformă maritimă, folosind o variantă modificată a acestei rachete, Changzheng-11H
+Spre deosebire de rachetele din noua generație prezentate mai sus, Changzheng 11 este o rachetă cu combustibil solid. Asta înseamnă că ea poate fi lansată rapid, la nevoie, putând fi lansată de pe platforme mobile sau chiar maritime (dacă sunt apropiate de ecuator, platformele maritime oferă un plus de performanță), fiind derivată din racheta balistică DF-31. Changzheng-11 are în schimb performanțe modeste: doar 700 de kilograme pe LEO și 350 kg pe orbită heliosincronă, însă din cele 8 lansări de până acum (din 2015) ea nu a suferit nici un eșec.
+
+În 5 iunie 2019 China reușea prima lansare de pe o platformă maritimă, folosind o variantă modificată a acestei rachete, Changzheng-11H.
+
+| Nr. | Data       | Variantă | Încărcătură | Dest. | Rezultat |
+|-----|------------|----------|-------------|-------|----------|
+| 1   | 25.09.2015 | CZ-11    | Pujiang-1   | SSO   | Succes   |
+| 2   | 09.11.2016 | CZ-11    | XPNAV-1     | SSO   | Succes   |
+| 3   | 19.01.2018 | CZ-11    | Jilin-1     | SSO   | Succes   |
+| 4   | 26.04.2018 | CZ-11    | Zhuhai-1    | SSO   | Succes   |
+| 5   | 21.12.2018 | CZ-11    | Hongyun-1   | SSO   | Succes   |
+| 6   | 21.01.2019 | CZ-11    | Jilin-1S    | SSO   | Succes   |
+| 7   | 05.06.2019 | CZ-11H   | Bufeng-1    | LEO   | Succes   |
+| 8   | 19.09.2019 | CZ-11    | Zhuhai-1OVS | SSO   | Succes   |
 
 
 ## Sectorul privat {#sectorul-privat}

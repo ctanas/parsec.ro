@@ -443,11 +443,11 @@ Varianta Changzheng-7A este adaptată pentru orbita geostaționară și are în 
 Cosmodromul de la Wenchang a fost construit special pentru lansatoarele Changzheng-5 și Changzheng-7 și a costat 800 de milioane de dolari. Amplasarea rampelor este mai fericită, fiind mai apropiată de Ecuator și înconjurată de ocean, nu de zone populate. Asta înseamnă că lansările vor fi nu doar mai ecologice, dar și mai sigure, iar apropierea insulei Hainan de Ecuator oferă o oarecare economisire a combustibilului și deci performanțe sporite (19 grade, față de 28 de grade unde este plasat Cape Canaveral).
 
 #+CAPTION: Lansările lansatorului Changzheng-7
-| Nr. |       Data | Încărcătură | Masa | Dest. | Rezultat |
-|-----+------------+-------------+------+-------+----------|
-|   1 | 26.06.2016 | Tiange      | ??   | LEO   | Succes   |
-|   2 | 20.04.2017 | Tianzhou-1  | ??   | LEO   | Succes   |
-|   3 | 16.03.2020 | TJS-5       | ??   | GEO   | Eșec     |
+| Nr. |       Data | Variantă | Încărcătură | Masa | Dest. | Rezultat |
+|-----+------------+----------+-------------+------+-------+----------|
+|   1 | 26.06.2016 | CZ-7     | Tiange      | ??   | LEO   | Succes   |
+|   2 | 20.04.2017 | CZ-7     | Tianzhou-1  | ??   | LEO   | Succes   |
+|   3 | 16.03.2020 | CZ-7A    | TJS-5       | ??   | GEO   | Eșec     |
 
 **** Changzheng-8 (proiect)
 Changzheng-8 este răspunsul Chinei la SpaceX și va încorpora o serie de elemente reutilizabile. Derivată din Changzheng-7 (diametru de 3.35 metri și proiectată pentru LEO), Changzheng-8 va fi dotată și cu două boostere auxiliare, derivate din Changzheng-11. Toate cele trei piese (prima treaptă centrală și cele două boostere) vor fi reutilizabile și vor ateriza vertical. Primul zbor este momentan planificat pentru 2021.
@@ -456,7 +456,20 @@ Changzheng-8 este răspunsul Chinei la SpaceX și va încorpora o serie de eleme
 Changzheng-9 urmează să fie lansatorul de calibru supergreu al Chinei, comparabil cu Saturn V și SLS. Va putea lansa 140 de tone pe orbită joasă, 50 de tone spre Lună și 44 de tone spre Marte. Lungă de 93 de metri, diametru maxim al rachetei va fi de 10 metri și la lansare masa acesteia va fi de nu mai puțin de 4000 tone. Prima treaptă va fi ajutată de 4 boostere auxiliare cu combustibil lochid, comparabile cu actuala rachetă Changzheng-5. Deja China a început producerea de elemente pentru Changzheng, dar rachetă nu va zbura mai devreme de 2030.
 
 **** Changzheng-11
-Spre deosebire de rachetele din noua generație prezentate mai sus, Changzheng 11 este o rachetă cu combustibil solid. Asta înseamnă că ea poate fi lansată rapid, la nevoie, putând fi lansată de pe platforme mobile sau chiar maritime (dacă sunt apropiate de ecuator, platformele maritime oferă un plus de performanță). Changzheng-11 are în schimb performanțe modeste: doar 700 de kilograme pe LEO și 350 kg pe orbită heliosincronă, însă din cele 8 lansări de până acum (din 2015) ea nu a suferit nici un eșec. În 5 iunie 2019 China reușea prima lansare de pe o platformă maritimă, folosind o variantă modificată a acestei rachete, Changzheng-11H
+Spre deosebire de rachetele din noua generație prezentate mai sus, Changzheng 11 este o rachetă cu combustibil solid. Asta înseamnă că ea poate fi lansată rapid, la nevoie, putând fi lansată de pe platforme mobile sau chiar maritime (dacă sunt apropiate de ecuator, platformele maritime oferă un plus de performanță), fiind derivată din racheta balistică DF-31. Changzheng-11 are în schimb performanțe modeste: doar 700 de kilograme pe LEO și 350 kg pe orbită heliosincronă, însă din cele 8 lansări de până acum (din 2015) ea nu a suferit nici un eșec. 
+
+În 5 iunie 2019 China reușea prima lansare de pe o platformă maritimă, folosind o variantă modificată a acestei rachete, Changzheng-11H.
+
+| Nr. |       Data | Variantă | Încărcătură | Dest. | Rezultat |
+|-----+------------+----------+-------------+-------+----------|
+|   1 | 25.09.2015 | CZ-11    | Pujiang-1   | SSO   | Succes   |
+|   2 | 09.11.2016 | CZ-11    | XPNAV-1     | SSO   | Succes   |
+|   3 | 19.01.2018 | CZ-11    | Jilin-1     | SSO   | Succes   |
+|   4 | 26.04.2018 | CZ-11    | Zhuhai-1    | SSO   | Succes   |
+|   5 | 21.12.2018 | CZ-11    | Hongyun-1   | SSO   | Succes   |
+|   6 | 21.01.2019 | CZ-11    | Jilin-1S    | SSO   | Succes   |
+|   7 | 05.06.2019 | CZ-11H   | Bufeng-1    | LEO   | Succes   |
+|   8 | 19.09.2019 | CZ-11    | Zhuhai-1OVS | SSO   | Succes   |
 
 *** Sectorul privat
 Compania iSpace (sau, pe numele său complet /Beijing Interstellar Glory Space Technology Ltd./) a devenit în 25 iulie 2019 prima companie privată care a reușit o lansare orbitală din China. Racheta Hyperbola-1 a companiei iSpace este o rachetă cu trei trepte cu combustibil solid și o a patra treaptă cu combustibil lichid, lungă de 20.8 metri și o masă pe rampa de lansare de 31 de tone.
