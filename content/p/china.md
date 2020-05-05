@@ -14,13 +14,17 @@ Prima iterație a rachetei Changzheng a fost folosită de două ori, între 1970
 
 ### Changzheng-5 {#changzheng-5}
 
-Changzheng-5 este racheta de calibru greu a Chinei, cu performanțe comparabile cu Delta IV Heavy, Falcon Heavy sau Ariane 5. Prima treaptă este propulsată de 2 motoare YF-77 cu combustibil lichid (oxigen lichid și kerosen) și este ajutată de 4 boostere auxiliare cu combustibil lichid, propulsate fiecare de două motoare YF-100. A doua treaptă are 2 motoare YF-75D, care ard hidrogen lichid și oxigen lichid, iar la nevoie racheta poate fi dotată și cu o a treia treaptă. Changzheng-5 este proiectată pentru a atinge orbita geostaționară, spre care poate lansa 14 tone, dar o variantă dezvoltată special pentru orbită joasă (fără a treia treaptă) poate urca și 25 de tone pe LEO. Are o înălțime de 57 de metri și un diametru de 5 metri.
+Changzheng-5 este racheta de calibru greu a Chinei, cu performanțe comparabile cu Delta IV Heavy, Falcon Heavy sau Ariane 5. Prima treaptă este propulsată de 2 motoare YF-77 cu combustibil lichid (hidrogen și oxigen lichid) și este ajutată de 4 boostere auxiliare cu combustibil lichid, propulsate fiecare de două motoare YF-100 (care ard kerosen și oxigen lichid). A doua treaptă are 2 motoare YF-75D, care ard hidrogen lichid și oxigen lichid, iar a treia treaptă este Yuanzheng-2, cu 2 motoare YF-50D. Changzheng-5 este proiectată pentru a atinge orbita geostaționară, spre care poate lansa 14 tone, dar o variantă dezvoltată special pentru orbită joasă (Changzheng-5B, fără a treia treaptă) poate urca și 25 de tone pe LEO. Are o înălțime de 57 de metri și un diametru de 5 metri.
 
 Primul zbor a avut loc în 2 noiembrie 2016 și nu a fost lipsit de emoții, echipa de ingineri remediind contracronometru o serie de probleme tehnice. În cele din urmă, după o întârziere de trei ore, lansarea a avut loc, dar performanțele motorului treptei superioare au fost sub așteptări și satelitul Shijian-17 a ajuns pe o orbită mai joasă, corectată ulterior datorită propulsoarelor celei de-a treia trepte.
 
 A doua tentativă de lansare a rachetei Changzheng-5 a avut loc în 2 iulie 2017, dar a fost un eșec, iar satelitul Shijian-18 a fost pierdut. Primele probleme au început imediat după separarea celor patru boostere suplimentare cu combustibil lichid, la 5 minute și 47 de secunde după lansare de la ora 14:23, [când de la baza primei trepte s-au putut observa vapori de culoare albă, neașteptați și plasați oarecum asimetric](https://www.youtube.com/watch?v=LyKXiXTRAuI) (minutul 10:50 în această înregistrare).
 
 După terminarea combustibilului primei trepte, aceasta trebuia să se desprindă de a doua treaptă, la 465 de secunde după lansare, însă separarea a avut loc la 570 de secunde, cu 105 secunde mai târziu. Întârzierea s-a dovedit a fi fatală pentru soarta satelitului, pentru că deși motoarele celei de-a doua trepte au pornit, satelitul și cea de-a doua treaptă pierdeau altitudine, datorită timpului prea lung în care prima treaptă a rămas cuplată. Motoarele celei de-a doua trepte s-au oprit după trei minute, timp insuficient pentru a corecta traiectoria care ducea satelitul spre Pământ. Oricum, planul inițial era ca a doua treaptă să ardă pentru cel puțin 4 minute, pentru a plasa încărcătura pe orbită intermediară.
+
+A treia lansare a fost prima care a decurs fără probleme, satelitul Shijian-20 ajungând cu bine pe orbită geostaționară.
+
+În 5 mai 2020, debutează versiunea Changzheng-5B, optimizată pentru lansări spre orbită terestră joasă, unde poate urca până la 24 de tone. Cu această ocazie are loc primul test al viitoarei capsule spațiale, care urmează să transporte viitori taikonauți pe orbită.
 
 <div class="table-caption">
   <span class="table-number">Tabel 1</span>:
@@ -31,6 +35,8 @@ După terminarea combustibilului primei trepte, aceasta trebuia să se desprind�
 |-----|------------|----------|-------------|------|-------|----------------|
 | 1   | 02.11.2016 | CZ-5     | Shijian-17  | 4t   | GTO   | Succes parțial |
 | 2   | 02.07.2017 | CZ-5     | Shijian-18  | 7t   | GTO   | Eșec           |
+| 3   | 27.12.2019 | CZ-5     | Shijian-20  | 8t   | GTO   | Succes         |
+| 4   | 05.05.2020 | CZ-5B    | Shenzhou2   | ??   | LEO   | Succes         |
 
 
 ### Changzheng-6 {#changzheng-6}
@@ -63,11 +69,11 @@ Cosmodromul de la Wenchang a fost construit special pentru lansatoarele Changzhe
   Lansările lansatorului Changzheng-7
 </div>
 
-| Nr. | Data       | Încărcătură | Masa | Dest. | Rezultat |
-|-----|------------|-------------|------|-------|----------|
-| 1   | 26.06.2016 | Tiange      | ??   | LEO   | Succes   |
-| 2   | 20.04.2017 | Tianzhou-1  | ??   | LEO   | Succes   |
-| 3   | 16.03.2020 | TJS-5       | ??   | GEO   | Eșec     |
+| Nr. | Data       | Variantă | Încărcătură | Masa | Dest. | Rezultat |
+|-----|------------|----------|-------------|------|-------|----------|
+| 1   | 26.06.2016 | CZ-7     | Tiange      | ??   | LEO   | Succes   |
+| 2   | 20.04.2017 | CZ-7     | Tianzhou-1  | ??   | LEO   | Succes   |
+| 3   | 16.03.2020 | CZ-7A    | TJS-5       | ??   | GEO   | Eșec     |
 
 
 ### Changzheng-8 (proiect) {#changzheng-8--proiect}
@@ -82,7 +88,20 @@ Changzheng-9 urmează să fie lansatorul de calibru supergreu al Chinei, compara
 
 ### Changzheng-11 {#changzheng-11}
 
-Spre deosebire de rachetele din noua generație prezentate mai sus, Changzheng 11 este o rachetă cu combustibil solid. Asta înseamnă că ea poate fi lansată rapid, la nevoie, putând fi lansată de pe platforme mobile sau chiar maritime (dacă sunt apropiate de ecuator, platformele maritime oferă un plus de performanță). Changzheng-11 are în schimb performanțe modeste: doar 700 de kilograme pe LEO și 350 kg pe orbită heliosincronă, însă din cele 8 lansări de până acum (din 2015) ea nu a suferit nici un eșec. În 5 iunie 2019 China reușea prima lansare de pe o platformă maritimă, folosind o variantă modificată a acestei rachete, Changzheng-11H
+Spre deosebire de rachetele din noua generație prezentate mai sus, Changzheng 11 este o rachetă cu combustibil solid. Asta înseamnă că ea poate fi lansată rapid, la nevoie, putând fi lansată de pe platforme mobile sau chiar maritime (dacă sunt apropiate de ecuator, platformele maritime oferă un plus de performanță), fiind derivată din racheta balistică DF-31. Changzheng-11 are în schimb performanțe modeste: doar 700 de kilograme pe LEO și 350 kg pe orbită heliosincronă, însă din cele 8 lansări de până acum (din 2015) ea nu a suferit nici un eșec.
+
+În 5 iunie 2019 China reușea prima lansare de pe o platformă maritimă, folosind o variantă modificată a acestei rachete, Changzheng-11H.
+
+| Nr. | Data       | Variantă | Încărcătură | Dest. | Rezultat |
+|-----|------------|----------|-------------|-------|----------|
+| 1   | 25.09.2015 | CZ-11    | Pujiang-1   | SSO   | Succes   |
+| 2   | 09.11.2016 | CZ-11    | XPNAV-1     | SSO   | Succes   |
+| 3   | 19.01.2018 | CZ-11    | Jilin-1     | SSO   | Succes   |
+| 4   | 26.04.2018 | CZ-11    | Zhuhai-1    | SSO   | Succes   |
+| 5   | 21.12.2018 | CZ-11    | Hongyun-1   | SSO   | Succes   |
+| 6   | 21.01.2019 | CZ-11    | Jilin-1S    | SSO   | Succes   |
+| 7   | 05.06.2019 | CZ-11H   | Bufeng-1    | LEO   | Succes   |
+| 8   | 19.09.2019 | CZ-11    | Zhuhai-1OVS | SSO   | Succes   |
 
 
 ## Sectorul privat {#sectorul-privat}

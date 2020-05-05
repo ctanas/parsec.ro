@@ -402,7 +402,7 @@ Prima iterație a rachetei Changzheng a fost folosită de două ori, între 1970
 
 **** Changzheng-5
 
-Changzheng-5 este racheta de calibru greu a Chinei, cu performanțe comparabile cu Delta IV Heavy, Falcon Heavy sau Ariane 5. Prima treaptă este propulsată de 2 motoare YF-77 cu combustibil lichid (oxigen lichid și kerosen) și este ajutată de 4 boostere auxiliare cu combustibil lichid, propulsate fiecare de două motoare YF-100. A doua treaptă are 2 motoare YF-75D, care ard hidrogen lichid și oxigen lichid, iar la nevoie racheta poate fi dotată și cu o a treia treaptă. Changzheng-5 este proiectată pentru a atinge orbita geostaționară, spre care poate lansa 14 tone, dar o variantă dezvoltată special pentru orbită joasă (fără a treia treaptă) poate urca și 25 de tone pe LEO. Are o înălțime de 57 de metri și un diametru de 5 metri.
+Changzheng-5 este racheta de calibru greu a Chinei, cu performanțe comparabile cu Delta IV Heavy, Falcon Heavy sau Ariane 5. Prima treaptă este propulsată de 2 motoare YF-77 cu combustibil lichid (hidrogen și oxigen lichid) și este ajutată de 4 boostere auxiliare cu combustibil lichid, propulsate fiecare de două motoare YF-100 (care ard kerosen și oxigen lichid). A doua treaptă are 2 motoare YF-75D, care ard hidrogen lichid și oxigen lichid, iar a treia treaptă este Yuanzheng-2, cu 2 motoare YF-50D. Changzheng-5 este proiectată pentru a atinge orbita geostaționară, spre care poate lansa 14 tone, dar o variantă dezvoltată special pentru orbită joasă (Changzheng-5B, fără a treia treaptă) poate urca și 25 de tone pe LEO. Are o înălțime de 57 de metri și un diametru de 5 metri.
 
 Primul zbor a avut loc în 2 noiembrie 2016 și nu a fost lipsit de emoții, echipa de ingineri remediind contracronometru o serie de probleme tehnice. În cele din urmă, după o întârziere de trei ore, lansarea a avut loc, dar performanțele motorului treptei superioare au fost sub așteptări și satelitul Shijian-17 a ajuns pe o orbită mai joasă, corectată ulterior datorită propulsoarelor celei de-a treia trepte.
 
@@ -410,11 +410,17 @@ A doua tentativă de lansare a rachetei Changzheng-5 a avut loc în 2 iulie 2017
 
 După terminarea combustibilului primei trepte, aceasta trebuia să se desprindă de a doua treaptă, la 465 de secunde după lansare, însă separarea a avut loc la 570 de secunde, cu 105 secunde mai târziu. Întârzierea s-a dovedit a fi fatală pentru soarta satelitului, pentru că deși motoarele celei de-a doua trepte au pornit, satelitul și cea de-a doua treaptă pierdeau altitudine, datorită timpului prea lung în care prima treaptă a rămas cuplată. Motoarele celei de-a doua trepte s-au oprit după trei minute, timp insuficient pentru a corecta traiectoria care ducea satelitul spre Pământ. Oricum, planul inițial era ca a doua treaptă să ardă pentru cel puțin 4 minute, pentru a plasa încărcătura pe orbită intermediară.
 
+A treia lansare a fost prima care a decurs fără probleme, satelitul Shijian-20 ajungând cu bine pe orbită geostaționară.
+
+În 5 mai 2020, debutează versiunea Changzheng-5B, optimizată pentru lansări spre orbită terestră joasă, unde poate urca până la 24 de tone. Cu această ocazie are loc primul test al viitoarei capsule spațiale, care urmează să transporte viitori taikonauți pe orbită.
+
 #+CAPTION: Lansările lansatorului Changzheng-5
 | Nr. |       Data | Varianta | Încărcătură | Masa | Dest. | Rezultat       |
 |-----+------------+----------+-------------+------+-------+----------------|
 |   1 | 02.11.2016 | CZ-5     | Shijian-17  | 4t   | GTO   | Succes parțial |
 |   2 | 02.07.2017 | CZ-5     | Shijian-18  | 7t   | GTO   | Eșec           |
+|   3 | 27.12.2019 | CZ-5     | Shijian-20  | 8t   | GTO   | Succes         |
+|   4 | 05.05.2020 | CZ-5B    | Shenzhou2   | ??   | LEO   | Succes         |
 
 **** Changzheng-6
 
@@ -437,11 +443,11 @@ Varianta Changzheng-7A este adaptată pentru orbita geostaționară și are în 
 Cosmodromul de la Wenchang a fost construit special pentru lansatoarele Changzheng-5 și Changzheng-7 și a costat 800 de milioane de dolari. Amplasarea rampelor este mai fericită, fiind mai apropiată de Ecuator și înconjurată de ocean, nu de zone populate. Asta înseamnă că lansările vor fi nu doar mai ecologice, dar și mai sigure, iar apropierea insulei Hainan de Ecuator oferă o oarecare economisire a combustibilului și deci performanțe sporite (19 grade, față de 28 de grade unde este plasat Cape Canaveral).
 
 #+CAPTION: Lansările lansatorului Changzheng-7
-| Nr. |       Data | Încărcătură | Masa | Dest. | Rezultat |
-|-----+------------+-------------+------+-------+----------|
-|   1 | 26.06.2016 | Tiange      | ??   | LEO   | Succes   |
-|   2 | 20.04.2017 | Tianzhou-1  | ??   | LEO   | Succes   |
-|   3 | 16.03.2020 | TJS-5       | ??   | GEO   | Eșec     |
+| Nr. |       Data | Variantă | Încărcătură | Masa | Dest. | Rezultat |
+|-----+------------+----------+-------------+------+-------+----------|
+|   1 | 26.06.2016 | CZ-7     | Tiange      | ??   | LEO   | Succes   |
+|   2 | 20.04.2017 | CZ-7     | Tianzhou-1  | ??   | LEO   | Succes   |
+|   3 | 16.03.2020 | CZ-7A    | TJS-5       | ??   | GEO   | Eșec     |
 
 **** Changzheng-8 (proiect)
 Changzheng-8 este răspunsul Chinei la SpaceX și va încorpora o serie de elemente reutilizabile. Derivată din Changzheng-7 (diametru de 3.35 metri și proiectată pentru LEO), Changzheng-8 va fi dotată și cu două boostere auxiliare, derivate din Changzheng-11. Toate cele trei piese (prima treaptă centrală și cele două boostere) vor fi reutilizabile și vor ateriza vertical. Primul zbor este momentan planificat pentru 2021.
@@ -450,7 +456,20 @@ Changzheng-8 este răspunsul Chinei la SpaceX și va încorpora o serie de eleme
 Changzheng-9 urmează să fie lansatorul de calibru supergreu al Chinei, comparabil cu Saturn V și SLS. Va putea lansa 140 de tone pe orbită joasă, 50 de tone spre Lună și 44 de tone spre Marte. Lungă de 93 de metri, diametru maxim al rachetei va fi de 10 metri și la lansare masa acesteia va fi de nu mai puțin de 4000 tone. Prima treaptă va fi ajutată de 4 boostere auxiliare cu combustibil lochid, comparabile cu actuala rachetă Changzheng-5. Deja China a început producerea de elemente pentru Changzheng, dar rachetă nu va zbura mai devreme de 2030.
 
 **** Changzheng-11
-Spre deosebire de rachetele din noua generație prezentate mai sus, Changzheng 11 este o rachetă cu combustibil solid. Asta înseamnă că ea poate fi lansată rapid, la nevoie, putând fi lansată de pe platforme mobile sau chiar maritime (dacă sunt apropiate de ecuator, platformele maritime oferă un plus de performanță). Changzheng-11 are în schimb performanțe modeste: doar 700 de kilograme pe LEO și 350 kg pe orbită heliosincronă, însă din cele 8 lansări de până acum (din 2015) ea nu a suferit nici un eșec. În 5 iunie 2019 China reușea prima lansare de pe o platformă maritimă, folosind o variantă modificată a acestei rachete, Changzheng-11H
+Spre deosebire de rachetele din noua generație prezentate mai sus, Changzheng 11 este o rachetă cu combustibil solid. Asta înseamnă că ea poate fi lansată rapid, la nevoie, putând fi lansată de pe platforme mobile sau chiar maritime (dacă sunt apropiate de ecuator, platformele maritime oferă un plus de performanță), fiind derivată din racheta balistică DF-31. Changzheng-11 are în schimb performanțe modeste: doar 700 de kilograme pe LEO și 350 kg pe orbită heliosincronă, însă din cele 8 lansări de până acum (din 2015) ea nu a suferit nici un eșec. 
+
+În 5 iunie 2019 China reușea prima lansare de pe o platformă maritimă, folosind o variantă modificată a acestei rachete, Changzheng-11H.
+
+| Nr. |       Data | Variantă | Încărcătură | Dest. | Rezultat |
+|-----+------------+----------+-------------+-------+----------|
+|   1 | 25.09.2015 | CZ-11    | Pujiang-1   | SSO   | Succes   |
+|   2 | 09.11.2016 | CZ-11    | XPNAV-1     | SSO   | Succes   |
+|   3 | 19.01.2018 | CZ-11    | Jilin-1     | SSO   | Succes   |
+|   4 | 26.04.2018 | CZ-11    | Zhuhai-1    | SSO   | Succes   |
+|   5 | 21.12.2018 | CZ-11    | Hongyun-1   | SSO   | Succes   |
+|   6 | 21.01.2019 | CZ-11    | Jilin-1S    | SSO   | Succes   |
+|   7 | 05.06.2019 | CZ-11H   | Bufeng-1    | LEO   | Succes   |
+|   8 | 19.09.2019 | CZ-11    | Zhuhai-1OVS | SSO   | Succes   |
 
 *** Sectorul privat
 Compania iSpace (sau, pe numele său complet /Beijing Interstellar Glory Space Technology Ltd./) a devenit în 25 iulie 2019 prima companie privată care a reușit o lansare orbitală din China. Racheta Hyperbola-1 a companiei iSpace este o rachetă cu trei trepte cu combustibil solid și o a patra treaptă cu combustibil lichid, lungă de 20.8 metri și o masă pe rampa de lansare de 31 de tone.
@@ -684,55 +703,56 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 | 20.05 17:30 | H-IIB       | HTV-9              | NAV  | Japonia | Tanegashima     | ISS   |
 | 16.05       | Atlas V 501 | OTV-6              | NAV* | SUA     | CC SLC-41       | LEO   |
 | 07.05 11:30 | Falcon-9    | Starlink-7         | COM  | SUA     | CC SLC-41       | LEO   |
-| 05.05       | CZ-5B       | /Shenzhou2?/[fn:126] | NAV  | China   | Wenchang LC-101 | LEO   |
 
 **** Lansări orbitale efectuate în 2020
-| Nr. | Data        | Lansator     | Satelit        | Tip  | Țara    | Centru / Rampa | Ținta | Rezultat       | Bul. |
-|-----+-------------+--------------+----------------+------+---------+----------------+-------+----------------+------|
-|  29 | 25.04 01:51 | Soyuz-2.1a   | Progress MS-14 | NAV  | Rusia   | Baikonur 31/6  | ISS   | Succes         | [[/bul/073][73]]   |
-|  28 | 22.04 19:30 | Falcon-9     | 60xStarlink-6  | COM  | SUA     | KSC LC-39A     | LEO   | Succes         | [[/bul/072][72]]   |
-|  27 | 22.04 04:00 | Qased        | Noor           | SAT* | Iran    | Shahroud       | LEO   | Succes         | [[/bul/072][72]]   |
-|  26 | 09.04 11:45 | CZ-3B        | Palapa-N1      | COM  | China   | Xichang        | GEO   | Eșec[fn:128]   | [[/bul/071][71]]   |
-|  25 | 09.04 08:05 | Soyuz-2.1a   | Soyuz MS-16    | CRW  | Rusia   | Baikonur 31/6  | ISS   | Succes[fn:127] | [[/bul/071][71]]   |
-|-----+-------------+--------------+----------------+------+---------+----------------+-------+----------------+------|
-|  24 | 26.03 19:18 | Atlas-V 551  | AEHF-6         | COM* | SUA     | CC SLC-41      | GEO   | Succes[fn:125] | [[/bul/069][69]]   |
-|  23 | 24.03 04:43 | CZ-2C        | 3x Yaogan 30   | COM* | China   | Xichang        | LEO   | Succes         | [[/bul/068][68]]   |
-|  22 | 21.03 17:06 | Soyuz-2.1b   | 34x OneWeb-3   | COM  | Europa  | Baikonur 31/6  | LEO   | Succes         | [[/bul/068][68]]   |
-|  21 | 18.03 12:16 | Falcon-9     | 60xStarlink-5  | COM  | SUA     | KSC LC-39A     | LEO   | Succes[fn:l23] | [[/bul/067][67]]   |
-|  20 | 16.03 20:28 | Soyuz-2.1b   | Glonass-M      | CNS  | Rusia   | Plesetsk 43/4  | MEO   | Succes[fn:l24] | [[/bul/067][67]]   |
-|  19 | 16.03 13:34 | CZ-7A        | TJS-6          | COM* | China   | Wenchang LC201 | GEO   | Eșec[fn:l21]   | [[/bul/067][67]]   |
-|  18 | 09.03 11:55 | CZ-3B        | BeiDou-3G2Q    | CNS  | China   | Xichang LC-2   | GEO   | Succes         | [[/bul/066][66]]   |
-|  17 | 07.03 06:50 | Falcon-9     | Dragon CRS-20  | NAV  | SUA     | CC SLC-40      | ISS   | Succes         | [[/bul/066][66]]   |
-|-----+-------------+--------------+----------------+------+---------+----------------+-------+----------------+------|
-|  16 | 20.02 08:22 | Soyuz-2.1a   | Meridian-M9    | COM* | Rusia   | Plesetsk 43/3  | MOL   | Succes         | [[/bul/064][64]]   |
-|  15 | 19.02 21:07 | CZ-2D        | 4x XJS         | SAT  | China   | Xichang LC-3   | LEO   | Succes         | [[/bul/063][63]]   |
-|  14 | 18.02 22:18 | Ariane-5 ECA | JCSAT-17       | COM  | Europa  | Kourou ELA-3   | GEO   | Succes         | [[/bul/063][63]]   |
-|  13 | 17.02 15:05 | Falcon-9     | 60x Starlink-4 | COM  | SUA     | CC SLC-40      | LEO   | Succes         | [[/bul/063][63]]   |
-|  12 | 14.02 20:21 | Antares-230  | Cygnus NG-13   | NAV  | SUA     | Wallops 0A     | ISS   | Succes         | [[/bul/063][63]]   |
-|  11 | 10.02 04:03 | Atlas-V 411  | Solar Orbiter  | INT  | SUA     | CC SLC-41      | INT   | Succes         | [[/bul/062][62]]   |
-|  10 | 09.02 18:45 | Simorgh      | Zafar-1        | OBS* | Iran    | Semnan         | LEO   | Eșec           | [[/bul/062][62]]   |
-|  09 | 09.02 01:34 | H-IIA 202    | IGS-Optical-7  | OBS* | Japonia | T-shima LA-Y1  | SSO   | Succes         | [[/bul/062][62]]   |
-|  08 | 06.02 21:42 | Soyuz-2.1b   | 34x OneWeb-2   | COM  | Europa  | Baikonur       | LEO   | Succes[fn:l22] | [[/bul/062][62]]   |
-|-----+-------------+--------------+----------------+------+---------+----------------+-------+----------------+------|
-|  07 | 31.01 02:56 | Electron     | NROL-151       | SAT* | SUA     | Mahia LC-1     | LEO   | Succes         | [[/bul/061][61]]   |
-|  06 | 28.01 14:06 | Falcon-9     | 60x Starlink-3 | COM  | SUA     | CC SLC-40      | LEO   | Succes         | [[/bul/060][60]]   |
-|  05 | 16.01 21:05 | Ariane-5 ECA | Konnect        | COM  | Europa  | Kourou ELA-3   | GEO   | Succes         | [[/bul/059][59]]   |
-|  04 | 16.01 03:02 | Kuaizhou-1A  | Yinhe-1        | DEM  | China   | Jiuquan        | SSO   | Succes         | [[/bul/059][59]]   |
-|  03 | 15.01 02:53 | CZ-2D        | Kuanfu-1       | OBS  | China   | Taiyua LC-9    | LEO   | Succes         | [[/bul/058][58]]   |
-|  02 | 07.01 15:20 | CZ-3B        | TJSW-5         | COM* | China   | Xichang LC-2   | GTO   | Succes         | [[/bul/057][57]]   |
-|  01 | 07.01 02:19 | Falcon-9     | 60x Starlink-2 | COM  | SUA     | CC SLC-40      | LEO   | Succes         | [[/bul/057][57]]   |
+| Nr. | Data        | Lansator      | Satelit           | Tip  | Țara    | Centru / Rampa  | Ținta | Rezultat       | Bul. |
+|-----+-------------+---------------+-------------------+------+---------+-----------------+-------+----------------+------|
+|  30 | 05.05 10:00 | Changzheng-5B | Shenzhou2[fn:126] | NAV  | China   | Wenchang LC-101 | LEO   | Succes         | 74   |
+|-----+-------------+---------------+-------------------+------+---------+-----------------+-------+----------------+------|
+|  29 | 25.04 01:51 | Soyuz-2.1a    | Progress MS-14    | NAV  | Rusia   | Baikonur 31/6   | ISS   | Succes         | [[/bul/073][73]]   |
+|  28 | 22.04 19:30 | Falcon-9      | 60xStarlink-6     | COM  | SUA     | KSC LC-39A      | LEO   | Succes         | [[/bul/072][72]]   |
+|  27 | 22.04 04:00 | Qased         | Noor              | SAT* | Iran    | Shahroud        | LEO   | Succes         | [[/bul/072][72]]   |
+|  26 | 09.04 11:45 | CZ-3B         | Palapa-N1         | COM  | China   | Xichang         | GEO   | Eșec[fn:128]   | [[/bul/071][71]]   |
+|  25 | 09.04 08:05 | Soyuz-2.1a    | Soyuz MS-16       | CRW  | Rusia   | Baikonur 31/6   | ISS   | Succes[fn:127] | [[/bul/071][71]]   |
+|-----+-------------+---------------+-------------------+------+---------+-----------------+-------+----------------+------|
+|  24 | 26.03 19:18 | Atlas-V 551   | AEHF-6            | COM* | SUA     | CC SLC-41       | GEO   | Succes[fn:125] | [[/bul/069][69]]   |
+|  23 | 24.03 04:43 | CZ-2C         | 3x Yaogan 30      | COM* | China   | Xichang         | LEO   | Succes         | [[/bul/068][68]]   |
+|  22 | 21.03 17:06 | Soyuz-2.1b    | 34x OneWeb-3      | COM  | Europa  | Baikonur 31/6   | LEO   | Succes         | [[/bul/068][68]]   |
+|  21 | 18.03 12:16 | Falcon-9      | 60xStarlink-5     | COM  | SUA     | KSC LC-39A      | LEO   | Succes[fn:l23] | [[/bul/067][67]]   |
+|  20 | 16.03 20:28 | Soyuz-2.1b    | Glonass-M         | CNS  | Rusia   | Plesetsk 43/4   | MEO   | Succes[fn:l24] | [[/bul/067][67]]   |
+|  19 | 16.03 13:34 | CZ-7A         | TJS-6             | COM* | China   | Wenchang LC201  | GEO   | Eșec[fn:l21]   | [[/bul/067][67]]   |
+|  18 | 09.03 11:55 | CZ-3B         | BeiDou-3G2Q       | CNS  | China   | Xichang LC-2    | GEO   | Succes         | [[/bul/066][66]]   |
+|  17 | 07.03 06:50 | Falcon-9      | Dragon CRS-20     | NAV  | SUA     | CC SLC-40       | ISS   | Succes         | [[/bul/066][66]]   |
+|-----+-------------+---------------+-------------------+------+---------+-----------------+-------+----------------+------|
+|  16 | 20.02 08:22 | Soyuz-2.1a    | Meridian-M9       | COM* | Rusia   | Plesetsk 43/3   | MOL   | Succes         | [[/bul/064][64]]   |
+|  15 | 19.02 21:07 | CZ-2D         | 4x XJS            | SAT  | China   | Xichang LC-3    | LEO   | Succes         | [[/bul/063][63]]   |
+|  14 | 18.02 22:18 | Ariane-5 ECA  | JCSAT-17          | COM  | Europa  | Kourou ELA-3    | GEO   | Succes         | [[/bul/063][63]]   |
+|  13 | 17.02 15:05 | Falcon-9      | 60x Starlink-4    | COM  | SUA     | CC SLC-40       | LEO   | Succes         | [[/bul/063][63]]   |
+|  12 | 14.02 20:21 | Antares-230   | Cygnus NG-13      | NAV  | SUA     | Wallops 0A      | ISS   | Succes         | [[/bul/063][63]]   |
+|  11 | 10.02 04:03 | Atlas-V 411   | Solar Orbiter     | INT  | SUA     | CC SLC-41       | INT   | Succes         | [[/bul/062][62]]   |
+|  10 | 09.02 18:45 | Simorgh       | Zafar-1           | OBS* | Iran    | Semnan          | LEO   | Eșec           | [[/bul/062][62]]   |
+|  09 | 09.02 01:34 | H-IIA 202     | IGS-Optical-7     | OBS* | Japonia | T-shima LA-Y1   | SSO   | Succes         | [[/bul/062][62]]   |
+|  08 | 06.02 21:42 | Soyuz-2.1b    | 34x OneWeb-2      | COM  | Europa  | Baikonur        | LEO   | Succes[fn:l22] | [[/bul/062][62]]   |
+|-----+-------------+---------------+-------------------+------+---------+-----------------+-------+----------------+------|
+|  07 | 31.01 02:56 | Electron      | NROL-151          | SAT* | SUA     | Mahia LC-1      | LEO   | Succes         | [[/bul/061][61]]   |
+|  06 | 28.01 14:06 | Falcon-9      | 60x Starlink-3    | COM  | SUA     | CC SLC-40       | LEO   | Succes         | [[/bul/060][60]]   |
+|  05 | 16.01 21:05 | Ariane-5 ECA  | Konnect           | COM  | Europa  | Kourou ELA-3    | GEO   | Succes         | [[/bul/059][59]]   |
+|  04 | 16.01 03:02 | Kuaizhou-1A   | Yinhe-1           | DEM  | China   | Jiuquan         | SSO   | Succes         | [[/bul/059][59]]   |
+|  03 | 15.01 02:53 | CZ-2D         | Kuanfu-1          | OBS  | China   | Taiyua LC-9     | LEO   | Succes         | [[/bul/058][58]]   |
+|  02 | 07.01 15:20 | CZ-3B         | TJSW-5            | COM* | China   | Xichang LC-2    | GTO   | Succes         | [[/bul/057][57]]   |
+|  01 | 07.01 02:19 | Falcon-9      | 60x Starlink-2    | COM  | SUA     | CC SLC-40       | LEO   | Succes         | [[/bul/057][57]]   |
 
 **** Clasament
 | Țara    | Nr. | Lansări    |
 |---------+-----+------------|
 | SUA     |  10 | IIIIIIIIII |
-| China   |   8 | IIIIIXIX   |
+| China   |   9 | IIIIIXIXI  |
 | Europa  |   4 | IIII       |
 | Rusia   |   4 | IIII       |
 | Iran    |   2 | XI         |
 | Japonia |   1 | I          |
 |---------+-----+------------|
-| *TOTAL*   |  *29* |            |
+| *TOTAL*   |  *30* |            |
 
 **** Legendă tabel
 
@@ -956,8 +976,8 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 | CZ-3C            | CHN  | CNSA        |  2008 | 4xYF-21C     |       |       | 3.9t  |   17 |   17 |     0 | 17.05.2019 |
 | CZ-4B            | CHN  | CNSA        |  1999 | 4xYF-21C     | 4.2t  | 2.8t  | 1.5t  |   35 |   34 |     1 | 20.12.2019 |
 | CZ-4C            | CHN  | CNSA        |  2006 | 4xYF-21C     | 4.2t  | 2.8t  | 1.5t  |   28 |   26 |     2 | 27.11.2019 |
-| CZ-5             | CHN  | CNSA        |  2016 | 2xYF-100     | 25t   |       | 14t   |    3 |    2 |     1 | 27.12.2019 |
-| CZ-5B            | CHN  | CNSA        |  2020 | 2xYF-100     |       |       |       |    0 |    0 |     0 |            |
+| CZ-5             | CHN  | CNSA        |  2016 | 2xYF-100     |       |       | 14t   |    3 |    2 |     1 | 27.12.2019 |
+| CZ-5B            | CHN  | CNSA        |  2020 | 2xYF-100     | 25t   |       |       |    1 |    1 |     0 | 05.05.2020 |
 | CZ-6             | CHN  | CNSA        |  2015 | 1xYF-100     |       | 1t    |       |    3 |    3 |     1 | 13.11.2019 |
 | CZ-7             | CHN  | CNSA        |  2016 | 2xYF-100     | 13.5t |       | 5.5t  |    2 |    2 |     0 | 20.04.2017 |
 | CZ-7A            | CHN  | CNSA        |  2020 | 1xYF-100     |       |       | 7.0t  |    1 |    0 |     1 | 16.03.2020 |
