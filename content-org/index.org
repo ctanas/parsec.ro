@@ -2555,13 +2555,30 @@ Marius Trusculescu, unul din membri echipei Goliat, primul satelit românesc, a 
 :EXPORT_HUGO_SECTION: bul
 :END:
 
-** TODO Buletin Cosmic nr. 74
+** TODO Buletin Cosmic nr. 74 :cz5b:rs25:spxdm2:spacex:nasa:
 :PROPERTIES:
 :EXPORT_FILE_NAME: 074
 :EXPORT_DATE: 2020-05-06
 :END:
 
-.
+*** Lansări orbitale
+
+O rachetă *Changzheg-5B* a fost lansată marți, 5 mai, la ora 13:00 ora României, urcând pe orbită un prototip al viitoarei capsule chinezești care va transporta taikonauți în spațiu, succesoarea actualei capsule Shenzhou (care nu a primit încă oficial un nume). Racheta Changzheng-5B este practic o variantă a rachetei Changzheng-5, cea mai puternică rachetă chinezească, adaptată pentru zboruri spre orbita terestră joasă. Primele trei zboruri CZ-5 au fost folosite pentru a trimite sateliți pe orbită geostaționară, însă primele două lansări au fost problematice: prima lansare, din 2016, a fost până la urmă un succes, deși au existat îngrijorări majore ale inginerilor de la sol, îndreptățite după ce lansarea din 2017 a fost un eșec ce a dus la pierdea satelitului. Din fericire, ultima lansarea, cea din decembrie 2019, a fost una reușită. Prima treaptă a rachetei este propulsată de două motoare YF-77 alimentate cu hidrogen și oxigen lichid și patru boostere propulsate fiecare de câte două motoare YF-100 cu kerosen. Racheta poate urca 14 tone pe orbită geostaționară sau 22 de tone pe orbită terestră joasă (varianta CZ-5B). Este un lansator esențial pentru viitoarea stație spațială chinezească, dar și pentru misiunile selenare și marțiene pe care Agenția Spațiale Chineză le are în plan pentru acest an.
+
+*** Alte evenimente
+
+Compania americană *Aerojet Rocketdyne* a primit 1.79 miliarde de dolari de la NASA pentru încă alte 6 motoare *RS-25*, motoare ce urmează să fie folosite pentru treapta primară a viitoarei rachete SLS[fn::https://www.rocket.com/article/nasa-awards-aerojet-rocketdyne-179-billion-contract-modification-build-additional-rs-25]. În total, din 2015[fn::https://www.nasa.gov/press-release/nasa-awards-contract-to-restart-development-of-engines-to-power-agency-s-journey-to], Aerojet Rocketdyne a primit 3.5 miliarde de dolari redeschiderea liniei de producție a motoarelor RS-25 și pentru o comandă de 24 de bucăți în total, ceea ce înseamnă că prețul unui singur motor este de aproape 150 de milioane de dolari. Cum o rachetă SLS are nevoie de 4 motoare RS-25, doar prețul motoarelor unei lansări SLS se ridica la peste 500 de milioane de dolari, rezultând că o lansare SLS ar putea depăși 2 miliarde de dolari. RS-25 sunt motoarele folosite de naveta spațială între 1981 și 2011 și NASA mai are 16 motoare astfel de motoare RS-25 funcționale, rămase de la navetele spațiale, care au fost recondiționare și care vor fi folosite în primele 4 zboruri SLS. Când navetele spațiale erau folosite, un motor RS-25 costa aproximativ 50 de milioane de dolari și erau reutilizabil, însă racheta SLS nu este proiectată pentru a-i fi recuperate motoarele primei trepte.
+
+---
+
+Ne apropiem de data lansării misiunii *SpaceX Demo Mission 2*! NASA și SpaceX[fn::https://www.spacex.com/news/2020/04/17/crew-demo-2-mission] au organizat vineri, 1 mai, o conferință de presă în care au oferit o serie de amănunte cu privire la această misiune. Astfel dacă vremea va permite, lansarea va avea loc în 27 mai, la ora 23:32 ora României[fn::https://www.nasa.gov/specials/dm2/], în ciuda situație creată de actuala pandemie de COVID-19. Dacă va fi amânată, următoarea dată disponibilă va fi 30 mai. Echipajul, fomat din doi astronauți, Bob Behnken și Doug Hurley, va zbura de la Johnson Space Center, unde au loc antrenamentele, la Kennedy Space Center, în data de 16 mai, după care vor intra în carantină până în momentul lansării. Andocarea capsulei Dragon2 cu Stația Spațială Internațională poate avea loc într-un interval cuprins între 2 și 48 de ore după lansare, dar pentru că această misiune este un zbor test, andocarea nu va avea loc mai devreme de 19 ore după lansare, oferind timp echipajului de la bord și iginerilor de la sol să verifice dacă toți parametri sunt nominali. NASA a anunțat de asemena că decis acum câteva luni să prelungească misiunea DM-2: capsula Dragon va rămâne cel puțin 30 de zile andocată cu ISS, iar după andocare se va decide cu cât se va prelungi misiunea, ținând cont de faptul că această variantă a capsulei poate rămâne cel mult 119 zile pe orbită (limitarea o face degradarea panourilor solare, în viitor capsula va putea petrece până la 7 luni pe orbită). SpaceX își dorește să recupereze această capsulă și să o folosească și în viitor, pentru o altă misiune, capsulele Dragon2 fiind proiectate pentru a fi folosite de până la 5 ori. La finalul misiunii DM-2, după decuplarea de ISS, vor trece 24 de ore până când capsula va ajunge în apele Atlanticului, de unde echipajul, împreună cu capsula, va fi recuperat șia dus la sol la bordul unor ambarcațiuni speciale. Dragon2 este al 5-lea vehicul american care va transporta echipaj pe orbită și al 9-lea vehicul orbital, după capsulele Mercury, Gemini, Apollo, naveta spațială, Vostok, Voshod, Soyuz și Shenzhou.
+
+#+CAPTION: Astronauții NASA Bob Behnken și Doug Hurley, antrenându-se la bordul unei capsule Dragon2 pentru misiunea SpaceX DM-2. /Sursa foto: [[https://www.spacex.com/sites/spacex/files/astrotraining.jpg][SpaceX]]/
+[[/img/astrotraining.jpg]]
+
+---
+
+La scurt timp după conferința de presă referitoare la misiunea Demo Mission 2, *SpaceX* a anunțat că a efectuat cu succes al 27-lea și ultimul test al parașutelor capsulei Dragon2[fn::https://twitter.com/SpaceX/status/1256299740653858819], unul din ultimele obstacole tehnice care ne mai despart de lansarea programată pentru data de 27 mai.
 
 ** Buletin Cosmic nr. 73 :progress:ms14:hope:tianwen:sealaunch:spacex:luna25:vega:ariane5:
 :PROPERTIES:
