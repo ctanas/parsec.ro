@@ -402,7 +402,7 @@ Prima iterație a rachetei Changzheng a fost folosită de două ori, între 1970
 
 **** Changzheng-5
 
-Changzheng-5 este racheta de calibru greu a Chinei, cu performanțe comparabile cu Delta IV Heavy, Falcon Heavy sau Ariane 5. Prima treaptă este propulsată de 2 motoare YF-77 cu combustibil lichid (oxigen lichid și kerosen) și este ajutată de 4 boostere auxiliare cu combustibil lichid, propulsate fiecare de două motoare YF-100. A doua treaptă are 2 motoare YF-75D, care ard hidrogen lichid și oxigen lichid, iar la nevoie racheta poate fi dotată și cu o a treia treaptă. Changzheng-5 este proiectată pentru a atinge orbita geostaționară, spre care poate lansa 14 tone, dar o variantă dezvoltată special pentru orbită joasă (fără a treia treaptă) poate urca și 25 de tone pe LEO. Are o înălțime de 57 de metri și un diametru de 5 metri.
+Changzheng-5 este racheta de calibru greu a Chinei, cu performanțe comparabile cu Delta IV Heavy, Falcon Heavy sau Ariane 5. Prima treaptă este propulsată de 2 motoare YF-77 cu combustibil lichid (hidrogen și oxigen lichid) și este ajutată de 4 boostere auxiliare cu combustibil lichid, propulsate fiecare de două motoare YF-100 (care ard kerosen și oxigen lichid). A doua treaptă are 2 motoare YF-75D, care ard hidrogen lichid și oxigen lichid, iar a treia treaptă este Yuanzheng-2, cu 2 motoare YF-50D. Changzheng-5 este proiectată pentru a atinge orbita geostaționară, spre care poate lansa 14 tone, dar o variantă dezvoltată special pentru orbită joasă (Changzheng-5B, fără a treia treaptă) poate urca și 25 de tone pe LEO. Are o înălțime de 57 de metri și un diametru de 5 metri.
 
 Primul zbor a avut loc în 2 noiembrie 2016 și nu a fost lipsit de emoții, echipa de ingineri remediind contracronometru o serie de probleme tehnice. În cele din urmă, după o întârziere de trei ore, lansarea a avut loc, dar performanțele motorului treptei superioare au fost sub așteptări și satelitul Shijian-17 a ajuns pe o orbită mai joasă, corectată ulterior datorită propulsoarelor celei de-a treia trepte.
 
@@ -419,7 +419,7 @@ A treia lansare a fost prima care a decurs fără probleme, satelitul Shijian-20
 |-----+------------+----------+-------------+------+-------+----------------|
 |   1 | 02.11.2016 | CZ-5     | Shijian-17  | 4t   | GTO   | Succes parțial |
 |   2 | 02.07.2017 | CZ-5     | Shijian-18  | 7t   | GTO   | Eșec           |
-|   3 | 27.12.2019 | CZ-5     | Shijian-20  | ??   | GTO   | Succes         |
+|   3 | 27.12.2019 | CZ-5     | Shijian-20  | 8t   | GTO   | Succes         |
 |   4 | 05.05.2020 | CZ-5B    | Shenzhou2   | ??   | LEO   | Succes         |
 
 **** Changzheng-6
