@@ -22,6 +22,10 @@ A doua tentativă de lansare a rachetei Changzheng-5 a avut loc în 2 iulie 2017
 
 După terminarea combustibilului primei trepte, aceasta trebuia să se desprindă de a doua treaptă, la 465 de secunde după lansare, însă separarea a avut loc la 570 de secunde, cu 105 secunde mai târziu. Întârzierea s-a dovedit a fi fatală pentru soarta satelitului, pentru că deși motoarele celei de-a doua trepte au pornit, satelitul și cea de-a doua treaptă pierdeau altitudine, datorită timpului prea lung în care prima treaptă a rămas cuplată. Motoarele celei de-a doua trepte s-au oprit după trei minute, timp insuficient pentru a corecta traiectoria care ducea satelitul spre Pământ. Oricum, planul inițial era ca a doua treaptă să ardă pentru cel puțin 4 minute, pentru a plasa încărcătura pe orbită intermediară.
 
+A treia lansare a fost prima care a decurs fără probleme, satelitul Shijian-20 ajungând cu bine pe orbită geostaționară.
+
+În 5 mai 2020, debutează versiunea Changzheng-5B, optimizată pentru lansări spre orbită terestră joasă, unde poate urca până la 24 de tone. Cu această ocazie are loc primul test al viitoarei capsule spațiale, care urmează să transporte viitori taikonauți pe orbită.
+
 <div class="table-caption">
   <span class="table-number">Tabel 1</span>:
   Lansările lansatorului Changzheng-5
@@ -31,6 +35,8 @@ După terminarea combustibilului primei trepte, aceasta trebuia să se desprind�
 |-----|------------|----------|-------------|------|-------|----------------|
 | 1   | 02.11.2016 | CZ-5     | Shijian-17  | 4t   | GTO   | Succes parțial |
 | 2   | 02.07.2017 | CZ-5     | Shijian-18  | 7t   | GTO   | Eșec           |
+| 3   | 27.12.2019 | CZ-5     | Shijian-20  | ??   | GTO   | Succes         |
+| 4   | 05.05.2020 | CZ-5B    | Shenzhou2   | ??   | LEO   | Succes         |
 
 
 ### Changzheng-6 {#changzheng-6}
