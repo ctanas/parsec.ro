@@ -2582,7 +2582,7 @@ La scurt timp după conferința de presă referitoare la misiunea Demo Mission 2
 
 ---
 
-Administratorul NASA, Jim Bridenstine, a anunțat că agenția spațială americană va colabora cu actorul Tom Cruise pentru un film realizat la bordul Stației Spațiale Internaționale[fn::https://twitter.com/JimBridenstine/status/1257752395750289409?s=20]. Nu este încă foarte clar dacă Tom Cruise va ajunge pe ISS, singur sau însoțit de o echipă e filmare, dar implicarea lui Elon Musk în acest proiect[fn::https://twitter.com/elonmusk/status/1257814387605159937?s=20] sugerează că cel puțin Tom Cruise, recunoscut pentru faptul că își execută singur majoritatea cascadoriilor din filmele sale, ar putea fi unul din viitori turiști spațiali de la bordul unei viitoare capsule Dragon2 care va zbura spre Stația Spațială Internațională în următorii ani.
+Administratorul *NASA*, Jim Bridenstine, a anunțat că agenția spațială americană va colabora cu actorul *Tom Cruise* pentru un film realizat la bordul Stației Spațiale Internaționale[fn::https://twitter.com/JimBridenstine/status/1257752395750289409?s=20]. Nu este încă foarte clar dacă Tom Cruise va ajunge pe ISS, singur sau însoțit de o echipă e filmare, dar implicarea lui Elon Musk în acest proiect[fn::https://twitter.com/elonmusk/status/1257814387605159937?s=20] sugerează că cel puțin Tom Cruise, recunoscut pentru faptul că își execută singur majoritatea cascadoriilor din filmele sale, ar putea fi unul din viitori turiști spațiali de la bordul unei viitoare capsule Dragon2 care va zbura spre Stația Spațială Internațională în următorii ani.
 
 ** Buletin Cosmic nr. 73 :progress:ms14:hope:tianwen:sealaunch:spacex:luna25:vega:ariane5:
 :PROPERTIES:
