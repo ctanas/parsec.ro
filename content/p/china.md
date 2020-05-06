@@ -27,7 +27,7 @@ A treia lansare a fost prima care a decurs fără probleme, satelitul Shijian-20
 În 5 mai 2020, debutează versiunea Changzheng-5B, optimizată pentru lansări spre orbită terestră joasă, unde poate urca până la 24 de tone. Cu această ocazie are loc primul test al viitoarei capsule spațiale, care urmează să transporte viitori taikonauți pe orbită.
 
 <div class="table-caption">
-  <span class="table-number">Tabel 1</span>:
+  <span class="table-number">Table 1</span>:
   Lansările lansatorului Changzheng-5
 </div>
 
@@ -44,7 +44,7 @@ A treia lansare a fost prima care a decurs fără probleme, satelitul Shijian-20
 Changzheng-6 se vrea racheta de calibru mic, pentru încărcături ușoare spre orbită terestră heliosincronă (joasă) și care poate fi pregătită rapid pentru lansarea de la noul centru de la Wenchang (comparabilă cu Minotaur sau PSLV). Are trei trepte, primele două propulsate de câte un motor YF-100, respectiv YF-115 ambele cu combustibil lichid (oxigen lichid și kerosen), iar a treia treaptă cu un motor cu tetraoxid de azot. Changzheng-6 poate lansa aproximativ 1 tonă la 700 km altitudine, are o înălțime de 29 de metri și un diametru de 3.35 metri.
 
 <div class="table-caption">
-  <span class="table-number">Tabel 2</span>:
+  <span class="table-number">Table 2</span>:
   Lansările lansatorului Changzheng-6
 </div>
 
@@ -65,7 +65,7 @@ Varianta Changzheng-7A este adaptată pentru orbita geostaționară și are în 
 Cosmodromul de la Wenchang a fost construit special pentru lansatoarele Changzheng-5 și Changzheng-7 și a costat 800 de milioane de dolari. Amplasarea rampelor este mai fericită, fiind mai apropiată de Ecuator și înconjurată de ocean, nu de zone populate. Asta înseamnă că lansările vor fi nu doar mai ecologice, dar și mai sigure, iar apropierea insulei Hainan de Ecuator oferă o oarecare economisire a combustibilului și deci performanțe sporite (19 grade, față de 28 de grade unde este plasat Cape Canaveral).
 
 <div class="table-caption">
-  <span class="table-number">Tabel 3</span>:
+  <span class="table-number">Table 3</span>:
   Lansările lansatorului Changzheng-7
 </div>
 
