@@ -9,17 +9,18 @@ draft = false
 | Data        | Lansator    | Satelit      | Tip   | Țara    | Centru / Rampa | Ținta |
 |-------------|-------------|--------------|-------|---------|----------------|-------|
 | 30.06       | Falcon-9    | GPS-III SV03 | CNS   | SUA     | CC SLC-40      | MEO   |
+| 27.06       | Soyuz-2.1b  | Glonass-M    | CNS   | Rusia   | Plesetsk 43/4  | MEO   |
 | 27.05 20:32 | Falcon-9    | Dragon2      | CRW   | SUA     | KSC LC-39A     | ISS   |
 | 20.05 17:30 | H-IIB       | HTV-9        | NAV   | Japonia | Tanegashima    | ISS   |
 | 16.05       | Atlas V 501 | OTV-6        | NAV\* | SUA     | CC SLC-41      | LEO   |
-| 07.05 11:30 | Falcon-9    | Starlink-7   | COM   | SUA     | CC SLC-41      | LEO   |
+| 07.05 11:00 | Falcon-9    | Starlink-7   | COM   | SUA     | CC SLC-41      | LEO   |
 
 
 ## Lansări orbitale efectuate în 2020 {#lansări-orbitale-efectuate-în-2020}
 
 | Nr. | Data        | Lansator      | Satelit          | Tip   | Țara    | Centru / Rampa  | Ținta | Rezultat      | Bul.           |
 |-----|-------------|---------------|------------------|-------|---------|-----------------|-------|---------------|----------------|
-| 30  | 05.05 10:00 | Changzheng-5B | Shenzhou2[^fn:1] | NAV   | China   | Wenchang LC-101 | LEO   | Succes        | 74             |
+| 30  | 05.05 10:00 | Changzheng-5B | Shenzhou2[^fn:1] | NAV   | China   | Wenchang LC-101 | LEO   | Succes        | [74](/bul/074) |
 | 29  | 25.04 01:51 | Soyuz-2.1a    | Progress MS-14   | NAV   | Rusia   | Baikonur 31/6   | ISS   | Succes        | [73](/bul/073) |
 | 28  | 22.04 19:30 | Falcon-9      | 60xStarlink-6    | COM   | SUA     | KSC LC-39A      | LEO   | Succes        | [72](/bul/072) |
 | 27  | 22.04 04:00 | Qased         | Noor             | SAT\* | Iran    | Shahroud        | LEO   | Succes        | [72](/bul/072) |
