@@ -14,10 +14,10 @@ Siteul de față reprezintă o colecție personală de materiale, articole și n
 ## Tabele și articole {#tabele-și-articole}
 
 -   [Lista lansărilor orbitale din 2020](/r/lansari2020);
--   [Lista rachetelor active](/r/rachete) (plus detalii despre [Atlas V](/r/atlasv), [Antares](/r/antares), [Soyuz-2](/r/soyuz-2) și [Falcon 9](/r/falcon9));
+-   [Lista rachetelor active](/r/rachete) (plus detalii despre [Atlas V](/r/atlasv), [Antares](/r/antares), [Epsilon](/r/epsilon), [Soyuz-2](/r/soyuz-2) și [Falcon 9](/r/falcon9));
 -   [Rachete aflate în dezvoltare](/r/viitor);
 -   [Lista sondelor interplanetare active](/m/sonde);
--   [Starlink](/m/starlink) (liste cu sateliți lansați, activi, retrași și oportunități de observare)
+-   [Starlink](/m/starlink) --liste cu sateliți lansați, activi, retrași și oportunități de observare;
 -   [Meteoriți](/m/meteoriti) --informații generale și lista meteoriților românești (_draft_);
 -   [X-37B](/m/x37b) --naveta spațială autonomă a Forțelor Aeriene ale SUA;
 -   [Gateway](/m/gateway) --viitoarea stație spațială de pe orbita Lunii.

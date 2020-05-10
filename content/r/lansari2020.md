@@ -12,8 +12,8 @@ draft = false
 | 27.06       | Soyuz-2.1b  | Glonass-M    | CNS   | Rusia   | Plesetsk 43/4  | MEO   |
 | 27.05 20:32 | Falcon-9    | Dragon2      | CRW   | SUA     | KSC LC-39A     | ISS   |
 | 20.05 17:30 | H-IIB       | HTV-9        | NAV   | Japonia | Tanegashima    | ISS   |
-| 16.05       | Atlas V 501 | OTV-6        | NAV\* | SUA     | CC SLC-41      | LEO   |
-| 07.05 11:00 | Falcon-9    | Starlink-7   | COM   | SUA     | CC SLC-41      | LEO   |
+| 17.05 11:00 | Falcon-9    | Starlink-7   | COM   | SUA     | CC SLC-41      | LEO   |
+| 16.05       | Atlas V 501 | OTV-6        | NAV\* | SUA     | CC SLC-40      | LEO   |
 
 
 ## Lansări orbitale efectuate în 2020 {#lansări-orbitale-efectuate-în-2020}

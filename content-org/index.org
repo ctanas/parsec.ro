@@ -18,10 +18,10 @@ Siteul de față reprezintă o colecție personală de materiale, articole și n
 ** Tabele și articole
 
 + [[/r/lansari2020][Lista lansărilor orbitale din 2020]];
-+ [[/r/rachete][Lista rachetelor active]] (plus detalii despre [[/r/atlasv][Atlas V]], [[/r/antares][Antares]], [[/r/soyuz-2][Soyuz-2]] și [[/r/falcon9][Falcon 9]]);
++ [[/r/rachete][Lista rachetelor active]] (plus detalii despre [[/r/atlasv][Atlas V]], [[/r/antares][Antares]], [[/r/epsilon][Epsilon]], [[/r/soyuz-2][Soyuz-2]] și [[/r/falcon9][Falcon 9]]);
 + [[/r/viitor][Rachete aflate în dezvoltare]];
 + [[/m/sonde][Lista sondelor interplanetare active]];
-+ [[/m/starlink][Starlink]] (liste cu sateliți lansați, activi, retrași și oportunități de observare)
++ [[/m/starlink][Starlink]] --liste cu sateliți lansați, activi, retrași și oportunități de observare;
 + [[/m/meteoriti][Meteoriți]] --informații generale și lista meteoriților românești (/draft/);
 + [[/m/x37b][X-37B]] --naveta spațială autonomă a Forțelor Aeriene ale SUA;
 + [[/m/gateway][Gateway]] --viitoarea stație spațială de pe orbita Lunii.
@@ -702,8 +702,8 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 | 27.06       | Soyuz-2.1b  | Glonass-M    | CNS  | Rusia   | Plesetsk 43/4  | MEO   |
 | 27.05 20:32 | Falcon-9    | Dragon2      | CRW  | SUA     | KSC LC-39A     | ISS   |
 | 20.05 17:30 | H-IIB       | HTV-9        | NAV  | Japonia | Tanegashima    | ISS   |
-| 16.05       | Atlas V 501 | OTV-6        | NAV* | SUA     | CC SLC-41      | LEO   |
-| 07.05 11:00 | Falcon-9    | Starlink-7   | COM  | SUA     | CC SLC-41      | LEO   |
+| 17.05 11:00 | Falcon-9    | Starlink-7   | COM  | SUA     | CC SLC-41      | LEO   |
+| 16.05       | Atlas V 501 | OTV-6        | NAV* | SUA     | CC SLC-40      | LEO   |
 
 **** Lansări orbitale efectuate în 2020
 | Nr. | Data        | Lansator      | Satelit           | Tip  | Țara    | Centru / Rampa  | Ținta | Rezultat       | Bul. |
