@@ -20,6 +20,7 @@ draft = false
 
 | Nr. | Data        | Lansator      | Satelit          | Tip   | Țara    | Centru / Rampa  | Ținta | Rezultat      | Bul.           |
 |-----|-------------|---------------|------------------|-------|---------|-----------------|-------|---------------|----------------|
+| 31  | 11.05 01:16 | Kuaizhou-1A   | 2x Xingyun-2     | COM   | China   | Jiuquan         | SSO   | Succes        | [75](/bul/075) |
 | 30  | 05.05 10:00 | Changzheng-5B | Shenzhou2[^fn:1] | NAV   | China   | Wenchang LC-101 | LEO   | Succes        | [74](/bul/074) |
 | 29  | 25.04 01:51 | Soyuz-2.1a    | Progress MS-14   | NAV   | Rusia   | Baikonur 31/6   | ISS   | Succes        | [73](/bul/073) |
 | 28  | 22.04 19:30 | Falcon-9      | 60xStarlink-6    | COM   | SUA     | KSC LC-39A      | LEO   | Succes        | [72](/bul/072) |
@@ -57,12 +58,12 @@ draft = false
 | Țara      | Nr.    | Lansări    |
 |-----------|--------|------------|
 | SUA       | 10     | IIIIIIIIII |
-| China     | 9      | IIIIIXIXI  |
+| China     | 10     | IIIIIXIXII |
 | Europa    | 4      | IIII       |
 | Rusia     | 4      | IIII       |
 | Iran      | 2      | XI         |
 | Japonia   | 1      | I          |
-| **TOTAL** | **30** |            |
+| **TOTAL** | **31** |            |
 
 
 ## Legendă tabel {#legendă-tabel}
@@ -92,9 +93,6 @@ draft = false
     -   MAR: zbor spre Marte
     -   INT: zbor interplanetar, cu o destinație alta decât Luna sau Marte
 -   **Bul.**: link spre Buletinul Cosmic care oferă mai multe detalii despre lansare.
-
-
-## Note de subsol {#note-de-subsol}
 
 [^fn:1]: Prima lansarea a variante Changzheng-5B, derivată din Changzheng-5, dar destinată orbitei terestre joase (LEO); zborul este dedicat testării noii capsule care urmează să fie folosite pentru viitoare lansări cu echipaj.
 [^fn:2]: Din cauza unor probleme cu cea de-a treia treaptă, lansarea a eșuat și satelitul a fost pierdut.

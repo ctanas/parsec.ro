@@ -749,13 +749,13 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 | Țara    | Nr. | Lansări    |
 |---------+-----+------------|
 | SUA     |  10 | IIIIIIIIII |
-| China   |   9 | IIIIIXIXI  |
+| China   |  10 | IIIIIXIXII |
 | Europa  |   4 | IIII       |
 | Rusia   |   4 | IIII       |
 | Iran    |   2 | XI         |
 | Japonia |   1 | I          |
 |---------+-----+------------|
-| *TOTAL*   |  *30* |            |
+| *TOTAL*   |  *31* |            |
 
 **** Legendă tabel
 
@@ -785,7 +785,7 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
   + INT: zbor interplanetar, cu o destinație alta decât Luna sau Marte
 - *Bul.*: link spre Buletinul Cosmic care oferă mai multe detalii despre lansare.
 
-**** Note de subsol
+
 [fn:l21] Prima lansare a rachetei Changzheng-7A.
 [fn:l22] Deși lansarea este efectuată la Baikonur, folosind o rachetă rusă, compania Arianespace este cea care operează acestă lansare, astfel lansarea este considerată a fi una europeană (la fel cum și lansările rachetei Soyuz care au loc din Guiana Franceză sunt considerate europene).
 [fn:l23] A fost pentru prima dată când SpaceX a folosit pentru a 5-a oară o treaptă primară; în timpul lansării unul din cele 9 motoare Merlin a suferit o problemă tehnică (scurgere de alcool izopropilic, folosit ca lichid de curățare), însă celelalte 8 au compensat și treapta secundară a ajuns pe traiectoria corectă; din păcate, treapta primară a ratat întâlnirea cu barja OCISLY din Atlantic și astfel nu a mai fost recuperată. A fost pentru prima dată când SpaceX a refolosit conul protector.
@@ -986,7 +986,7 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 | CZ-7A            | CHN  | CNSA        |  2020 | 1xYF-100     |       |       | 7.0t  |    1 |    0 |     1 | 16.03.2020 |
 | CZ-11            | CHN  | CNSA        |  2015 | P35 (S)      | 0.7t  | 0.35t |       |    8 |    8 |     0 | 19.09.2019 |
 | Jielong-1        | CHN  | CNSA        |  2019 | (S)          | ?     | ?     |       |    1 |    1 |     0 | 17.08.2019 |
-| Kuaizhou         | CHN  | CNSA        |  2013 | (S)          | 0.3t  | 0.2t  |       |   10 |   10 |     0 | 16.01.2020 |
+| Kuaizhou         | CHN  | CNSA        |  2013 | (S)          | 0.3t  | 0.2t  |       |   11 |   11 |     0 | 11.05.2020 |
 |------------------+------+-------------+-------+--------------+-------+-------+-------+------+------+-------+------------|
 | Ariane 5         | EU   | ArianeSpace |  1996 | 1xVulcain    | 20t   |       | 10.9t |  108 |  103 |  2(3) | 18.02.2020 |
 | Vega             | EU   | ArianeSpace |  2012 | P80 (S)      |       | 1.45t |       |   15 |   14 |     1 | 11.07.2019 |
@@ -2566,11 +2566,20 @@ Marius Trusculescu, unul din membri echipei Goliat, primul satelit românesc, a 
 
 *** Lansări orbitale
 
-Kuaizhou
+Luni dimineața, la ora 04:16 ora României, o rachetă chinezească *Kuaizhou-1A* a lansat doi sateliți de comunicații de la centrul spațial Jiuquan. Fiecare din cei doi sateliți cântărește 93 de kilograme și aceștia au fost plasați pe orbită heliosincronă, la o altitudine de 561 km. A fost a 31-a lansare orbitală din 2020 și a 10-a pentru China, care împarte primul loc cu Statele Unite într-un clasament general al tentativelor de lansare, însă China a suferit deja 2 eșecuri, ratând lansările Changzheng-7A și Changzheng-3B din 16 martie, respectiv 09 aprilie. Kuazhou-1A este o rachetă cu combustibil solid, de calibru ușor, care poate fi lansată de pe o platformă mobilă, și care poate urca cel mult 200 de kilograme pe orbită heliosincronă, la 700 km altitudine. A fost a 11-a lansare a acestei rachete din 2013.
 
 *** Alte evenimente
 
-Cygnus NG-13
+Capsula *Cygnus NG-13*, lansată în 15 februarie de o rachetă Antares pentru a transporta peste 3 tone de provizii pentru echipajul de pe orbită, s-a desprins luni de modulul Unity al Stației Spațiale Internaționale[fn::https://blogs.nasa.gov/spacestation/2020/05/11/u-s-cygnus-resupply-ship-departs-station/]. Aceasta va mai rămâne pe orbită până la sfârșitul lunii, pentru a derula o serie de experimente științifice, înainte să revină districtiv prin atmosferă. Unul dintre aceste experimente se numește SAFFIRE și urmărește modul în care un incendiu se poate extinde în interiorul unei nave orbitale, pe diverse tipuri de materiale, un experiment care din motive de siguranță nu se poate desfășura la bordul stației spațiale, dar care poate oferi date importante pentru viitorul explorării spațiale. Următoarea capsulă Cygnus este programată pentru lansare în toamnă, însă până atunci la bordul ISS vor ajunge cu provizii o navă japoneză HTV-9 și o navă cargo rusească Progress.
+
+#+CAPTION: Capsula Cygnus, la câteva secunde după desprinderea de brațul robotic Canadarm2 al Stației Spațiale Internaționale /(Sursa foto: [[https://www.flickr.com/photos/nasa2explore/49483196861/][NASA]])/
+[[/img/cygnusng.jpg]]
+
+Chiar dacă se apropie lansarea a doi astronauți americani la bordul unei capsule Dragon2, NASA a mai cumpărat de la agenția spațială rusă încă un loc într-o capsulă *Soyuz* pentru finalul acestui an[fn::https://blogs.nasa.gov/spacestation/2020/05/12/nasa-completes-negotiations-for-additional-soyuz-seat-in-fall/], pentru cazul în care debutul lansărilor cu echipaj din SUA întârzie[fn::https://spacepolicyonline.com/news/nasa-roscosmos-agree-on-one-more-soyuz-seat/#.Xrsd7YWYGNw.twitter]. Dacă la începutul parteneriatului dintre NASA și Roscosmos prețul unui zbor cu o capsulă Soyuz era de 20 de milioane de dolari, acesta a crescut constant de-a lungul timpului, ajungând la 81 de milioane în 2018, 86 de milioane în 2019 și la peste 90 de milioane pentru zborul rezervat în aceste zile de NASA pentru luna octombrie. Capsula Soyuz a fost, din 2011, singurul vehicul capabil să transporte astronauți pe Stația Spațială Internațională, dar NASA speră să schimbe acest lucru începând cu 27 mai, data lansării misiunii SpaceX DM-2 și a noii capsule Dragon2 cu echipaj la bord.
+
+După lansarea cu succes la bordul rachetei Changzheng-5B de marți, 5 mai, capsula de nouă generație care urmează să lanseze în viitor taikonați pe orbită și probabil și spre Lună, a revenit cu bine pe Pământ vineri, 8 mai, după ce timp de 4 zile a efectuat o serie de manevre orbitale, în vederea validării noului vehicul. În prezent, China folosește capsula Shenzhou pentru lansarea de echipaj pe orbită, dar aceasta urmează să fie înlocuită în viitor cu o capsulă mai încăpătoare și mai modernă, deși numele noului vehicul nu a fost încă făcut public. Capsula a supraviețuit trecerii prin atmosferă și a fost recuperată dintr-un deșert din nordul țării, însă treapta primară a rachetei Changzheng-5B, care în urma lansării a ajuns și ea pe o orbită instabilă, a revenit necontrolat prin atmosferă în cursul zilei de marți, deasupra Oceanului Atlantic. Cântărind aproape 18 tone, a fost cel mai masiv obiect revenit necontrolat de pe orbită, după stația sovietică Salyut-7 din 1991, care cântărea 39 de tone. Conform unor imagini apărute online[fn::https://twitter.com/planet4589/status/1260222397350887425], resturi ale rachetei au fost recuperate din Coasta de Fildeș, dar se pare că din fericire acestea nu au cauzat victime.
+
+Sonda niponă Hayabusa2, care se întoarce de pe asteroidul Ryugu, și-a pornit marți propulsoarele ionice, pentru a-și modifica orbita în jurul Soarelui și pentru a se pregăti de interceptarea Pământului[fn::https://twitter.com/haya2e_jaxa/status/1259754473888428032?s=20]. Motoarele ionice vor funcționa până în luna septembrie, urmând ca în decembrie aceasta să revină pe Pământ. Cercetătorii se așteaptă să găsească în interiorul sondei câteva grame de sol prelevat de la suprafața Ryugu, pe care Hayabusa2 l-a studiat între 27 iunie 2018 și 12 noiembrie 2019.
 
 ** Buletin Cosmic nr. 74 :cz5b:rs25:spxdm2:spacex:nasa:starship:
 :PROPERTIES:

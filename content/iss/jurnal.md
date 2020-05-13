@@ -4,8 +4,11 @@ author = ["Claudiu"]
 draft = false
 +++
 
+10.05.2020
+: Capsula Cygnus NG-13 se desprinde de modulul _Unity_.
+
 25.04.2020
-: Progress MS-14 andochează la modulul _Zvezda_, la 3 ore și 21 de minute după lansare[^fn:1].
+: Progress MS-14 andochează la modulul _Zvezda_, la 3 ore și 21 de minute după lansare[^fn:1];
 
 19.04.2020
 : Modulul Zvezda și-a activat motoarele pentru 58.5 secunde pentru a reduce viteza ISS cu 0.97 m/s și coborând altitudinea (417.69x436.62 km), ajustând orbita pentru lansarea Progress MS-14[^fn:2];
