@@ -349,7 +349,7 @@ Boeing a anunțat că misiunea OFT va fi repetată[fn:reoft1], nu mai devreme de
 /Demo Mission 2/
 
 - *Bob Behnken* (STS-123, STS-130, ambele Endeavour, 6 EVA = 37 ore)
-- *Doug Hurley* (pilot STS-135, Endeavor STS-127)
+- *Doug Hurley* (pilot Atlantis STS-135, Endeavour STS-127)
 
 *** SpaceX PCM-1 (august 2020)
 /Post Certification Mission 1/ (6 luni)
@@ -703,8 +703,8 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 | 27.06       | Soyuz-2.1b  | Glonass-M    | CNS  | Rusia   | Plesetsk 43/4  | MEO   |
 | 27.05 20:32 | Falcon-9    | Dragon2      | CRW  | SUA     | KSC LC-39A     | ISS   |
 | 20.05 17:30 | H-IIB       | HTV-9        | NAV  | Japonia | Tanegashima    | ISS   |
-| 17.05 11:00 | Falcon-9    | Starlink-7   | COM  | SUA     | CC SLC-41      | LEO   |
-| 16.05       | Atlas V 501 | OTV-6        | NAV* | SUA     | CC SLC-40      | LEO   |
+| 18.05 10:32 | Falcon-9    | Starlink-7   | COM  | SUA     | CC SLC-41      | LEO   |
+| 17.05 16:14 | Atlas V 501 | OTV-6        | NAV* | SUA     | CC SLC-40      | LEO   |
 
 **** Lansări orbitale efectuate în 2020
 | Nr. | Data        | Lansator      | Satelit           | Tip  | Țara    | Centru / Rampa  | Ținta | Rezultat       | Bul. |

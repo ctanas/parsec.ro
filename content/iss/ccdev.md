@@ -30,7 +30,7 @@ Boeing a anunțat că misiunea OFT va fi repetată[^fn:1], nu mai devreme de oct
 _Demo Mission 2_
 
 -   **Bob Behnken** (STS-123, STS-130, ambele Endeavour, 6 EVA = 37 ore)
--   **Doug Hurley** (pilot STS-135, Endeavor STS-127)
+-   **Doug Hurley** (pilot Atlantis STS-135, Endeavour STS-127)
 
 
 ## SpaceX PCM-1 (august 2020) {#spacex-pcm-1--august-2020}
