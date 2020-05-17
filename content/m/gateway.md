@@ -23,7 +23,7 @@ Cele două module sunt suficiente pentru a susține operațiunile de aselenizare
 După 2024, sunt programate alte doi noi module, **European System Providing Refueling, Infrastructure and Telecommunications**, --ESPRIT (care va asigura propulsie, echipamente științifice și de comunicație, porturi pentru andocare) și **International Habitation Module**, --iHAB, o colaborare între ESA și JAXA pentru un modul care va mări volumul presurizat pe care echipajul îl va avea la dispoziție.
 
 <div class="table-caption">
-  <span class="table-number">Table 1</span>:
+  <span class="table-number">Tabel 1</span>:
   Cronologia asamblării Gateway
 </div>
 
