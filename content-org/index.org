@@ -703,12 +703,12 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 | 27.06       | Soyuz-2.1b  | Glonass-M    | CNS  | Rusia   | Plesetsk 43/4  | MEO   |
 | 27.05 20:32 | Falcon-9    | Dragon2      | CRW  | SUA     | KSC LC-39A     | ISS   |
 | 20.05 17:30 | H-IIB       | HTV-9        | NAV  | Japonia | Tanegashima    | ISS   |
-| 18.05 10:32 | Falcon-9    | Starlink-7   | COM  | SUA     | CC SLC-41      | LEO   |
-| 17.05 16:14 | Atlas V 501 | OTV-6        | NAV* | SUA     | CC SLC-40      | LEO   |
+| 18.05 10:10 | Falcon-9    | Starlink-7   | COM  | SUA     | CC SLC-41      | LEO   |
 
 **** Lansări orbitale efectuate în 2020
 | Nr. | Data        | Lansator      | Satelit           | Tip  | Țara    | Centru / Rampa  | Ținta | Rezultat       | Bul. |
 |-----+-------------+---------------+-------------------+------+---------+-----------------+-------+----------------+------|
+|  32 | 17.05 13:14 | Atlas V 501   | OTV-6 X37B        | NAV* | SUA     | CC SLC-40       | LEO   | Succes         | 76   |
 |  31 | 11.05 01:16 | Kuaizhou-1A   | 2x Xingyun-2      | COM  | China   | Jiuquan         | SSO   | Succes         | [[/bul/075][75]]   |
 |  30 | 05.05 10:00 | Changzheng-5B | Shenzhou2[fn:126] | NAV  | China   | Wenchang LC-101 | LEO   | Succes         | [[/bul/074][74]]   |
 |-----+-------------+---------------+-------------------+------+---------+-----------------+-------+----------------+------|
@@ -746,16 +746,16 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 |  01 | 07.01 02:19 | Falcon-9      | 60x Starlink-2    | COM  | SUA     | CC SLC-40       | LEO   | Succes         | [[/bul/057][57]]   |
 
 **** Clasament
-| Țara    | Nr. | Lansări    |
-|---------+-----+------------|
-| SUA     |  10 | IIIIIIIIII |
-| China   |  10 | IIIIIXIXII |
-| Europa  |   4 | IIII       |
-| Rusia   |   4 | IIII       |
-| Iran    |   2 | XI         |
-| Japonia |   1 | I          |
-|---------+-----+------------|
-| *TOTAL*   |  *31* |            |
+| Țara    | Nr. | Lansări     |
+|---------+-----+-------------|
+| SUA     |  11 | IIIIIIIIIII |
+| China   |  10 | IIIIIXIXII  |
+| Europa  |   4 | IIII        |
+| Rusia   |   4 | IIII        |
+| Iran    |   2 | XI          |
+| Japonia |   1 | I           |
+|---------+-----+-------------|
+| *TOTAL*   |  *32* |             |
 
 **** Legendă tabel
 
@@ -958,7 +958,7 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 | Racheta          | Țara | Operator    | Debut | Motor        | LEO   | SSO   | GTO   | Lans | Succ | Eșec. |     Ultima |
 |------------------+------+-------------+-------+--------------+-------+-------+-------+------+------+-------+------------|
 | Antares[fn:rc1]  | SUA  | NGSSG       |  2013 | 2xRD-181     | 8t    |       |       |   12 |   11 |     1 | 14.02.2020 |
-| Atlas V          | SUA  | ULA         |  2002 | 1xRD-180     | 20.5t |       | 8.9t  |   83 |   82 |   (1) | 26.03.2020 |
+| Atlas V          | SUA  | ULA         |  2002 | 1xRD-180     | 20.5t |       | 8.9t  |   84 |   82 |   (1) | 17.05.2020 |
 | Delta IV Heavy   | SUA  | ULA         |  2004 | 1xRS-68A     | 28.7  |       | 14.2t |   10 |    9 |   (1) | 19.01.2019 |
 | Electron         | SUA  | RocketLab   |  2017 | 9xRutherford |       | 0.22t |       |   11 |   10 |     1 | 31.01.2020 |
 | Falcon 9[fn:rc2] | SUA  | SpaceX      |  2010 | 9xMerlin     | 22.8t |       | 8.3t  |   83 |   81 | 1+(1) | 18.03.2020 |
@@ -1941,21 +1941,21 @@ La începutul lunii februarie 2020, Pentagonul a confirmat oficial un zvon care 
 
 *** OTV-6
 
-Următoarea misiune X-37B (probabil vehiculul 2) este planificată pentru a fi lansată în al doilea semestru al anului 2020 (după ce inițial data lansării a fost decembrie 2019), iar pentru acest lucru se va folosi o rachetă Atlas V 501 (misiunea denumită AFSPC-07).
+Misiunea OTV-6 (probabil vehiculul 1, folosit în misiunile OTV-1 și OTV-3) a fost lansată în 17 mai 2020 de o rachetă Atlas V 501 și pentru prima dată aceasta a transportat și două experimente pentru NASA (unul care studiază efectul expunerii unor materiale la condițiile din spațiul cosmic iar celălalt va studia efectul radiației cosmice asupra unor semințe). Tot pentru prima dată, naveta are atașat în partea posterioară un modul de serviciu, care poate găzdui mai multe experimente științifice, în plus față de cele care se desfășoară în cala navetei. Vehiculul va lansa un satelit de mici dimensiuni al USAF. X-37B rămâne un vehicul al Forțelor Aeriene, dar procedurile pentru lansare, operațiuni orbitale și aterizare au fost preluate de US Space Force.
 
 #+CAPTION: Vehiculul X-37B, la finalul misiunii OTV-4, pe pista de la Kennedy Space Center, imediat după aterizare, în 7 mai 2017 (/Foto: USAF/Boeing/)
 [[/img/otv4.jpg]]
 
 *** Rezumat
 
-|    Lansare | Misiune | Vehicul  | Lansator    | Rampă      | Denumire | Durată   |  Aterizare | Pistă aterizare |
-|------------+---------+----------+-------------+------------+----------+----------+------------+-----------------|
-| 22.04.2010 | OTV-1   | X-37B-1  | Atlas V 501 | CC SLC-41  | USA-212  | 224 zile | 03.12.2010 | VAFB RNY12      |
-| 05.03.2011 | OTV-2   | X-37B-2  | Atlas V 501 | CC SLC-41  | USA-226  | 468 zile | 16.06.2012 | VAFB RNY12      |
-| 11.12.2012 | OTV-3   | X-37B-1  | Atlas V 501 | CC SLC-41  | USA-240  | 674 zile | 17.10.2014 | VAFB RNY12      |
-| 20.05.2015 | OTV-4   | X-37B-2  | Atlas V 501 | CC SLC-41  | USA-261  | 717 zile | 07.05.2017 | KSC SLF         |
-| 07.09.2017 | OTV-5   | X-37B-1? | Falcon 9 B4 | KSC LC-39A | USA-277  | 780 zile | 27.10.2019 | LSC SLF         |
-|    Q2-2020 | OTV-6   | X-37B-2? | Atlas V 501 | CC SLC-41? | ??       | ??       |         ?? | ??              |
+|    Lansare | Misiune | Vehicul | Lansator    | Rampă      | Denumire | Durată   |  Aterizare | Pistă aterizare |
+|------------+---------+---------+-------------+------------+----------+----------+------------+-----------------|
+| 22.04.2010 | OTV-1   | X-37B-1 | Atlas V 501 | CC SLC-41  | USA-212  | 224 zile | 03.12.2010 | VAFB RNY12      |
+| 05.03.2011 | OTV-2   | X-37B-2 | Atlas V 501 | CC SLC-41  | USA-226  | 468 zile | 16.06.2012 | VAFB RNY12      |
+| 11.12.2012 | OTV-3   | X-37B-1 | Atlas V 501 | CC SLC-41  | USA-240  | 674 zile | 17.10.2014 | VAFB RNY12      |
+| 20.05.2015 | OTV-4   | X-37B-2 | Atlas V 501 | CC SLC-41  | USA-261  | 717 zile | 07.05.2017 | KSC SLF         |
+| 07.09.2017 | OTV-5   | X-37B-2 | Falcon 9 B4 | KSC LC-39A | USA-277  | 780 zile | 27.10.2019 | LSC SLF         |
+| 17.05.2020 | OTV-6   | X-37B-1 | Atlas V 501 | CC SLC-41  | ??       | ??       |         ?? | ??              |
 
 *** Note de subsol
 
