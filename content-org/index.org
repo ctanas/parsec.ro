@@ -1933,6 +1933,9 @@ Probabil a doua misiune a celui de-al doilea vehicul X-37B și a patra misiune O
 #+CAPTION: Al doilea vehicul X-37B, după încheierea celei de-a doua misiuni (OTV-4), în 7 mai 2017, pe pista de la Kennedy Space Center (/Foto: USAF/Boeing/)
 [[/img/x37bmen.jpg]]
 
+#+CAPTION: Vehiculul X-37B, la finalul misiunii OTV-4, pe pista de la Kennedy Space Center, imediat după aterizare, în 7 mai 2017 (/Foto: USAF/Boeing/)
+[[/img/otv4.jpg]]
+
 *** OTV-5 (USA-277)
 
 Naveta (probabil tot vehiculul 2, ca în cazul misiunii OTV-4 precedente) a fost [lansată în 7 septembrie 2017](https://www.youtube.com/watch?v=9M6Zvi-fFv4) de o rachetă Falcon 9[fn:f9otv5], de pe rampa LC-39A de la Kennedy Space Center, fiind pentru prima dată când nu a fost folosită o rachetă Atlas V pentru lansarea acestor navete. A fost găsită ulterior pe o orbită cu înclinația de 54.5 grade și la o altitudine de 356 km. În iulie 2019, astronomul olandez Ralf Vandebergh[fn:rf] a reușit să fotografieze naveta X-37B pe orbită, iar în imaginile surprinse de el se pot observa ușile deschise ale calei. În dimineața zilei de 27 octombrie 2019, OTV-5 a aterizat la Kennedy Space Center, pe pista destinată fostelor navete spațiale, finalizând astfel cea mai longevivă misiune a navetei X-37B de până acum, după 780 de zile petrecute în spațiu.
@@ -1942,9 +1945,6 @@ La începutul lunii februarie 2020, Pentagonul a confirmat oficial un zvon care 
 *** OTV-6
 
 Misiunea OTV-6 (probabil vehiculul 1, folosit în misiunile OTV-1 și OTV-3) a fost lansată în 17 mai 2020 de o rachetă Atlas V 501 și pentru prima dată aceasta a transportat și două experimente pentru NASA (unul care studiază efectul expunerii unor materiale la condițiile din spațiul cosmic iar celălalt va studia efectul radiației cosmice asupra unor semințe). Tot pentru prima dată, naveta are atașat în partea posterioară un modul de serviciu, care poate găzdui mai multe experimente științifice, în plus față de cele care se desfășoară în cala navetei. Vehiculul va lansa un satelit de mici dimensiuni al USAF. X-37B rămâne un vehicul al Forțelor Aeriene, dar procedurile pentru lansare, operațiuni orbitale și aterizare au fost preluate de US Space Force.
-
-#+CAPTION: Vehiculul X-37B, la finalul misiunii OTV-4, pe pista de la Kennedy Space Center, imediat după aterizare, în 7 mai 2017 (/Foto: USAF/Boeing/)
-[[/img/otv4.jpg]]
 
 *** Rezumat
 
