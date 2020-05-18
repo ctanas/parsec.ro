@@ -63,9 +63,6 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 | 09.02.2020 | Simorhg     | Zafar-1                    | Eșec     | Lansare eșuată            |
 | 22.04.2020 | Qased       | Noor                       | Succes   | Satelit plasat pe orbită  |
 
-
-## Note de subsol {#note-de-subsol}
-
 [^fn:1]: Omid nu a fost însă primul satelit iranian care a ajuns pe orbită, însă a fost primul care a ajuns în spațiu lansat de o rachetă iraniană. În 2005, Sina-1 a fost lansat de către o rachetă rusească Kosmos-3M de la baza din Plesetsk.
 [^fn:2]: <https://www.npr.org/2019/08/29/755406765/iranian-rocket-launch-ends-in-failure-images-show>
 [^fn:3]: <https://www.reuters.com/article/us-iran-space-launch-failure/iranian-satellite-launch-fails-due-to-technical-issues-official-idUSKCN1VJ2HK>

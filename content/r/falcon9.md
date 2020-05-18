@@ -171,9 +171,6 @@ LZ-4
 
 ---
 
-
-## Note {#note}
-
 [^fn:1]: Boosterul a fost distrus în urma unui test al capsulei Dragon-2, în care aceasta s-a desprins de rachetă la câteva secunde după lansare, prin activarea sistemului de separarea în caz de urgență.
 [^fn:2]: Programat să aterizeze pe LZ-1, în urma unei defecțiuni a ajuns în apa oceanului Atlantic, de unde a fost recuperat ulterior, avariat dar în mare parte intact, dar probabil nu va mai fi folosit
 [^fn:3]: Prima treaptă nu a fost recuperată, fiind nevoie de toată puterea disponibilă a rachetei.

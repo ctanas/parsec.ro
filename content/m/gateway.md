@@ -46,9 +46,6 @@ Capsula **Dragon-XL** a comapaniei SpaceX a fost primul vehicul pe care NASA l-a
 -   lipsa oricăror elemente aerodinamice înseamnă că în timpul lansării va fi în interiorul unui con protector (lucru care nu se întâmplă pentru restul capsulelor Dragon);
 -   partea presurizată nu se va desprinde de partea nepresurizată (cum se întâmplă cu restul capsulelor Dragon).
 
-
-## Note de subsol {#note-de-subsol}
-
 [^fn:1]: <https://www.nasa.gov/press-release/nasa-awards-artemis-contract-for-lunar-gateway-power-propulsion>
 [^fn:2]: <https://spaceflightnow.com/2020/05/06/nasa-plans-to-launch-first-two-gateway-elements-on-same-rocket/>
 [^fn:3]: <https://www.nasa.gov/press-release/nasa-awards-artemis-contract-for-gateway-logistics-services>

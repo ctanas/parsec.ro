@@ -26,8 +26,5 @@ Lansările Epsilon au loc de la centrul spațial Uchinoura, folosit pentru foste
 | 17.01.2018 | Epsilon-2    | ASNARO-2 | 570 kg | SSO    | Succes   |
 | 18.01.2019 | Epsilon-2    | RAPIS-1  | 200 kg | SSO    | Succes   |
 
-
-## Note de subsol {#note-de-subsol}
-
 [^fn:1]: <https://global.jaxa.jp/projects/rockets/epsilon>
 [^fn:2]: <https://english.kyodonews.net/news/2020/04/5065353da362-japan-eyes-sending-micro-lunar-probe-on-solid-fuel-rocket-in-2020s.html>

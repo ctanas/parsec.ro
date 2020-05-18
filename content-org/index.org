@@ -477,7 +477,6 @@ Compania iSpace (sau, pe numele său complet /Beijing Interstellar Glory Space T
 
 În 2014, guvernul din China a permis apariția acestor entități private, separate de progarmul spațial oficial, care încep să construiască și să lanseze rachete orbitale. iSpace nu este singura astfel de companie, în China se desfășoară în prezent un fel de cursă spațială privată între iSpace, Landspace (cu racheta Zhuque-2  cu motoare TQ ce ard metan), Linkspace (cu racheta New Line, care urmează să debuteze în 2020), OneSpace (a cărei rachetă OS-M1 nu a reușit să ajungă pe orbită în zborul din 27 martie 2019), Jiuzhou Yunjian și Galactic Energy (/Beijing Xinghe Dongli Space Technology Co. Ltd.,/ cu racheta Pallas-1 capabilă să urce 4 tone pe LEO și 2 tone pe SSO sau Ceres-1, rachetă cu combustibil solid).
 
-*** Note de subsol
 
 [fn:ch1] CNSA — *China National Space Administration*
 [fn:ch2] CASC — *China Aerospace Science and Technology Corporation*
@@ -674,9 +673,6 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 | 29.08.2019 | Safir       | Nahid-1                    | Eșec     | Explozie pe rampă         |
 | 09.02.2020 | Simorhg     | Zafar-1                    | Eșec     | Lansare eșuată            |
 | 22.04.2020 | Qased       | Noor                       | Succes   | Satelit plasat pe orbită  |
-
-
-*** Note de subsol
 
 [fn:irn1] Omid nu a fost însă primul satelit iranian care a ajuns pe orbită, însă a fost primul care a ajuns în spațiu lansat de o rachetă iraniană. În 2005, Sina-1 a fost lansat de către o rachetă rusească Kosmos-3M de la baza din Plesetsk.
 [fn:irn2] https://www.npr.org/2019/08/29/755406765/iranian-rocket-launch-ends-in-failure-images-show
@@ -930,24 +926,15 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 - SNC :: orbită selenocentrică (lunară);
 - MOL :: orbită Molniya.
 
-**** Note de subsol
 
 [fn:rroct] Probabil ultima lansarea a rachetei Rockot, cel puțin pentru sectorul militar.
-
 [fn:rp1500] Lansarea cu numărul 1500 de la cosmodromul din Baikonur.
-
 [fn:rosm1] Tentativa unei companii chinezești private de a pune pe orbită un satelit s-a încheiat cu un eșec după ce controlul rachetei a fost pierdut imediat după seprarea primei trepte.
-
 [fn:rcz4c] Probleme cu a treia treaptă a rachetei Changzheng.
-
 [fn:rvega] Prima lansare eșuată pentru racheta Vega, datorită unor probleme cu treapta secundară.
-
 [fn:rcz3b] Prima lansare orbitală reușită a unei companii private din China.
-
 [fn:rhyp1] Racheta a urcat satelitul pe orbita corectă, dar ulterior acesta a suferit probleme tehnice.
-
 [fn:rsfg] Ultima lansare a rachetei Soyuz-FG și [[/m/soyuz-fg][probabil ultima lansare de pe rampa istorică 1/5 de la Baikonur]].
-
 [fn:rcst100] Racheta și treapta secundară au funcționat nominal, dar capsula CST-100 Starliner nu a mai ajuns la ISS din cauza unei probleme cu ceasul computerului de bord, care astfel nu a mai efectuat la timp o manevră de inserție pe orbita corectă. 
 ** Lansatoare orbitale active
 :PROPERTIES:
@@ -1304,6 +1291,7 @@ Discuții despre o a treia generație, Athena III, au existat încă de când ra
 Lockheed Martin a dorit să participe și la programul NASA pentru stimularea sectorului privat în explorarea spațiului cu echipaj uman (COTS), propunând o variantă de Athena III care ne-ar fi adus aminte de boosterele cu combustibil solid atașate navetei spațiale. Noua rachetă urma să aibă trei trepteȘ Castor-120, Castor 30 și OAM. De două ori mai înaltă decât Athena I, Athena III urma să poată urca pe orbită polară 4.6 tone (de pe insula Kodiak) și 5.9 tone pe orbită joasă, de la baza din cape Canaveral. Însă Lockheed Martin nu a câștigat nici un contract COTS.
 
 Competitorul direct al Athenei este Minotaur, construită și operată de Orbital Sciences Corporation, iar US Air Force încearcă să angajeze mai mulți producători (printre care și SpaceX) în speranța că aceștia vor scădea costurile, în urma concurenței create. Diferența dintre Minotaur și Athena este că primul propulsor folosește componente rămase la de rachetele balistice intercontinentale în timp ce racheta celor de la Lockheed Martin este construită din materiale noi, ceea ce poate fi un dezavantaj când vine vorba de costuri. Athena ar avea nevoie de trei lansări anuale pentru a-și justifica la limită costurile de producție și de patru lansări pentru a deveni profitabilă din punct de vedere economic. Forțele aeriene și-au exprimat interesul pentru Athena, dar nu au făcut comenzi ferme în această direcție. Momentan, clienții pentru Athena III lipsesc, dar ea poate fi resuscitată oricând va fi nevoie de lansatoare de mici dimensiuni.
+
 ** Soyuz-FG
 :PROPERTIES:
   :EXPORT_FILE_NAME: soyuz-fg
@@ -1494,8 +1482,6 @@ Soyuz-2, folosită începând cu 2006, vine însă în două variante: Soyuz-2.1
 
 ---
 
-**** Note
-
 [fn:B1046] Boosterul a fost distrus în urma unui test al capsulei Dragon-2, în care aceasta s-a desprins de rachetă la câteva secunde după lansare, prin activarea sistemului de separarea în caz de urgență.
 [fn:B1050] Programat să aterizeze pe LZ-1, în urma unei defecțiuni a ajuns în apa oceanului Atlantic, de unde a fost recuperat ulterior, avariat dar în mare parte intact, dar probabil nu va mai fi folosit
 [fn:B1054] Prima treaptă nu a fost recuperată, fiind nevoie de toată puterea disponibilă a rachetei.
@@ -1662,8 +1648,6 @@ Lansările Epsilon au loc de la centrul spațial Uchinoura, folosit pentru foste
 | 20.12.2016 | Epsilon-2    | ERG      | 350 kg | LEO    | Succes   |
 | 17.01.2018 | Epsilon-2    | ASNARO-2 | 570 kg | SSO    | Succes   |
 | 18.01.2019 | Epsilon-2    | RAPIS-1  | 200 kg | SSO    | Succes   |
-
-*** Note de subsol
 
 [fn:epsilonmoon] https://english.kyodonews.net/news/2020/04/5065353da362-japan-eyes-sending-micro-lunar-probe-on-solid-fuel-rocket-in-2020s.html
 [fn:epsilonspecs] https://global.jaxa.jp/projects/rockets/epsilon
@@ -1960,7 +1944,6 @@ Misiunea OTV-6 (probabil vehiculul 1, folosit în misiunile OTV-1 și OTV-3) a f
 | 07.09.2017 | OTV-5   | X-37B-2 | Falcon 9 B4 | KSC LC-39A | USA-277  | 780 zile | 27.10.2019 | LSC SLF         |
 | 17.05.2020 | OTV-6   | X-37B-1 | Atlas V 501 | CC SLC-41  | USA-299  | ??       |         ?? | ??              |
 
-*** Note de subsol
 
 [fn:f9otv5] https://www.spacex.com/news/2017/09/07/otv-5-mission
 [fn:rf] http://www.leonarddavid.com/caught-on-camera-secretive-space-plane/
@@ -2067,8 +2050,6 @@ Moștenirea programului Buran însă continuă și astăzi. Boosterele rachetei 
 | Voyager-2         | 20.08.1977 | NASA      | Titan IIIE     | spațiu  |         2025 |  (865)[fn:son8] | dincolo de Sistemul Solar       |
 |-------------------+------------+-----------+----------------+---------+--------------+-----------------+---------------------------------|
 
----
-*** Note de subsol
 [fn:son1] End of Mission, anul în care se așteaptă ca sondă să devină nefuncțională, rezultat în principal din estimarea cantității de combustibil de la bord.
 [fn:son2] Costul estimat al sondei, în milioane de dolari (sau echivalent).
 [fn:son3] Misiunea conținea două vehicule, o sondă orbitală și un lander, Vikram, care însă s-a prăbușit pe suprafața Lunii în 6 septembrie. Vikram conținuea și un mic rover, Pragyan.
@@ -2234,7 +2215,6 @@ Capsula *Dragon-XL* a comapaniei SpaceX a fost primul vehicul pe care NASA l-a d
  - lipsa oricăror elemente aerodinamice înseamnă că în timpul lansării va fi în interiorul unui con protector (lucru care nu se întâmplă pentru restul capsulelor Dragon);
  - partea presurizată nu se va desprinde de partea nepresurizată (cum se întâmplă cu restul capsulelor Dragon).
 
-*** Note de subsol
 
 [fn:maxar1] https://www.nasa.gov/press-release/nasa-awards-artemis-contract-for-lunar-gateway-power-propulsion
 [fn:lopgdrgnxl] https://www.nasa.gov/press-release/nasa-awards-artemis-contract-for-gateway-logistics-services

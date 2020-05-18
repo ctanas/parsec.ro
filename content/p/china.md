@@ -110,9 +110,6 @@ Compania iSpace (sau, pe numele său complet _Beijing Interstellar Glory Space T
 
 În 2014, guvernul din China a permis apariția acestor entități private, separate de progarmul spațial oficial, care încep să construiască și să lanseze rachete orbitale. iSpace nu este singura astfel de companie, în China se desfășoară în prezent un fel de cursă spațială privată între iSpace, Landspace (cu racheta Zhuque-2  cu motoare TQ ce ard metan), Linkspace (cu racheta New Line, care urmează să debuteze în 2020), OneSpace (a cărei rachetă OS-M1 nu a reușit să ajungă pe orbită în zborul din 27 martie 2019), Jiuzhou Yunjian și Galactic Energy (_Beijing Xinghe Dongli Space Technology Co. Ltd.,_ cu racheta Pallas-1 capabilă să urce 4 tone pe LEO și 2 tone pe SSO sau Ceres-1, rachetă cu combustibil solid).
 
-
-## Note de subsol {#note-de-subsol}
-
 [^fn:1]: CNSA — **China National Space Administration**
 [^fn:2]: CASC — **China Aerospace Science and Technology Corporation**
 [^fn:3]: CALT — **China Academy of Launch Vehicle Technology**

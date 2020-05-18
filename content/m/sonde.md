@@ -32,11 +32,6 @@ draft = false
 | Voyager-1         | 05.09.1977 | NASA      | Titan IIIE     | spațiu  | 2025       | (865)[^fn:8]  | dincolo de Sistemul Solar     |
 | Voyager-2         | 20.08.1977 | NASA      | Titan IIIE     | spațiu  | 2025       | (865)[^fn:8]  | dincolo de Sistemul Solar     |
 
----
-
-
-## Note de subsol {#note-de-subsol}
-
 [^fn:1]: End of Mission, anul în care se așteaptă ca sondă să devină nefuncțională, rezultat în principal din estimarea cantității de combustibil de la bord.
 [^fn:2]: Costul estimat al sondei, în milioane de dolari (sau echivalent).
 [^fn:3]: Misiunea conținea două vehicule, o sondă orbitală și un lander, Vikram, care însă s-a prăbușit pe suprafața Lunii în 6 septembrie. Vikram conținuea și un mic rover, Pragyan.

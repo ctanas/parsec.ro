@@ -138,9 +138,6 @@ SNC
 MOL
 : orbită Molniya.
 
-
-## Note de subsol {#note-de-subsol}
-
 [^fn:1]: Probabil ultima lansarea a rachetei Rockot, cel puțin pentru sectorul militar.
 [^fn:2]: Lansarea cu numărul 1500 de la cosmodromul din Baikonur.
 [^fn:3]: Racheta și treapta secundară au funcționat nominal, dar capsula CST-100 Starliner nu a mai ajuns la ISS din cauza unei probleme cu ceasul computerului de bord, care astfel nu a mai efectuat la timp o manevră de inserție pe orbita corectă.
