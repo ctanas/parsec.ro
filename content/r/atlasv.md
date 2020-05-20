@@ -17,7 +17,7 @@ Astfel 521 înseamnă un satelit voluminos, care are nevoie de un con protector 
 În funcție de configurația de zbor, o rachetă Atlas V poate urca între 8250 și 20520 kilograme pe orbită terestră joasă și între 4750 și 8900 kilograme pe orbită geostaționară.
 
 <div class="table-caption">
-  <span class="table-number">Tabel 1</span>:
+  <span class="table-number">Table 1</span>:
   Lista lansărilor rachetei Atlas V
 </div>
 

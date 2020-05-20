@@ -699,12 +699,12 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 | ??.06       | Falcon-9   | Starlink-7   | COM | SUA     | CC SLC-41      | LEO   |
 | 27.06       | Soyuz-2.1b | Glonass-M    | CNS | Rusia   | Plesetsk 43/4  | MEO   |
 | 27.05 20:32 | Falcon-9   | Dragon2      | CRW | SUA     | KSC LC-39A     | ISS   |
-| 20.05 17:30 | H-IIB      | HTV-9        | NAV | Japonia | Tanegashima    | ISS   |
 
 **** Lansări orbitale efectuate în 2020
 | Nr. | Data        | Lansator      | Satelit           | Tip  | Țara    | Centru / Rampa  | Ținta | Rezultat       | Bul. |
 |-----+-------------+---------------+-------------------+------+---------+-----------------+-------+----------------+------|
-|  32 | 17.05 13:14 | Atlas V 501   | OTV-6 X37B        | NAV* | SUA     | CC SLC-40       | LEO   | Succes         | 76   |
+|  33 | 20.05 20:30 | H-2B          | HTV-9             | NAV  | Japonia | Tanegashima     | ISS   | Succes         | [[/bul/76][76]]   |
+|  32 | 17.05 13:14 | Atlas V 501   | OTV-6 X37B        | NAV* | SUA     | CC SLC-40       | LEO   | Succes         | [[/bul/76][76]]   |
 |  31 | 11.05 01:16 | Kuaizhou-1A   | 2x Xingyun-2      | COM  | China   | Jiuquan         | SSO   | Succes         | [[/bul/075][75]]   |
 |  30 | 05.05 10:00 | Changzheng-5B | Shenzhou2[fn:126] | NAV  | China   | Wenchang LC-101 | LEO   | Succes         | [[/bul/074][74]]   |
 |-----+-------------+---------------+-------------------+------+---------+-----------------+-------+----------------+------|
@@ -749,9 +749,9 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 | Europa  |   4 | IIII        |
 | Rusia   |   4 | IIII        |
 | Iran    |   2 | XI          |
-| Japonia |   1 | I           |
+| Japonia |   2 | II          |
 |---------+-----+-------------|
-| *TOTAL*   |  *32* |             |
+| *TOTAL*   |  *33* |             |
 
 **** Legendă tabel
 
@@ -979,7 +979,7 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 | Vega             | EU   | ArianeSpace |  2012 | P80 (S)      |       | 1.45t |       |   15 |   14 |     1 | 11.07.2019 |
 |------------------+------+-------------+-------+--------------+-------+-------+-------+------+------+-------+------------|
 | H-2A             | JPN  | JAXA        |  2001 | 1xLE-7A      | 15t   |       | 6t    |   41 |   40 |     1 | 09.02.2020 |
-| H-2B             | JPN  | JAXA        |  2009 | 2xLE-7A      | 16.5t |       | 8t    |    8 |    8 |     0 | 24.09.2019 |
+| H-2B             | JPN  | JAXA        |  2009 | 2xLE-7A      | 16.5t |       | 8t    |    9 |    9 |     0 | 20.05.2020 |
 | Epsilon          | JPN  | JAXA        |  2013 | M-35 (S)     | 1.2   | 0.45  |       |    4 |    4 |     0 | 18.01.2019 |
 |------------------+------+-------------+-------+--------------+-------+-------+-------+------+------+-------+------------|
 | PSLV             | IND  | ISRO        |  1993 | (S)          | 3.8t  | 1.75t | 1.2t  |   50 |   47 | 2+(1) | 11.12.2019 |
@@ -2541,7 +2541,7 @@ Marius Trusculescu, unul din membri echipei Goliat, primul satelit românesc, a 
 :EXPORT_HUGO_SECTION: bul
 :END:
 
-** TODO Buletin Cosmic nr. 76 :venus:x37b:atasv:
+** Buletin Cosmic nr. 76                    :venus:x37b:atasv:htv9:h2b:venus:nasa:
 :PROPERTIES:
 :EXPORT_FILE_NAME: 076
 :EXPORT_DATE: 2020-05-20
@@ -2549,23 +2549,29 @@ Marius Trusculescu, unul din membri echipei Goliat, primul satelit românesc, a 
 
 *** Lansări orbitale
 
-Atlas V
+Miercuri, la 20:30 ora României a avut loc ultima lansare a navei cargo japoneze *HTV* spre Stația Spațială Internațională[fn::https://blogs.nasa.gov/spacestation/2020/05/20/japanese-cargo-vehicle-lifts-off-to-resupply-station-crew/]. A fost al nouălea vehicul HTV, pentru a cărui lansare este nevoie de cea mai puternică rachetă japoneză, *H-2B*, aflată și ea la ultimul său zbor. La 15 minute după lansare, HTV se afla deja pe o orbită preliminară, urmând ca andocarea cu modulul Harmony al Stației Spațiale Internaționale să aibă loc în cursul zilei de luni.
+
+Japonia, unul dintre partenerii importanți în cadrul proiectului Stației Spațiale Internaționale, plănuiește să inaugureze în acest an lansatorul H3, urmând ca o navă cargo, denumită HTV-X, să debuteze în 2022, pentru aprovizionarea regulată a stației. H-2B își încheie cariera după 9 lansări și tot atâtea reușite, fiind folosită exclusiv pentru lansarea navei HTV spre ISS.
+
+---
+
+O rachetă *Atlas V* în configurația 501, a lansat duminică, 17 mai, o naveta autonomă *X-37B* aparținând forțelor aeriene ale Statelor Unite[fn::https://www.spaceforce.mil/News/Article/2192090/ussf-7-mission-successfully-launched]. Este a 6-a lansare a unei navete X-37B, a 5-a realizată de o rachetă Atlas V și pentru prima dată când vehiculul este dotat cu un modul de serviciu care oferă astfel un spațiu mai generos experimentelor transportate pe orbită. Și tot în premieră, vehiculul a transportat în spațiu și două experimente pentru NASA, unul care studiază efectul expunerii unor materiale la condițiile din spațiul cosmic iar celălalt va studia efectul radiației cosmice asupra unor semințe. Boeing a construit două astfel de navete X-37B pentru forțele aeriene, dar nu a fost făcut public care dintre aceste două vehicule a fost trimis de această dată în spațiu și nici nu sunt cunoscute detalii despre misiunea orbitală a acestuia, deși astronomii au reușit să-i identifice parametri orbitali: altitudine 390 km și înclinație orbitală de 45 de grade[fn::http://www.satobs.org/seesat/May-2020/0159.html]. Precedentul vehicul X-37B a fost lansat în 7 septembrie 2019 de o rachetă Falcon 9 și a petrecut nu mai puțin de 780 de zile pe orbită, revenind ulterior pe pista de la centrul spațial Kennedy.
+
+#+CAPTION: Naveta X-37B, înainte de misiunea OTV-6 /(Sursa foto: [[https://www.spaceforce.mil/News/Article/2177702/next-x-37b-orbital-test-vehicle-scheduled-to-launch][US Space Force]])/
+[[/img/otv6p1.jpg]]
+
+Lansarea trebuia să aibă loc sâmbătă, 16 mai, dar a fost amânată cu 24 de ore din cauza condițiilor meteo nefavorabile. Astfel, lansarea Starlink-7 a companiei SpaceX, programată inițial pentru duminică, a trebuit să cedeze locul rachetei Atlas V, care executa o misiune în interesul securității Statelor Unite, iar structurile de pe coasta de est nu pot derula mai mult de o lansare orbitală într-un interval mai scurt de 24 de ore. În cele din urmă, SpaceX a decis că lansarea Starlink-7 va avea loc în iunie, după ce în această săptămână furtuna tropicală Arthur a afectat coasta Floridei, iar săptămâna viitoare este programată lansarea SpaceX DM-2 cu astronauți la bordul capsulei Dragon, care, din nou, are prioritate.
 
 *** Alte evenimente
 
-Venus
+Agenția spațială rusă ar putea să reînceapă explorarea plentei *Venus*, printr-un set de trei misiuni derulate începând cu 2027[fn::https://tass.ru/kosmos/8477973]. Prima dintre acestea urmează să fie *Venera-D*, o colaborare cu NASA, care presupune o sondă orbitală și un lander, urmată de alte două misiuni din ce în ce mai ambițioase. Din păcate, va trebui să mai așteptăm până în 2021 pentru detalii suplimentare, dar faptul că planeta Venus intră din nou în centrul atenției este un lucru îmbucurător.
 
 ---
 
-Amânare Starlink-7
+Cu o săptămână înaintea lansării misiunii SpX-DM-2 cu astronauți la bordul capsulei Dragon, *Doug Loverro*, directorului programului de zboruri cu echipaj din cadrul *NASA*, a demisionat[fn::https://www.npr.org/2020/05/19/859019450/head-of-nasas-human-spaceflight-program-resigns-a-week-before-crucial-launch]. El a precizat că acest lucru nu are legătură cu lansarea programată pentru miercuri, 27 mai, demisia fiind rezultatul unei greșeli personale, dar fără a da detalii. În martie, Loverro preciza că stația spațială selenară Gateway nu este esențială pentru programul Artemis și nici nu va fi finalizată la timp pentru Artemis-3, misiunea care va duce un echipaj pe suprafața Lunii.
+Doug Loverro l-a înlocuit în 2019 pe William Gerstenmaier[fn::https://www.nasa.gov/press-release/nasa-administrator-selects-douglas-loverro-as-next-human-spaceflight-head], care deținea respectiva funcție de 15 ani. Acum Ken Bowersox, un fost astronaut și participant în 5 misiuni ale navetei spațiale, este temporar în fruntea programului de zboruri cu echipaj, după ce a asigurat interimatul după demiterea lui Gerstenmaier până la preluarea funcției de Loverro.
 
 ---
-
-SLS
-
----
-
-Gateway
 
 ** Buletin Cosmic nr. 75 :kuaizhou:cygnus:ng13:soyuz:cz5b:hayabusa2:
 :PROPERTIES:

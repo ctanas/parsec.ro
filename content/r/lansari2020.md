@@ -6,20 +6,20 @@ draft = false
 
 ## Lansări orbitale programate în perioada următoare {#lansări-orbitale-programate-în-perioada-următoare}
 
-| Data        | Lansator   | Satelit      | Tip | Țara    | Centru / Rampa | Ținta |
-|-------------|------------|--------------|-----|---------|----------------|-------|
-| 30.06       | Falcon-9   | GPS-III SV03 | CNS | SUA     | CC SLC-40      | MEO   |
-| ??.06       | Falcon-9   | Starlink-7   | COM | SUA     | CC SLC-41      | LEO   |
-| 27.06       | Soyuz-2.1b | Glonass-M    | CNS | Rusia   | Plesetsk 43/4  | MEO   |
-| 27.05 20:32 | Falcon-9   | Dragon2      | CRW | SUA     | KSC LC-39A     | ISS   |
-| 20.05 17:30 | H-IIB      | HTV-9        | NAV | Japonia | Tanegashima    | ISS   |
+| Data        | Lansator   | Satelit      | Tip | Țara  | Centru / Rampa | Ținta |
+|-------------|------------|--------------|-----|-------|----------------|-------|
+| 30.06       | Falcon-9   | GPS-III SV03 | CNS | SUA   | CC SLC-40      | MEO   |
+| ??.06       | Falcon-9   | Starlink-7   | COM | SUA   | CC SLC-41      | LEO   |
+| 27.06       | Soyuz-2.1b | Glonass-M    | CNS | Rusia | Plesetsk 43/4  | MEO   |
+| 27.05 20:32 | Falcon-9   | Dragon2      | CRW | SUA   | KSC LC-39A     | ISS   |
 
 
 ## Lansări orbitale efectuate în 2020 {#lansări-orbitale-efectuate-în-2020}
 
 | Nr. | Data        | Lansator      | Satelit          | Tip   | Țara    | Centru / Rampa  | Ținta | Rezultat      | Bul.           |
 |-----|-------------|---------------|------------------|-------|---------|-----------------|-------|---------------|----------------|
-| 32  | 17.05 13:14 | Atlas V 501   | OTV-6 X37B       | NAV\* | SUA     | CC SLC-40       | LEO   | Succes        | 76             |
+| 33  | 20.05 20:30 | H-2B          | HTV-9            | NAV   | Japonia | Tanegashima     | ISS   | Succes        | [76](/bul/76)  |
+| 32  | 17.05 13:14 | Atlas V 501   | OTV-6 X37B       | NAV\* | SUA     | CC SLC-40       | LEO   | Succes        | [76](/bul/76)  |
 | 31  | 11.05 01:16 | Kuaizhou-1A   | 2x Xingyun-2     | COM   | China   | Jiuquan         | SSO   | Succes        | [75](/bul/075) |
 | 30  | 05.05 10:00 | Changzheng-5B | Shenzhou2[^fn:1] | NAV   | China   | Wenchang LC-101 | LEO   | Succes        | [74](/bul/074) |
 | 29  | 25.04 01:51 | Soyuz-2.1a    | Progress MS-14   | NAV   | Rusia   | Baikonur 31/6   | ISS   | Succes        | [73](/bul/073) |
@@ -62,8 +62,8 @@ draft = false
 | Europa    | 4      | IIII        |
 | Rusia     | 4      | IIII        |
 | Iran      | 2      | XI          |
-| Japonia   | 1      | I           |
-| **TOTAL** | **32** |             |
+| Japonia   | 2      | II          |
+| **TOTAL** | **33** |             |
 
 
 ## Legendă tabel {#legendă-tabel}
