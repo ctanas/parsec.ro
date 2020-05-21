@@ -5,7 +5,7 @@ draft = false
 +++
 
 <div class="table-caption">
-  <span class="table-number">Table 1</span>:
+  <span class="table-number">Tabel 1</span>:
   Lista lansărilor Falon 9
 </div>
 
@@ -98,7 +98,7 @@ draft = false
 | 84  | v1.2b5 | 22.04.2020 | Starlink v1.0-6     | B1051.4 | LC-39A     |   |
 
 <div class="table-caption">
-  <span class="table-number">Table 2</span>:
+  <span class="table-number">Tabel 2</span>:
   Lista lansărilor Falcon Heavy
 </div>
 
@@ -109,7 +109,7 @@ draft = false
 | 3   | 25.06.2019 | STP-2          | B1052.2 B1053.2  | B1057    | LC-39A |
 
 <div class="table-caption">
-  <span class="table-number">Table 3</span>:
+  <span class="table-number">Tabel 3</span>:
   Lista treptelor primare Falcon 1 Block 5
 </div>
 
@@ -147,9 +147,10 @@ draft = false
 | B1056.3 | 17.12.2019 | JSCAT-18       | OCISLY        | Falcon 9   |
 | B1056.4 | 17.02.2020 | Starlink-4     | N/A[^fn:5]    | Falcon 9   |
 | B1057.1 | 25.06.2019 | STP-2          | N/A[^fn:6]    | FH centru  |
-| B1058.1 | ??.??.2020 | Dragon DM-2    | ???[^fn:7]    | Falcon 9   |
+| B1058.1 | 27.05.2020 | Dragon DM-2    | OCISLY[^fn:7] | Falcon 9   |
 | B1059.1 | 05.12.2019 | Dragon CRS-19  | OCISLY        | Falcon 9   |
 | B1059.2 | 07.03.2020 | Dragon CRS-20  | LZ-1          | Falcon 9   |
+| B1060.1 | ??.??.2020 | GPS-III SV03   | ???           | Falcon 9   |
 
 
 ## Abrevieri {#abrevieri}
