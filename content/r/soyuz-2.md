@@ -19,7 +19,7 @@ Soyuz-2.1a poate lansa cel mult 7 tone pe orbită terestră joasă sau 2.8 tone 
 {{< figure src="/img/soyuz21a.jpg" caption="Figure 1: Lansarea rachetei Soyuz-2.1a cu nava cargo Progress MS-13, din 06 decembrie 2019." >}}
 
 <div class="table-caption">
-  <span class="table-number">Tabel 1</span>:
+  <span class="table-number">Table 1</span>:
   Performanțele rachetei Soyuz-2 în funcție de confgiurație și orbită
 </div>
 
@@ -32,7 +32,7 @@ Soyuz-2.1a poate lansa cel mult 7 tone pe orbită terestră joasă sau 2.8 tone 
 | 2.1v         | 2850 kg |         |         |
 
 <div class="table-caption">
-  <span class="table-number">Tabel 2</span>:
+  <span class="table-number">Table 2</span>:
   Lista lansărilor rachetelor Soyuz-2 (2.1a, 2.1b, 2.1v)
 </div>
 
@@ -142,6 +142,7 @@ Soyuz-2.1a poate lansa cel mult 7 tone pe orbită terestră joasă sau 2.8 tone 
 | 101 | 21.03.2020 | Soyuz 2.1b/Fregat | 34x OneWeb-3            | 5.015    | TB 31/6 | LEO         |
 | 102 | 08.04.2020 | Soyuz 2.1a        | Soyuz MS-16             | ~7.2     | TB 31/6 | ISS         |
 | 103 | 15.04.2020 | Soyuz 2.1a        | Progress MS-14          | ~7.2     | TB 31/6 | ISS         |
+| 104 | 22.05.2020 | Soyuz 2.1b/Fregat | Tundra-4                |          | PL 43/3 | MOL         |
 
 EEO
 : Orbită eliptică

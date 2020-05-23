@@ -18,6 +18,7 @@ draft = false
 
 | Nr. | Data        | Lansator      | Satelit          | Tip   | Țara    | Centru / Rampa  | Ținta | Rezultat      | Bul.           |
 |-----|-------------|---------------|------------------|-------|---------|-----------------|-------|---------------|----------------|
+| 34  | 22.05 07:31 | Soyuz-2.1b    | Tundra-4         | COM\* | Rusia   | Plesetsk        | MOL   | Succes        | 77             |
 | 33  | 20.05 20:30 | H-2B          | HTV-9            | NAV   | Japonia | Tanegashima     | ISS   | Succes        | [76](/bul/76)  |
 | 32  | 17.05 13:14 | Atlas V 501   | OTV-6 X37B       | NAV\* | SUA     | CC SLC-40       | LEO   | Succes        | [76](/bul/76)  |
 | 31  | 11.05 01:16 | Kuaizhou-1A   | 2x Xingyun-2     | COM   | China   | Jiuquan         | SSO   | Succes        | [75](/bul/075) |
@@ -59,11 +60,11 @@ draft = false
 |-----------|--------|-------------|
 | SUA       | 11     | IIIIIIIIIII |
 | China     | 10     | IIIIIXIXII  |
+| Rusia     | 5      | IIIII       |
 | Europa    | 4      | IIII        |
-| Rusia     | 4      | IIII        |
 | Iran      | 2      | XI          |
 | Japonia   | 2      | II          |
-| **TOTAL** | **33** |             |
+| **TOTAL** | **34** |             |
 
 
 ## Legendă tabel {#legendă-tabel}
