@@ -15,7 +15,7 @@ Lansările Epsilon au loc de la centrul spațial Uchinoura, folosit pentru foste
 În anii următori, JAXA ar putea folosi racheta Epsilon pentru a trimite o sondă pe orbita Lunii și un mic lander pe suprafața acesteia[^fn:2].
 
 <div class="table-caption">
-  <span class="table-number">Table 1</span>:
+  <span class="table-number">Tabel 1</span>:
   Lista lansărilor rachetei Epsilon
 </div>
 

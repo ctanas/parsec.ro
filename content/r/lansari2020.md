@@ -18,6 +18,7 @@ draft = false
 
 | Nr. | Data        | Lansator      | Satelit          | Tip   | Țara    | Centru / Rampa  | Ținta | Rezultat      | Bul.           |
 |-----|-------------|---------------|------------------|-------|---------|-----------------|-------|---------------|----------------|
+| 35  | 25.05 19:50 | RocketOne     | _dummy_          | SAT   | SUA     | CosmicGirl      | LEO   | Eșec          | 77             |
 | 34  | 22.05 07:31 | Soyuz-2.1b    | Tundra-4         | COM\* | Rusia   | Plesetsk        | MOL   | Succes        | 77             |
 | 33  | 20.05 20:30 | H-2B          | HTV-9            | NAV   | Japonia | Tanegashima     | ISS   | Succes        | [76](/bul/76)  |
 | 32  | 17.05 13:14 | Atlas V 501   | OTV-6 X37B       | NAV\* | SUA     | CC SLC-40       | LEO   | Succes        | [76](/bul/76)  |
@@ -56,15 +57,15 @@ draft = false
 
 ## Clasament {#clasament}
 
-| Țara      | Nr.    | Lansări     |
-|-----------|--------|-------------|
-| SUA       | 11     | IIIIIIIIIII |
-| China     | 10     | IIIIIXIXII  |
-| Rusia     | 5      | IIIII       |
-| Europa    | 4      | IIII        |
-| Iran      | 2      | XI          |
-| Japonia   | 2      | II          |
-| **TOTAL** | **34** |             |
+| Țara      | Nr.    | Lansări      |
+|-----------|--------|--------------|
+| SUA       | 12     | IIIIIIIIIIIX |
+| China     | 10     | IIIIIXIXII   |
+| Rusia     | 5      | IIIII        |
+| Europa    | 4      | IIII         |
+| Iran      | 2      | XI           |
+| Japonia   | 2      | II           |
+| **TOTAL** | **35** |              |
 
 
 ## Legendă tabel {#legendă-tabel}
