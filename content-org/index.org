@@ -2545,7 +2545,15 @@ Marius Trusculescu, unul din membri echipei Goliat, primul satelit românesc, a 
 :EXPORT_HUGO_SECTION: bul
 :END:
 
-** Buletin Cosmic nr. 76                    :venus:x37b:atasv:htv9:h2b:venus:nasa:
+** Buletin Cosmic nr. 77
+
+*** Lansări orbitale
+
+Soyuz-2.1b
+
+*** Alte evenimente
+
+** Buletin Cosmic nr. 76 :venus:x37b:atasv:htv9:h2b:venus:nasa:
 :PROPERTIES:
 :EXPORT_FILE_NAME: 076
 :EXPORT_DATE: 2020-05-20
