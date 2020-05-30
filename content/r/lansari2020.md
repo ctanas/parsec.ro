@@ -18,8 +18,9 @@ draft = false
 
 | Nr. | Data        | Lansator      | Satelit          | Tip   | Țara    | Centru / Rampa  | Ținta | Rezultat      | Bul.           |
 |-----|-------------|---------------|------------------|-------|---------|-----------------|-------|---------------|----------------|
-| 35  | 25.05 19:50 | RocketOne     | _dummy_          | SAT   | SUA     | CosmicGirl      | LEO   | Eșec          | 77             |
-| 34  | 22.05 07:31 | Soyuz-2.1b    | Tundra-4         | COM\* | Rusia   | Plesetsk        | MOL   | Succes        | 77             |
+| 36  | 29.05 20:13 | CZ-11         | XS-H             | SAT   | China   | Xichang         | LEO   | Succes        | 78             |
+| 35  | 25.05 19:50 | RocketOne     | _dummy_          | SAT   | SUA     | CosmicGirl      | LEO   | Eșec          | [77](/bul/77)  |
+| 34  | 22.05 07:31 | Soyuz-2.1b    | Tundra-4         | COM\* | Rusia   | Plesetsk        | MOL   | Succes        | [77](/bul/077) |
 | 33  | 20.05 20:30 | H-2B          | HTV-9            | NAV   | Japonia | Tanegashima     | ISS   | Succes        | [76](/bul/76)  |
 | 32  | 17.05 13:14 | Atlas V 501   | OTV-6 X37B       | NAV\* | SUA     | CC SLC-40       | LEO   | Succes        | [76](/bul/76)  |
 | 31  | 11.05 01:16 | Kuaizhou-1A   | 2x Xingyun-2     | COM   | China   | Jiuquan         | SSO   | Succes        | [75](/bul/075) |
@@ -60,12 +61,12 @@ draft = false
 | Țara      | Nr.    | Lansări      |
 |-----------|--------|--------------|
 | SUA       | 12     | IIIIIIIIIIIX |
-| China     | 10     | IIIIIXIXII   |
+| China     | 11     | IIIIIXIXIII  |
 | Rusia     | 5      | IIIII        |
 | Europa    | 4      | IIII         |
 | Iran      | 2      | XI           |
 | Japonia   | 2      | II           |
-| **TOTAL** | **35** |              |
+| **TOTAL** | **36** |              |
 
 
 ## Legendă tabel {#legendă-tabel}

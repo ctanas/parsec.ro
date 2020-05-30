@@ -703,8 +703,9 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 **** Lansări orbitale efectuate în 2020
 | Nr. | Data        | Lansator      | Satelit           | Tip  | Țara    | Centru / Rampa  | Ținta | Rezultat       | Bul. |
 |-----+-------------+---------------+-------------------+------+---------+-----------------+-------+----------------+------|
-|  35 | 25.05 19:50 | RocketOne     | /dummy/             | SAT  | SUA     | CosmicGirl      | LEO   | Eșec           | 77   |
-|  34 | 22.05 07:31 | Soyuz-2.1b    | Tundra-4          | COM* | Rusia   | Plesetsk        | MOL   | Succes         | 77   |
+|  36 | 29.05 20:13 | CZ-11         | XS-H              | SAT  | China   | Xichang         | LEO   | Succes         | 78   |
+|  35 | 25.05 19:50 | RocketOne     | /dummy/             | SAT  | SUA     | CosmicGirl      | LEO   | Eșec           | [[/bul/77][77]]   |
+|  34 | 22.05 07:31 | Soyuz-2.1b    | Tundra-4          | COM* | Rusia   | Plesetsk        | MOL   | Succes         | [[/bul/077][77]]   |
 |  33 | 20.05 20:30 | H-2B          | HTV-9             | NAV  | Japonia | Tanegashima     | ISS   | Succes         | [[/bul/76][76]]   |
 |  32 | 17.05 13:14 | Atlas V 501   | OTV-6 X37B        | NAV* | SUA     | CC SLC-40       | LEO   | Succes         | [[/bul/76][76]]   |
 |  31 | 11.05 01:16 | Kuaizhou-1A   | 2x Xingyun-2      | COM  | China   | Jiuquan         | SSO   | Succes         | [[/bul/075][75]]   |
@@ -747,13 +748,13 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 | Țara    | Nr. | Lansări      |
 |---------+-----+--------------|
 | SUA     |  12 | IIIIIIIIIIIX |
-| China   |  10 | IIIIIXIXII   |
+| China   |  11 | IIIIIXIXIII  |
 | Rusia   |   5 | IIIII        |
 | Europa  |   4 | IIII         |
 | Iran    |   2 | XI           |
 | Japonia |   2 | II           |
 |---------+-----+--------------|
-| *TOTAL*   |  *35* |              |
+| *TOTAL*   |  *36* |              |
 
 **** Legendă tabel
 
@@ -974,7 +975,7 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 | CZ-6             | CHN  | CNSA         |  2015 | 1xYF-100     |       | 1t    |       |    3 |    3 |     1 | 13.11.2019 |
 | CZ-7             | CHN  | CNSA         |  2016 | 2xYF-100     | 13.5t |       | 5.5t  |    2 |    2 |     0 | 20.04.2017 |
 | CZ-7A            | CHN  | CNSA         |  2020 | 1xYF-100     |       |       | 7.0t  |    1 |    0 |     1 | 16.03.2020 |
-| CZ-11            | CHN  | CNSA         |  2015 | P35 (S)      | 0.7t  | 0.35t |       |    8 |    8 |     0 | 19.09.2019 |
+| CZ-11[fn:rc4]    | CHN  | CNSA         |  2015 | P35 (S)      | 0.7t  | 0.35t |       |    9 |    9 |     0 | 29.05.2020 |
 | Jielong-1        | CHN  | CNSA         |  2019 | (S)          | ?     | ?     |       |    1 |    1 |     0 | 17.08.2019 |
 | Kuaizhou         | CHN  | CNSA         |  2013 | (S)          | 0.3t  | 0.2t  |       |   11 |   11 |     0 | 11.05.2020 |
 |------------------+------+--------------+-------+--------------+-------+-------+-------+------+------+-------+------------|
@@ -999,6 +1000,7 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 [fn:rc1] După eșecul celei de-a 5-a lansări Antares, din 28.10.2014, racheta a schimbat motorul primei trepte din NK-33 în RD-181.
 [fn:rc2] Falcon-9 a suferit o explozie pe rampa de lansare, înaintea misiunii Amos-18 (01.09.2016), eșec care nu apare în tabel.
 [fn:rc3] Safir a suferit în 29.08.2019 o explozie pe rampă, eșec care nu apare în tabel.
+[fn:rc4] Include și varianta CZ-11H care este lansată de pe o platformă maritimă.
 
 ** Lansatoare orbitale viitoare
 :PROPERTIES:
