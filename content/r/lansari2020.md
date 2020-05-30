@@ -4,20 +4,11 @@ author = ["Claudiu"]
 draft = false
 +++
 
-## Lansări orbitale programate în perioada următoare {#lansări-orbitale-programate-în-perioada-următoare}
-
-| Data        | Lansator   | Satelit      | Tip | Țara  | Centru / Rampa | Ținta |
-|-------------|------------|--------------|-----|-------|----------------|-------|
-| 30.06       | Falcon-9   | GPS-III SV03 | CNS | SUA   | CC SLC-40      | MEO   |
-| ??.06       | Falcon-9   | Starlink-7   | COM | SUA   | CC SLC-41      | LEO   |
-| 27.06       | Soyuz-2.1b | Glonass-M    | CNS | Rusia | Plesetsk 43/4  | MEO   |
-| 27.05 20:32 | Falcon-9   | Dragon2      | CRW | SUA   | KSC LC-39A     | ISS   |
-
-
 ## Lansări orbitale efectuate în 2020 {#lansări-orbitale-efectuate-în-2020}
 
 | Nr. | Data        | Lansator      | Satelit          | Tip   | Țara    | Centru / Rampa  | Ținta | Rezultat      | Bul.           |
 |-----|-------------|---------------|------------------|-------|---------|-----------------|-------|---------------|----------------|
+| 37  | 30.05 19:22 | Falcon-9      | Dragon2          | CRW   | SUA     | KSC LC-39A      | ISS   | Succes        | 78             |
 | 36  | 29.05 20:13 | CZ-11         | XS-H             | SAT   | China   | Xichang         | LEO   | Succes        | 78             |
 | 35  | 25.05 19:50 | RocketOne     | _dummy_          | SAT   | SUA     | CosmicGirl      | LEO   | Eșec          | [77](/bul/77)  |
 | 34  | 22.05 07:31 | Soyuz-2.1b    | Tundra-4         | COM\* | Rusia   | Plesetsk        | MOL   | Succes        | [77](/bul/077) |
@@ -58,15 +49,15 @@ draft = false
 
 ## Clasament {#clasament}
 
-| Țara      | Nr.    | Lansări      |
-|-----------|--------|--------------|
-| SUA       | 12     | IIIIIIIIIIIX |
-| China     | 11     | IIIIIXIXIII  |
-| Rusia     | 5      | IIIII        |
-| Europa    | 4      | IIII         |
-| Iran      | 2      | XI           |
-| Japonia   | 2      | II           |
-| **TOTAL** | **36** |              |
+| Țara      | Nr.    | Lansări       |
+|-----------|--------|---------------|
+| SUA       | 13     | IIIIIIIIIIIXI |
+| China     | 11     | IIIIIXIXIII   |
+| Rusia     | 5      | IIIII         |
+| Europa    | 4      | IIII          |
+| Iran      | 2      | XI            |
+| Japonia   | 2      | II            |
+| **TOTAL** | **37** |               |
 
 
 ## Legendă tabel {#legendă-tabel}
