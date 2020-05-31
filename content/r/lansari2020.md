@@ -8,6 +8,7 @@ draft = false
 
 | Nr. | Data        | Lansator      | Satelit          | Tip   | Țara    | Centru / Rampa  | Ținta | Rezultat      | Bul.           |
 |-----|-------------|---------------|------------------|-------|---------|-----------------|-------|---------------|----------------|
+| 38  | 31.05 08:53 | CZ-2D         | Gaofen-9-02      | OBS   | China   | Jiuquan         | SSO   | Succes        | 78             |
 | 37  | 30.05 19:22 | Falcon-9      | Dragon2          | CRW   | SUA     | KSC LC-39A      | ISS   | Succes        | 78             |
 | 36  | 29.05 20:13 | CZ-11         | XS-H             | SAT   | China   | Xichang         | LEO   | Succes        | 78             |
 | 35  | 25.05 19:50 | RocketOne     | _dummy_          | SAT   | SUA     | CosmicGirl      | LEO   | Eșec          | [77](/bul/77)  |
@@ -52,12 +53,12 @@ draft = false
 | Țara      | Nr.    | Lansări       |
 |-----------|--------|---------------|
 | SUA       | 13     | IIIIIIIIIIIXI |
-| China     | 11     | IIIIIXIXIII   |
+| China     | 12     | IIIIIXIXIIII  |
 | Rusia     | 5      | IIIII         |
 | Europa    | 4      | IIII          |
 | Iran      | 2      | XI            |
 | Japonia   | 2      | II            |
-| **TOTAL** | **37** |               |
+| **TOTAL** | **38** |               |
 
 
 ## Legendă tabel {#legendă-tabel}
