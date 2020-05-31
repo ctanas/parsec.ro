@@ -335,25 +335,27 @@ Lansat în 14 mai 2010 cu naveta Atlantis (STS-132), modulul rusesc de mici dime
 Programul CC-Dev al NASA presupune subvenționarea companiilor private americane de către agenția spațială americană pentru dezvoltarea de soluții proprii, comerciale, pentru lansarea astronauților pe orbită terestră joasă și ulterior contractarea acestor companii pentru asigurarea de zboruri cu echipaj spre Stația Spațială Internațională. Două companii fac parte din acest program: *SpaceX*, cu capsula /Dragon2/ și racheta Falcon 9 Block 5, și *Boeing*, cu capsula /CST-100 Starliner/, lansată de o rachetă Atlas V modificată: varianta denumită N22 nu are con protector, este certificată pentru zboruri cu echipaj, folosește două boostere auxiliare cu combustibil solid (AJ-60A) și cu o treaptă secundară Centaur cu 2 motoare Aerojet Rocketdyne RL10A-4-2. Fiecare din cele două companii lanseze 6 misiuni cu echipaj spre ISS în perioada 2019--2024.
 
 *** SpaceX DM-1 (02-08 martie 2019)
-/Demo Mission/ 1
+/Demo Mission/ 1 (Dragon2 C201)
 - fără echipaj
 
 *** Boeing OFT (20-22 decembrie 2019)
-/Orbital Flight Test/
+/Orbital Flight Test/ ("Calypso")
 - fără echipaj
 
 Capsula CST-100 Starliner "Calypso" a fost lansată în 22 decembrie pentru un test fără echipaj pentru o andocare cu Stația Spațială Internațională. Primul zbor al rachetei Atlas V N22 (cu o treaptă Centaur cu două motoare) a decurs perfect și a înscris capsula pe o traiectorie suborbitală. Capsula trebuia să își folosească motoarele pentru sistemul de anulare al lansării pentru a înscrie capsula pe orbită, însă acest lucru nu s-a întâmplat din cauza desincronizării ceasului de la bordul capsulei (cu peste 11 ore!). Problemele au fost agravate și de faptul că inginerii Boeing de la sol nu au putut primi telemetria în timp real, datorită nealinierii sateliților TDRSS folosiți pentru astfel de comunicații. Capsula a reușit inserția orbitală folosind mai multe manevre ale propulsoarelor de la bord, dar și-a consumat o bună parte din combustibil și andocarea cu ISS a fost anulată. Din fericire, capsula a reușit inserția pe o traiectorie stabilă, circulară (250km) și a revenit cu bine înapoi pe Pământ două zile mai târziu, duminică, 22 decembrie 2019, la baza aeriană de la White Sands, New Mexico.
 
 Boeing a anunțat că misiunea OFT va fi repetată[fn:reoft1], nu mai devreme de octombrie 2020, compania suportând integral costurile suplimentare asociate cu noua misiune.
 
-*** SpaceX DM-2 (27 mai 2020)
-/Demo Mission 2/
+*** SpaceX DM-2 (30 mai 2020 -- ?)
+/Demo Mission 2/ (Dragon2 C206 "Endeavour")
 
-- *Bob Behnken* (STS-123, STS-130, ambele Endeavour, 6 EVA = 37 ore)
+- *Bob Behnken* (pilot Endeavour STS-123, STS-130; 6 EVA = 37 ore)
 - *Doug Hurley* (pilot Atlantis STS-135, Endeavour STS-127)
 
-*** SpaceX PCM-1 (august 2020)
-/Post Certification Mission 1/ (6 luni)
+Misiunea, programată inițial pentru 27 mai, a fost amânată 3 zile din cauza condițiilor meteo nefavorabile.
+
+*** SpaceX USCV-1 (august 2020 +6luni)
+/US Crew Vehicle 1/ (Dragon2 C207)
 
 - *Victor Glover* (primul zbor spațial)
 - *Mike Hopkins* (Soyuz TMA-10M, 166 zile ISS, 2 EVA)

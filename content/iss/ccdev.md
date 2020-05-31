@@ -9,14 +9,14 @@ Programul CC-Dev al NASA presupune subvenționarea companiilor private americane
 
 ## SpaceX DM-1 (02-08 martie 2019) {#spacex-dm-1--02-08-martie-2019}
 
-_Demo Mission_ 1
+_Demo Mission_ 1 (Dragon2 C201)
 
 -   fără echipaj
 
 
 ## Boeing OFT (20-22 decembrie 2019) {#boeing-oft--20-22-decembrie-2019}
 
-_Orbital Flight Test_
+_Orbital Flight Test_ ("Calypso")
 
 -   fără echipaj
 
@@ -25,17 +25,19 @@ Capsula CST-100 Starliner "Calypso" a fost lansată în 22 decembrie pentru un t
 Boeing a anunțat că misiunea OFT va fi repetată[^fn:1], nu mai devreme de octombrie 2020, compania suportând integral costurile suplimentare asociate cu noua misiune.
 
 
-## SpaceX DM-2 (27 mai 2020) {#spacex-dm-2--27-mai-2020}
+## SpaceX DM-2 (30 mai 2020 -- ?) {#spacex-dm-2--30-mai-2020}
 
-_Demo Mission 2_
+_Demo Mission 2_ (Dragon2 C206 "Endeavour")
 
--   **Bob Behnken** (STS-123, STS-130, ambele Endeavour, 6 EVA = 37 ore)
+-   **Bob Behnken** (pilot Endeavour STS-123, STS-130; 6 EVA = 37 ore)
 -   **Doug Hurley** (pilot Atlantis STS-135, Endeavour STS-127)
 
+Misiunea, programată inițial pentru 27 mai, a fost amânată 3 zile din cauza condițiilor meteo nefavorabile.
 
-## SpaceX PCM-1 (august 2020) {#spacex-pcm-1--august-2020}
 
-_Post Certification Mission 1_ (6 luni)
+## SpaceX USCV-1 (august 2020 +6luni) {#spacex-uscv-1--august-2020-plus-6luni}
+
+_US Crew Vehicle 1_ (Dragon2 C207)
 
 -   **Victor Glover** (primul zbor spațial)
 -   **Mike Hopkins** (Soyuz TMA-10M, 166 zile ISS, 2 EVA)
