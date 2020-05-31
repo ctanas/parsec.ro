@@ -218,6 +218,7 @@ Da! Datorită panourilor solare de mari dimensiuni, ISS poate fi văzută cu uș
 :EXPORT_FILE_NAME: jurnal
 :END:
 
+- 31.05.2020 :: Capsula Crew Dragon "Endeavour" se cuplează la modulul /Harmony/ și Bob Behnken și Doug Hurley se alătură echipajului expediției 63.
 - 10.05.2020 :: Capsula Cygnus NG-13 se desprinde de modulul /Unity/.
 - 25.04.2020 :: Progress MS-14 andochează la modulul /Zvezda/, la 3 ore și 21 de minute după lansare[fn::https://blogs.nasa.gov/spacestation/2020/04/25/progress-cargo-ship-docked-to-station/];
 - 19.04.2020 :: Modulul Zvezda și-a activat motoarele pentru 58.5 secunde pentru a reduce viteza ISS cu 0.97 m/s și coborând altitudinea (417.69x436.62 km), ajustând orbita pentru lansarea Progress MS-14[fn::https://www.roscosmos.ru/28413];
@@ -225,10 +226,10 @@ Da! Datorită panourilor solare de mari dimensiuni, ISS poate fi văzută cu uș
 ---
 - 17.04.2020 :: Soyuz MS-15 revine pe Pământ, cu Skripochka, Meir, Morgan;
 - 09.04.2020 :: Soyuz MS-16 (Ivanishin, Vagner, Cassidy) este lansată și andochează după 6 ore cu ISS la portul /Poisk/;
-- 07.04.2020 :: Capsula Dragon CRS-10 se desprinde de modulul Harmony și revine cu bine pe Pământ; este ultima capsulă Dragon de primă generație folosită;
+- 07.04.2020 :: Capsula Dragon CRS-10 se desprinde de modulul /Harmony/ și revine cu bine pe Pământ; este ultima capsulă Dragon de primă generație folosită;
 - 02.04.2020 :: Progress MS-13 și-a activat motoarele pentru 427.2 secunde, crescând viteza ISS cu 0.48 m/s (419.3x440.9 km)[fn::https://www.roscosmos.ru/28302]
 - 19.03.2020 :: Progress MS-13 și-a activat motoarele pentru 534 secunde, crescând viteza ISS cu 0.6 m/s (416.68x439.57 km)[fn::https://www.roscosmos.ru/28215]
-- 09.03.2020 :: Capsula Dragon CRS-20 andochează la portul Harmony, după lansarea din 09.03.2020.
+- 09.03.2020 :: Capsula Dragon CRS-20 andochează la portul /Harmony/, după lansarea din 09.03.2020.
 - 18.02.2020 :: Capsula Cygnus NG-13 este atașată de modulul /Unity/, după lansarea din 15.02.2020;
 - 06.02.2020 :: Începe *Expediția 62*;
 ---

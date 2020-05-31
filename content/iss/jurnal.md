@@ -4,6 +4,9 @@ author = ["Claudiu"]
 draft = false
 +++
 
+31.05.2020
+: Capsula Crew Dragon "Endeavour" se cuplează la modulul _Harmony_ și Bob Behnken și Doug Hurley se alătură echipajului expediției 63.
+
 10.05.2020
 : Capsula Cygnus NG-13 se desprinde de modulul _Unity_.
 
@@ -25,7 +28,7 @@ draft = false
 : Soyuz MS-16 (Ivanishin, Vagner, Cassidy) este lansată și andochează după 6 ore cu ISS la portul _Poisk_;
 
 07.04.2020
-: Capsula Dragon CRS-10 se desprinde de modulul Harmony și revine cu bine pe Pământ; este ultima capsulă Dragon de primă generație folosită;
+: Capsula Dragon CRS-10 se desprinde de modulul _Harmony_ și revine cu bine pe Pământ; este ultima capsulă Dragon de primă generație folosită;
 
 02.04.2020
 : Progress MS-13 și-a activat motoarele pentru 427.2 secunde, crescând viteza ISS cu 0.48 m/s (419.3x440.9 km)[^fn:3]
@@ -34,7 +37,7 @@ draft = false
 : Progress MS-13 și-a activat motoarele pentru 534 secunde, crescând viteza ISS cu 0.6 m/s (416.68x439.57 km)[^fn:4]
 
 09.03.2020
-: Capsula Dragon CRS-20 andochează la portul Harmony, după lansarea din 09.03.2020.
+: Capsula Dragon CRS-20 andochează la portul _Harmony_, după lansarea din 09.03.2020.
 
 18.02.2020
 : Capsula Cygnus NG-13 este atașată de modulul _Unity_, după lansarea din 15.02.2020;
