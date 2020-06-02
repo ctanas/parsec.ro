@@ -2555,20 +2555,19 @@ Marius Trusculescu, unul din membri echipei Goliat, primul satelit românesc, a 
 
 *** Lansări orbitale
 
-Dragon
+După 3249 de zile, Statele Unite devine din nou capabilă să lanseze astronauți pe orbită de pe propriul teritoriu, iar SpaceX devine prima companie privată care reușește să trimită un echipaj de astronauți în spațiu. Racheta Falcon-9 și capsula Dragon2 au fost lansate sâmbătă seara, la ora 22:22 de minute, de pe legendara rampă de lansare LC-39A, de unde au fost lansate majoritatea misiunilor Apollo, dar și majoritatea navetelor spațiale. Și pentru că atât Bob Behnken, cât și Doug Hurley sunt veterani și ambii s-au aflat la bordul navetei Endeavour, cei doi au hotărât ca și capsula Dragon care i-a lansat duminică în spațiu să poarte același nume. Andocarea cu Stația Spațială Internațională a avut loc la 19 ore distanță, air după alte două ore, cei dou s-au alăturat echipajului afalt deja la bord. În viitor, astronauții NASA vor mai zbura la bordul capsulelor Soyuz și, pe baza unui troc, și cosmonauți ruși vor ajunge pe stația spațială folosind capsule Dragon. XXXXXX
 
 ---
 
-Changzheng-11
-China a lansat aseară, la ora 23:13, prima rachetă Changzheng-11 de la centrul spațial Xichang. La bordul acesteia s-au aflat doi sateliți (Xinjishu Shiyan G și Xinjishu Shiyan H). A fost a noua lansare a unei rachete Changzheng-11 (din 2015) și pentru prima dată când conul protector folosit a avut diametrul de 2.5 metri, acesta fiind folosit până acum în variantele de 1.6 sau 2.0 metri.
+China a lansat vineri seara, la ora 23:13 ora României, prima rachetă *Changzheng-11* de la centrul spațial Xichang. La bordul acesteia s-au aflat doi sateliți (Xinjishu Shiyan G și Xinjishu Shiyan H), folosiți pentru observarea suprafeței Pământului. A fost a noua lansare a unei rachete Changzheng-11 (din 2015) și pentru prima dată când conul protector folosit a avut diametrul de 2.5 metri, acesta fiind folosit până acum în variantele de 1.6 sau 2.0 metri. Changzheng-11 este o rachetă în patru trepte, cu combustibil solid, care poate lansa 500 de kilograme pe orbită heliosincronă sau 700 de kilograme pe orbită terestră joasă.
 
 ---
 
-Changzheng-2D
+Duminică la ora 11:53 ora României, o rachetă *Changzheng-2D* a decolat de pe rampa de la baza Jiuquan, plasând pe orbită satelitul Gaofen-9, folosit pentru observarea suprafeței Pământului. A fost a 38-a lansare orbitală din 2020 și 12-a pentru China, care se plasează pe locul 2, cu doar o singură lansare în urma Statelor Unite, însă cu două eșecuri, spre deosebire de o singură lansare ratată pentru Statele Unite. A fost al 47-lea zbor pentru racheta Changzheng-2D, care este folosită în China din 1992, exclusiv de la centrul spațial Jiuquan.
 
 *** Alte evenimente
 
-Starship SN4
+Vineri, prototipul *Starship SN4* al companiei SpaceX a explodat la centrul de testare de la Boca Chica, Texas, în urma unui test static al unui motor Raptor. După oprirea motorului, în urma unei scurgeri de combustibil, s-a produs o deflagrație care a avariat sever atât prototipul, când și standul de test, însă din fericire nimeni nu a fost rănit. Este al patrulea incident de acest fel, dar următoarele două prototipuri, SN5 și SN6 sunt parțial construite și poate acestea vor reuși un test la 200 metri înalțime în acest an, urmat de un zbor orbital, pași la care prototipurile precedente nu au mai ajuns.
 
 ** Buletin Cosmic nr. 77 :soyuz:rocketone:virginorbit:spacex:nasa:dragon:htv:
 :PROPERTIES:
