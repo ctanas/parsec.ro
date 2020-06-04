@@ -698,9 +698,11 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 **** Lansări orbitale efectuate în 2020
 | Nr. | Data        | Lansator      | Satelit           | Tip  | Țara    | Centru / Rampa  | Ținta | Rezultat       | Bul. |
 |-----+-------------+---------------+-------------------+------+---------+-----------------+-------+----------------+------|
-|  38 | 31.05 08:53 | CZ-2D         | Gaofen-9-02       | OBS  | China   | Jiuquan         | SSO   | Succes         | 78   |
-|  37 | 30.05 19:22 | Falcon-9      | Dragon2           | CRW  | SUA     | KSC LC-39A      | ISS   | Succes         | 78   |
-|  36 | 29.05 20:13 | CZ-11         | XS-H              | SAT  | China   | Xichang         | LEO   | Succes         | 78   |
+|  39 | 04.06 01:25 | Flacon-9      | 60xStarlink-7     | COM  | SUA     | CC SLC-40       | LEO   | Succes         | 79   |
+|-----+-------------+---------------+-------------------+------+---------+-----------------+-------+----------------+------|
+|  38 | 31.05 08:53 | CZ-2D         | Gaofen-9-02       | OBS  | China   | Jiuquan         | SSO   | Succes         | [[/bul/078][78]]   |
+|  37 | 30.05 19:22 | Falcon-9      | Dragon2           | CRW  | SUA     | KSC LC-39A      | ISS   | Succes         | [[/bul/078][78]]   |
+|  36 | 29.05 20:13 | CZ-11         | XS-H              | SAT  | China   | Xichang         | LEO   | Succes         | [[/bul/078][78]]   |
 |  35 | 25.05 19:50 | RocketOne     | /dummy/             | SAT  | SUA     | CosmicGirl      | LEO   | Eșec           | [[/bul/77][77]]   |
 |  34 | 22.05 07:31 | Soyuz-2.1b    | Tundra-4          | COM* | Rusia   | Plesetsk        | MOL   | Succes         | [[/bul/077][77]]   |
 |  33 | 20.05 20:30 | H-2B          | HTV-9             | NAV  | Japonia | Tanegashima     | ISS   | Succes         | [[/bul/76][76]]   |
@@ -742,16 +744,16 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 |  01 | 07.01 02:19 | Falcon-9      | 60x Starlink-2    | COM  | SUA     | CC SLC-40       | LEO   | Succes         | [[/bul/057][57]]   |
 
 **** Clasament
-| Țara    | Nr. | Lansări       |
-|---------+-----+---------------|
-| SUA     |  13 | IIIIIIIIIIIXI |
-| China   |  12 | IIIIIXIXIIII  |
-| Rusia   |   5 | IIIII         |
-| Europa  |   4 | IIII          |
-| Iran    |   2 | XI            |
-| Japonia |   2 | II            |
-|---------+-----+---------------|
-| *TOTAL*   |  *38* |               |
+| Țara    | Nr. | Lansări        |
+|---------+-----+----------------|
+| SUA     |  14 | IIIIIIIIIIIXII |
+| China   |  12 | IIIIIXIXIIII   |
+| Rusia   |   5 | IIIII          |
+| Europa  |   4 | IIII           |
+| Iran    |   2 | XI             |
+| Japonia |   2 | II             |
+|---------+-----+----------------|
+| *TOTAL*   |  *39* |                |
 
 **** Legendă tabel
 
@@ -948,7 +950,7 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 | Atlas V          | SUA  | ULA          |  2002 | 1xRD-180     | 20.5t |       | 8.9t  |   84 |   82 |   (1) | 17.05.2020 |
 | Delta IV Heavy   | SUA  | ULA          |  2004 | 1xRS-68A     | 28.7  |       | 14.2t |   10 |    9 |   (1) | 19.01.2019 |
 | Electron         | SUA  | RocketLab    |  2017 | 9xRutherford |       | 0.22t |       |   11 |   10 |     1 | 31.01.2020 |
-| Falcon 9[fn:rc2] | SUA  | SpaceX       |  2010 | 9xMerlin     | 22.8t |       | 8.3t  |   84 |   82 | 1+(1) | 30.05.2020 |
+| Falcon 9[fn:rc2] | SUA  | SpaceX       |  2010 | 9xMerlin     | 22.8t |       | 8.3t  |   85 |   83 | 1+(1) | 04.06.2020 |
 | Falcon Heavy     | SUA  | SpaceX       |  2018 | 27xMerlin    | 63.8  |       | 26.7  |    3 |    3 |     0 | 25.06.2019 |
 | Minotaur-C       | SUA  | NGSSG        |  1994 | Castor(S)    | 1.3t  |       |       |   10 |    7 |     3 | 31.10.2017 |
 | Minotaur V       | SUA  | NGSSG        |  2013 | Castor(S)    |       |       | 0.53t |    1 |    1 |     0 | 07.09.2013 |
@@ -1412,7 +1414,7 @@ Soyuz-2, folosită începând cu 2006, vine însă în două variante: Soyuz-2.1
 |  83 | v1.2b5 | 18.03.2020 | Starlink v1.0-5     | B1048.5 | LC-39A     |   |   |
 |  84 | v1.2b5 | 22.04.2020 | Starlink v1.0-6     | B1051.4 | LC-39A     |   |   |
 |  85 | v1.2b5 | 30.05.2020 | Dragon2 DM-2        | B1058.1 | LC-39A     |   |   |
-
+|  86 | v1.2b5 | 04.06.2020 | Starlink v1.0-7     | B1049.5 | CC SLC-40  |   |   |
 
 #+CAPTION: Lista lansărilor Falcon Heavy
 | Nr. |       Data | Încărcătură    | Treapte laterale | Centrală | Rampa  |
@@ -1443,6 +1445,7 @@ Soyuz-2, folosită începând cu 2006, vine însă în două variante: Soyuz-2.1
 | B1049.2 | 11.01.2019 | Iridium-8      | JRTI             | Falcon 9   |
 | B1049.3 | 24.05.2019 | Starlink v.0.9 | OCISLY           | Falcon 9   |
 | B1049.4 | 07.01.2020 | Starlink-2     | OCISLY           | Falcon 9   |
+| B1049.5 | 04.06.2020 | Starlink-7     | JRTI             | Falcon 9   |
 |---------+------------+----------------+------------------+------------|
 | B1050.1 | 05.12.2018 | Dragon CRS-16  | (LZ1)[fn:B1050]  | Falcon 9   |
 |---------+------------+----------------+------------------+------------|

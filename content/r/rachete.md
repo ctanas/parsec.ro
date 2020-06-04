@@ -10,7 +10,7 @@ draft = false
 | Atlas V         | SUA  | ULA          | 2002  | 1xRD-180     | 20.5t |       | 8.9t  | 84   | 82   | (1)   | 17.05.2020 |
 | Delta IV Heavy  | SUA  | ULA          | 2004  | 1xRS-68A     | 28.7  |       | 14.2t | 10   | 9    | (1)   | 19.01.2019 |
 | Electron        | SUA  | RocketLab    | 2017  | 9xRutherford |       | 0.22t |       | 11   | 10   | 1     | 31.01.2020 |
-| Falcon 9[^fn:2] | SUA  | SpaceX       | 2010  | 9xMerlin     | 22.8t |       | 8.3t  | 84   | 82   | 1+(1) | 30.05.2020 |
+| Falcon 9[^fn:2] | SUA  | SpaceX       | 2010  | 9xMerlin     | 22.8t |       | 8.3t  | 85   | 83   | 1+(1) | 04.06.2020 |
 | Falcon Heavy    | SUA  | SpaceX       | 2018  | 27xMerlin    | 63.8  |       | 26.7  | 3    | 3    | 0     | 25.06.2019 |
 | Minotaur-C      | SUA  | NGSSG        | 1994  | Castor(S)    | 1.3t  |       |       | 10   | 7    | 3     | 31.10.2017 |
 | Minotaur V      | SUA  | NGSSG        | 2013  | Castor(S)    |       |       | 0.53t | 1    | 1    | 0     | 07.09.2013 |

@@ -97,6 +97,7 @@ draft = false
 | 83  | v1.2b5 | 18.03.2020 | Starlink v1.0-5     | B1048.5 | LC-39A     |   |   |
 | 84  | v1.2b5 | 22.04.2020 | Starlink v1.0-6     | B1051.4 | LC-39A     |   |   |
 | 85  | v1.2b5 | 30.05.2020 | Dragon2 DM-2        | B1058.1 | LC-39A     |   |   |
+| 86  | v1.2b5 | 04.06.2020 | Starlink v1.0-7     | B1049.5 | CC SLC-40  |   |   |
 
 <div class="table-caption">
   <span class="table-number">Tabel 2</span>:
@@ -132,6 +133,7 @@ draft = false
 | B1049.2 | 11.01.2019 | Iridium-8      | JRTI          | Falcon 9   |
 | B1049.3 | 24.05.2019 | Starlink v.0.9 | OCISLY        | Falcon 9   |
 | B1049.4 | 07.01.2020 | Starlink-2     | OCISLY        | Falcon 9   |
+| B1049.5 | 04.06.2020 | Starlink-7     | JRTI          | Falcon 9   |
 | B1050.1 | 05.12.2018 | Dragon CRS-16  | (LZ1)[^fn:2]  | Falcon 9   |
 | B1051.1 | 09.03.2019 | Dragon DM-1    | OCISLY        | Falcon 9   |
 | B1051.2 | 12.06.2019 | RADARSAT       | LZ-4          | Falcon 9   |

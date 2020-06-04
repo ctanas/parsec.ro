@@ -8,9 +8,10 @@ draft = false
 
 | Nr. | Data        | Lansator      | Satelit          | Tip   | Țara    | Centru / Rampa  | Ținta | Rezultat      | Bul.           |
 |-----|-------------|---------------|------------------|-------|---------|-----------------|-------|---------------|----------------|
-| 38  | 31.05 08:53 | CZ-2D         | Gaofen-9-02      | OBS   | China   | Jiuquan         | SSO   | Succes        | 78             |
-| 37  | 30.05 19:22 | Falcon-9      | Dragon2          | CRW   | SUA     | KSC LC-39A      | ISS   | Succes        | 78             |
-| 36  | 29.05 20:13 | CZ-11         | XS-H             | SAT   | China   | Xichang         | LEO   | Succes        | 78             |
+| 39  | 04.06 01:25 | Flacon-9      | 60xStarlink-7    | COM   | SUA     | CC SLC-40       | LEO   | Succes        | 79             |
+| 38  | 31.05 08:53 | CZ-2D         | Gaofen-9-02      | OBS   | China   | Jiuquan         | SSO   | Succes        | [78](/bul/078) |
+| 37  | 30.05 19:22 | Falcon-9      | Dragon2          | CRW   | SUA     | KSC LC-39A      | ISS   | Succes        | [78](/bul/078) |
+| 36  | 29.05 20:13 | CZ-11         | XS-H             | SAT   | China   | Xichang         | LEO   | Succes        | [78](/bul/078) |
 | 35  | 25.05 19:50 | RocketOne     | _dummy_          | SAT   | SUA     | CosmicGirl      | LEO   | Eșec          | [77](/bul/77)  |
 | 34  | 22.05 07:31 | Soyuz-2.1b    | Tundra-4         | COM\* | Rusia   | Plesetsk        | MOL   | Succes        | [77](/bul/077) |
 | 33  | 20.05 20:30 | H-2B          | HTV-9            | NAV   | Japonia | Tanegashima     | ISS   | Succes        | [76](/bul/76)  |
@@ -50,15 +51,15 @@ draft = false
 
 ## Clasament {#clasament}
 
-| Țara      | Nr.    | Lansări       |
-|-----------|--------|---------------|
-| SUA       | 13     | IIIIIIIIIIIXI |
-| China     | 12     | IIIIIXIXIIII  |
-| Rusia     | 5      | IIIII         |
-| Europa    | 4      | IIII          |
-| Iran      | 2      | XI            |
-| Japonia   | 2      | II            |
-| **TOTAL** | **38** |               |
+| Țara      | Nr.    | Lansări        |
+|-----------|--------|----------------|
+| SUA       | 14     | IIIIIIIIIIIXII |
+| China     | 12     | IIIIIXIXIIII   |
+| Rusia     | 5      | IIIII          |
+| Europa    | 4      | IIII           |
+| Iran      | 2      | XI             |
+| Japonia   | 2      | II             |
+| **TOTAL** | **39** |                |
 
 
 ## Legendă tabel {#legendă-tabel}
