@@ -698,6 +698,7 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 **** Lansări orbitale efectuate în 2020
 | Nr. | Data        | Lansator      | Satelit           | Tip  | Țara    | Centru / Rampa  | Ținta | Rezultat       | Bul. |
 |-----+-------------+---------------+-------------------+------+---------+-----------------+-------+----------------+------|
+|  40 | 10.06 18:1  |               |                   |      |         |                 |       |                |      |
 |  39 | 04.06 01:25 | Flacon-9      | 60xStarlink-7     | COM  | SUA     | CC SLC-40       | LEO   | Succes         | 79   |
 |-----+-------------+---------------+-------------------+------+---------+-----------------+-------+----------------+------|
 |  38 | 31.05 08:53 | CZ-2D         | Gaofen-9-02       | OBS  | China   | Jiuquan         | SSO   | Succes         | [[/bul/078][78]]   |
@@ -2550,7 +2551,7 @@ Marius Trusculescu, unul din membri echipei Goliat, primul satelit românesc, a 
 :EXPORT_HUGO_SECTION: bul
 :END:
 
-** Buletin Cosmic nr. 79 :starlink:spacex:falcon9:
+** Buletin Cosmic nr. 79 :starlink:spacex:falcon9:marte:qased:halo:gateway
 :PROPERTIES:
 :EXPORT_FILE_NAME: 079
 :EXPORT_DATE: 2020-06-10
@@ -2558,9 +2559,33 @@ Marius Trusculescu, unul din membri echipei Goliat, primul satelit românesc, a 
 
 *** Lansări orbitale
 
-Starlink-7
+Joi, 4 iunie, la doar 5 zile după lansarea capsulei Dragon cu echipaj la bord, SpaceX reușește o nouă lansare a încă 60 de sateliți *Starlink*. Cu această ocazie a avut loc o nouă recuperare a treptei primare cu seria B1049, fiind pentru prima dată când SpaceX reușește să recupereze de 5 ori o treaptă primară. Aceasta a revenit pe barja Just Read the Instructions, recent sosită de pe coasta de vest, pentru că cealaltă barjă, Of Course I Still Love You, se afla în portul Cape Canaveral, cu treapta primară a misiunii Demo-2. SpaceX are programate încă alte 3 lansări pentru luna iunie, sperând să poată ajunge la 24 de lansări orbitale în 2020 (recordul precedent a fost de 21 de lansări într-un an, stabilit în 2018).
+
+Între timp, NASA a declarat că Dragon se află într-o formă excelentă pe orbită, iar echipajul ar putea reveni înapoi pe Pământ la începutul lunii august[fn::https://twitter.com/thesheetztweetz/status/1270436529006133250]. Până atunci, cei doi astronauți ar putea participa la câteva activități extravehiculare, pentru a înlocui acumulatorii externi ai Stației Spațiale Internaționale.
+
+---
+
+Miercuri, la ora 21:31 ora României, o rachetă *Changzheng-2C* a lansat pe orbită heliosincronă satelitul Haiyang-1D, destinat observațiilor oceanice. Satelitul are o masă de 442 kilograme șie ste dotat cu două instrumente științifice, pentru studii spectrale și termice. Lansarea a avut loc de pe rampa LC-9 de la complexul spațial Taiyuan din nordul Chinei.
 
 *** Alte evenimente
+
+Rover selenar *Yutu-2* a rămas nemișcat pe parcursul celei de-a 18-a zile lunare, deoarece China se află în plin proces de upgrade al rețelei de antene menite să realizeze contactul radio cu sondele chinezești interplanetare, pregătindu-le astfel pentru misiunea marțiană Tianwen-1. Roverul și sonda orbitală chinezească se pregătesc pentru lansarea spre Marte, ce urmează să aibă loc în 23 iulie, folosind o rachetă Changzheng-5. Între timp, racheta Atlas V care va lansa viitorul rover marțian american a ajuns la Cape Canaveral[fn::https://www.ulalaunch.com/explore/blog-detail/blog/2020/05/19/mars-2020-atlas-v-rocket-arrives-at-launch-site] și este pregătită în aceste zile pentru lansarea din 17 iulie.
+
+---
+
+Într-un interviu pentru Tasnim News[fn::https://tn.ai/2262929], Ali Jafarabadi, responsabilul programului spațial militar iranian, a dat câteva detalii despre lansatorul *Qased-2*, dezvoltat pornind de la Qased, racheta care în 22 aprilie reușea prima lansare orbitală iraniană, după cea a satelitului Fajr din februarie 2015. Astfel, Qased-2 urmează să aibă trei trepte (spre deosebire de două, câte are Qased-1), toate cu combustibil solid, iar racheta va fi mai ușoară, putând astfel lansa sateliți mai grei la altitudini mai mari. Iran plănuiește să lanseze în viitorul apropiat sateliți geostaționari sau sateliți dezvoltați de universitățile iraniene. Noor, satelitul lansat de Quased-1, a fost folosit pentru monitorizarea petrolierelor care se îndreptau spre Venezuela.
+
+---
+
+Compania Northrop Grumman a primit 187 de milioane de dolari de la NASA pentru a demara un studiu cu privire la dezvoltarea *Habitation and Logistics Outpost (HALO)*[fn::https://news.northropgrumman.com/news/releases/northrop-grumman-awarded-nasa-contract-to-provide-first-crew-module-for-artemis-program-gateway], unul dintre modulele ale viitoare stației spațiale lunare Gateway. HALO, împreună cu Power and Propulsion Element (PPE, dezvoltat de Maxar Technologies) urmează să fie lansate împreună în 2023, probabil cu ajutorul unei rachete Falcon Heavy (deși o decizie oficială cu privire la lansatorul folosit va fi luată în această toamnă). HALO va fi modulul care va găzdui astronauții, înainte ca aceștia să coboare pe suprafața Lunii, dar asta după misiunea Artemis 1 (2024), care nu va beneficia de suportul Gateway.
+
+---
+
+Dacă Luna se depărtează de Pământ cu 3.8 centimetri în fiecare an, există alți sateliți naturali care sunt mult mai grăbiți. Analizând date trimise de fost sondă Cassini, NASA a anunțat că, după ultimele calcule, satelitul *Titan* al lui Saturn se depărtează de planetă de 100 de ori mai repede decât se credea inițial[fn::https://phys.org/news/2020-06-titan-migrating-saturn-faster-previously.html], acesta având în prezent o viteză de 11 centimetri de an. Acest aspect clarifică o serie de detalii cu privire la perioada în care s-a format planeta Saturn și modul de formare al celor peste 80 de sateliți ai săi. Studiul a fost publicat recent în Nature Astronomy[fn::https://www.nature.com/articles/s41550-020-1120-5] de o echipă de cercetători de la Jet Propulsion Laboratory.
+
+---
+
+*Telescopul spațial James Webb* nu va fi lansat nici în martie 2021, data țintită în ultima perioadă, conform unui anunț făcut miercuri de NASA[fn:https://arstechnica.com/science/2020/06/james-webb-space-telescope-will-absolutely-not-launch-in-march/]. Planificat inițial pentru o lansare în 2007 și un cost de 1 miliard de dolari, telescopul spațial James Webb a ajuns să coste aproape 10 miliarde de dolari. Un raport guvernamental[fn:https://www.gao.gov/assets/710/704078.pdf] estima că există șanse de doar 12% ca lansarea telescopului să aibă loc anul viitor. Privit ca un succesor al telescopului spațial Hubble, telescopul James Webb va studia universul în domeniul radiației infraroșii și va fi plasat la 1.5 milioane kilometri de Pământ, în punctul Lagrange L2. Lansarea trebuie să decurgă perfect, pentru că, spre deosebire de Hubble, echipajele de astronauți nu vor putea să ajungă la telescopul James Webb pentru reparații. În momentul lansării, va fi probabil cel mai scump satelit lansat vreodată, sarcină ce îi revine rachetei europene Ariane 5.
 
 ** Buletin Cosmic nr. 78 :dragon:nasa:spacex:dm2:ch11:cz2d:starship:
 :PROPERTIES:
