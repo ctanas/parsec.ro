@@ -698,8 +698,8 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 **** Lansări orbitale efectuate în 2020
 | Nr. | Data        | Lansator      | Satelit           | Tip  | Țara    | Centru / Rampa  | Ținta | Rezultat       | Bul. |
 |-----+-------------+---------------+-------------------+------+---------+-----------------+-------+----------------+------|
-|  40 | 10.06 18:1  |               |                   |      |         |                 |       |                |      |
-|  39 | 04.06 01:25 | Flacon-9      | 60xStarlink-7     | COM  | SUA     | CC SLC-40       | LEO   | Succes         | 79   |
+|  40 | 10.06 18:31 | CZ-2C         | Haiyang-1D        | OBS  | China   | Taiyuan LC-9    | SSO   | Succes         | [[/bul/79][79]]   |
+|  39 | 04.06 01:25 | Flacon-9      | 60xStarlink-7     | COM  | SUA     | CC SLC-40       | LEO   | Succes         | [[/bul/079][79]]   |
 |-----+-------------+---------------+-------------------+------+---------+-----------------+-------+----------------+------|
 |  38 | 31.05 08:53 | CZ-2D         | Gaofen-9-02       | OBS  | China   | Jiuquan         | SSO   | Succes         | [[/bul/078][78]]   |
 |  37 | 30.05 19:22 | Falcon-9      | Dragon2           | CRW  | SUA     | KSC LC-39A      | ISS   | Succes         | [[/bul/078][78]]   |
@@ -748,13 +748,13 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 | Țara    | Nr. | Lansări        |
 |---------+-----+----------------|
 | SUA     |  14 | IIIIIIIIIIIXII |
-| China   |  12 | IIIIIXIXIIII   |
+| China   |  13 | IIIIIXIXIIIII  |
 | Rusia   |   5 | IIIII          |
 | Europa  |   4 | IIII           |
 | Iran    |   2 | XI             |
 | Japonia |   2 | II             |
 |---------+-----+----------------|
-| *TOTAL*   |  *39* |                |
+| *TOTAL*   |  *40* |                |
 
 **** Legendă tabel
 
@@ -962,7 +962,7 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 | Rockot           | RUS  | Roscosmos    |  1994 | 3xRD-0233    | 1.9t  | 1.2t  |       |   34 |   31 | 2+(1) | 27.12.2019 |
 | Angara           | RUS  | Roscosmos    |  2014 | 1xRD-191     | 3.8t  |       | 5.4t  |    2 |    2 |     0 | 23.12.2014 |
 |------------------+------+--------------+-------+--------------+-------+-------+-------+------+------+-------+------------|
-| CZ-2C            | CHN  | CNSA         |  1982 | 4xYF-21C     | 3.85t | 1.9t  | 1.25t |   52 |   51 |     1 | 24.03.2020 |
+| CZ-2C            | CHN  | CNSA         |  1982 | 4xYF-21C     | 3.85t | 1.9t  | 1.25t |   53 |   52 |     1 | 10.06.2020 |
 | CZ-2D            | CHN  | CNSA         |  1992 | 4xYF-21C     | 3.5t  | 1.3t  |       |   47 |   46 |     1 | 31.05.2020 |
 | CZ-2F            | CHN  | CNSA         |  1999 | 4xYF-20B     | 8.4t  |       |       |   13 |   13 |     0 | 16.10.2016 |
 | CZ-3A            | CHN  | CNSA         |  1994 | 4xYF-21C     | 8.5t  |       | 2.6t  |   27 |   27 |     0 | 09.07.2018 |
@@ -2565,7 +2565,7 @@ Joi, 4 iunie, la doar 5 zile după lansarea capsulei Dragon cu echipaj la bord, 
 
 ---
 
-Miercuri, la ora 21:31 ora României, o rachetă *Changzheng-2C* a lansat pe orbită heliosincronă satelitul Haiyang-1D, destinat observațiilor oceanice. Satelitul are o masă de 442 kilograme șie ste dotat cu două instrumente științifice, pentru studii spectrale și termice. Lansarea a avut loc de pe rampa LC-9 de la complexul spațial Taiyuan din nordul Chinei.
+Miercuri, la ora 21:31 ora României, o rachetă *Changzheng-2C* a lansat pe orbită heliosincronă satelitul Haiyang-1D, destinat observațiilor oceanice. Satelitul are o masă de 442 kilograme și este dotat cu două instrumente științifice, pentru studii spectrale și termice. Lansarea a avut loc de pe rampa LC-9 de la complexul spațial Taiyuan din nordul Chinei. A fost al 53-lea zbor al rachetei Changzheng-2C care din 1982 a suferit un singur eșec, a 40-a tentativă de lansare orbitală din 2020 și a 13-a pentru China.
 
 *** Alte evenimente
 
@@ -2582,6 +2582,9 @@ Compania Northrop Grumman a primit 187 de milioane de dolari de la NASA pentru a
 ---
 
 Dacă Luna se depărtează de Pământ cu 3.8 centimetri în fiecare an, există alți sateliți naturali care sunt mult mai grăbiți. Analizând date trimise de fost sondă Cassini, NASA a anunțat că, după ultimele calcule, satelitul *Titan* al lui Saturn se depărtează de planetă de 100 de ori mai repede decât se credea inițial[fn::https://phys.org/news/2020-06-titan-migrating-saturn-faster-previously.html], acesta având în prezent o viteză de 11 centimetri de an. Acest aspect clarifică o serie de detalii cu privire la perioada în care s-a format planeta Saturn și modul de formare al celor peste 80 de sateliți ai săi. Studiul a fost publicat recent în Nature Astronomy[fn::https://www.nature.com/articles/s41550-020-1120-5] de o echipă de cercetători de la Jet Propulsion Laboratory.
+
+#+CAPTION: Titan, cel mai mare satelit natural al planetei Saturn, fotografiat de sonda Cassini /(Sursa foto: [[https://www.jpl.nasa.gov/spaceimages/details.php?id=PIA14922][NASA/JPL]])/
+[[/img/titan.jpg]]
 
 ---
 

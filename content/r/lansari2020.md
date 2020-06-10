@@ -8,7 +8,8 @@ draft = false
 
 | Nr. | Data        | Lansator      | Satelit          | Tip   | Țara    | Centru / Rampa  | Ținta | Rezultat      | Bul.           |
 |-----|-------------|---------------|------------------|-------|---------|-----------------|-------|---------------|----------------|
-| 39  | 04.06 01:25 | Flacon-9      | 60xStarlink-7    | COM   | SUA     | CC SLC-40       | LEO   | Succes        | 79             |
+| 40  | 10.06 18:31 | CZ-2C         | Haiyang-1D       | OBS   | China   | Taiyuan LC-9    | SSO   | Succes        | [79](/bul/79)  |
+| 39  | 04.06 01:25 | Flacon-9      | 60xStarlink-7    | COM   | SUA     | CC SLC-40       | LEO   | Succes        | [79](/bul/079) |
 | 38  | 31.05 08:53 | CZ-2D         | Gaofen-9-02      | OBS   | China   | Jiuquan         | SSO   | Succes        | [78](/bul/078) |
 | 37  | 30.05 19:22 | Falcon-9      | Dragon2          | CRW   | SUA     | KSC LC-39A      | ISS   | Succes        | [78](/bul/078) |
 | 36  | 29.05 20:13 | CZ-11         | XS-H             | SAT   | China   | Xichang         | LEO   | Succes        | [78](/bul/078) |
@@ -54,12 +55,12 @@ draft = false
 | Țara      | Nr.    | Lansări        |
 |-----------|--------|----------------|
 | SUA       | 14     | IIIIIIIIIIIXII |
-| China     | 12     | IIIIIXIXIIII   |
+| China     | 13     | IIIIIXIXIIIII  |
 | Rusia     | 5      | IIIII          |
 | Europa    | 4      | IIII           |
 | Iran      | 2      | XI             |
 | Japonia   | 2      | II             |
-| **TOTAL** | **39** |                |
+| **TOTAL** | **40** |                |
 
 
 ## Legendă tabel {#legendă-tabel}
