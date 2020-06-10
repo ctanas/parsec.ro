@@ -2551,7 +2551,7 @@ Marius Trusculescu, unul din membri echipei Goliat, primul satelit românesc, a 
 :EXPORT_HUGO_SECTION: bul
 :END:
 
-** Buletin Cosmic nr. 79 :starlink:spacex:falcon9:marte:qased:halo:gateway
+** Buletin Cosmic nr. 79 :starlink:spacex:falcon9:marte:qased:halo:gateway:
 :PROPERTIES:
 :EXPORT_FILE_NAME: 079
 :EXPORT_DATE: 2020-06-10
@@ -2588,7 +2588,7 @@ Dacă Luna se depărtează de Pământ cu 3.8 centimetri în fiecare an, există
 
 ---
 
-*Telescopul spațial James Webb* nu va fi lansat nici în martie 2021, data țintită în ultima perioadă, conform unui anunț făcut miercuri de NASA[fn:https://arstechnica.com/science/2020/06/james-webb-space-telescope-will-absolutely-not-launch-in-march/]. Planificat inițial pentru o lansare în 2007 și un cost de 1 miliard de dolari, telescopul spațial James Webb a ajuns să coste aproape 10 miliarde de dolari. Un raport guvernamental[fn:https://www.gao.gov/assets/710/704078.pdf] estima că există șanse de doar 12% ca lansarea telescopului să aibă loc anul viitor. Privit ca un succesor al telescopului spațial Hubble, telescopul James Webb va studia universul în domeniul radiației infraroșii și va fi plasat la 1.5 milioane kilometri de Pământ, în punctul Lagrange L2. Lansarea trebuie să decurgă perfect, pentru că, spre deosebire de Hubble, echipajele de astronauți nu vor putea să ajungă la telescopul James Webb pentru reparații. În momentul lansării, va fi probabil cel mai scump satelit lansat vreodată, sarcină ce îi revine rachetei europene Ariane 5.
+*Telescopul spațial James Webb* nu va fi lansat nici în martie 2021, data țintită în ultima perioadă, conform unui anunț făcut miercuri de NASA[fn::https://arstechnica.com/science/2020/06/james-webb-space-telescope-will-absolutely-not-launch-in-march/]. Planificat inițial pentru o lansare în 2007 și un cost de 1 miliard de dolari, telescopul spațial James Webb a ajuns să coste aproape 10 miliarde de dolari. Un raport guvernamental[fn::https://www.gao.gov/assets/710/704078.pdf] estima că există șanse de doar 12% ca lansarea telescopului să aibă loc anul viitor. Privit ca un succesor al telescopului spațial Hubble, telescopul James Webb va studia universul în domeniul radiației infraroșii și va fi plasat la 1.5 milioane kilometri de Pământ, în punctul Lagrange L2. Lansarea trebuie să decurgă perfect, pentru că, spre deosebire de Hubble, echipajele de astronauți nu vor putea să ajungă la telescopul James Webb pentru reparații. În momentul lansării, va fi probabil cel mai scump satelit lansat vreodată, sarcină ce îi revine rachetei europene Ariane 5.
 
 ** Buletin Cosmic nr. 78 :dragon:nasa:spacex:dm2:ch11:cz2d:starship:
 :PROPERTIES:
