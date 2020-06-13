@@ -16,6 +16,8 @@ draft = false
 | 17.02.2020    | Starlink-4 | 550 km | 53°   | 60   | v1.0  |
 | 18.03.2020    | Starlink-5 | 550 km | 53°   | 60   | v1.0  |
 | 22.04.2020    | Starlink-6 | 550 km | 53°   | 60   | v1.0  |
+| 04.06.2020    | Starlink-7 |        |       | 60   | v1.0  |
+| 13.06.2020    | Starlink-8 |        |       | 58   | v1.0  |
 
 
 ## Lista sateliților Starlink lansați {#lista-sateliților-starlink-lansați}
