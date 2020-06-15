@@ -706,7 +706,7 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 |  38 | 31.05 08:53 | CZ-2D         | Gaofen-9-02       | OBS  | China   | Jiuquan         | SSO   | Succes         | [[/bul/078][78]]   |
 |  37 | 30.05 19:22 | Falcon-9      | Dragon2           | CRW  | SUA     | KSC LC-39A      | ISS   | Succes         | [[/bul/078][78]]   |
 |  36 | 29.05 20:13 | CZ-11         | XS-H              | SAT  | China   | Xichang         | LEO   | Succes         | [[/bul/078][78]]   |
-|  35 | 25.05 19:50 | RocketOne     | /dummy/             | SAT  | SUA     | CosmicGirl      | LEO   | Eșec           | [[/bul/77][77]]   |
+|  35 | 25.05 19:50 | RocketOne     | Starshine-4       | SAT  | SUA     | CosmicGirl      | LEO   | Eșec           | [[/bul/77][77]]   |
 |  34 | 22.05 07:31 | Soyuz-2.1b    | Tundra-4          | COM* | Rusia   | Plesetsk        | MOL   | Succes         | [[/bul/077][77]]   |
 |  33 | 20.05 20:30 | H-2B          | HTV-9             | NAV  | Japonia | Tanegashima     | ISS   | Succes         | [[/bul/76][76]]   |
 |  32 | 17.05 13:14 | Atlas V 501   | OTV-6 X37B        | NAV* | SUA     | CC SLC-40       | LEO   | Succes         | [[/bul/76][76]]   |
