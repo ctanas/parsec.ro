@@ -154,8 +154,10 @@ draft = false
 | B1058.1 | 30.05.2020 | Dragon DM-2    | OCISLY[^fn:7] | Falcon 9   |
 | B1059.1 | 05.12.2019 | Dragon CRS-19  | OCISLY        | Falcon 9   |
 | B1059.2 | 07.03.2020 | Dragon CRS-20  | LZ-1          | Falcon 9   |
-| B1059.3 | 13.06.2020 | Starlink-8     |               |            |
-| B1060.1 | ??.??.2020 | GPS-III SV03   | ???           | Falcon 9   |
+| B1059.3 | 13.06.2020 | Starlink-8     | OCISLY        | Falcon 9   |
+| B1060.1 | ??.??.2020 | GPS3-SV03      | ???           | Falcon 9   |
+| B1061.1 | ??.08.2020 | Dragon USCV-1  | ???           | Falcon 9   |
+| B1062.1 | ??.??.202? | GPS3-SV04      | ???           | Falcon 9   |
 
 
 ## Abrevieri {#abrevieri}
