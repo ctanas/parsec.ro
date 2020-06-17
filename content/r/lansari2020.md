@@ -15,7 +15,7 @@ draft = false
 | 38  | 31.05 08:53 | CZ-2D         | Gaofen-9-02      | OBS   | China   | Jiuquan         | SSO   | Succes        | [78](/bul/078) |
 | 37  | 30.05 19:22 | Falcon-9      | Dragon2          | CRW   | SUA     | KSC LC-39A      | ISS   | Succes        | [78](/bul/078) |
 | 36  | 29.05 20:13 | CZ-11         | XS-H             | SAT   | China   | Xichang         | LEO   | Succes        | [78](/bul/078) |
-| 35  | 25.05 19:50 | RocketOne     | _dummy_          | SAT   | SUA     | CosmicGirl      | LEO   | Eșec          | [77](/bul/77)  |
+| 35  | 25.05 19:50 | RocketOne     | Starshine-4      | SAT   | SUA     | CosmicGirl      | LEO   | Eșec          | [77](/bul/77)  |
 | 34  | 22.05 07:31 | Soyuz-2.1b    | Tundra-4         | COM\* | Rusia   | Plesetsk        | MOL   | Succes        | [77](/bul/077) |
 | 33  | 20.05 20:30 | H-2B          | HTV-9            | NAV   | Japonia | Tanegashima     | ISS   | Succes        | [76](/bul/76)  |
 | 32  | 17.05 13:14 | Atlas V 501   | OTV-6 X37B       | NAV\* | SUA     | CC SLC-40       | LEO   | Succes        | [76](/bul/76)  |

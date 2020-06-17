@@ -2563,11 +2563,28 @@ Marius Trusculescu, unul din membri echipei Goliat, primul satelit românesc, a 
 :EXPORT_HUGO_SECTION: bul
 :END:
 
-** Buletin Cosmic nr. 80
+** Buletin Cosmic nr. 80 :spacex:falcon9:starlink:electron:viper:iss:rocketlab:
 :PROPERTIES:
 :EXPORT_FILE_NAME: 080
 :EXPORT_DATE: 2020-06-17
 :END:
+
+*** Lansări orbitale
+
+La doar 9 zile distanță după lansarea precedentă, *SpaceX* reușește o nouă lansare orbitală de pe rampa SLC-40 din cadrul complexului Cape Canaveral, urcând pe orbită alți 58 de sateliți Starlink[fn::https://youtu.be/8riKQXChPGg]. Doar 58 și nu 60, așa cum ne-a obișnuit, pentru că pentru prima dată, o lansare Starlink este împărțită cu un client, compania Planet Labs, care a lansat astfel cu această ocazie 3 sateliți SkySat pentru observații ale suprafeței Pământului. În prezent, SpaceX deține pe orbită aproape 540 de sateliți Starlink funcționali și o testare publică, pe scară largă, a acestora ar putea avea loc chiar în acest an. Lansarea de sâmbătă, 13 iunie, a mai bifat o premieră, a fost pentru prima dată când o rachetă *Falcon 9* nu a mai efectuat un test static al motoarelor Merlin, pe rampa de lansare, cu câteva zile înainte, pentru o ultimă verificare la cald a parametrilor acestora. Inginerii SpaceX au considerat că precedentele două zboruri ale treptei primare cu seria B1059 au oferit suficiente date pentru a evalua starea motoarelor (treapta primară a fost recuperată și de această dată pe barja /Of Course I Still Love You/). Renunțarea la testul static reduce și mai mult costul unei lansări și poate crește cadența lansărilor Falcon 9, care speră să efectueze 24 de zboruri orbitale în 2020, un record pentru compania lui Elon Musk.
+
+Și tot sâmbătă, dar la ora 08:12, a avut loc o nouă lansare a unei rachete *Electron*, de pe rampa LC-1 din Mahia, Noua Zeelendă[fn::https://www.rocketlabusa.com/missions/completed-missions/dont-stop-me-now/]. Racheta, botezată /Don't Stop Me Now/, a urcat pe orbită doi sateliți universitari, dar și trei sateliți pentru agenția americană National Reconaissance Office. Electron este o rachetă de calibru ușor, dar compania RocketLab își propune lansări dese și ieftine, ușurând astfel accesul la orbită pentru sateliții de mici dimensiuni. A fost al 12-lea zbor pentru o rachetă Electron și compania speră să mărească numărul lansărilor după ce alte două rampe de lansare vor deveni operaționale în următoarea perioadă, una pe coasta de est a Statelor Unite, la Wallops, iar alta în Marea Britanie, la Sutherland.
+
+#+CAPTION: Lansarea rachetei Electron /Don't Stop Me Now/ de pe rampa LC-1, Mahia, Noua Zeelandă /(Sursa foto: [[https://www.rocketlabusa.com/assets/Uploads/Dont-Stop-Me-Now-launch-small.jpg][RocketLab]])/
+[[/img/launch-small.jpg]]
+
+*** Alte evenimente
+
+*VIPER* (Volatiles Investigating Polar Exploration Rover), un rover lunar construit de NASA, va ajunge pe Lună în 2023, împreună cu landerul Griffin, construit de compania *Astrobotic*. Pentru această misiune, Astrobotic a primit de la NASA aproape 200 de milioane de dolari[fn::https://www.nasa.gov/press-release/nasa-selects-astrobotic-to-fly-water-hunting-rover-to-the-moon/] și intră în responsabilitatea companiei să găsească o rachetă pentru această misiune. Astrobotic plănuiește să lanseze anul viitor landerul Peregrine, în ceea ce va fi zborul inaugural al rachetei Vulcan, așadar este posibil ca și pentru misiunea Griffin/VIPER să fie selectată racheta companiei ULA. VIPER urmează să ajungă la Polul Sud lunar, cu aproximativ un an înainte misiunii Artemis 3, în care doi astronauți vor păși din nou pe Lună. Timp de aproximativ 3 luni, VIPER va parcurge câțiva kilometri în căutarea urmelor de apă din solul selenar și va putea chiar fora până la 1 metru adâncime, pentru prelevarea de probe. Variante precedente ale echipamentelor științifice cu care este dotat VIPER vor ajunge pe Lună în 2021 și 2022, la bordul unor landere lansate de companii private, Peregrine (Astrobotic), respectiv XL-1 (Masten Space Systems).
+
+---
+
+În ultima lună, pe *Stația Spațială Internațională* s-au întregistrat valori mai mari decât obișnuite pentru concentrația de benzen din atmosferă. Valorile nu au atins un prag periculos și echipajul a fost ocupat cu misiunea Demo Mission 2 până acum câteva zile, când au început să investigheze problema prezenței benzenului. Sursa acestuia nu a fost identificată și pentru a reuși să localizeze problema, în cursul acestei săptămâni, ventilația a fost separată între secțiunile rusești și americane ale stației, în timp ce astronauții monitorizează în continuare nivelul de benzen din atmosferă[fn::https://ria.ru/20200613/1572872419.html].
 
 ** Buletin Cosmic nr. 79 :starlink:spacex:falcon9:marte:qased:halo:gateway:
 :PROPERTIES:
