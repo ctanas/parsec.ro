@@ -8,6 +8,7 @@ draft = false
 
 | Nr. | Data        | Lansator      | Satelit          | Tip   | Țara    | Centru / Rampa  | Ținta | Rezultat      | Bul.           |
 |-----|-------------|---------------|------------------|-------|---------|-----------------|-------|---------------|----------------|
+| 43  | 17.06 07:19 | CZ-2D         | Gaofen9-03       | OBS   | China   | Jiuquan         | SSO   | Succes        | [80](/bul/080) |
 | 42  | 13.06 09:21 | Falcon-9      | 58xStarlink-8    | COM   | SUA     | CC SLC-40       | LEO   | Succes        | [80](/bul/080) |
 | 41  | 13.06 05:12 | Electron      | Andesite         | SAT   | SUA     | Mahia LC-1      | LEO   | Succes        | [80](/bul/080) |
 | 40  | 10.06 18:31 | CZ-2C         | Haiyang-1D       | OBS   | China   | Taiyuan LC-9    | SSO   | Succes        | [79](/bul/79)  |
@@ -57,12 +58,12 @@ draft = false
 | Țara      | Nr.    | Lansări          |
 |-----------|--------|------------------|
 | SUA       | 16     | IIIIIIIIIIIXIIII |
-| China     | 13     | IIIIIXIXIIIII    |
+| China     | 14     | IIIIIXIXIIIIII   |
 | Rusia     | 5      | IIIII            |
 | Europa    | 4      | IIII             |
 | Iran      | 2      | XI               |
 | Japonia   | 2      | II               |
-| **TOTAL** | **42** |                  |
+| **TOTAL** | **43** |                  |
 
 
 ## Legendă tabel {#legendă-tabel}

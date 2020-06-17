@@ -698,6 +698,7 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 **** Lansări orbitale efectuate în 2020
 | Nr. | Data        | Lansator      | Satelit           | Tip  | Țara    | Centru / Rampa  | Ținta | Rezultat       | Bul. |
 |-----+-------------+---------------+-------------------+------+---------+-----------------+-------+----------------+------|
+|  43 | 17.06 07:19 | CZ-2D         | Gaofen9-03        | OBS  | China   | Jiuquan         | SSO   | Succes         | [[/bul/080][80]]   |
 |  42 | 13.06 09:21 | Falcon-9      | 58xStarlink-8     | COM  | SUA     | CC SLC-40       | LEO   | Succes         | [[/bul/080][80]]   |
 |  41 | 13.06 05:12 | Electron      | Andesite          | SAT  | SUA     | Mahia LC-1      | LEO   | Succes         | [[/bul/080][80]]   |
 |  40 | 10.06 18:31 | CZ-2C         | Haiyang-1D        | OBS  | China   | Taiyuan LC-9    | SSO   | Succes         | [[/bul/79][79]]   |
@@ -750,13 +751,13 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 | Țara    | Nr. | Lansări          |
 |---------+-----+------------------|
 | SUA     |  16 | IIIIIIIIIIIXIIII |
-| China   |  13 | IIIIIXIXIIIII    |
+| China   |  14 | IIIIIXIXIIIIII   |
 | Rusia   |   5 | IIIII            |
 | Europa  |   4 | IIII             |
 | Iran    |   2 | XI               |
 | Japonia |   2 | II               |
 |---------+-----+------------------|
-| *TOTAL*   |  *42* |                  |
+| *TOTAL*   |  *43* |                  |
 
 **** Legendă tabel
 
@@ -965,7 +966,7 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 | Angara           | RUS  | Roscosmos    |  2014 | 1xRD-191     | 3.8t  |       | 5.4t  |    2 |    2 |     0 | 23.12.2014 |
 |------------------+------+--------------+-------+--------------+-------+-------+-------+------+------+-------+------------|
 | CZ-2C            | CHN  | CNSA         |  1982 | 4xYF-21C     | 3.85t | 1.9t  | 1.25t |   53 |   52 |     1 | 10.06.2020 |
-| CZ-2D            | CHN  | CNSA         |  1992 | 4xYF-21C     | 3.5t  | 1.3t  |       |   47 |   46 |     1 | 31.05.2020 |
+| CZ-2D            | CHN  | CNSA         |  1992 | 4xYF-21C     | 3.5t  | 1.3t  |       |   48 |   47 |     1 | 17.06.2020 |
 | CZ-2F            | CHN  | CNSA         |  1999 | 4xYF-20B     | 8.4t  |       |       |   13 |   13 |     0 | 16.10.2016 |
 | CZ-3A            | CHN  | CNSA         |  1994 | 4xYF-21C     | 8.5t  |       | 2.6t  |   27 |   27 |     0 | 09.07.2018 |
 | CZ-3B            | CHN  | CNSA         |  1996 | 4xYF-21C     | 11.5t | 7.1t  | 5.5t  |   67 |   63 | 2+(2) | 08.04.2020 |
@@ -2581,6 +2582,8 @@ La doar 9 zile distanță după lansarea precedentă, *SpaceX* reușește o nou�
 
 #+CAPTION: Lansarea rachetei Electron /Don't Stop Me Now/ de pe rampa LC-1, Mahia, Noua Zeelandă /(Sursa foto: [[https://www.rocketlabusa.com/assets/Uploads/Dont-Stop-Me-Now-launch-small.jpg][RocketLab]])/
 [[/img/launch-small.jpg]]
+
+Miercuri, 17 iunie, la ora 10:19 ora României, o rachetă *Changzheng-2D* a lansat pe orbită un nou satelit civil destinat observațiilor suprafeței Pământului, Gaofen-9, de la centrul spațial chinezesc Jiuquan. Gaofen este asemenător cu sateliții americani de spionaj Keyhole și este construit pe o platformă folosită și pentru sateliții militari chinezești, însă performanțele pentru sectorul civil sunt evident inferioare. A fost a 14 lansare din China în 2020, dar 2 dintre rachete nu au reușit să-și trimită încărcăturile pe orbită, China fiind oricum pe un loc secund într-un clasament al lansărilor orbitale din acest an, la diferență mare de locul 3, ocupat de Rusia, cu doar 5 lansări în 2020.
 
 *** Alte evenimente
 
