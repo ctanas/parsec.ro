@@ -698,6 +698,7 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 **** Lansări orbitale efectuate în 2020
 | Nr. | Data        | Lansator      | Satelit           | Tip  | Țara    | Centru / Rampa  | Ținta | Rezultat       | Bul. |
 |-----+-------------+---------------+-------------------+------+---------+-----------------+-------+----------------+------|
+|  44 | 23.06 01:43 | CZ-3B/E       | Beidou-3          | GNS  | China   | Xichang LC-2    | GSO   | Succes         | 81   |
 |  43 | 17.06 07:19 | CZ-2D         | Gaofen9-03        | OBS  | China   | Jiuquan         | SSO   | Succes         | [[/bul/080][80]]   |
 |  42 | 13.06 09:21 | Falcon-9      | 58xStarlink-8     | COM  | SUA     | CC SLC-40       | LEO   | Succes         | [[/bul/080][80]]   |
 |  41 | 13.06 05:12 | Electron      | Andesite          | SAT  | SUA     | Mahia LC-1      | LEO   | Succes         | [[/bul/080][80]]   |
@@ -724,7 +725,7 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 |  23 | 24.03 04:43 | CZ-2C         | 3x Yaogan 30      | COM* | China   | Xichang         | LEO   | Succes         | [[/bul/068][68]]   |
 |  22 | 21.03 17:06 | Soyuz-2.1b    | 34x OneWeb-3      | COM  | Europa  | Baikonur 31/6   | LEO   | Succes         | [[/bul/068][68]]   |
 |  21 | 18.03 12:16 | Falcon-9      | 60xStarlink-5     | COM  | SUA     | KSC LC-39A      | LEO   | Succes[fn:l23] | [[/bul/067][67]]   |
-|  20 | 16.03 20:28 | Soyuz-2.1b    | Glonass-M         | CNS  | Rusia   | Plesetsk 43/4   | MEO   | Succes[fn:l24] | [[/bul/067][67]]   |
+|  20 | 16.03 20:28 | Soyuz-2.1b    | Glonass-M         | GNS  | Rusia   | Plesetsk 43/4   | MEO   | Succes[fn:l24] | [[/bul/067][67]]   |
 |  19 | 16.03 13:34 | CZ-7A         | TJS-6             | COM* | China   | Wenchang LC201  | GEO   | Eșec[fn:l21]   | [[/bul/067][67]]   |
 |  18 | 09.03 11:55 | CZ-3B         | BeiDou-3G2Q       | CNS  | China   | Xichang LC-2    | GEO   | Succes         | [[/bul/066][66]]   |
 |  17 | 07.03 06:50 | Falcon-9      | Dragon CRS-20     | NAV  | SUA     | CC SLC-40       | ISS   | Succes         | [[/bul/066][66]]   |
@@ -751,13 +752,13 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 | Țara    | Nr. | Lansări          |
 |---------+-----+------------------|
 | SUA     |  16 | IIIIIIIIIIIXIIII |
-| China   |  14 | IIIIIXIXIIIIII   |
+| China   |  15 | IIIIIXIXIIIIIII  |
 | Rusia   |   5 | IIIII            |
 | Europa  |   4 | IIII             |
 | Iran    |   2 | XI               |
 | Japonia |   2 | II               |
 |---------+-----+------------------|
-| *TOTAL*   |  *43* |                  |
+| *TOTAL*   |  *44* |                  |
 
 **** Legendă tabel
 
@@ -969,7 +970,7 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 | CZ-2D            | CHN  | CNSA         |  1992 | 4xYF-21C     | 3.5t  | 1.3t  |       |   48 |   47 |     1 | 17.06.2020 |
 | CZ-2F            | CHN  | CNSA         |  1999 | 4xYF-20B     | 8.4t  |       |       |   13 |   13 |     0 | 16.10.2016 |
 | CZ-3A            | CHN  | CNSA         |  1994 | 4xYF-21C     | 8.5t  |       | 2.6t  |   27 |   27 |     0 | 09.07.2018 |
-| CZ-3B            | CHN  | CNSA         |  1996 | 4xYF-21C     | 11.5t | 7.1t  | 5.5t  |   67 |   63 | 2+(2) | 08.04.2020 |
+| CZ-3B            | CHN  | CNSA         |  1996 | 4xYF-21C     | 11.5t | 7.1t  | 5.5t  |   68 |   64 | 2+(2) | 23.06.2020 |
 | CZ-3C            | CHN  | CNSA         |  2008 | 4xYF-21C     |       |       | 3.9t  |   17 |   17 |     0 | 17.05.2019 |
 | CZ-4B            | CHN  | CNSA         |  1999 | 4xYF-21C     | 4.2t  | 2.8t  | 1.5t  |   35 |   34 |     1 | 20.12.2019 |
 | CZ-4C            | CHN  | CNSA         |  2006 | 4xYF-21C     | 4.2t  | 2.8t  | 1.5t  |   28 |   26 |     2 | 27.11.2019 |

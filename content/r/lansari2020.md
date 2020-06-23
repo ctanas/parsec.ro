@@ -8,6 +8,7 @@ draft = false
 
 | Nr. | Data        | Lansator      | Satelit          | Tip   | Țara    | Centru / Rampa  | Ținta | Rezultat      | Bul.           |
 |-----|-------------|---------------|------------------|-------|---------|-----------------|-------|---------------|----------------|
+| 44  | 23.06 01:43 | CZ-3B/E       | Beidou-3         | GNS   | China   | Xichang LC-2    | GSO   | Succes        | 81             |
 | 43  | 17.06 07:19 | CZ-2D         | Gaofen9-03       | OBS   | China   | Jiuquan         | SSO   | Succes        | [80](/bul/080) |
 | 42  | 13.06 09:21 | Falcon-9      | 58xStarlink-8    | COM   | SUA     | CC SLC-40       | LEO   | Succes        | [80](/bul/080) |
 | 41  | 13.06 05:12 | Electron      | Andesite         | SAT   | SUA     | Mahia LC-1      | LEO   | Succes        | [80](/bul/080) |
@@ -31,7 +32,7 @@ draft = false
 | 23  | 24.03 04:43 | CZ-2C         | 3x Yaogan 30     | COM\* | China   | Xichang         | LEO   | Succes        | [68](/bul/068) |
 | 22  | 21.03 17:06 | Soyuz-2.1b    | 34x OneWeb-3     | COM   | Europa  | Baikonur 31/6   | LEO   | Succes        | [68](/bul/068) |
 | 21  | 18.03 12:16 | Falcon-9      | 60xStarlink-5    | COM   | SUA     | KSC LC-39A      | LEO   | Succes[^fn:5] | [67](/bul/067) |
-| 20  | 16.03 20:28 | Soyuz-2.1b    | Glonass-M        | CNS   | Rusia   | Plesetsk 43/4   | MEO   | Succes[^fn:6] | [67](/bul/067) |
+| 20  | 16.03 20:28 | Soyuz-2.1b    | Glonass-M        | GNS   | Rusia   | Plesetsk 43/4   | MEO   | Succes[^fn:6] | [67](/bul/067) |
 | 19  | 16.03 13:34 | CZ-7A         | TJS-6            | COM\* | China   | Wenchang LC201  | GEO   | Eșec[^fn:7]   | [67](/bul/067) |
 | 18  | 09.03 11:55 | CZ-3B         | BeiDou-3G2Q      | CNS   | China   | Xichang LC-2    | GEO   | Succes        | [66](/bul/066) |
 | 17  | 07.03 06:50 | Falcon-9      | Dragon CRS-20    | NAV   | SUA     | CC SLC-40       | ISS   | Succes        | [66](/bul/066) |
@@ -58,12 +59,12 @@ draft = false
 | Țara      | Nr.    | Lansări          |
 |-----------|--------|------------------|
 | SUA       | 16     | IIIIIIIIIIIXIIII |
-| China     | 14     | IIIIIXIXIIIIII   |
+| China     | 15     | IIIIIXIXIIIIIII  |
 | Rusia     | 5      | IIIII            |
 | Europa    | 4      | IIII             |
 | Iran      | 2      | XI               |
 | Japonia   | 2      | II               |
-| **TOTAL** | **43** |                  |
+| **TOTAL** | **44** |                  |
 
 
 ## Legendă tabel {#legendă-tabel}
