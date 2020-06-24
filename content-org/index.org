@@ -698,7 +698,7 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 **** Lansări orbitale efectuate în 2020
 | Nr. | Data        | Lansator      | Satelit           | Tip  | Țara    | Centru / Rampa  | Ținta | Rezultat       | Bul. |
 |-----+-------------+---------------+-------------------+------+---------+-----------------+-------+----------------+------|
-|  44 | 23.06 01:43 | CZ-3B/E       | Beidou-3          | GNS  | China   | Xichang LC-2    | GSO   | Succes         | 81   |
+|  44 | 23.06 01:43 | CZ-3B/E       | Beidou-3          | GNS  | China   | Xichang LC-2    | GSO   | Succes         | [[/bul/081][81]]   |
 |  43 | 17.06 07:19 | CZ-2D         | Gaofen9-03        | OBS  | China   | Jiuquan         | SSO   | Succes         | [[/bul/080][80]]   |
 |  42 | 13.06 09:21 | Falcon-9      | 58xStarlink-8     | COM  | SUA     | CC SLC-40       | LEO   | Succes         | [[/bul/080][80]]   |
 |  41 | 13.06 05:12 | Electron      | Andesite          | SAT  | SUA     | Mahia LC-1      | LEO   | Succes         | [[/bul/080][80]]   |
@@ -2568,6 +2568,27 @@ Marius Trusculescu, unul din membri echipei Goliat, primul satelit românesc, a 
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: bul
 :END:
+
+** Buletin Cosmic nr. 81 :cz3b:beidou:mars2020:virgingalactic:oryol:
+:PROPERTIES:
+:EXPORT_FILE_NAME: 081
+:EXPORT_DATE: 2020-06-24
+:END:
+
+*** Lansări orbitale
+
+Marți dimineață, la ora 04:43 ora României, o rachetă *Changzheng-3B* a lansat, de la centru spațial Xichang, ultimul satelit al constelației de geolocalizare *Beidou*[fn::http://www.xinhuanet.com/english/2020-06/23/c_139160999.htm]. Cu această lansare, setul inițial de 35 de sateliți activi este complet, ceea ce înseamnă că Beidou devine a patra constelație de geolocalizare globală activă, după GPS (SUA), Galileo (Europa) și GLONASS (Rusia). Lansarea a fost programată inițial pentru săptămâna trecută, dar amânată din motive tehnice. Trebuie menționat că este prima lansare Changzheng-3B după cea din 9 aprilie, care s-a încheiat cu un eșec și cu pierderea satelitului respectiv. Lansările de sateliți Beidou vor continua și în viitor, pentru că sateliții mai vechi vor fi retrași și înlocuiți cu alții mai noi. Dintre cei 35 de sateliți funcționali, 27 sunt plasați pe orbită terestră medie și 8 pe orbită geostaționară.
+
+#+CAPTION: Racheta Changzheng-3B, lansând ultimul satelit al constelației Beidou, de la centrul spațial Xichang (Sursa: [[http://www.xinhuanet.com/english/2020-06/23/c_139160999.htm][Xinhua]])
+[[/img/cz3b.jpg]]
+
+*** Alte evenimente
+
+În 22 iulie este programată lansarea roverului *Perseverance* spre *Marte*, la bordul unei rachete Atlas V[fn::https://www.ulalaunch.com/missions/atlas-v-mars-2020]. În această săptămână racheta a ajuns pe rampa de lansare de la Cape Canaveral și au fost făcute ultimele repetiții înainte ca roverul să fie împachetat în conul protector al rachetei. Acesta va ajunge pe Marte în februarie 2021 și va duce acolo și un mic elicopter, denumit Ingenuity, primul aparat de zbor cu elice care va fi folosit pe o altă planetă decât Pământul. Roverul va avea 7 instrumente științifice, un microfon și nu mai puțin de 23 de camere foto, fiind o versiune îmbunătățită a roverului Curiosity, activ pe Marte din 2012. Perseverance va preleva probe de sol marțian pe care le va împacheta în niște recipiente speciale și le va lăsa în urma sa, urmând ca o viitoare misiune să preia aceste recipiente și să le aducă pe Pământ. 
+
+Continuând deschiderea către sectorul privat, NASA a anunțat în 22 iunie că a semnat un acord cu *Virgin Galactic* prin care compania lui Richard Branson să antreneze și să lanseze turiști spre Stația Spațială Internațională[fn::https://www.nasa.gov/press-release/nasa-moving-forward-to-enable-a-low-earth-orbit-economy]. Virgin Galactic nu deține vehicule capabile să transporte astronauți pe orbită, așa că probabil vor fi subcontracte pentru aceste activități companii precum Boeing și SpaceX. Un contract similar a fost semnat acum aproximativ un an cu compania Axiom Space[fn::https://www.axiomspace.com/private-astronauts-missions], însă aceasta pregătește și un modul care urmează să fie atașat Stației Spațiale Internaționale în a doua jumătate a anului 2024[fn::https://www.nasa.gov/press-release/nasa-selects-first-commercial-destination-module-for-international-space-station].
+
+Agenția spațială rusă a făcut publice câteva detalii cu privire la viitoarea capsulă *Oryol*[fn::https://www.roscosmos.ru/28714/], proiectată pentru a o înlocui pe legendara Soyuz. Astfel, primul zbor test al unei capsule complet funcționale, fără echipaj, este în prezent programat pentru 2023, iar primul zbor orbital cu echipaj în 2025. În 2029, o versiune adaptată pentru zboruri spre Lună urmează să transporte primul echipaj pe o traiectorie cislunară. Oryol va putea petrece un an pe orbită, andocată cu o stație spațială (Stația Spațială Internațională sau o viitoare stație spațială rusă), sau 180 de zile pe orbită în jurul Lunii. Lansările vor avea loc de la noul cosmodrom Vostochny folosind o rachetă Angara pentru orbite terestre și un viitor lansator supergreu pentru misiunile lunare. Oryol va putea lansa 4 astronauți, dar va putea aduce înapoi pe Pământ cu 2 în plus, dacă va fi nevoie și este proiectată să poată fi pilotată de un singur astronaut. Revenirea pe Pământ se va face similar cu revenirea capsulei Soyuz: un sistem de parașute va încetini capsula, iar un sistem de retrorachete vor fi activate în ultimele momente ale zborului, pentru a reduce și mai mult impactul cu solul.
 
 ** Buletin Cosmic nr. 80 :spacex:falcon9:starlink:electron:viper:iss:rocketlab:
 :PROPERTIES:

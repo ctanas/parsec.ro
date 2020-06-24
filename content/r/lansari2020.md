@@ -8,7 +8,7 @@ draft = false
 
 | Nr. | Data        | Lansator      | Satelit          | Tip   | Țara    | Centru / Rampa  | Ținta | Rezultat      | Bul.           |
 |-----|-------------|---------------|------------------|-------|---------|-----------------|-------|---------------|----------------|
-| 44  | 23.06 01:43 | CZ-3B/E       | Beidou-3         | GNS   | China   | Xichang LC-2    | GSO   | Succes        | 81             |
+| 44  | 23.06 01:43 | CZ-3B/E       | Beidou-3         | GNS   | China   | Xichang LC-2    | GSO   | Succes        | [81](/bul/081) |
 | 43  | 17.06 07:19 | CZ-2D         | Gaofen9-03       | OBS   | China   | Jiuquan         | SSO   | Succes        | [80](/bul/080) |
 | 42  | 13.06 09:21 | Falcon-9      | 58xStarlink-8    | COM   | SUA     | CC SLC-40       | LEO   | Succes        | [80](/bul/080) |
 | 41  | 13.06 05:12 | Electron      | Andesite         | SAT   | SUA     | Mahia LC-1      | LEO   | Succes        | [80](/bul/080) |
