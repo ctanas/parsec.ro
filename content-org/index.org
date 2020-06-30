@@ -698,6 +698,7 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 **** Lansări orbitale efectuate în 2020
 | Nr. | Data        | Lansator      | Satelit           | Tip  | Țara    | Centru / Rampa  | Ținta | Rezultat       | Bul. |
 |-----+-------------+---------------+-------------------+------+---------+-----------------+-------+----------------+------|
+|  45 | 30.06 20:10 | Falcon-9      | GPS-III-SV03      | GNS  | SUA     | CC SLC-40       | MEO   | Succes         | 82   |
 |  44 | 23.06 01:43 | CZ-3B/E       | Beidou-3          | GNS  | China   | Xichang LC-2    | GSO   | Succes         | [[/bul/081][81]]   |
 |  43 | 17.06 07:19 | CZ-2D         | Gaofen9-03        | OBS  | China   | Jiuquan         | SSO   | Succes         | [[/bul/080][80]]   |
 |  42 | 13.06 09:21 | Falcon-9      | 58xStarlink-8     | COM  | SUA     | CC SLC-40       | LEO   | Succes         | [[/bul/080][80]]   |
@@ -749,16 +750,16 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 |  01 | 07.01 02:19 | Falcon-9      | 60x Starlink-2    | COM  | SUA     | CC SLC-40       | LEO   | Succes         | [[/bul/057][57]]   |
 
 **** Clasament
-| Țara    | Nr. | Lansări          |
-|---------+-----+------------------|
-| SUA     |  16 | IIIIIIIIIIIXIIII |
-| China   |  15 | IIIIIXIXIIIIIII  |
-| Rusia   |   5 | IIIII            |
-| Europa  |   4 | IIII             |
-| Iran    |   2 | XI               |
-| Japonia |   2 | II               |
-|---------+-----+------------------|
-| *TOTAL*   |  *44* |                  |
+| Țara    | Nr. | Lansări           |
+|---------+-----+-------------------|
+| SUA     |  17 | IIIIIIIIIIIXIIIII |
+| China   |  15 | IIIIIXIXIIIIIII   |
+| Rusia   |   5 | IIIII             |
+| Europa  |   4 | IIII              |
+| Iran    |   2 | XI                |
+| Japonia |   2 | II                |
+|---------+-----+-------------------|
+| *TOTAL*   |  *45* |                   |
 
 **** Legendă tabel
 
@@ -955,7 +956,7 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 | Atlas V          | SUA  | ULA          |  2002 | 1xRD-180     | 20.5t |       | 8.9t  |   84 |   82 |   (1) | 17.05.2020 |
 | Delta IV Heavy   | SUA  | ULA          |  2004 | 1xRS-68A     | 28.7  |       | 14.2t |   10 |    9 |   (1) | 19.01.2019 |
 | Electron         | SUA  | RocketLab    |  2017 | 9xRutherford |       | 0.22t |       |   12 |   11 |     1 | 13.06.2020 |
-| Falcon 9[fn:rc2] | SUA  | SpaceX       |  2010 | 9xMerlin     | 22.8t |       | 8.3t  |   86 |   84 | 1+(1) | 13.06.2020 |
+| Falcon 9[fn:rc2] | SUA  | SpaceX       |  2010 | 9xMerlin     | 22.8t |       | 8.3t  |   87 |   85 | 1+(1) | 30.06.2020 |
 | Falcon Heavy     | SUA  | SpaceX       |  2018 | 27xMerlin    | 63.8  |       | 26.7  |    3 |    3 |     0 | 25.06.2019 |
 | Minotaur-C       | SUA  | NGSSG        |  1994 | Castor(S)    | 1.3t  |       |       |   10 |    7 |     3 | 31.10.2017 |
 | Minotaur V       | SUA  | NGSSG        |  2013 | Castor(S)    |       |       | 0.53t |    1 |    1 |     0 | 07.09.2013 |
@@ -1421,6 +1422,7 @@ Soyuz-2, folosită începând cu 2006, vine însă în două variante: Soyuz-2.1
 |  85 | v1.2b5 | 30.05.2020 | Dragon2 DM-2        | B1058.1 | LC-39A     |   |   |
 |  86 | v1.2b5 | 04.06.2020 | Starlink v1.0-7     | B1049.5 | CC SLC-40  |   |   |
 |  87 | v1.2b5 | 13.06.2020 | Starlink v1.0-8     | B1059.3 | CC SLC-40  |   |   |
+|  88 | v1.2b5 | 30.06.2020 | GPS-III-SV03        | B1060.1 | CC SLC-40  |   |   |
 
 
 #+CAPTION: Lista lansărilor Falcon Heavy
@@ -1484,7 +1486,7 @@ Soyuz-2, folosită începând cu 2006, vine însă în două variante: Soyuz-2.1
 | B1059.2 | 07.03.2020 | Dragon CRS-20  | LZ-1             | Falcon 9   |
 | B1059.3 | 13.06.2020 | Starlink-8     | OCISLY           | Falcon 9   |
 |---------+------------+----------------+------------------+------------|
-| B1060.1 | ??.??.2020 | GPS3-SV03      | ???              | Falcon 9   |
+| B1060.1 | 30.06.2020 | GPS3-SV03      | JRI              | Falcon 9   |
 |---------+------------+----------------+------------------+------------|
 | B1061.1 | ??.08.2020 | Dragon USCV-1  | ???              | Falcon 9   |
 |---------+------------+----------------+------------------+------------|

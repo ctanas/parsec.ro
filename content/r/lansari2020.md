@@ -8,6 +8,7 @@ draft = false
 
 | Nr. | Data        | Lansator      | Satelit          | Tip   | Țara    | Centru / Rampa  | Ținta | Rezultat      | Bul.           |
 |-----|-------------|---------------|------------------|-------|---------|-----------------|-------|---------------|----------------|
+| 45  | 30.06 20:10 | Falcon-9      | GPS-III-SV03     | GNS   | SUA     | CC SLC-40       | MEO   | Succes        | 82             |
 | 44  | 23.06 01:43 | CZ-3B/E       | Beidou-3         | GNS   | China   | Xichang LC-2    | GSO   | Succes        | [81](/bul/081) |
 | 43  | 17.06 07:19 | CZ-2D         | Gaofen9-03       | OBS   | China   | Jiuquan         | SSO   | Succes        | [80](/bul/080) |
 | 42  | 13.06 09:21 | Falcon-9      | 58xStarlink-8    | COM   | SUA     | CC SLC-40       | LEO   | Succes        | [80](/bul/080) |
@@ -56,15 +57,15 @@ draft = false
 
 ## Clasament {#clasament}
 
-| Țara      | Nr.    | Lansări          |
-|-----------|--------|------------------|
-| SUA       | 16     | IIIIIIIIIIIXIIII |
-| China     | 15     | IIIIIXIXIIIIIII  |
-| Rusia     | 5      | IIIII            |
-| Europa    | 4      | IIII             |
-| Iran      | 2      | XI               |
-| Japonia   | 2      | II               |
-| **TOTAL** | **44** |                  |
+| Țara      | Nr.    | Lansări           |
+|-----------|--------|-------------------|
+| SUA       | 17     | IIIIIIIIIIIXIIIII |
+| China     | 15     | IIIIIXIXIIIIIII   |
+| Rusia     | 5      | IIIII             |
+| Europa    | 4      | IIII              |
+| Iran      | 2      | XI                |
+| Japonia   | 2      | II                |
+| **TOTAL** | **45** |                   |
 
 
 ## Legendă tabel {#legendă-tabel}

@@ -99,6 +99,7 @@ draft = false
 | 85  | v1.2b5 | 30.05.2020 | Dragon2 DM-2        | B1058.1 | LC-39A     |   |   |
 | 86  | v1.2b5 | 04.06.2020 | Starlink v1.0-7     | B1049.5 | CC SLC-40  |   |   |
 | 87  | v1.2b5 | 13.06.2020 | Starlink v1.0-8     | B1059.3 | CC SLC-40  |   |   |
+| 88  | v1.2b5 | 30.06.2020 | GPS-III-SV03        | B1060.1 | CC SLC-40  |   |   |
 
 <div class="table-caption">
   <span class="table-number">Tabel 2</span>:
@@ -155,7 +156,7 @@ draft = false
 | B1059.1 | 05.12.2019 | Dragon CRS-19  | OCISLY        | Falcon 9   |
 | B1059.2 | 07.03.2020 | Dragon CRS-20  | LZ-1          | Falcon 9   |
 | B1059.3 | 13.06.2020 | Starlink-8     | OCISLY        | Falcon 9   |
-| B1060.1 | ??.??.2020 | GPS3-SV03      | ???           | Falcon 9   |
+| B1060.1 | 30.06.2020 | GPS3-SV03      | JRI           | Falcon 9   |
 | B1061.1 | ??.08.2020 | Dragon USCV-1  | ???           | Falcon 9   |
 | B1062.1 | ??.??.202? | GPS3-SV04      | ???           | Falcon 9   |
 
