@@ -4,6 +4,12 @@ author = ["Claudiu"]
 draft = false
 +++
 
+01.07.2020
+: EVA-229 (6 ore, 1 minut): Cassidy și Behnken, pentru schimbarea bateriilor ISS;
+
+26.06.2020
+: EVA-228 (6 ore, 7 minute): Cassidy și Behnken, pentru schimbarea bateriilor ISS;
+
 31.05.2020
 : Capsula Crew Dragon "Endeavour" se cuplează la modulul _Harmony_ și Bob Behnken și Doug Hurley se alătură echipajului expediției 63.
 
