@@ -43,7 +43,7 @@ draft = false
 | PSLV            | IND  | ISRO         | 1993  | (S)          | 3.8t  | 1.75t | 1.2t  | 50   | 47   | 2+(1) | 11.12.2019 |
 | GSLV Mk.II      | IND  | ISRO         | 2010  | S139 (S)     | 5t    |       | 2.7t  | 7    | 6    | 1     | 19.12.2018 |
 | GSLV Mk.III     | IND  | ISRO         | 2017  | S200 (S)     | 10t   |       | 4t    | 4    | 4    | 0     | 22.07.2019 |
-| Shavit          | ISR  | ISA (ISR)    | 1988  | LK-1 (S)     | 0.8t  |       |       | 10   | 8    | 2     | 06.07.2020 |
+| Shavit          | ISR  | ISA (ISR)    | 1988  | LK-1 (S)     | 0.35t |       |       | 10   | 8    | 2     | 06.07.2020 |
 | Safir[^fn:4]    | IRN  | ISA (IRN)    | 2008  | ??           | <0.1? |       |       | 8    | 4    | 4     | 05.02.2019 |
 | Simorgh         | IRN  | ISA (IRN)    | 2016  | 4xNodong?    | 0.35? |       |       | 4    | 1    | 3     | 09.02.2020 |
 | Qased           | IRN  | IRG (IRN)    | 2020  | ?Nodong?     | ??    | ??    | ??    | 1    | 1    | 0     | 22.04.2020 |
