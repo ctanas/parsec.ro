@@ -8,9 +8,9 @@ draft = false
 
 | Nr. | Data        | Lansator      | Satelit          | Tip   | Țara    | Centru / Rampa  | Ținta | Rezultat      | Bul.           |
 |-----|-------------|---------------|------------------|-------|---------|-----------------|-------|---------------|----------------|
-| 51  | 10.07 04:17 | Kuaizhou-11   | Gaofen-02E       | SSO   | China   | Jiuquan         | SSO   | Eșec          | 82             |
-| 50  | 09.07 12:10 | CZ-3B/E       | APStar-6D        | COM   | China   | Xichang LC-3    | GSO   | Succes        | 82             |
-| 49  | 06.07 01:00 | Shavit        | Ofek-16          | SAT\* | ISR     | Palmachim       | LEO   | Succes        | 82             |
+| 51  | 10.07 04:17 | Kuaizhou-11   | Gaofen-02E       | SSO   | China   | Jiuquan         | SSO   | Eșec          | 83             |
+| 50  | 09.07 12:10 | CZ-3B/E       | APStar-6D        | COM   | China   | Xichang LC-3    | GSO   | Succes        | 83             |
+| 49  | 06.07 01:00 | Shavit        | Ofek-16          | SAT\* | ISR     | Palmachim       | LEO   | Succes        | 83             |
 | 48  | 04.07 23:44 | CZ-2D         | Shiyan-6-02      | SAT   | China   | Jiuquan SLS-2   | SSO   | Succes        | 82             |
 | 47  | 04.07 21:19 | Electron      | CE-SAT-IB        | OBS   | SUA     | Mahia LC-1      | SSO   | Eșec          | 82             |
 | 46  | 03.07 03:10 | CZ-4B         | Gaofen Duomo     | OBS   | China   | Taiyuan LC-9    | SSO   | Succes        | 82             |

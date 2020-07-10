@@ -218,6 +218,7 @@ Da! Datorită panourilor solare de mari dimensiuni, ISS poate fi văzută cu uș
 :EXPORT_FILE_NAME: jurnal
 :END:
 
+- 08.07.2020 :: Progress MS-13 se desprinde de modulul Pirs la ora 18:22 și revine prin atmosferă la 22:05.
 - 01.07.2020 :: EVA-229 (6 ore, 1 minut): Cassidy și Behnken, pentru schimbarea bateriilor ISS;
 - 26.06.2020 :: EVA-228 (6 ore, 7 minute): Cassidy și Behnken, pentru schimbarea bateriilor ISS;
 - 31.05.2020 :: Capsula Crew Dragon "Endeavour" se cuplează la modulul /Harmony/ și Bob Behnken și Doug Hurley se alătură echipajului expediției 63.
@@ -700,9 +701,9 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 **** Lansări orbitale efectuate în 2020
 | Nr. | Data        | Lansator      | Satelit           | Tip  | Țara    | Centru / Rampa  | Ținta | Rezultat       | Bul. |
 |-----+-------------+---------------+-------------------+------+---------+-----------------+-------+----------------+------|
-|  51 | 10.07 04:17 | Kuaizhou-11   | Gaofen-02E        | SSO  | China   | Jiuquan         | SSO   | Eșec           | 82   |
-|  50 | 09.07 12:10 | CZ-3B/E       | APStar-6D         | COM  | China   | Xichang LC-3    | GSO   | Succes         | 82   |
-|  49 | 06.07 01:00 | Shavit        | Ofek-16           | SAT* | ISR     | Palmachim       | LEO   | Succes         | 82   |
+|  51 | 10.07 04:17 | Kuaizhou-11   | Gaofen-02E        | SSO  | China   | Jiuquan         | SSO   | Eșec           | 83   |
+|  50 | 09.07 12:10 | CZ-3B/E       | APStar-6D         | COM  | China   | Xichang LC-3    | GSO   | Succes         | 83   |
+|  49 | 06.07 01:00 | Shavit        | Ofek-16           | SAT* | ISR     | Palmachim       | LEO   | Succes         | 83   |
 |  48 | 04.07 23:44 | CZ-2D         | Shiyan-6-02       | SAT  | China   | Jiuquan SLS-2   | SSO   | Succes         | 82   |
 |  47 | 04.07 21:19 | Electron      | CE-SAT-IB         | OBS  | SUA     | Mahia LC-1      | SSO   | Eșec           | 82   |
 |  46 | 03.07 03:10 | CZ-4B         | Gaofen Duomo      | OBS  | China   | Taiyuan LC-9    | SSO   | Succes         | 82   |
@@ -2583,6 +2584,25 @@ Marius Trusculescu, unul din membri echipei Goliat, primul satelit românesc, a 
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: bul
 :END:
+
+
+** TODO Buletin Cosmic nr. 83
+:PROPERTIES:
+:EXPORT_FILE_NAME: 083
+:EXPORT_DATE: 2020-07-12
+:END:
+
+*** Lansări orbitale
+
+
+** TODO Buletin Cosmic nr. 82
+:PROPERTIES:
+:EXPORT_FILE_NAME: 082
+:EXPORT_DATE: 2020-07-05
+:END:
+
+*** Lansări orbitale
+
 
 ** Buletin Cosmic nr. 81 :cz3b:beidou:mars2020:virgingalactic:oryol:
 :PROPERTIES:
