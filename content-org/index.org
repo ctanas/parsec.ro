@@ -700,7 +700,7 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 **** Lansări orbitale efectuate în 2020
 | Nr. | Data        | Lansator        | Satelit           | Tip  | Țara    | Centru / Rampa  | Ținta | Rezultat       | Bul. |
 |-----+-------------+-----------------+-------------------+------+---------+-----------------+-------+----------------+------|
-|  50 | 09.07 12:10 | Changzheng-3B/E | APStar-6D         | COM  | China   | Xichang LC-3    | GSO   | Succes         | 82   |
+|  50 | 09.07 12:10 | CZ-3B/E         | APStar-6D         | COM  | China   | Xichang LC-3    | GSO   | Succes         | 82   |
 |  49 | 06.07 01:00 | Shavit          | Ofek-16           | SAT* | ISR     | Palmachim       | LEO   | Succes         | 82   |
 |  48 | 04.07 23:44 | CZ-2D           | Shiyan-6-02       | SAT  | China   | Jiuquan SLS-2   | SSO   | Succes         | 82   |
 |  47 | 04.07 21:19 | Electron        | CE-SAT-IB         | OBS  | SUA     | Mahia LC-1      | SSO   | Eșec           | 82   |
