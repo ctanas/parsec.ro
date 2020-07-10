@@ -8,6 +8,7 @@ draft = false
 
 | Nr. | Data        | Lansator      | Satelit          | Tip   | Țara    | Centru / Rampa  | Ținta | Rezultat      | Bul.           |
 |-----|-------------|---------------|------------------|-------|---------|-----------------|-------|---------------|----------------|
+| 51  | 10.07 04:17 | Kuaizhou-11   | Gaofen-02E       | SSO   | China   | Jiuquan         | SSO   | Eșec          | 82             |
 | 50  | 09.07 12:10 | CZ-3B/E       | APStar-6D        | COM   | China   | Xichang LC-3    | GSO   | Succes        | 82             |
 | 49  | 06.07 01:00 | Shavit        | Ofek-16          | SAT\* | ISR     | Palmachim       | LEO   | Succes        | 82             |
 | 48  | 04.07 23:44 | CZ-2D         | Shiyan-6-02      | SAT   | China   | Jiuquan SLS-2   | SSO   | Succes        | 82             |
@@ -62,16 +63,16 @@ draft = false
 
 ## Clasament {#clasament}
 
-| Țara      | Nr.    | Lansări            |
-|-----------|--------|--------------------|
-| SUA       | 18     | IIIIIIIIIIIXIIIIIX |
-| China     | 18     | IIIIIXIXIIIIIIIIIX |
-| Rusia     | 5      | IIIII              |
-| Europa    | 4      | IIII               |
-| Iran      | 2      | XI                 |
-| Japonia   | 2      | II                 |
-| Israel    | 1      | I                  |
-| **TOTAL** | **50** |                    |
+| Țara      | Nr.    | Lansări             |
+|-----------|--------|---------------------|
+| SUA       | 18     | IIIIIIIIIIIXIIIIII  |
+| China     | 19     | IIIIIXIXIIIIIIIIIIX |
+| Rusia     | 5      | IIIII               |
+| Europa    | 4      | IIII                |
+| Iran      | 2      | XI                  |
+| Japonia   | 2      | II                  |
+| Israel    | 1      | I                   |
+| **TOTAL** | **51** |                     |
 
 
 ## Legendă tabel {#legendă-tabel}
