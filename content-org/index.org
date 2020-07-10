@@ -698,77 +698,78 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 :END:
 
 **** Lansări orbitale efectuate în 2020
-| Nr. | Data        | Lansator        | Satelit           | Tip  | Țara    | Centru / Rampa  | Ținta | Rezultat       | Bul. |
-|-----+-------------+-----------------+-------------------+------+---------+-----------------+-------+----------------+------|
-|  50 | 09.07 12:10 | CZ-3B/E         | APStar-6D         | COM  | China   | Xichang LC-3    | GSO   | Succes         | 82   |
-|  49 | 06.07 01:00 | Shavit          | Ofek-16           | SAT* | ISR     | Palmachim       | LEO   | Succes         | 82   |
-|  48 | 04.07 23:44 | CZ-2D           | Shiyan-6-02       | SAT  | China   | Jiuquan SLS-2   | SSO   | Succes         | 82   |
-|  47 | 04.07 21:19 | Electron        | CE-SAT-IB         | OBS  | SUA     | Mahia LC-1      | SSO   | Eșec           | 82   |
-|  46 | 03.07 03:10 | CZ-4B           | Gaofen Duomo      | OBS  | China   | Taiyuan LC-9    | SSO   | Succes         | 82   |
-|-----+-------------+-----------------+-------------------+------+---------+-----------------+-------+----------------+------|
-|  45 | 30.06 20:10 | Falcon-9        | GPS-III-SV03      | GNS  | SUA     | CC SLC-40       | MEO   | Succes         | 82   |
-|  44 | 23.06 01:43 | CZ-3B/E         | Beidou-3          | GNS  | China   | Xichang LC-2    | GSO   | Succes         | [[/bul/081][81]]   |
-|  43 | 17.06 07:19 | CZ-2D           | Gaofen9-03        | OBS  | China   | Jiuquan         | SSO   | Succes         | [[/bul/080][80]]   |
-|  42 | 13.06 09:21 | Falcon-9        | 58xStarlink-8     | COM  | SUA     | CC SLC-40       | LEO   | Succes         | [[/bul/080][80]]   |
-|  41 | 13.06 05:12 | Electron        | Andesite          | SAT  | SUA     | Mahia LC-1      | LEO   | Succes         | [[/bul/080][80]]   |
-|  40 | 10.06 18:31 | CZ-2C           | Haiyang-1D        | OBS  | China   | Taiyuan LC-9    | SSO   | Succes         | [[/bul/79][79]]   |
-|  39 | 04.06 01:25 | Falcon-9        | 60xStarlink-7     | COM  | SUA     | CC SLC-40       | LEO   | Succes         | [[/bul/079][79]]   |
-|-----+-------------+-----------------+-------------------+------+---------+-----------------+-------+----------------+------|
-|  38 | 31.05 08:53 | CZ-2D           | Gaofen-9-02       | OBS  | China   | Jiuquan         | SSO   | Succes         | [[/bul/078][78]]   |
-|  37 | 30.05 19:22 | Falcon-9        | Dragon2           | CRW  | SUA     | KSC LC-39A      | ISS   | Succes         | [[/bul/078][78]]   |
-|  36 | 29.05 20:13 | CZ-11           | XS-H              | SAT  | China   | Xichang         | LEO   | Succes         | [[/bul/078][78]]   |
-|  35 | 25.05 19:50 | RocketOne       | Starshine-4       | SAT  | SUA     | CosmicGirl      | LEO   | Eșec           | [[/bul/77][77]]   |
-|  34 | 22.05 07:31 | Soyuz-2.1b      | Tundra-4          | COM* | Rusia   | Plesetsk        | MOL   | Succes         | [[/bul/077][77]]   |
-|  33 | 20.05 20:30 | H-2B            | HTV-9             | NAV  | Japonia | Tanegashima     | ISS   | Succes         | [[/bul/76][76]]   |
-|  32 | 17.05 13:14 | Atlas V 501     | OTV-6 X37B        | NAV* | SUA     | CC SLC-40       | LEO   | Succes         | [[/bul/76][76]]   |
-|  31 | 11.05 01:16 | Kuaizhou-1A     | 2x Xingyun-2      | COM  | China   | Jiuquan         | SSO   | Succes         | [[/bul/075][75]]   |
-|  30 | 05.05 10:00 | Changzheng-5B   | Shenzhou2[fn:126] | NAV  | China   | Wenchang LC-101 | LEO   | Succes         | [[/bul/074][74]]   |
-|-----+-------------+-----------------+-------------------+------+---------+-----------------+-------+----------------+------|
-|  29 | 25.04 01:51 | Soyuz-2.1a      | Progress MS-14    | NAV  | Rusia   | Baikonur 31/6   | ISS   | Succes         | [[/bul/073][73]]   |
-|  28 | 22.04 19:30 | Falcon-9        | 60xStarlink-6     | COM  | SUA     | KSC LC-39A      | LEO   | Succes         | [[/bul/072][72]]   |
-|  27 | 22.04 04:00 | Qased           | Noor              | SAT* | Iran    | Shahroud        | LEO   | Succes         | [[/bul/072][72]]   |
-|  26 | 09.04 11:45 | CZ-3B           | Palapa-N1         | COM  | China   | Xichang         | GEO   | Eșec[fn:128]   | [[/bul/071][71]]   |
-|  25 | 09.04 08:05 | Soyuz-2.1a      | Soyuz MS-16       | CRW  | Rusia   | Baikonur 31/6   | ISS   | Succes[fn:127] | [[/bul/071][71]]   |
-|-----+-------------+-----------------+-------------------+------+---------+-----------------+-------+----------------+------|
-|  24 | 26.03 19:18 | Atlas-V 551     | AEHF-6            | COM* | SUA     | CC SLC-41       | GEO   | Succes[fn:125] | [[/bul/069][69]]   |
-|  23 | 24.03 04:43 | CZ-2C           | 3x Yaogan 30      | COM* | China   | Xichang         | LEO   | Succes         | [[/bul/068][68]]   |
-|  22 | 21.03 17:06 | Soyuz-2.1b      | 34x OneWeb-3      | COM  | Europa  | Baikonur 31/6   | LEO   | Succes         | [[/bul/068][68]]   |
-|  21 | 18.03 12:16 | Falcon-9        | 60xStarlink-5     | COM  | SUA     | KSC LC-39A      | LEO   | Succes[fn:l23] | [[/bul/067][67]]   |
-|  20 | 16.03 20:28 | Soyuz-2.1b      | Glonass-M         | GNS  | Rusia   | Plesetsk 43/4   | MEO   | Succes[fn:l24] | [[/bul/067][67]]   |
-|  19 | 16.03 13:34 | CZ-7A           | TJS-6             | COM* | China   | Wenchang LC201  | GEO   | Eșec[fn:l21]   | [[/bul/067][67]]   |
-|  18 | 09.03 11:55 | CZ-3B           | BeiDou-3G2Q       | CNS  | China   | Xichang LC-2    | GEO   | Succes         | [[/bul/066][66]]   |
-|  17 | 07.03 06:50 | Falcon-9        | Dragon CRS-20     | NAV  | SUA     | CC SLC-40       | ISS   | Succes         | [[/bul/066][66]]   |
-|-----+-------------+-----------------+-------------------+------+---------+-----------------+-------+----------------+------|
-|  16 | 20.02 08:22 | Soyuz-2.1a      | Meridian-M9       | COM* | Rusia   | Plesetsk 43/3   | MOL   | Succes         | [[/bul/064][64]]   |
-|  15 | 19.02 21:07 | CZ-2D           | 4x XJS            | SAT  | China   | Xichang LC-3    | LEO   | Succes         | [[/bul/063][63]]   |
-|  14 | 18.02 22:18 | Ariane-5 ECA    | JCSAT-17          | COM  | Europa  | Kourou ELA-3    | GEO   | Succes         | [[/bul/063][63]]   |
-|  13 | 17.02 15:05 | Falcon-9        | 60x Starlink-4    | COM  | SUA     | CC SLC-40       | LEO   | Succes         | [[/bul/063][63]]   |
-|  12 | 14.02 20:21 | Antares-230     | Cygnus NG-13      | NAV  | SUA     | Wallops 0A      | ISS   | Succes         | [[/bul/063][63]]   |
-|  11 | 10.02 04:03 | Atlas-V 411     | Solar Orbiter     | INT  | SUA     | CC SLC-41       | INT   | Succes         | [[/bul/062][62]]   |
-|  10 | 09.02 18:45 | Simorgh         | Zafar-1           | OBS* | Iran    | Semnan          | LEO   | Eșec           | [[/bul/062][62]]   |
-|  09 | 09.02 01:34 | H-IIA 202       | IGS-Optical-7     | OBS* | Japonia | T-shima LA-Y1   | SSO   | Succes         | [[/bul/062][62]]   |
-|  08 | 06.02 21:42 | Soyuz-2.1b      | 34x OneWeb-2      | COM  | Europa  | Baikonur        | LEO   | Succes[fn:l22] | [[/bul/062][62]]   |
-|-----+-------------+-----------------+-------------------+------+---------+-----------------+-------+----------------+------|
-|  07 | 31.01 02:56 | Electron        | NROL-151          | SAT* | SUA     | Mahia LC-1      | LEO   | Succes         | [[/bul/061][61]]   |
-|  06 | 28.01 14:06 | Falcon-9        | 60x Starlink-3    | COM  | SUA     | CC SLC-40       | LEO   | Succes         | [[/bul/060][60]]   |
-|  05 | 16.01 21:05 | Ariane-5 ECA    | Konnect           | COM  | Europa  | Kourou ELA-3    | GEO   | Succes         | [[/bul/059][59]]   |
-|  04 | 16.01 03:02 | Kuaizhou-1A     | Yinhe-1           | DEM  | China   | Jiuquan         | SSO   | Succes         | [[/bul/059][59]]   |
-|  03 | 15.01 02:53 | CZ-2D           | Kuanfu-1          | OBS  | China   | Taiyua LC-9     | LEO   | Succes         | [[/bul/058][58]]   |
-|  02 | 07.01 15:20 | CZ-3B           | TJSW-5            | COM* | China   | Xichang LC-2    | GTO   | Succes         | [[/bul/057][57]]   |
-|  01 | 07.01 02:19 | Falcon-9        | 60x Starlink-2    | COM  | SUA     | CC SLC-40       | LEO   | Succes         | [[/bul/057][57]]   |
+| Nr. | Data        | Lansator      | Satelit           | Tip  | Țara    | Centru / Rampa  | Ținta | Rezultat       | Bul. |
+|-----+-------------+---------------+-------------------+------+---------+-----------------+-------+----------------+------|
+|  51 | 10.07 04:17 | Kuaizhou-11   | Gaofen-02E        | SSO  | China   | Jiuquan         | SSO   | Eșec           | 82   |
+|  50 | 09.07 12:10 | CZ-3B/E       | APStar-6D         | COM  | China   | Xichang LC-3    | GSO   | Succes         | 82   |
+|  49 | 06.07 01:00 | Shavit        | Ofek-16           | SAT* | ISR     | Palmachim       | LEO   | Succes         | 82   |
+|  48 | 04.07 23:44 | CZ-2D         | Shiyan-6-02       | SAT  | China   | Jiuquan SLS-2   | SSO   | Succes         | 82   |
+|  47 | 04.07 21:19 | Electron      | CE-SAT-IB         | OBS  | SUA     | Mahia LC-1      | SSO   | Eșec           | 82   |
+|  46 | 03.07 03:10 | CZ-4B         | Gaofen Duomo      | OBS  | China   | Taiyuan LC-9    | SSO   | Succes         | 82   |
+|-----+-------------+---------------+-------------------+------+---------+-----------------+-------+----------------+------|
+|  45 | 30.06 20:10 | Falcon-9      | GPS-III-SV03      | GNS  | SUA     | CC SLC-40       | MEO   | Succes         | 82   |
+|  44 | 23.06 01:43 | CZ-3B/E       | Beidou-3          | GNS  | China   | Xichang LC-2    | GSO   | Succes         | [[/bul/081][81]]   |
+|  43 | 17.06 07:19 | CZ-2D         | Gaofen9-03        | OBS  | China   | Jiuquan         | SSO   | Succes         | [[/bul/080][80]]   |
+|  42 | 13.06 09:21 | Falcon-9      | 58xStarlink-8     | COM  | SUA     | CC SLC-40       | LEO   | Succes         | [[/bul/080][80]]   |
+|  41 | 13.06 05:12 | Electron      | Andesite          | SAT  | SUA     | Mahia LC-1      | LEO   | Succes         | [[/bul/080][80]]   |
+|  40 | 10.06 18:31 | CZ-2C         | Haiyang-1D        | OBS  | China   | Taiyuan LC-9    | SSO   | Succes         | [[/bul/79][79]]   |
+|  39 | 04.06 01:25 | Falcon-9      | 60xStarlink-7     | COM  | SUA     | CC SLC-40       | LEO   | Succes         | [[/bul/079][79]]   |
+|-----+-------------+---------------+-------------------+------+---------+-----------------+-------+----------------+------|
+|  38 | 31.05 08:53 | CZ-2D         | Gaofen-9-02       | OBS  | China   | Jiuquan         | SSO   | Succes         | [[/bul/078][78]]   |
+|  37 | 30.05 19:22 | Falcon-9      | Dragon2           | CRW  | SUA     | KSC LC-39A      | ISS   | Succes         | [[/bul/078][78]]   |
+|  36 | 29.05 20:13 | CZ-11         | XS-H              | SAT  | China   | Xichang         | LEO   | Succes         | [[/bul/078][78]]   |
+|  35 | 25.05 19:50 | RocketOne     | Starshine-4       | SAT  | SUA     | CosmicGirl      | LEO   | Eșec           | [[/bul/77][77]]   |
+|  34 | 22.05 07:31 | Soyuz-2.1b    | Tundra-4          | COM* | Rusia   | Plesetsk        | MOL   | Succes         | [[/bul/077][77]]   |
+|  33 | 20.05 20:30 | H-2B          | HTV-9             | NAV  | Japonia | Tanegashima     | ISS   | Succes         | [[/bul/76][76]]   |
+|  32 | 17.05 13:14 | Atlas V 501   | OTV-6 X37B        | NAV* | SUA     | CC SLC-40       | LEO   | Succes         | [[/bul/76][76]]   |
+|  31 | 11.05 01:16 | Kuaizhou-1A   | 2x Xingyun-2      | COM  | China   | Jiuquan         | SSO   | Succes         | [[/bul/075][75]]   |
+|  30 | 05.05 10:00 | Changzheng-5B | Shenzhou2[fn:126] | NAV  | China   | Wenchang LC-101 | LEO   | Succes         | [[/bul/074][74]]   |
+|-----+-------------+---------------+-------------------+------+---------+-----------------+-------+----------------+------|
+|  29 | 25.04 01:51 | Soyuz-2.1a    | Progress MS-14    | NAV  | Rusia   | Baikonur 31/6   | ISS   | Succes         | [[/bul/073][73]]   |
+|  28 | 22.04 19:30 | Falcon-9      | 60xStarlink-6     | COM  | SUA     | KSC LC-39A      | LEO   | Succes         | [[/bul/072][72]]   |
+|  27 | 22.04 04:00 | Qased         | Noor              | SAT* | Iran    | Shahroud        | LEO   | Succes         | [[/bul/072][72]]   |
+|  26 | 09.04 11:45 | CZ-3B         | Palapa-N1         | COM  | China   | Xichang         | GEO   | Eșec[fn:128]   | [[/bul/071][71]]   |
+|  25 | 09.04 08:05 | Soyuz-2.1a    | Soyuz MS-16       | CRW  | Rusia   | Baikonur 31/6   | ISS   | Succes[fn:127] | [[/bul/071][71]]   |
+|-----+-------------+---------------+-------------------+------+---------+-----------------+-------+----------------+------|
+|  24 | 26.03 19:18 | Atlas-V 551   | AEHF-6            | COM* | SUA     | CC SLC-41       | GEO   | Succes[fn:125] | [[/bul/069][69]]   |
+|  23 | 24.03 04:43 | CZ-2C         | 3x Yaogan 30      | COM* | China   | Xichang         | LEO   | Succes         | [[/bul/068][68]]   |
+|  22 | 21.03 17:06 | Soyuz-2.1b    | 34x OneWeb-3      | COM  | Europa  | Baikonur 31/6   | LEO   | Succes         | [[/bul/068][68]]   |
+|  21 | 18.03 12:16 | Falcon-9      | 60xStarlink-5     | COM  | SUA     | KSC LC-39A      | LEO   | Succes[fn:l23] | [[/bul/067][67]]   |
+|  20 | 16.03 20:28 | Soyuz-2.1b    | Glonass-M         | GNS  | Rusia   | Plesetsk 43/4   | MEO   | Succes[fn:l24] | [[/bul/067][67]]   |
+|  19 | 16.03 13:34 | CZ-7A         | TJS-6             | COM* | China   | Wenchang LC201  | GEO   | Eșec[fn:l21]   | [[/bul/067][67]]   |
+|  18 | 09.03 11:55 | CZ-3B         | BeiDou-3G2Q       | CNS  | China   | Xichang LC-2    | GEO   | Succes         | [[/bul/066][66]]   |
+|  17 | 07.03 06:50 | Falcon-9      | Dragon CRS-20     | NAV  | SUA     | CC SLC-40       | ISS   | Succes         | [[/bul/066][66]]   |
+|-----+-------------+---------------+-------------------+------+---------+-----------------+-------+----------------+------|
+|  16 | 20.02 08:22 | Soyuz-2.1a    | Meridian-M9       | COM* | Rusia   | Plesetsk 43/3   | MOL   | Succes         | [[/bul/064][64]]   |
+|  15 | 19.02 21:07 | CZ-2D         | 4x XJS            | SAT  | China   | Xichang LC-3    | LEO   | Succes         | [[/bul/063][63]]   |
+|  14 | 18.02 22:18 | Ariane-5 ECA  | JCSAT-17          | COM  | Europa  | Kourou ELA-3    | GEO   | Succes         | [[/bul/063][63]]   |
+|  13 | 17.02 15:05 | Falcon-9      | 60x Starlink-4    | COM  | SUA     | CC SLC-40       | LEO   | Succes         | [[/bul/063][63]]   |
+|  12 | 14.02 20:21 | Antares-230   | Cygnus NG-13      | NAV  | SUA     | Wallops 0A      | ISS   | Succes         | [[/bul/063][63]]   |
+|  11 | 10.02 04:03 | Atlas-V 411   | Solar Orbiter     | INT  | SUA     | CC SLC-41       | INT   | Succes         | [[/bul/062][62]]   |
+|  10 | 09.02 18:45 | Simorgh       | Zafar-1           | OBS* | Iran    | Semnan          | LEO   | Eșec           | [[/bul/062][62]]   |
+|  09 | 09.02 01:34 | H-IIA 202     | IGS-Optical-7     | OBS* | Japonia | T-shima LA-Y1   | SSO   | Succes         | [[/bul/062][62]]   |
+|  08 | 06.02 21:42 | Soyuz-2.1b    | 34x OneWeb-2      | COM  | Europa  | Baikonur        | LEO   | Succes[fn:l22] | [[/bul/062][62]]   |
+|-----+-------------+---------------+-------------------+------+---------+-----------------+-------+----------------+------|
+|  07 | 31.01 02:56 | Electron      | NROL-151          | SAT* | SUA     | Mahia LC-1      | LEO   | Succes         | [[/bul/061][61]]   |
+|  06 | 28.01 14:06 | Falcon-9      | 60x Starlink-3    | COM  | SUA     | CC SLC-40       | LEO   | Succes         | [[/bul/060][60]]   |
+|  05 | 16.01 21:05 | Ariane-5 ECA  | Konnect           | COM  | Europa  | Kourou ELA-3    | GEO   | Succes         | [[/bul/059][59]]   |
+|  04 | 16.01 03:02 | Kuaizhou-1A   | Yinhe-1           | DEM  | China   | Jiuquan         | SSO   | Succes         | [[/bul/059][59]]   |
+|  03 | 15.01 02:53 | CZ-2D         | Kuanfu-1          | OBS  | China   | Taiyua LC-9     | LEO   | Succes         | [[/bul/058][58]]   |
+|  02 | 07.01 15:20 | CZ-3B         | TJSW-5            | COM* | China   | Xichang LC-2    | GTO   | Succes         | [[/bul/057][57]]   |
+|  01 | 07.01 02:19 | Falcon-9      | 60x Starlink-2    | COM  | SUA     | CC SLC-40       | LEO   | Succes         | [[/bul/057][57]]   |
 
 **** Clasament
-| Țara    | Nr. | Lansări            |
-|---------+-----+--------------------|
-| SUA     |  18 | IIIIIIIIIIIXIIIIIX |
-| China   |  18 | IIIIIXIXIIIIIIIIIX |
-| Rusia   |   5 | IIIII              |
-| Europa  |   4 | IIII               |
-| Iran    |   2 | XI                 |
-| Japonia |   2 | II                 |
-| Israel  |   1 | I                  |
-|---------+-----+--------------------|
-| *TOTAL*   |  *50* |                    |
+| Țara    | Nr. | Lansări             |
+|---------+-----+---------------------|
+| SUA     |  18 | IIIIIIIIIIIXIIIIII  |
+| China   |  19 | IIIIIXIXIIIIIIIIIIX |
+| Rusia   |   5 | IIIII               |
+| Europa  |   4 | IIII                |
+| Iran    |   2 | XI                  |
+| Japonia |   2 | II                  |
+| Israel  |   1 | I                   |
+|---------+-----+---------------------|
+| *TOTAL*   |  *51* |                     |
 
 **** Legendă tabel
 
@@ -991,7 +992,8 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 | CZ-7A            | CHN  | CNSA         |  2020 | 1xYF-100     |       |       | 7.0t  |    1 |    0 |     1 | 16.03.2020 |
 | CZ-11[fn:rc4]    | CHN  | CNSA         |  2015 | P35 (S)      | 0.7t  | 0.35t |       |    9 |    9 |     0 | 29.05.2020 |
 | Jielong-1        | CHN  | CNSA         |  2019 | (S)          | ?     | ?     |       |    1 |    1 |     0 | 17.08.2019 |
-| Kuaizhou         | CHN  | CNSA         |  2013 | (S)          | 0.3t  | 0.2t  |       |   11 |   11 |     0 | 11.05.2020 |
+| Kuaizhou-1       | CHN  | ExPace       |  2013 | (S)          | 0.3t  | 0.2t  |       |   11 |   11 |     0 | 11.05.2020 |
+| Kuaizhou-11      | CHN  | ExPace       |  2020 | (S)          | 1t    | 0.7t  |       |    1 |    0 |     1 | 10.07.2020 |
 |------------------+------+--------------+-------+--------------+-------+-------+-------+------+------+-------+------------|
 | Ariane 5         | EU   | ArianeSpace  |  1996 | 1xVulcain    | 20t   |       | 10.9t |  108 |  103 |  2(3) | 18.02.2020 |
 | Vega             | EU   | ArianeSpace  |  2012 | P80 (S)      |       | 1.45t |       |   15 |   14 |     1 | 11.07.2019 |
