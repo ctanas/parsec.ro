@@ -65,13 +65,13 @@ draft = false
 | Țara      | Nr.    | Lansări            |
 |-----------|--------|--------------------|
 | SUA       | 18     | IIIIIIIIIIIXIIIIIX |
-| China     | 18     | IIIIIXIXIIIIIIIIII |
+| China     | 18     | IIIIIXIXIIIIIIIIIX |
 | Rusia     | 5      | IIIII              |
 | Europa    | 4      | IIII               |
 | Iran      | 2      | XI                 |
 | Japonia   | 2      | II                 |
 | Israel    | 1      | I                  |
-| **TOTAL** | **40** |                    |
+| **TOTAL** | **50** |                    |
 
 
 ## Legendă tabel {#legendă-tabel}
