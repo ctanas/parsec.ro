@@ -1,6 +1,7 @@
 #+author: Claudiu
 #+hugo_base_dir: ../
 #+language: ro
+#+exports: results
 
 * Index
 :PROPERTIES:
