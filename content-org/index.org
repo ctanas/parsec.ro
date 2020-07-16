@@ -1,7 +1,6 @@
 #+author: Claudiu
 #+hugo_base_dir: ../
 #+language: ro
-#+exports: results
 
 * Index
 :PROPERTIES:
@@ -2592,7 +2591,7 @@ Marius Trusculescu, unul din membri echipei Goliat, primul satelit românesc, a 
 :EXPORT_TITLE: Test
 :END:
 
-#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb"
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
 SELECT to_char(launchDate, 'DD.MM HH24:MI') as "Data", lv_type as "Lansator", lv_prePayload as "Satelit", sat_orbitClass as "Țintă", ls_state as "Țara", lv_name as "Centru", lv_launchpad as "Rampă", lv_outcome as "Rez" 
   FROM launches
  WHERE EXTRACT(year FROM "launchdate") = 2019
