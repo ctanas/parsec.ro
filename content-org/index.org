@@ -2585,6 +2585,9 @@ Marius Trusculescu, unul din membri echipei Goliat, primul satelit românesc, a 
 :EXPORT_HUGO_SECTION: experimental
 :END:
 
+** Testing
+:EXPORT_FILE_NAME: testing
+
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb"
 SELECT to_char(launchDate, 'DD.MM HH24:MI') as "Data", lv_type as "Lansator", lv_prePayload as "Satelit", sat_orbitClass as "Țintă", ls_state as "Țara", lv_name as "Centru", lv_launchpad as "Rampă", lv_outcome as "Rez" 
   FROM launches
@@ -2696,6 +2699,7 @@ SELECT to_char(launchDate, 'DD.MM HH24:MI') as "Data", lv_type as "Lansator", lv
 | 24.12 12:03 | Proton-M/DM-3       | Elektro-L No. 1522        | GEO/D  | RU   | Baikonur    | LC81/24  | S   |
 | 26.12 23:11 | Rokot               | Gonets-M No. 24L          | LEO/I  | RU   | Plesetsk    | LC133/3  | S   |
 | 27.12 12:45 | Chang Zheng 5       | SJ-20                     | GEO/S  | CN   | WEN         | LC101    | S   |
+
 
 * Buletin Cosmic
 :PROPERTIES:
