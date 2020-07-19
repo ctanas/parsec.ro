@@ -13,7 +13,8 @@ draft = false
 | Falcon 9[^fn:2] | SUA  | SpaceX       | 2010  | 9xMerlin     | 22.8t |       | 8.3t  | 87   | 85   | 1+(1) | 30.06.2020 |
 | Falcon Heavy    | SUA  | SpaceX       | 2018  | 27xMerlin    | 63.8  |       | 26.7  | 3    | 3    | 0     | 25.06.2019 |
 | Minotaur-C      | SUA  | NGSSG        | 1994  | Castor(S)    | 1.3t  |       |       | 10   | 7    | 3     | 31.10.2017 |
-| Minotaur V      | SUA  | NGSSG        | 2013  | Castor(S)    |       |       | 0.53t | 1    | 1    | 0     | 07.09.2013 |
+| Minotaur-IV     | SUA  | NGSSG        | 2010  | SR-118 (S)   | 1.74  |       |       | 7    | 7    | 0     | 15.07.2020 |
+| Minotaur-V      | SUA  | NGSSG        | 2013  | Castor(S)    |       |       | 0.53t | 1    | 1    | 0     | 07.09.2013 |
 | LauncherOne     | SUA  | Virgin Orbit | 2020  | Newton3      |       | 0.5   |       | 1    | 0    | 1     | 25.05.2020 |
 | Soyuz-2         | RUS  | Roscosmos    | 2004  | 1xRD-108A    | 8.2t  | 4.9t  | 3.2t  | 104  | 97   | 4+(3) | 20.05.2020 |
 | Proton-M        | RUS  | Roscosmos    | 2001  | 6xRD-275M    | 23t   |       | 6.3   | 109  | 98   | 9+(2) | 24.12.2019 |

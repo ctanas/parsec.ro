@@ -6,15 +6,16 @@ draft = false
 
 ## Lansări orbitale efectuate în 2020 {#lansări-orbitale-efectuate-în-2020}
 
-| Nr. | Data        | Lansator      | Satelit          | Tip   | Țara    | Centru / Rampa  | Ținta | Rezultat      | Bul.           |
+| Nr. | Data        | Lansator      | Satelit/Misiune  | Tip   | Țara    | Centru / Rampa  | Ținta | Rezultat      | Bul.           |
 |-----|-------------|---------------|------------------|-------|---------|-----------------|-------|---------------|----------------|
-| 51  | 10.07 04:17 | Kuaizhou-11   | Gaofen-02E       | SSO   | China   | Jiuquan         | SSO   | Eșec          | 83             |
-| 50  | 09.07 12:10 | CZ-3B/E       | APStar-6D        | COM   | China   | Xichang LC-3    | GSO   | Succes        | 83             |
-| 49  | 06.07 01:00 | Shavit        | Ofek-16          | SAT\* | ISR     | Palmachim       | LEO   | Succes        | 83             |
-| 48  | 04.07 23:44 | CZ-2D         | Shiyan-6-02      | SAT   | China   | Jiuquan SLS-2   | SSO   | Succes        | 82             |
-| 47  | 04.07 21:19 | Electron      | CE-SAT-IB        | OBS   | SUA     | Mahia LC-1      | SSO   | Eșec          | 82             |
-| 46  | 03.07 03:10 | CZ-4B         | Gaofen Duomo     | OBS   | China   | Taiyuan LC-9    | SSO   | Succes        | 82             |
-| 45  | 30.06 20:10 | Falcon-9      | GPS-III-SV03     | GNS   | SUA     | CC SLC-40       | MEO   | Succes        | 82             |
+| 52  | 15.07 13:46 | Minotaur-IV   | NROL-129         | SAT\* | SUA     | Wallops 0B      | LEO   | Succes        | [83](/bul/083) |
+| 51  | 10.07 04:17 | Kuaizhou-11   | Gaofen-02E       | SSO   | China   | Jiuquan         | SSO   | Eșec          | [83](/bul/083) |
+| 50  | 09.07 12:10 | CZ-3B/E       | APStar-6D        | COM   | China   | Xichang LC-3    | GSO   | Succes        | [83](/bul/083) |
+| 49  | 06.07 01:00 | Shavit        | Ofek-16          | SAT\* | ISR     | Palmachim       | LEO   | Succes        | [83](/bul/083) |
+| 48  | 04.07 23:44 | CZ-2D         | Shiyan-6-02      | SAT   | China   | Jiuquan SLS-2   | SSO   | Succes        | [82](/bul/082) |
+| 47  | 04.07 21:19 | Electron      | CE-SAT-IB        | OBS   | SUA     | Mahia LC-1      | SSO   | Eșec          | [82](/bul/082) |
+| 46  | 03.07 03:10 | CZ-4B         | Gaofen Duomo     | OBS   | China   | Taiyuan LC-9    | SSO   | Succes        | [82](/bul/082) |
+| 45  | 30.06 20:10 | Falcon-9      | GPS-III-SV03     | GNS   | SUA     | CC SLC-40       | MEO   | Succes        | [82](/bul/082) |
 | 44  | 23.06 01:43 | CZ-3B/E       | Beidou-3         | GNS   | China   | Xichang LC-2    | GSO   | Succes        | [81](/bul/081) |
 | 43  | 17.06 07:19 | CZ-2D         | Gaofen9-03       | OBS   | China   | Jiuquan         | SSO   | Succes        | [80](/bul/080) |
 | 42  | 13.06 09:21 | Falcon-9      | 58xStarlink-8    | COM   | SUA     | CC SLC-40       | LEO   | Succes        | [80](/bul/080) |
