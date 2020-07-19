@@ -188,23 +188,25 @@ Construcția ISS a însemnat asamblare pe orbită a [modulelor componente](https
 
 *** Câți astronauți sunt acum pe orbită?
 
-În prezent sunt 6 astronauți la bordul Stației Spațiale Internaționale, parte a Expdiției 61:
+În prezent sunt 5 astronauți la bordul Stației Spațiale Internaționale, parte a Expdiției 63:
 
-| Nume              | Agn  | Sosire      |       Data | Plecare     | Data       |
-|-------------------+------+-------------+------------+-------------+------------|
-| Anatoli Ivanishin | RSA  | Soyuz MS-16 | 09.04.2020 | Soyuz MS-16 | xx.10.2020 |
-| Ivan Vagner       | RSA  | Soyuz MS-16 | 09.04.2020 | Soyuz MS-16 | xx.10.2020 |
-| Cris Cassidy      | NASA | Soyuz MS-16 | 09.04.2020 | Soyuz MS-16 | xx.10.2020 |
-|-------------------+------+-------------+------------+-------------+------------|
+| Nume              | Agn  | Sosire             |       Data | Plecare            | Data       |
+|-------------------+------+--------------------+------------+--------------------+------------|
+| Anatoli Ivanishin | RSA  | Soyuz MS-16        | 09.04.2020 | Soyuz MS-16        | xx.10.2020 |
+| Ivan Vagner       | RSA  | Soyuz MS-16        | 09.04.2020 | Soyuz MS-16        | xx.10.2020 |
+| Cris Cassidy      | NASA | Soyuz MS-16        | 09.04.2020 | Soyuz MS-16        | xx.10.2020 |
+|-------------------+------+--------------------+------------+--------------------+------------|
+| Dough Hurley      | NASA | Dragon-2 Endeavour | 31.05.2020 | Dragon-2 Endeavour | 01.08.2020 |
+| Bob Behnken       | NASA | Dragon-2 Endeavour | 31.05.2020 | Dragon-2 Endeavour | 01.08.2020 |
 
 *** Câte vehicule sunt în prezent andocate la ISS?
 
-| Vehicul        |    Lansare | Rachetă     | Port   |     Sosire | Plecare    | Recuperare |
-|----------------+------------+-------------+--------+------------+------------+------------|
-| Progress MS-13 | 06.12.2019 | Soyuz-2.1a  | Pirs   | 09.12.2019 | xx.xx.2020 | NU         |
-| Cygnus NG-13   | 15.02.2020 | Antares-230 | Unity  | 18.02.2020 | 11.05.2020 | NU         |
-| Soyuz MS-16    | 09.04.2020 | Soyuz-2.1a  | Poisk  | 09.04.2020 | xx.10.2020 | DA         |
-| Progress MS-14 | 25.04.2020 | Soyuz-2.1a  | Zvezda | 25.04.2020 | xx.10.2020 | NU         |
+| Vehicul            |    Lansare | Rachetă     | Port    |     Sosire | Plecare    | Recuperare |
+|--------------------+------------+-------------+---------+------------+------------+------------|
+| Cygnus NG-13       | 15.02.2020 | Antares-230 | Unity   | 18.02.2020 | 11.05.2020 | NU         |
+| Soyuz MS-16        | 09.04.2020 | Soyuz-2.1a  | Poisk   | 09.04.2020 | xx.10.2020 | DA         |
+| Progress MS-14     | 25.04.2020 | Soyuz-2.1a  | Zvezda  | 25.04.2020 | xx.10.2020 | NU         |
+| Dragon-2 Endeavour | 30.05.2020 | Falcon-9    | Harmony | 31.05.2020 | 01.08.2020 | DA         |
 
 *** Câți astronauți sunt de obicei la bordul ISS?
 
@@ -218,7 +220,8 @@ Da! Datorită panourilor solare de mari dimensiuni, ISS poate fi văzută cu uș
 :EXPORT_FILE_NAME: jurnal
 :END:
 
-- 08.07.2020 :: Progress MS-13 se desprinde de modulul Pirs la ora 18:22 și revine prin atmosferă la 22:05.
+- 16.07.2020 :: EVA-230 (6 ore): Cassidy și Behnken, pentru schimbarea bateriilor ISS.
+- 08.07.2020 :: Progress MS-13 se desprinde de modulul Pirs la ora 18:22 și revine prin atmosferă la 22:05;
 - 01.07.2020 :: EVA-229 (6 ore, 1 minut): Cassidy și Behnken, pentru schimbarea bateriilor ISS;
 - 26.06.2020 :: EVA-228 (6 ore, 7 minute): Cassidy și Behnken, pentru schimbarea bateriilor ISS;
 - 31.05.2020 :: Capsula Crew Dragon "Endeavour" se cuplează la modulul /Harmony/ și Bob Behnken și Doug Hurley se alătură echipajului expediției 63.

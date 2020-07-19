@@ -4,8 +4,11 @@ author = ["Claudiu"]
 draft = false
 +++
 
+16.07.2020
+: EVA-230 (6 ore): Cassidy și Behnken, pentru schimbarea bateriilor ISS.
+
 08.07.2020
-: Progress MS-13 se desprinde de modulul Pirs la ora 18:22 și revine prin atmosferă la 22:05.
+: Progress MS-13 se desprinde de modulul Pirs la ora 18:22 și revine prin atmosferă la 22:05;
 
 01.07.2020
 : EVA-229 (6 ore, 1 minut): Cassidy și Behnken, pentru schimbarea bateriilor ISS;
