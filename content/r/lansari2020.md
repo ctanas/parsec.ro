@@ -8,6 +8,7 @@ draft = false
 
 | Nr. | Data        | Lansator      | Satelit/Misiune  | Tip   | Țara    | Centru / Rampa  | Ținta | Rezultat      | Bul.           |
 |-----|-------------|---------------|------------------|-------|---------|-----------------|-------|---------------|----------------|
+| 53  | 19.07 21:58 | H-IIA         | Hope             | SAT   | Japonia | Tanegashima     | MAR   | Succes        | 84             |
 | 52  | 15.07 13:46 | Minotaur-IV   | NROL-129         | SAT\* | SUA     | Wallops 0B      | LEO   | Succes        | [83](/bul/083) |
 | 51  | 10.07 04:17 | Kuaizhou-11   | Gaofen-02E       | SSO   | China   | Jiuquan         | SSO   | Eșec          | [83](/bul/083) |
 | 50  | 09.07 12:10 | CZ-3B/E       | APStar-6D        | COM   | China   | Xichang LC-3    | GSO   | Succes        | [83](/bul/083) |
@@ -70,10 +71,10 @@ draft = false
 | China     | 19     | IIIIIXIXIIIIIIIIIIX |
 | Rusia     | 5      | IIIII               |
 | Europa    | 4      | IIII                |
+| Japonia   | 3      | III                 |
 | Iran      | 2      | XI                  |
-| Japonia   | 2      | II                  |
 | Israel    | 1      | I                   |
-| **TOTAL** | **52** |                     |
+| **TOTAL** | **53** |                     |
 
 
 ## Legendă tabel {#legendă-tabel}
