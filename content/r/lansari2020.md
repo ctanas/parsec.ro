@@ -8,6 +8,7 @@ draft = false
 
 | Nr. | Data        | Lansator      | Satelit/Misiune  | Tip   | Țara    | Centru / Rampa  | Ținta | Rezultat      | Bul.           |
 |-----|-------------|---------------|------------------|-------|---------|-----------------|-------|---------------|----------------|
+| 54  | 20.07 21:30 | Falcon-9      | Anasis-II        | COM\* | SUA     | CC SLC-40       | GTO   | Succes        | 84             |
 | 53  | 19.07 21:58 | H-IIA         | Hope             | SAT   | Japonia | Tanegashima     | MAR   | Succes        | 84             |
 | 52  | 15.07 13:46 | Minotaur-IV   | NROL-129         | SAT\* | SUA     | Wallops 0B      | LEO   | Succes        | [83](/bul/083) |
 | 51  | 10.07 04:17 | Kuaizhou-11   | Gaofen-02E       | SSO   | China   | Jiuquan         | SSO   | Eșec          | [83](/bul/083) |
@@ -65,16 +66,16 @@ draft = false
 
 ## Clasament {#clasament}
 
-| Țara      | Nr.    | Lansări             |
-|-----------|--------|---------------------|
-| SUA       | 19     | IIIIIIIIIIIXIIIIIII |
-| China     | 19     | IIIIIXIXIIIIIIIIIIX |
-| Rusia     | 5      | IIIII               |
-| Europa    | 4      | IIII                |
-| Japonia   | 3      | III                 |
-| Iran      | 2      | XI                  |
-| Israel    | 1      | I                   |
-| **TOTAL** | **53** |                     |
+| Țara      | Nr.    | Lansări              |
+|-----------|--------|----------------------|
+| SUA       | 20     | IIIIIIIIIIIXIIIIIIII |
+| China     | 19     | IIIIIXIXIIIIIIIIIIX  |
+| Rusia     | 5      | IIIII                |
+| Europa    | 4      | IIII                 |
+| Japonia   | 3      | III                  |
+| Iran      | 2      | XI                   |
+| Israel    | 1      | I                    |
+| **TOTAL** | **54** |                      |
 
 
 ## Legendă tabel {#legendă-tabel}

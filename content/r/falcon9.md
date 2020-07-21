@@ -100,6 +100,7 @@ draft = false
 | 86  | v1.2b5 | 04.06.2020 | Starlink v1.0-7     | B1049.5 | CC SLC-40  |   |   |
 | 87  | v1.2b5 | 13.06.2020 | Starlink v1.0-8     | B1059.3 | CC SLC-40  |   |   |
 | 88  | v1.2b5 | 30.06.2020 | GPS-III-SV03        | B1060.1 | CC SLC-40  |   |   |
+| 89  | v1.2b5 | 21.07.2020 | Anasis-II           | B1058.2 | CC SLC-40  |   |   |
 
 <div class="table-caption">
   <span class="table-number">Tabel 2</span>:
@@ -152,7 +153,8 @@ draft = false
 | B1056.3 | 17.12.2019 | JSCAT-18       | OCISLY        | Falcon 9   |
 | B1056.4 | 17.02.2020 | Starlink-4     | N/A[^fn:5]    | Falcon 9   |
 | B1057.1 | 25.06.2019 | STP-2          | N/A[^fn:6]    | FH centru  |
-| B1058.1 | 30.05.2020 | Dragon DM-2    | OCISLY[^fn:7] | Falcon 9   |
+| B1058.1 | 30.05.2020 | Dragon DM-2    | OCISLY        | Falcon 9   |
+| B1058.2 | 21.07.2020 | Anasis-II      | JRI           | Falcon 9   |
 | B1059.1 | 05.12.2019 | Dragon CRS-19  | OCISLY        | Falcon 9   |
 | B1059.2 | 07.03.2020 | Dragon CRS-20  | LZ-1          | Falcon 9   |
 | B1059.3 | 13.06.2020 | Starlink-8     | OCISLY        | Falcon 9   |
@@ -186,4 +188,3 @@ LZ-4
 [^fn:4]: Recuperat inițial pe barjă, dar pierdut ulterior datorită condițiilor meteo.
 [^fn:5]: Recuperarea pe barja OCISLY nu a reușit, boosterul ajungând în ocean, la câțiva zeci de metri de barjă.
 [^fn:6]: Recuperarea pe barja OCISLY nu a reușit.
-[^fn:7]: Este treapta primară care urmează să fie folosită în prima misiune cu echipaj uman a SpaceX; a efectuat primul test static în 29 august 2019.

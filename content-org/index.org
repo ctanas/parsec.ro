@@ -704,6 +704,7 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 **** Lansări orbitale efectuate în 2020
 | Nr. | Data        | Lansator      | Satelit/Misiune   | Tip  | Țara    | Centru / Rampa  | Ținta | Rezultat       | Bul. |
 |-----+-------------+---------------+-------------------+------+---------+-----------------+-------+----------------+------|
+|  54 | 20.07 21:30 | Falcon-9      | Anasis-II         | COM* | SUA     | CC SLC-40       | GTO   | Succes         | 84   |
 |  53 | 19.07 21:58 | H-IIA         | Hope              | SAT  | Japonia | Tanegashima     | MAR   | Succes         | 84   |
 |  52 | 15.07 13:46 | Minotaur-IV   | NROL-129          | SAT* | SUA     | Wallops 0B      | LEO   | Succes         | [[/bul/083][83]]   |
 |  51 | 10.07 04:17 | Kuaizhou-11   | Gaofen-02E        | SSO  | China   | Jiuquan         | SSO   | Eșec           | [[/bul/083][83]]   |
@@ -765,17 +766,17 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 |  01 | 07.01 02:19 | Falcon-9      | 60x Starlink-2    | COM  | SUA     | CC SLC-40       | LEO   | Succes         | [[/bul/057][57]]   |
 
 **** Clasament
-| Țara    | Nr. | Lansări             |
-|---------+-----+---------------------|
-| SUA     |  19 | IIIIIIIIIIIXIIIIIII |
-| China   |  19 | IIIIIXIXIIIIIIIIIIX |
-| Rusia   |   5 | IIIII               |
-| Europa  |   4 | IIII                |
-| Japonia |   3 | III                 |
-| Iran    |   2 | XI                  |
-| Israel  |   1 | I                   |
-|---------+-----+---------------------|
-| *TOTAL*   |  *53* |                     |
+| Țara    | Nr. | Lansări              |
+|---------+-----+----------------------|
+| SUA     |  20 | IIIIIIIIIIIXIIIIIIII |
+| China   |  19 | IIIIIXIXIIIIIIIIIIX  |
+| Rusia   |   5 | IIIII                |
+| Europa  |   4 | IIII                 |
+| Japonia |   3 | III                  |
+| Iran    |   2 | XI                   |
+| Israel  |   1 | I                    |
+|---------+-----+----------------------|
+| *TOTAL*   |  *54* |                      |
 
 **** Legendă tabel
 
@@ -972,7 +973,7 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 | Atlas V          | SUA  | ULA          |  2002 | 1xRD-180     | 20.5t |       | 8.9t  |   84 |   82 |   (1) | 17.05.2020 |
 | Delta IV Heavy   | SUA  | ULA          |  2004 | 1xRS-68A     | 28.7  |       | 14.2t |   10 |    9 |   (1) | 19.01.2019 |
 | Electron         | SUA  | RocketLab    |  2017 | 9xRutherford |       | 0.22t |       |   13 |   11 |     2 | 04.07.2020 |
-| Falcon 9[fn:rc2] | SUA  | SpaceX       |  2010 | 9xMerlin     | 22.8t |       | 8.3t  |   87 |   85 | 1+(1) | 30.06.2020 |
+| Falcon 9[fn:rc2] | SUA  | SpaceX       |  2010 | 9xMerlin     | 22.8t |       | 8.3t  |   89 |   87 | 1+(1) | 21.07.2020 |
 | Falcon Heavy     | SUA  | SpaceX       |  2018 | 27xMerlin    | 63.8  |       | 26.7  |    3 |    3 |     0 | 25.06.2019 |
 | Minotaur-C       | SUA  | NGSSG        |  1994 | Castor(S)    | 1.3t  |       |       |   10 |    7 |     3 | 31.10.2017 |
 | Minotaur-IV      | SUA  | NGSSG        |  2010 | SR-118 (S)   | 1.74  |       |       |    7 |    7 |     0 | 15.07.2020 |
@@ -1443,6 +1444,7 @@ Soyuz-2, folosită începând cu 2006, vine însă în două variante: Soyuz-2.1
 |  86 | v1.2b5 | 04.06.2020 | Starlink v1.0-7     | B1049.5 | CC SLC-40  |   |   |
 |  87 | v1.2b5 | 13.06.2020 | Starlink v1.0-8     | B1059.3 | CC SLC-40  |   |   |
 |  88 | v1.2b5 | 30.06.2020 | GPS-III-SV03        | B1060.1 | CC SLC-40  |   |   |
+|  89 | v1.2b5 | 21.07.2020 | Anasis-II           | B1058.2 | CC SLC-40  |   |   |
 
 
 #+CAPTION: Lista lansărilor Falcon Heavy
@@ -1500,7 +1502,8 @@ Soyuz-2, folosită începând cu 2006, vine însă în două variante: Soyuz-2.1
 |---------+------------+----------------+------------------+------------|
 | B1057.1 | 25.06.2019 | STP-2          | N/A[fn:B1057]    | FH centru  |
 |---------+------------+----------------+------------------+------------|
-| B1058.1 | 30.05.2020 | Dragon DM-2    | OCISLY[fn:B1058] | Falcon 9   |
+| B1058.1 | 30.05.2020 | Dragon DM-2    | OCISLY           | Falcon 9   |
+| B1058.2 | 21.07.2020 | Anasis-II      | JRI              | Falcon 9   |
 |---------+------------+----------------+------------------+------------|
 | B1059.1 | 05.12.2019 | Dragon CRS-19  | OCISLY           | Falcon 9   |
 | B1059.2 | 07.03.2020 | Dragon CRS-20  | LZ-1             | Falcon 9   |
@@ -1531,7 +1534,6 @@ Soyuz-2, folosită începând cu 2006, vine însă în două variante: Soyuz-2.1
 [fn:B1055] Recuperat inițial pe barjă, dar pierdut ulterior datorită condițiilor meteo.
 [fn:B1056] Recuperarea pe barja OCISLY nu a reușit, boosterul ajungând în ocean, la câțiva zeci de metri de barjă.
 [fn:B1057] Recuperarea pe barja OCISLY nu a reușit.
-[fn:B1058] Este treapta primară care urmează să fie folosită în prima misiune cu echipaj uman a SpaceX; a efectuat primul test static în 29 august 2019.
 
 ** Atlas V
 :PROPERTIES:
@@ -2728,7 +2730,7 @@ SELECT to_char(launchDate, 'DD.MM HH24:MI') as "Data", lv_type as "Lansator", lv
 :EXPORT_HUGO_SECTION: bul
 :END:
 
-** TODO Buletin Cosmic nr. 85                                      :hope:h2a:
+** TODO Buletin Cosmic nr. 85                                      :hope:h2a:falcon9:anasis:
 :PROPERTIES:
 :EXPORT_FILE_NAME: 085
 :EXPORT_DATE: 2020-07-26
@@ -2737,6 +2739,13 @@ SELECT to_char(launchDate, 'DD.MM HH24:MI') as "Data", lv_type as "Lansator", lv
 *** Lansări orbitale
 
 În noaptea de duminică spre luni, la ora 00:58 de minute ora României (20 iulie), sonda arabă *Hope* a pornit spre Marte, la bordul unei rachete japoneze *H-IIA* F42. Deși centrul spațial de la Tanegashima este în administrarea agenției spațiale japoneze JAXA, lansarea s-a făcut de către compania Mitsubishi, cea care construiește rachetele H-II pentru JAXA, ca urmare a unui contract între companie și instituții din Emiratele Arabe Unite. Sonda Hope (sau /Al-amal/) câtărește 550 de kilograme și este încărcată cu 800 de kilograme de combustibil, necesar frânării pentru înscrierea pe orbita marțiană, în februarie 2021. Legătura cu Pământul are loc cu ajutorul unei antene de 1.85 de metri și cu ajutorul rețelei americane Deep Space Network, capabile să capteze semnalele emise de sondă.
+
+---
+
+Marți noaptea, la ora 23:30 (ora României), *SpaceX* a reușit lansarea satelitului de telecomunicații *Anasis-II* pentru armata Coreei de Sud. Treapta primară *Falcon 9* B1058 folosită a fost acceași care i-a lansat în spațiu pe Bob Behnken și Doug Hurley în 30 mai și refolosirea ei după doar 51 de zile stabilește un nou record cu privire la timpul necesar pregătirii unui vehicul orbital între două lansări, record deținut până acum de naveta spațială Atlantis (54 de zile, între două misiuni din 1985). Din cele 97 de lansări SpaceX de până acum, compania lui Elon Musk a recuperat de 57 de ori treapta primară, după lansarea de astăzi aceasta revenind pe barja /Just Read the Instructions/, din Atlantic. Și, pentru prima dată, cele două jumătăți ale conului protector ale încărcăturii au fost și ele recueprate de cele două vase trimite să le intercepteze, SpaceX realizând astfel o economie de câteva milioane de dolari.
+
+#+CAPTION: Lansarea rachetei Falcon 9 cu treapta primară B1058 de pe rampa SLC-40 de la complexul spațial Cape Canaveral, Florida.
+[[/img/B1058B.jpg]]
 
 ** Buletin Cosmic nr. 84 :minotaur:orion:jwst:eva:iss:
 :PROPERTIES:
