@@ -422,7 +422,7 @@ strong {color: var(--bold-color);}
     font-family: var(--font-table);      /* Monospace font, for better data display */
     font-size: 0.875rem;          		     /* Small fonts, to fit more data */
     line-height: 1.4;          /* No need to waste much space */
-    padding: 0px 0px 0px 12px; /* Make it more readeable, leave some space between columns,*/
+    padding: 0px 0px 0px 10px; /* Make it more readeable, leave some space between columns,*/
 	}                          /* maybe there's a more elegant solution to it?*/
 
 table {
@@ -479,7 +479,7 @@ img {
 /* Making the captions prettier */
 
 figcaption {
-	font-size: 75%;
+	font-size: 85%;
 	font-family: monospace;
 	line-height: 1rem;
 	padding: 5px;
