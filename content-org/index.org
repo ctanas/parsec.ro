@@ -2614,7 +2614,7 @@ Tabele anuale cu lansăi orbitale
 :EXPORT_TITLE: Lansări orbitale 2019
 :END:
 
-Lista lansărilor orbitale din 2019. Ora afișată este în UTC. Pentru /Ținta/ orbitală, detalii sunt disponibile pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
+Lista lansărilor orbitale (și a tentativelor de lansări orbitale) din 2019. Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
 SELECT to_char(launchDate, 'DD.MM HH24:MI') as "Data", lv_type as "Lansator", lv_Payload as "Satelit", sat_orbitClass as "Țintă", ls_state as "T", lv_name as "Centru", lv_launchpad as "Rampă", lv_outcome as "R." 
@@ -2734,7 +2734,7 @@ SELECT to_char(launchDate, 'DD.MM HH24:MI') as "Data", lv_type as "Lansator", lv
 :EXPORT_TITLE: Lansări orbitale 2018
 :END:
 
-Lista lansărilor orbitale din 2018. Ora afișată este în UTC. Pentru /Ținta/ orbitală, detalii sunt disponibile pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
+Lista lansărilor orbitale (și a tentativelor de lansări orbitale) din 2019. Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
 SELECT to_char(launchDate, 'DD.MM HH24:MI') as "Data", lv_type as "Lansator", lv_Payload as "Satelit", sat_orbitClass as "Țintă", ls_state as "T", lv_name as "Centru", lv_launchpad as "Rampă", lv_outcome as "R." 
@@ -2866,7 +2866,7 @@ SELECT to_char(launchDate, 'DD.MM HH24:MI') as "Data", lv_type as "Lansator", lv
 :EXPORT_TITLE: Lansări orbitale 2017
 :END:
 
-Lista lansărilor orbitale din 2017. Ora afișată este în UTC. Pentru /Ținta/ orbitală, detalii sunt disponibile pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
+Lista lansărilor orbitale (și a tentativelor de lansări orbitale) din 2019. Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
 SELECT to_char(launchDate, 'DD.MM HH24:MI') as "Data", lv_type as "Lansator", lv_Payload as "Satelit", sat_orbitClass as "Țintă", ls_state as "T", lv_name as "Centru", lv_launchpad as "Rampă", lv_outcome as "R." 
