@@ -8,6 +8,7 @@ draft = false
 
 | Nr. | Data        | Lansator      | Satelit/Misiune  | Tip   | Țara    | Centru / Rampa  | Ținta | Rezultat      | Bul.           |
 |-----|-------------|---------------|------------------|-------|---------|-----------------|-------|---------------|----------------|
+| 55  | 23.07 04:14 | CZ-5          | Tianwen-1        | SAT   | China   | Wenchang LC1    | MAR   | Succes        | 84             |
 | 54  | 20.07 21:30 | Falcon-9      | Anasis-II        | COM\* | SUA     | CC SLC-40       | GTO   | Succes        | 84             |
 | 53  | 19.07 21:58 | H-IIA         | Hope             | SAT   | Japonia | Tanegashima     | MAR   | Succes        | 84             |
 | 52  | 15.07 13:46 | Minotaur-IV   | NROL-129         | SAT\* | SUA     | Wallops 0B      | LEO   | Succes        | [83](/bul/083) |
@@ -69,13 +70,13 @@ draft = false
 | Țara      | Nr.    | Lansări              |
 |-----------|--------|----------------------|
 | SUA       | 20     | IIIIIIIIIIIXIIIIIIII |
-| China     | 19     | IIIIIXIXIIIIIIIIIIX  |
+| China     | 20     | IIIIIXIXIIIIIIIIIIXI |
 | Rusia     | 5      | IIIII                |
 | Europa    | 4      | IIII                 |
 | Japonia   | 3      | III                  |
 | Iran      | 2      | XI                   |
 | Israel    | 1      | I                    |
-| **TOTAL** | **54** |                      |
+| **TOTAL** | **55** |                      |
 
 
 ## Legendă tabel {#legendă-tabel}

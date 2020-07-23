@@ -704,6 +704,7 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 **** Lansări orbitale efectuate în 2020
 | Nr. | Data        | Lansator      | Satelit/Misiune   | Tip  | Țara    | Centru / Rampa  | Ținta | Rezultat       | Bul. |
 |-----+-------------+---------------+-------------------+------+---------+-----------------+-------+----------------+------|
+|  55 | 23.07 04:14 | CZ-5          | Tianwen-1         | SAT  | China   | Wenchang LC1    | MAR   | Succes         | 84   |
 |  54 | 20.07 21:30 | Falcon-9      | Anasis-II         | COM* | SUA     | CC SLC-40       | GTO   | Succes         | 84   |
 |  53 | 19.07 21:58 | H-IIA         | Hope              | SAT  | Japonia | Tanegashima     | MAR   | Succes         | 84   |
 |  52 | 15.07 13:46 | Minotaur-IV   | NROL-129          | SAT* | SUA     | Wallops 0B      | LEO   | Succes         | [[/bul/083][83]]   |
@@ -769,14 +770,14 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 | Țara    | Nr. | Lansări              |
 |---------+-----+----------------------|
 | SUA     |  20 | IIIIIIIIIIIXIIIIIIII |
-| China   |  19 | IIIIIXIXIIIIIIIIIIX  |
+| China   |  20 | IIIIIXIXIIIIIIIIIIXI |
 | Rusia   |   5 | IIIII                |
 | Europa  |   4 | IIII                 |
 | Japonia |   3 | III                  |
 | Iran    |   2 | XI                   |
 | Israel  |   1 | I                    |
 |---------+-----+----------------------|
-| *TOTAL*   |  *54* |                      |
+| *TOTAL*   |  *55* |                      |
 
 **** Legendă tabel
 
@@ -993,7 +994,7 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 | CZ-3C            | CHN  | CNSA         |  2008 | 4xYF-21C     |       |       | 3.9t  |   17 |   17 |     0 | 17.05.2019 |
 | CZ-4B            | CHN  | CNSA         |  1999 | 4xYF-21C     | 4.2t  | 2.8t  | 1.5t  |   36 |   35 |     1 | 03.07.2020 |
 | CZ-4C            | CHN  | CNSA         |  2006 | 4xYF-21C     | 4.2t  | 2.8t  | 1.5t  |   28 |   26 |     2 | 27.11.2019 |
-| CZ-5             | CHN  | CNSA         |  2016 | 2xYF-100     |       |       | 14t   |    3 |    2 |     1 | 27.12.2019 |
+| CZ-5             | CHN  | CNSA         |  2016 | 2xYF-100     |       |       | 14t   |    4 |    3 |     1 | 23.07.2019 |
 | CZ-5B            | CHN  | CNSA         |  2020 | 2xYF-100     | 25t   |       |       |    1 |    1 |     0 | 05.05.2020 |
 | CZ-6             | CHN  | CNSA         |  2015 | 1xYF-100     |       | 1t    |       |    3 |    3 |     1 | 13.11.2019 |
 | CZ-7             | CHN  | CNSA         |  2016 | 2xYF-100     | 13.5t |       | 5.5t  |    2 |    2 |     0 | 20.04.2017 |
