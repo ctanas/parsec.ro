@@ -16,7 +16,7 @@ draft = false
 | Minotaur-IV     | SUA  | NGSSG        | 2010  | SR-118 (S)   | 1.74  |       |       | 7    | 7    | 0     | 15.07.2020 |
 | Minotaur-V      | SUA  | NGSSG        | 2013  | Castor(S)    |       |       | 0.53t | 1    | 1    | 0     | 07.09.2013 |
 | LauncherOne     | SUA  | Virgin Orbit | 2020  | Newton3      |       | 0.5   |       | 1    | 0    | 1     | 25.05.2020 |
-| Soyuz-2         | RUS  | Roscosmos    | 2004  | 1xRD-108A    | 8.2t  | 4.9t  | 3.2t  | 104  | 97   | 4+(3) | 20.05.2020 |
+| Soyuz-2         | RUS  | Roscosmos    | 2004  | 1xRD-108A    | 8.2t  | 4.9t  | 3.2t  | 105  | 98   | 4+(3) | 23.07.2020 |
 | Proton-M        | RUS  | Roscosmos    | 2001  | 6xRD-275M    | 23t   |       | 6.3   | 109  | 98   | 9+(2) | 24.12.2019 |
 | Rockot          | RUS  | Roscosmos    | 1994  | 3xRD-0233    | 1.9t  | 1.2t  |       | 34   | 31   | 2+(1) | 27.12.2019 |
 | Angara          | RUS  | Roscosmos    | 2014  | 1xRD-191     | 3.8t  |       | 5.4t  | 2    | 2    | 0     | 23.12.2014 |

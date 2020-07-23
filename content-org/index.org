@@ -704,6 +704,7 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 **** Lansări orbitale efectuate în 2020
 | Nr. | Data        | Lansator      | Satelit/Misiune   | Tip  | Țara    | Centru / Rampa  | Ținta | Rezultat       | Bul. |
 |-----+-------------+---------------+-------------------+------+---------+-----------------+-------+----------------+------|
+|  56 | 23.07 14:26 | Soyuz-2.1a    | Progress MS-15    | NAV  | Rusia   | Baikonur 31/6   | ISS   | Succes         | 84   |
 |  55 | 23.07 04:14 | CZ-5          | Tianwen-1         | SAT  | China   | Wenchang LC1    | MAR   | Succes         | 84   |
 |  54 | 20.07 21:30 | Falcon-9      | Anasis-II         | COM* | SUA     | CC SLC-40       | GTO   | Succes         | 84   |
 |  53 | 19.07 21:58 | H-IIA         | Hope              | SAT  | Japonia | Tanegashima     | MAR   | Succes         | 84   |
@@ -771,13 +772,13 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 |---------+-----+----------------------|
 | SUA     |  20 | IIIIIIIIIIIXIIIIIIII |
 | China   |  20 | IIIIIXIXIIIIIIIIIIXI |
-| Rusia   |   5 | IIIII                |
+| Rusia   |   6 | IIIIII               |
 | Europa  |   4 | IIII                 |
 | Japonia |   3 | III                  |
 | Iran    |   2 | XI                   |
 | Israel  |   1 | I                    |
 |---------+-----+----------------------|
-| *TOTAL*   |  *55* |                      |
+| *TOTAL*   |  *56* |                      |
 
 **** Legendă tabel
 
@@ -981,7 +982,7 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 | Minotaur-V       | SUA  | NGSSG        |  2013 | Castor(S)    |       |       | 0.53t |    1 |    1 |     0 | 07.09.2013 |
 | LauncherOne      | SUA  | Virgin Orbit |  2020 | Newton3      |       | 0.5   |       |    1 |    0 |     1 | 25.05.2020 |
 |------------------+------+--------------+-------+--------------+-------+-------+-------+------+------+-------+------------|
-| Soyuz-2          | RUS  | Roscosmos    |  2004 | 1xRD-108A    | 8.2t  | 4.9t  | 3.2t  |  104 |   97 | 4+(3) | 20.05.2020 |
+| Soyuz-2          | RUS  | Roscosmos    |  2004 | 1xRD-108A    | 8.2t  | 4.9t  | 3.2t  |  105 |   98 | 4+(3) | 23.07.2020 |
 | Proton-M         | RUS  | Roscosmos    |  2001 | 6xRD-275M    | 23t   |       | 6.3   |  109 |   98 | 9+(2) | 24.12.2019 |
 | Rockot           | RUS  | Roscosmos    |  1994 | 3xRD-0233    | 1.9t  | 1.2t  |       |   34 |   31 | 2+(1) | 27.12.2019 |
 | Angara           | RUS  | Roscosmos    |  2014 | 1xRD-191     | 3.8t  |       | 5.4t  |    2 |    2 |     0 | 23.12.2014 |
@@ -1226,6 +1227,7 @@ Soyuz-2.1a poate lansa cel mult 7 tone pe orbită terestră joasă sau 2.8 tone 
 | 102 | 08.04.2020 | Soyuz 2.1a        | Soyuz MS-16             |     ~7.2 | TB 31/6 | ISS          |
 | 103 | 15.04.2020 | Soyuz 2.1a        | Progress MS-14          |     ~7.2 | TB 31/6 | ISS          |
 | 104 | 22.05.2020 | Soyuz 2.1b/Fregat | Tundra-4                |          | PL 43/3 | MOL          |
+| 105 | 23.07.2020 | Soyuz 2.1a        | Progress MS-14          |     ~7.2 | PL 31/6 | ISS          |
 |-----+------------+-------------------+-------------------------+----------+---------+--------------|
 
 - EEO :: Orbită eliptică

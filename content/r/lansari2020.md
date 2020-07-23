@@ -8,6 +8,7 @@ draft = false
 
 | Nr. | Data        | Lansator      | Satelit/Misiune  | Tip   | Țara    | Centru / Rampa  | Ținta | Rezultat      | Bul.           |
 |-----|-------------|---------------|------------------|-------|---------|-----------------|-------|---------------|----------------|
+| 56  | 23.07 14:26 | Soyuz-2.1a    | Progress MS-15   | NAV   | Rusia   | Baikonur 31/6   | ISS   | Succes        | 84             |
 | 55  | 23.07 04:14 | CZ-5          | Tianwen-1        | SAT   | China   | Wenchang LC1    | MAR   | Succes        | 84             |
 | 54  | 20.07 21:30 | Falcon-9      | Anasis-II        | COM\* | SUA     | CC SLC-40       | GTO   | Succes        | 84             |
 | 53  | 19.07 21:58 | H-IIA         | Hope             | SAT   | Japonia | Tanegashima     | MAR   | Succes        | 84             |
@@ -71,12 +72,12 @@ draft = false
 |-----------|--------|----------------------|
 | SUA       | 20     | IIIIIIIIIIIXIIIIIIII |
 | China     | 20     | IIIIIXIXIIIIIIIIIIXI |
-| Rusia     | 5      | IIIII                |
+| Rusia     | 6      | IIIIII               |
 | Europa    | 4      | IIII                 |
 | Japonia   | 3      | III                  |
 | Iran      | 2      | XI                   |
 | Israel    | 1      | I                    |
-| **TOTAL** | **55** |                      |
+| **TOTAL** | **56** |                      |
 
 
 ## Legendă tabel {#legendă-tabel}
