@@ -2606,8 +2606,8 @@ Marius Trusculescu, unul din membri echipei Goliat, primul satelit românesc, a 
 Scopul acestei secțiuni este afișarea lansărilor (și a tentativelor de lansări) orbitale dintr-un an într-un tabel cât mai concis. Datele primare sunt preluate de pe [[https://planet4589.org/space/][site-ul lui Jonathan C. McDowell]] (cu permisiunea autorului), procesate cu un [[https://github.com/ctanas/lvsat_py2sql][script]], ușor alterate pentru a le face mai concise și salvate într-o bază de date (PostreSQL), de unde sunt preluate de Emacs la generarea conținutului site-ului.
 
 Tabele anuale cu lansări orbitale:
-- 2020 | [[/t/l2019][2019]] | [[/t/l2018][2018]] | [[/t/l2017][2017]] | [[/t/2016][2016]] | [[/t/2015][2015]] | [[/t/2014][2014]] | [[/t/2013][2013]] | [[/t/2012][2012]] | [[/t/2011][2011]]
-- [[/t/2010][2010]] | [[/t/2009][2009]] | [[/t/2008][2008]] | [[/t/2007][2007]] | [[/t/2006][2006]] | [[/t/2005][2005]] | [[/t/2004][2004]] | [[/t/2003][2003]] | [[/t/2002][2002]] | [[/t/2001][2001]]
+- 2020 | [[/t/l2019][2019]] | [[/t/l2018][2018]] | [[/t/l2017][2017]] | [[/t/l2016][2016]] | [[/t/l2015][2015]] | [[/t/l2014][2014]] | [[/t/l2013][2013]] | [[/t/l2012][2012]] | [[/t/l2011][2011]]
+- [[/t/l2010][2010]] | [[/t/l2009][2009]] | [[/t/l2008][2008]] | [[/t/l2007][2007]] | [[/t/l2006][2006]] | [[/t/l2005][2005]] | [[/t/l2004][2004]] | [[/t/l2003][2003]] | [[/t/l2002][2002]] | [[/t/l2001][2001]]
 - [[/t/l2000][2000]] | [[/t/l1999][1999]] | [[/t/l1998][1998]] | [[/t/l1997][1997]] | [[/t/l1996][1996]] | [[/t/l1995][1995]] | [[/t/l1994][1994]] | [[/t/l1993][1993]] | [[/t/l1992][1992]] | [[/t/l1991][1991]]
 - [[/t/l1990][1990]] | [[/t/l1989][1989]] | [[/t/l1988][1988]] | [[/t/l1987][1987]] | [[/t/l1986][1986]] | [[/t/l1985][1985]] | [[/t/l1984][1984]] | [[/t/l1983][1983]] | [[/t/l1982][1982]] | [[/t/l1981][1981]]
 - [[/t/l1980][1980]] | [[/t/l1979][1979]] | [[/t/l1978][1978]] | [[/t/l1977][1977]] | [[/t/l1976][1976]] | [[/t/l1975][1975]] | [[/t/l1974][1974]] | [[/t/l1973][1973]] | [[/t/l1972][1972]] | [[/t/l1971][1971]]
