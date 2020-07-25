@@ -2605,13 +2605,345 @@ Marius Trusculescu, unul din membri echipei Goliat, primul satelit românesc, a 
 
 Scopul acestei secțiuni este afișarea lansărilor (și a tentativelor de lansări) orbitale dintr-un an într-un tabel cât mai concis. Datele primare sunt preluate de pe [[https://planet4589.org/space/][site-ul lui Jonathan C. McDowell]] (cu permisiunea autorului), procesate cu un [[https://github.com/ctanas/lvsat_py2sql][script]], ușor alterate pentru a le face mai concise și salvate într-o bază de date (PostreSQL), de unde sunt preluate de Emacs la generarea conținutului site-ului.
 
+#+name: nol2020
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb -t" :results value verbatim :exports none
+SELECT COUNT(*) FROM launches WHERE EXTRACT (year FROM "launchdate") = 2020
+#+end_src
+
+#+name: nol2019
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb -t" :results value verbatim :exports none
+SELECT COUNT(*) FROM launches WHERE EXTRACT (year FROM "launchdate") = 2019
+#+end_src
+
+#+name: nol2018
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb -t" :results value verbatim :exports none
+SELECT COUNT(*) FROM launches WHERE EXTRACT (year FROM "launchdate") = 2018
+#+end_src
+
+#+name: nol2017
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb -t" :results value verbatim :exports none
+SELECT COUNT(*) FROM launches WHERE EXTRACT (year FROM "launchdate") = 2017
+#+end_src
+
+#+name: nol2016
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb -t" :results value verbatim :exports none
+SELECT COUNT(*) FROM launches WHERE EXTRACT (year FROM "launchdate") = 2016
+#+end_src
+
+#+name: nol2015
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb -t" :results value verbatim :exports none
+SELECT COUNT(*) FROM launches WHERE EXTRACT (year FROM "launchdate") = 2015
+#+end_src
+
+#+name: nol2014
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb -t" :results value verbatim :exports none
+SELECT COUNT(*) FROM launches WHERE EXTRACT (year FROM "launchdate") = 2014
+#+end_src
+
+#+name: nol2013
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb -t" :results value verbatim :exports none
+SELECT COUNT(*) FROM launches WHERE EXTRACT (year FROM "launchdate") = 2013
+#+end_src
+
+#+name: nol2012
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb -t" :results value verbatim :exports none
+SELECT COUNT(*) FROM launches WHERE EXTRACT (year FROM "launchdate") = 2012
+#+end_src
+
+#+name: nol2011
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb -t" :results value verbatim :exports none
+SELECT COUNT(*) FROM launches WHERE EXTRACT (year FROM "launchdate") = 2011
+#+end_src
+
+#+name: nol2010
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb -t" :results value verbatim :exports none
+SELECT COUNT(*) FROM launches WHERE EXTRACT (year FROM "launchdate") = 2010
+#+end_src
+
+#+name: nol2009
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb -t" :results value verbatim :exports none
+SELECT COUNT(*) FROM launches WHERE EXTRACT (year FROM "launchdate") = 2009
+#+end_src
+
+#+name: nol2008
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb -t" :results value verbatim :exports none
+SELECT COUNT(*) FROM launches WHERE EXTRACT (year FROM "launchdate") = 2008
+#+end_src
+
+#+name: nol2007
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb -t" :results value verbatim :exports none
+SELECT COUNT(*) FROM launches WHERE EXTRACT (year FROM "launchdate") = 2007
+#+end_src
+
+#+name: nol2006
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb -t" :results value verbatim :exports none
+SELECT COUNT(*) FROM launches WHERE EXTRACT (year FROM "launchdate") = 2006
+#+end_src
+
+#+name: nol2005
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb -t" :results value verbatim :exports none
+SELECT COUNT(*) FROM launches WHERE EXTRACT (year FROM "launchdate") = 2005
+#+end_src
+
+#+name: nol2004
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb -t" :results value verbatim :exports none
+SELECT COUNT(*) FROM launches WHERE EXTRACT (year FROM "launchdate") = 2004
+#+end_src
+
+#+name: nol2003
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb -t" :results value verbatim :exports none
+SELECT COUNT(*) FROM launches WHERE EXTRACT (year FROM "launchdate") = 2003
+#+end_src
+
+#+name: nol2002
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb -t" :results value verbatim :exports none
+SELECT COUNT(*) FROM launches WHERE EXTRACT (year FROM "launchdate") = 2002
+#+end_src
+
+#+name: nol2001
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb -t" :results value verbatim :exports none
+SELECT COUNT(*) FROM launches WHERE EXTRACT (year FROM "launchdate") = 2001
+#+end_src
+
+#+name: nol2000
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb -t" :results value verbatim :exports none
+SELECT COUNT(*) FROM launches WHERE EXTRACT (year FROM "launchdate") = 2000
+#+end_src
+
+#+name: nol1999
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb -t" :results value verbatim :exports none
+SELECT COUNT(*) FROM launches WHERE EXTRACT (year FROM "launchdate") = 1999
+#+end_src
+
+#+name: nol1998
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb -t" :results value verbatim :exports none
+SELECT COUNT(*) FROM launches WHERE EXTRACT (year FROM "launchdate") = 1998
+#+end_src
+
+#+name: nol1997
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb -t" :results value verbatim :exports none
+SELECT COUNT(*) FROM launches WHERE EXTRACT (year FROM "launchdate") = 1997
+#+end_src
+
+#+name: nol1996
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb -t" :results value verbatim :exports none
+SELECT COUNT(*) FROM launches WHERE EXTRACT (year FROM "launchdate") = 1996
+#+end_src
+
+#+name: nof2020
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb -t" :results value verbatim :exports none
+SELECT COUNT(*)
+FROM launches 
+WHERE lv_outcome in ('F') AND EXTRACT (year FROM "launchdate") = 2020
+GROUP BY lv_outcome
+#+end_src
+
+#+name: nof2019
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb -t" :results value verbatim :exports none
+SELECT COUNT(*)
+FROM launches 
+WHERE lv_outcome in ('F') AND EXTRACT (year FROM "launchdate") = 2019
+GROUP BY lv_outcome
+#+end_src
+
+#+name: nof2018
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb -t" :results value verbatim :exports none
+SELECT COUNT(*)
+FROM launches 
+WHERE lv_outcome in ('F') AND EXTRACT (year FROM "launchdate") = 2018
+GROUP BY lv_outcome
+#+end_src
+
+#+name: nof2017
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb -t" :results value verbatim :exports none
+SELECT COUNT(*)
+FROM launches 
+WHERE lv_outcome in ('F') AND EXTRACT (year FROM "launchdate") = 2017
+GROUP BY lv_outcome
+#+end_src
+
+#+name: nof2016
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb -t" :results value verbatim :exports none
+SELECT COUNT(*)
+FROM launches 
+WHERE lv_outcome in ('F') AND EXTRACT (year FROM "launchdate") = 2016
+GROUP BY lv_outcome
+#+end_src
+
+#+name: nof2015
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb -t" :results value verbatim :exports none
+SELECT COUNT(*)
+FROM launches 
+WHERE lv_outcome in ('F') AND EXTRACT (year FROM "launchdate") = 2015
+GROUP BY lv_outcome
+#+end_src
+
+#+name: nof2014
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb -t" :results value verbatim :exports none
+SELECT COUNT(*)
+FROM launches 
+WHERE lv_outcome in ('F') AND EXTRACT (year FROM "launchdate") = 2014
+GROUP BY lv_outcome
+#+end_src
+
+#+name: nof2013
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb -t" :results value verbatim :exports none
+SELECT COUNT(*)
+FROM launches 
+WHERE lv_outcome in ('F') AND EXTRACT (year FROM "launchdate") = 2013
+GROUP BY lv_outcome
+#+end_src
+
+#+name: nof2012
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb -t" :results value verbatim :exports none
+SELECT COUNT(*)
+FROM launches 
+WHERE lv_outcome in ('F') AND EXTRACT (year FROM "launchdate") = 2012
+GROUP BY lv_outcome
+#+end_src
+
+#+name: nof2011
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb -t" :results value verbatim :exports none
+SELECT COUNT(*)
+FROM launches 
+WHERE lv_outcome in ('F') AND EXTRACT (year FROM "launchdate") = 2011
+GROUP BY lv_outcome
+#+end_src
+
+#+name: nof2010
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb -t" :results value verbatim :exports none
+SELECT COUNT(*)
+FROM launches 
+WHERE lv_outcome in ('F') AND EXTRACT (year FROM "launchdate") = 2010
+GROUP BY lv_outcome
+#+end_src
+
+#+name: nof2009
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb -t" :results value verbatim :exports none
+SELECT COUNT(*)
+FROM launches 
+WHERE lv_outcome in ('F') AND EXTRACT (year FROM "launchdate") = 2009
+GROUP BY lv_outcome
+#+end_src
+
+#+name: nof2008
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb -t" :results value verbatim :exports none
+SELECT COUNT(*)
+FROM launches 
+WHERE lv_outcome in ('F') AND EXTRACT (year FROM "launchdate") = 2008
+GROUP BY lv_outcome
+#+end_src
+
+#+name: nof2007
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb -t" :results value verbatim :exports none
+SELECT COUNT(*)
+FROM launches 
+WHERE lv_outcome in ('F') AND EXTRACT (year FROM "launchdate") = 2007
+GROUP BY lv_outcome
+#+end_src
+
+#+name: nof2006
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb -t" :results value verbatim :exports none
+SELECT COUNT(*)
+FROM launches 
+WHERE lv_outcome in ('F') AND EXTRACT (year FROM "launchdate") = 2006
+GROUP BY lv_outcome
+#+end_src
+
+#+name: nof2005
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb -t" :results value verbatim :exports none
+SELECT COUNT(*)
+FROM launches 
+WHERE lv_outcome in ('F') AND EXTRACT (year FROM "launchdate") = 2005
+GROUP BY lv_outcome
+#+end_src
+
+#+name: nof2004
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb -t" :results value verbatim :exports none
+SELECT COUNT(*)
+FROM launches 
+WHERE lv_outcome in ('F') AND EXTRACT (year FROM "launchdate") = 2004
+GROUP BY lv_outcome
+#+end_src
+
+#+name: nof2003
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb -t" :results value verbatim :exports none
+SELECT COUNT(*)
+FROM launches 
+WHERE lv_outcome in ('F') AND EXTRACT (year FROM "launchdate") = 2003
+GROUP BY lv_outcome
+#+end_src
+
+#+name: nof2002
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb -t" :results value verbatim :exports none
+SELECT COUNT(*)
+FROM launches 
+WHERE lv_outcome in ('F') AND EXTRACT (year FROM "launchdate") = 2002
+GROUP BY lv_outcome
+#+end_src
+
+#+name: nof2001
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb -t" :results value verbatim :exports none
+SELECT COUNT(*)
+FROM launches 
+WHERE lv_outcome in ('F') AND EXTRACT (year FROM "launchdate") = 2001
+GROUP BY lv_outcome
+#+end_src
+
+#+name: nof2000
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb -t" :results value verbatim :exports none
+SELECT COUNT(*)
+FROM launches 
+WHERE lv_outcome in ('F') AND EXTRACT (year FROM "launchdate") = 2000
+GROUP BY lv_outcome
+#+end_src
+
+#+name: nof1999
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb -t" :results value verbatim :exports none
+SELECT COUNT(*)
+FROM launches 
+WHERE lv_outcome in ('F') AND EXTRACT (year FROM "launchdate") = 1999
+GROUP BY lv_outcome
+#+end_src
+
+#+name: nof1998
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb -t" :results value verbatim :exports none
+SELECT COUNT(*)
+FROM launches 
+WHERE lv_outcome in ('F') AND EXTRACT (year FROM "launchdate") = 1998
+GROUP BY lv_outcome
+#+end_src
+
+#+name: nof1997
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb -t" :results value verbatim :exports none
+SELECT COUNT(*)
+FROM launches 
+WHERE lv_outcome in ('F') AND EXTRACT (year FROM "launchdate") = 1997
+GROUP BY lv_outcome
+#+end_src
+
+#+name: nof1996
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb -t" :results value verbatim :exports none
+SELECT COUNT(*)
+FROM launches 
+WHERE lv_outcome in ('F') AND EXTRACT (year FROM "launchdate") = 1996
+GROUP BY lv_outcome
+#+end_src
+
 Tabele anuale cu lansări orbitale:
-- 2020 | [[/t/l2019][2019]] | [[/t/l2018][2018]] | [[/t/l2017][2017]] | [[/t/l2016][2016]] | [[/t/l2015][2015]] | [[/t/l2014][2014]] | [[/t/l2013][2013]] | [[/t/l2012][2012]] | [[/t/l2011][2011]]
-- [[/t/l2010][2010]] | [[/t/l2009][2009]] | [[/t/l2008][2008]] | [[/t/l2007][2007]] | [[/t/l2006][2006]] | [[/t/l2005][2005]] | [[/t/l2004][2004]] | [[/t/l2003][2003]] | [[/t/l2002][2002]] | [[/t/l2001][2001]]
-- [[/t/l2000][2000]] | [[/t/l1999][1999]] | [[/t/l1998][1998]] | [[/t/l1997][1997]] | [[/t/l1996][1996]] | [[/t/l1995][1995]] | [[/t/l1994][1994]] | [[/t/l1993][1993]] | [[/t/l1992][1992]] | [[/t/l1991][1991]]
-- [[/t/l1990][1990]] | [[/t/l1989][1989]] | [[/t/l1988][1988]] | [[/t/l1987][1987]] | [[/t/l1986][1986]] | [[/t/l1985][1985]] | [[/t/l1984][1984]] | [[/t/l1983][1983]] | [[/t/l1982][1982]] | [[/t/l1981][1981]]
-- [[/t/l1980][1980]] | [[/t/l1979][1979]] | [[/t/l1978][1978]] | [[/t/l1977][1977]] | [[/t/l1976][1976]] | [[/t/l1975][1975]] | [[/t/l1974][1974]] | [[/t/l1973][1973]] | [[/t/l1972][1972]] | [[/t/l1971][1971]]
-- [[/t/l1970][1970]] | [[/t/l1969][1969]] | [[/t/l1968][1968]] | [[/t/l1967][1967]] | [[/t/l1966][1966]] | [[/t/l1965][1965]] | [[/t/l1964][1964]] | [[/t/l1963][1963]] | [[/t/l1962][1962]] | [[/t/l1961][1961]]
+
+- 2020 --call_nol2020() | [[/t/l2019][2019]] --call_nol2019() | [[/t/l2018][2018]] --call_nol2018() | [[/t/l2017][2017]] --call_nol2017() | [[/t/l2016][2016]] --call_nol2016() 
+- [[/t/l2015][2015]] --call_nol2015() | [[/t/l2014][2014]] --call_nol2014() | [[/t/l2013][2013]] --call_nol2013() | [[/t/l2012][2012]] --call_nol2012() | [[/t/l2011][2011]] --call_nol2011() 
+- [[/t/l2010][2010]] --call_nol2010() | [[/t/l2009][2009]] --call_nol2009() | [[/t/l2008][2008]] --call_nol2008() | [[/t/l2007][2007]] --call_nol2007() | [[/t/l2006][2006]] --call_nol2006()
+- [[/t/l2005][2005]] --call_nol2005() | [[/t/l2004][2004]] --call_nol2004() | [[/t/l2003][2003]] --call_nol2003() | [[/t/l2002][2002]] --call_nol2002() | [[/t/l2001][2001]] --call_nol2001()
+- [[/t/l2000][2000]] --call_nol2000() | [[/t/l1999][1999]] --call_nol1999() | [[/t/l1998][1998]] --call_nol1998() | [[/t/l1997][1997]] --call_nol1997() | [[/t/l1996][1996]] --call_nol1996()
+- [[/t/l1995][1995]] | [[/t/l1994][1994]] | [[/t/l1993][1993]] | [[/t/l1992][1992]] | [[/t/l1991][1991]]
+- [[/t/l1990][1990]] | [[/t/l1989][1989]] | [[/t/l1988][1988]] | [[/t/l1987][1987]] | [[/t/l1986][1986]] 
+- [[/t/l1985][1985]] | [[/t/l1984][1984]] | [[/t/l1983][1983]] | [[/t/l1982][1982]] | [[/t/l1981][1981]]
+- [[/t/l1980][1980]] | [[/t/l1979][1979]] | [[/t/l1978][1978]] | [[/t/l1977][1977]] | [[/t/l1976][1976]]
+- [[/t/l1975][1975]] | [[/t/l1974][1974]] | [[/t/l1973][1973]] | [[/t/l1972][1972]] | [[/t/l1971][1971]]
+- [[/t/l1970][1970]] | [[/t/l1969][1969]] | [[/t/l1968][1968]] | [[/t/l1967][1967]] | [[/t/l1966][1966]]
+- [[/t/l1965][1965]] | [[/t/l1964][1964]] | [[/t/l1963][1963]] | [[/t/l1962][1962]] | [[/t/l1961][1961]]
 - [[/t/l1960][1960]] | [[/t/l1959][1959]] | [[/t/l1959][1958]] | [[/t/l1957][1957]]
 
 ** Lansări 2019
@@ -2620,7 +2952,17 @@ Tabele anuale cu lansări orbitale:
 :EXPORT_TITLE: Lansări orbitale 2019
 :END:
 
-Lista lansărilor orbitale (și a tentativelor de lansări orbitale) din 2019. Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
+Lista numărului de tentative de lansări orbitale din 2019, în funcție de statele care au efectuat tentativa:
+
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
+SELECT ls_state AS "Țara", COUNT(*) AS "Nr." 
+FROM launches 
+WHERE EXTRACT (year FROM "launchdate") = 2019
+GROUP BY ls_state
+ORDER BY COUNT(*) DESC
+#+end_src
+
+Lista celor call_nol2019() tentative de lansări orbitale din 2019 (din care call_nof2019() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
 SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD.MM HH24:MI') AS "Data", lv_type AS "Lansator", lv_Payload AS "Satelit", sat_orbitClass AS "Țintă", ls_state AS "T", lv_name AS "Centru", lv_launchpad AS "Rampă", lv_outcome AS "R." 
@@ -2634,7 +2976,17 @@ SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD
 :EXPORT_TITLE: Lansări orbitale 2018
 :END:
 
-Lista lansărilor orbitale (și a tentativelor de lansări orbitale) din 2018. Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
+Lista numărului de tentative de lansări orbitale din 2018, în funcție de statele care au efectuat tentativa:
+
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
+SELECT ls_state AS "Țara", COUNT(*) AS "Nr." 
+FROM launches 
+WHERE EXTRACT (year FROM "launchdate") = 2018
+GROUP BY ls_state
+ORDER BY COUNT(*) DESC
+#+end_src
+
+Lista celor call_nol2018() tentative de lansări orbitale din 2018 (din care call_nof2018() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
 SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD.MM HH24:MI') AS "Data", lv_type AS "Lansator", lv_Payload AS "Satelit", sat_orbitClass AS "Țintă", ls_state AS "T", lv_name AS "Centru", lv_launchpad AS "Rampă", lv_outcome AS "R." 
@@ -2648,7 +3000,17 @@ SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD
 :EXPORT_TITLE: Lansări orbitale 2017
 :END:
 
-Lista lansărilor orbitale (și a tentativelor de lansări orbitale) din 2017. Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
+Lista numărului de tentative de lansări orbitale din 2017, în funcție de statele care au efectuat tentativa:
+
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
+SELECT ls_state AS "Țara", COUNT(*) AS "Nr." 
+FROM launches 
+WHERE EXTRACT (year FROM "launchdate") = 2017
+GROUP BY ls_state
+ORDER BY COUNT(*) DESC
+#+end_src
+
+Lista celor call_nol2017() tentative de lansări orbitale din 2017 (din care call_nof2017() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
 SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD.MM HH24:MI') AS "Data", lv_type AS "Lansator", lv_Payload AS "Satelit", sat_orbitClass AS "Țintă", ls_state AS "T", lv_name AS "Centru", lv_launchpad AS "Rampă", lv_outcome AS "R." 
@@ -2662,7 +3024,17 @@ SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD
 :EXPORT_TITLE: Lansări orbitale 2016
 :END:
 
-Lista lansărilor orbitale (și a tentativelor de lansări orbitale) din 2016. Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
+Lista numărului de tentative de lansări orbitale din 2016, în funcție de statele care au efectuat tentativa:
+
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
+SELECT ls_state AS "Țara", COUNT(*) AS "Nr." 
+FROM launches 
+WHERE EXTRACT (year FROM "launchdate") = 2016
+GROUP BY ls_state
+ORDER BY COUNT(*) DESC
+#+end_src
+
+Lista celor call_nol2016() tentative de lansări orbitale din 2016 (din care call_nof2016() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
 SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD.MM HH24:MI') AS "Data", lv_type AS "Lansator", lv_Payload AS "Satelit", sat_orbitClass AS "Țintă", ls_state AS "T", lv_name AS "Centru", lv_launchpad AS "Rampă", lv_outcome AS "R." 
