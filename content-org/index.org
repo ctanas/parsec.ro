@@ -2603,7 +2603,31 @@ Marius Trusculescu, unul din membri echipei Goliat, primul satelit românesc, a 
 :EXPORT_TITLE: Secțiunea experimentală (teste)
 :END:
 
-Scopul acestei secțiuni este afișarea lansărilor (și a tentativelor de lansări) orbitale dintr-un an într-un tabel cât mai concis. Datele primare sunt preluate de pe [[https://planet4589.org/space/][site-ul lui Jonathan C. McDowell]] (cu permisiunea autorului), procesate cu un [[https://github.com/ctanas/lvsat_py2sql][script]], ușor alterate pentru a le face mai concise și salvate într-o bază de date (PostreSQL), de unde sunt preluate de Emacs la generarea conținutului site-ului.
+Scopul acestei secțiuni este afișarea lansărilor (și a tentativelor de lansări) orbitale din fiecare an, într-un tabel cât mai concis. Datele primare sunt preluate de pe [[https://planet4589.org/space/][site-ul lui Jonathan C. McDowell]] (cu permisiunea autorului), procesate cu un [[https://github.com/ctanas/lvsat_py2sql][script]], ușor alterate, pentru a le face mai concise, și salvate într-o bază de date (PostreSQL), de unde sunt preluate de Emacs la generarea conținutului site-ului.
+
+#+name: noltotal
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb -t" :results value verbatim :exports none
+SELECT COUNT(*) FROM launches
+#+end_src
+
+#+name: noftotal
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb -t" :results value verbatim :exports none
+SELECT COUNT(*)
+FROM launches 
+WHERE lv_outcome in ('F')
+GROUP BY lv_outcome
+#+end_src
+
+#+name: noototal
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb -t" :results value verbatim :exports none
+SELECT COUNT(*)
+FROM launches 
+WHERE lv_outcome in ('S')
+GROUP BY lv_outcome
+#+end_src
+
+Din 1957 și până în prezent, au avut loc call_noltotal() tentative de lansări orbitale: call_noototal() au fost lansări care s-au încheiat cu succes (încărcătura primară a ajuns pe orbită), în timp ce call_noftotal() lansări s-au încheiat cu un eșec.
+
 
 #+name: nol2020
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb -t" :results value verbatim :exports none
@@ -2729,6 +2753,202 @@ SELECT COUNT(*) FROM launches WHERE EXTRACT (year FROM "launchdate") = 1997
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb -t" :results value verbatim :exports none
 SELECT COUNT(*) FROM launches WHERE EXTRACT (year FROM "launchdate") = 1996
 #+end_src
+
+#+name: nol1995
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb -t" :results value verbatim :exports none
+SELECT COUNT(*) FROM launches WHERE EXTRACT (year FROM "launchdate") = 1995
+#+end_src
+
+#+name: nol1994
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb -t" :results value verbatim :exports none
+SELECT COUNT(*) FROM launches WHERE EXTRACT (year FROM "launchdate") = 1994
+#+end_src
+
+#+name: nol1993
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb -t" :results value verbatim :exports none
+SELECT COUNT(*) FROM launches WHERE EXTRACT (year FROM "launchdate") = 1993
+#+end_src
+
+#+name: nol1992
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb -t" :results value verbatim :exports none
+SELECT COUNT(*) FROM launches WHERE EXTRACT (year FROM "launchdate") = 1992
+#+end_src
+
+#+name: nol1991
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb -t" :results value verbatim :exports none
+SELECT COUNT(*) FROM launches WHERE EXTRACT (year FROM "launchdate") = 1991
+#+end_src
+
+#+name: nol1990
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb -t" :results value verbatim :exports none
+SELECT COUNT(*) FROM launches WHERE EXTRACT (year FROM "launchdate") = 1990
+#+end_src
+
+#+name: nol1989
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb -t" :results value verbatim :exports none
+SELECT COUNT(*) FROM launches WHERE EXTRACT (year FROM "launchdate") = 1989
+#+end_src
+
+#+name: nol1988
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb -t" :results value verbatim :exports none
+SELECT COUNT(*) FROM launches WHERE EXTRACT (year FROM "launchdate") = 1988
+#+end_src
+
+#+name: nol1987
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb -t" :results value verbatim :exports none
+SELECT COUNT(*) FROM launches WHERE EXTRACT (year FROM "launchdate") = 1987
+#+end_src
+
+#+name: nol1986
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb -t" :results value verbatim :exports none
+SELECT COUNT(*) FROM launches WHERE EXTRACT (year FROM "launchdate") = 1986
+#+end_src
+
+#+name: nol1985
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb -t" :results value verbatim :exports none
+SELECT COUNT(*) FROM launches WHERE EXTRACT (year FROM "launchdate") = 1985
+#+end_src
+
+#+name: nol1984
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb -t" :results value verbatim :exports none
+SELECT COUNT(*) FROM launches WHERE EXTRACT (year FROM "launchdate") = 1984
+#+end_src
+
+#+name: nol1983
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb -t" :results value verbatim :exports none
+SELECT COUNT(*) FROM launches WHERE EXTRACT (year FROM "launchdate") = 1983
+#+end_src
+
+#+name: nol1982
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb -t" :results value verbatim :exports none
+SELECT COUNT(*) FROM launches WHERE EXTRACT (year FROM "launchdate") = 1982
+#+end_src
+
+#+name: nol1981
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb -t" :results value verbatim :exports none
+SELECT COUNT(*) FROM launches WHERE EXTRACT (year FROM "launchdate") = 1981
+#+end_src
+
+#+name: nol1980
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb -t" :results value verbatim :exports none
+SELECT COUNT(*) FROM launches WHERE EXTRACT (year FROM "launchdate") = 1980
+#+end_src
+
+#+name: nol1979
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb -t" :results value verbatim :exports none
+SELECT COUNT(*) FROM launches WHERE EXTRACT (year FROM "launchdate") = 1979
+#+end_src
+
+#+name: nol1978
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb -t" :results value verbatim :exports none
+SELECT COUNT(*) FROM launches WHERE EXTRACT (year FROM "launchdate") = 1978
+#+end_src
+
+#+name: nol1977
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb -t" :results value verbatim :exports none
+SELECT COUNT(*) FROM launches WHERE EXTRACT (year FROM "launchdate") = 1977
+#+end_src
+
+#+name: nol1976
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb -t" :results value verbatim :exports none
+SELECT COUNT(*) FROM launches WHERE EXTRACT (year FROM "launchdate") = 1976
+#+end_src
+
+#+name: nol1975
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb -t" :results value verbatim :exports none
+SELECT COUNT(*) FROM launches WHERE EXTRACT (year FROM "launchdate") = 1975
+#+end_src
+
+#+name: nol1974
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb -t" :results value verbatim :exports none
+SELECT COUNT(*) FROM launches WHERE EXTRACT (year FROM "launchdate") = 1974
+#+end_src
+
+#+name: nol1973
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb -t" :results value verbatim :exports none
+SELECT COUNT(*) FROM launches WHERE EXTRACT (year FROM "launchdate") = 1973
+#+end_src
+
+#+name: nol1972
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb -t" :results value verbatim :exports none
+SELECT COUNT(*) FROM launches WHERE EXTRACT (year FROM "launchdate") = 1972
+#+end_src
+
+#+name: nol1971
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb -t" :results value verbatim :exports none
+SELECT COUNT(*) FROM launches WHERE EXTRACT (year FROM "launchdate") = 1971
+#+end_src
+
+#+name: nol1970
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb -t" :results value verbatim :exports none
+SELECT COUNT(*) FROM launches WHERE EXTRACT (year FROM "launchdate") = 1970
+#+end_src
+
+#+name: nol1969
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb -t" :results value verbatim :exports none
+SELECT COUNT(*) FROM launches WHERE EXTRACT (year FROM "launchdate") = 1969
+#+end_src
+
+#+name: nol1968
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb -t" :results value verbatim :exports none
+SELECT COUNT(*) FROM launches WHERE EXTRACT (year FROM "launchdate") = 1968
+#+end_src
+
+#+name: nol1967
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb -t" :results value verbatim :exports none
+SELECT COUNT(*) FROM launches WHERE EXTRACT (year FROM "launchdate") = 1967
+#+end_src
+
+#+name: nol1966
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb -t" :results value verbatim :exports none
+SELECT COUNT(*) FROM launches WHERE EXTRACT (year FROM "launchdate") = 1966
+#+end_src
+
+#+name: nol1965
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb -t" :results value verbatim :exports none
+SELECT COUNT(*) FROM launches WHERE EXTRACT (year FROM "launchdate") = 1965
+#+end_src
+
+#+name: nol1964
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb -t" :results value verbatim :exports none
+SELECT COUNT(*) FROM launches WHERE EXTRACT (year FROM "launchdate") = 1964
+#+end_src
+
+#+name: nol1963
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb -t" :results value verbatim :exports none
+SELECT COUNT(*) FROM launches WHERE EXTRACT (year FROM "launchdate") = 1963
+#+end_src
+
+#+name: nol1962
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb -t" :results value verbatim :exports none
+SELECT COUNT(*) FROM launches WHERE EXTRACT (year FROM "launchdate") = 1962
+#+end_src
+
+#+name: nol1961
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb -t" :results value verbatim :exports none
+SELECT COUNT(*) FROM launches WHERE EXTRACT (year FROM "launchdate") = 1961
+#+end_src
+
+#+name: nol1960
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb -t" :results value verbatim :exports none
+SELECT COUNT(*) FROM launches WHERE EXTRACT (year FROM "launchdate") = 1960
+#+end_src
+
+#+name: nol1959
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb -t" :results value verbatim :exports none
+SELECT COUNT(*) FROM launches WHERE EXTRACT (year FROM "launchdate") = 1959
+#+end_src
+
+#+name: nol1958
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb -t" :results value verbatim :exports none
+SELECT COUNT(*) FROM launches WHERE EXTRACT (year FROM "launchdate") = 1958
+#+end_src
+
+#+name: nol1957
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb -t" :results value verbatim :exports none
+SELECT COUNT(*) FROM launches WHERE EXTRACT (year FROM "launchdate") = 1957
+#+end_src
+
 
 #+name: nof2020
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb -t" :results value verbatim :exports none
@@ -2930,6 +3150,318 @@ WHERE lv_outcome in ('F') AND EXTRACT (year FROM "launchdate") = 1996
 GROUP BY lv_outcome
 #+end_src
 
+#+name: nof1995
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb -t" :results value verbatim :exports none
+SELECT COUNT(*)
+FROM launches 
+WHERE lv_outcome in ('F') AND EXTRACT (year FROM "launchdate") = 1995
+GROUP BY lv_outcome
+#+end_src
+
+#+name: nof1994
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb -t" :results value verbatim :exports none
+SELECT COUNT(*)
+FROM launches 
+WHERE lv_outcome in ('F') AND EXTRACT (year FROM "launchdate") = 1994
+GROUP BY lv_outcome
+#+end_src
+
+#+name: nof1993
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb -t" :results value verbatim :exports none
+SELECT COUNT(*)
+FROM launches 
+WHERE lv_outcome in ('F') AND EXTRACT (year FROM "launchdate") = 1993
+GROUP BY lv_outcome
+#+end_src
+
+#+name: nof1992
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb -t" :results value verbatim :exports none
+SELECT COUNT(*)
+FROM launches 
+WHERE lv_outcome in ('F') AND EXTRACT (year FROM "launchdate") = 1992
+GROUP BY lv_outcome
+#+end_src
+
+#+name: nof1991
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb -t" :results value verbatim :exports none
+SELECT COUNT(*)
+FROM launches 
+WHERE lv_outcome in ('F') AND EXTRACT (year FROM "launchdate") = 1991
+GROUP BY lv_outcome
+#+end_src
+
+#+name: nof1990
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb -t" :results value verbatim :exports none
+SELECT COUNT(*)
+FROM launches 
+WHERE lv_outcome in ('F') AND EXTRACT (year FROM "launchdate") = 1990
+GROUP BY lv_outcome
+#+end_src
+
+#+name: nof1989
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb -t" :results value verbatim :exports none
+SELECT COUNT(*)
+FROM launches 
+WHERE lv_outcome in ('F') AND EXTRACT (year FROM "launchdate") = 1989
+GROUP BY lv_outcome
+#+end_src
+
+#+name: nof1988
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb -t" :results value verbatim :exports none
+SELECT COUNT(*)
+FROM launches 
+WHERE lv_outcome in ('F') AND EXTRACT (year FROM "launchdate") = 1988
+GROUP BY lv_outcome
+#+end_src
+
+#+name: nof1987
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb -t" :results value verbatim :exports none
+SELECT COUNT(*)
+FROM launches 
+WHERE lv_outcome in ('F') AND EXTRACT (year FROM "launchdate") = 1987
+GROUP BY lv_outcome
+#+end_src
+
+#+name: nof1986
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb -t" :results value verbatim :exports none
+SELECT COUNT(*)
+FROM launches 
+WHERE lv_outcome in ('F') AND EXTRACT (year FROM "launchdate") = 1986
+GROUP BY lv_outcome
+#+end_src
+
+#+name: nof1985
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb -t" :results value verbatim :exports none
+SELECT COUNT(*)
+FROM launches 
+WHERE lv_outcome in ('F') AND EXTRACT (year FROM "launchdate") = 1985
+GROUP BY lv_outcome
+#+end_src
+
+#+name: nof1984
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb -t" :results value verbatim :exports none
+SELECT COUNT(*)
+FROM launches 
+WHERE lv_outcome in ('F') AND EXTRACT (year FROM "launchdate") = 1984
+GROUP BY lv_outcome
+#+end_src
+
+#+name: nof1983
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb -t" :results value verbatim :exports none
+SELECT COUNT(*)
+FROM launches 
+WHERE lv_outcome in ('F') AND EXTRACT (year FROM "launchdate") = 1983
+GROUP BY lv_outcome
+#+end_src
+
+#+name: nof1982
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb -t" :results value verbatim :exports none
+SELECT COUNT(*)
+FROM launches 
+WHERE lv_outcome in ('F') AND EXTRACT (year FROM "launchdate") = 1982
+GROUP BY lv_outcome
+#+end_src
+
+#+name: nof1981
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb -t" :results value verbatim :exports none
+SELECT COUNT(*)
+FROM launches 
+WHERE lv_outcome in ('F') AND EXTRACT (year FROM "launchdate") = 1981
+GROUP BY lv_outcome
+#+end_src
+
+#+name: nof1980
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb -t" :results value verbatim :exports none
+SELECT COUNT(*)
+FROM launches 
+WHERE lv_outcome in ('F') AND EXTRACT (year FROM "launchdate") = 1980
+GROUP BY lv_outcome
+#+end_src
+
+#+name: nof1979
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb -t" :results value verbatim :exports none
+SELECT COUNT(*)
+FROM launches 
+WHERE lv_outcome in ('F') AND EXTRACT (year FROM "launchdate") = 1979
+GROUP BY lv_outcome
+#+end_src
+
+#+name: nof1978
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb -t" :results value verbatim :exports none
+SELECT COUNT(*)
+FROM launches 
+WHERE lv_outcome in ('F') AND EXTRACT (year FROM "launchdate") = 1978
+GROUP BY lv_outcome
+#+end_src
+
+#+name: nof1977
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb -t" :results value verbatim :exports none
+SELECT COUNT(*)
+FROM launches 
+WHERE lv_outcome in ('F') AND EXTRACT (year FROM "launchdate") = 1977
+GROUP BY lv_outcome
+#+end_src
+
+#+name: nof1976
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb -t" :results value verbatim :exports none
+SELECT COUNT(*)
+FROM launches 
+WHERE lv_outcome in ('F') AND EXTRACT (year FROM "launchdate") = 1976
+GROUP BY lv_outcome
+#+end_src
+
+#+name: nof1975
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb -t" :results value verbatim :exports none
+SELECT COUNT(*)
+FROM launches 
+WHERE lv_outcome in ('F') AND EXTRACT (year FROM "launchdate") = 1975
+GROUP BY lv_outcome
+#+end_src
+
+#+name: nof1974
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb -t" :results value verbatim :exports none
+SELECT COUNT(*)
+FROM launches 
+WHERE lv_outcome in ('F') AND EXTRACT (year FROM "launchdate") = 1974
+GROUP BY lv_outcome
+#+end_src
+
+#+name: nof1973
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb -t" :results value verbatim :exports none
+SELECT COUNT(*)
+FROM launches 
+WHERE lv_outcome in ('F') AND EXTRACT (year FROM "launchdate") = 1973
+GROUP BY lv_outcome
+#+end_src
+
+#+name: nof1972
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb -t" :results value verbatim :exports none
+SELECT COUNT(*)
+FROM launches 
+WHERE lv_outcome in ('F') AND EXTRACT (year FROM "launchdate") = 1972
+GROUP BY lv_outcome
+#+end_src
+
+#+name: nof1971
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb -t" :results value verbatim :exports none
+SELECT COUNT(*)
+FROM launches 
+WHERE lv_outcome in ('F') AND EXTRACT (year FROM "launchdate") = 1971
+GROUP BY lv_outcome
+#+end_src
+
+#+name: nof1970
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb -t" :results value verbatim :exports none
+SELECT COUNT(*)
+FROM launches 
+WHERE lv_outcome in ('F') AND EXTRACT (year FROM "launchdate") = 1970
+GROUP BY lv_outcome
+#+end_src
+
+#+name: nof1969
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb -t" :results value verbatim :exports none
+SELECT COUNT(*)
+FROM launches 
+WHERE lv_outcome in ('F') AND EXTRACT (year FROM "launchdate") = 1969
+GROUP BY lv_outcome
+#+end_src
+
+#+name: nof1968
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb -t" :results value verbatim :exports none
+SELECT COUNT(*)
+FROM launches 
+WHERE lv_outcome in ('F') AND EXTRACT (year FROM "launchdate") = 1968
+GROUP BY lv_outcome
+#+end_src
+
+#+name: nof1967
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb -t" :results value verbatim :exports none
+SELECT COUNT(*)
+FROM launches 
+WHERE lv_outcome in ('F') AND EXTRACT (year FROM "launchdate") = 1967
+GROUP BY lv_outcome
+#+end_src
+
+#+name: nof1966
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb -t" :results value verbatim :exports none
+SELECT COUNT(*)
+FROM launches 
+WHERE lv_outcome in ('F') AND EXTRACT (year FROM "launchdate") = 1966
+GROUP BY lv_outcome
+#+end_src
+
+#+name: nof1965
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb -t" :results value verbatim :exports none
+SELECT COUNT(*)
+FROM launches 
+WHERE lv_outcome in ('F') AND EXTRACT (year FROM "launchdate") = 1965
+GROUP BY lv_outcome
+#+end_src
+
+#+name: nof1964
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb -t" :results value verbatim :exports none
+SELECT COUNT(*)
+FROM launches 
+WHERE lv_outcome in ('F') AND EXTRACT (year FROM "launchdate") = 1964
+GROUP BY lv_outcome
+#+end_src
+
+#+name: nof1963
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb -t" :results value verbatim :exports none
+SELECT COUNT(*)
+FROM launches 
+WHERE lv_outcome in ('F') AND EXTRACT (year FROM "launchdate") = 1963
+GROUP BY lv_outcome
+#+end_src
+
+#+name: nof1962
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb -t" :results value verbatim :exports none
+SELECT COUNT(*)
+FROM launches 
+WHERE lv_outcome in ('F') AND EXTRACT (year FROM "launchdate") = 1962
+GROUP BY lv_outcome
+#+end_src
+
+#+name: nof1961
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb -t" :results value verbatim :exports none
+SELECT COUNT(*)
+FROM launches 
+WHERE lv_outcome in ('F') AND EXTRACT (year FROM "launchdate") = 1961
+GROUP BY lv_outcome
+#+end_src
+
+#+name: nof1960
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb -t" :results value verbatim :exports none
+SELECT COUNT(*)
+FROM launches 
+WHERE lv_outcome in ('F') AND EXTRACT (year FROM "launchdate") = 1960
+GROUP BY lv_outcome
+#+end_src
+
+#+name: nof1959
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb -t" :results value verbatim :exports none
+SELECT COUNT(*)
+FROM launches 
+WHERE lv_outcome in ('F') AND EXTRACT (year FROM "launchdate") = 1959
+GROUP BY lv_outcome
+#+end_src
+
+#+name: nof1958
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb -t" :results value verbatim :exports none
+SELECT COUNT(*)
+FROM launches 
+WHERE lv_outcome in ('F') AND EXTRACT (year FROM "launchdate") = 1958
+GROUP BY lv_outcome
+#+end_src
+
+#+name: nof1957
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb -t" :results value verbatim :exports none
+SELECT COUNT(*)
+FROM launches 
+WHERE lv_outcome in ('F') AND EXTRACT (year FROM "launchdate") = 1957
+GROUP BY lv_outcome
+#+end_src
+
 Tabele anuale cu lansări orbitale:
 
 - 2020 --call_nol2020() | [[/t/l2019][2019]] --call_nol2019() | [[/t/l2018][2018]] --call_nol2018() | [[/t/l2017][2017]] --call_nol2017() | [[/t/l2016][2016]] --call_nol2016() 
@@ -2937,14 +3469,23 @@ Tabele anuale cu lansări orbitale:
 - [[/t/l2010][2010]] --call_nol2010() | [[/t/l2009][2009]] --call_nol2009() | [[/t/l2008][2008]] --call_nol2008() | [[/t/l2007][2007]] --call_nol2007() | [[/t/l2006][2006]] --call_nol2006()
 - [[/t/l2005][2005]] --call_nol2005() | [[/t/l2004][2004]] --call_nol2004() | [[/t/l2003][2003]] --call_nol2003() | [[/t/l2002][2002]] --call_nol2002() | [[/t/l2001][2001]] --call_nol2001()
 - [[/t/l2000][2000]] --call_nol2000() | [[/t/l1999][1999]] --call_nol1999() | [[/t/l1998][1998]] --call_nol1998() | [[/t/l1997][1997]] --call_nol1997() | [[/t/l1996][1996]] --call_nol1996()
-- [[/t/l1995][1995]] | [[/t/l1994][1994]] | [[/t/l1993][1993]] | [[/t/l1992][1992]] | [[/t/l1991][1991]]
-- [[/t/l1990][1990]] | [[/t/l1989][1989]] | [[/t/l1988][1988]] | [[/t/l1987][1987]] | [[/t/l1986][1986]] 
-- [[/t/l1985][1985]] | [[/t/l1984][1984]] | [[/t/l1983][1983]] | [[/t/l1982][1982]] | [[/t/l1981][1981]]
-- [[/t/l1980][1980]] | [[/t/l1979][1979]] | [[/t/l1978][1978]] | [[/t/l1977][1977]] | [[/t/l1976][1976]]
-- [[/t/l1975][1975]] | [[/t/l1974][1974]] | [[/t/l1973][1973]] | [[/t/l1972][1972]] | [[/t/l1971][1971]]
-- [[/t/l1970][1970]] | [[/t/l1969][1969]] | [[/t/l1968][1968]] | [[/t/l1967][1967]] | [[/t/l1966][1966]]
-- [[/t/l1965][1965]] | [[/t/l1964][1964]] | [[/t/l1963][1963]] | [[/t/l1962][1962]] | [[/t/l1961][1961]]
-- [[/t/l1960][1960]] | [[/t/l1959][1959]] | [[/t/l1959][1958]] | [[/t/l1957][1957]]
+- [[/t/l1995][1995]] --call_nol1995() | [[/t/l1994][1994]] --call_nol1994() | [[/t/l1993][1993]] --call_nol1993() | [[/t/l1992][1992]] --call_nol1992() | [[/t/l1991][1991]] --call_nol1991()
+- [[/t/l1990][1990]] --call_nol1990() | [[/t/l1989][1989]] --call_nol1989() | [[/t/l1988][1988]] --call_nol1988() | [[/t/l1987][1987]] --call_nol1987() | [[/t/l1986][1986]] --call_nol1986()
+- [[/t/l1985][1985]] --call_nol1985() | [[/t/l1984][1984]] --call_nol1984() | [[/t/l1983][1983]] --call_nol1983() | [[/t/l1982][1982]] --call_nol1982() | [[/t/l1981][1981]] --call_nol1981()
+- [[/t/l1980][1980]] --call_nol1980() | [[/t/l1979][1979]] --call_nol1979() | [[/t/l1978][1978]] --call_nol1978() | [[/t/l1977][1977]] --call_nol1977() | [[/t/l1976][1976]] --call_nol1976()
+- [[/t/l1975][1975]] --call_nol1975() | [[/t/l1974][1974]] --call_nol1974() | [[/t/l1973][1973]] --call_nol1973() | [[/t/l1972][1972]] --call_nol1972() | [[/t/l1971][1971]] --call_nol1971()
+- [[/t/l1970][1970]] --call_nol1970() | [[/t/l1969][1969]] --call_nol1969() | [[/t/l1968][1968]] --call_nol1968() | [[/t/l1967][1967]] --call_nol1967() | [[/t/l1966][1966]] --call_nol1966()
+- [[/t/l1965][1965]] --call_nol1991() | [[/t/l1964][1964]] --call_nol1991() | [[/t/l1963][1963]] --call_nol1991() | [[/t/l1962][1962]] --call_nol1991() | [[/t/l1961][1961]] --call_nol1991()
+- [[/t/l1960][1960]] --call_nol1960() | [[/t/l1959][1959]] --call_nol1959() | [[/t/l1959][1958]] --call_nol1958() | [[/t/l1957][1957]] --call_nol1957()
+
+Un clasament general al statelor care au avut tentative de lansări orbitale arată astfel:
+
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
+SELECT ls_state AS "Țara", COUNT(*) AS "Nr." 
+FROM launches
+GROUP BY ls_state
+ORDER BY COUNT(*) DESC
+#+end_src
 
 ** Lansări 2019
 :PROPERTIES:
@@ -2952,7 +3493,7 @@ Tabele anuale cu lansări orbitale:
 :EXPORT_TITLE: Lansări orbitale 2019
 :END:
 
-Lista numărului de tentative de lansări orbitale din 2019, în funcție de statele care au efectuat tentativa:
+Lista numărului de tentative de lansări orbitale din 2019, în funcție de statele care au efectuat tentativa (URSS este considerată un stat separat față de Rusia, iar lansările Arianespace sunt catalogate drept lansări Europene, indiferent de locul de unde decolează racheta):
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
 SELECT ls_state AS "Țara", COUNT(*) AS "Nr." 
@@ -3048,7 +3589,17 @@ SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD
 :EXPORT_TITLE: Lansări orbitale 2015
 :END:
 
-Lista lansărilor orbitale (și a tentativelor de lansări orbitale) din 2015. Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
+Lista numărului de tentative de lansări orbitale din 2015, în funcție de statele care au efectuat tentativa:
+
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
+SELECT ls_state AS "Țara", COUNT(*) AS "Nr." 
+FROM launches 
+WHERE EXTRACT (year FROM "launchdate") = 2015
+GROUP BY ls_state
+ORDER BY COUNT(*) DESC
+#+end_src
+
+Lista celor call_nol2015() tentative de lansări orbitale din 2015 (din care call_nof2015() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
 SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD.MM HH24:MI') AS "Data", lv_type AS "Lansator", lv_Payload AS "Satelit", sat_orbitClass AS "Țintă", ls_state AS "T", lv_name AS "Centru", lv_launchpad AS "Rampă", lv_outcome AS "R." 
@@ -3062,7 +3613,17 @@ SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD
 :EXPORT_TITLE: Lansări orbitale 2014
 :END:
 
-Lista lansărilor orbitale (și a tentativelor de lansări orbitale) din 2014. Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
+Lista numărului de tentative de lansări orbitale din 2014, în funcție de statele care au efectuat tentativa:
+
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
+SELECT ls_state AS "Țara", COUNT(*) AS "Nr." 
+FROM launches 
+WHERE EXTRACT (year FROM "launchdate") = 2014
+GROUP BY ls_state
+ORDER BY COUNT(*) DESC
+#+end_src
+
+Lista celor call_nol2014() tentative de lansări orbitale din 2014 (din care call_nof2014() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
 SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD.MM HH24:MI') AS "Data", lv_type AS "Lansator", lv_Payload AS "Satelit", sat_orbitClass AS "Țintă", ls_state AS "T", lv_name AS "Centru", lv_launchpad AS "Rampă", lv_outcome AS "R." 
@@ -3076,7 +3637,17 @@ SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD
 :EXPORT_TITLE: Lansări orbitale 2013
 :END:
 
-Lista lansărilor orbitale (și a tentativelor de lansări orbitale) din 2013. Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
+Lista numărului de tentative de lansări orbitale din 2013, în funcție de statele care au efectuat tentativa:
+
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
+SELECT ls_state AS "Țara", COUNT(*) AS "Nr." 
+FROM launches 
+WHERE EXTRACT (year FROM "launchdate") = 2013
+GROUP BY ls_state
+ORDER BY COUNT(*) DESC
+#+end_src
+
+Lista celor call_nol2013() tentative de lansări orbitale din 2013 (din care call_nof2013() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
 SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD.MM HH24:MI') AS "Data", lv_type AS "Lansator", lv_Payload AS "Satelit", sat_orbitClass AS "Țintă", ls_state AS "T", lv_name AS "Centru", lv_launchpad AS "Rampă", lv_outcome AS "R." 
@@ -3090,7 +3661,17 @@ SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD
 :EXPORT_TITLE: Lansări orbitale 2012
 :END:
 
-Lista lansărilor orbitale (și a tentativelor de lansări orbitale) din 2012. Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
+Lista numărului de tentative de lansări orbitale din 2012, în funcție de statele care au efectuat tentativa:
+
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
+SELECT ls_state AS "Țara", COUNT(*) AS "Nr." 
+FROM launches 
+WHERE EXTRACT (year FROM "launchdate") = 2012
+GROUP BY ls_state
+ORDER BY COUNT(*) DESC
+#+end_src
+
+Lista celor call_nol2012() tentative de lansări orbitale din 2012 (din care call_nof2012() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
 SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD.MM HH24:MI') AS "Data", lv_type AS "Lansator", lv_Payload AS "Satelit", sat_orbitClass AS "Țintă", ls_state AS "T", lv_name AS "Centru", lv_launchpad AS "Rampă", lv_outcome AS "R." 
@@ -3104,7 +3685,17 @@ SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD
 :EXPORT_TITLE: Lansări orbitale 2011
 :END:
 
-Lista lansărilor orbitale (și a tentativelor de lansări orbitale) din 2011. Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
+Lista numărului de tentative de lansări orbitale din 2011, în funcție de statele care au efectuat tentativa:
+
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
+SELECT ls_state AS "Țara", COUNT(*) AS "Nr." 
+FROM launches 
+WHERE EXTRACT (year FROM "launchdate") = 2011
+GROUP BY ls_state
+ORDER BY COUNT(*) DESC
+#+end_src
+
+Lista celor call_nol2011() tentative de lansări orbitale din 2011 (din care call_nof2011() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
 SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD.MM HH24:MI') AS "Data", lv_type AS "Lansator", lv_Payload AS "Satelit", sat_orbitClass AS "Țintă", ls_state AS "T", lv_name AS "Centru", lv_launchpad AS "Rampă", lv_outcome AS "R." 
@@ -3118,7 +3709,17 @@ SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD
 :EXPORT_TITLE: Lansări orbitale 2010
 :END:
 
-Lista lansărilor orbitale (și a tentativelor de lansări orbitale) din 2010. Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
+Lista numărului de tentative de lansări orbitale din 2010, în funcție de statele care au efectuat tentativa:
+
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
+SELECT ls_state AS "Țara", COUNT(*) AS "Nr." 
+FROM launches 
+WHERE EXTRACT (year FROM "launchdate") = 2010
+GROUP BY ls_state
+ORDER BY COUNT(*) DESC
+#+end_src
+
+Lista celor call_nol2010() tentative de lansări orbitale din 2010 (din care call_nof2010() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
 SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD.MM HH24:MI') AS "Data", lv_type AS "Lansator", lv_Payload AS "Satelit", sat_orbitClass AS "Țintă", ls_state AS "T", lv_name AS "Centru", lv_launchpad AS "Rampă", lv_outcome AS "R." 
@@ -3132,7 +3733,17 @@ SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD
 :EXPORT_TITLE: Lansări orbitale 2009
 :END:
 
-Lista lansărilor orbitale (și a tentativelor de lansări orbitale) din 2009. Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
+Lista numărului de tentative de lansări orbitale din 2009, în funcție de statele care au efectuat tentativa:
+
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
+SELECT ls_state AS "Țara", COUNT(*) AS "Nr." 
+FROM launches 
+WHERE EXTRACT (year FROM "launchdate") = 2009
+GROUP BY ls_state
+ORDER BY COUNT(*) DESC
+#+end_src
+
+Lista celor call_nol2009() tentative de lansări orbitale din 2009 (din care call_nof2009() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
 SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD.MM HH24:MI') AS "Data", lv_type AS "Lansator", lv_Payload AS "Satelit", sat_orbitClass AS "Țintă", ls_state AS "T", lv_name AS "Centru", lv_launchpad AS "Rampă", lv_outcome AS "R." 
@@ -3146,7 +3757,17 @@ SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD
 :EXPORT_TITLE: Lansări orbitale 2008
 :END:
 
-Lista lansărilor orbitale (și a tentativelor de lansări orbitale) din 2008. Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
+Lista numărului de tentative de lansări orbitale din 2008, în funcție de statele care au efectuat tentativa:
+
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
+SELECT ls_state AS "Țara", COUNT(*) AS "Nr." 
+FROM launches 
+WHERE EXTRACT (year FROM "launchdate") = 2008
+GROUP BY ls_state
+ORDER BY COUNT(*) DESC
+#+end_src
+
+Lista celor call_nol2008() tentative de lansări orbitale din 2008 (din care call_nof2008() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
 SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD.MM HH24:MI') AS "Data", lv_type AS "Lansator", lv_Payload AS "Satelit", sat_orbitClass AS "Țintă", ls_state AS "T", lv_name AS "Centru", lv_launchpad AS "Rampă", lv_outcome AS "R." 
@@ -3160,7 +3781,17 @@ SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD
 :EXPORT_TITLE: Lansări orbitale 2007
 :END:
 
-Lista lansărilor orbitale (și a tentativelor de lansări orbitale) din 2007. Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
+Lista numărului de tentative de lansări orbitale din 2007, în funcție de statele care au efectuat tentativa:
+
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
+SELECT ls_state AS "Țara", COUNT(*) AS "Nr." 
+FROM launches 
+WHERE EXTRACT (year FROM "launchdate") = 2007
+GROUP BY ls_state
+ORDER BY COUNT(*) DESC
+#+end_src
+
+Lista celor call_nol2007() tentative de lansări orbitale din 2007 (din care call_nof2007() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
 SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD.MM HH24:MI') AS "Data", lv_type AS "Lansator", lv_Payload AS "Satelit", sat_orbitClass AS "Țintă", ls_state AS "T", lv_name AS "Centru", lv_launchpad AS "Rampă", lv_outcome AS "R." 
@@ -3174,7 +3805,17 @@ SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD
 :EXPORT_TITLE: Lansări orbitale 2006
 :END:
 
-Lista lansărilor orbitale (și a tentativelor de lansări orbitale) din 2006. Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
+Lista numărului de tentative de lansări orbitale din 2006, în funcție de statele care au efectuat tentativa:
+
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
+SELECT ls_state AS "Țara", COUNT(*) AS "Nr." 
+FROM launches 
+WHERE EXTRACT (year FROM "launchdate") = 2006
+GROUP BY ls_state
+ORDER BY COUNT(*) DESC
+#+end_src
+
+Lista celor call_nol2006() tentative de lansări orbitale din 2006 (din care call_nof2006() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
 SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD.MM HH24:MI') AS "Data", lv_type AS "Lansator", lv_Payload AS "Satelit", sat_orbitClass AS "Țintă", ls_state AS "T", lv_name AS "Centru", lv_launchpad AS "Rampă", lv_outcome AS "R." 
@@ -3188,7 +3829,17 @@ SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD
 :EXPORT_TITLE: Lansări orbitale 2005
 :END:
 
-Lista lansărilor orbitale (și a tentativelor de lansări orbitale) din 2005. Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
+Lista numărului de tentative de lansări orbitale din 2005, în funcție de statele care au efectuat tentativa:
+
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
+SELECT ls_state AS "Țara", COUNT(*) AS "Nr." 
+FROM launches 
+WHERE EXTRACT (year FROM "launchdate") = 2005
+GROUP BY ls_state
+ORDER BY COUNT(*) DESC
+#+end_src
+
+Lista celor call_nol2005() tentative de lansări orbitale din 2005 (din care call_nof2005() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
 SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD.MM HH24:MI') AS "Data", lv_type AS "Lansator", lv_Payload AS "Satelit", sat_orbitClass AS "Țintă", ls_state AS "T", lv_name AS "Centru", lv_launchpad AS "Rampă", lv_outcome AS "R." 
@@ -3202,7 +3853,17 @@ SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD
 :EXPORT_TITLE: Lansări orbitale 2004
 :END:
 
-Lista lansărilor orbitale (și a tentativelor de lansări orbitale) din 2004. Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
+Lista numărului de tentative de lansări orbitale din 2004, în funcție de statele care au efectuat tentativa:
+
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
+SELECT ls_state AS "Țara", COUNT(*) AS "Nr." 
+FROM launches 
+WHERE EXTRACT (year FROM "launchdate") = 2004
+GROUP BY ls_state
+ORDER BY COUNT(*) DESC
+#+end_src
+
+Lista celor call_nol2004() tentative de lansări orbitale din 2004 (din care call_nof2004() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
 SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD.MM HH24:MI') AS "Data", lv_type AS "Lansator", lv_Payload AS "Satelit", sat_orbitClass AS "Țintă", ls_state AS "T", lv_name AS "Centru", lv_launchpad AS "Rampă", lv_outcome AS "R." 
@@ -3216,7 +3877,17 @@ SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD
 :EXPORT_TITLE: Lansări orbitale 2003
 :END:
 
-Lista lansărilor orbitale (și a tentativelor de lansări orbitale) din 2003. Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
+Lista numărului de tentative de lansări orbitale din 2003, în funcție de statele care au efectuat tentativa:
+
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
+SELECT ls_state AS "Țara", COUNT(*) AS "Nr." 
+FROM launches 
+WHERE EXTRACT (year FROM "launchdate") = 2003
+GROUP BY ls_state
+ORDER BY COUNT(*) DESC
+#+end_src
+
+Lista celor call_nol2003() tentative de lansări orbitale din 2003 (din care call_nof2003() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
 SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD.MM HH24:MI') AS "Data", lv_type AS "Lansator", lv_Payload AS "Satelit", sat_orbitClass AS "Țintă", ls_state AS "T", lv_name AS "Centru", lv_launchpad AS "Rampă", lv_outcome AS "R." 
@@ -3230,7 +3901,17 @@ SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD
 :EXPORT_TITLE: Lansări orbitale 2002
 :END:
 
-Lista lansărilor orbitale (și a tentativelor de lansări orbitale) din 2002. Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
+Lista numărului de tentative de lansări orbitale din 2002, în funcție de statele care au efectuat tentativa:
+
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
+SELECT ls_state AS "Țara", COUNT(*) AS "Nr." 
+FROM launches 
+WHERE EXTRACT (year FROM "launchdate") = 2002
+GROUP BY ls_state
+ORDER BY COUNT(*) DESC
+#+end_src
+
+Lista celor call_nol2002() tentative de lansări orbitale din 2002 (din care call_nof2002() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
 SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD.MM HH24:MI') AS "Data", lv_type AS "Lansator", lv_Payload AS "Satelit", sat_orbitClass AS "Țintă", ls_state AS "T", lv_name AS "Centru", lv_launchpad AS "Rampă", lv_outcome AS "R." 
@@ -3244,7 +3925,17 @@ SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD
 :EXPORT_TITLE: Lansări orbitale 2001
 :END:
 
-Lista lansărilor orbitale (și a tentativelor de lansări orbitale) din 2001. Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
+Lista numărului de tentative de lansări orbitale din 2001, în funcție de statele care au efectuat tentativa:
+
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
+SELECT ls_state AS "Țara", COUNT(*) AS "Nr." 
+FROM launches 
+WHERE EXTRACT (year FROM "launchdate") = 2001
+GROUP BY ls_state
+ORDER BY COUNT(*) DESC
+#+end_src
+
+Lista celor call_nol2001() tentative de lansări orbitale din 2001 (din care call_nof2001() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
 SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD.MM HH24:MI') AS "Data", lv_type AS "Lansator", lv_Payload AS "Satelit", sat_orbitClass AS "Țintă", ls_state AS "T", lv_name AS "Centru", lv_launchpad AS "Rampă", lv_outcome AS "R." 
@@ -3258,7 +3949,17 @@ SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD
 :EXPORT_TITLE: Lansări orbitale 2000
 :END:
 
-Lista lansărilor orbitale (și a tentativelor de lansări orbitale) din 2000. Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
+Lista numărului de tentative de lansări orbitale din 2000, în funcție de statele care au efectuat tentativa:
+
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
+SELECT ls_state AS "Țara", COUNT(*) AS "Nr." 
+FROM launches 
+WHERE EXTRACT (year FROM "launchdate") = 2000
+GROUP BY ls_state
+ORDER BY COUNT(*) DESC
+#+end_src
+
+Lista celor call_nol2000() tentative de lansări orbitale din 2000 (din care call_nof2000() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
 SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD.MM HH24:MI') AS "Data", lv_type AS "Lansator", lv_Payload AS "Satelit", sat_orbitClass AS "Țintă", ls_state AS "T", lv_name AS "Centru", lv_launchpad AS "Rampă", lv_outcome AS "R." 
@@ -3272,7 +3973,17 @@ SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD
 :EXPORT_TITLE: Lansări orbitale 1999
 :END:
 
-Lista lansărilor orbitale (și a tentativelor de lansări orbitale) din 1999. Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
+Lista numărului de tentative de lansări orbitale din 19991, în funcție de statele care au efectuat tentativa:
+
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
+SELECT ls_state AS "Țara", COUNT(*) AS "Nr." 
+FROM launches 
+WHERE EXTRACT (year FROM "launchdate") = 1999
+GROUP BY ls_state
+ORDER BY COUNT(*) DESC
+#+end_src
+
+Lista celor call_nol1999() tentative de lansări orbitale din 1999 (din care call_nof1999() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
 SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD.MM HH24:MI') AS "Data", lv_type AS "Lansator", lv_Payload AS "Satelit", sat_orbitClass AS "Țintă", ls_state AS "T", lv_name AS "Centru", lv_launchpad AS "Rampă", lv_outcome AS "R." 
@@ -3286,7 +3997,17 @@ SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD
 :EXPORT_TITLE: Lansări orbitale 1998
 :END:
 
-Lista lansărilor orbitale (și a tentativelor de lansări orbitale) din 1998. Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
+Lista numărului de tentative de lansări orbitale din 1998, în funcție de statele care au efectuat tentativa:
+
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
+SELECT ls_state AS "Țara", COUNT(*) AS "Nr." 
+FROM launches 
+WHERE EXTRACT (year FROM "launchdate") = 1998
+GROUP BY ls_state
+ORDER BY COUNT(*) DESC
+#+end_src
+
+Lista celor call_nol1998() tentative de lansări orbitale din 1998 (din care call_nof1998() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
 SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD.MM HH24:MI') AS "Data", lv_type AS "Lansator", lv_Payload AS "Satelit", sat_orbitClass AS "Țintă", ls_state AS "T", lv_name AS "Centru", lv_launchpad AS "Rampă", lv_outcome AS "R." 
@@ -3300,7 +4021,17 @@ SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD
 :EXPORT_TITLE: Lansări orbitale 1997
 :END:
 
-Lista lansărilor orbitale (și a tentativelor de lansări orbitale) din 1997. Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
+Lista numărului de tentative de lansări orbitale din 1997, în funcție de statele care au efectuat tentativa:
+
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
+SELECT ls_state AS "Țara", COUNT(*) AS "Nr." 
+FROM launches 
+WHERE EXTRACT (year FROM "launchdate") = 1997
+GROUP BY ls_state
+ORDER BY COUNT(*) DESC
+#+end_src
+
+Lista celor call_nol1997() tentative de lansări orbitale din 1997 (din care call_nof1997() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
 SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD.MM HH24:MI') AS "Data", lv_type AS "Lansator", lv_Payload AS "Satelit", sat_orbitClass AS "Țintă", ls_state AS "T", lv_name AS "Centru", lv_launchpad AS "Rampă", lv_outcome AS "R." 
@@ -3314,7 +4045,17 @@ SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD
 :EXPORT_TITLE: Lansări orbitale 1996
 :END:
 
-Lista lansărilor orbitale (și a tentativelor de lansări orbitale) din 1996. Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
+Lista numărului de tentative de lansări orbitale din 1996, în funcție de statele care au efectuat tentativa:
+
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
+SELECT ls_state AS "Țara", COUNT(*) AS "Nr." 
+FROM launches 
+WHERE EXTRACT (year FROM "launchdate") = 1996
+GROUP BY ls_state
+ORDER BY COUNT(*) DESC
+#+end_src
+
+Lista celor call_nol1996() tentative de lansări orbitale din 1996 (din care call_nof1996() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
 SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD.MM HH24:MI') AS "Data", lv_type AS "Lansator", lv_Payload AS "Satelit", sat_orbitClass AS "Țintă", ls_state AS "T", lv_name AS "Centru", lv_launchpad AS "Rampă", lv_outcome AS "R." 
@@ -3328,7 +4069,17 @@ SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD
 :EXPORT_TITLE: Lansări orbitale 1995
 :END:
 
-Lista lansărilor orbitale (și a tentativelor de lansări orbitale) din 1995. Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
+Lista numărului de tentative de lansări orbitale din 1995, în funcție de statele care au efectuat tentativa:
+
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
+SELECT ls_state AS "Țara", COUNT(*) AS "Nr." 
+FROM launches 
+WHERE EXTRACT (year FROM "launchdate") = 1995
+GROUP BY ls_state
+ORDER BY COUNT(*) DESC
+#+end_src
+
+Lista celor call_nol1995() tentative de lansări orbitale din 1995 (din care call_nof1995() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
 SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD.MM HH24:MI') AS "Data", lv_type AS "Lansator", lv_Payload AS "Satelit", sat_orbitClass AS "Țintă", ls_state AS "T", lv_name AS "Centru", lv_launchpad AS "Rampă", lv_outcome AS "R." 
@@ -3342,7 +4093,17 @@ SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD
 :EXPORT_TITLE: Lansări orbitale 1994
 :END:
 
-Lista lansărilor orbitale (și a tentativelor de lansări orbitale) din 1994. Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
+Lista numărului de tentative de lansări orbitale din 1994, în funcție de statele care au efectuat tentativa:
+
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
+SELECT ls_state AS "Țara", COUNT(*) AS "Nr." 
+FROM launches 
+WHERE EXTRACT (year FROM "launchdate") = 1994
+GROUP BY ls_state
+ORDER BY COUNT(*) DESC
+#+end_src
+
+Lista celor call_nol1994() tentative de lansări orbitale din 1994 (din care call_nof1994() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
 SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD.MM HH24:MI') AS "Data", lv_type AS "Lansator", lv_Payload AS "Satelit", sat_orbitClass AS "Țintă", ls_state AS "T", lv_name AS "Centru", lv_launchpad AS "Rampă", lv_outcome AS "R." 
@@ -3356,7 +4117,17 @@ SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD
 :EXPORT_TITLE: Lansări orbitale 1993
 :END:
 
-Lista lansărilor orbitale (și a tentativelor de lansări orbitale) din 1993. Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
+Lista numărului de tentative de lansări orbitale din 1993, în funcție de statele care au efectuat tentativa:
+
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
+SELECT ls_state AS "Țara", COUNT(*) AS "Nr." 
+FROM launches 
+WHERE EXTRACT (year FROM "launchdate") = 1993
+GROUP BY ls_state
+ORDER BY COUNT(*) DESC
+#+end_src
+
+Lista celor call_nol1993() tentative de lansări orbitale din 1993 (din care call_nof1993() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
 SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD.MM HH24:MI') AS "Data", lv_type AS "Lansator", lv_Payload AS "Satelit", sat_orbitClass AS "Țintă", ls_state AS "T", lv_name AS "Centru", lv_launchpad AS "Rampă", lv_outcome AS "R." 
@@ -3370,7 +4141,17 @@ SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD
 :EXPORT_TITLE: Lansări orbitale 1992
 :END:
 
-Lista lansărilor orbitale (și a tentativelor de lansări orbitale) din 1992. Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
+Lista numărului de tentative de lansări orbitale din 1992, în funcție de statele care au efectuat tentativa:
+
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
+SELECT ls_state AS "Țara", COUNT(*) AS "Nr." 
+FROM launches 
+WHERE EXTRACT (year FROM "launchdate") = 1992
+GROUP BY ls_state
+ORDER BY COUNT(*) DESC
+#+end_src
+
+Lista celor call_nol1992() tentative de lansări orbitale din 1992 (din care call_nof1992() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
 SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD.MM HH24:MI') AS "Data", lv_type AS "Lansator", lv_Payload AS "Satelit", sat_orbitClass AS "Țintă", ls_state AS "T", lv_name AS "Centru", lv_launchpad AS "Rampă", lv_outcome AS "R." 
@@ -3384,7 +4165,17 @@ SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD
 :EXPORT_TITLE: Lansări orbitale 1991
 :END:
 
-Lista lansărilor orbitale (și a tentativelor de lansări orbitale) din 1991. Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
+Lista numărului de tentative de lansări orbitale din 1991, în funcție de statele care au efectuat tentativa:
+
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
+SELECT ls_state AS "Țara", COUNT(*) AS "Nr." 
+FROM launches 
+WHERE EXTRACT (year FROM "launchdate") = 1991
+GROUP BY ls_state
+ORDER BY COUNT(*) DESC
+#+end_src
+
+Lista celor call_nol1991() tentative de lansări orbitale din 1991 (din care call_nof1991() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
 SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD.MM HH24:MI') AS "Data", lv_type AS "Lansator", lv_Payload AS "Satelit", sat_orbitClass AS "Țintă", ls_state AS "T", lv_name AS "Centru", lv_launchpad AS "Rampă", lv_outcome AS "R." 
@@ -3398,7 +4189,17 @@ SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD
 :EXPORT_TITLE: Lansări orbitale 1990
 :END:
 
-Lista lansărilor orbitale (și a tentativelor de lansări orbitale) din 1990. Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
+Lista numărului de tentative de lansări orbitale din 1990, în funcție de statele care au efectuat tentativa:
+
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
+SELECT ls_state AS "Țara", COUNT(*) AS "Nr." 
+FROM launches 
+WHERE EXTRACT (year FROM "launchdate") = 1990
+GROUP BY ls_state
+ORDER BY COUNT(*) DESC
+#+end_src
+
+Lista celor call_nol1990() tentative de lansări orbitale din 1990 (din care call_nof1990() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
 SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD.MM HH24:MI') AS "Data", lv_type AS "Lansator", lv_Payload AS "Satelit", sat_orbitClass AS "Țintă", ls_state AS "T", lv_name AS "Centru", lv_launchpad AS "Rampă", lv_outcome AS "R." 
@@ -3412,7 +4213,17 @@ SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD
 :EXPORT_TITLE: Lansări orbitale 1989
 :END:
 
-Lista lansărilor orbitale (și a tentativelor de lansări orbitale) din 1989. Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
+Lista numărului de tentative de lansări orbitale din 1989, în funcție de statele care au efectuat tentativa:
+
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
+SELECT ls_state AS "Țara", COUNT(*) AS "Nr." 
+FROM launches 
+WHERE EXTRACT (year FROM "launchdate") = 1989
+GROUP BY ls_state
+ORDER BY COUNT(*) DESC
+#+end_src
+
+Lista celor call_nol1989() tentative de lansări orbitale din 1989 (din care call_nof1989() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
 SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD.MM HH24:MI') AS "Data", lv_type AS "Lansator", lv_Payload AS "Satelit", sat_orbitClass AS "Țintă", ls_state AS "T", lv_name AS "Centru", lv_launchpad AS "Rampă", lv_outcome AS "R." 
@@ -3426,7 +4237,17 @@ SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD
 :EXPORT_TITLE: Lansări orbitale 1988
 :END:
 
-Lista lansărilor orbitale (și a tentativelor de lansări orbitale) din 1988. Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
+Lista numărului de tentative de lansări orbitale din 1988, în funcție de statele care au efectuat tentativa:
+
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
+SELECT ls_state AS "Țara", COUNT(*) AS "Nr." 
+FROM launches 
+WHERE EXTRACT (year FROM "launchdate") = 1988
+GROUP BY ls_state
+ORDER BY COUNT(*) DESC
+#+end_src
+
+Lista celor call_nol1988() tentative de lansări orbitale din 1988 (din care call_nof1988() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
 SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD.MM HH24:MI') AS "Data", lv_type AS "Lansator", lv_Payload AS "Satelit", sat_orbitClass AS "Țintă", ls_state AS "T", lv_name AS "Centru", lv_launchpad AS "Rampă", lv_outcome AS "R." 
@@ -3440,7 +4261,17 @@ SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD
 :EXPORT_TITLE: Lansări orbitale 1987
 :END:
 
-Lista lansărilor orbitale (și a tentativelor de lansări orbitale) din 1987. Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
+Lista numărului de tentative de lansări orbitale din 1987, în funcție de statele care au efectuat tentativa:
+
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
+SELECT ls_state AS "Țara", COUNT(*) AS "Nr." 
+FROM launches 
+WHERE EXTRACT (year FROM "launchdate") = 1987
+GROUP BY ls_state
+ORDER BY COUNT(*) DESC
+#+end_src
+
+Lista celor call_nol1987() tentative de lansări orbitale din 1987 (din care call_nof1987() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
 SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD.MM HH24:MI') AS "Data", lv_type AS "Lansator", lv_Payload AS "Satelit", sat_orbitClass AS "Țintă", ls_state AS "T", lv_name AS "Centru", lv_launchpad AS "Rampă", lv_outcome AS "R." 
@@ -3454,7 +4285,17 @@ SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD
 :EXPORT_TITLE: Lansări orbitale 1986
 :END:
 
-Lista lansărilor orbitale (și a tentativelor de lansări orbitale) din 1986. Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
+Lista numărului de tentative de lansări orbitale din 1986, în funcție de statele care au efectuat tentativa:
+
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
+SELECT ls_state AS "Țara", COUNT(*) AS "Nr." 
+FROM launches 
+WHERE EXTRACT (year FROM "launchdate") = 1986
+GROUP BY ls_state
+ORDER BY COUNT(*) DESC
+#+end_src
+
+Lista celor call_nol1986() tentative de lansări orbitale din 1986 (din care call_nof1986() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
 SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD.MM HH24:MI') AS "Data", lv_type AS "Lansator", lv_Payload AS "Satelit", sat_orbitClass AS "Țintă", ls_state AS "T", lv_name AS "Centru", lv_launchpad AS "Rampă", lv_outcome AS "R." 
@@ -3468,7 +4309,17 @@ SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD
 :EXPORT_TITLE: Lansări orbitale 1985
 :END:
 
-Lista lansărilor orbitale (și a tentativelor de lansări orbitale) din 1985. Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
+Lista numărului de tentative de lansări orbitale din 1985, în funcție de statele care au efectuat tentativa:
+
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
+SELECT ls_state AS "Țara", COUNT(*) AS "Nr." 
+FROM launches 
+WHERE EXTRACT (year FROM "launchdate") = 1985
+GROUP BY ls_state
+ORDER BY COUNT(*) DESC
+#+end_src
+
+Lista celor call_nol1985() tentative de lansări orbitale din 1985 (din care call_nof1985() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
 SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD.MM HH24:MI') AS "Data", lv_type AS "Lansator", lv_Payload AS "Satelit", sat_orbitClass AS "Țintă", ls_state AS "T", lv_name AS "Centru", lv_launchpad AS "Rampă", lv_outcome AS "R." 
@@ -3482,7 +4333,17 @@ SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD
 :EXPORT_TITLE: Lansări orbitale 1984
 :END:
 
-Lista lansărilor orbitale (și a tentativelor de lansări orbitale) din 1984. Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
+Lista numărului de tentative de lansări orbitale din 1984, în funcție de statele care au efectuat tentativa:
+
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
+SELECT ls_state AS "Țara", COUNT(*) AS "Nr." 
+FROM launches 
+WHERE EXTRACT (year FROM "launchdate") = 1984
+GROUP BY ls_state
+ORDER BY COUNT(*) DESC
+#+end_src
+
+Lista celor call_nol1984() tentative de lansări orbitale din 1984 (din care call_nof1984() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
 SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD.MM HH24:MI') AS "Data", lv_type AS "Lansator", lv_Payload AS "Satelit", sat_orbitClass AS "Țintă", ls_state AS "T", lv_name AS "Centru", lv_launchpad AS "Rampă", lv_outcome AS "R." 
@@ -3496,7 +4357,17 @@ SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD
 :EXPORT_TITLE: Lansări orbitale 1983
 :END:
 
-Lista lansărilor orbitale (și a tentativelor de lansări orbitale) din 1983. Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
+Lista numărului de tentative de lansări orbitale din 1983, în funcție de statele care au efectuat tentativa:
+
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
+SELECT ls_state AS "Țara", COUNT(*) AS "Nr." 
+FROM launches 
+WHERE EXTRACT (year FROM "launchdate") = 1983
+GROUP BY ls_state
+ORDER BY COUNT(*) DESC
+#+end_src
+
+Lista celor call_nol1983() tentative de lansări orbitale din 1983 (din care call_nof1983() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
 SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD.MM HH24:MI') AS "Data", lv_type AS "Lansator", lv_Payload AS "Satelit", sat_orbitClass AS "Țintă", ls_state AS "T", lv_name AS "Centru", lv_launchpad AS "Rampă", lv_outcome AS "R." 
@@ -3510,7 +4381,17 @@ SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD
 :EXPORT_TITLE: Lansări orbitale 1982
 :END:
 
-Lista lansărilor orbitale (și a tentativelor de lansări orbitale) din 1982. Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
+Lista numărului de tentative de lansări orbitale din 1982, în funcție de statele care au efectuat tentativa:
+
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
+SELECT ls_state AS "Țara", COUNT(*) AS "Nr." 
+FROM launches 
+WHERE EXTRACT (year FROM "launchdate") = 1982
+GROUP BY ls_state
+ORDER BY COUNT(*) DESC
+#+end_src
+
+Lista celor call_nol1982() tentative de lansări orbitale din 1982 (din care call_nof1982() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
 SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD.MM HH24:MI') AS "Data", lv_type AS "Lansator", lv_Payload AS "Satelit", sat_orbitClass AS "Țintă", ls_state AS "T", lv_name AS "Centru", lv_launchpad AS "Rampă", lv_outcome AS "R." 
@@ -3524,7 +4405,17 @@ SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD
 :EXPORT_TITLE: Lansări orbitale 1981
 :END:
 
-Lista lansărilor orbitale (și a tentativelor de lansări orbitale) din 1981. Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
+Lista numărului de tentative de lansări orbitale din 1981, în funcție de statele care au efectuat tentativa:
+
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
+SELECT ls_state AS "Țara", COUNT(*) AS "Nr." 
+FROM launches 
+WHERE EXTRACT (year FROM "launchdate") = 1981
+GROUP BY ls_state
+ORDER BY COUNT(*) DESC
+#+end_src
+
+Lista celor call_nol1981() tentative de lansări orbitale din 1981 (din care call_nof1981() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
 SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD.MM HH24:MI') AS "Data", lv_type AS "Lansator", lv_Payload AS "Satelit", sat_orbitClass AS "Țintă", ls_state AS "T", lv_name AS "Centru", lv_launchpad AS "Rampă", lv_outcome AS "R." 
@@ -3538,7 +4429,17 @@ SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD
 :EXPORT_TITLE: Lansări orbitale 1980
 :END:
 
-Lista lansărilor orbitale (și a tentativelor de lansări orbitale) din 1980. Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
+Lista numărului de tentative de lansări orbitale din 1980, în funcție de statele care au efectuat tentativa:
+
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
+SELECT ls_state AS "Țara", COUNT(*) AS "Nr." 
+FROM launches 
+WHERE EXTRACT (year FROM "launchdate") = 1980
+GROUP BY ls_state
+ORDER BY COUNT(*) DESC
+#+end_src
+
+Lista celor call_nol1980() tentative de lansări orbitale din 1980 (din care call_nof1980() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
 SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD.MM HH24:MI') AS "Data", lv_type AS "Lansator", lv_Payload AS "Satelit", sat_orbitClass AS "Țintă", ls_state AS "T", lv_name AS "Centru", lv_launchpad AS "Rampă", lv_outcome AS "R." 
@@ -3552,7 +4453,17 @@ SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD
 :EXPORT_TITLE: Lansări orbitale 1979
 :END:
 
-Lista lansărilor orbitale (și a tentativelor de lansări orbitale) din 1979. Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
+Lista numărului de tentative de lansări orbitale din 1979, în funcție de statele care au efectuat tentativa:
+
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
+SELECT ls_state AS "Țara", COUNT(*) AS "Nr." 
+FROM launches 
+WHERE EXTRACT (year FROM "launchdate") = 1979
+GROUP BY ls_state
+ORDER BY COUNT(*) DESC
+#+end_src
+
+Lista celor call_nol1979() tentative de lansări orbitale din 1979 (din care call_nof1979() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
 SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD.MM HH24:MI') AS "Data", lv_type AS "Lansator", lv_Payload AS "Satelit", sat_orbitClass AS "Țintă", ls_state AS "T", lv_name AS "Centru", lv_launchpad AS "Rampă", lv_outcome AS "R." 
@@ -3566,7 +4477,17 @@ SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD
 :EXPORT_TITLE: Lansări orbitale 1978
 :END:
 
-Lista lansărilor orbitale (și a tentativelor de lansări orbitale) din 1978. Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
+Lista numărului de tentative de lansări orbitale din 1978, în funcție de statele care au efectuat tentativa:
+
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
+SELECT ls_state AS "Țara", COUNT(*) AS "Nr." 
+FROM launches 
+WHERE EXTRACT (year FROM "launchdate") = 1978
+GROUP BY ls_state
+ORDER BY COUNT(*) DESC
+#+end_src
+
+Lista celor call_nol1978() tentative de lansări orbitale din 1978 (din care call_nof1978() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
 SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD.MM HH24:MI') AS "Data", lv_type AS "Lansator", lv_Payload AS "Satelit", sat_orbitClass AS "Țintă", ls_state AS "T", lv_name AS "Centru", lv_launchpad AS "Rampă", lv_outcome AS "R." 
@@ -3580,7 +4501,17 @@ SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD
 :EXPORT_TITLE: Lansări orbitale 1977
 :END:
 
-Lista lansărilor orbitale (și a tentativelor de lansări orbitale) din 1977. Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
+Lista numărului de tentative de lansări orbitale din 1977, în funcție de statele care au efectuat tentativa:
+
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
+SELECT ls_state AS "Țara", COUNT(*) AS "Nr." 
+FROM launches 
+WHERE EXTRACT (year FROM "launchdate") = 1977
+GROUP BY ls_state
+ORDER BY COUNT(*) DESC
+#+end_src
+
+Lista celor call_nol1977() tentative de lansări orbitale din 1977 (din care call_nof1977() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
 SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD.MM HH24:MI') AS "Data", lv_type AS "Lansator", lv_Payload AS "Satelit", sat_orbitClass AS "Țintă", ls_state AS "T", lv_name AS "Centru", lv_launchpad AS "Rampă", lv_outcome AS "R." 
@@ -3594,7 +4525,17 @@ SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD
 :EXPORT_TITLE: Lansări orbitale 1976
 :END:
 
-Lista lansărilor orbitale (și a tentativelor de lansări orbitale) din 1976. Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
+Lista numărului de tentative de lansări orbitale din 1976, în funcție de statele care au efectuat tentativa:
+
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
+SELECT ls_state AS "Țara", COUNT(*) AS "Nr." 
+FROM launches 
+WHERE EXTRACT (year FROM "launchdate") = 1976
+GROUP BY ls_state
+ORDER BY COUNT(*) DESC
+#+end_src
+
+Lista celor call_nol1976() tentative de lansări orbitale din 1976 (din care call_nof1976() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
 SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD.MM HH24:MI') AS "Data", lv_type AS "Lansator", lv_Payload AS "Satelit", sat_orbitClass AS "Țintă", ls_state AS "T", lv_name AS "Centru", lv_launchpad AS "Rampă", lv_outcome AS "R." 
@@ -3608,7 +4549,17 @@ SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD
 :EXPORT_TITLE: Lansări orbitale 1975
 :END:
 
-Lista lansărilor orbitale (și a tentativelor de lansări orbitale) din 1975. Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
+Lista numărului de tentative de lansări orbitale din 1975, în funcție de statele care au efectuat tentativa:
+
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
+SELECT ls_state AS "Țara", COUNT(*) AS "Nr." 
+FROM launches 
+WHERE EXTRACT (year FROM "launchdate") = 1975
+GROUP BY ls_state
+ORDER BY COUNT(*) DESC
+#+end_src
+
+Lista celor call_nol1975() tentative de lansări orbitale din 1975 (din care call_nof1975() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
 SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD.MM HH24:MI') AS "Data", lv_type AS "Lansator", lv_Payload AS "Satelit", sat_orbitClass AS "Țintă", ls_state AS "T", lv_name AS "Centru", lv_launchpad AS "Rampă", lv_outcome AS "R." 
@@ -3622,7 +4573,17 @@ SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD
 :EXPORT_TITLE: Lansări orbitale 1974
 :END:
 
-Lista lansărilor orbitale (și a tentativelor de lansări orbitale) din 1974. Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
+Lista numărului de tentative de lansări orbitale din 1974, în funcție de statele care au efectuat tentativa:
+
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
+SELECT ls_state AS "Țara", COUNT(*) AS "Nr." 
+FROM launches 
+WHERE EXTRACT (year FROM "launchdate") = 1974
+GROUP BY ls_state
+ORDER BY COUNT(*) DESC
+#+end_src
+
+Lista celor call_nol1974() tentative de lansări orbitale din 1974 (din care call_nof1974() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
 SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD.MM HH24:MI') AS "Data", lv_type AS "Lansator", lv_Payload AS "Satelit", sat_orbitClass AS "Țintă", ls_state AS "T", lv_name AS "Centru", lv_launchpad AS "Rampă", lv_outcome AS "R." 
@@ -3636,7 +4597,17 @@ SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD
 :EXPORT_TITLE: Lansări orbitale 1973
 :END:
 
-Lista lansărilor orbitale (și a tentativelor de lansări orbitale) din 1973. Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
+Lista numărului de tentative de lansări orbitale din 1973, în funcție de statele care au efectuat tentativa:
+
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
+SELECT ls_state AS "Țara", COUNT(*) AS "Nr." 
+FROM launches 
+WHERE EXTRACT (year FROM "launchdate") = 1973
+GROUP BY ls_state
+ORDER BY COUNT(*) DESC
+#+end_src
+
+Lista celor call_nol1973() tentative de lansări orbitale din 1973 (din care call_nof1973() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
 SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD.MM HH24:MI') AS "Data", lv_type AS "Lansator", lv_Payload AS "Satelit", sat_orbitClass AS "Țintă", ls_state AS "T", lv_name AS "Centru", lv_launchpad AS "Rampă", lv_outcome AS "R." 
@@ -3650,7 +4621,17 @@ SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD
 :EXPORT_TITLE: Lansări orbitale 1972
 :END:
 
-Lista lansărilor orbitale (și a tentativelor de lansări orbitale) din 1972. Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
+Lista numărului de tentative de lansări orbitale din 1972, în funcție de statele care au efectuat tentativa:
+
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
+SELECT ls_state AS "Țara", COUNT(*) AS "Nr." 
+FROM launches 
+WHERE EXTRACT (year FROM "launchdate") = 1972
+GROUP BY ls_state
+ORDER BY COUNT(*) DESC
+#+end_src
+
+Lista celor call_nol1972() tentative de lansări orbitale din 1972 (din care call_nof1972() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
 SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD.MM HH24:MI') AS "Data", lv_type AS "Lansator", lv_Payload AS "Satelit", sat_orbitClass AS "Țintă", ls_state AS "T", lv_name AS "Centru", lv_launchpad AS "Rampă", lv_outcome AS "R." 
@@ -3664,7 +4645,17 @@ SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD
 :EXPORT_TITLE: Lansări orbitale 1971
 :END:
 
-Lista lansărilor orbitale (și a tentativelor de lansări orbitale) din 1971. Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
+Lista numărului de tentative de lansări orbitale din 1971, în funcție de statele care au efectuat tentativa:
+
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
+SELECT ls_state AS "Țara", COUNT(*) AS "Nr." 
+FROM launches 
+WHERE EXTRACT (year FROM "launchdate") = 1971
+GROUP BY ls_state
+ORDER BY COUNT(*) DESC
+#+end_src
+
+Lista celor call_nol1971() tentative de lansări orbitale din 1971 (din care call_nof1971() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
 SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD.MM HH24:MI') AS "Data", lv_type AS "Lansator", lv_Payload AS "Satelit", sat_orbitClass AS "Țintă", ls_state AS "T", lv_name AS "Centru", lv_launchpad AS "Rampă", lv_outcome AS "R." 
@@ -3678,7 +4669,17 @@ SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD
 :EXPORT_TITLE: Lansări orbitale 1970
 :END:
 
-Lista lansărilor orbitale (și a tentativelor de lansări orbitale) din 1970. Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
+Lista numărului de tentative de lansări orbitale din 1970, în funcție de statele care au efectuat tentativa:
+
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
+SELECT ls_state AS "Țara", COUNT(*) AS "Nr." 
+FROM launches 
+WHERE EXTRACT (year FROM "launchdate") = 1970
+GROUP BY ls_state
+ORDER BY COUNT(*) DESC
+#+end_src
+
+Lista celor call_nol1970() tentative de lansări orbitale din 2010 (din care call_nof1970() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
 SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD.MM HH24:MI') AS "Data", lv_type AS "Lansator", lv_Payload AS "Satelit", sat_orbitClass AS "Țintă", ls_state AS "T", lv_name AS "Centru", lv_launchpad AS "Rampă", lv_outcome AS "R." 
@@ -3692,7 +4693,17 @@ SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD
 :EXPORT_TITLE: Lansări orbitale 1969
 :END:
 
-Lista lansărilor orbitale (și a tentativelor de lansări orbitale) din 1969. Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
+Lista numărului de tentative de lansări orbitale din 1969, în funcție de statele care au efectuat tentativa:
+
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
+SELECT ls_state AS "Țara", COUNT(*) AS "Nr." 
+FROM launches 
+WHERE EXTRACT (year FROM "launchdate") = 1969
+GROUP BY ls_state
+ORDER BY COUNT(*) DESC
+#+end_src
+
+Lista celor call_nol1969() tentative de lansări orbitale din 1969 (din care call_nof1969() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
 SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD.MM HH24:MI') AS "Data", lv_type AS "Lansator", lv_Payload AS "Satelit", sat_orbitClass AS "Țintă", ls_state AS "T", lv_name AS "Centru", lv_launchpad AS "Rampă", lv_outcome AS "R." 
@@ -3706,7 +4717,17 @@ SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD
 :EXPORT_TITLE: Lansări orbitale 1968
 :END:
 
-Lista lansărilor orbitale (și a tentativelor de lansări orbitale) din 1968. Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
+Lista numărului de tentative de lansări orbitale din 1968, în funcție de statele care au efectuat tentativa:
+
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
+SELECT ls_state AS "Țara", COUNT(*) AS "Nr." 
+FROM launches 
+WHERE EXTRACT (year FROM "launchdate") = 1968
+GROUP BY ls_state
+ORDER BY COUNT(*) DESC
+#+end_src
+
+Lista celor call_nol1968() tentative de lansări orbitale din 2010 (din care call_nof1968() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
 SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD.MM HH24:MI') AS "Data", lv_type AS "Lansator", lv_Payload AS "Satelit", sat_orbitClass AS "Țintă", ls_state AS "T", lv_name AS "Centru", lv_launchpad AS "Rampă", lv_outcome AS "R." 
@@ -3720,7 +4741,17 @@ SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD
 :EXPORT_TITLE: Lansări orbitale 1967
 :END:
 
-Lista lansărilor orbitale (și a tentativelor de lansări orbitale) din 1967. Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
+Lista numărului de tentative de lansări orbitale din 1967, în funcție de statele care au efectuat tentativa:
+
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
+SELECT ls_state AS "Țara", COUNT(*) AS "Nr." 
+FROM launches 
+WHERE EXTRACT (year FROM "launchdate") = 1967
+GROUP BY ls_state
+ORDER BY COUNT(*) DESC
+#+end_src
+
+Lista celor call_nol1967() tentative de lansări orbitale din 1967 (din care call_nof1967() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
 SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD.MM HH24:MI') AS "Data", lv_type AS "Lansator", lv_Payload AS "Satelit", sat_orbitClass AS "Țintă", ls_state AS "T", lv_name AS "Centru", lv_launchpad AS "Rampă", lv_outcome AS "R." 
@@ -3734,7 +4765,17 @@ SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD
 :EXPORT_TITLE: Lansări orbitale 1966
 :END:
 
-Lista lansărilor orbitale (și a tentativelor de lansări orbitale) din 1966. Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
+Lista numărului de tentative de lansări orbitale din 1966, în funcție de statele care au efectuat tentativa:
+
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
+SELECT ls_state AS "Țara", COUNT(*) AS "Nr." 
+FROM launches 
+WHERE EXTRACT (year FROM "launchdate") = 1966
+GROUP BY ls_state
+ORDER BY COUNT(*) DESC
+#+end_src
+
+Lista celor call_nol1966() tentative de lansări orbitale din 1966 (din care call_nof1966() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
 SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD.MM HH24:MI') AS "Data", lv_type AS "Lansator", lv_Payload AS "Satelit", sat_orbitClass AS "Țintă", ls_state AS "T", lv_name AS "Centru", lv_launchpad AS "Rampă", lv_outcome AS "R." 
@@ -3748,7 +4789,17 @@ SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD
 :EXPORT_TITLE: Lansări orbitale 1965
 :END:
 
-Lista lansărilor orbitale (și a tentativelor de lansări orbitale) din 1965. Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
+Lista numărului de tentative de lansări orbitale din 1965, în funcție de statele care au efectuat tentativa:
+
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
+SELECT ls_state AS "Țara", COUNT(*) AS "Nr." 
+FROM launches 
+WHERE EXTRACT (year FROM "launchdate") = 1965
+GROUP BY ls_state
+ORDER BY COUNT(*) DESC
+#+end_src
+
+Lista celor call_nol1965() tentative de lansări orbitale din 1965 (din care call_nof1965() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
 SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD.MM HH24:MI') AS "Data", lv_type AS "Lansator", lv_Payload AS "Satelit", sat_orbitClass AS "Țintă", ls_state AS "T", lv_name AS "Centru", lv_launchpad AS "Rampă", lv_outcome AS "R." 
@@ -3762,7 +4813,17 @@ SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD
 :EXPORT_TITLE: Lansări orbitale 1964
 :END:
 
-Lista lansărilor orbitale (și a tentativelor de lansări orbitale) din 1964. Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
+Lista numărului de tentative de lansări orbitale din 1964, în funcție de statele care au efectuat tentativa:
+
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
+SELECT ls_state AS "Țara", COUNT(*) AS "Nr." 
+FROM launches 
+WHERE EXTRACT (year FROM "launchdate") = 1964
+GROUP BY ls_state
+ORDER BY COUNT(*) DESC
+#+end_src
+
+Lista celor call_nol1964() tentative de lansări orbitale din 1964 (din care call_nof1964() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
 SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD.MM HH24:MI') AS "Data", lv_type AS "Lansator", lv_Payload AS "Satelit", sat_orbitClass AS "Țintă", ls_state AS "T", lv_name AS "Centru", lv_launchpad AS "Rampă", lv_outcome AS "R." 
@@ -3776,7 +4837,17 @@ SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD
 :EXPORT_TITLE: Lansări orbitale 1963
 :END:
 
-Lista lansărilor orbitale (și a tentativelor de lansări orbitale) din 1963. Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
+Lista numărului de tentative de lansări orbitale din 1963, în funcție de statele care au efectuat tentativa:
+
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
+SELECT ls_state AS "Țara", COUNT(*) AS "Nr." 
+FROM launches 
+WHERE EXTRACT (year FROM "launchdate") = 1963
+GROUP BY ls_state
+ORDER BY COUNT(*) DESC
+#+end_src
+
+Lista celor call_nol1963() tentative de lansări orbitale din 1963 (din care call_nof1963() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
 SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD.MM HH24:MI') AS "Data", lv_type AS "Lansator", lv_Payload AS "Satelit", sat_orbitClass AS "Țintă", ls_state AS "T", lv_name AS "Centru", lv_launchpad AS "Rampă", lv_outcome AS "R." 
@@ -3790,7 +4861,17 @@ SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD
 :EXPORT_TITLE: Lansări orbitale 1962
 :END:
 
-Lista lansărilor orbitale (și a tentativelor de lansări orbitale) din 1962. Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
+Lista numărului de tentative de lansări orbitale din 1962, în funcție de statele care au efectuat tentativa:
+
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
+SELECT ls_state AS "Țara", COUNT(*) AS "Nr." 
+FROM launches 
+WHERE EXTRACT (year FROM "launchdate") = 1962
+GROUP BY ls_state
+ORDER BY COUNT(*) DESC
+#+end_src
+
+Lista celor call_nol1962() tentative de lansări orbitale din 1962 (din care call_nof1962() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
 SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD.MM HH24:MI') AS "Data", lv_type AS "Lansator", lv_Payload AS "Satelit", sat_orbitClass AS "Țintă", ls_state AS "T", lv_name AS "Centru", lv_launchpad AS "Rampă", lv_outcome AS "R." 
@@ -3804,7 +4885,17 @@ SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD
 :EXPORT_TITLE: Lansări orbitale 1961
 :END:
 
-Lista lansărilor orbitale (și a tentativelor de lansări orbitale) din 1961. Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
+Lista numărului de tentative de lansări orbitale din 1961, în funcție de statele care au efectuat tentativa:
+
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
+SELECT ls_state AS "Țara", COUNT(*) AS "Nr." 
+FROM launches 
+WHERE EXTRACT (year FROM "launchdate") = 1961
+GROUP BY ls_state
+ORDER BY COUNT(*) DESC
+#+end_src
+
+Lista celor call_nol1961() tentative de lansări orbitale din 1961 (din care call_nof1961() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
 SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD.MM HH24:MI') AS "Data", lv_type AS "Lansator", lv_Payload AS "Satelit", sat_orbitClass AS "Țintă", ls_state AS "T", lv_name AS "Centru", lv_launchpad AS "Rampă", lv_outcome AS "R." 
@@ -3818,7 +4909,17 @@ SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD
 :EXPORT_TITLE: Lansări orbitale 1960
 :END:
 
-Lista lansărilor orbitale (și a tentativelor de lansări orbitale) din 1960. Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
+Lista numărului de tentative de lansări orbitale din 1960, în funcție de statele care au efectuat tentativa:
+
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
+SELECT ls_state AS "Țara", COUNT(*) AS "Nr." 
+FROM launches 
+WHERE EXTRACT (year FROM "launchdate") = 1960
+GROUP BY ls_state
+ORDER BY COUNT(*) DESC
+#+end_src
+
+Lista celor call_nol1960() tentative de lansări orbitale din 1960 (din care call_nof1960() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
 SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD.MM HH24:MI') AS "Data", lv_type AS "Lansator", lv_Payload AS "Satelit", sat_orbitClass AS "Țintă", ls_state AS "T", lv_name AS "Centru", lv_launchpad AS "Rampă", lv_outcome AS "R." 
@@ -3832,7 +4933,17 @@ SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD
 :EXPORT_TITLE: Lansări orbitale 1959
 :END:
 
-Lista lansărilor orbitale (și a tentativelor de lansări orbitale) din 1959. Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
+Lista numărului de tentative de lansări orbitale din 1959, în funcție de statele care au efectuat tentativa:
+
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
+SELECT ls_state AS "Țara", COUNT(*) AS "Nr." 
+FROM launches 
+WHERE EXTRACT (year FROM "launchdate") = 1959
+GROUP BY ls_state
+ORDER BY COUNT(*) DESC
+#+end_src
+
+Lista celor call_nol1959() tentative de lansări orbitale din 1959 (din care call_nof1959() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
 SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD.MM HH24:MI') AS "Data", lv_type AS "Lansator", lv_Payload AS "Satelit", sat_orbitClass AS "Țintă", ls_state AS "T", lv_name AS "Centru", lv_launchpad AS "Rampă", lv_outcome AS "R." 
@@ -3846,7 +4957,17 @@ SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD
 :EXPORT_TITLE: Lansări orbitale 1958
 :END:
 
-Lista lansărilor orbitale (și a tentativelor de lansări orbitale) din 1958. Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
+Lista numărului de tentative de lansări orbitale din 1958, în funcție de statele care au efectuat tentativa:
+
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
+SELECT ls_state AS "Țara", COUNT(*) AS "Nr." 
+FROM launches 
+WHERE EXTRACT (year FROM "launchdate") = 1958
+GROUP BY ls_state
+ORDER BY COUNT(*) DESC
+#+end_src
+
+Lista celor call_nol1958() tentative de lansări orbitale din 1958 (din care call_nof1958() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
 SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD.MM HH24:MI') AS "Data", lv_type AS "Lansator", lv_Payload AS "Satelit", sat_orbitClass AS "Țintă", ls_state AS "T", lv_name AS "Centru", lv_launchpad AS "Rampă", lv_outcome AS "R." 
@@ -3860,7 +4981,17 @@ SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD
 :EXPORT_TITLE: Lansări orbitale 1957
 :END:
 
-Lista lansărilor orbitale (și a tentativelor de lansări orbitale) din 1957. Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
+Lista numărului de tentative de lansări orbitale din 1957, în funcție de statele care au efectuat tentativa:
+
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
+SELECT ls_state AS "Țara", COUNT(*) AS "Nr." 
+FROM launches 
+WHERE EXTRACT (year FROM "launchdate") = 1957
+GROUP BY ls_state
+ORDER BY COUNT(*) DESC
+#+end_src
+
+Lista celor call_nol1957() tentative de lansări orbitale din 1957 (din care call_nof1957() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
 SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD.MM HH24:MI') AS "Data", lv_type AS "Lansator", lv_Payload AS "Satelit", sat_orbitClass AS "Țintă", ls_state AS "T", lv_name AS "Centru", lv_launchpad AS "Rampă", lv_outcome AS "R." 
