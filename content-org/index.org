@@ -3464,7 +3464,7 @@ GROUP BY lv_outcome
 
 Tabele anuale cu lansări orbitale:
 
-- 2020 --call_nol2020() | [[/t/l2019][2019]] --call_nol2019() | [[/t/l2018][2018]] --call_nol2018() | [[/t/l2017][2017]] --call_nol2017() | [[/t/l2016][2016]] --call_nol2016() 
+- [[/t/l2020][2020]] --call_nol2020() | [[/t/l2019][2019]] --call_nol2019() | [[/t/l2018][2018]] --call_nol2018() | [[/t/l2017][2017]] --call_nol2017() | [[/t/l2016][2016]] --call_nol2016() 
 - [[/t/l2015][2015]] --call_nol2015() | [[/t/l2014][2014]] --call_nol2014() | [[/t/l2013][2013]] --call_nol2013() | [[/t/l2012][2012]] --call_nol2012() | [[/t/l2011][2011]] --call_nol2011() 
 - [[/t/l2010][2010]] --call_nol2010() | [[/t/l2009][2009]] --call_nol2009() | [[/t/l2008][2008]] --call_nol2008() | [[/t/l2007][2007]] --call_nol2007() | [[/t/l2006][2006]] --call_nol2006()
 - [[/t/l2005][2005]] --call_nol2005() | [[/t/l2004][2004]] --call_nol2004() | [[/t/l2003][2003]] --call_nol2003() | [[/t/l2002][2002]] --call_nol2002() | [[/t/l2001][2001]] --call_nol2001()
@@ -3478,7 +3478,7 @@ Tabele anuale cu lansări orbitale:
 - [[/t/l1965][1965]] --call_nol1991() | [[/t/l1964][1964]] --call_nol1991() | [[/t/l1963][1963]] --call_nol1991() | [[/t/l1962][1962]] --call_nol1991() | [[/t/l1961][1961]] --call_nol1991()
 - [[/t/l1960][1960]] --call_nol1960() | [[/t/l1959][1959]] --call_nol1959() | [[/t/l1959][1958]] --call_nol1958() | [[/t/l1957][1957]] --call_nol1957()
 
-Un clasament general al statelor care au avut tentative de lansări orbitale arată astfel:
+Un clasament general al lansărilor orbitale, începând cu 1957, în funcție de statele care au efectuat tentativa (URSS este considerată un stat separat față de Rusia, iar lansările Arianespace sunt catalogate drept lansări Europene, indiferent de locul de unde este lansată racheta):
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
 SELECT ls_state AS "Țara", COUNT(*) AS "Nr." 
@@ -3487,13 +3487,37 @@ GROUP BY ls_state
 ORDER BY COUNT(*) DESC
 #+end_src
 
+** Lansări 2020
+:PROPERTIES:
+:EXPORT_FILE_NAME: l2020
+:EXPORT_TITLE: Lansări orbitale 2020
+:END:
+
+Lista numărului de tentative de lansări orbitale din 2020, în funcție de statele care au efectuat tentativa:
+
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
+SELECT ls_state AS "Țara", COUNT(*) AS "Nr." 
+FROM launches 
+WHERE EXTRACT (year FROM "launchdate") = 2020
+GROUP BY ls_state
+ORDER BY COUNT(*) DESC
+#+end_src
+
+Lista celor call_nol2020() tentative de lansări orbitale din 2020 (din care call_nof2020() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
+
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
+SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD.MM HH24:MI') AS "Data", lv_type AS "Lansator", lv_Payload AS "Satelit", sat_orbitClass AS "Țintă", ls_state AS "T", lv_name AS "Centru", lv_launchpad AS "Rampă", lv_outcome AS "R.", lv_buletin AS "Bul" 
+  FROM launches
+ WHERE EXTRACT(year FROM "launchdate") = 2020
+#+end_src
+
 ** Lansări 2019
 :PROPERTIES:
 :EXPORT_FILE_NAME: l2019
 :EXPORT_TITLE: Lansări orbitale 2019
 :END:
 
-Lista numărului de tentative de lansări orbitale din 2019, în funcție de statele care au efectuat tentativa (URSS este considerată un stat separat față de Rusia, iar lansările Arianespace sunt catalogate drept lansări Europene, indiferent de locul de unde decolează racheta):
+Lista numărului de tentative de lansări orbitale din 2019, în funcție de statele care au efectuat tentativa:
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
 SELECT ls_state AS "Țara", COUNT(*) AS "Nr." 

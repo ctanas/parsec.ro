@@ -6,11 +6,11 @@ draft = false
 
 Scopul acestei secțiuni este afișarea lansărilor (și a tentativelor de lansări) orbitale din fiecare an, într-un tabel cât mai concis. Datele primare sunt preluate de pe [site-ul lui Jonathan C. McDowell](https://planet4589.org/space/) (cu permisiunea autorului), procesate cu un [script](https://github.com/ctanas/lvsat%5Fpy2sql), ușor alterate, pentru a le face mai concise, și salvate într-o bază de date (PostreSQL), de unde sunt preluate de Emacs la generarea conținutului site-ului.
 
-Din 1957 și până în prezent, au avut loc `5988` tentative de lansări orbitale: `5539` au fost lansări care s-au încheiat cu succes (încărcătura primară a ajuns pe orbită), în timp ce `449` lansări s-au încheiat cu un eșec.
+Din 1957 și până în prezent, au avut loc `6002` tentative de lansări orbitale: `5551` au fost lansări care s-au încheiat cu succes (încărcătura primară a ajuns pe orbită), în timp ce `451` lansări s-au încheiat cu un eșec.
 
 Tabele anuale cu lansări orbitale:
 
--   2020 --`42` | [2019](/t/l2019) --`102` | [2018](/t/l2018) --`114` | [2017](/t/l2017) --`91` | [2016](/t/l2016) --`85`
+-   [2020](/t/l2020) --`56` | [2019](/t/l2019) --`102` | [2018](/t/l2018) --`114` | [2017](/t/l2017) --`91` | [2016](/t/l2016) --`85`
 -   [2015](/t/l2015) --`87` | [2014](/t/l2014) --`92` | [2013](/t/l2013) --`82` | [2012](/t/l2012) --`78` | [2011](/t/l2011) --`84`
 -   [2010](/t/l2010) --`74` | [2009](/t/l2009) --`78` | [2008](/t/l2008) --`69` | [2007](/t/l2007) --`68` | [2006](/t/l2006) --`66`
 -   [2005](/t/l2005) --`56` | [2004](/t/l2004) --`55` | [2003](/t/l2003) --`63` | [2002](/t/l2002) --`65` | [2001](/t/l2001) --`59`
@@ -24,19 +24,19 @@ Tabele anuale cu lansări orbitale:
 -   [1965](/t/l1965) --`91` | [1964](/t/l1964) --`91` | [1963](/t/l1963) --`91` | [1962](/t/l1962) --`91` | [1961](/t/l1961) --`91`
 -   [1960](/t/l1960) --`40` | [1959](/t/l1959) --`23` | [1958](/t/l1959) --`28` | [1957](/t/l1957) --`4`
 
-Un clasament general al statelor care au avut tentative de lansări orbitale arată astfel:
+Un clasament general al lansărilor orbitale, începând cu 1957, în funcție de statele care au efectuat tentativa (URSS este considerată un stat separat față de Rusia, iar lansările Arianespace sunt catalogate drept lansări Europene, indiferent de locul de unde este lansată racheta):
 
 | Țara | Nr.  |
 |------|------|
 | SU   | 2457 |
-| US   | 1745 |
-| RU   | 848  |
-| CN   | 369  |
+| US   | 1749 |
+| RU   | 849  |
+| CN   | 376  |
 | EU   | 315  |
-| JP   | 128  |
+| JP   | 129  |
 | IN   | 75   |
 | IR   | 12   |
-| IL   | 10   |
+| IL   | 11   |
 | KE   | 9    |
 | AU   | 6    |
 | KP   | 5    |
