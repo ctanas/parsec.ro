@@ -3528,8 +3528,11 @@ SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD
 Lista numărului de tentative de lansări orbitale din 2019, în funcție de statele care au efectuat tentativa:
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
-SELECT ls_state AS "Țara", COUNT(*) AS "Nr." 
-FROM launches 
+SELECT ls_state AS "Țara",
+COUNT(*) AS "Tentative",
+SUM (CASE WHEN lv_outcome in ('S') then 1 else 0 end) AS "Lansări",
+SUM (CASE WHEN lv_outcome in ('F') then 1 else 0 end) AS "Eșecuri"
+FROM launches
 WHERE EXTRACT (year FROM "launchdate") = 2019
 GROUP BY ls_state
 ORDER BY COUNT(*) DESC
@@ -3552,8 +3555,11 @@ SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD
 Lista numărului de tentative de lansări orbitale din 2018, în funcție de statele care au efectuat tentativa:
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
-SELECT ls_state AS "Țara", COUNT(*) AS "Nr." 
-FROM launches 
+SELECT ls_state AS "Țara",
+COUNT(*) AS "Tentative",
+SUM (CASE WHEN lv_outcome in ('S') then 1 else 0 end) AS "Lansări",
+SUM (CASE WHEN lv_outcome in ('F') then 1 else 0 end) AS "Eșecuri"
+FROM launches
 WHERE EXTRACT (year FROM "launchdate") = 2018
 GROUP BY ls_state
 ORDER BY COUNT(*) DESC
@@ -3576,8 +3582,11 @@ SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD
 Lista numărului de tentative de lansări orbitale din 2017, în funcție de statele care au efectuat tentativa:
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
-SELECT ls_state AS "Țara", COUNT(*) AS "Nr." 
-FROM launches 
+SELECT ls_state AS "Țara",
+COUNT(*) AS "Tentative",
+SUM (CASE WHEN lv_outcome in ('S') then 1 else 0 end) AS "Lansări",
+SUM (CASE WHEN lv_outcome in ('F') then 1 else 0 end) AS "Eșecuri"
+FROM launches
 WHERE EXTRACT (year FROM "launchdate") = 2017
 GROUP BY ls_state
 ORDER BY COUNT(*) DESC
@@ -3600,8 +3609,11 @@ SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD
 Lista numărului de tentative de lansări orbitale din 2016, în funcție de statele care au efectuat tentativa:
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
-SELECT ls_state AS "Țara", COUNT(*) AS "Nr." 
-FROM launches 
+SELECT ls_state AS "Țara",
+COUNT(*) AS "Tentative",
+SUM (CASE WHEN lv_outcome in ('S') then 1 else 0 end) AS "Lansări",
+SUM (CASE WHEN lv_outcome in ('F') then 1 else 0 end) AS "Eșecuri"
+FROM launches
 WHERE EXTRACT (year FROM "launchdate") = 2016
 GROUP BY ls_state
 ORDER BY COUNT(*) DESC
@@ -3624,8 +3636,11 @@ SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD
 Lista numărului de tentative de lansări orbitale din 2015, în funcție de statele care au efectuat tentativa:
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
-SELECT ls_state AS "Țara", COUNT(*) AS "Nr." 
-FROM launches 
+SELECT ls_state AS "Țara",
+COUNT(*) AS "Tentative",
+SUM (CASE WHEN lv_outcome in ('S') then 1 else 0 end) AS "Lansări",
+SUM (CASE WHEN lv_outcome in ('F') then 1 else 0 end) AS "Eșecuri"
+FROM launches
 WHERE EXTRACT (year FROM "launchdate") = 2015
 GROUP BY ls_state
 ORDER BY COUNT(*) DESC
@@ -3648,8 +3663,11 @@ SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD
 Lista numărului de tentative de lansări orbitale din 2014, în funcție de statele care au efectuat tentativa:
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
-SELECT ls_state AS "Țara", COUNT(*) AS "Nr." 
-FROM launches 
+SELECT ls_state AS "Țara",
+COUNT(*) AS "Tentative",
+SUM (CASE WHEN lv_outcome in ('S') then 1 else 0 end) AS "Lansări",
+SUM (CASE WHEN lv_outcome in ('F') then 1 else 0 end) AS "Eșecuri"
+FROM launches
 WHERE EXTRACT (year FROM "launchdate") = 2014
 GROUP BY ls_state
 ORDER BY COUNT(*) DESC
@@ -3672,8 +3690,11 @@ SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD
 Lista numărului de tentative de lansări orbitale din 2013, în funcție de statele care au efectuat tentativa:
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
-SELECT ls_state AS "Țara", COUNT(*) AS "Nr." 
-FROM launches 
+SELECT ls_state AS "Țara",
+COUNT(*) AS "Tentative",
+SUM (CASE WHEN lv_outcome in ('S') then 1 else 0 end) AS "Lansări",
+SUM (CASE WHEN lv_outcome in ('F') then 1 else 0 end) AS "Eșecuri"
+FROM launches
 WHERE EXTRACT (year FROM "launchdate") = 2013
 GROUP BY ls_state
 ORDER BY COUNT(*) DESC
@@ -3696,8 +3717,11 @@ SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD
 Lista numărului de tentative de lansări orbitale din 2012, în funcție de statele care au efectuat tentativa:
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
-SELECT ls_state AS "Țara", COUNT(*) AS "Nr." 
-FROM launches 
+SELECT ls_state AS "Țara",
+COUNT(*) AS "Tentative",
+SUM (CASE WHEN lv_outcome in ('S') then 1 else 0 end) AS "Lansări",
+SUM (CASE WHEN lv_outcome in ('F') then 1 else 0 end) AS "Eșecuri"
+FROM launches
 WHERE EXTRACT (year FROM "launchdate") = 2012
 GROUP BY ls_state
 ORDER BY COUNT(*) DESC
@@ -3720,8 +3744,11 @@ SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD
 Lista numărului de tentative de lansări orbitale din 2011, în funcție de statele care au efectuat tentativa:
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
-SELECT ls_state AS "Țara", COUNT(*) AS "Nr." 
-FROM launches 
+SELECT ls_state AS "Țara",
+COUNT(*) AS "Tentative",
+SUM (CASE WHEN lv_outcome in ('S') then 1 else 0 end) AS "Lansări",
+SUM (CASE WHEN lv_outcome in ('F') then 1 else 0 end) AS "Eșecuri"
+FROM launches
 WHERE EXTRACT (year FROM "launchdate") = 2011
 GROUP BY ls_state
 ORDER BY COUNT(*) DESC
@@ -3744,8 +3771,11 @@ SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD
 Lista numărului de tentative de lansări orbitale din 2010, în funcție de statele care au efectuat tentativa:
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
-SELECT ls_state AS "Țara", COUNT(*) AS "Nr." 
-FROM launches 
+SELECT ls_state AS "Țara",
+COUNT(*) AS "Tentative",
+SUM (CASE WHEN lv_outcome in ('S') then 1 else 0 end) AS "Lansări",
+SUM (CASE WHEN lv_outcome in ('F') then 1 else 0 end) AS "Eșecuri"
+FROM launches
 WHERE EXTRACT (year FROM "launchdate") = 2010
 GROUP BY ls_state
 ORDER BY COUNT(*) DESC
@@ -3768,8 +3798,11 @@ SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD
 Lista numărului de tentative de lansări orbitale din 2009, în funcție de statele care au efectuat tentativa:
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
-SELECT ls_state AS "Țara", COUNT(*) AS "Nr." 
-FROM launches 
+SELECT ls_state AS "Țara",
+COUNT(*) AS "Tentative",
+SUM (CASE WHEN lv_outcome in ('S') then 1 else 0 end) AS "Lansări",
+SUM (CASE WHEN lv_outcome in ('F') then 1 else 0 end) AS "Eșecuri"
+FROM launches
 WHERE EXTRACT (year FROM "launchdate") = 2009
 GROUP BY ls_state
 ORDER BY COUNT(*) DESC
@@ -3792,8 +3825,11 @@ SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD
 Lista numărului de tentative de lansări orbitale din 2008, în funcție de statele care au efectuat tentativa:
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
-SELECT ls_state AS "Țara", COUNT(*) AS "Nr." 
-FROM launches 
+SELECT ls_state AS "Țara",
+COUNT(*) AS "Tentative",
+SUM (CASE WHEN lv_outcome in ('S') then 1 else 0 end) AS "Lansări",
+SUM (CASE WHEN lv_outcome in ('F') then 1 else 0 end) AS "Eșecuri"
+FROM launches
 WHERE EXTRACT (year FROM "launchdate") = 2008
 GROUP BY ls_state
 ORDER BY COUNT(*) DESC
@@ -3816,8 +3852,11 @@ SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD
 Lista numărului de tentative de lansări orbitale din 2007, în funcție de statele care au efectuat tentativa:
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
-SELECT ls_state AS "Țara", COUNT(*) AS "Nr." 
-FROM launches 
+SELECT ls_state AS "Țara",
+COUNT(*) AS "Tentative",
+SUM (CASE WHEN lv_outcome in ('S') then 1 else 0 end) AS "Lansări",
+SUM (CASE WHEN lv_outcome in ('F') then 1 else 0 end) AS "Eșecuri"
+FROM launches
 WHERE EXTRACT (year FROM "launchdate") = 2007
 GROUP BY ls_state
 ORDER BY COUNT(*) DESC
@@ -3840,8 +3879,11 @@ SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD
 Lista numărului de tentative de lansări orbitale din 2006, în funcție de statele care au efectuat tentativa:
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
-SELECT ls_state AS "Țara", COUNT(*) AS "Nr." 
-FROM launches 
+SELECT ls_state AS "Țara",
+COUNT(*) AS "Tentative",
+SUM (CASE WHEN lv_outcome in ('S') then 1 else 0 end) AS "Lansări",
+SUM (CASE WHEN lv_outcome in ('F') then 1 else 0 end) AS "Eșecuri"
+FROM launches
 WHERE EXTRACT (year FROM "launchdate") = 2006
 GROUP BY ls_state
 ORDER BY COUNT(*) DESC
@@ -3864,8 +3906,11 @@ SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD
 Lista numărului de tentative de lansări orbitale din 2005, în funcție de statele care au efectuat tentativa:
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
-SELECT ls_state AS "Țara", COUNT(*) AS "Nr." 
-FROM launches 
+SELECT ls_state AS "Țara",
+COUNT(*) AS "Tentative",
+SUM (CASE WHEN lv_outcome in ('S') then 1 else 0 end) AS "Lansări",
+SUM (CASE WHEN lv_outcome in ('F') then 1 else 0 end) AS "Eșecuri"
+FROM launches
 WHERE EXTRACT (year FROM "launchdate") = 2005
 GROUP BY ls_state
 ORDER BY COUNT(*) DESC
@@ -3888,8 +3933,11 @@ SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD
 Lista numărului de tentative de lansări orbitale din 2004, în funcție de statele care au efectuat tentativa:
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
-SELECT ls_state AS "Țara", COUNT(*) AS "Nr." 
-FROM launches 
+SELECT ls_state AS "Țara",
+COUNT(*) AS "Tentative",
+SUM (CASE WHEN lv_outcome in ('S') then 1 else 0 end) AS "Lansări",
+SUM (CASE WHEN lv_outcome in ('F') then 1 else 0 end) AS "Eșecuri"
+FROM launches
 WHERE EXTRACT (year FROM "launchdate") = 2004
 GROUP BY ls_state
 ORDER BY COUNT(*) DESC
@@ -3912,8 +3960,11 @@ SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD
 Lista numărului de tentative de lansări orbitale din 2003, în funcție de statele care au efectuat tentativa:
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
-SELECT ls_state AS "Țara", COUNT(*) AS "Nr." 
-FROM launches 
+SELECT ls_state AS "Țara",
+COUNT(*) AS "Tentative",
+SUM (CASE WHEN lv_outcome in ('S') then 1 else 0 end) AS "Lansări",
+SUM (CASE WHEN lv_outcome in ('F') then 1 else 0 end) AS "Eșecuri"
+FROM launches
 WHERE EXTRACT (year FROM "launchdate") = 2003
 GROUP BY ls_state
 ORDER BY COUNT(*) DESC
@@ -3936,8 +3987,11 @@ SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD
 Lista numărului de tentative de lansări orbitale din 2002, în funcție de statele care au efectuat tentativa:
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
-SELECT ls_state AS "Țara", COUNT(*) AS "Nr." 
-FROM launches 
+SELECT ls_state AS "Țara",
+COUNT(*) AS "Tentative",
+SUM (CASE WHEN lv_outcome in ('S') then 1 else 0 end) AS "Lansări",
+SUM (CASE WHEN lv_outcome in ('F') then 1 else 0 end) AS "Eșecuri"
+FROM launches
 WHERE EXTRACT (year FROM "launchdate") = 2002
 GROUP BY ls_state
 ORDER BY COUNT(*) DESC
@@ -3960,8 +4014,11 @@ SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD
 Lista numărului de tentative de lansări orbitale din 2001, în funcție de statele care au efectuat tentativa:
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
-SELECT ls_state AS "Țara", COUNT(*) AS "Nr." 
-FROM launches 
+SELECT ls_state AS "Țara",
+COUNT(*) AS "Tentative",
+SUM (CASE WHEN lv_outcome in ('S') then 1 else 0 end) AS "Lansări",
+SUM (CASE WHEN lv_outcome in ('F') then 1 else 0 end) AS "Eșecuri"
+FROM launches
 WHERE EXTRACT (year FROM "launchdate") = 2001
 GROUP BY ls_state
 ORDER BY COUNT(*) DESC
@@ -3984,8 +4041,11 @@ SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD
 Lista numărului de tentative de lansări orbitale din 2000, în funcție de statele care au efectuat tentativa:
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
-SELECT ls_state AS "Țara", COUNT(*) AS "Nr." 
-FROM launches 
+SELECT ls_state AS "Țara",
+COUNT(*) AS "Tentative",
+SUM (CASE WHEN lv_outcome in ('S') then 1 else 0 end) AS "Lansări",
+SUM (CASE WHEN lv_outcome in ('F') then 1 else 0 end) AS "Eșecuri"
+FROM launches
 WHERE EXTRACT (year FROM "launchdate") = 2000
 GROUP BY ls_state
 ORDER BY COUNT(*) DESC
