@@ -3483,7 +3483,10 @@ Tabele anuale cu lansări orbitale:
 Un clasament general al lansărilor orbitale, începând cu 1957, în funcție de statele care au efectuat tentativa (URSS este considerată un stat separat față de Rusia, iar lansările statelor europene, fie prin Arianespace sau separat, sunt catalogate drept lansări europene, indiferent de locul de unde este lansată racheta):
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
-SELECT ls_state AS "Țara", COUNT(*) AS "Nr." 
+SELECT ls_state AS "Țara",
+COUNT(*) AS "Tentative",
+SUM (CASE WHEN lv_outcome in ('S') then 1 else 0 end) AS "Lansări",
+SUM (CASE WHEN lv_outcome in ('F') then 1 else 0 end) AS "Eșecuri"
 FROM launches
 GROUP BY ls_state
 ORDER BY COUNT(*) DESC

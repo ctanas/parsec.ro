@@ -26,18 +26,18 @@ Tabele anuale cu lansări orbitale:
 
 Un clasament general al lansărilor orbitale, începând cu 1957, în funcție de statele care au efectuat tentativa (URSS este considerată un stat separat față de Rusia, iar lansările statelor europene, fie prin Arianespace sau separat, sunt catalogate drept lansări europene, indiferent de locul de unde este lansată racheta):
 
-| Țara | Nr.  |
-|------|------|
-| SU   | 2457 |
-| US   | 1753 |
-| RU   | 849  |
-| CN   | 376  |
-| EU   | 324  |
-| JP   | 129  |
-| IN   | 75   |
-| IR   | 12   |
-| IL   | 11   |
-| AU   | 6    |
-| KP   | 5    |
-| KR   | 3    |
-| BR   | 2    |
+| Țara | Tentative | Lansări | Eșecuri |
+|------|-----------|---------|---------|
+| SU   | 2457      | 2288    | 169     |
+| US   | 1753      | 1599    | 154     |
+| RU   | 849       | 805     | 44      |
+| CN   | 376       | 352     | 24      |
+| EU   | 324       | 306     | 18      |
+| JP   | 129       | 117     | 12      |
+| IN   | 75        | 65      | 10      |
+| IR   | 12        | 5       | 7       |
+| IL   | 11        | 9       | 2       |
+| AU   | 6         | 2       | 4       |
+| KP   | 5         | 2       | 3       |
+| KR   | 3         | 1       | 2       |
+| BR   | 2         | 0       | 2       |
