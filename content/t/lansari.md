@@ -24,7 +24,7 @@ Tabele anuale cu lansări orbitale:
 -   [1965](/t/l1965) --`91` | [1964](/t/l1964) --`91` | [1963](/t/l1963) --`91` | [1962](/t/l1962) --`91` | [1961](/t/l1961) --`91`
 -   [1960](/t/l1960) --`40` | [1959](/t/l1959) --`23` | [1958](/t/l1959) --`28` | [1957](/t/l1957) --`4`
 
-Un clasament general al lansărilor orbitale, începând cu 1957, în funcție de statele care au efectuat tentativa (URSS este considerată un stat separat față de Rusia, iar lansările Arianespace sunt catalogate drept lansări Europene, indiferent de locul de unde este lansată racheta):
+Un clasament general al lansărilor orbitale, începând cu 1957, în funcție de statele care au efectuat tentativa (URSS este considerată un stat separat față de Rusia, iar lansările statelor europene, fie prin Arianespace sau separat, sunt catalogate drept lansări europene, indiferent de locul de unde este lansată racheta):
 
 | Țara | Nr.  |
 |------|------|
