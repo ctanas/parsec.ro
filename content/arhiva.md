@@ -9,7 +9,8 @@ Materialele care nu mai au un caracter de noutate (și care probabil nu vor mai 
 
 ## Lansări orbitale {#lansări-orbitale}
 
--   Tabel cu [lansările orbitale din 2019](/r/lansari2019).
+-   Tabel cu [lansările orbitale din 2019](/r/lansari2019);
+-   Tabel cu [lansările orbitale din 2020](/r/lansari2020) (incomplet).
 
 
 ## Interviuri {#interviuri}

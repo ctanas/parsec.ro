@@ -87,7 +87,8 @@ Materialele care nu mai au un caracter de noutate (și care probabil nu vor mai 
 
 ** Lansări orbitale
 
-+ Tabel cu [[/r/lansari2019][lansările orbitale din 2019]].
++ Tabel cu [[/r/lansari2019][lansările orbitale din 2019]];
++ Tabel cu [[/r/lansari2020][lansările orbitale din 2020]] (incomplet).
 
 ** Interviuri
 
@@ -3497,8 +3498,11 @@ ORDER BY COUNT(*) DESC
 Lista numărului de tentative de lansări orbitale din 2020, în funcție de statele care au efectuat tentativa:
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
-SELECT ls_state AS "Țara", COUNT(*) AS "Nr." 
-FROM launches 
+SELECT ls_state AS "Țara", 
+COUNT(*) AS "Tentative",
+SUM (CASE WHEN lv_outcome in ('S') then 1 else 0 end) AS "Lansări",
+SUM (CASE WHEN lv_outcome in ('F') then 1 else 0 end) AS "Eșecuri"
+FROM launches
 WHERE EXTRACT (year FROM "launchdate") = 2020
 GROUP BY ls_state
 ORDER BY COUNT(*) DESC
