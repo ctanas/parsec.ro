@@ -3498,7 +3498,7 @@ ORDER BY COUNT(*) DESC
 Lista numărului de tentative de lansări orbitale din 2020, în funcție de statele care au efectuat tentativa:
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
-SELECT ls_state AS "Țara", 
+SELECT ls_state AS "Țara",
 COUNT(*) AS "Tentative",
 SUM (CASE WHEN lv_outcome in ('S') then 1 else 0 end) AS "Lansări",
 SUM (CASE WHEN lv_outcome in ('F') then 1 else 0 end) AS "Eșecuri"
