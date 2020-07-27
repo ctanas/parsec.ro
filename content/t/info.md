@@ -29,17 +29,15 @@ Un clasament general al lansărilor orbitale, începând cu 1957, în funcție d
 | Țara | Nr.  |
 |------|------|
 | SU   | 2457 |
-| US   | 1749 |
+| US   | 1753 |
 | RU   | 849  |
 | CN   | 376  |
-| EU   | 315  |
+| EU   | 324  |
 | JP   | 129  |
 | IN   | 75   |
 | IR   | 12   |
 | IL   | 11   |
-| KE   | 9    |
 | AU   | 6    |
 | KP   | 5    |
-| DZ   | 4    |
 | KR   | 3    |
 | BR   | 2    |
