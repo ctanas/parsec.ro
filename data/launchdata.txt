@@ -518,7 +518,7 @@
 1965-093   1965-11-19 04:48  Scout X-4              S138R               SR 8 (Solar Explorer A)                      IEO              LEO/I     US   Wallops     LA3A      S 
 1965-094   1965-11-23 03:14  Molniya 8K78           U 15000- 30         Kosmos-96 (3MV-4 No. 6)                      REA  1965-11-09  LLEO/I    SU   Baikonur    LC31      F 
 1965-095   1965-11-26 12:14  Kosmos 11K63                               Kosmos-97 (DS-U2-M No. 1)                    REE  1967-01-02  LEO/I     SU   Kapustin    LC86/1    S 
-1965-096   1965-11-26 14:47  Diamant A              No. 1               Asterix (A-1)                                IEO              LEO/I     DZ   HMG         Brigitte  S 
+1965-096   1965-11-26 14:47  Diamant A              No. 1               Asterix (A-1)                                IEO              LEO/I     EU   HMG         Brigitte  S 
 1965-097   1965-11-27 08:20  Vostok 8A92            U 15001- 05         Kosmos-98 (Zenit-2 No. 31L)                  LAN  1965-11-05  LLEO/I    SU   Baikonur    LC31      S 
 1965-098   1965-11-29 04:48  Thor SLV-2 Agena B     453/FTV 6102 (T     Alouette 2                                   IEO              MEO       US   VAFB        75-1-1    S 
 1965-099   1965-12-03 10:46  Molniya 8K78           U 15000- 48/U10     Luna-8 (E-6 No. 12)                          BEO  1965-12-06  LLEO/I    SU   Baikonur    LC31      S 
@@ -552,7 +552,7 @@
 1966-010   1966-02-10 08:40  Vostok 8A92            U 15001- 06         Kosmos-107 (Zenit-2 No. 34L)                 LAN  1966-02-18  LLEO/I    SU   Baikonur    LC31      S 
 1966-011   1966-02-11 18:00  Kosmos 63S1                                Kosmos-108 (DS-U1-G No. 1)                   REE  1966-11-21  LLEO/I    SU   Kapustin    LC86/1    S 
 1966-012   1966-02-15 20:30  Atlas SLV-3 Agena D    7115                OPS 1184 (GAMBIT SV 975)                     REE  1966-02-23  LLEO/S    US   SVAFB       PALC2-4   S 
-1966-013   1966-02-17 08:33  Diamant A              No. 2               Diapason D-1A                                IEO              LEO/I     DZ   HMG         Brigitte  S 
+1966-013   1966-02-17 08:33  Diamant A              No. 2               Diapason D-1A                                IEO              LEO/I     EU   HMG         Brigitte  S 
 1966-014   1966-02-19 08:49  Voskhod 11A57          U 15001- 02         Kosmos-109 (Zenit-4 No. 14L)                 LAN  1966-02-27  LLEO/I    SU   Baikonur    LC31      S 
 1966-F02   1966-02-21 13:30  Kosmos 63S1                                Kosmos (DS-K-40 No. 2)                                                  SU   Kapustin    LC86/1    F 
 1966-015   1966-02-22 20:09  Voskhod 11A57          R 15000- 06         Kosmos-110                                   LAN  1966-02-16  LLEO/I    SU   Baikonur    LC31      S 
@@ -687,11 +687,11 @@
 1967-008   1967-02-05 01:17  Atlas SLV-3 Agena D    5803 (AA20)         Lunar Orbiter 3 (Lunar Orbiter C)            BEO  1967-02-08  CLO       US   CC          LC13      S 
 1967-009   1967-02-07 03:20  Soyuz 11A511           U 15000- 03         Kosmos-140 (Soyuz No. 3)                     LAN  1967-02-09  LLEO/I    SU   Baikonur    LC1       S 
 1967-010   1967-02-08 08:00  Thor Burner 2          169/BII-2           OPS 6073 (DAPP 2418)                         IEO              LEO/S     US   VAFB        4300B6    S 
-1967-011   1967-02-08 09:39  Diamant A              No. 3               Diademe D-1C                                 IEO              LEO/I     DZ   HMG         Brigitte  S 
+1967-011   1967-02-08 09:39  Diamant A              No. 3               Diademe D-1C                                 IEO              LEO/I     EU   HMG         Brigitte  S 
 1967-012   1967-02-08 10:19  Voskhod 11A57          N 15001- 09         Kosmos-141 (Zenit-4 No. 29L)                 LAN  1967-02-16  LLEO/I    SU   Plesetsk    LC41/1    S 
 1967-U01   1967-02-14 05:52  Trailblazer 2          Meteor 10           Trailblazer Pellet                           REE  1965-02-27  LLEO/I    US   Wallops               S 
 1967-013   1967-02-14 10:04  Kosmos 11K63                               Kosmos-142 (DS-U2-I No. 2)                   REE  1967-03-06  LEO/I     SU   Kapustin    LC86/1    S 
-1967-014   1967-02-15 10:06  Diamant A              No. 4               Diademe D-1D                                 IEO              LEO/I     DZ   HMG         Brigitte  S 
+1967-014   1967-02-15 10:06  Diamant A              No. 4               Diademe D-1D                                 IEO              LEO/I     EU   HMG         Brigitte  S 
 1967-015   1967-02-22 22:02  Thor SLV-2A Agena D    493/FTV 1635        OPS 4750 (CORONA J-39)                       REA  1967-03-11  LLEO/I    US   SVAFB       SLC3W     S 
 1967-016   1967-02-24 19:59  Titan IIIB             3B-4                OPS 4204                                     REA  1967-02-06  LLEO/R    US   SVAFB       SLC4W     S 
 1967-017   1967-02-27 08:45  Vostok 8A92            U 15001- 03         Kosmos-143 (Zenit-2 No. 45L)                 LAN  1967-03-07  LLEO/I    SU   Baikonur    LC1       S 
@@ -719,7 +719,7 @@
 1967-U03   1967-04-20 01:35  Atlas SLV-3            7003                SV-5D (SV-5D FV-3)                           REE  1965-03-18  LLEO/I    US   SVAFB       SLC3E     S 
 1967-036   1967-04-20 11:21  Thor Delta E           484/D048            ESSA 5 (TOS C)                               IEO              LEO/S     US   VAFB        SLC2E     S 
 1967-037   1967-04-23 00:35  Soyuz 11A511           U 15000- 04         Soyuz-1 (Soyuz No. 4)                        DOR  1967-04-24  LLEO/I    SU   Baikonur    LC1       S 
-1967-038   1967-04-26 10:06  Scout B                S153C               San Marco 2 (San Marco B)                    REE  1967-05-14  LLEO/E    KE   SMLC                  S 
+1967-038   1967-04-26 10:06  Scout B                S153C               San Marco 2 (San Marco B)                    REE  1967-05-14  LLEO/E    EU   SMLC                  S 
 1967-F04   1967-04-26 18:00  Titan IIIB             3B-5                OPS 4243                                                                US   SVAFB       SLC4W     F 
 1967-039   1967-04-27 12:50  Vostok 8A92M           R 15000- 22         Kosmos-156 (Meteor No. 7L)                   REE  1989-06-23  LEO/I     SU   Plesetsk    LC41/1    S 
 1967-040   1967-04-28 10:01  Titan IIIC             3C-10               Vela 4A                                      DSO  1970-09-0   VHEO      US   CC          LC41      S 
@@ -1190,7 +1190,7 @@
 1970-104   1970-12-03 13:55  Voskhod 11A57          Kh15000-004         Kosmos-383 (Zenit-4MK No. 4L)                LAN  1970-12-16  LLEO/I    SU   Plesetsk    LC43/4    S 
 1970-105   1970-12-10 11:10  Voskhod 11A57          Yu15002-031         Kosmos-384 (Gektor No. 24L)                  LAN  1970-12-22  LLEO/I    SU   Plesetsk    LC41/1    S 
 1970-106   1970-12-11 11:35  Thor Delta N6          546/D081            NOAA 1 (ITOS A)                              IEO              LEO/S     US   VAFB        SLC2W     S 
-1970-107   1970-12-12 10:53  Scout B                S175C               Uhuru (SAS A)                                REE  1979-01-05  LLEO/E    KE   SMLC                  S 
+1970-107   1970-12-12 10:53  Scout B                S175C               Uhuru (SAS A)                                REE  1979-01-05  LLEO/E    US   SMLC                  S 
 1970-108   1970-12-12 13:00  Kosmos 11K65M          V149-39LM           Kosmos-385 (Tsiklon No. 16L)                 IEO              LEO/I     SU   Plesetsk    LC132/2   S 
 1970-109   1970-12-12 13:04  Diamant B              No. 2               Peole                                        REE  1980-01-16  LEO/E     EU   Kourou      Diamant   S 
 1970-110   1970-12-15 10:00  Voskhod 11A57          Kh76002-051         Kosmos-386 (Zenit-4M No. 11L)                LAN  1970-12-28  LLEO/I    SU   Baikonur    LC31      S 
@@ -1237,7 +1237,7 @@
 1971-033   1971-04-22 15:30  Titan 23B              23B-9 (3B-31)       OPS 7899                                     REA  1971-05-13  LLEO/R    US   SVAFB       SLC4W     S 
 1971-034   1971-04-22 23:54  Soyuz 11A511           Kh15000-025         Soyuz-10                                     LAN  1971-04-24  LLEO/I    SU   Baikonur    LC1       S 
 1971-035   1971-04-23 11:30  Kosmos 11K65M          53727-116           Kosmos-407                                   IEO              LEO/I     SU   Plesetsk    LC132/1   S 
-1971-036   1971-04-24 07:32  Scout B                S173C               San Marco 3 (San Marco C)                    REE  1971-05-29  LLEO/E    KE   SMLC                  S 
+1971-036   1971-04-24 07:32  Scout B                S173C               San Marco 3 (San Marco C)                    REE  1971-05-29  LLEO/E    EU   SMLC                  S 
 1971-037   1971-04-24 11:15  Kosmos 11K63           Yu457-33            Kosmos-408 (DS-P1-Yu No. 37L)                REE  1971-05-29  LEO/I     SU   Plesetsk    LC133/3   S 
 1971-038   1971-04-28 14:35  Kosmos 11K65M          53727-115           Kosmos-409 (Sfera No. 15L)                   IEO              LEO/I     SU   Plesetsk    LC132/1   S 
 1971-039   1971-05-05 07:43  Titan IIIC             23C-2 (3C-20)       DSP F2 (DSP 3)                               IEO              GEO/I     US   CC          LC40      S 
@@ -1305,7 +1305,7 @@
 1971-094   1971-11-02 14:25  Voskhod 11A57          7705712-217         Kosmos-454 (Rotor No. 17L)                   LAN  1971-11-16  LLEO/I    SU   Plesetsk    LC41/1    S 
 1971-095   1971-11-03 03:09  Titan IIIC             23C-3 (3C-21)       DSCS II F-1 (DSCS II A-1)                    IEO              GEO/S     US   CC          LC40      S 
 1971-F10   1971-11-05 13:00  Europa II              F-11                STV 4                                                                   EU   Kourou      CECLES    F 
-1971-096   1971-11-15 05:52  Scout B                S163CR              SSS 1 (SSS A)                                REE  1987-12-03  HEO       KE   SMLC                  S 
+1971-096   1971-11-15 05:52  Scout B                S163CR              SSS 1 (SSS A)                                REE  1987-12-03  HEO       US   SMLC                  S 
 1971-097   1971-11-17 11:09  Kosmos 11K63           29547-144           Kosmos-455 (DS-P1-Yu No. 54L)                REE  1972-12-09  LLEO/I    SU   Plesetsk    LC133/3   S 
 1971-098   1971-11-19 12:00  Voskhod 11A57          7705712-214         Kosmos-456 (Rotor No. 14L)                   LAN  1971-11-02  LLEO/I    SU   Plesetsk    LC43/3    S 
 1971-099   1971-11-20 18:00  Kosmos 11K65M          47114-105           Kosmos-457 (Sfera No. 16L)                   IEO              LEO/I     SU   Plesetsk    LC132/2   S 
@@ -1429,7 +1429,7 @@
 1972-088   1972-11-03 01:34  Kosmos 11K65M          Yu47121-1U          Kosmos-536                                   REE  1980-12-20  LLEO/I    SU   Plesetsk    LC132/1   S 
 1972-089   1972-11-09 03:23  Thor Burner 2A         294/BIIA-16         DMSP 6530                                    IEO              LEO/S     US   VAFB        SLC10W    S 
 1972-090   1972-11-10 01:14  Delta 1914             580/D092            Anik A1                                      IEO              GEO/S     US   CC          LC17B     S 
-1972-091   1972-11-15 22:13  Scout D-1              S170CR              SAS 2 (SAS B)                                REE  1976-11-20  LLEO/E    KE   SMLC                  S 
+1972-091   1972-11-15 22:13  Scout D-1              S170CR              SAS 2 (SAS B)                                REE  1976-11-20  LLEO/E    US   SMLC                  S 
 1972-092   1972-11-22 00:17  Scout D-1              S185C               ESRO 4                                       REE  1974-01-15  LEO/P     US   SVAFB       SLC5      S 
 1972-F07   1972-11-23 06:11  N-1 11A52              7L/Kh15007          Mockup LK (LK GVM)                                                      SU   Baikonur    LC110L    F 
 1972-093   1972-11-25 09:10  Voskhod 11A57          78033  -157         Kosmos-537 (Gektor No. 37L)                  LAN  1972-11-07  LLEO/I    SU   Baikonur    LC31      S 
@@ -1571,7 +1571,7 @@
 1974-006   1974-02-12 08:56  Voskhod 11A57          77019  -290         Kosmos-632 (Rotor No. 60L)                   LAN  1974-02-26  LLEO/I    SU   Baikonur    LC31      S 
 1974-007   1974-02-13 18:00  Titan 24B              24B-10 (3B-44)      OPS 6889                                     REA  1974-02-17  LLEO/R    US   SVAFB       SLC4W     S 
 1974-008   1974-02-16 05:00  Mu-3C                  M-3C-1              Tansei-2 (MS-T2)                             REE  1983-03-22  MEO       JP   Kagoshima   M         S 
-1974-009   1974-02-18 10:05  Scout D-1              S190C               San Marco 4 (San Marco C2)                   REE  1976-03-04  LLEO/E    KE   SMLC                  S 
+1974-009   1974-02-18 10:05  Scout D-1              S190C               San Marco 4 (San Marco C2)                   REE  1976-03-04  LLEO/E    EU   SMLC                  S 
 1974-010   1974-02-27 11:04  Kosmos 11K63           64643-161           Kosmos-633 (DS-P1-Yu No. 71L)                REE  1974-03-04  LLEO/I    SU   Plesetsk    LC133/3   S 
 1974-011   1974-03-05 11:38  Vostok 8A92M           76043  -350         Meteor                                       IEO              LEO/I     SU   Plesetsk    LC43/4    S 
 1974-012   1974-03-05 16:04  Kosmos 11K63           64643-162           Kosmos-634 (DS-P1-Yu No. 67L)                REE  1974-04-09  LLEO/I    SU   Plesetsk    LC133/3   S 
@@ -1644,7 +1644,7 @@
 1974-074   1974-09-26 16:34  Kosmos 11K63           45753-166           Kosmos-686 (DS-P1-Yu No. 72L)                REE  1975-10-01  LLEO/I    SU   Plesetsk    LC133/3   S 
 1974-075   1974-10-10 22:53  Delta 2914             589/D103            Westar 2                                     IEO              GEO/S     US   CC          LC17B     S 
 1974-076   1974-10-11 11:29  Kosmos 11K65M          53721-251 (225?     Kosmos-687 (Vektor)                          REE  1978-11-05  LLEO/I    SU   Plesetsk    LC132/2   S 
-1974-077   1974-10-15 07:47  Scout B-1              S187C               Ariel 5 (UK 5)                               REE  1980-11-14  LLEO/E    KE   SMLC                  S 
+1974-077   1974-10-15 07:47  Scout B-1              S187C               Ariel 5 (UK 5)                               REE  1980-11-14  LLEO/E    EU   SMLC                  S 
 1974-078   1974-10-18 15:00  Voskhod 11A57          77019  -754         Kosmos-688 (Germes No. 24L)                  LAN  1974-10-30  LLEO/I    SU   Plesetsk    LC41/1    S 
 1974-079   1974-10-18 22:36  Kosmos 11K65M          53753-207           Kosmos-689 (Zaliv No. 7)                     IEO              LEO/I     SU   Plesetsk    LC132/2   S 
 1974-080   1974-10-22 17:59  Soyuz-U                K 15000-010         Kosmos-690 (Bion No. 2L)                     LAN  1974-10-12  LLEO/I    SU   Plesetsk    LC43/4    S 
@@ -1714,7 +1714,7 @@
 1975-034   1975-04-22 21:10  Kosmos 11K65M          53731-274           Kosmos-729 (Zaliv No. 8)                     IEO              LEO/I     SU   Plesetsk    LC132/1   S 
 1975-035   1975-04-24 08:04  Voskhod 11A57          76041  -788         Kosmos-730 (Germes No. 48L)                  LAN  1975-04-06  LLEO/I    SU   Plesetsk    LC43/3    S 
 1975-036   1975-04-29 10:23  Molniya 8K78M          M 15000-064         Molniya-1                                    IEO              HEO/M     SU   Plesetsk    LC41/1    S 
-1975-037   1975-05-07 22:45  Scout F-1              S194C               SAS 3 (SAS C)                                REE  1979-06-09  LLEO/E    KE   SMLC                  S 
+1975-037   1975-05-07 22:45  Scout F-1              S194C               SAS 3 (SAS C)                                REE  1979-06-09  LLEO/E    US   SMLC                  S 
 1975-038   1975-05-07 23:35  Delta 2914             596/D110            Anik A3                                      IEO              GEO/S     US   CC          LC17B     S 
 1975-039   1975-05-17 10:32  Diamant BP.4           No. 2               Pollux (D-5A)                                REE  1975-06-05  LEO/I     EU   Kourou      Diamant   S 
 1975-040   1975-05-20 14:03  Titan IIIC             23C-7 (3C-25)       DSCS II F-5 (DSCS II B-5)                    REE  1975-05-26  LLEO/I    US   CC          LC40      S 
@@ -3303,7 +3303,7 @@
 1988-023   1988-03-22 14:07  Kosmos 11K65M          47111-221           Kosmos-1934 (Parus)                          IEO              LEO/I     SU   Plesetsk    LC132/1   S 
 1988-024   1988-03-23 21:05  Soyuz-U2               L 15000-026         Progress-35                                  DOR  1988-03-05  LLEO/I    SU   Baikonur    LC1       S 
 1988-025   1988-03-24 14:10  Soyuz-U                76048  -850         Kosmos-1935 (Kobal't No. 516)                LAN  1988-04-08  LLEO/I    SU   Plesetsk    LC16/2    S 
-1988-026   1988-03-25 19:50  Scout G-1              S206C               San Marco 5 (San Marco D/L)                  REE  1988-04-06  LLEO/E    KE   SMLC                  S 
+1988-026   1988-03-25 19:50  Scout G-1              S206C               San Marco 5 (San Marco D/L)                  REE  1988-04-06  LLEO/E    EU   SMLC                  S 
 1988-027   1988-03-30 12:00  Soyuz-U                77015  -365         Kosmos-1936 (Terilen No. 12L)                DOR  1988-04-18  LLEO/I    SU   Baikonur    LC1       S 
 1988-028   1988-03-31 04:18  Proton-K/DM            343-02              Gorizont (Gorizont No. 26L)                  IEO              GEO/S     SU   Baikonur    LC200/40  S 
 1988-029   1988-04-05 14:41  Kosmos 11K65M          47126-188           Kosmos-1937                                  IEO              LEO/I     SU   Plesetsk    LC133/3   S 
