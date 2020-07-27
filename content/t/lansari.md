@@ -1,10 +1,10 @@
 +++
-title = "Secțiunea experimentală (teste)"
+title = "Lansări orbitale"
 author = ["Claudiu"]
 draft = false
 +++
 
-Scopul acestei secțiuni este afișarea lansărilor (și a tentativelor de lansări) orbitale din fiecare an, într-un tabel cât mai concis. Datele primare sunt preluate de pe [site-ul lui Jonathan C. McDowell](https://planet4589.org/space/) (cu permisiunea autorului), procesate cu un [script](https://github.com/ctanas/lvsat%5Fpy2sql), ușor alterate, pentru a le face mai concise, și salvate într-o bază de date (PostreSQL), de unde sunt preluate de Emacs la generarea conținutului site-ului.
+Scopul acestei pagini este afișarea lansărilor (și a tentativelor de lansări) orbitale din fiecare an calendaristic, într-un tabel cât mai concis. Datele primare sunt preluate de pe [site-ul lui Jonathan C. McDowell](https://planet4589.org/space/) (cu permisiunea autorului), ușor alterate, pentru a le face mai concise și aduse la zi.
 
 Din 1957 și până în prezent, au avut loc `6002` tentative de lansări orbitale: `5551` au fost lansări care s-au încheiat cu succes (încărcătura primară a ajuns pe orbită), în timp ce `451` lansări s-au încheiat cu un eșec.
 
