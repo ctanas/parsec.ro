@@ -11,6 +11,7 @@ bulno = ""
 print("DROP TABLE launches;")
 print("CREATE TABLE launches (")
 print("launchID TEXT,")
+print("launchJDate DATE,")
 print("launchDate TIMESTAMP,")
 print("lv_type TEXT,")
 print("lv_serial TEXT,")
@@ -35,6 +36,6 @@ with open(txt_input) as fp:
             bulno = "0"+bulno
             bulno = "[[/bul/"+bulno+"]["+str(int(bulno))+"]]"
 
-        print("INSERT INTO launches VALUES ('"+ line_lv[0:11].strip() +"','"+ line_lv[11:29].strip() +"','"+ line_lv[29:52].strip().replace("'","''") +"','"+ line_lv[52:72].strip() +"','"+ line_lv[72:117].strip().replace("'","''") + "','"+ line_lv[117:122].strip() +"','"+ line_lv[122:134].strip() +"','"+ line_lv[134:144].strip() +"','"+ line_lv[144:149].strip() +"','"+ line_lv[149:161].strip() +"','"+ line_lv[161:171].strip() +"','"+ line_lv[171:173].strip() +"','"+bulno + "');")
+        print("INSERT INTO launches VALUES ('"+ line_lv[0:11].strip() +"','" + line_lv[11:22].strip() + "','" + line_lv[11:29].strip() +"','"+ line_lv[29:52].strip().replace("'","''") +"','"+ line_lv[52:72].strip() +"','"+ line_lv[72:117].strip().replace("'","''") + "','"+ line_lv[117:122].strip() +"','"+ line_lv[122:134].strip() +"','"+ line_lv[134:144].strip() +"','"+ line_lv[144:149].strip() +"','"+ line_lv[149:161].strip() +"','"+ line_lv[161:171].strip() +"','"+ line_lv[171:173].strip() +"','"+bulno + "');")
         line_lv = fp.readline()
         cnt+=1
