@@ -974,7 +974,7 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 Lista tuturor lansatoarelor orbitale folosite până în prezent, împreună cu câteva statistici (configurație, țara operatorului principal, număr tentative de lansare, număr lansări reușit, număr eșecuri, data primului zbor orbital și data celei mai recente lansări).
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
-SELECT SELECT ROW_NUMBER() OVER (ORDER BY lv_type) AS "Nr.", lv_type as "Lansator", ls_state as "Țara",
+SELECT ROW_NUMBER() OVER (ORDER BY lv_type) AS "Nr.", lv_type as "Lansator", ls_state as "Țara",
 COUNT(*) AS "Tentative",
 SUM (CASE WHEN lv_outcome in ('S') then 1 else 0 end) AS "Lansări",
 SUM (CASE WHEN lv_outcome in ('F') then 1 else 0 end) AS "Eșecuri",
