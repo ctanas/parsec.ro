@@ -88,7 +88,8 @@ Materialele care nu mai au un caracter de noutate (și care probabil nu vor mai 
 ** Lansări orbitale
 
 + Tabel cu [[/r/lansari2019][lansările orbitale din 2019]];
-+ Tabel cu [[/r/lansari2020][lansările orbitale din 2020]] (incomplet).
++ Tabel cu [[/r/lansari2020][lansările orbitale din 2020]] (incomplet);
++ Tabel cu [[/r/rachete_active][lansatoare active]] (2020, incomplet).
 
 ** Interviuri
 
@@ -965,10 +966,125 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 [fn:rhyp1] Racheta a urcat satelitul pe orbita corectă, dar ulterior acesta a suferit probleme tehnice.
 [fn:rsfg] Ultima lansare a rachetei Soyuz-FG și [[/m/soyuz-fg][probabil ultima lansare de pe rampa istorică 1/5 de la Baikonur]].
 [fn:rcst100] Racheta și treapta secundară au funcționat nominal, dar capsula CST-100 Starliner nu a mai ajuns la ISS din cauza unei probleme cu ceasul computerului de bord, care astfel nu a mai efectuat la timp o manevră de inserție pe orbita corectă. 
-** Lansatoare orbitale active
+** Lansatoare orbitale
 :PROPERTIES:
 :EXPORT_FILE_NAME: rachete 
 :END:
+
+Lista tuturor lansatoarelor orbitale folosite până în prezent, împreună cu câteva statistici (configurație, țara operatorului principal, număr tentative de lansare, număr lansări reușit, număr eșecuri, data primului zbor orbital și data celei mai recente lansări).
+
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
+SELECT SELECT ROW_NUMBER() OVER (ORDER BY lv_type) AS "Nr.", lv_type as "Lansator", ls_state as "Țara",
+COUNT(*) AS "Tentative",
+SUM (CASE WHEN lv_outcome in ('S') then 1 else 0 end) AS "Lansări",
+SUM (CASE WHEN lv_outcome in ('F') then 1 else 0 end) AS "Eșecuri",
+min(launchJDate) as "Prima", max(launchJDate) as "Recentă"
+FROM launches
+group by lv_type, ls_state
+order by lv_type
+#+end_src
+
+** Lansatoare orbitale active
+:PROPERTIES:
+:EXPORT_FILE_NAME: rachete_active
+:END:
+
+Lista tuturor lansatoarelor orbitale active folosite în prezent, împreună cu câteva statistici (configurație, țara operatorului principal, număr tentative de lansare, număr lansări reușit, număr eșecuri, data primului zbor orbital și data celei mai recente lansări). Sunt afișate toate configurațiile familiilor de rachete, chiar dacă unele configurații nu mai sunt folosite în prezent.
+
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
+SELECT ROW_NUMBER() OVER (ORDER BY lv_type) AS "Nr.", lv_type as "Lansator", ls_state as "Țara",
+COUNT(*) AS "Tentative",
+SUM (CASE WHEN lv_outcome in ('S') then 1 else 0 end) AS "Lansări",
+SUM (CASE WHEN lv_outcome in ('F') then 1 else 0 end) AS "Eșecuri",
+min(launchJDate) as "Prima", max(launchJDate) as "Recentă"
+FROM launches
+WHERE 
+lv_type like 'Atlas V%' or 
+lv_type like 'Falcon%' or
+lv_type like 'Soyuz-2%' or
+lv_type like 'Ariane 5%'
+group by lv_type, ls_state
+order by lv_type
+
+#+end_src
+
+#+RESULTS:
+| Nr. | Lansator       | Țara | Tentative | Lansări | Eșecuri |      Prima |    Recentă |
+|-----+----------------+------+-----------+---------+---------+------------+------------|
+|   1 | Ariane 5ECA    | EU   |        72 |      71 |       1 | 2002-12-11 | 2019-11-26 |
+|   2 | Ariane 5ECA+   | EU   |         3 |       3 |       0 | 2019-08-06 | 2020-02-18 |
+|   3 | Ariane 5ES     | EU   |         3 |       3 |       0 | 2016-11-17 | 2018-07-25 |
+|   4 | Ariane 5ES/ATV | EU   |         5 |       5 |       0 | 2008-03-09 | 2014-07-29 |
+|   5 | Ariane 5G      | EU   |        16 |      13 |       3 | 1996-06-04 | 2003-09-27 |
+|   6 | Ariane 5G+     | EU   |         3 |       3 |       0 | 2004-03-02 | 2004-12-18 |
+|   7 | Ariane 5GS     | EU   |         6 |       6 |       0 | 2005-08-11 | 2009-12-18 |
+|   8 | Atlas V 401    | US   |        38 |      37 |       1 | 2002-08-21 | 2018-05-05 |
+|   9 | Atlas V 411    | US   |         6 |       6 |       0 | 2006-04-20 | 2020-02-10 |
+|  10 | Atlas V 421    | US   |         7 |       7 |       0 | 2007-10-11 | 2017-10-15 |
+|  11 | Atlas V 431    | US   |         3 |       3 |       0 | 2005-03-11 | 2016-12-18 |
+|  12 | Atlas V 501    | US   |         7 |       7 |       0 | 2010-04-22 | 2020-05-17 |
+|  13 | Atlas V 521    | US   |         2 |       2 |       0 | 2003-07-17 | 2004-12-17 |
+|  14 | Atlas V 531    | US   |         3 |       3 |       0 | 2010-08-14 | 2013-09-18 |
+|  15 | Atlas V 541    | US   |         6 |       6 |       0 | 2011-11-26 | 2018-03-01 |
+|  16 | Atlas V 551    | US   |        11 |      11 |       0 | 2006-01-19 | 2020-03-26 |
+|  17 | Atlas V N22    | US   |         1 |       1 |       0 | 2019-12-20 | 2019-12-20 |
+|  18 | Falcon 1       | US   |         5 |       2 |       3 | 2006-03-24 | 2009-07-14 |
+|  19 | Falcon-9       | US   |        88 |      87 |       1 | 2010-06-04 | 2020-07-20 |
+|  20 | Falcon Heavy   | US   |         3 |       3 |       0 | 2018-02-06 | 2019-06-25 |
+|  21 | Soyuz-2.1a     | RU   |        40 |      38 |       2 | 2004-11-08 | 2020-07-23 |
+|  22 | Soyuz-2.1b     | RU   |        37 |      35 |       2 | 2006-12-27 | 2020-05-22 |
+|  23 | Soyuz-2.1v     | RU   |         6 |       5 |       1 | 2013-12-28 | 2019-11-25 |
+
+
+** Lansatoare orbitale viitoare
+:PROPERTIES:
+:EXPORT_FILE_NAME: viitor 
+:END:
+
+|-------------------+------+-------------+------------+----------+-------+-------+-------+------+-------|
+| Racheta           | Țara | Operator    | Inaugurare | Motor    | LEO   | SSO   | GTO   | Lună | Marte |
+|-------------------+------+-------------+------------+----------+-------+-------+-------+------+-------|
+| SLS Block1        | SUA  | NASA        |       2021 | RS-25    | 95t   |       |       | 26t  |       |
+| SLS Block1B       | SUA  | NASA        |       2024 | RS-25    | 105t  |       |       | 40t  |       |
+| SLS Block2        | SUA  | NASA        |      2028+ | RS-25    | 130t  |       |       |      | 45t   |
+| BFR               | SUA  | SpaceX      |       2020 | Raptor   | 150t  |       |       | 100t | 100t  |
+| Vulcan Centaur    | SUA  | ULA         |    07.2021 | BE-4     | 34t   | 29t   | 16.3t |      |       |
+| New Glenn 2S      | SUA  | Blue Origin |       2021 | BE-4     | 45t   |       | 13t   |      |       |
+| OmegA             | SUA  | NGSSG       |       2021 | Castor   |       |       | 4.9t  |      |       |
+|-------------------+------+-------------+------------+----------+-------+-------+-------+------+-------|
+| Ariane 62         | EU   | Arianespace |       2020 | Vulcain  | 10.3t | 6.5t  | 5t    |      |       |
+| Ariane 64         | EU   | Arianespace |       2020 | Vulcain  | 21.6  | 14.9t | 11.5t |      |       |
+| Vega-C            | EU   | Arianespace |       2020 | P80      |       |       |       |      |       |
+|-------------------+------+-------------+------------+----------+-------+-------+-------+------+-------|
+| H-3               | JPN  | JAXA        |       2020 | LE-9     |       | 4t    | 6.5t  |      |       |
+|-------------------+------+-------------+------------+----------+-------+-------+-------+------+-------|
+| SSLV              | IND  | ISRO        |       2020 | S85 (s)  |       | 0.3t  |       |      |       |
+| UMLV              | IND  | ISRO        |       202x | SCE-200  |       |       |       |      |       |
+|-------------------+------+-------------+------------+----------+-------+-------+-------+------+-------|
+| Angara-1.1        | RUS  | Roscosmos   |       2020 | RD-191   | 2.0t  |       |       |      |       |
+| Angara-1.2        | RUS  | Roscosmos   |            | RD-191   | 3.8t  |       |       |      |       |
+| Angara-3          | RUS  | Roscosmos   |            | RD-191   | 15.1t |       | 1.6t  |      |       |
+| Angara-5          | RUS  | Roscosmos   |            | RD-191   | 25.8t |       | 4.5t  |      |       |
+| Angara-7          | RUS  | Roscosmos   |            | RD-191   | 35.0t |       |       |      |       |
+| Soyuz-5 (Irtysh ) | RUS  | Roscosmos   |       2022 | RD-171   | 18t   |       | 5t    |      |       |
+| Soyuz-6           | RUS  | Roscosmos   |            | RD-180MV | 8.0t  |       |       |      |       |
+| Soyuz-7           | RUS  | Roscosmos   |            | RD-171MV |       |       |       |      |       |
+| Yenisei           | RUS  | Roscosmos   |       2028 | RD-171?  | 103t  |       |       |      |       |
+|-------------------+------+-------------+------------+----------+-------+-------+-------+------+-------|
+| Changzheng-8      | CHN  | CNSA        |       2020 | YF-100   | 7.6t  | 4.5t  | 2.5t  |      |       |
+| Changzheng-9      | CHN  | CNSA        |       2030 |          | 140t  |       |       | 50t  | 44t   |
+|-------------------+------+-------------+------------+----------+-------+-------+-------+------+-------|
+
+- LEO :: orbită terestră joasă (200-2000 km)
+- SSO :: orbită heliosincronă (aprox. 500 km, înclinație 97.7 grade)
+- GTO :: orbită geostaționară de transfer (spre orbita geostaționară --GEO, cu apogeul la 35786 km) 
+
+** Lansatoare orbitale active (arhivă)
+:PROPERTIES:
+:EXPORT_FILE_NAME: rachete_arhiva 
+:END:
+
+(Secțiune arhivată)
 
 |------------------+------+--------------+-------+--------------+-------+-------+-------+------+------+-------+------------|
 | Racheta          | Țara | Operator     | Debut | Motor        | LEO   | SSO   | GTO   | Lans | Succ | Eșec. |     Ultima |
@@ -1031,49 +1147,6 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 [fn:rc2] Falcon-9 a suferit o explozie pe rampa de lansare, înaintea misiunii Amos-18 (01.09.2016), eșec care nu apare în tabel.
 [fn:rc3] Safir a suferit în 29.08.2019 o explozie pe rampă, eșec care nu apare în tabel.
 [fn:rc4] Include și varianta CZ-11H care este lansată de pe o platformă maritimă.
-
-** Lansatoare orbitale viitoare
-:PROPERTIES:
-:EXPORT_FILE_NAME: viitor 
-:END:
-
-|-------------------+------+-------------+------------+----------+-------+-------+-------+------+-------|
-| Racheta           | Țara | Operator    | Inaugurare | Motor    | LEO   | SSO   | GTO   | Lună | Marte |
-|-------------------+------+-------------+------------+----------+-------+-------+-------+------+-------|
-| SLS Block1        | SUA  | NASA        |       2021 | RS-25    | 95t   |       |       | 26t  |       |
-| SLS Block1B       | SUA  | NASA        |       2024 | RS-25    | 105t  |       |       | 40t  |       |
-| SLS Block2        | SUA  | NASA        |      2028+ | RS-25    | 130t  |       |       |      | 45t   |
-| BFR               | SUA  | SpaceX      |       2020 | Raptor   | 150t  |       |       | 100t | 100t  |
-| Vulcan Centaur    | SUA  | ULA         |    07.2021 | BE-4     | 34t   | 29t   | 16.3t |      |       |
-| New Glenn 2S      | SUA  | Blue Origin |       2021 | BE-4     | 45t   |       | 13t   |      |       |
-| OmegA             | SUA  | NGSSG       |       2021 | Castor   |       |       | 4.9t  |      |       |
-|-------------------+------+-------------+------------+----------+-------+-------+-------+------+-------|
-| Ariane 62         | EU   | Arianespace |       2020 | Vulcain  | 10.3t | 6.5t  | 5t    |      |       |
-| Ariane 64         | EU   | Arianespace |       2020 | Vulcain  | 21.6  | 14.9t | 11.5t |      |       |
-| Vega-C            | EU   | Arianespace |       2020 | P80      |       |       |       |      |       |
-|-------------------+------+-------------+------------+----------+-------+-------+-------+------+-------|
-| H-3               | JPN  | JAXA        |       2020 | LE-9     |       | 4t    | 6.5t  |      |       |
-|-------------------+------+-------------+------------+----------+-------+-------+-------+------+-------|
-| SSLV              | IND  | ISRO        |       2020 | S85 (s)  |       | 0.3t  |       |      |       |
-| UMLV              | IND  | ISRO        |       202x | SCE-200  |       |       |       |      |       |
-|-------------------+------+-------------+------------+----------+-------+-------+-------+------+-------|
-| Angara-1.1        | RUS  | Roscosmos   |       2020 | RD-191   | 2.0t  |       |       |      |       |
-| Angara-1.2        | RUS  | Roscosmos   |            | RD-191   | 3.8t  |       |       |      |       |
-| Angara-3          | RUS  | Roscosmos   |            | RD-191   | 15.1t |       | 1.6t  |      |       |
-| Angara-5          | RUS  | Roscosmos   |            | RD-191   | 25.8t |       | 4.5t  |      |       |
-| Angara-7          | RUS  | Roscosmos   |            | RD-191   | 35.0t |       |       |      |       |
-| Soyuz-5 (Irtysh ) | RUS  | Roscosmos   |       2022 | RD-171   | 18t   |       | 5t    |      |       |
-| Soyuz-6           | RUS  | Roscosmos   |            | RD-180MV | 8.0t  |       |       |      |       |
-| Soyuz-7           | RUS  | Roscosmos   |            | RD-171MV |       |       |       |      |       |
-| Yenisei           | RUS  | Roscosmos   |       2028 | RD-171?  | 103t  |       |       |      |       |
-|-------------------+------+-------------+------------+----------+-------+-------+-------+------+-------|
-| Changzheng-8      | CHN  | CNSA        |       2020 | YF-100   | 7.6t  | 4.5t  | 2.5t  |      |       |
-| Changzheng-9      | CHN  | CNSA        |       2030 |          | 140t  |       |       | 50t  | 44t   |
-|-------------------+------+-------------+------------+----------+-------+-------+-------+------+-------|
-
-- LEO :: orbită terestră joasă (200-2000 km)
-- SSO :: orbită heliosincronă (aprox. 500 km, înclinație 97.7 grade)
-- GTO :: orbită geostaționară de transfer (spre orbita geostaționară --GEO, cu apogeul la 35786 km) 
 
 ** Soyuz-2
 :PROPERTIES:
@@ -1709,15 +1782,27 @@ Epsilon-S va reprezenta un upgrade substabțial al rachetei, cu modificări ale 
 :EXPORT_FILE_NAME: delta4h
 :END:
 
-
 #+name: deltaivheavy1
-#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb -t" :results value verbatim :exports none
-SELECT lv_type, min(make_date(launchDate)), max(launchDate) 
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
+SELECT DISTINCT ON (launchJDate) launchJDate AS "Data", lv_type AS "Racheta", lv_serial AS "Nr. serial", lv_Payload as "Satelit primar", lv_name as "Centru", lv_launchPad as "Rampă", sat_orbitClass as "Orbită", lv_outcome as "R"
 FROM launches
-group by lv_type
+WHERE lv_type LIKE ('Delta 4H%')
 #+end_src
 
 #+RESULTS: deltaivheavy1
+|       Data | Racheta            | Nr. serial | Satelit primar      | Centru | Rampă  | Orbită | R |
+|------------+--------------------+------------+---------------------+--------+--------+--------+---|
+| 2004-12-21 | Delta 4H           | D4-4/D310  | Demosat (HLV-OLDSP) | CC     | SLC37B | MEO    | F |
+| 2007-11-11 | Delta 4H           | D4-8/D329  | DSP F23             | CC     | SLC37B | GEO/ID | S |
+| 2009-01-18 | Delta 4H           | D4-9/D337  | USA 202 (ORION 6)   | CC     | SLC37B | GEO/S  | S |
+| 2010-11-21 | Delta 4H           | D4-14/D351 | USA 223 (ORION 7)   | CC     | SLC37B | GEO/ID | S |
+| 2011-01-20 | Delta 4H           | D4-15/D352 | USA 224             | SVAFB  | SLC6   | LEO/S  | S |
+| 2012-06-29 | Delta 4H           | D4-20/D360 | USA 237 (ORION 8)   | CC     | SLC37B | GEO/ID | S |
+| 2013-08-28 | Delta 4H           | D4-24/D364 | USA 245             | SVAFB  | SLC6   | LEO/S  | S |
+| 2014-12-05 | Delta 4H           | D4-28/D369 | Orion EFT-1         | CC     | SLC37B | SO     | S |
+| 2016-06-11 | Delta 4H           | D4-32/D374 | USA 268 (ORION 9?)  | CC     | SLC37B | GEO/I  | S |
+| 2018-08-12 | Delta 4H/Star 48BV | D4-37/D380 | Parker Solar Probe  | CC     | SLC37B | EEO    | S |
+| 2019-01-19 | Delta 4H           | D4-38/D382 | USA 290             | SVAFB  | SLC6   | LLEO/I | S |
 
 
 * Materiale diverse
