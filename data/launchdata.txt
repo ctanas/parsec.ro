@@ -3529,7 +3529,7 @@
 1990-026   1990-03-27 16:40  Molniya 8K78M          77059  -566         Kosmos-2063 (Oko No. 6054)                   IEO              HEO/M     SU   Plesetsk    LC43/3    S 
 1990-027   1990-04-03 12:02  Shaviyt                2                   'Ofeq-2                                      REE  1990-05-09  LEO/R     IL   Palmachim             S 
 1990-F02   1990-04-03 18:00  Soyuz-U                76047  -975         Spuskaemaya Kapsula                                                     SU   Plesetsk    LC43/4    F 
-1990-028   1990-04-05 19:10  Pegasus                001/F1              Pegsat                                       REA  1998-05-14  LLEO/P    SU   EAFB        NB-52-008 S 
+1990-028   1990-04-05 19:10  Pegasus                001/F1              Pegsat                                       REA  1998-05-14  LLEO/P    US   EAFB        NB-52-008 S 
 1990-029   1990-04-06 03:13  Kosmos 11K65M          65061-259           Kosmos-2064 (Strela-1M)                      IEO              LEO/I     SU   Plesetsk    LC133/3   S 
 1990-030   1990-04-07 13:30  CZ-3                   Y7       (22)       Asiasat 1                                    IEO              GEO/S     CN   Xichang     LC3       S 
 1990-031   1990-04-11 15:00  Atlas E Altair         28E                 POGS                                         IEO              LEO/P     US   SVAFB       SLC3W     S 
@@ -3673,7 +3673,7 @@
 1991-048   1991-07-09 09:40  Soyuz-U-PVB            78023  -818         Kosmos-2152 (Oblik No. 819)                  LAN  1991-07-23  LLEO/I    SU   Plesetsk    LC43/4    S 
 1991-049   1991-07-10 14:00  Soyuz-U                77059  -726         Kosmos-2153 (Neman No. 6L)                   DOR  1992-08-13  LLEO/I    SU   Baikonur    LC31      S 
 1991-050   1991-07-17 01:46  Ariane 40              V44 L416a           ERS-1                                        IEO              LEO/S     EU   Kourou      ELA2      S 
-1991-051   1991-07-17 17:33  Pegasus/HAPS           002/F2              Microsat 1                                   REE  1992-08-23  LLEO/I    EU   EAFB        NB-52-008 F 
+1991-051   1991-07-17 17:33  Pegasus/HAPS           002/F2              Microsat 1                                   REE  1992-08-23  LLEO/I    US   EAFB        NB-52-008 F 
 1991-052   1991-07-23 09:05  Soyuz-U                78012  -152         Resurs-F                                     LAN  1991-07-08  LLEO/I    SU   Plesetsk    LC43/3    S 
 1991-053   1991-08-01 11:53  Molniya 8K78M          76035  -533         Molniya-1                                    REE  2004-08-09  HEO/M     SU   Plesetsk    LC43/4    S 
 1991-054   1991-08-02 15:02  Space Shuttle          STS-43              Atlantis (STS-43)                            LAN  1991-08-11  LLEO/I    US   KSC         LC39A     S 
@@ -3817,7 +3817,7 @@
 1993-006   1993-01-26 15:55  Molniya 8K78M          78023  -609         Kosmos-2232 (Oko No. 6063)                   IEO              HEO/M     RU   Plesetsk    LC16/2    S 
 1993-007   1993-02-03 02:55  Delta 7925             D218                GPS IIA-9                                    IEO              MEO       US   CC          LC17A     S 
 1993-008   1993-02-09 02:56  Kosmos 11K65M          47178-428           Kosmos-2233 (Parus)                          IEO              LEO/I     RU   Plesetsk    LC133/3   S 
-1993-009   1993-02-09 14:30  Pegasus                003/F3              Orbcomm CDS-1 (Orbcomm OXP-1)                IEO              LEO/E     RU   KSC         NB-52-008 S 
+1993-009   1993-02-09 14:30  Pegasus                003/F3              Orbcomm CDS-1 (Orbcomm OXP-1)                IEO              LEO/E     US   KSC         NB-52-008 S 
 1993-010   1993-02-17 20:09  Proton-K/DM-2          362-01              Kosmos-2234 (Uragan No. 73L)                 IEO              MEO       RU   Baikonur    LC81/23   S 
 1993-011   1993-02-20 02:20  Mu-3S-II               M-3S2-7             Asuka (ASTRO-D)                              REE  2001-03-02  LLEO/I    JP   Kagoshima   M1        S 
 1993-012   1993-02-21 18:32  Soyuz-U2               U 15000-068         Progress M-16                                DOR  1993-03-27  LLEO/I    RU   Baikonur    LC1       S 
@@ -3834,7 +3834,7 @@
 1993-023   1993-04-08 05:29  Space Shuttle          STS-56              Discovery (STS-56)                           LAN  1993-04-17  LLEO/I    US   KSC         LC39B     S 
 1993-024   1993-04-16 07:49  Tsiklon-3              51027-908           Kosmos-2242                                  IEO              LEO/I     RU   Plesetsk    LC32/1    S 
 1993-025   1993-04-21 00:23  Molniya 8K78M          76032  -646         Molniya-3                                    REE  2004-05-25  HEO/M     RU   Plesetsk    LC43/4    S 
-1993-026   1993-04-25 13:56  Pegasus                004/F4              Alexis                                       IEO              LEO/I     RU   EAFB        NB-52-008 S 
+1993-026   1993-04-25 13:56  Pegasus                004/F4              Alexis                                       IEO              LEO/I     US   EAFB        NB-52-008 S 
 1993-027   1993-04-26 14:50  Space Shuttle          STS-55              Columbia (STS-55)                            LAN  1993-04-06  LLEO/I    US   KSC         LC39A     S 
 1993-028   1993-04-27 10:35  Soyuz-U                76047  -737         Kosmos-2243 (Kometa No. 16L)                 REE  1993-04-06  LLEO/I    RU   Baikonur    LC31      S 
 1993-029   1993-04-28 03:39  Tsiklon-2              45042-304           Kosmos-2244 (US-PM No. 17L)                  REE  1995-05-18  LLEO/I    RU   Baikonur    LC90/20   S 
@@ -3940,7 +3940,7 @@
 1994-043   1994-07-21 10:55  CZ-3                   Y8       (34)       APSTAR 1                                     IEO              GEO/S     CN   Xichang     LC3?      S 
 1994-044   1994-07-29 09:30  Soyuz-U                77031  -497         Kosmos-2284 (Kometa No. 17)                  LAN  1994-08-11  LLEO/I    RU   Baikonur    LC31      S 
 1994-045   1994-08-02 20:00  Kosmos 11K65M          47135-613           Kosmos-2285 (Obzor No. 1)                    IEO              LEO/I     RU   Plesetsk    LC132/1   S 
-1994-046   1994-08-03 14:38  Pegasus                F7                  APEX                                         IEO              LEO/I     RU   EAFB        NB-52-008 S 
+1994-046   1994-08-03 14:38  Pegasus                F7                  APEX                                         IEO              LEO/I     US   EAFB        NB-52-008 S 
 1994-047   1994-08-03 23:57  Atlas IIA              AC-107              DirecTV 2 (DBS 2)                            IEO              GEO/S     US   CC          LC36A     S 
 1994-048   1994-08-05 01:12  Molniya 8K78M          78012  -642         Kosmos-2286 (Oko No. 6061)                   IEO              HEO/M     RU   Plesetsk    LC16/2    S 
 1994-049   1994-08-10 23:05  Ariane 44LP            V66 L438a           Brasilsat B1                                 IEO              GEO/D     EU   Kourou      ELA2      S 
@@ -4004,7 +4004,7 @@
 1995-015   1995-03-24 14:05  Atlas E                45E                 DMSP F-13                                    IEO              LEO/S     US   SVAFB       SLC3W     S 
 1995-F02   1995-03-28 10:00  Start                                      Gurwin-1 (Techsat 1)                                                    RU   GNIIP       LC158     F 
 1995-016   1995-03-28 23:14  Ariane 44LP            V71 L443a           Brasilsat B2                                 IEO              GEO/S     EU   Kourou      ELA2      S 
-1995-017   1995-04-03 13:48  Pegasus H              F8                  Orbcomm F1 (Orbcomm FM1)                     IEO              LEO/I     EU   VAFB        L-1011    S 
+1995-017   1995-04-03 13:48  Pegasus H              F8                  Orbcomm F1 (Orbcomm FM1)                     IEO              LEO/I     US   VAFB        L-1011    S 
 1995-018   1995-04-05 11:16  Shaviyt 1              3                   'Ofeq-3                                      REE  2000-05-24  LLEO/R    IL   Palmachim             S 
 1995-019   1995-04-07 23:47  Atlas IIA              AC-114              AMSC 1                                       IEO              GEO/S     US   CC          LC36A     S 
 1995-020   1995-04-09 19:34  Soyuz-U                V 15000-646         Progress M-27                                DOR  1995-04-23  LLEO/I    RU   Baikonur    LC1       S 
@@ -4017,7 +4017,7 @@
 1995-027   1995-05-31 15:27  Atlas II               AC-116              UHF F/O F5 (UHF F/O F5-EHF)                  IEO              GEO/I     US   CC          LC36A     S 
 1995-028   1995-06-08 04:43  Tsiklon-2              51041-505           Kosmos-2313 (US-PM No. 18L)                  REE  1997-07-11  LLEO/I    RU   Baikonur    LC90/20   S 
 1995-029   1995-06-10 00:24  Ariane 42P             V74 L446b           DirecTV 3 (DBS 3)                            IEO              GEO/S     EU   Kourou      ELA2      S 
-1995-F03   1995-06-22 19:58  Pegasus XL             F9                  STEP M3 (STEP 3)                                                        EU   VAFB        L-1011    F 
+1995-F03   1995-06-22 19:58  Pegasus XL             F9                  STEP M3 (STEP 3)                                                        US   VAFB        L-1011    F 
 1995-030   1995-06-27 19:32  Space Shuttle          STS-71              Atlantis (STS-71)                            LAN  1995-06-07  LLEO/I    US   KSC         LC39A     S 
 1995-031   1995-06-28 18:25  Soyuz-U-PVB            77031  -506         Kosmos-2314 (Kobal't No. 546)                LAN  1995-07-06  LLEO/I    RU   Plesetsk    LC43/3    S 
 1995-032   1995-07-05 03:09  Kosmos 11K65M          53765-638           Kosmos-2315 (Nadezhda 17F118)                IEO              LEO/I     RU   Plesetsk    LC132/1   S 
@@ -4097,7 +4097,7 @@
 1996-029   1996-05-12 21:32  Titan 403A             K-22   (45F-11)     USA 119 (NOSS B-4 SSU-1)                     IEO              LEO/I     US   SVAFB       SLC4E     S 
 1996-F02   1996-05-14 08:55  Soyuz-U                78051  -368         Kometa (Kometa No. 18)                                                  RU   Baikonur    LC31      F 
 1996-030   1996-05-16 01:56  Ariane 44L             V86 L458a           Palapa C2                                    IEO              GEO/S     EU   Kourou      ELA2      S 
-1996-031   1996-05-17 02:44  Pegasus H              F11                 MSTI 3                                       DOR  1997-06-11  LLEO/S    EU   VAFB        L-1011    S 
+1996-031   1996-05-17 02:44  Pegasus H              F11                 MSTI 3                                       DOR  1997-06-11  LLEO/S    US   VAFB        L-1011    S 
 1996-032   1996-05-19 10:30  Space Shuttle          STS-77              Endeavour (STS-77)                           LAN  1996-05-29  LLEO/I    US   KSC         LC39B     S 
 1996-033   1996-05-24 01:10  Delta 7925             D236                Galaxy 9                                     IEO              GEO/S     US   CC          LC17B     S 
 1996-034   1996-05-25 02:05  Proton-K/DM-2          379-01              Gorizont (Gorizont No. 44L)                  IEO              GEO/S     RU   Baikonur    LC200/39  S 
@@ -4105,7 +4105,7 @@
 1996-035   1996-06-15 06:55  Ariane 44P             V87 L459a           INTELSAT 709                                 IEO              GEO/S     EU   Kourou      ELA2      S 
 1996-036   1996-06-20 14:49  Space Shuttle          STS-78              Columbia (STS-78)                            LAN  1996-06-07  LLEO/I    US   KSC         LC39B     S 
 1996-F04   1996-06-20 18:44  Soyuz-U-PVB            77044  -843         [Kosmos] (Kobal't No. 551)                                              RU   Plesetsk    LC16/2    F 
-1996-037   1996-07-02 07:48  Pegasus XL             F12                 Earth Probe TOMS (TOMS-EP)                   IEO              LLEO/S    RU   VAFB        L-1011    S 
+1996-037   1996-07-02 07:48  Pegasus XL             F12                 Earth Probe TOMS (TOMS-EP)                   IEO              LLEO/S    US   VAFB        L-1011    S 
 1996-038   1996-07-03 00:30  Titan 405A             K-2    (45H-1)      USA 125 (QUASAR 10)                          REE  2011-02-0   GTO       US   CC          LC40      S 
 1996-039   1996-07-03 10:47  CZ-3                   Y10A     (41)       Apstar 1A                                    IEO              GEO/S     CN   Xichang     LC3?      S 
 1996-040   1996-07-09 22:24  Ariane 44L             V89 L460a           Arabsat IIA (Arabsat 2A)                     IEO              GEO/S     EU   Kourou      ELA2      S 
@@ -4117,7 +4117,7 @@
 1996-046   1996-08-17 01:53  H-II                   H-II-4F             Midori (ADEOS)                               IEO              LEO/S     JP   TNSC        Y         S 
 1996-047   1996-08-17 13:18  Soyuz-U                Kh15000-077         Soyuz TM-24                                  LAN  1997-09-02  LLEO/I    RU   Baikonur    LC1       S 
 1996-048   1996-08-18 10:27  CZ-3                   Y14      (42)       Zhongxing 7                                  IEO              MEO       CN   Xichang     LC3?      F 
-1996-049   1996-08-21 09:47  Pegasus XL             F13                 FAST                                         IEO              MEO       CN   VAFB        L-1011    S 
+1996-049   1996-08-21 09:47  Pegasus XL             F13                 FAST                                         IEO              MEO       US   VAFB        L-1011    S 
 1996-050   1996-08-29 05:22  Molniya 8K78M          76047  -680         Victor (Microsatelite)                       REE  1999-09-12  LEO/I     RU   Plesetsk    LC43/3    S 
 1996-051   1996-09-04 09:01  Zenit-2                51027-905/15L       Kosmos-2333 (Tselina-2)                      IEO              LEO/I     RU   Baikonur    LC45/1    S 
 1996-052   1996-09-05 12:47  Kosmos 11K65M          53759-826           Kosmos-2334 (Parus)                          IEO              LEO/I     RU   Plesetsk    LC132/1   S 
@@ -4129,7 +4129,7 @@
 1996-058   1996-09-26 17:50  Proton-K/DM-2M         379-02              Ekspress-6 (Ekspress No. 12L)                IEO              GEO/S     RU   Baikonur    LC200/39  S 
 1996-059   1996-10-20 07:20  CZ-2D                  Y3       (43)       Fanhui Shi Weixing (17)                      REE  1996-10-03  LLEO/I    CN   Jiuquan     LA2B      S 
 1996-060   1996-10-24 11:37  Molniya 8K78M          78012  -645         Molniya-3 (Molniya-3 No. 62)                 REE  2007-11-18  HEO/M     RU   Plesetsk    LC43/4    S 
-1996-061   1996-11-04 17:08  Pegasus XL             F14                 HETE                                         REA  2002-12-07  LLEO/I    RU   WIMB        L-1011    F 
+1996-061   1996-11-04 17:08  Pegasus XL             F14                 HETE                                         REA  2002-12-07  LLEO/I    US   WIMB        L-1011    F 
 1996-062   1996-11-07 17:00  Delta 7925             D239                Mars Global Surveyor                         BEO  1996-11-08  EEO       US   CC          LC17A     S 
 1996-063   1996-11-13 22:40  Ariane 44L             V92 L463a           Arabsat IIB (Arabsat 2B)                     IEO              GEO/D     EU   Kourou      ELA2      S 
 1996-064   1996-11-16 20:48  Proton-K/D-2           392-02              Mars-96                                      BEO  1972-02-15  CLO       RU   Baikonur    LC200/39  S 
@@ -4160,7 +4160,7 @@
 1997-015   1997-04-09 08:58  Molniya 8K78M          76032  -647         Kosmos-2340 (Oko No. 6066)                   IEO              HEO/M     RU   Plesetsk    LC16/2    S 
 1997-016   1997-04-16 23:08  Ariane 44LP            V95 L467d           Thaicom 3                                    IEO              GEO/D     EU   Kourou      ELA2      S 
 1997-017   1997-04-17 13:03  Kosmos 11K65M          53765-635           Kosmos-2341 (Parus)                          IEO              LEO/I     RU   Plesetsk    LC132/1   S 
-1997-018   1997-04-21 11:59  Pegasus XL             F15                 Minisat-01                                   REE  2002-05-26  LLEO/R    RU   GANC        L-1011    S 
+1997-018   1997-04-21 11:59  Pegasus XL             F15                 Minisat-01                                   REE  2002-05-26  LLEO/R    US   GANC        L-1011    S 
 1997-019   1997-04-25 05:49  Atlas I                AC-79               GOES 10 (GOES K)                             IEO              GEO/S     US   CC          LC36B     S 
 1997-020   1997-05-05 14:55  Delta 7920-10C         D242                Iridium 8 (Iridium SV008)                    REE  2017-06-24  LEO/P     US   VAFB        SLC2W     S 
 1997-021   1997-05-11 16:17  CZ-3A                  Y3?      (44)       Zhongxing 6 (DFH-3)                          IEO              GEO/S     CN   Xichang     LC2       S 
@@ -4190,7 +4190,7 @@
 1997-044   1997-08-23 06:51  LMLV-1                 LM-002              Lewis (SSTI/Lewis)                           REE  1997-08-28  LLEO/S    US   SVAFB       SLC6      S 
 1997-045   1997-08-25 14:39  Delta 7920-8           D247                ACE                                          BEO  1997-08-26  CLO       US   CC          LC17A     S 
 1997-046   1997-08-28 00:33  Proton-K/DM-2M         387-02              PAS 5                                        IEO              GEO/S     RU   Baikonur    LC81/23   S 
-1997-047   1997-08-29 15:02  Pegasus XL             019/F17             FORTE                                        IEO              LEO/I     RU   VRW30/12    L-1011    S 
+1997-047   1997-08-29 15:02  Pegasus XL             019/F17             FORTE                                        IEO              LEO/I     US   VRW30/12    L-1011    S 
 1997-048   1997-09-01 14:00  CZ-2C-III/SD           Y1       (47)       Iridium MFS 1                                IEO              LEO/P     CN   Taiyuan     LC7       S 
 1997-049   1997-09-02 22:21  Ariane 44LP            V99 L470g           Hot Bird 3 (Eutelsat HB3)                    IEO              GEO/S     EU   Kourou      ELA2      S 
 1997-050   1997-09-04 12:03  Atlas IIAS             AC-146              GE 3                                         IEO              GEO/S     US   CC          LC36A     S 
@@ -4206,7 +4206,7 @@
 1997-060   1997-10-09 17:59  Soyuz-U                S 15000-057         Foton                                        LAN  1997-10-23  LLEO/I    RU   Plesetsk    LC43/3    S 
 1997-061   1997-10-15 08:43  Titan 401B/Centaur     4B-33/TC-21 (45     Cassini                                      BEO  1997-10-15  EEO       US   CC          LC40      S 
 1997-062   1997-10-16 19:13  CZ-3B                  Y3       (48)       Apstar 2R                                    IEO              GEO/S     CN   Xichang     LC2       S 
-1997-063   1997-10-22 13:13  Pegasus XL             F18                 STEP M4                                      REE  2001-11-31  LLEO/I    CN   WIMB        L-1011    S 
+1997-063   1997-10-22 13:13  Pegasus XL             F18                 STEP M4                                      REE  2001-11-31  LLEO/I    US   WIMB        L-1011    S 
 1997-064   1997-10-24 02:32  Titan 403A             4A-18 (K-18, 45     USA 133 (ONYX 3)                             DOR  2011-11-08  LEO/I     US   SVAFB       SLC4E     S 
 1997-065   1997-10-25 00:46  Atlas IIA              AC-131 MLV-6        USA 134 (DSCS III B-13)                      IEO              GEO/S     US   CC          LC36A     S 
 1997-066   1997-10-30 13:43  Ariane 5G              V101 (502)          TEAMSAT                                      IEO              HEO       EU   Kourou      ELA3      F 
@@ -4228,7 +4228,7 @@
 1997-081   1997-12-20 08:45  Soyuz-U                S 15000-654         Progress M-37                                DOR  1998-01-16  LLEO/I    RU   Baikonur    LC1       S 
 1997-082   1997-12-20 13:16  Delta 7920-10C         D251                Iridium 45 (Iridium SV045)                   IEO              LEO/P     US   VAFB        SLC2W     S 
 1997-083   1997-12-22 00:16  Ariane 42L             V104 L474b          INTELSAT 804                                 IEO              GEO/S     EU   Kourou      ELA2      S 
-1997-084   1997-12-23 19:11  Pegasus XL/HAPS        F19                 Orbcomm A1 (Orbcomm FM5)                     IEO              LEO/I     EU   WIMB        L-1011    S 
+1997-084   1997-12-23 19:11  Pegasus XL/HAPS        F19                 Orbcomm A1 (Orbcomm FM5)                     IEO              LEO/I     US   WIMB        L-1011    S 
 1997-085   1997-12-24 13:32  Start-1                                    EarlyBird                                    REE  2000-01-27  LLEO/S    RU   GIK-2       LC5       S 
 1997-086   1997-12-24 23:19  Proton-K/DM-2M         394-01              Asiasat 3                                    DSO  1998-05-24  CLO       RU   Baikonur    LC81/23   F 
 1998-001   1998-01-07 02:28  Athena-2               LM-004              Lunar Prospector (LP)                        BEO  1998-01-07  CLO       US   SPFL        SLC46     S 
@@ -4243,7 +4243,7 @@
 1998-009   1998-02-17 10:35  Soyuz-U-PVB            A 15000-046         Kosmos-2349 (Kometa No. 19)                  LAN  1998-02-02  LLEO/I    RU   Baikonur    LC31      S 
 1998-010   1998-02-18 13:58  Delta 7920-10C         D254                Iridium 52 (Iridium SV052)                   REE  2018-03-05  LEO/P     US   VAFB        SLC2W     S 
 1998-011   1998-02-21 07:55  H-II                   H-II-5F             Kakehashi (COMETS)                           IEO              HEO       JP   TNSC        Y         S 
-1998-012   1998-02-26 07:07  Pegasus XL             F20                 SNOE                                         REE  2003-03-13  LLEO/S    JP   VAFB        L-1011    S 
+1998-012   1998-02-26 07:07  Pegasus XL             F20                 SNOE                                         REE  2003-03-13  LLEO/S    US   VAFB        L-1011    S 
 1998-013   1998-02-27 22:38  Ariane 42P             V106 L476c          Hot Bird 4 (Eutelsat HB4)                    IEO              GEO/S     EU   Kourou      ELA2      S 
 1998-014   1998-02-28 00:21  Atlas IIAS             AC-151              INTELSAT 806                                 IEO              GEO/S     US   CC          SLC36B    S 
 1998-015   1998-03-14 22:45  Soyuz-U-PVB            S 15000-656         Progress M-38                                DOR  1998-04-16  LLEO/I    RU   Baikonur    LC1       S 
@@ -4277,7 +4277,7 @@
 1998-043   1998-07-10 06:30  Zenit-2                67021-803/18NI      Resurs-O1 (Resurs-O1 No. 4L)                 IEO              LEO/S     RU   Baikonur    LC45/1    S 
 1998-044   1998-07-18 09:20  CZ-3B                  Y4       (53)       Xinnuo 1 (xinnuo yihao)                      IEO              GEO/S     CN   Xichang     LC2       S 
 1998-045   1998-07-28 09:15  Zenit-2                45092-803/1-98      Kosmos-2360 (Tselina-2)                      IEO              LEO/I     RU   Baikonur    LC45/1    S 
-1998-046   1998-08-02 16:24  Pegasus XL/HAPS        F22                 Orbcomm B5 (Orbcomm FM17)                    IEO              LEO/I     RU   WIMB        L-1011    S 
+1998-046   1998-08-02 16:24  Pegasus XL/HAPS        F22                 Orbcomm B5 (Orbcomm FM17)                    IEO              LEO/I     US   WIMB        L-1011    S 
 1998-F02   1998-08-12 11:30  Titan 401A/Centaur     4A-20/TC-9 (K-1     USA (MERCURY 16)                                                        US   CC          LC41      F 
 1998-047   1998-08-13 09:43  Soyuz-U-PVB            M 15000-658         Soyuz TM-28                                  LAN  1999-09-28  LLEO/I    RU   Baikonur    LC1       S 
 1998-048   1998-08-19 23:01  CZ-2C-III/SD           Y5       (54)       Iridium 3 (Iridium SV078)                    REE  2018-09-08  LEO/P     CN   Taiyuan     LC7       S 
@@ -4288,14 +4288,14 @@
 1998-051   1998-09-08 21:13  Delta 7920-10C         D260                Iridium 82 (Iridium SV082)                   IEO              LEO/P     US   VAFB        SLC2W     S 
 1998-F05   1998-09-09 20:29  Zenit-2 11K77.05       67047-801/22L       Globalstar FM5                                                          RU   Baikonur    LC45/1    F 
 1998-052   1998-09-16 06:31  Ariane 44LP            V110 L480f          PAS 7                                        IEO              GEO/S     EU   Kourou      ELA2      S 
-1998-053   1998-09-23 05:06  Pegasus XL/HAPS        F23                 Orbcomm C1 (Orbcomm FM21)                    IEO              LEO/I     EU   WIMB        L-1011    S 
+1998-053   1998-09-23 05:06  Pegasus XL/HAPS        F23                 Orbcomm C1 (Orbcomm FM21)                    IEO              LEO/I     US   WIMB        L-1011    S 
 1998-054   1998-09-28 23:41  Molniya 8K78M          Kh15000-030         Molniya-1T                                   IEO              HEO/M     RU   Plesetsk    LC43/3    S 
 1998-055   1998-10-03 10:04  ARPA Taurus            T3 1110             STEX                                         IEO              LEO/I     US   VAFB        576E      S 
 1998-056   1998-10-05 22:51  Ariane 44L             V111 L481f          Eutelsat W2                                  IEO              GEO/D     EU   Kourou      ELA2      S 
 1998-057   1998-10-09 22:50  Atlas IIA              AC-134              Hot Bird 5 (Eutelsat HB5)                    IEO              GEO/S     US   CC          SLC36B    S 
 1998-058   1998-10-20 07:19  Atlas IIA              AC-130              UHF F/O F9 (UFO F9)                          IEO              GEO/I     US   CC          SLC36A    S 
 1998-059   1998-10-21 16:37  Ariane 5G              V112 (503)          Maqsat-3                                     IEO              GTO       EU   Kourou      ELA3      S 
-1998-060   1998-10-23 00:02  Pegasus H              F24/P-33            SCD-2                                        IEO              LEO/E     EU   CC          L-1011    S 
+1998-060   1998-10-23 00:02  Pegasus H              F24/P-33            SCD-2                                        IEO              LEO/E     US   CC          L-1011    S 
 1998-061   1998-10-24 12:08  Delta 7326-9.5         D261                Deep Space 1                                 BEO  1998-10-25  EEO       US   CC          SLC17A    S 
 1998-062   1998-10-25 04:14  Soyuz-U-PVB            M 15000-660         Progress M-40                                DOR  1999-11-05  LLEO/I    RU   Baikonur    LC1       S 
 1998-063   1998-10-28 22:15  Ariane 44L             V113 L482d          Afristar                                     IEO              GEO/S     EU   Kourou      ELA2      S 
@@ -4306,7 +4306,7 @@
 1998-068   1998-11-22 23:54  Delta 7925-9.5         D263                BONUM-1                                      IEO              GEO/S     US   CC          SLC17B    S 
 1998-069   1998-12-04 08:35  Space Shuttle          STS-88              Endeavour (STS-88)                           LAN  1998-12-16  LLEO/I    US   KSC         LC39A     S 
 1998-070   1998-12-06 00:43  Ariane 42L             V114 L483c          Satmex 5                                     IEO              GEO/S     EU   Kourou      ELA2      S 
-1998-071   1998-12-06 00:57  Pegasus XL             F25                 SWAS                                         IEO              LEO/I     EU   VAFB        L-1011    S 
+1998-071   1998-12-06 00:57  Pegasus XL             F25                 SWAS                                         IEO              LEO/I     US   VAFB        L-1011    S 
 1998-072   1998-12-10 11:57  Kosmos 11K65M          53713-320           Nadezhda (Nadezhda 17F118)                   IEO              LEO/I     RU   Plesetsk    LC132/1   S 
 1998-073   1998-12-11 18:45  Delta 7425-9.5         D264                Mars Climate Orbiter                         BEO  1998-12-12  EEO       US   CC          SLC17A    S 
 1998-074   1998-12-19 11:39  CZ-2C-III/SD           Y6       (55)       Iridium 20A (Iridium SV088?)                 REE  2018-01-22  LEO/P     CN   Taiyuan     LC7       S 
@@ -4323,7 +4323,7 @@
 1999-008   1999-02-23 10:29  Delta 7920-10          D267                ARGOS (P91-1)                                IEO              LEO/S     US   VAFB        SLC2W     S 
 1999-009   1999-02-26 22:44  Ariane 44L             V116 L485           Arabsat 3A                                   IEO              GEO/S     EU   Kourou      ELA2      S 
 1999-010   1999-02-28 04:00  Proton-K/DM-2          387-01              Raduga-1 (Globus No. 15L)                    IEO              GEO/S     RU   Baikonur    LC81/23   S 
-1999-011   1999-03-05 02:56  Pegasus XL             F26/M-22            WIRE                                         REE  2011-04-10  LLEO/S    RU   VAFB        L-1011    S 
+1999-011   1999-03-05 02:56  Pegasus XL             F26/M-22            WIRE                                         REE  2011-04-10  LLEO/S    US   VAFB        L-1011    S 
 1999-012   1999-03-15 03:06  Soyuz-U-PVB            S 15000-059         Globalstar FM22                              IEO              LEO/I     RU   Baikonur    LC1       S 
 1999-013   1999-03-21 00:09  Proton-K/DM-2M         388-01              Asiasat 3S                                   IEO              GEO/S     RU   Baikonur    LC81/23   S 
 1999-014   1999-03-28 01:29  Zenit-3SL              1L/DM-SL-1TL        DemoSat                                      IEO              GTO       RU   ODYSSEY,K   LA        S 
@@ -4339,7 +4339,7 @@
 1999-023   1999-04-30 16:30  Titan 401B/Centaur     4B-32/TC-14 (K-     Milstar 3 (Milstar DFS-3)                    IEO              MEO       US   CC          LC40      F 
 1999-024   1999-05-05 01:00  Delta 8930             D269                Orion 3                                      IEO              LEO/I     US   CC          SLC17B    F 
 1999-025   1999-05-10 01:33  CZ-4B                  Y2       (56)       Feng Yun 1C (Feng Yun Yi Beng)               IEO              LEO/S     CN   Taiyuan     LC7       S 
-1999-026   1999-05-18 05:09  Pegasus XL/HAPS        F27                 TERRIERS                                     IEO              LLEO/S    CN   VAFB        L-1011    S 
+1999-026   1999-05-18 05:09  Pegasus XL/HAPS        F27                 TERRIERS                                     IEO              LLEO/S    US   VAFB        L-1011    S 
 1999-027   1999-05-20 22:30  Proton-K/DM-2M         396-02              Nimiq 1 (Telesat DTH-1)                      IEO              GEO/S     RU   Baikonur    LC81/23   S 
 1999-028   1999-05-22 09:36  Titan 404B             4B-12               USA 144 (MISTY 2?)                           IEO              MEO       US   SVAFB       SLC4E     S 
 1999-029   1999-05-26 06:22  PSLV                   PSLV-C2             Uribyol-3 (KITSAT-3)                         IEO              LEO/S     IN   SHAR        FLP       S 
@@ -4381,7 +4381,7 @@
 1999-062   1999-11-22 16:20  Soyuz-U-PVB            M 15000-063         Globalstar M039                              IEO              LEO/I     RU   Baikonur    LC1       S 
 1999-063   1999-11-23 04:06  Atlas IIA              AC-136              UHF F/O F10 (UFO 10)                         IEO              GEO/I     US   CC          SLC36B    S 
 1999-064   1999-12-03 16:22  Ariane 40              V124 L492           Helios 1B                                    IEO              LEO/S     EU   Kourou      ELA2      S 
-1999-065   1999-12-04 18:53  Pegasus XL/HAPS        F28                 Orbcomm D2 (Orbcomm FM30)                    IEO              LEO/I     EU   WIMB        L-1011    S 
+1999-065   1999-12-04 18:53  Pegasus XL/HAPS        F28                 Orbcomm D2 (Orbcomm FM30)                    IEO              LEO/I     US   WIMB        L-1011    S 
 1999-066   1999-12-10 14:32  Ariane 5G              V119 (504a)         XMM-Newton (XMM)                             IEO              VHEO      EU   Kourou      ELA3      S 
 1999-F05   1999-12-11 18:25  VLS-1                  V02                 SACI-2                                                                  BR   ALCA        VLS       F 
 1999-067   1999-12-12 17:38  Titan II SLV           23G-8               DMSP F-15                                    IEO              LEO/S     US   SVAFB       SLC4W     S 
@@ -4422,7 +4422,7 @@
 2000-027   2000-05-19 10:11  Space Shuttle          STS-101             Atlantis (STS-101)                           LAN  2000-05-29  LLEO/I    US   KSC         LC39A     S 
 2000-028   2000-05-24 23:10  Atlas 3A               AC-201              Eutelsat W4                                  IEO              GEO/S     US   CC          SLC36B    S 
 2000-029   2000-06-06 02:59  Proton-K/Briz-M        392-01/88502        Gorizont (Gorizont No. 45L)                  IEO              GEO/S     RU   Baikonur    LC81/24   S 
-2000-030   2000-06-07 13:19  Pegasus XL             F29                 TSX-5                                        IEO              LEO/I     RU   VAFB        L-1011    S 
+2000-030   2000-06-07 13:19  Pegasus XL             F29                 TSX-5                                        IEO              LEO/I     US   VAFB        L-1011    S 
 2000-031   2000-06-24 00:28  Proton-K/DM-2M         394-02              Ekspress 3A (Ekspress-A No. 3)               IEO              GEO/S     RU   Baikonur    LC200/39  S 
 2000-032   2000-06-25 11:50  CZ-3                   Y12      (61)       Feng Yun 2B (Feng Yun Er Yi)                 IEO              GEO/D     CN   Xichang     LC3?      S 
 2000-033   2000-06-28 10:37  Kosmos 11K65M          53752-105           Nadezhda                                     IEO              LEO/S     RU   Plesetsk    LC132/1   S 
@@ -4453,7 +4453,7 @@
 2000-058   2000-09-29 09:30  Soyuz-U-PVB            76023  -462 075     Kosmos-2373 (Kometa No. 20?)                 LAN  2000-10-13  LLEO/I    RU   Baikonur    LC31      S 
 2000-059   2000-10-01 22:00  Proton-K/DM-2M         401-01              GE-1A                                        IEO              GEO/D     RU   Baikonur    LC81/23   S 
 2000-060   2000-10-06 23:00  Ariane 42L             V133 L4099          N-SAT-110 (Superbird 5)                      IEO              GEO/S     EU   Kourou      ELA2      S 
-2000-061   2000-10-09 05:38  Pegasus H              F30/P-35            HETE 2                                       IEO              LEO/E     EU   KMR         L-1011    S 
+2000-061   2000-10-09 05:38  Pegasus H              F30/P-35            HETE 2                                       IEO              LEO/E     US   KMR         L-1011    S 
 2000-062   2000-10-11 23:17  Space Shuttle          STS-92              Discovery (STS-92)                           LAN  2000-10-24  LLEO/I    US   KSC         LC39A     S 
 2000-063   2000-10-13 14:12  Proton-K/DM-2          393-01              Kosmos-2374 (Uragan No. 83L)                 IEO              MEO       RU   Baikonur    LC81/24   S 
 2000-064   2000-10-16 21:27  Soyuz-U-PVB            K 15000-085 085     Progress M-43                                DOR  2001-10-29  LLEO/I    RU   Baikonur    LC1       S 
@@ -4538,7 +4538,7 @@
 2002-001   2002-01-16 00:30  Titan 401B/Centaur     4B-38/TC-19         Milstar 5 (Milstar DFS-5)                    IEO              GEO/S     US   CC          SLC40     S 
 2002-002   2002-01-23 23:46  Ariane 42L             V147 L4108          Insat 3C                                     IEO              GEO/S     EU   Kourou      ELA2      S 
 2002-003   2002-02-04 02:45  H-IIA 2024             H-IIA-2F            Tsubasa (MDS-1)                              IEO              GTO       JP   TNSC        Y         S 
-2002-004   2002-02-05 20:58  Pegasus XL             F31                 RHESSI (HESSI)                               IEO              LLEO/I    JP   CC          L-1011    S 
+2002-004   2002-02-05 20:58  Pegasus XL             F31                 RHESSI (HESSI)                               IEO              LLEO/I    US   CC          L-1011    S 
 2002-005   2002-02-11 17:43  Delta 7920-10C         D290                Iridium 91 (Iridium SV091)                   REE  2019-02-13  LEO/P     US   VAFB        SLC2W     S 
 2002-006   2002-02-21 12:43  Atlas 3B               AC-204              Echostar VII (Echostar 7)                    IEO              GEO/S     US   CC          SLC36B    S 
 2002-007   2002-02-23 06:59  Ariane 44L             V148 L4109          INTELSAT 904                                 IEO              GEO/S     EU   Kourou      ELA2      S 
@@ -4616,7 +4616,7 @@
 2003-014   2003-04-12 00:47  Atlas 3B               AC-205              Asiasat 4                                    IEO              GEO/S     US   CC          SLC36B    S 
 2003-015   2003-04-24 04:23  Proton-K/DM-2          410-02              Kosmos-2397 (Oko-1 No. 7126)                 IEO              GEO/D     RU   Baikonur    LC81/24   S 
 2003-016   2003-04-26 03:53  Soyuz-FG               E 15000-006 006     Soyuz TMA-2                                  LAN  2003-04-28  LLEO/I    RU   Baikonur    LC1       S 
-2003-017   2003-04-28 11:59  Pegasus XL             F33                 GALEX                                        IEO              LEO/I     RU   CC          L-1011    S 
+2003-017   2003-04-28 11:59  Pegasus XL             F33                 GALEX                                        IEO              LEO/I     US   CC          L-1011    S 
 2003-018   2003-05-08 11:28  GSLV Mk I              GSLV-D2             GSAT-2                                       IEO              GEO/S     IN   SHAR        FLP       S 
 2003-019   2003-05-09 04:29  M-V                    M-V-5               Hayabusa (MUSES C)                           DSO  2003-05-09  EEO       JP   Kagoshima   M-V       S 
 2003-020   2003-05-13 22:10  Atlas V 401            AV-002              Hellas Sat 2                                 IEO              GEO/D     US   CC          SLC41     S 
@@ -4629,13 +4629,13 @@
 2003-027   2003-06-10 17:58  Delta 7925-9.5         D298                Spirit Rover                                 BEO  2003-06-11  EEO       US   CC          SLC17A    S 
 2003-028   2003-06-11 22:38  Ariane 5G              V161 (515)          BSAT-2c                                      IEO              GEO/D     EU   Kourou      ELA3      S 
 2003-029   2003-06-19 20:00  Molniya 8K78M          77082  -689 046     Molniya-3                                    REE  2013-06-15  HEO/M     RU   Plesetsk    LC16/2    S 
-2003-030   2003-06-26 18:53  Pegasus XL             F34                 Orbview-3                                    DOR  2011-07-13  LLEO/S    RU   VAFB        L-1011    S 
+2003-030   2003-06-26 18:53  Pegasus XL             F34                 Orbview-3                                    DOR  2011-07-13  LLEO/S    US   VAFB        L-1011    S 
 2003-031   2003-06-30 14:15  Rokot                  511-1992-008P/7     Mimosa                                       REE  2011-07-11  LLEO/S    RU   Plesetsk    LC133/3   S 
 2003-032   2003-07-08 03:18  Delta 7925H            D299                Opportunity Rover                            BEO  2003-07-08  EEO       US   CC          SLC17B    S 
 2003-033   2003-07-17 23:45  Atlas V 521            AV-003              Rainbow 1                                    IEO              GEO/S     US   CC          SLC41     S 
 2003-034   2003-08-08 03:30  Zenit-3SL              SL10/DM-SL-10L      Echostar IX                                  IEO              GEO/D     US   ODYSSEY,K   LA        S 
 2003-035   2003-08-12 14:20  Soyuz-U-PVB            77082  -575 081     Kosmos-2399 (Don No. 7L)                     EXP  2003-08-09  LLEO/I    RU   Baikonur    LC31      S 
-2003-036   2003-08-13 02:09  Pegasus XL             F35                 SCISAT-1                                     IEO              LEO/I     RU   VRW30/12    L-1011    S 
+2003-036   2003-08-13 02:09  Pegasus XL             F35                 SCISAT-1                                     IEO              LEO/I     US   VRW30/12    L-1011    S 
 2003-037   2003-08-19 10:50  Kosmos 11K65M          47179-804           Kosmos-2400                                  IEO              LEO/I     RU   Plesetsk    LC132/1   S 
 2003-038   2003-08-25 05:35  Delta 7920H            D300                Spitzer Space Telescope                      BEO  2003-08-25  EEO       US   CC          SLC17B    S 
 2003-039   2003-08-29 01:47  Soyuz-U-PVB            D 15000-682 682     Progress M-48                                DOR  2004-09-28  LLEO/I    RU   Baikonur    LC1       S 
@@ -4731,7 +4731,7 @@
 2005-011   2005-04-11 13:35  Minotaur 1             3                   XSS-11                                       REE  2013-04-12  LEO/S     US   SVAFB       SLC8      S 
 2005-012   2005-04-12 12:00  CZ-3B                  Y6       (84)       Apstar 6                                     IEO              GEO/S     CN   Xichang     LC2       S 
 2005-013   2005-04-15 00:46  Soyuz-FG               Zh15000-014 014     Soyuz TMA-6                                  LAN  2005-04-11  LLEO/I    RU   Baikonur    LC1       S 
-2005-014   2005-04-15 17:26  Pegasus XL/HAPS        F36                 DART (DART/HAPS)                             REE  2016-04-07  LEO/S     RU   VRW30/12    L-1011    S 
+2005-014   2005-04-15 17:26  Pegasus XL/HAPS        F36                 DART (DART/HAPS)                             REE  2016-04-07  LEO/S     US   VRW30/12    L-1011    S 
 2005-015   2005-04-26 07:31  Zenit-3SL              SL18/DM-SL-19L      Spaceway 1                                   IEO              GEO/NS    RU   ODYSSEY,K   LA        S 
 2005-016   2005-04-30 00:50  Titan 405B             4B-30               USA 182 (ONYX 5)                             IEO              LEO/I     US   CC          SLC40     S 
 2005-017   2005-05-05 04:45  PSLV                   PSLV-C6             Cartosat-1                                   IEO              LEO/S     IN   SHAR        SLP       S 
@@ -4781,7 +4781,7 @@
 2006-005   2006-02-21 21:28  M-V                    M-V-8               Akari (ASTRO-F)                              IEO              LEO/S     JP   Kagoshima   M-V       S 
 2006-006   2006-02-28 20:10  Proton-M/Briz-M        535-11/88515        Arabsat 4A                                   DOR  2006-03-24  HEO       RU   Baikonur    LC200/39  F 
 2006-007   2006-03-11 22:33  Ariane 5ECA            V170 (527)          Spainsat                                     IEO              GEO/S     EU   Kourou      ELA3      S 
-2006-008   2006-03-22 14:03  Pegasus XL             F37                 ST-5 FWD                                     IEO              MEO       EU   VRW30/12    L-1011    S 
+2006-008   2006-03-22 14:03  Pegasus XL             F37                 ST-5 FWD                                     IEO              MEO       US   VRW30/12    L-1011    S 
 2006-F01   2006-03-24 22:30  Falcon 1               F001                Falconsat 2                                                             US   KMR         OM        F 
 2006-009   2006-03-30 02:30  Soyuz-FG               P 15000-018 018     Soyuz TMA-8                                  LAN  2006-03-29  LLEO/I    RU   Baikonur    LC1       S 
 2006-010   2006-04-12 23:29  Zenit-3SL              SL21/DM-SL-22L      JCSAT 5A (JCSAT 9)                           IEO              GEO/S     RU   ODYSSEY,K   LA        S 
@@ -4960,7 +4960,7 @@
 2008-048   2008-09-28 23:15  Falcon 1               F004                Ratsat (Mass simulator)                      IEO              LEO/E     US   KMR         OM        S 
 2008-049   2008-10-01 06:37  Dnepr                  670-8343-637        Thaichote (THEOS)                            IEO              LEO/S     RU   YAS         Sh370/13? S 
 2008-050   2008-10-12 07:01  Soyuz-FG               Sh15000-026 026     Soyuz TMA-13                                 LAN  2009-10-08  LLEO/I    RU   Baikonur    LC1       S 
-2008-051   2008-10-19 17:47  Pegasus XL             F40                 IBEX                                         DSO  2008-09-20  DSO       RU   KMR         L-1011    S 
+2008-051   2008-10-19 17:47  Pegasus XL             F40                 IBEX                                         DSO  2008-09-20  DSO       US   KMR         L-1011    S 
 2008-052   2008-10-22 00:52  PSLV-XL                PSLV-C11            Chandrayaan-1                                BEO  2008-10-26  DSO       IN   SHAR        SLP       S 
 2008-053   2008-10-25 01:15  CZ-4B                  Y22      (110)      Shi Jian 6/3B                                IEO              LLEO/S    CN   Taiyuan     LC9       S 
 2008-054   2008-10-25 02:28  Delta 7420-10C         D336                COSMO 3 (COSMO-Skymed 3)                     IEO              LEO/S     US   VAFB        SLC2W     S 
@@ -5245,7 +5245,7 @@
 2012-028   2012-05-26 15:56  CZ-3B                  Y17                 Zhongxing 2A (Shentong-2?)                   IEO              GEO/S     CN   Xichang     LC2       S 
 2012-029   2012-05-29 07:31  CZ-4C                  Y10                 Yaogan Weixing 15                            IEO              LEO/S     CN   Taiyuan     LC9       S 
 2012-030   2012-06-01 05:22  Zenit-3SL              SL33/DM SL-32L      Intelsat IS-19                               IEO              GEO/D     CN   ODYSSEY,K   LA        S 
-2012-031   2012-06-13 16:00  Pegasus XL             F41                 NuSTAR                                       IEO              LEO/E     CN   KMR         L-1011    S 
+2012-031   2012-06-13 16:00  Pegasus XL             F41                 NuSTAR                                       IEO              LEO/E     US   KMR         L-1011    S 
 2012-032   2012-06-16 10:37  CZ-2F                  Y9                  Shenzhou 9                                   LAN  2012-06-29  LLEO/I    CN   Jiuquan     Pad 921   S 
 2012-033   2012-06-20 12:28  Atlas V 401            AV-023              USA 236 (QUASAR 17?)                         IEO              GEO/I     US   CC          SLC41     S 
 2012-034   2012-06-29 13:15  Delta 4H               D4-20/D360          USA 237 (ORION 8)                            IEO              GEO/ID    US   CC          SLC37B    S 
@@ -5325,7 +5325,7 @@
 2013-030   2013-06-25 17:28  Soyuz-2.1b             I 15000-013 013     Resurs-P No. 1                               IEO              LLEO/S    RU   Baikonur    LC31      S 
 2013-031   2013-06-25 19:27  Soyuz-ST-B             E 15000-003 003     O3b FM5 (O3b 5)                              IEO              MEO       EU   Kourou      ELS       S 
 2013-032   2013-06-27 16:53  Strela                 492-6391-832        Kosmos-2487 (Kondor No. 202)                 IEO              LLEO/I    RU   Baikonur    LC175/59  S 
-2013-033   2013-06-28 02:27  Pegasus XL             F42                 IRIS                                         IEO              LEO/S     RU   VRW30/12    L-1011    S 
+2013-033   2013-06-28 02:27  Pegasus XL             F42                 IRIS                                         IEO              LEO/S     US   VRW30/12    L-1011    S 
 2013-034   2013-07-01 18:11  PSLV-XL                PSLV-C22            IRNSS-R1A (IRNSS-1A)                         IEO              GEO/NS    IN   SHAR        FLP       S 
 2013-F02   2013-07-02 02:38  Proton-M/DM-3          535-43/2L           Glonass-M No. 48 (Uragan-M No. 748)                                     RU   Baikonur    LC81/24   F 
 2013-035   2013-07-15 09:27  CZ-2C                  Y23                 Shi Jian 11-05                               IEO              LEO/S     CN   Jiuquan     Pad 603?  S 
@@ -5631,7 +5631,7 @@
 2016-075   2016-12-07 23:52  Delta 4M+(5,4)         D4-34/D376          WGS SV-8                                     IEO              GEO/NS    US   CC          SLC37B    S 
 2016-076   2016-12-09 13:26  H-IIB                  H-IIB-F6            Kounotori 6 gouki                            DOR  2017-12-05  LLEO/I    JP   TNSC        Y2        S 
 2016-077   2016-12-10 16:11  CZ-3B                  Y42                 Feng Yun 4A                                  IEO              GEO/S     CN   Xichang     LC3       S 
-2016-078   2016-12-15 13:37  Pegasus XL             F43                 CYGNSS FM05 (CYGNSS E)                       IEO              LLEO/I    CN   CCRW13      L-1011    S 
+2016-078   2016-12-15 13:37  Pegasus XL             F43                 CYGNSS FM05 (CYGNSS E)                       IEO              LLEO/I    US   CCRW13      L-1011    S 
 2016-079   2016-12-18 19:13  Atlas V 431            AV-071              Echostar 19 (Jupiter 2)                      IEO              VHEO      US   CC          SLC41     S 
 2016-080   2016-12-20 11:00  Epsilon                E-2                 Arase (ERG)                                  IEO              HEO       JP   USC         EP        S 
 2016-081   2016-12-21 19:22  CZ-2D                  Y33                 Tan weixing (TanSat)                         IEO              LEO/S     CN   Jiuquan     Pad 603   S 
@@ -5877,7 +5877,7 @@
 2019-029   2019-05-24 02:30  Falcon-9               072/B1049.3         [Starlink-0]                                 IEO              LLEO/I    US   CC          LC40      S 
 2019-030   2019-05-27 06:23  Soyuz-2.1b             Ya15000-053/112     Kosmos-2534 (Uragan-M No. 758)               IEO              MEO       RU   Plesetsk    LC43/4    S 
 2019-031   2019-05-30 17:42  Proton-M/Briz-M        935-69/99564        Yamal-601 (Yamal 601)                        IEO              GEO/S     RU   Baikonur    LC200/39  S 
-2019-032   2019-06-05 04:06  CZ-11                  Y7 WEY              Tianxiang 1                                  IEO              LLEO/I    RU   CCOC,HHAI             S 
+2019-032   2019-06-05 04:06  CZ-11                  Y7 WEY              Tianxiang 1                                  IEO              LLEO/I    CN   CCOC,HHAI             S 
 2019-033   2019-06-12 14:17  Falcon-9               073/B1051.2         RCM 1                                        IEO              LLEO/S    US   SVAFB       SLC4E     S 
 2019-034   2019-06-20 21:43  Ariane 5ECA            VA248 (5107)        T-16                                         IEO              GEO/D     EU   Kourou      ELA3      S 
 2019-035   2019-06-24 18:09  CZ-3B                  Y60                 Beidou DW 46 (Beidou-3 I2Q)                  IEO              GEO/T     CN   Xichang     LC3       S 
@@ -5914,7 +5914,7 @@
 2019-065   2019-09-26 07:46  Soyuz-2.1b             780-72 -176/111     Kosmos-2541 (Kupol No. 3L)                   IEO              HEO/M     RU   Plesetsk    LC43/4    S 
 2019-066   2019-10-04 18:51  CZ-4C                  Y33                 Gao Fen 10                                   IEO              LEO/S     CN   Taiyuan     LC9       S 
 2019-067   2019-10-09 10:17  Proton-M/Briz-M        937-04/99573        Eutelsat 5WB                                 IEO              VHEO      RU   Baikonur    LC200/39  S 
-2019-068   2019-10-11 02:00  Pegasus XL             F44 /N51            ICON                                         IEO              LLEO/I    RU   CCRW13      L-1011    S 
+2019-068   2019-10-11 02:00  Pegasus XL             F44 /N51            ICON                                         IEO              LLEO/I    US   CCRW13      L-1011    S 
 2019-069   2019-10-17 01:22  Electron               9                   Palisade                                     IEO              LEO/P     US   Mahia       LC1       S 
 2019-070   2019-10-17 15:21  CZ-3B                  Y57                 Tongxin Jishu Shiyan 4                       IEO              GEO/S     CN   Xichang     LC3       S 
 2019-071   2019-11-02 13:59  Antares 230+           2TRS2S1.11 (11)     S.S. Alan Bean (Cygnus PCM-12)               DOR  2020-11-17  LLEO/I    US   Wallops     Pad 0A    S 
@@ -5978,7 +5978,7 @@
 2020-029   2020-05-17 13:14  Atlas V 501            AV-081              X-37B OTV-6 (X-37B No. 1 F3)                 IEO              LLEO/I    US   CC          SLC41     S 76
 2020-030   2020-05-20 17:31  H-IIB                  H-IIB-F9            Kounotori 9 gouki                            IEO              LLEO/I    JP   TNSC        Y2        S 76
 2020-031   2020-05-22 07:31  Soyuz-2.1b                                 Kosmos-2546 (Kupol No. 4L?)                  IEO              HEO/M     RU   Plesetsk    LC43/4    S 77
-2020-F04   2020-05-25 19:50  LauncherOne            001                 Starshine 4                                                             RU   MHV         B747-744  F 77
+2020-F04   2020-05-25 19:50  LauncherOne            001                 Starshine 4                                                             US   MHV         B747-744  F 77
 2020-032   2020-05-29 20:13  CZ-11                  Y8                  XJS G (Chuangxin-6 01)                       IEO              LLEO/I    CN   Xichang     LC4       S 78
 2020-033   2020-05-30 19:22  Falcon-9               086/B1058.1         Endeavour (Dragon 2 C206)                    IEO              LLEO/I    US   KSC         LC39A     S 78
 2020-034   2020-05-31 08:53  CZ-2D                  Y51                 Gao Fen 9 02 xing                            IEO              LLEO/S    CN   Jiuquan               S 78
