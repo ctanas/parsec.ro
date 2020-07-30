@@ -4,7 +4,7 @@ author = ["Claudiu"]
 draft = false
 +++
 
-Lista tuturor lansatoarelor orbitale folosite până în prezent, împreună cu câteva statistici (configurație, țara operatorului principal, număr tentative de lansare, număr lansări reușit, număr eșecuri, data primului zbor orbital și data celei mai recente lansări).
+Lista tuturor lansatoarelor orbitale folosite până în prezent, împreună cu câteva statistici (configurație, țara operatorului principal, număr tentative de lansare, număr lansări reușite, număr eșecuri, data primului zbor orbital și data celei mai recente lansări). Este disponibilă și lista [lansatoarelor orbitale active](/r/rachete_active).
 
 | Nr. | Lansator              | Țara | Tentative | Lansări | Eșecuri | Prima      | Recentă    |
 |-----|-----------------------|------|-----------|---------|---------|------------|------------|
