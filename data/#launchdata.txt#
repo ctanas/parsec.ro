@@ -4005,7 +4005,7 @@
 1995-F02   1995-03-28 10:00  Start                                      Gurwin-1 (Techsat 1)                                                    RU   GNIIP       LC158     F 
 1995-016   1995-03-28 23:14  Ariane 44LP            V71 L443a           Brasilsat B2                                 IEO              GEO/S     EU   Kourou      ELA2      S 
 1995-017   1995-04-03 13:48  Pegasus H              F8                  Orbcomm F1 (Orbcomm FM1)                     IEO              LEO/I     US   VAFB        L-1011    S 
-1995-018   1995-04-05 11:16  Shaviyt                3                   'Ofeq-3                                      REE  2000-05-24  LLEO/R    IL   Palmachim             S 
+1995-018   1995-04-05 11:16  Shaviyt 1              3                   'Ofeq-3                                      REE  2000-05-24  LLEO/R    IL   Palmachim             S 
 1995-019   1995-04-07 23:47  Atlas IIA              AC-114              AMSC 1                                       IEO              GEO/S     US   CC          LC36A     S 
 1995-020   1995-04-09 19:34  Soyuz-U                V 15000-646         Progress M-27                                DOR  1995-04-23  LLEO/I    RU   Baikonur    LC1       S 
 1995-021   1995-04-21 01:44  Ariane 40              V72 L444            ERS-2                                        IEO              LEO/S     EU   Kourou      ELA2      S 
@@ -4233,7 +4233,7 @@
 1997-086   1997-12-24 23:19  Proton-K/DM-2M         394-01              Asiasat 3                                    DSO  1998-05-24  CLO       RU   Baikonur    LC81/23   F 
 1998-001   1998-01-07 02:28  Athena-2               LM-004              Lunar Prospector (LP)                        BEO  1998-01-07  CLO       US   SPFL        SLC46     S 
 1998-002   1998-01-10 00:32  Delta 7925-9.5         D252                Skynet 4D                                    IEO              GEO/ID    US   CC          LC17B     S 
-1998-F01   1998-01-22 12:56  Shaviyt                4                   'Ofeq-4 (EROS A)                                                        IL   Palmachim             F 
+1998-F01   1998-01-22 12:56  Shaviyt 1              4                   'Ofeq-4 (EROS A)                                                        IL   Palmachim             F 
 1998-003   1998-01-23 02:48  Space Shuttle          STS-89              Endeavour (STS-89)                           LAN  1998-01-31  LLEO/I    US   KSC         LC39A     S 
 1998-004   1998-01-29 16:33  Soyuz-U-PVB            S 15000-657         Soyuz TM-27                                  LAN  1998-02-25  LLEO/I    RU   Baikonur    LC1       S 
 1998-005   1998-01-29 18:37  Atlas IIA              AC-109 MLV-7        USA 137 (QUASAR 11?)                         REE  2010-01-0   HEO/M     US   CC          SLC36A    S 
@@ -4559,7 +4559,7 @@
 2002-022   2002-05-04 09:54  Delta 7920-10L         D291                Aqua (EOS PM-1)                              IEO              LEO/S     US   VAFB        SLC2W     S 
 2002-023   2002-05-07 17:00  Proton-K/DM-2M         404-02              DirecTV-5                                    IEO              GEO/S     RU   Baikonur    LC81/24   S 
 2002-024   2002-05-15 01:50  CZ-4B                  Y5       (67)       Hai Yang 1 (haiyang yihao A)                 IEO              LEO/S     CN   Taiyuan     LC7       S 
-2002-025   2002-05-28 15:25  Shaviyt                5                   'Ofeq-5                                      IEO              LLEO/R    IL   Palmachim             S 
+2002-025   2002-05-28 15:25  Shaviyt 1              5                   'Ofeq-5                                      IEO              LLEO/R    IL   Palmachim             S 
 2002-026   2002-05-28 18:14  Kosmos 11K65M          53721-702           Kosmos-2389 (Parus?)                         IEO              LEO/I     RU   Plesetsk    LC132/1   S 
 2002-027   2002-06-05 06:44  Ariane 44L             V152 L4113          INTELSAT 905                                 IEO              GEO/S     EU   Kourou      ELA2      S 
 2002-028   2002-06-05 21:22  Space Shuttle          STS-111             Endeavour (STS-111)                          LAN  2002-06-19  LLEO/I    US   KSC         LC39A     S 
@@ -4697,7 +4697,7 @@
 2004-032   2004-08-11 05:03  Soyuz-U                D 15000-685 685     Progress M-50                                DOR  2004-08-22  LEO/I     RU   Baikonur    LC1       S 
 2004-033   2004-08-29 07:50  CZ-2C                  Y12      (78)       Fanhui Shi Weixing (19)                      REE  2004-08-07  LLEO/I    CN   Jiuquan     Pad 603   S 
 2004-034   2004-08-31 23:17  Atlas IIAS             AC-167              USA 179 (QUASAR 14?)                         IEO              HEO/M     US   CC          SLC36A    S 
-2004-F01   2004-09-06 10:53  Shaviyt                6                   'Ofeq-6                                                                 IL   Palmachim             F 
+2004-F01   2004-09-06 10:53  Shaviyt 1              6                   'Ofeq-6                                                                 IL   Palmachim             F 
 2004-035   2004-09-08 23:14  CZ-4B                  Y7       (79)       Shi Jian 6/1B                                IEO              LLEO/S    CN   Taiyuan     LC7       S 
 2004-036   2004-09-20 10:31  GSLV Mk I              GSLV-F01            EDUSAT (GSAT-3)                              IEO              GEO/S     IN   SHAR        FLP       S 
 2004-037   2004-09-23 15:07  Kosmos 11K65M          53779-811           Kosmos-2408                                  IEO              LEO/I     RU   Plesetsk    LC132/1   S 
@@ -4782,7 +4782,7 @@
 2006-006   2006-02-28 20:10  Proton-M/Briz-M        535-11/88515        Arabsat 4A                                   DOR  2006-03-24  HEO       RU   Baikonur    LC200/39  F 
 2006-007   2006-03-11 22:33  Ariane 5ECA            V170 (527)          Spainsat                                     IEO              GEO/S     EU   Kourou      ELA3      S 
 2006-008   2006-03-22 14:03  Pegasus XL             F37                 ST-5 FWD                                     IEO              MEO       US   VRW30/12    L-1011    S 
-2006-F01   2006-03-24 22:30  Falcon-1               F001                Falconsat 2                                                             US   KMR         OM        F 
+2006-F01   2006-03-24 22:30  Falcon 1               F001                Falconsat 2                                                             US   KMR         OM        F 
 2006-009   2006-03-30 02:30  Soyuz-FG               P 15000-018 018     Soyuz TMA-8                                  LAN  2006-03-29  LLEO/I    RU   Baikonur    LC1       S 
 2006-010   2006-04-12 23:29  Zenit-3SL              SL21/DM-SL-22L      JCSAT 5A (JCSAT 9)                           IEO              GEO/S     RU   ODYSSEY,K   LA        S 
 2006-011   2006-04-15 01:40  Minotaur 1             5                   COSMIC 1-6 (FORMOSAT 3 FM6)                  IEO              LLEO/I    US   SVAFB       SLC8      S 
@@ -4848,7 +4848,7 @@
 2007-005   2007-02-24 04:41  H-IIA 2024             H-IIA-12            JSE reda-2 gouki (IGS Radar-2)               REE  2014-05-13  LLEO/S    JP   TNSC        Y         S 
 2007-006   2007-03-09 03:10  Atlas V 401            AV-013              ASTRO (Orbital Express)                      REE  2013-03-25  LLEO/I    US   CC          SLC41     S 
 2007-007   2007-03-11 22:03  Ariane 5ECA            V175 (535)          Insat 4B                                     IEO              GEO/D     EU   Kourou      ELA3      S 
-2007-F02   2007-03-21 01:10  Falcon-1               F002                Instrumentation Ring                                                    US   KMR         OM        F 
+2007-F02   2007-03-21 01:10  Falcon 1               F002                Instrumentation Ring                                                    US   KMR         OM        F 
 2007-008   2007-04-07 17:31  Soyuz-FG               Ts15000-019 019     Soyuz TMA-10                                 LAN  2007-04-21  LLEO/I    RU   Baikonur    LC1       S 
 2007-009   2007-04-09 22:54  Proton-M/Briz-M        535-16/88521        Anik F3                                      IEO              GEO/D     RU   Baikonur    LC200/39  S 
 2007-010   2007-04-11 03:27  CZ-2C                  Y18      (96)       Hai Yang 1B (haiyang yihao B)                IEO              LEO/S     CN   Taiyuan     LC7       S 
@@ -4866,7 +4866,7 @@
 2007-022   2007-06-07 18:00  Soyuz-U-PVB            76033  -137 099     Kosmos-2427                                  LAN  2007-06-22  LLEO/I    RU   Plesetsk    LC16/2    S 
 2007-023   2007-06-08 02:34  Delta 7420-10C         D324                COSMO 1 (COSMO-Skymed)                       IEO              LEO/S     US   VAFB        SLC2W     S 
 2007-024   2007-06-08 23:38  Space Shuttle          STS-117             Atlantis  (STS-117)                          LAN  2007-06-22  LLEO/I    US   KSC         LC39A     S 
-2007-025   2007-06-10 23:40  Shaviyt                7                   'Ofeq-7                                      IEO              LLEO/R    IL   Palmachim             S 
+2007-025   2007-06-10 23:40  Shaviyt 1              7                   'Ofeq-7                                      IEO              LLEO/R    IL   Palmachim             S 
 2007-026   2007-06-15 02:14  Dnepr                  670-8343-630        TerraSAR-X                                   IEO              LEO/S     RU   Baikonur    LC109/95  S 
 2007-027   2007-06-15 15:12  Atlas V 401            AV-009              USA 194 (INTRUDER 7)                         IEO              LEO/I     US   CC          SLC41     F 
 2007-028   2007-06-28 15:02  Dnepr                  670-8343-634        Genesis-2                                    IEO              LLEO/I    RU   YAS         Sh370/11  S 
@@ -4945,7 +4945,7 @@
 2008-035   2008-07-16 05:20  Zenit-3SL              SL28/DM-SL-28L      Echostar XI (Echostar 11)                    IEO              GEO/D     RU   ODYSSEY,K   LA        S 
 2008-036   2008-07-22 02:40  Kosmos 11K65M          53752-101 SL        SAR-Lupe 5                                   IEO              LLEO/S    RU   Plesetsk    LC132/1   S 
 2008-037   2008-07-26 18:31  Soyuz-2.1b             77057  -145 003     Kosmos-2441 (Persona No. 1)                  IEO              LEO/S     RU   Plesetsk    LC43/4    S 
-2008-F01   2008-08-03 03:34  Falcon-1               F003                Trailblazer (ORS Trailblazer)                                           US   KMR         OM        F 
+2008-F01   2008-08-03 03:34  Falcon 1               F003                Trailblazer (ORS Trailblazer)                                           US   KMR         OM        F 
 2008-038   2008-08-14 20:44  Ariane 5ECA            V185 (542)          Superbird C2 (Superbird 7)                   IEO              GEO/D     EU   Kourou      ELA3      S 
 2008-F02   2008-08-16 19:32  Safir                  OES.0001            IRSA Test Payload                                                       IR   SEM         SAF       F 
 2008-039   2008-08-18 22:43  Proton-M/Briz-M        935-02/99502        Inmarsat 4 F3 (INMARSAT 4 F3)                IEO              GEO/ID    RU   Baikonur    LC200/39  S 
@@ -4957,7 +4957,7 @@
 2008-045   2008-09-24 09:27  Zenit-3SL              SL29/DM-SL-29L      Galaxy 19                                    IEO              GEO/D     RU   ODYSSEY,K   LA        S 
 2008-046   2008-09-25 08:49  Proton-M/DM-2          535-31/112L         Kosmos-2442 (Uragan-M No. 724)               IEO              MEO       RU   Baikonur    LC81/23   S 
 2008-047   2008-09-25 13:10  CZ-2F                  Y7       (109)      Shenzhou 7                                   LAN  2008-09-28  LLEO/I    CN   Jiuquan     Pad 921   S 
-2008-048   2008-09-28 23:15  Falcon-1               F004                Ratsat (Mass simulator)                      IEO              LEO/E     US   KMR         OM        S 
+2008-048   2008-09-28 23:15  Falcon 1               F004                Ratsat (Mass simulator)                      IEO              LEO/E     US   KMR         OM        S 
 2008-049   2008-10-01 06:37  Dnepr                  670-8343-637        Thaichote (THEOS)                            IEO              LEO/S     RU   YAS         Sh370/13? S 
 2008-050   2008-10-12 07:01  Soyuz-FG               Sh15000-026 026     Soyuz TMA-13                                 LAN  2009-10-08  LLEO/I    RU   Baikonur    LC1       S 
 2008-051   2008-10-19 17:47  Pegasus XL             F40                 IBEX                                         DSO  2008-09-20  DSO       US   KMR         L-1011    S 
@@ -5015,7 +5015,7 @@
 2009-034   2009-06-30 19:10  Proton-M/Briz-M        935-06/99506        Sirius FM-5                                  IEO              GEO/D     RU   Baikonur    LC200/39  S 
 2009-035   2009-07-01 17:52  Ariane 5ECA            V189 (547)          Terrestar 1                                  IEO              GEO/I     EU   Kourou      ELA3      S 
 2009-036   2009-07-06 01:26  Rokot                  492-1791-573/72     Kosmos-2451                                  IEO              LEO/I     RU   Plesetsk    LC133/3   S 
-2009-037   2009-07-14 03:36  Falcon-1               F005                RazakSat (MACSat)                            IEO              LEO/E     US   KMR         OM        S 
+2009-037   2009-07-14 03:36  Falcon 1               F005                RazakSat (MACSat)                            IEO              LEO/E     US   KMR         OM        S 
 2009-038   2009-07-15 22:03  Space Shuttle          STS-127             Endeavour (STS-127)                          LAN  2009-07-31  LLEO/I    US   KSC         LC39A     S 
 2009-039   2009-07-21 03:57  Kosmos 11K65M          47181-710           Kosmos-2454 (Parus No. 206)                  IEO              LEO/I     RU   Plesetsk    LC132/1   S 
 2009-040   2009-07-24 10:56  Soyuz-U-PVB            Yu15000-112 112     Progress M-67                                DOR  2009-07-27  LLEO/I    RU   Baikonur    LC1       S 
@@ -5087,7 +5087,7 @@
 2010-028   2010-06-15 14:42  Dnepr                  450-3261-316        Picard                                       IEO              LEO/S     RU   YAS         Sh370/13  S 
 2010-029   2010-06-15 21:35  Soyuz-FG               B 15000-032 032     Soyuz TMA-19                                 LAN  2010-06-26  LLEO/I    RU   Baikonur    LC1       S 
 2010-030   2010-06-21 02:14  Dnepr                  450-3261-314        Tandem-X (TDX)                               IEO              LLEO/S    RU   Baikonur    LC109/95  S 
-2010-031   2010-06-22 19:00  Shaviyt                8                   'Ofeq-9                                      IEO              LLEO/R    IL   Palmachim             S 
+2010-031   2010-06-22 19:00  Shaviyt 1              8                   'Ofeq-9                                      IEO              LLEO/R    IL   Palmachim             S 
 2010-032   2010-06-26 21:41  Ariane 5ECA            V195 (552)          Chollian (COMS-1)                            IEO              GEO/S     EU   Kourou      ELA3      S 
 2010-033   2010-06-30 15:35  Soyuz-U-PVB            B 15000-119 119     Progress M-06M                               DOR  2010-07-06  LLEO/I    RU   Baikonur    LC1       S 
 2010-034   2010-07-10 18:40  Proton-M/Briz-M        935-15/99515        Echostar XV (-)                              IEO              GEO/D     RU   Baikonur    LC200/39  S 
@@ -5391,7 +5391,7 @@
 2014-016   2014-04-03 21:02  Soyuz-ST-A             B 15000-004 004     Sentinel-1A                                  IEO              LEO/S     EU   Kourou      ELS       S 
 2014-017   2014-04-04 11:44  PSLV-XL                PSLV-C24            IRNSS-R1B (IRNSS-1B)                         IEO              GEO/NS    IN   SHAR        FLP       S 
 2014-018   2014-04-09 15:26  Soyuz-U-PVB            T 15000-141 141     Progress M-23M                               DOR  2014-04-31  LLEO/I    RU   Baikonur    LC1       S 
-2014-019   2014-04-09 19:06  Shaviyt                9                   'Ofeq-10 (TecSAR-3)                          IEO              LLEO/R    IL   Palmachim             S 
+2014-019   2014-04-09 19:06  Shaviyt 1              9                   'Ofeq-10 (TecSAR-3)                          IEO              LLEO/R    IL   Palmachim             S 
 2014-020   2014-04-10 17:45  Atlas V 541            AV-045              USA 250 (SHARP 1?)                           IEO              GEO/ID    US   CC          SLC41     S 
 2014-021   2014-04-16 16:20  Soyuz-U-PVB            E 15000-143 143     MisrSat-2                                    IEO              LLEO/I    RU   Baikonur    LC31      S 
 2014-022   2014-04-18 19:25  Falcon-9               009                 Dragon CRS-3 (Dragon C105)                   LAN  2014-04-18  LLEO/I    US   CC          LC40      S 
@@ -5608,7 +5608,7 @@
 2016-F01   2016-08-31 18:55  CZ-4C                  Y22?                Gao Fen 10                                                              CN   Taiyuan     LC9       F 
 2016-054   2016-09-08 11:20  GSLV Mk II             GSLV-F05            Insat 3DR                                    IEO              GEO/D     IN   SHAR        SLP       S 
 2016-055   2016-09-08 23:05  Atlas V 411            AV-067              OSIRIS-REx                                   BEO  2016-09-09  EEO       US   CC          SLC41     S 
-2016-056   2016-09-13 14:38  Shaviyt                10                  'Ofeq-11                                     IEO              LLEO/R    IL   Palmachim             S 
+2016-056   2016-09-13 14:38  Shaviyt 1              10                  'Ofeq-11                                     IEO              LLEO/R    IL   Palmachim             S 
 2016-057   2016-09-15 14:04  CZ-2F                  T2                  Tiangong 2                                   DOR  2019-09-19  LLEO/I    CN   Jiuquan     Pad 921   S 
 2016-058   2016-09-16 01:43  Vega                   VV07                PeruSat-1 (Peru Recon)                       IEO              LEO/S     EU   Kourou      ZLV       S 
 2016-059   2016-09-26 03:42  PSLV                   PSLV-C35            Pratham                                      IEO              LEO/S     IN   SHAR        FLP       S 
@@ -5792,7 +5792,7 @@
 2018-062   2018-07-29 01:48  CZ-3B/YZ-1             Y49                 Beidou DW 33                                 IEO              MEO       CN   Xichang     LC3       S 
 2018-063   2018-07-31 03:00  CZ-4B                  Y37                 Gao Fen 11 (GF-11)                           IEO              LLEO/S    CN   Taiyuan     LC9       S 
 2018-064   2018-08-07 05:18  Falcon-9               061/B1046.2         Merah Putih (Telkom 4)                       IEO              GEO/S     US   CC          LC40      S 
-2018-065   2018-08-12 07:31  Delta 4H               D4-37/D380          Parker Solar Probe                           BEO  2018-08-12  EEO       US   CC          SLC37B    S 
+2018-065   2018-08-12 07:31  Delta 4H/Star 48BV     D4-37/D380          Parker Solar Probe                           BEO  2018-08-12  EEO       US   CC          SLC37B    S 
 2018-066   2018-08-22 21:20  Vega                   VV12                Aeolus (ADM-Aeolus)                          IEO              LLEO/S    EU   Kourou      ZLV       S 
 2018-067   2018-08-24 23:52  CZ-3B/YZ-1             Y50                 Beidou DW 35                                 IEO              MEO       CN   Xichang     LC3       S 
 2018-068   2018-09-07 03:15  CZ-2C                  Y39                 Hai Yang 1C (haiyang yihao C)                IEO              LEO/S     CN   Taiyuan     LC9?      S 
