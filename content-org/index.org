@@ -18,11 +18,11 @@ Siteul de față reprezintă o colecție personală de materiale, articole și n
 ** Tabele și articole
 
 + [[/t/l2020][Lista lansărilor orbitale din 2020]];
-+ [[/t/lansari][Lista lansărilor orbitale din trecut]] (1957 -- prezent);
-+ [[/r/rachete_active][Lista rachetelor active]] (plus detalii despre [[/r/atlasv][Atlas V]], [[/r/antares][Antares]], [[/r/epsilon][Epsilon]], [[/r/soyuz-2][Soyuz-2]] și [[/r/falcon9][Falcon 9]]);
-+ [[/r/viitor][Rachete aflate în dezvoltare]];
++ [[/t/lansari][Lista completă a lansărilor orbitale]];
++ [[/r/rachete_active][Lista rachetelor active]] --cu detalii despre [[/r/atlasv][Atlas V]], [[/r/antares][Antares]], [[/r/epsilon][Epsilon]], [[/r/soyuz-2][Soyuz-2]] și [[/r/falcon9][Falcon 9]];
++ [[/r/rachete][Lista completă a rachetelor]] folosite până în prezent -- inclusiv cele inactive;
++ [[/r/viitor][Rachete aflate în dezvoltare]] /(draft)/;
 + [[/m/sonde][Lista sondelor interplanetare active]];
-+ [[/m/starlink][Starlink]] --liste cu sateliți lansați, activi, retrași și oportunități de observare;
 + [[/m/meteoriti][Meteoriți]] --informații generale și lista meteoriților românești (/draft/);
 + [[/m/x37b][X-37B]] --naveta spațială autonomă a Forțelor Aeriene ale SUA;
 + [[/m/gateway][Gateway]] --viitoarea stație spațială de pe orbita Lunii.
@@ -971,7 +971,7 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 :EXPORT_FILE_NAME: rachete_active
 :END:
 
-Lista tuturor lansatoarelor orbitale active folosite în prezent, împreună cu câteva statistici (configurație, țara operatorului principal, număr tentative de lansare, număr lansări reușit, număr eșecuri, data primului zbor orbital și data celei mai recente lansări). Sunt afișate toate configurațiile familiilor de rachete, chiar dacă unele configurații nu mai sunt folosite în prezent (înlăturarea lor ar cauza statistici incorecte pentru lansatorul respectiv).
+Lista tuturor lansatoarelor orbitale active folosite în prezent, împreună cu câteva statistici (configurație, țara operatorului principal, număr tentative de lansare, număr lansări reușit, număr eșecuri, data primului zbor orbital și data celei mai recente lansări). Sunt afișate toate configurațiile familiilor de rachete, chiar dacă unele configurații nu mai sunt folosite în prezent (înlăturarea lor ar cauza statistici incorecte pentru lansatorul respectiv). Este disponibilă și [[/r/rachete][lista exhaustivă a tuturor lansatoarelor orbitale]] folosite până în prezent.
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
 SELECT ROW_NUMBER() OVER (ORDER BY lv_type) AS "Nr.", lv_type as "Lansator", ls_state as "Țara",
