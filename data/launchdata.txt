@@ -6001,4 +6001,4 @@
 2020-049   2020-07-23 04:14  CZ-5                                       Tianwen-1                                                     EEO       CN   Wenchang    LC1       S 84
 2020-050   2020-07-23 14:26  Soyuz-2.1a                                 Progress MS-15                                                LEO       RU   Baikonur    LC31/6    S 84
 2020-051   2020-07-30 11:50  Atlas V 541            AV-082              Mars2020                                                      EEO       US   CC          LC41      S 84
-2020-052   2020-07-30 21:25  Proton-M/Briz-M                          Ekspress-80                                                   GEO/S     RU   Baikonur    200/39    S 84  
+2020-052   2020-07-30 21:25  Proton-M/Briz-M                            Ekspress-80                                                   GEO/S     RU   Baikonur    200/39    S 84  
