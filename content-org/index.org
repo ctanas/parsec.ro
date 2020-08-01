@@ -178,9 +178,9 @@ Nu se poate. Dacă aveți un certificat care atestă că aveți o parcelă de p�
 :EXPORT_HUGO_SECTION: iss
 :END:
 
-** Intro
+** Stația Spațială Internațională
 :PROPERTIES:
-:EXPORT_FILE_NAME: intro
+:EXPORT_FILE_NAME: iss
 :END:
 
 Stația Spațială Internațională (ISS -- /International Space Station/) este unul dintre cele mai de succes proiecte ale umanității, fiind un efort comun al cinci agenții spațiale: NASA (SUA), Roscosmos (Rusia), JAXA (Japonia), ESA (Europa) și Canada (CSA). Asamblarea ei pe orbită a început în 1998, odată cu lansarea primului modul, Zarya, și a fost formal încheiată în 2011 (deși unele module rusești urmează să fie lansate în perioada următoare: Nauka, Prichal, NEM-1 și NEM-2). Costurile construcției și menținerii sale pe orbită se ridică la aproximativ 150 miliarde de dolari.
