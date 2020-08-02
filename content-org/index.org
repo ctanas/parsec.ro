@@ -193,14 +193,12 @@ Construcția ISS a însemnat asamblare pe orbită a [modulelor componente](https
 
 În prezent sunt 5 astronauți la bordul Stației Spațiale Internaționale, parte a Expdiției 63:
 
-| Nume              | Agn  | Sosire             |       Data | Plecare            | Data       |
-|-------------------+------+--------------------+------------+--------------------+------------|
-| Anatoli Ivanishin | RSA  | Soyuz MS-16        | 09.04.2020 | Soyuz MS-16        | xx.10.2020 |
-| Ivan Vagner       | RSA  | Soyuz MS-16        | 09.04.2020 | Soyuz MS-16        | xx.10.2020 |
-| Cris Cassidy      | NASA | Soyuz MS-16        | 09.04.2020 | Soyuz MS-16        | xx.10.2020 |
-|-------------------+------+--------------------+------------+--------------------+------------|
-| Dough Hurley      | NASA | Dragon-2 Endeavour | 31.05.2020 | Dragon-2 Endeavour | 01.08.2020 |
-| Bob Behnken       | NASA | Dragon-2 Endeavour | 31.05.2020 | Dragon-2 Endeavour | 01.08.2020 |
+| Nume              | Agn  | Sosire      |       Data | Plecare     | Data       |
+|-------------------+------+-------------+------------+-------------+------------|
+| Anatoli Ivanishin | RSA  | Soyuz MS-16 | 09.04.2020 | Soyuz MS-16 | xx.10.2020 |
+| Ivan Vagner       | RSA  | Soyuz MS-16 | 09.04.2020 | Soyuz MS-16 | xx.10.2020 |
+| Cris Cassidy      | NASA | Soyuz MS-16 | 09.04.2020 | Soyuz MS-16 | xx.10.2020 |
+|-------------------+------+-------------+------------+-------------+------------|
 
 *** Câte vehicule sunt în prezent andocate la ISS?
 
@@ -223,7 +221,8 @@ Da! Datorită panourilor solare de mari dimensiuni, ISS poate fi văzută cu uș
 :EXPORT_FILE_NAME: jurnal
 :END:
 
-- 16.07.2020 :: EVA-230 (6 ore): Cassidy și Behnken, pentru schimbarea bateriilor ISS.
+- 02.08.2020 :: Capsula Crew Dragon "Endeavour" s-a desprins de modulul /Harmony/ și a revenit pe Pământ.
+- 16.07.2020 :: EVA-230 (6 ore): Cassidy și Behnken, pentru schimbarea bateriilor ISS;
 - 08.07.2020 :: Progress MS-13 se desprinde de modulul Pirs la ora 18:22 și revine prin atmosferă la 22:05;
 - 01.07.2020 :: EVA-229 (6 ore, 1 minut): Cassidy și Behnken, pentru schimbarea bateriilor ISS;
 - 26.06.2020 :: EVA-228 (6 ore, 7 minute): Cassidy și Behnken, pentru schimbarea bateriilor ISS;
