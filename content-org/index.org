@@ -5206,7 +5206,7 @@ SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD
 
 *** Lansări orbitale
 
-În noaptea de duminică spre luni, la ora 00:58 de minute ora României (20 iulie), sonda arabă *Hope* a pornit spre Marte, la bordul unei rachete japoneze *H-IIA* F42. Deși centrul spațial de la Tanegashima este în administrarea agenției spațiale japoneze JAXA, lansarea s-a făcut de către compania Mitsubishi, cea care construiește rachetele H-II pentru JAXA, ca urmare a unui contract între companie și instituții din Emiratele Arabe Unite. Sonda Hope (sau /Al-amal/) câtărește 550 de kilograme și este încărcată cu 800 de kilograme de combustibil, necesar frânării pentru înscrierea pe orbita marțiană, în februarie 2021. Legătura cu Pământul are loc cu ajutorul unei antene de 1.85 de metri și cu ajutorul rețelei americane Deep Space Network, capabile să capteze semnalele emise de sondă.
+În 20 iulie, la ora 00:58 de minute ora României (20 iulie), sonda arabă *Hope* a pornit spre Marte, la bordul unei rachete japoneze *H-IIA* F42. Deși centrul spațial de la Tanegashima este în administrarea agenției spațiale japoneze JAXA, lansarea s-a făcut de către compania Mitsubishi, cea care construiește rachetele H-II pentru JAXA, ca urmare a unui contract între companie și instituții din Emiratele Arabe Unite. Sonda Hope (sau /Al-amal/) câtărește 550 de kilograme și este încărcată cu 800 de kilograme de combustibil, necesar frânării pentru înscrierea pe orbita marțiană, în februarie 2021. Legătura cu Pământul are loc cu ajutorul unei antene de 1.85 de metri și cu ajutorul rețelei americane Deep Space Network, capabile să capteze semnalele emise de sondă.
 
 ---
 
