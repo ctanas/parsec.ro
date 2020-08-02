@@ -5198,10 +5198,10 @@ SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD
 :EXPORT_HUGO_SECTION: bul
 :END:
 
-** TODO Buletin Cosmic nr. 85                                      :hope:h2a:falcon9:anasis:
+** Buletin Cosmic nr. 85 :hope:h2a:falcon9:anasis:tianwen:soyuz:progress:ms15:protonm:
 :PROPERTIES:
 :EXPORT_FILE_NAME: 085
-:EXPORT_DATE: 2020-07-26
+:EXPORT_DATE: 2020-08-02
 :END:
 
 *** Lansări orbitale
@@ -5210,10 +5210,33 @@ SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD
 
 ---
 
-Marți noaptea, la ora 23:30 (ora României), *SpaceX* a reușit lansarea satelitului de telecomunicații *Anasis-II* pentru armata Coreei de Sud. Treapta primară *Falcon 9* B1058 folosită a fost acceași care i-a lansat în spațiu pe Bob Behnken și Doug Hurley în 30 mai și refolosirea ei după doar 51 de zile stabilește un nou record cu privire la timpul necesar pregătirii unui vehicul orbital între două lansări, record deținut până acum de naveta spațială Atlantis (54 de zile, între două misiuni din 1985). Din cele 97 de lansări SpaceX de până acum, compania lui Elon Musk a recuperat de 57 de ori treapta primară, după lansarea de astăzi aceasta revenind pe barja /Just Read the Instructions/, din Atlantic. Și, pentru prima dată, cele două jumătăți ale conului protector ale încărcăturii au fost și ele recueprate de cele două vase trimite să le intercepteze, SpaceX realizând astfel o economie de câteva milioane de dolari.
+Marți 20 iulie, la ora 23:30 (ora României), *SpaceX* a reușit lansarea satelitului de telecomunicații *Anasis-II* pentru armata Coreei de Sud. Treapta primară *Falcon 9* B1058 folosită a fost acceași care i-a lansat în spațiu pe Bob Behnken și Doug Hurley în 30 mai și refolosirea ei după doar 51 de zile stabilește un nou record cu privire la timpul necesar pregătirii unui vehicul orbital între două lansări, record deținut până acum de naveta spațială Atlantis (54 de zile, între două misiuni din 1985). Din cele 97 de lansări SpaceX de până acum, compania lui Elon Musk a recuperat de 57 de ori treapta primară, după lansarea de astăzi aceasta revenind pe barja /Just Read the Instructions/, din Atlantic. Și, pentru prima dată, cele două jumătăți ale conului protector ale încărcăturii au fost și ele recueprate de cele două vase trimite să le intercepteze, SpaceX realizând astfel o economie de câteva milioane de dolari.
 
 #+CAPTION: Lansarea rachetei Falcon 9 cu treapta primară B1058 de pe rampa SLC-40 de la complexul spațial Cape Canaveral, Florida.
 [[/img/B1058B.jpg]]
+
+---
+
+China a lansat 23 iulie, la ora 07:44 ora României, prima sondă cu destinația Marte (*Tianwen-1*). A fost a 5-a lansare pentru lansatorul de calibru greu *Changzheng-5* (inclusiv varianta Changzheng-5B destinată orbitei terestre joase). Tianwen-1 este o misiune care este compusă dintr-o sondă orbitală, o platformă de aterizare și un rover, care cântăresc împreună aproape 5 tone (cu tot cu combustibil). În februarie 2021, ansamblul celor trei vehicule se va înscrie pe o orbită preliminară în jurul lui Marte 400 x 180.000 km, după o manevră de frânare care va dura 14 minute. Ulterior, vehiculele se vor muta pe orbită polară 265 x 57800 km, unde va avea loc separarea sondei orbitale (1645 kg fără combustibil) de vehiculul trimis spre atmosfera marțiană, care conține platforma staționară și landerul (1745 kg împreună, din care roverul cântărește 240 kg). Deși inserția pe orbita lui Marte va avea loc în februarie 2021, coborârea roverului pe suprafața planetei este programată pentru luna mai 2021, în zona denumită Utopia Planitia. Tianwen-1 va ținti zona din jurul coordonatelor 24.748°N, 110.318°E, în sudul Utopia Planitia. O a doua opțiune ar fi în sud-estul Utopia Planitia, unde cândva a curs magma provenită din Elysium Mons.
+
+---
+
+Și tot în 23 iulie a avut loc lansarea unei rachete *Soyuz-2.1a*, pentru aprovizionarea echipajului Stației Spațiale Internaționale cu 2.6 tone de echipamente, hrană și alte accesorii, folosind nava cargo *Progress MS-15*. Aceasta a juns într-un timp record la ISS, după doar două orbite. Andocarea a fosat însă cu emoții: la doar 5 metri distanță, sistemul automat de andocare KURS a deviat nava de la traiectoria ideală, echipajul fiind pregătit să preia manual controlul navei pentru a evita un impact cu Stația Spațială Internațională. Până la urmă nu a fosr nevoie de acest lucru, centrul de comandă de la Moscova a decis că orientarea navei este în marja de toleranțe acceptate și andocarea a continuat, Progress MS-15 andocând la portul Pirs la ISS. În decembrie, portul Pirs se va decupla de ISS și va reveni împreună cu Progress MS-15 prin atmosferă, pentru a face loc viitorului modul Nauka, ce urmează să fie lansat în 2021.
+
+---
+
+Lansarea rachetei *Atlas V 541* din 30 iulie a fost un succes și misiunea *Mars2020* a pornit spre Marte. După parcarea sondei pe o orbită temporară în jurul Pământului, a doua activare a motorului treptei secundare Centaur a plasat Mars2020 pe o traiectorie spre Marte. De fapt, Centaur a imprimat sondei o traiectorie care ar trece pe lângă planetă, asta pentru că după separarea sondei de treapta Centaur, aceasta din urmă nu trebuie să ajungă pe Marte (treapta secundară nu este sterilizată). Mars2020 va efectua în perioada următoare o corecție a traiectoriei, care o va duce astfel spre Marte. 
+
+Rețeaua Deep Space Network (DSN) a interceptat unda purtătoare a sondei, dar nu a putut citi, în primă fază, telemetria acesteia, lucru ce a cauzat îngrijorare cu privire la starea sondei. 
+Explicația administratorului NASA a fost aceea că semnalul sondei era mult prea puternic pentru DSN, optimizat pentru semnale mult mai slabe (gândiți-vă la sondele Voyager, deși am fi crezut că acest lucru s-a remediat după lansarea Curiosity). În plus, imediat după lansare, sonda a intrat în safe-mode, pentru că senzorii au detectat o variație bruscă a temperaturii, dincolo de limitele (conservative) care au fost implementate în softul sondei: temperatura sondei a scăzut mai mult decât anticipaseră inginerii pentru această fază a zborului, în timp ce sonda s-a aflat în umbra Pământului. În prezent, se pare că sonda comunică bine cu DSN și telemetria este una nominală.
+
+---
+
+După o amânare de 24 de ore, prima și singura rachetă *Proton-M* din acest an (cel mai puternic lansator rusesc activ) a decolat de pe rampa 200/39 de la cosmodromul Baikonur, transportând pe orbită 2 sateliți de telecomunicații (pe orbită geosincronă), Ekspress-80 și Ekspress-120. A fost a 99-a lansare a unei rachete Proton-M cu treapta secundară Briz-M și a 110-a lansare Proton-M din 2001 (a 100-a lansare Proton-M reușită). Cândva Proton-M era principalul lansator greu de sateliți de telecomunicații, însă prețul necompetitiv și numeroasele probleme tehnice au făcut ca numărul lansărilor Proton să scadă dramatic în ultima perioadă, racheta urmând să fie retrasă și înlocuită cu viitoarea Angara-5.
+
+*** Alte evenimente
+
+După ce a finalizat investigația asupra eșecului din 4 iulie, *Rocket Lab* a anunțat că a identificat cauza: o conexiune electrică problematică care a dus la pierderea celei de-a doua trepte și implicit a satelitului. Însă Peter Beck, directorul Rocket Lab, a declarat că al 14-lea zbor va avea deja loc în august, tot de la Mahia (Noua Zeelandă), după care zborul următor, cu numărul 15, va însemna inaugurarea rampei de lansare de la Wallops, din Virginia (SUA). Incidentul din iulie nu a afectat nici planurile Rocket Lab de a recupera prima treaptă a rachetei Electron în cadrul celui de-al 17-lea zbor și nici nu a speriat clienții care aveau programate încărcături ce urmează să fie lansate cu Electron.
 
 ** Buletin Cosmic nr. 84 :minotaur:orion:jwst:eva:iss:
 :PROPERTIES:

@@ -5995,10 +5995,10 @@
 2020-044   2020-07-06 01:00  Shaviyt                                    Ofek-16                                      LEO       IL   Palmachim             S 83
 2020-045   2020-07-09 12:10  CZ-3B/E                                    APStar-6D                                    GEO/S     CN   Xichang     LC3       S 83
 2020-F06   2020-07-10 04:17  Kuaizhou-11                                Gaofen-02E                                   LEO/S     CN   Jiuquan               F 83
-2020-046   2020-07-15 13:46  Minotaur IV                                NROL-129                                     LEO       US   Wallops     0B        S 83
+2020-046   2020-07-15 13:46  Minotaur IV                                NROL-129                                     LEO       US   Wallops     0B        S 84
 2020-047   2020-07-19 21:58  H-IIA                  42                  Hope                                         EEO       JP   TNSC                  S 84
-2020-048   2020-07-20 21:30  Falcon-9               090/B1058.2         Anasis-II                                    GTO       US   CC          LC40      S 84
-2020-049   2020-07-23 04:14  CZ-5                                       Tianwen-1                                    EEO       CN   Wenchang    LC1       S 84
-2020-050   2020-07-23 14:26  Soyuz-2.1a                                 Progress MS-15                               LEO       RU   Baikonur    LC31/6    S 84
-2020-051   2020-07-30 11:50  Atlas V 541            AV-082              Mars2020                                     EEO       US   CC          SLC41     S 84
-2020-052   2020-07-30 21:25  Proton-M/Briz-M                            Ekspress-80                                  GEO/S     RU   Baikonur    LC200/39  S 84 
+2020-048   2020-07-20 21:30  Falcon-9               090/B1058.2         Anasis-II                                    GTO       US   CC          LC40      S 85
+2020-049   2020-07-23 04:14  CZ-5                                       Tianwen-1                                    EEO       CN   Wenchang    LC1       S 85
+2020-050   2020-07-23 14:26  Soyuz-2.1a                                 Progress MS-15                               LEO       RU   Baikonur    LC31/6    S 85
+2020-051   2020-07-30 11:50  Atlas V 541            AV-082              Mars2020                                     EEO       US   CC          SLC41     S 85
+2020-052   2020-07-30 21:25  Proton-M/Briz-M                            Ekspress-80                                  GEO/S     RU   Baikonur    LC200/39  S 85 
