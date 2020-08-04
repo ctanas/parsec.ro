@@ -5,7 +5,7 @@ draft = false
 +++
 
 <div class="table-caption">
-  <span class="table-number">Tabel 1</span>:
+  <span class="table-number">Table 1</span>:
   Lista lansărilor Falon 9
 </div>
 
@@ -103,7 +103,7 @@ draft = false
 | 89  | v1.2b5 | 21.07.2020 | Anasis-II           | B1058.2 | CC SLC-40  |   |   |
 
 <div class="table-caption">
-  <span class="table-number">Tabel 2</span>:
+  <span class="table-number">Table 2</span>:
   Lista lansărilor Falcon Heavy
 </div>
 
@@ -114,7 +114,7 @@ draft = false
 | 3   | 25.06.2019 | STP-2          | B1052.2 B1053.2  | B1057    | LC-39A |
 
 <div class="table-caption">
-  <span class="table-number">Tabel 3</span>:
+  <span class="table-number">Table 3</span>:
   Lista treptelor primare Falcon 1 Block 5
 </div>
 

@@ -15,13 +15,11 @@ Construcția ISS a însemnat asamblare pe orbită a [modulelor componente](<http
 
 În prezent sunt 5 astronauți la bordul Stației Spațiale Internaționale, parte a Expdiției 63:
 
-| Nume              | Agn  | Sosire             | Data       | Plecare            | Data       |
-|-------------------|------|--------------------|------------|--------------------|------------|
-| Anatoli Ivanishin | RSA  | Soyuz MS-16        | 09.04.2020 | Soyuz MS-16        | xx.10.2020 |
-| Ivan Vagner       | RSA  | Soyuz MS-16        | 09.04.2020 | Soyuz MS-16        | xx.10.2020 |
-| Cris Cassidy      | NASA | Soyuz MS-16        | 09.04.2020 | Soyuz MS-16        | xx.10.2020 |
-| Dough Hurley      | NASA | Dragon-2 Endeavour | 31.05.2020 | Dragon-2 Endeavour | 01.08.2020 |
-| Bob Behnken       | NASA | Dragon-2 Endeavour | 31.05.2020 | Dragon-2 Endeavour | 01.08.2020 |
+| Nume              | Agn  | Sosire      | Data       | Plecare     | Data       |
+|-------------------|------|-------------|------------|-------------|------------|
+| Anatoli Ivanishin | RSA  | Soyuz MS-16 | 09.04.2020 | Soyuz MS-16 | xx.10.2020 |
+| Ivan Vagner       | RSA  | Soyuz MS-16 | 09.04.2020 | Soyuz MS-16 | xx.10.2020 |
+| Cris Cassidy      | NASA | Soyuz MS-16 | 09.04.2020 | Soyuz MS-16 | xx.10.2020 |
 
 
 ## Câte vehicule sunt în prezent andocate la ISS? {#câte-vehicule-sunt-în-prezent-andocate-la-iss}
