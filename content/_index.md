@@ -26,7 +26,7 @@ Siteul de față reprezintă o colecție personală de materiale, articole și n
 
 ## Stația Spațială Internațională (ISS) {#stația-spațială-internațională--iss}
 
--   Lista [astronauților aflați la bord și a vehicule andocate](/iss/intro/);
+-   Lista [astronauților aflați la bord și a vehicule andocate](/iss/iss/);
 -   [Jurnal de activități](/iss/jurnal);
 -   Zboruri comerciale cu echipaj ([CC-Dev](/iss/ccdev));
 -   Detalii despre [modulele ISS](/iss/module);

@@ -24,12 +24,11 @@ Construcția ISS a însemnat asamblare pe orbită a [modulelor componente](<http
 
 ## Câte vehicule sunt în prezent andocate la ISS? {#câte-vehicule-sunt-în-prezent-andocate-la-iss}
 
-| Vehicul            | Lansare    | Rachetă     | Port    | Sosire     | Plecare    | Recuperare |
-|--------------------|------------|-------------|---------|------------|------------|------------|
-| Cygnus NG-13       | 15.02.2020 | Antares-230 | Unity   | 18.02.2020 | 11.05.2020 | NU         |
-| Soyuz MS-16        | 09.04.2020 | Soyuz-2.1a  | Poisk   | 09.04.2020 | xx.10.2020 | DA         |
-| Progress MS-14     | 25.04.2020 | Soyuz-2.1a  | Zvezda  | 25.04.2020 | xx.10.2020 | NU         |
-| Dragon-2 Endeavour | 30.05.2020 | Falcon-9    | Harmony | 31.05.2020 | 01.08.2020 | DA         |
+| Vehicul        | Lansare    | Rachetă     | Port   | Sosire     | Plecare    | Recuperare |
+|----------------|------------|-------------|--------|------------|------------|------------|
+| Cygnus NG-13   | 15.02.2020 | Antares-230 | Unity  | 18.02.2020 | 11.05.2020 | NU         |
+| Soyuz MS-16    | 09.04.2020 | Soyuz-2.1a  | Poisk  | 09.04.2020 | xx.10.2020 | DA         |
+| Progress MS-14 | 25.04.2020 | Soyuz-2.1a  | Zvezda | 25.04.2020 | xx.10.2020 | NU         |
 
 
 ## Câți astronauți sunt de obicei la bordul ISS? {#câți-astronauți-sunt-de-obicei-la-bordul-iss}
