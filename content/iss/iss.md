@@ -13,7 +13,7 @@ Construcția ISS a însemnat asamblare pe orbită a [modulelor componente](<http
 
 ## Câți astronauți sunt acum pe orbită? {#câți-astronauți-sunt-acum-pe-orbită}
 
-În prezent sunt 5 astronauți la bordul Stației Spațiale Internaționale, parte a Expdiției 63:
+În prezent sunt 3 astronauți la bordul Stației Spațiale Internaționale, parte a Expdiției 63:
 
 | Nume              | Agn  | Sosire      | Data       | Plecare     | Data       |
 |-------------------|------|-------------|------------|-------------|------------|
