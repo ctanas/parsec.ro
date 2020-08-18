@@ -6003,5 +6003,5 @@
 2020-051   2020-07-30 11:50  Atlas V 541            AV-082              Mars2020                                     EEO       US   CC          SLC41     S 85
 2020-052   2020-07-30 21:25  Proton-M/Briz-M                            Ekspress-80                                  GEO/S     RU   Baikonur    LC200/39  S 85 
 2020-053   2020-08-06 04:01  CZ-2D                                      Gaofen-9-04                                  LEO/S     CN   Jiuquan     SLS-2     S 86
-2020-054   2020-08-07 05:12  Falcon-9              091/B1051.5          [Starlink-9]                                 LLEO/I    US   CC          LC40      S 86
-2020-055   2020-08-15 22:04  Ariane 5ECA+          VA253                BSAT-4b                                      GEO/S     EU   Kourou      ELA3      S 86
+2020-054   2020-08-07 05:12  Falcon-9               091/B1051.5         [Starlink-9]                                 LLEO/I    US   CC          LC40      S 86
+2020-055   2020-08-15 22:04  Ariane 5ECA+           VA253               BSAT-4b                                      GEO/S     EU   Kourou      ELA3      S 86
