@@ -6,11 +6,11 @@ draft = false
 
 Scopul acestei pagini este afișarea lansărilor (și a tentativelor de lansări) orbitale din fiecare an calendaristic, într-un tabel cât mai concis. Datele primare sunt preluate de pe [site-ul lui Jonathan C. McDowell](https://planet4589.org/space/) (cu permisiunea autorului), ușor alterate, pentru a le face mai concise și aduse la zi.
 
-Din 1957 și până în prezent, au avut loc `6006` tentative de lansări orbitale: `5555` au fost lansări care s-au încheiat cu succes (încărcătura primară a ajuns pe orbită), în timp ce `451` lansări s-au încheiat cu un eșec.
+Din 1957 și până în prezent, au avut loc `6007` tentative de lansări orbitale: `5556` au fost lansări care s-au încheiat cu succes (încărcătura primară a ajuns pe orbită), în timp ce `451` lansări s-au încheiat cu un eșec.
 
 Tabele anuale cu lansări orbitale:
 
--   [2020](/t/l2020) --`60` | [2019](/t/l2019) --`102` | [2018](/t/l2018) --`114` | [2017](/t/l2017) --`91` | [2016](/t/l2016) --`85`
+-   [2020](/t/l2020) --`61` | [2019](/t/l2019) --`102` | [2018](/t/l2018) --`114` | [2017](/t/l2017) --`91` | [2016](/t/l2016) --`85`
 -   [2015](/t/l2015) --`87` | [2014](/t/l2014) --`92` | [2013](/t/l2013) --`82` | [2012](/t/l2012) --`78` | [2011](/t/l2011) --`84`
 -   [2010](/t/l2010) --`74` | [2009](/t/l2009) --`78` | [2008](/t/l2008) --`69` | [2007](/t/l2007) --`68` | [2006](/t/l2006) --`66`
 -   [2005](/t/l2005) --`56` | [2004](/t/l2004) --`55` | [2003](/t/l2003) --`63` | [2002](/t/l2002) --`65` | [2001](/t/l2001) --`59`
@@ -32,7 +32,7 @@ Un clasament general al lansărilor orbitale, începând cu 1957, în funcție d
 | US   | 1789      | 1633    | 156     |
 | RU   | 851       | 807     | 44      |
 | CN   | 370       | 346     | 24      |
-| EU   | 303       | 287     | 16      |
+| EU   | 304       | 288     | 16      |
 | JP   | 124       | 112     | 12      |
 | IN   | 74        | 64      | 10      |
 | IR   | 12        | 5       | 7       |
