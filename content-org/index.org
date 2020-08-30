@@ -5197,6 +5197,36 @@ SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD
 :EXPORT_HUGO_SECTION: bul
 :END:
 
+** Buletin Cosmic nr. 86
+:PROPERTIES:
+:EXPORT_FILE_NAME: 086
+:EXPORT_DATE: 2020-08-23
+:END:
+
+*** Lansări orbitale
+
+Miercuri, 6 august, la ora 07:01 ora României, o rachetă Changzheng-2D a lansat de la centrul spațial Jiuquan un nou satelit Gaofen-9 pentru observații alte suprafeței Pământului. A fost a 50-a lansare Changzheng-2D și a 342-a lansare a unei rachete Changzheng. Satelitul a fost lansat pe orbită heliosincronă.
+
+---
+
+Starlink-9
+
+---
+
+Ariane
+
+---
+
+Starlink-10
+
+*** Alte evenimente
+
+HTV
+
+---
+
+Fisura ISS
+
 ** Buletin Cosmic nr. 85 :hope:h2a:falcon9:anasis:tianwen:soyuz:progress:ms15:protonm:
 :PROPERTIES:
 :EXPORT_FILE_NAME: 085
