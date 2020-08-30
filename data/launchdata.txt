@@ -5920,7 +5920,7 @@
 2019-071   2019-11-02 13:59  Antares 230+           2TRS2S1.11 (11)     S.S. Alan Bean (Cygnus PCM-12)               LLEO/I    US   Wallops     Pad 0A    S 
 2019-072   2019-11-03 03:22  CZ-4B                  Y38                 Gao Fen 7 (GF-7)                             LLEO/S    CN   Taiyuan     LC9       S 
 2019-073   2019-11-04 17:43  CZ-3B                  Y61                 Beidou DW 49 (Beidou-3 I3Q)                  GEO/T     CN   Xichang     LC3?      S 
-2019-074   2019-11-11 14:56  Falcon-9               076/B1048.4         [Starlink-1]                                 LLEO/I    US   CC          LC40      S 
+2019-074   2019-11-11 14:56  Falcon-9               076/B1048.4         [Starlink-01]                                LLEO/I    US   CC          LC40      S 
 2019-075   2019-11-13 03:40  Kuaizhou-1A            Y11                 Jilin-1 Gaofen 02A                           LLEO/S    CN   Jiuquan     LC43/95   S 
 2019-076   2019-11-13 06:35  CZ-6                   Y3                  Ningxia-1 01 xing                            LEO/I     CN   Taiyuan               S 
 2019-077   2019-11-17 10:00  Kuaizhou-1A            Y7                  KL-Alpha-A                                   LEO/P     CN   Jiuquan     LC43/95   S 
@@ -5944,19 +5944,19 @@
 2019-095   2019-12-24 12:03  Proton-M/DM-3          935-66/6L           Elektro-L No. 3                              GEO/D     RU   Baikonur    LC81/24   S 
 2019-096   2019-12-26 23:11  Rokot                                      Gonets-M No. 24 (Gonets-M No. 24L)           LEO/I     RU   Plesetsk    LC133/3   S 
 2019-097   2019-12-27 12:45  CZ-5                   Y3                  Shi Jian 20 (SJ-20)                          GEO/S     CN   Wenchang    LC101     S 
-2020-001   2020-01-07 02:19  Falcon-9               079/B1049.4         [Starlink-2]                                 LLEO/I    US   CC          LC40      S 57
+2020-001   2020-01-07 02:19  Falcon-9               079/B1049.4         [Starlink-02]                                LLEO/I    US   CC          LC40      S 57
 2020-002   2020-01-07 15:20  CZ-3B                  Y64                 Tongxin Jishu Shiyan 5                       GEO/S     CN   Xichang     LC2       S 57
 2020-003   2020-01-15 02:53  CZ-2D                  Y58                 Jilin-1 Kuanfu-1                             LLEO/S    CN   Taiyuan               S 58
 2020-004   2020-01-16 03:02  Kuaizhou-1A            Y9                  Yinhe 1                                      LEO/P     CN   Jiuquan     LC43/95   S 59
 2020-005   2020-01-16 21:05  Ariane 5ECA+           VA251 (5110)        GSAT-30                                      GEO/D     EU   Kourou      ELA3      S 59
-2020-006   2020-01-29 14:06  Falcon-9               081/B1051.3         [Starlink-3]                                 LLEO/I    US   CC          LC40      S 60
+2020-006   2020-01-29 14:06  Falcon-9               081/B1051.3         [Starlink-03]                                LLEO/I    US   CC          LC40      S 60
 2020-007   2020-01-31 02:56  Electron               11                  USA 294                                      LLEO/I    US   Mahia       LC1       S 61
 2020-008   2020-02-06 21:42  Soyuz-2.1b             U 15000-048/123     OneWeb 0013 (OneWeb L2-001)                  LLEO/P    RU   Baikonur    LC31      S 62
 2020-009   2020-02-09 01:34  H-IIA 202              H-IIA-41            JSE kougaku 7 gouki                          LLEO/S    JP   TNSC        Y         S 62
 2020-F01   2020-02-09 15:48  Simorgh                4 MRS.C001          Zafar                                                  IR   SEM                   F 62
 2020-010   2020-02-10 04:03  Atlas V 411            AV-087              Solar Orbiter (SOLO)                         EEO       US   CC          SLC41     S 62
 2020-011   2020-02-15 20:21  Antares 230+           2TRS2S1.12 (12)     S.S. Robert Lawrence                         LLEO/I    US   Wallops     Pad 0A    S 63
-2020-012   2020-02-17 15:05  Falcon-9               082/B1056.4         [Starlink-4]                                 LLEO/I    US   CC          LC40      S 63
+2020-012   2020-02-17 15:05  Falcon-9               082/B1056.4         [Starlink-04]                                LLEO/I    US   CC          LC40      S 63
 2020-013   2020-02-18 22:18  Ariane 5ECA+           VA252 (5111)        JCSAT 17                                     MEO       EU   Kourou      ELA3      S 63
 2020-014   2020-02-19 21:07  CZ-2D                  Y61                 Xin jishu shiyan C xing                      LLEO/I    CN   Xichang     LC3       S 63
 2020-015   2020-02-20 08:24  Soyuz-2.1a             780-21- 118/111     Meridian-M No. 19L                           HEO/M     RU   Plesetsk    LC43/3    S 64
@@ -5964,14 +5964,14 @@
 2020-017   2020-03-09 11:55  CZ-3B                  Y69                 Beidou DW 54 (Beidou-3 G2)                   GEO/I     CN   Xichang               S 66
 2020-F02   2020-03-16 13:34  CZ-7A                  Y1                  Xinjishu Yanzheng 6                                    CN   Wenchang    LC201     F 67
 2020-018   2020-03-16 18:28  Soyuz-2.1b             760-58- 145/112     Kosmos-2545 (Uragan-M No. 760)               MEO       RU   Plesetsk    LC43/4    S 67
-2020-019   2020-03-18 12:16  Falcon-9               084/B1048.5         [Starlink-5]                                 LLEO/I    US   KSC         LC39A     S 67
+2020-019   2020-03-18 12:16  Falcon-9               084/B1048.5         [Starlink-05]                                LLEO/I    US   KSC         LC39A     S 67
 2020-020   2020-03-21 17:06  Soyuz-2.1b             N 15000-049/123     OneWeb 0066 (OneWeb L3-001)                  LLEO/P    RU   Baikonur    LC31      S 68
 2020-021   2020-03-24 03:43  CZ-2C                  Y42                 Yaogan 30 hao 06 zu 01 xing                  LLEO/I    CN   Xichang               S 68
 2020-022   2020-03-26 20:18  Atlas V 551            AV-086              TDO 2                                        GTO       US   CC          SLC41     S 69
 2020-023   2020-04-09 08:05  Soyuz-2.1a             V 15000-042         Soyuz MS-16                                  LLEO/I    RU   Baikonur    LC31      S 71
 2020-F03   2020-04-09 11:46  CZ-3B                  Y71                 Nusantara Dua (Palapa N1)                              CN   Xichang               F 71
 2020-024   2020-04-22 03:58  Qased                                      Noor 1                                       LLEO/I    IR   SHAHR       LP1       S 72
-2020-025   2020-04-22 19:30  Falcon-9               085/B1051.4         [Starlink-6]                                 LLEO/I    US   KSC         LC39A     S 72
+2020-025   2020-04-22 19:30  Falcon-9               085/B1051.4         [Starlink-06]                                LLEO/I    US   KSC         LC39A     S 72
 2020-026   2020-04-25 01:51  Soyuz-2.1a             Ya15000-038         Progress MS-14                               LLEO/I    RU   Baikonur    LC31      S 73
 2020-027   2020-05-05 10:00  CZ-5B                  Y1                  XZF-SC                                       LLEO/I    CN   Wenchang    LC101     S 74
 2020-028   2020-05-12 00:16  Kuaizhou-1A            Y6                  Xingyun-2 01 xing                            LLEO/S    CN   Jiuquan     LC43/95   S 75
@@ -5980,12 +5980,12 @@
 2020-031   2020-05-22 07:31  Soyuz-2.1b                                 Kosmos-2546 (Kupol No. 4L?)                  HEO/M     RU   Plesetsk    LC43/4    S 77
 2020-F04   2020-05-25 19:50  LauncherOne            001                 Starshine 4                                            US   MHV         B747-744  F 77
 2020-032   2020-05-29 20:13  CZ-11                  Y8                  XJS G (Chuangxin-6 01)                       LLEO/I    CN   Xichang     LC4       S 78
-2020-033   2020-05-30 19:22  Falcon-9               086/B1058.1         Endeavour (Dragon 2 C206)                    LLEO/I    US   KSC         LC39A     S 78
+2020-033   2020-05-30 19:22  Falcon-9               086/B1058.1         Endeavour (Dragon C206)                      LLEO/I    US   KSC         LC39A     S 78
 2020-034   2020-05-31 08:53  CZ-2D                  Y51                 Gao Fen 9 02 xing                            LLEO/S    CN   Jiuquan               S 78
-2020-035   2020-06-04 01:25  Falcon-9               087/B1049.5         [Starlink-7]                                 LLEO/I    US   CC          LC40      S 79
+2020-035   2020-06-04 01:25  Falcon-9               087/B1049.5         [Starlink-07]                                LLEO/I    US   CC          LC40      S 79
 2020-036   2020-06-10 18:31  CZ-2C                  Y40?                Hai Yang 1D (haiyang yihao D)                LEO/S     CN   Taiyuan     LC9       S 79
 2020-037   2020-06-13 05:12  Electron               12                  USA 301                                                US   Mahia       LC1       S 80
-2020-038   2020-06-13 09:21  Falcon-9               088/B1059.3         [Starlink-8]                                 LLEO/I    US   CC          LC40      S 80
+2020-038   2020-06-13 09:21  Falcon-9               088/B1059.3         [Starlink-08]                                LLEO/I    US   CC          LC40      S 80
 2020-039   2020-06-17 07:19  CZ-2D                                      Gaofen-9-03                                  LEO/S     CN   Jiuquan               S 80
 2020-040   2020-06-23 01:43  CZ-3B/E                                    Beidou-3                                     GEO/S     CN   Xichang     LC2       S 81
 2020-041   2020-06-30 20:10  Falcon-9               089/B1060.1         GPS-III-SV03                                 MEO       US   CC          LC40      S 82
@@ -6004,7 +6004,7 @@
 2020-052   2020-07-30 11:50  Atlas V 541            AV-082              Mars2020                                     EEO       US   CC          SLC41     S 85
 2020-053   2020-07-30 21:25  Proton-M/Briz-M                            Ekspress-80                                  GEO/S     RU   Baikonur    LC200/39  S 85 
 2020-054   2020-08-06 04:01  CZ-2D                  2D-Y56              Gaofen-9-04                                  LEO/S     CN   Jiuquan     SLS-2     S 86
-2020-055   2020-08-07 05:12  Falcon-9               091/B1051.5         [Starlink-9]                                 LLEO/I    US   CC          LC40      S 86
+2020-055   2020-08-07 05:12  Falcon-9               091/B1051.5         [Starlink-09]                                LLEO/I    US   CC          LC40      S 86
 2020-056   2020-08-15 22:04  Ariane 5ECA+           VA253               BSAT-4b                                      GEO/S     EU   Kourou      ELA3      S 86
 2020-057   2020-08-18 14:31  Falcon-9               092/B1049.6         [Starlink-10]                                LLEO/I    US   CC          LC40      S 86
 2020-058   2020-08-23 02:27  CZ-2D                  2D-Y57              Gaofen-9-05                                  LLEO/S    CN   Jiuquan     SLS2      S 86                                       
