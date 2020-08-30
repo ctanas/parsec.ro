@@ -4,8 +4,11 @@ author = ["Claudiu"]
 draft = false
 +++
 
+18.08.2020
+: Vehiculul HTV-9 a fost desprins de ISS și a revenit distructiv prin atmosferă.
+
 02.08.2020
-: Capsula Crew Dragon "Endeavour" s-a desprins de modulul _Harmony_ și a revenit pe Pământ.
+: Capsula Crew Dragon "Endeavour" s-a desprins de modulul _Harmony_ și a revenit pe Pământ;
 
 16.07.2020
 : EVA-230 (6 ore): Cassidy și Behnken, pentru schimbarea bateriilor ISS;
@@ -20,10 +23,13 @@ draft = false
 : EVA-228 (6 ore, 7 minute): Cassidy și Behnken, pentru schimbarea bateriilor ISS;
 
 31.05.2020
-: Capsula Crew Dragon "Endeavour" se cuplează la modulul _Harmony_ și Bob Behnken și Doug Hurley se alătură echipajului expediției 63.
+: Capsula Crew Dragon "Endeavour" se cuplează la modulul _Harmony_ și Bob Behnken și Doug Hurley se alătură echipajului expediției 63;
+
+25.05.2020
+: Vehiculul HTV-9 a fost cuplat cu modulul Harmony al ISS;
 
 10.05.2020
-: Capsula Cygnus NG-13 se desprinde de modulul _Unity_.
+: Capsula Cygnus NG-13 se desprinde de modulul _Unity_;
 
 25.04.2020
 : Progress MS-14 andochează la modulul _Zvezda_, la 3 ore și 21 de minute după lansare[^fn:1];
