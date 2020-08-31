@@ -88,21 +88,21 @@ draft = false
 | 2019-06-25 | Falcon Heavy | 003         | Prox-1                           | KSC    | LC39A | LEO/E  | S |
 | 2019-07-25 | Falcon-9     | 074/B1056.2 | NARSScube-2                      | CC     | LC40  | LLEO/I | S |
 | 2019-08-06 | Falcon-9     | 075/B1047.3 | Amos 17                          | CC     | LC40  | GEO/S  | S |
-| 2019-11-11 | Falcon-9     | 076/B1048.4 | [Starlink-01]                    | CC     | LC40  | LLEO/I | S |
+| 2019-11-11 | Falcon-9     | 076/B1048.4 | [Starlink-1]                     | CC     | LC40  | LLEO/I | S |
 | 2019-12-05 | Falcon-9     | 077/B1059   | Dragon CRS-19 (Dragon C106)      | CC     | LC40  | LLEO/I | S |
 | 2019-12-17 | Falcon-9     | 078/B1056.3 | JCSAT 18/Kacific 1               | CC     | LC40  | GEO/S  | S |
-| 2020-01-07 | Falcon-9     | 079/B1049.4 | [Starlink-02]                    | CC     | LC40  | LLEO/I | S |
-| 2020-01-29 | Falcon-9     | 081/B1051.3 | [Starlink-03]                    | CC     | LC40  | LLEO/I | S |
-| 2020-02-17 | Falcon-9     | 082/B1056.4 | [Starlink-04]                    | CC     | LC40  | LLEO/I | S |
+| 2020-01-07 | Falcon-9     | 079/B1049.4 | [Starlink-2]                     | CC     | LC40  | LLEO/I | S |
+| 2020-01-29 | Falcon-9     | 081/B1051.3 | [Starlink-3]                     | CC     | LC40  | LLEO/I | S |
+| 2020-02-17 | Falcon-9     | 082/B1056.4 | [Starlink-4]                     | CC     | LC40  | LLEO/I | S |
 | 2020-03-07 | Falcon-9     | 083/B1059.2 | Dragon CRS-20 (Dragon C112)      | CC     | LC40  | LLEO/I | S |
-| 2020-03-18 | Falcon-9     | 084/B1048.5 | [Starlink-05]                    | KSC    | LC39A | LLEO/I | S |
-| 2020-04-22 | Falcon-9     | 085/B1051.4 | [Starlink-06]                    | KSC    | LC39A | LLEO/I | S |
-| 2020-05-30 | Falcon-9     | 086/B1058.1 | Endeavour (Dragon C206)          | KSC    | LC39A | LLEO/I | S |
-| 2020-06-04 | Falcon-9     | 087/B1049.5 | [Starlink-07]                    | CC     | LC40  | LLEO/I | S |
-| 2020-06-13 | Falcon-9     | 088/B1059.3 | [Starlink-08                     | CC     | LC40  | LLEO/I | S |
+| 2020-03-18 | Falcon-9     | 084/B1048.5 | [Starlink-5]                     | KSC    | LC39A | LLEO/I | S |
+| 2020-04-22 | Falcon-9     | 085/B1051.4 | [Starlink-6]                     | KSC    | LC39A | LLEO/I | S |
+| 2020-05-30 | Falcon-9     | 086/B1058.1 | Endeavour (Dragon 2 C206)        | KSC    | LC39A | LLEO/I | S |
+| 2020-06-04 | Falcon-9     | 087/B1049.5 | [Starlink-7]                     | CC     | LC40  | LLEO/I | S |
+| 2020-06-13 | Falcon-9     | 088/B1059.3 | [Starlink-8]                     | CC     | LC40  | LLEO/I | S |
 | 2020-06-30 | Falcon-9     | 089/B1060.1 | GPS-III-SV03                     | CC     | LC40  | MEO    | S |
 | 2020-07-20 | Falcon-9     | 090/B1058.2 | Anasis-II                        | CC     | LC40  | GTO    | S |
-| 2020-08-07 | Falcon-9     | 091/B1051.5 | [Starlink-09]                    | CC     | LC40  | LLEO/I | S |
+| 2020-08-07 | Falcon-9     | 091/B1051.5 | [Starlink-9]                     | CC     | LC40  | LLEO/I | S |
 | 2020-08-18 | Falcon-9     | 092/B1049.6 | [Starlink-10]                    | CC     | LC40  | LLEO/I | S |
 
 <div class="table-caption">
