@@ -105,9 +105,10 @@ draft = false
 | 2020-08-07 | Falcon-9     | B1051.5     | [Starlink-09]                    | CC     | LC40  | LLEO/I | S |
 | 2020-08-18 | Falcon-9     | B1049.6     | [Starlink-10]                    | CC     | LC40  | LEO/I  | S |
 | 2020-08-30 | Falcon-9     | B1059.4     | SAOCOM-1B                        | CC     | LC40  | LEO/P  | S |
+| 2020-09-03 | Falcon-9     | B1060.2     | [Starlink-11]                    | KSC    | LC39A | LEO/I  | S |
 
 <div class="table-caption">
-  <span class="table-number">Table 1</span>:
+  <span class="table-number">Tabel 1</span>:
   Lista treptelor primare Falcon 1 Block 5
 </div>
 

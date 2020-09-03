@@ -6009,4 +6009,6 @@
 2020-057   2020-08-18 14:31  Falcon-9               B1049.6             [Starlink-10]                                LEO/I     US   CC          LC40      S 86
 2020-058   2020-08-23 02:27  CZ-2D                  2D-Y57              Gaofen-9-05                                  LEO/S     CN   Jiuquan     SLS2      S 86
 2020-059   2020-08-30 23:19  Falcon-9               B1059.4             SAOCOM-1B                                    LEO/P     US   CC          LC40      S 87
-2020-060   2020-08-31 03:05  Electron               14                  Sequoia (Capella 2)                          LEO       US   Mahia       LC1       S 87                       
+2020-060   2020-08-31 03:05  Electron               14                  Sequoia (Capella 2)                          LEO       US   Mahia       LC1       S 87
+2020-061   2020-09-03 01:51  Vega                   VV16                Athena                                       LEO/S     EU   Kourou      ELV       S 87
+2020-062   2020-09-03 12:46  Falcon-9               B1060.2             [Starlink-11]                                LEO/I     US   KSC         LC39A     S 87                      
