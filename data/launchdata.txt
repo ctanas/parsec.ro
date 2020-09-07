@@ -6013,3 +6013,4 @@
 2020-061   2020-09-03 01:51  Vega                   VV16                Athena                                       LEO/S     EU   Kourou      ELV       S 87
 2020-062   2020-09-03 12:46  Falcon-9               B1060.2             [Starlink-11]                                LEO/I     US   KSC         LC39A     S 87
 2020-063   2020-09-04 05:23  CZ-2F                  2F-T3               [Spaceplane]                                 LEO       CN   Jiuquan     SLS1      S 87 
+2020-064   2020-09-07 05:57  CZ-4B                                      Gaofen-11-02                                 LEO/S     CN   Taiyuan     LC9       S 87
