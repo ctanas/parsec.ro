@@ -6,7 +6,7 @@ draft = false
 
 Scopul acestei pagini este afișarea lansărilor (și a tentativelor de lansări) orbitale din fiecare an calendaristic, într-un tabel cât mai concis. Datele primare sunt preluate de pe [site-ul lui Jonathan C. McDowell](https://planet4589.org/space/) (cu permisiunea autorului), ușor alterate, pentru a le face mai concise și aduse la zi.
 
-Din 1957 și până în prezent, au avut loc `5958` tentative de lansări orbitale: `= au fost lansări care s-au încheiat cu succes (încărcătura primară a ajuns pe orbită), în timp ce {{{results(=`)}}} lansări s-au încheiat cu un eșec.
+Din 1957 și până în prezent, au avut loc `5958` tentative de lansări orbitale: `5603` au fost lansări care s-au încheiat cu succes (încărcătura primară a ajuns pe orbită), în timp ce `355` lansări s-au încheiat cu un eșec.
 
 Tabele anuale cu lansări orbitale:
 
@@ -28,16 +28,16 @@ Un clasament general al lansărilor orbitale, începând cu 1957, în funcție d
 
 | Țara | Tentative | Lansări | Eșecuri |
 |------|-----------|---------|---------|
-| SU   | 2383      | 0       | 0       |
-| US   | 1752      | 0       | 0       |
-| RU   | 915       | 0       | 0       |
-| CN   | 372       | 0       | 0       |
-| EU   | 303       | 0       | 0       |
-| JP   | 121       | 0       | 0       |
-| IN   | 74        | 0       | 0       |
-| IR   | 12        | 0       | 0       |
-| IL   | 11        | 0       | 0       |
-| KP   | 5         | 0       | 0       |
-| AU   | 5         | 0       | 0       |
-| KR   | 3         | 0       | 0       |
-| BR   | 2         | 0       | 0       |
+| SU   | 2383      | 2256    | 127     |
+| US   | 1752      | 1621    | 131     |
+| RU   | 915       | 884     | 31      |
+| CN   | 372       | 353     | 19      |
+| EU   | 303       | 291     | 12      |
+| JP   | 121       | 112     | 9       |
+| IN   | 74        | 67      | 7       |
+| IR   | 12        | 5       | 7       |
+| IL   | 11        | 9       | 2       |
+| KP   | 5         | 2       | 3       |
+| AU   | 5         | 2       | 3       |
+| KR   | 3         | 1       | 2       |
+| BR   | 2         | 0       | 2       |
