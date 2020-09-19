@@ -37,7 +37,7 @@ Un clasament general al lansărilor orbitale, începând cu 1957, în funcție d
 | IN   | 74        | 67      | 7       |
 | IR   | 12        | 5       | 7       |
 | IL   | 11        | 9       | 2       |
-| KP   | 5         | 2       | 3       |
 | AU   | 5         | 2       | 3       |
+| KP   | 5         | 2       | 3       |
 | KR   | 3         | 1       | 2       |
 | BR   | 2         | 0       | 2       |

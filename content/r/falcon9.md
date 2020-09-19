@@ -9,7 +9,7 @@ draft = false
 |  |
 
 <div class="table-caption">
-  <span class="table-number">Table 1</span>:
+  <span class="table-number">Tabel 1</span>:
   Lista treptelor primare Falcon 1 Block 5
 </div>
 
