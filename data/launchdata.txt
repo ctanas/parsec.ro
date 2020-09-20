@@ -5819,7 +5819,7 @@
 2019-029    2019-05-24 02:30   Falcon 9                072/B1049.3          Starlink-1 / Starlink V0.9                     US    CC           LC40       S
 2019-030    2019-05-27 06:23   Soyuz-2-1B              Ya15000-053/112-09   Kosmos-2534 / Uragan-M No. 758                 RU    Plesetsk     LC43/4     S
 2019-031    2019-05-30 17:42   Proton-M/Briz-M         935-69/99564         Yamal-601                                      RU    Baikonur     LC200/39   S
-2019-032    2019-06-05 04:06   Chang Zheng 11          Y7 WEY               Jilin/JSW                                      CN    HHAI         -          S
+2019-032    2019-06-05 04:06   Chang Zheng 11H         Y7 WEY               Jilin/JSW                                      CN    HHAI         Tairui     S
 2019-033    2019-06-12 14:17   Falcon 9                073/B1051.2          RCM / Radarsat Const. Mission                  US    SVAFB        SLC4E      S
 2019-034    2019-06-20 21:43   Ariane 5ECA             VA248 (5107)         T-16/Eutelsat 7C                               EU    Kourou       ELA3       S
 2019-035    2019-06-24 18:09   Chang Zheng 3B          Y60                  Beidou DW46 / Beidou-3 I2Q                     CN    Xichang      LC3        S
@@ -5958,4 +5958,4 @@
 2020-064    2020-09-07 05:57   Chang Zheng 4B          Y46                  Gao Fen 11-02                                  CN    Taiyuan      LC9        S 88
 2020-F07    2020-09-12 03:19   Rocket 3.1                                   (Test)                                         US    Kodiak       LP-3B      F 88
 2020-F08    2020-09-12 05:02   Kuaizhou 1A             Y3                   Jilin-1 Gaofen-02C                             CN    Jiuquan      SLS-2      F 88
-2020-065    2020-09-15 01:23   Chang Zheng 11H         Y2                   Jilin-1 Gaofen-03B/C                           CN    De Bo 3                 S 88
+2020-065    2020-09-15 01:23   Chang Zheng 11H         Y2                   Jilin-1 Gaofen-03B/C                           CN    HHAI         Debo-3     S 88
