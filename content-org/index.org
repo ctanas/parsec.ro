@@ -70,7 +70,7 @@ Mulțumesc [Brandbura Productions](https://www.facebook.com/Brandbura/) pentru o
 
 *** Detalii tehnice
 
-Conținutul site-ul de față este generat din [Emacs](https://www.gnu.org/software/emacs/), folosind pachetul [ox-hugo](https://ox-hugo.scripter.co/) pentru transformarea textului din [fișierul sursă](https://github.com/ctanas/parsec.ro/blob/master/content-org/index.org) din /org-mode/ în /Markdown/. [Hugo](https://gohugo.io/) preia aceste fișiere /Markdown/ și generează fișerele statice HTML, îmbrăcate frumos într-o variantă ușor modificată a temei [alageek](https://github.com/gkmngrgn/hugo-alageek-theme), fișiere HTML fiind apoi împinse în GitHub, după fiecare modificare. [Netlify](https://www.netlify.com/) preia modificările din [GitHub](https://github.com/ctanas/parsec-alageek), generează o nouă versiune a paginilor modificate de fiecare dată când e cazul și afișează conținutul pe care îl aveți în fața voastră. Tabelele cu lansările orbitale sunt generate de Emacs dintr-o bază de date PostgreSQL, populată inițial cu datele adunate de [[https://planet4589.org/index.html][Jonathan McDowell]], folosite cu aprobarea autorului și modificate/alterate pentru a le face mai concise și potrivite site-ului de față.
+Conținutul site-ul de față este generat din [Emacs](https://www.gnu.org/software/emacs/), folosind pachetul [ox-hugo](https://ox-hugo.scripter.co/) pentru transformarea textului din [fișierul sursă](https://github.com/ctanas/parsec.ro/blob/master/content-org/index.org) din /org-mode/ în /Markdown/. [Hugo](https://gohugo.io/) preia aceste fișiere /Markdown/ și generează fișerele statice HTML, îmbrăcate frumos într-o variantă ușor modificată a temei [alageek](https://github.com/gkmngrgn/hugo-alageek-theme), fișiere HTML fiind apoi împinse în GitHub, după fiecare modificare. [Netlify](https://www.netlify.com/) preia modificările din [GitHub](https://github.com/ctanas/parsec-alageek), generează o nouă versiune a paginilor modificate de fiecare dată când e cazul și afișează conținutul pe care îl aveți în fața voastră. Tabelele cu lansările orbitale sunt generate de Emacs dintr-o bază de date PostgreSQL, populată inițial cu datele din [GCAT: General Catalog of Artificial Space Objects](https://planet4589.org/space/gcat/), folosite cu aprobarea lui [Jonathan McDowell](https://planet4589.org) și modificate/alterate pentru a le face mai concise și potrivite site-ului de față.
 
 *** Contact
 Apreciez orice feedback, comentariu, sugestie, critică constructivă. Mă găsiți oricând la adresa de mail contact@parsec.ro sau îmi puteți trimite un mesaj pe pagina de [[https://www.facebook.com/parsec.ro][Facebook]].
@@ -698,274 +698,6 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 :EXPORT_HUGO_SECTION: r
 :END:
 
-** Lansări orbitale
-*** Lansări orbitale 2020
-:PROPERTIES:
-:EXPORT_FILE_NAME: lansari2020
-:END:
-
-**** Lansări orbitale efectuate în 2020
-| Nr. | Data        | Lansator      | Satelit/Misiune   | Tip  | Țara    | Centru / Rampa  | Ținta | Rezultat       | Bul. |
-|-----+-------------+---------------+-------------------+------+---------+-----------------+-------+----------------+------|
-|  56 | 23.07 14:26 | Soyuz-2.1a    | Progress MS-15    | NAV  | Rusia   | Baikonur 31/6   | ISS   | Succes         | 84   |
-|  55 | 23.07 04:14 | CZ-5          | Tianwen-1         | SAT  | China   | Wenchang LC1    | MAR   | Succes         | 84   |
-|  54 | 20.07 21:30 | Falcon-9      | Anasis-II         | COM* | SUA     | CC SLC-40       | GTO   | Succes         | 84   |
-|  53 | 19.07 21:58 | H-IIA         | Hope              | SAT  | Japonia | Tanegashima     | MAR   | Succes         | 84   |
-|  52 | 15.07 13:46 | Minotaur-IV   | NROL-129          | SAT* | SUA     | Wallops 0B      | LEO   | Succes         | [[/bul/083][83]]   |
-|  51 | 10.07 04:17 | Kuaizhou-11   | Gaofen-02E        | SSO  | China   | Jiuquan         | SSO   | Eșec           | [[/bul/083][83]]   |
-|  50 | 09.07 12:10 | CZ-3B/E       | APStar-6D         | COM  | China   | Xichang LC-3    | GSO   | Succes         | [[/bul/083][83]]   |
-|  49 | 06.07 01:00 | Shavit        | Ofek-16           | SAT* | ISR     | Palmachim       | LEO   | Succes         | [[/bul/083][83]]   |
-|  48 | 04.07 23:44 | CZ-2D         | Shiyan-6-02       | SAT  | China   | Jiuquan SLS-2   | SSO   | Succes         | [[/bul/082][82]]   |
-|  47 | 04.07 21:19 | Electron      | CE-SAT-IB         | OBS  | SUA     | Mahia LC-1      | SSO   | Eșec           | [[/bul/082][82]]   |
-|  46 | 03.07 03:10 | CZ-4B         | Gaofen Duomo      | OBS  | China   | Taiyuan LC-9    | SSO   | Succes         | [[/bul/082][82]]   |
-|-----+-------------+---------------+-------------------+------+---------+-----------------+-------+----------------+------|
-|  45 | 30.06 20:10 | Falcon-9      | GPS-III-SV03      | GNS  | SUA     | CC SLC-40       | MEO   | Succes         | [[/bul/082][82]]   |
-|  44 | 23.06 01:43 | CZ-3B/E       | Beidou-3          | GNS  | China   | Xichang LC-2    | GSO   | Succes         | [[/bul/081][81]]   |
-|  43 | 17.06 07:19 | CZ-2D         | Gaofen9-03        | OBS  | China   | Jiuquan         | SSO   | Succes         | [[/bul/080][80]]   |
-|  42 | 13.06 09:21 | Falcon-9      | 58xStarlink-8     | COM  | SUA     | CC SLC-40       | LEO   | Succes         | [[/bul/080][80]]   |
-|  41 | 13.06 05:12 | Electron      | Andesite          | SAT  | SUA     | Mahia LC-1      | LEO   | Succes         | [[/bul/080][80]]   |
-|  40 | 10.06 18:31 | CZ-2C         | Haiyang-1D        | OBS  | China   | Taiyuan LC-9    | SSO   | Succes         | [[/bul/79][79]]   |
-|  39 | 04.06 01:25 | Falcon-9      | 60xStarlink-7     | COM  | SUA     | CC SLC-40       | LEO   | Succes         | [[/bul/079][79]]   |
-|-----+-------------+---------------+-------------------+------+---------+-----------------+-------+----------------+------|
-|  38 | 31.05 08:53 | CZ-2D         | Gaofen-9-02       | OBS  | China   | Jiuquan         | SSO   | Succes         | [[/bul/078][78]]   |
-|  37 | 30.05 19:22 | Falcon-9      | Dragon2           | CRW  | SUA     | KSC LC-39A      | ISS   | Succes         | [[/bul/078][78]]   |
-|  36 | 29.05 20:13 | CZ-11         | XS-H              | SAT  | China   | Xichang         | LEO   | Succes         | [[/bul/078][78]]   |
-|  35 | 25.05 19:50 | RocketOne     | Starshine-4       | SAT  | SUA     | CosmicGirl      | LEO   | Eșec           | [[/bul/77][77]]   |
-|  34 | 22.05 07:31 | Soyuz-2.1b    | Tundra-4          | COM* | Rusia   | Plesetsk        | MOL   | Succes         | [[/bul/077][77]]   |
-|  33 | 20.05 20:30 | H-2B          | HTV-9             | NAV  | Japonia | Tanegashima     | ISS   | Succes         | [[/bul/76][76]]   |
-|  32 | 17.05 13:14 | Atlas V 501   | OTV-6 X37B        | NAV* | SUA     | CC SLC-40       | LEO   | Succes         | [[/bul/76][76]]   |
-|  31 | 11.05 01:16 | Kuaizhou-1A   | 2x Xingyun-2      | COM  | China   | Jiuquan         | SSO   | Succes         | [[/bul/075][75]]   |
-|  30 | 05.05 10:00 | Changzheng-5B | Shenzhou2[fn:126] | NAV  | China   | Wenchang LC-101 | LEO   | Succes         | [[/bul/074][74]]   |
-|-----+-------------+---------------+-------------------+------+---------+-----------------+-------+----------------+------|
-|  29 | 25.04 01:51 | Soyuz-2.1a    | Progress MS-14    | NAV  | Rusia   | Baikonur 31/6   | ISS   | Succes         | [[/bul/073][73]]   |
-|  28 | 22.04 19:30 | Falcon-9      | 60xStarlink-6     | COM  | SUA     | KSC LC-39A      | LEO   | Succes         | [[/bul/072][72]]   |
-|  27 | 22.04 04:00 | Qased         | Noor              | SAT* | Iran    | Shahroud        | LEO   | Succes         | [[/bul/072][72]]   |
-|  26 | 09.04 11:45 | CZ-3B         | Palapa-N1         | COM  | China   | Xichang         | GEO   | Eșec[fn:128]   | [[/bul/071][71]]   |
-|  25 | 09.04 08:05 | Soyuz-2.1a    | Soyuz MS-16       | CRW  | Rusia   | Baikonur 31/6   | ISS   | Succes[fn:127] | [[/bul/071][71]]   |
-|-----+-------------+---------------+-------------------+------+---------+-----------------+-------+----------------+------|
-|  24 | 26.03 19:18 | Atlas-V 551   | AEHF-6            | COM* | SUA     | CC SLC-41       | GEO   | Succes[fn:125] | [[/bul/069][69]]   |
-|  23 | 24.03 04:43 | CZ-2C         | 3x Yaogan 30      | COM* | China   | Xichang         | LEO   | Succes         | [[/bul/068][68]]   |
-|  22 | 21.03 17:06 | Soyuz-2.1b    | 34x OneWeb-3      | COM  | Europa  | Baikonur 31/6   | LEO   | Succes         | [[/bul/068][68]]   |
-|  21 | 18.03 12:16 | Falcon-9      | 60xStarlink-5     | COM  | SUA     | KSC LC-39A      | LEO   | Succes[fn:l23] | [[/bul/067][67]]   |
-|  20 | 16.03 20:28 | Soyuz-2.1b    | Glonass-M         | GNS  | Rusia   | Plesetsk 43/4   | MEO   | Succes[fn:l24] | [[/bul/067][67]]   |
-|  19 | 16.03 13:34 | CZ-7A         | TJS-6             | COM* | China   | Wenchang LC201  | GEO   | Eșec[fn:l21]   | [[/bul/067][67]]   |
-|  18 | 09.03 11:55 | CZ-3B         | BeiDou-3G2Q       | CNS  | China   | Xichang LC-2    | GEO   | Succes         | [[/bul/066][66]]   |
-|  17 | 07.03 06:50 | Falcon-9      | Dragon CRS-20     | NAV  | SUA     | CC SLC-40       | ISS   | Succes         | [[/bul/066][66]]   |
-|-----+-------------+---------------+-------------------+------+---------+-----------------+-------+----------------+------|
-|  16 | 20.02 08:22 | Soyuz-2.1a    | Meridian-M9       | COM* | Rusia   | Plesetsk 43/3   | MOL   | Succes         | [[/bul/064][64]]   |
-|  15 | 19.02 21:07 | CZ-2D         | 4x XJS            | SAT  | China   | Xichang LC-3    | LEO   | Succes         | [[/bul/063][63]]   |
-|  14 | 18.02 22:18 | Ariane-5 ECA  | JCSAT-17          | COM  | Europa  | Kourou ELA-3    | GEO   | Succes         | [[/bul/063][63]]   |
-|  13 | 17.02 15:05 | Falcon-9      | 60x Starlink-4    | COM  | SUA     | CC SLC-40       | LEO   | Succes         | [[/bul/063][63]]   |
-|  12 | 14.02 20:21 | Antares-230   | Cygnus NG-13      | NAV  | SUA     | Wallops 0A      | ISS   | Succes         | [[/bul/063][63]]   |
-|  11 | 10.02 04:03 | Atlas-V 411   | Solar Orbiter     | INT  | SUA     | CC SLC-41       | INT   | Succes         | [[/bul/062][62]]   |
-|  10 | 09.02 18:45 | Simorgh       | Zafar-1           | OBS* | Iran    | Semnan          | LEO   | Eșec           | [[/bul/062][62]]   |
-|  09 | 09.02 01:34 | H-IIA 202     | IGS-Optical-7     | OBS* | Japonia | T-shima LA-Y1   | SSO   | Succes         | [[/bul/062][62]]   |
-|  08 | 06.02 21:42 | Soyuz-2.1b    | 34x OneWeb-2      | COM  | Europa  | Baikonur        | LEO   | Succes[fn:l22] | [[/bul/062][62]]   |
-|-----+-------------+---------------+-------------------+------+---------+-----------------+-------+----------------+------|
-|  07 | 31.01 02:56 | Electron      | NROL-151          | SAT* | SUA     | Mahia LC-1      | LEO   | Succes         | [[/bul/061][61]]   |
-|  06 | 28.01 14:06 | Falcon-9      | 60x Starlink-3    | COM  | SUA     | CC SLC-40       | LEO   | Succes         | [[/bul/060][60]]   |
-|  05 | 16.01 21:05 | Ariane-5 ECA  | Konnect           | COM  | Europa  | Kourou ELA-3    | GEO   | Succes         | [[/bul/059][59]]   |
-|  04 | 16.01 03:02 | Kuaizhou-1A   | Yinhe-1           | DEM  | China   | Jiuquan         | SSO   | Succes         | [[/bul/059][59]]   |
-|  03 | 15.01 02:53 | CZ-2D         | Kuanfu-1          | OBS  | China   | Taiyua LC-9     | LEO   | Succes         | [[/bul/058][58]]   |
-|  02 | 07.01 15:20 | CZ-3B         | TJSW-5            | COM* | China   | Xichang LC-2    | GTO   | Succes         | [[/bul/057][57]]   |
-|  01 | 07.01 02:19 | Falcon-9      | 60x Starlink-2    | COM  | SUA     | CC SLC-40       | LEO   | Succes         | [[/bul/057][57]]   |
-
-**** Clasament
-| Țara    | Nr. | Lansări              |
-|---------+-----+----------------------|
-| SUA     |  20 | IIIIIIIIIIIXIIIIIIII |
-| China   |  20 | IIIIIXIXIIIIIIIIIIXI |
-| Rusia   |   6 | IIIIII               |
-| Europa  |   4 | IIII                 |
-| Japonia |   3 | III                  |
-| Iran    |   2 | XI                   |
-| Israel  |   1 | I                    |
-|---------+-----+----------------------|
-| *TOTAL*   |  *56* |                      |
-
-**** Legendă tabel
-
-- *Data lansării*: data și ora lansării este UTC, data exprimată în formatul ZZ.LL HH:MM;
-- *Lansator*: racheta, varianta folosită și treapta superioară (unde este cazul);
-- *Satelit*: este menționat doar un satelit, cel principal; unde este cazul, este specificat numărul sateliților identici;
-- *Tip*:sateliții militari sau cei de spionaj sunt marcați cu un asterisc* : 
-  + INT: sondă interplanetară
-  + NAV: capsulă cargo, test capsulă echipaj dar fără echipaj la bord, navetă
-  + CRW: capsulă cu echipaj la bord
-  + MOD: modul stație spațială
-  + GNS: satelit de geolocație
-  + COM: satelit telecomunicații
-  + OBS: satelit de observație
-  + MET: satelit meteorologic
-  + SAT: alte categorii
-- *Ținta*:
-  + LEO: orbita terestră joasă, între 200-2000 km altitudinesa
-  + ISS: zbor spre ISS, un caz special de orbită terestră joasă
-  + SSO: orbită heliosincronă, un caz special de orbită terestră joasă
-  + MEO: orbită terestră medie, între LEO și GEO
-  + GEO: orbită terestră geosincronă, aprox. 30000 km altitudine
-  + GTO: orbită de transfer geosincronă, satelitul ajunge ulterior pe GEO
-  + MOL: orbită Molniya
-  + LUN: zbor spre Lună
-  + MAR: zbor spre Marte
-  + INT: zbor interplanetar, cu o destinație alta decât Luna sau Marte
-- *Bul.*: link spre Buletinul Cosmic care oferă mai multe detalii despre lansare.
-
-
-[fn:l21] Prima lansare a rachetei Changzheng-7A.
-[fn:l22] Deși lansarea este efectuată la Baikonur, folosind o rachetă rusă, compania Arianespace este cea care operează acestă lansare, astfel lansarea este considerată a fi una europeană (la fel cum și lansările rachetei Soyuz care au loc din Guiana Franceză sunt considerate europene).
-[fn:l23] A fost pentru prima dată când SpaceX a folosit pentru a 5-a oară o treaptă primară; în timpul lansării unul din cele 9 motoare Merlin a suferit o problemă tehnică (scurgere de alcool izopropilic, folosit ca lichid de curățare), însă celelalte 8 au compensat și treapta secundară a ajuns pe traiectoria corectă; din păcate, treapta primară a ratat întâlnirea cu barja OCISLY din Atlantic și astfel nu a mai fost recuperată. A fost pentru prima dată când SpaceX a refolosit conul protector.
-[fn:l24] A fost a 100-a lansare a unei rachete Soyuz-2.
-[fn:125] A 500-a lansare a unei trepte superioare propulsate de un motor RL-10 și prima lansare pentru noa ramură a armatei americane US Space Force.
-[fn:126] Prima lansarea a variante Changzheng-5B, derivată din Changzheng-5, dar destinată orbitei terestre joase (LEO); zborul este dedicat testării noii capsule care urmează să fie folosite pentru viitoare lansări cu echipaj.
-[fn:127] Prima lansare a unui echipaj la bordul unei rachete Soyuz-2.
-[fn:128] Din cauza unor probleme cu cea de-a treia treaptă, lansarea a eșuat și satelitul a fost pierdut.
-
-*** Lansări orbitale 2019
-:PROPERTIES:
-:EXPORT_FILE_NAME: lansari2019
-:END:
-
-|  Nr |  Data |  Ora | Lansator         | Satelit        | Țara    | Rampa           | Ținta | Rezultat           |
-|-----+-------+------+------------------+----------------+---------+-----------------+-------+--------------------|
-| 102 | 27.12 | 1245 | Changzheng-5     | Shijian-20     | China   | Wenchang LC-1   | GEO   | Succes             |
-| 101 | 26.12 | 2312 | Rockot           | 3xGonets-M     | Rusia   | Plesetsk 133/3  | LEO   | Succes[fn:rroct]   |
-| 100 | 24.12 | 1215 | Proton-M         | Elektro-L3     | Rusia   | Baikonur 81/24  | GEO   | Succes[fn:rp1500]  |
-|  99 | 20.12 | 1136 | Atlas V          | CST-100        | SUA     | SLC-41          | ISS   | Succes[fn:rcst100] |
-|  98 | 20.12 | 0322 | Changzheng-4B    | CBERS-4A       | China   | Taiyuan-LC9     | SSO   | Succes             |
-|  97 | 18.12 | 0854 | Soyuz-STA        | CHEOPS         | Europa  | Kourou ELS      | SSO   | Succes             |
-|  96 | 17.12 | 0010 | Falcon 9         | JCSAT-18       | SUA     | CC SLC-40       | GTO   | Succes             |
-|  95 | 16.12 | 0722 | Changzheng-3B    | 2xBeidou-3     | China   | Xichang-LC3     | MEO   | Succes             |
-|  94 | 11.12 | 0955 | PSLV-QL          | RISAT-2BR1     | India   | Satish Dhawan   | LEO   | Succes             |
-|  93 | 11.12 | 0830 | Soyuz-2.1b       | GLONASS-M      | Rusia   | Plesetsk 43/3   | MEO   | Succes             |
-|  92 | 07.12 | 0852 | Kuaizhou-1A      | 2x Xingyun-2   | China   | Taiyuan         | SSO   | Succes             |
-|  91 | 07.12 | 0255 | Kuaizhou-1A      | Jilin-1        | China   | Taiyuan         | SSO   | Succes             |
-|  90 | 06.12 | 0934 | Soyuz-2.1a       | Progress MS-13 | Rusia   | Baikonur 31/6   | ISS   | Succes             |
-|  89 | 06.12 | 0757 | Electron         | ATL-1          | SUA     | Mahia LC-1      | LEO   | Succes             |
-|  88 | 05.12 | 1729 | Falcon 9         | Dragon CRS-19  | SUA     | CC SLC-40       | ISS   | Succes             |
-|-----+-------+------+------------------+----------------+---------+-----------------+-------+--------------------|
-|  87 | 27.11 | 2352 | Changzheng-4C    | Gaofen-12      | China   | Taiyaun LC-9    | SSO   | Succes             |
-|  86 | 27.11 | 0358 | PSLV-XL          | Cartosat-3     | India   | Satish Dhawan   | LEO   | Succes             |
-|  85 | 26.11 | 2109 | Ariane 5 ECA     | Inmarsat-5 F5  | Europa  | Kourou ELA-3    | GSO   | Succes             |
-|  84 | 25.11 | 1752 | Soyuz-2.1v       | Kosmos-2542    | Rusia   | Plesetsk 43/4   | LEO   | Succes             |
-|  83 | 23.11 | 0055 | Changzheng-3B    | Beidou-3       | China   | Xichang LC-3    | MEO   | Succes             |
-|  82 | 17.11 | 1000 | Kuaizhou-1A      | KL-Alpha       | China   | Jiuquan SLS-2   | LEO   | Succes             |
-|  81 | 13.11 | 0635 | Changzheng-6     | Ningxia-1      | China   | Taiyuan LC-16   | LEO   | Succes             |
-|  80 | 13.11 | 0340 | Kuaizhou-1A      | Gaofen-02A     | China   | Jiuquan SLS-2   | SSO   | Succes             |
-|  79 | 11.11 | 1456 | Falcon 9         | 60x Starlink   | SUA     | CC SLC-40       | LEO   | Succes             |
-|  78 | 04.11 | 1743 | Changzheng-3B/E  | Beidou-3       | China   | Xichang LC-2    | GSO   | Succes             |
-|  77 | 03.11 | 0322 | Changzheng-4B    | Gaofen-7       | China   | Taiyuan LC-9    | SSO   | Succes             |
-|  76 | 02.11 | 1359 | Antares 230+     | Cygnus NG-12   | SUA     | LP-0A           | ISS   | Succes             |
-|-----+-------+------+------------------+----------------+---------+-----------------+-------+--------------------|
-|  75 | 17.10 | 1521 | Changzheng-3B    | TJSW-4         | China   | Xichang LC-3    | GSO   | Succes             |
-|  74 | 17.10 | 0122 | Electron         | Palisade       | SUA     | Mahia LC-1      | SSO   | Succes             |
-|  73 | 11.10 | 0200 | Pegasus-XL       | ICON           | SUA     | /Stargazer/       | LEO   | Succes             |
-|  72 | 09.10 | 1017 | Proton-M         | MEV-1/Eutelsat | Rusia   | Baikonur 200/39 | GEO   | Succes             |
-|  71 | 04.10 | 1851 | Changzheng-4C    | Gaofen-10R     | China   | Taiyuan LC-9    | SSO   | Succes             |
-|-----+-------+------+------------------+----------------+---------+-----------------+-------+--------------------|
-|  70 | 26.09 | 0746 | Soyuz-2.1b       | Tundra         | Rusia   | Plesetsk 43/4   | MOL   | Succes             |
-|  69 | 25.09 | 1357 | Soyuz-FG         | Soyuz MS-15    | Rusia   | Baikonur 1/5    | ISS   | Succes[fn:rsfg]    |
-|  68 | 25.09 | 0054 | Changzheng-2D    | Yunhai-1       | China   | Jiuquan         | SSO   | Succes             |
-|  67 | 24.09 | 1605 | H-2B             | HTV-8          | Japonia | Tanegashima     | ISS   | Succes             |
-|  66 | 22.09 | 2110 | Changzheng-3B    | Beidou-3       | China   | Xichang         | MEO   | Succes             |
-|  65 | 19.09 | 0642 | Changzheng-11    | Zhuhai-1       | China   | Jiuquan         | SSO   | Succes             |
-|  64 | 12.09 | 0326 | Changzheng-4B    | Naxing-3       | China   | Taiyuan         | SSO   | Succes             |
-|-----+-------+------+------------------+----------------+---------+-----------------+-------+--------------------|
-|  63 | 30.08 | 2341 | Kuaizhou-1A      | KX-09          | China   | Jiuquan         | SSO   | Succes             |
-|  62 | 30.08 | 1700 | Rokot            | Geo-IK-2       | Rusia   | Plesetsk 133/3  | LEO   | Succes             |
-|  61 | 22.08 | 1606 | Delta IV Medium  | GPS-III SV02   | SUA     | CC SLC-37B      | MEO   | Succes             |
-|  60 | 22.08 | 0338 | Soyuz-2.1a       | Soyuz MS-14    | Rusia   | Baikonur 31/6   | ISS   | Succes             |
-|  59 | 19.08 | 1212 | Electron         | BRO-1          | SUA     | Mahia LC-1      | LEO   | Succes             |
-|  58 | 19.08 | 1203 | Changzheng-3B/G2 | Chinasat-18    | China   | Xichang         | GEO   | Succes[fn:rcz3b]   |
-|  57 | 17.08 | 0411 | Jielong-1        | QianSheng-1    | China   | Jiuquan         | SSO   | Succes             |
-|  56 | 08.08 | 1013 | Atlas V 551      | AEHF-5         | SUA     | CC SLC-41       | GEO   | Succes             |
-|  55 | 06.08 | 2323 | Falcon 9         | Amos-17        | SUA     | CC SLC-40       | GEO   | Succes             |
-|  54 | 06.08 | 1930 | Ariane 5 ECA     | EDRS-C         | Europa  | Kourou ELA-3    | GEO   | Succes             |
-|  53 | 05.08 | 2156 | Proton-M         | Blagovest-14L  | Rusia   | Baikonur 81/24  | GEO   | Succes             |
-|-----+-------+------+------------------+----------------+---------+-----------------+-------+--------------------|
-|  52 | 31.07 | 1210 | Soyuz-2.1a       | Progress MS-12 | Rusia   | Baikonur 31/6   | ISS   | Succes             |
-|  51 | 30.07 | 0556 | Soyuz-2.1a       | Meridian-8     | Rusia   | Plesetsk 43/4   | MOL   | Succes             |
-|  50 | 26.07 | 0357 | Changzheng-2C    | Yaogan-30      | China   | Xichang LC-3    | LEO   | Succes             |
-|  49 | 25.07 | 2201 | Falcon 9         | Dragon CRS-18  | SUA     | CC SLC-40       | ISS   | Succes             |
-|  48 | 25.07 | 0500 | Hyperbola-1      | CAS-7B         | China   | Jiuquan         | LEO   | Succes[fn:rhyp1]   |
-|  47 | 22.07 | 0913 | GSLV Mk.III      | Chandrayaan-2  | India   | S-Dhawan SLP    | SNC   | Succes             |
-|  46 | 20.07 | 1628 | Soyuz-FG         | Soyuz MS-13    | Rusia   | Baikonur 1/5    | ISS   | Succes             |
-|  45 | 13.07 | 1230 | Proton-M         | Spektr-RG      | Rusia   | Baikonur 81/24  | LL2   | Succes             |
-|  44 | 11.07 | 0153 | Vega             | FalconEye-1    | Europa  | Kourou ELV      | LEO   | Eșec[fn:rvega]     |
-|  43 | 10.07 | 1714 | Soyuz-2-1v       | Nivelir-L      | Rusia   | Plesetsk 43/4   | LEO   | Succes             |
-|  42 | 05.07 | 0541 | Soyuz-2.1b       | Meteor-M2-2    | Rusia   | Vostochny 1S    | SSO   | Succes             |
-|-----+-------+------+------------------+----------------+---------+-----------------+-------+--------------------|
-|  41 | 29.06 | 0430 | Electron         | BS-Global-3    | SUA     | Mahia LC-1      | LEO   | Succes             |
-|  40 | 25.06 | 0630 | Falcon Heavy     | STP-2          | SUA     | KSC LC-39A      | LEO   | Succes             |
-|  39 | 24.06 | 1750 | Changzheng-3B/E  | BeiDou-3       | China   | Xichang LC-3    | MEO   | Succes             |
-|  38 | 20.06 | 2141 | Ariane 5 ECA     | Eutelsat-7C    | Europa  | Kourou ELA-3    | GEO   | Succes             |
-|  37 | 12.06 | 1417 | Falcon 9         | RADARSAT       | SUA     | VAFB SLC-4E     | SSO   | Succes             |
-|  36 | 05.06 | 0406 | Changzheng-11H   | Bufeng-1       | China   | Marea Galbenă   | LEO   | Succes             |
-|-----+-------+------+------------------+----------------+---------+-----------------+-------+--------------------|
-|  35 | 30.05 | 1742 | Proton-M         | Yamal-601      | Rusia   | Baikonur 200/39 | GEO   | Succes             |
-|  34 | 27.05 | 0623 | Soyuz-2.1b       | GLONASS-M 758  | Rusia   | Plesetsk 43/4   | MEO   | Succes             |
-|  33 | 24.05 | 0230 | Falcon 9         | Starlink-1     | SUA     | CC SLC-40       | LEO   | Succes             |
-|  32 | 22.05 | 2249 | Changzheng-4C    | Yaogan-33      | China   | Taiyuan LC-9    | LEO   | Eșec[fn:rcz4c]     |
-|  31 | 22.05 | 0000 | PSLV-CA          | RISAT-2B       | India   | S-Shawan FLP    | SSO   | Succes             |
-|  30 | 17.05 | 1548 | Changzheng-3C    | BeiDou-2 G8    | China   | Xichang LC-2    | MEO   | Succes             |
-|  29 | 05.05 | 0600 | Electron         | Harbinger      | SUA     | Mahia LC-1      | LEO   | Succes             |
-|  28 | 04.05 | 0648 | Falcon 9         | Dragon CRS-17  | SUA     | CC SLC-40       | ISS   | Succes             |
-|-----+-------+------+------------------+----------------+---------+-----------------+-------+--------------------|
-|  27 | 29.04 | 2252 | Changzheng-4B    | Tianhui        | China   | Taiyuan LC-9    | SSO   | Succes             |
-|  26 | 20.04 | 1441 | Changzheng-3B/E  | Beidou-3       | China   | Xichang LC-3    | MEO   | Succes             |
-|  25 | 17.04 | 2046 | Antares 230      | Cygnus NG-11   | SUA     | MARS LP-0A      | ISS   | Succes             |
-|  24 | 11.04 | 2235 | Falcon Heavy     | Arabsat-6A     | SUA     | KSC LC-39A      | GEO   | Succes             |
-|  23 | 04.04 | 1703 | Soyuz ST-B       | O3b            | Europa  | Kourou ELS      | MEO   | Succes             |
-|  22 | 04.04 | 1101 | Soyuz-2.1a       | Progress MS-11 | Rusia   | Baikonur 31/6   | ISS   | Succes             |
-|  21 | 01.04 | 0357 | PSLV-QL          | EMISAT         | India   | S-Dhawan SLP    | LEO   | Succes             |
-|-----+-------+------+------------------+----------------+---------+-----------------+-------+--------------------|
-|  20 | 31.03 | 1550 | Changzheng-3B/E  | Tianlian-2-01  | China   | Xichang LC-2    | GEO   | Succes             |
-|  19 | 28.03 | 2230 | Electron         | R3D2           | SUA     | Mahia LC-1      | LEO   | Succes             |
-|  18 | 27.03 | 1039 | OS-M1            | Linque-1B      | China   | Jiquan SLS-2    | LEO   | Eșec[fn:rosm1]     |
-|  17 | 22.03 | 0150 | Vega             | PRISMA         | Europa  | Kourou ELV      | SSO   | Succes             |
-|  16 | 16.03 | 0026 | Delta-IV M+(5,4) | WGS-10         | SUA     | CC SLC-37B      | GEO   | Succes             |
-|  15 | 14.03 | 1914 | Soyuz-FG         | Soyuz MS-12    | Rusia   | Baikonur 1/5    | LEO   | Succes             |
-|  14 | 09.03 | 1728 | Changzheng-3B/E  | Chinasat-6C    | China   | Xichang LC-2    | GEO   | Succes             |
-|  13 | 02.03 | 0749 | Falcon 9         | Dragon2-DM1    | SUA     | KSC LC-39A      | ISS   | Succes             |
-|-----+-------+------+------------------+----------------+---------+-----------------+-------+--------------------|
-|  12 | 27.02 | 2137 | Soyuz ST-B       | Oneweb         | Europa  | Kourou ELS      | LEO   | Succes             |
-|  11 | 22.02 | 0145 | Falcon 9         | Nunsatara Satu | SUA     | CC SLC-40       | GEO   | Succes             |
-|  10 | 21.02 | 1647 | Soyuz-2.1b       | EgyptSat-A     | Rusia   | Baikonur 31/6   | LEO   | Succes             |
-|   9 | 05.02 | 2101 | Ariane 5 ECA     | HellasSat-4    | Europa  | Kourou ELA-3    | GEO   | Succes             |
-|   8 | 05.02 |      | Safir-1B         | Dousti         | Iran    | Semnan LP-1     | LEO   | Eșec               |
-|-----+-------+------+------------------+----------------+---------+-----------------+-------+--------------------|
-|   7 | 24.01 | 1807 | PSLV-DL          | Microsat-R     | India   | S-Dhawan        | LEO   | Succes             |
-|   6 | 21.01 | 0542 | Changzheng-11    | Jilin-1        | China   | Jiuquan SLS-2   | LEO   | Succes             |
-|   5 | 19.01 | 1905 | Delta IV Heavy   | NROL-71        | SUA     | VAFB SLC-6      | LEO   | Succes             |
-|   4 | 18.01 | 0050 | Epsilon          | RAPIS-1        | Japonia | Uchinoura       | SSO   | Succes             |
-|   3 | 15.01 |      | Simorgh          | AUTSAT-1       | Iran    | Semnan LP-2     | LEO   | Eșec               |
-|   2 | 11.01 | 1531 | Falcon 9         | Iridium 66-75  | SUA     | VAFB SLC-4E     | LEO   | Succes             |
-|   1 | 10.01 | 1705 | Changzheng-3B/E  | Chinasat-2D    | China   | Xichang LC-2    | GEO   | Succes             |
-
-#+CAPTION: Lansarea Falcon Heavy din 11 aprilie 2019 cu satelitul de telecomunicații Arabsat-6A (/Foto: SpaceX/)
-[[/img/fh2019.jpg]]
-
-**** Abrevieri folosite în tabele
-
-- LEO ::  orbită terestră joasă (/Low Earth Orbit)/;
-- ISS ::  lansare spre Stația Spațială Internațională (/International Space Station/), care se află pe LEO;
-- SSO :: orbită heliosincronă (/Sun-Synchronous Orbit/), un caz special de LEO;
-- MEO :: orbită terestră medie (/Medium Earth Orbit/);
-- GEO :: orbită geosincronă (/GEOsynchronous orbit/);
-- LL2 :: punctul Lagrange L2 Pământ-Lună;
-- SNC :: orbită selenocentrică (lunară);
-- MOL :: orbită Molniya.
-
-
-[fn:rroct] Probabil ultima lansarea a rachetei Rockot, cel puțin pentru sectorul militar.
-[fn:rp1500] Lansarea cu numărul 1500 de la cosmodromul din Baikonur.
-[fn:rosm1] Tentativa unei companii chinezești private de a pune pe orbită un satelit s-a încheiat cu un eșec după ce controlul rachetei a fost pierdut imediat după seprarea primei trepte.
-[fn:rcz4c] Probleme cu a treia treaptă a rachetei Changzheng.
-[fn:rvega] Prima lansare eșuată pentru racheta Vega, datorită unor probleme cu treapta secundară.
-[fn:rcz3b] Prima lansare orbitală reușită a unei companii private din China.
-[fn:rhyp1] Racheta a urcat satelitul pe orbita corectă, dar ulterior acesta a suferit probleme tehnice.
-[fn:rsfg] Ultima lansare a rachetei Soyuz-FG și [[/m/soyuz-fg][probabil ultima lansare de pe rampa istorică 1/5 de la Baikonur]].
-[fn:rcst100] Racheta și treapta secundară au funcționat nominal, dar capsula CST-100 Starliner nu a mai ajuns la ISS din cauza unei probleme cu ceasul computerului de bord, care astfel nu a mai efectuat la timp o manevră de inserție pe orbita corectă. 
 ** Lansatoare orbitale active
 :PROPERTIES:
 :EXPORT_FILE_NAME: rachete_active
@@ -1078,74 +810,6 @@ order by lv_type
 - SSO :: orbită heliosincronă (aprox. 500 km, înclinație 97.7 grade)
 - GTO :: orbită geostaționară de transfer (spre orbita geostaționară --GEO, cu apogeul la 35786 km) 
 
-** Lansatoare orbitale active (arhivă)
-:PROPERTIES:
-:EXPORT_FILE_NAME: rachete_arhiva 
-:END:
-
-(Secțiune arhivată)
-
-|------------------+------+--------------+-------+--------------+-------+-------+-------+------+------+-------+------------|
-| Racheta          | Țara | Operator     | Debut | Motor        | LEO   | SSO   | GTO   | Lans | Succ | Eșec. |     Ultima |
-|------------------+------+--------------+-------+--------------+-------+-------+-------+------+------+-------+------------|
-| Antares[fn:rc1]  | SUA  | NGSSG        |  2013 | 2xRD-181     | 8t    |       |       |   12 |   11 |     1 | 14.02.2020 |
-| Atlas V          | SUA  | ULA          |  2002 | 1xRD-180     | 20.5t |       | 8.9t  |   84 |   82 |   (1) | 17.05.2020 |
-| Delta IV Heavy   | SUA  | ULA          |  2004 | 1xRS-68A     | 28.7  |       | 14.2t |   10 |    9 |   (1) | 19.01.2019 |
-| Electron         | SUA  | RocketLab    |  2017 | 9xRutherford |       | 0.22t |       |   13 |   11 |     2 | 04.07.2020 |
-| Falcon 9[fn:rc2] | SUA  | SpaceX       |  2010 | 9xMerlin     | 22.8t |       | 8.3t  |   89 |   87 | 1+(1) | 21.07.2020 |
-| Falcon Heavy     | SUA  | SpaceX       |  2018 | 27xMerlin    | 63.8  |       | 26.7  |    3 |    3 |     0 | 25.06.2019 |
-| Minotaur-C       | SUA  | NGSSG        |  1994 | Castor(S)    | 1.3t  |       |       |   10 |    7 |     3 | 31.10.2017 |
-| Minotaur-IV      | SUA  | NGSSG        |  2010 | SR-118 (S)   | 1.74  |       |       |    7 |    7 |     0 | 15.07.2020 |
-| Minotaur-V       | SUA  | NGSSG        |  2013 | Castor(S)    |       |       | 0.53t |    1 |    1 |     0 | 07.09.2013 |
-| LauncherOne      | SUA  | Virgin Orbit |  2020 | Newton3      |       | 0.5   |       |    1 |    0 |     1 | 25.05.2020 |
-|------------------+------+--------------+-------+--------------+-------+-------+-------+------+------+-------+------------|
-| Soyuz-2          | RUS  | Roscosmos    |  2004 | 1xRD-108A    | 8.2t  | 4.9t  | 3.2t  |  105 |   98 | 4+(3) | 23.07.2020 |
-| Proton-M         | RUS  | Roscosmos    |  2001 | 6xRD-275M    | 23t   |       | 6.3   |  109 |   98 | 9+(2) | 24.12.2019 |
-| Rockot           | RUS  | Roscosmos    |  1994 | 3xRD-0233    | 1.9t  | 1.2t  |       |   34 |   31 | 2+(1) | 27.12.2019 |
-| Angara           | RUS  | Roscosmos    |  2014 | 1xRD-191     | 3.8t  |       | 5.4t  |    2 |    2 |     0 | 23.12.2014 |
-|------------------+------+--------------+-------+--------------+-------+-------+-------+------+------+-------+------------|
-| CZ-2C            | CHN  | CNSA         |  1982 | 4xYF-21C     | 3.85t | 1.9t  | 1.25t |   53 |   52 |     1 | 10.06.2020 |
-| CZ-2D            | CHN  | CNSA         |  1992 | 4xYF-21C     | 3.5t  | 1.3t  |       |   49 |   48 |     1 | 04.07.2020 |
-| CZ-2F            | CHN  | CNSA         |  1999 | 4xYF-20B     | 8.4t  |       |       |   13 |   13 |     0 | 16.10.2016 |
-| CZ-3A            | CHN  | CNSA         |  1994 | 4xYF-21C     | 8.5t  |       | 2.6t  |   27 |   27 |     0 | 09.07.2018 |
-| CZ-3B            | CHN  | CNSA         |  1996 | 4xYF-21C     | 11.5t | 7.1t  | 5.5t  |   69 |   65 | 2+(2) | 09.07.2020 |
-| CZ-3C            | CHN  | CNSA         |  2008 | 4xYF-21C     |       |       | 3.9t  |   17 |   17 |     0 | 17.05.2019 |
-| CZ-4B            | CHN  | CNSA         |  1999 | 4xYF-21C     | 4.2t  | 2.8t  | 1.5t  |   36 |   35 |     1 | 03.07.2020 |
-| CZ-4C            | CHN  | CNSA         |  2006 | 4xYF-21C     | 4.2t  | 2.8t  | 1.5t  |   28 |   26 |     2 | 27.11.2019 |
-| CZ-5             | CHN  | CNSA         |  2016 | 2xYF-100     |       |       | 14t   |    4 |    3 |     1 | 23.07.2019 |
-| CZ-5B            | CHN  | CNSA         |  2020 | 2xYF-100     | 25t   |       |       |    1 |    1 |     0 | 05.05.2020 |
-| CZ-6             | CHN  | CNSA         |  2015 | 1xYF-100     |       | 1t    |       |    3 |    3 |     1 | 13.11.2019 |
-| CZ-7             | CHN  | CNSA         |  2016 | 2xYF-100     | 13.5t |       | 5.5t  |    2 |    2 |     0 | 20.04.2017 |
-| CZ-7A            | CHN  | CNSA         |  2020 | 1xYF-100     |       |       | 7.0t  |    1 |    0 |     1 | 16.03.2020 |
-| CZ-11[fn:rc4]    | CHN  | CNSA         |  2015 | P35 (S)      | 0.7t  | 0.35t |       |    9 |    9 |     0 | 29.05.2020 |
-| Jielong-1        | CHN  | CNSA         |  2019 | (S)          | ?     | ?     |       |    1 |    1 |     0 | 17.08.2019 |
-| Kuaizhou-1       | CHN  | ExPace       |  2013 | (S)          | 0.3t  | 0.2t  |       |   11 |   11 |     0 | 11.05.2020 |
-| Kuaizhou-11      | CHN  | ExPace       |  2020 | (S)          | 1t    | 0.7t  |       |    1 |    0 |     1 | 10.07.2020 |
-|------------------+------+--------------+-------+--------------+-------+-------+-------+------+------+-------+------------|
-| Ariane 5         | EU   | ArianeSpace  |  1996 | 1xVulcain    | 20t   |       | 10.9t |  108 |  103 |  2(3) | 18.02.2020 |
-| Vega             | EU   | ArianeSpace  |  2012 | P80 (S)      |       | 1.45t |       |   15 |   14 |     1 | 11.07.2019 |
-|------------------+------+--------------+-------+--------------+-------+-------+-------+------+------+-------+------------|
-| H-2A             | JPN  | JAXA         |  2001 | 1xLE-7A      | 15t   |       | 6t    |   41 |   40 |     1 | 09.02.2020 |
-| H-2B             | JPN  | JAXA         |  2009 | 2xLE-7A      | 16.5t |       | 8t    |    9 |    9 |     0 | 20.05.2020 |
-| Epsilon          | JPN  | JAXA         |  2013 | M-35 (S)     | 1.2   | 0.45  |       |    4 |    4 |     0 | 18.01.2019 |
-|------------------+------+--------------+-------+--------------+-------+-------+-------+------+------+-------+------------|
-| PSLV             | IND  | ISRO         |  1993 | (S)          | 3.8t  | 1.75t | 1.2t  |   50 |   47 | 2+(1) | 11.12.2019 |
-| GSLV Mk.II       | IND  | ISRO         |  2010 | S139 (S)     | 5t    |       | 2.7t  |    7 |    6 |     1 | 19.12.2018 |
-| GSLV Mk.III      | IND  | ISRO         |  2017 | S200 (S)     | 10t   |       | 4t    |    4 |    4 |     0 | 22.07.2019 |
-|------------------+------+--------------+-------+--------------+-------+-------+-------+------+------+-------+------------|
-| Shavit           | ISR  | ISA (ISR)    |  1988 | LK-1 (S)     | 0.35t |       |       |   10 |    8 |     2 | 06.07.2020 |
-|------------------+------+--------------+-------+--------------+-------+-------+-------+------+------+-------+------------|
-| Safir[fn:rc3]    | IRN  | ISA (IRN)    |  2008 | ??           | <0.1? |       |       |    8 |    4 |     4 | 05.02.2019 |
-| Simorgh          | IRN  | ISA (IRN)    |  2016 | 4xNodong?    | 0.35? |       |       |    4 |    1 |     3 | 09.02.2020 |
-| Qased            | IRN  | IRG (IRN)    |  2020 | ?Nodong?     | ??    | ??    | ??    |    1 |    1 |     0 | 22.04.2020 |
-|------------------+------+--------------+-------+--------------+-------+-------+-------+------+------+-------+------------|
-| Unha-3           | PRK  | NADA         |  2012 | 4xNodong?    | 0.2?  |       |       |    3 |    2 |     1 | 07.02.2016 |
-|------------------+------+--------------+-------+--------------+-------+-------+-------+------+------+-------+------------|
-
-[fn:rc1] După eșecul celei de-a 5-a lansări Antares, din 28.10.2014, racheta a schimbat motorul primei trepte din NK-33 în RD-181.
-[fn:rc2] Falcon-9 a suferit o explozie pe rampa de lansare, înaintea misiunii Amos-18 (01.09.2016), eșec care nu apare în tabel.
-[fn:rc3] Safir a suferit în 29.08.2019 o explozie pe rampă, eșec care nu apare în tabel.
-[fn:rc4] Include și varianta CZ-11H care este lansată de pe o platformă maritimă.
 
 ** Soyuz-2
 :PROPERTIES:
@@ -1708,6 +1372,344 @@ WHERE lv_type LIKE ('Delta 4H%')
 | 2016-06-11 | Delta 4H           | D4-32/D374 | USA 268 (ORION 9?)  | CC     | SLC37B | GEO/I  | S |
 | 2018-08-12 | Delta 4H/Star 48BV | D4-37/D380 | Parker Solar Probe  | CC     | SLC37B | EEO    | S |
 | 2019-01-19 | Delta 4H           | D4-38/D382 | USA 290             | SVAFB  | SLC6   | LLEO/I | S |
+
+
+** Lansări orbitale (arhivă)
+*** Lansări orbitale 2020
+:PROPERTIES:
+:EXPORT_FILE_NAME: lansari2020
+:END:
+
+**** Lansări orbitale efectuate în 2020
+| Nr. | Data        | Lansator      | Satelit/Misiune   | Tip  | Țara    | Centru / Rampa  | Ținta | Rezultat       | Bul. |
+|-----+-------------+---------------+-------------------+------+---------+-----------------+-------+----------------+------|
+|  56 | 23.07 14:26 | Soyuz-2.1a    | Progress MS-15    | NAV  | Rusia   | Baikonur 31/6   | ISS   | Succes         | 84   |
+|  55 | 23.07 04:14 | CZ-5          | Tianwen-1         | SAT  | China   | Wenchang LC1    | MAR   | Succes         | 84   |
+|  54 | 20.07 21:30 | Falcon-9      | Anasis-II         | COM* | SUA     | CC SLC-40       | GTO   | Succes         | 84   |
+|  53 | 19.07 21:58 | H-IIA         | Hope              | SAT  | Japonia | Tanegashima     | MAR   | Succes         | 84   |
+|  52 | 15.07 13:46 | Minotaur-IV   | NROL-129          | SAT* | SUA     | Wallops 0B      | LEO   | Succes         | [[/bul/083][83]]   |
+|  51 | 10.07 04:17 | Kuaizhou-11   | Gaofen-02E        | SSO  | China   | Jiuquan         | SSO   | Eșec           | [[/bul/083][83]]   |
+|  50 | 09.07 12:10 | CZ-3B/E       | APStar-6D         | COM  | China   | Xichang LC-3    | GSO   | Succes         | [[/bul/083][83]]   |
+|  49 | 06.07 01:00 | Shavit        | Ofek-16           | SAT* | ISR     | Palmachim       | LEO   | Succes         | [[/bul/083][83]]   |
+|  48 | 04.07 23:44 | CZ-2D         | Shiyan-6-02       | SAT  | China   | Jiuquan SLS-2   | SSO   | Succes         | [[/bul/082][82]]   |
+|  47 | 04.07 21:19 | Electron      | CE-SAT-IB         | OBS  | SUA     | Mahia LC-1      | SSO   | Eșec           | [[/bul/082][82]]   |
+|  46 | 03.07 03:10 | CZ-4B         | Gaofen Duomo      | OBS  | China   | Taiyuan LC-9    | SSO   | Succes         | [[/bul/082][82]]   |
+|-----+-------------+---------------+-------------------+------+---------+-----------------+-------+----------------+------|
+|  45 | 30.06 20:10 | Falcon-9      | GPS-III-SV03      | GNS  | SUA     | CC SLC-40       | MEO   | Succes         | [[/bul/082][82]]   |
+|  44 | 23.06 01:43 | CZ-3B/E       | Beidou-3          | GNS  | China   | Xichang LC-2    | GSO   | Succes         | [[/bul/081][81]]   |
+|  43 | 17.06 07:19 | CZ-2D         | Gaofen9-03        | OBS  | China   | Jiuquan         | SSO   | Succes         | [[/bul/080][80]]   |
+|  42 | 13.06 09:21 | Falcon-9      | 58xStarlink-8     | COM  | SUA     | CC SLC-40       | LEO   | Succes         | [[/bul/080][80]]   |
+|  41 | 13.06 05:12 | Electron      | Andesite          | SAT  | SUA     | Mahia LC-1      | LEO   | Succes         | [[/bul/080][80]]   |
+|  40 | 10.06 18:31 | CZ-2C         | Haiyang-1D        | OBS  | China   | Taiyuan LC-9    | SSO   | Succes         | [[/bul/79][79]]   |
+|  39 | 04.06 01:25 | Falcon-9      | 60xStarlink-7     | COM  | SUA     | CC SLC-40       | LEO   | Succes         | [[/bul/079][79]]   |
+|-----+-------------+---------------+-------------------+------+---------+-----------------+-------+----------------+------|
+|  38 | 31.05 08:53 | CZ-2D         | Gaofen-9-02       | OBS  | China   | Jiuquan         | SSO   | Succes         | [[/bul/078][78]]   |
+|  37 | 30.05 19:22 | Falcon-9      | Dragon2           | CRW  | SUA     | KSC LC-39A      | ISS   | Succes         | [[/bul/078][78]]   |
+|  36 | 29.05 20:13 | CZ-11         | XS-H              | SAT  | China   | Xichang         | LEO   | Succes         | [[/bul/078][78]]   |
+|  35 | 25.05 19:50 | RocketOne     | Starshine-4       | SAT  | SUA     | CosmicGirl      | LEO   | Eșec           | [[/bul/77][77]]   |
+|  34 | 22.05 07:31 | Soyuz-2.1b    | Tundra-4          | COM* | Rusia   | Plesetsk        | MOL   | Succes         | [[/bul/077][77]]   |
+|  33 | 20.05 20:30 | H-2B          | HTV-9             | NAV  | Japonia | Tanegashima     | ISS   | Succes         | [[/bul/76][76]]   |
+|  32 | 17.05 13:14 | Atlas V 501   | OTV-6 X37B        | NAV* | SUA     | CC SLC-40       | LEO   | Succes         | [[/bul/76][76]]   |
+|  31 | 11.05 01:16 | Kuaizhou-1A   | 2x Xingyun-2      | COM  | China   | Jiuquan         | SSO   | Succes         | [[/bul/075][75]]   |
+|  30 | 05.05 10:00 | Changzheng-5B | Shenzhou2[fn:126] | NAV  | China   | Wenchang LC-101 | LEO   | Succes         | [[/bul/074][74]]   |
+|-----+-------------+---------------+-------------------+------+---------+-----------------+-------+----------------+------|
+|  29 | 25.04 01:51 | Soyuz-2.1a    | Progress MS-14    | NAV  | Rusia   | Baikonur 31/6   | ISS   | Succes         | [[/bul/073][73]]   |
+|  28 | 22.04 19:30 | Falcon-9      | 60xStarlink-6     | COM  | SUA     | KSC LC-39A      | LEO   | Succes         | [[/bul/072][72]]   |
+|  27 | 22.04 04:00 | Qased         | Noor              | SAT* | Iran    | Shahroud        | LEO   | Succes         | [[/bul/072][72]]   |
+|  26 | 09.04 11:45 | CZ-3B         | Palapa-N1         | COM  | China   | Xichang         | GEO   | Eșec[fn:128]   | [[/bul/071][71]]   |
+|  25 | 09.04 08:05 | Soyuz-2.1a    | Soyuz MS-16       | CRW  | Rusia   | Baikonur 31/6   | ISS   | Succes[fn:127] | [[/bul/071][71]]   |
+|-----+-------------+---------------+-------------------+------+---------+-----------------+-------+----------------+------|
+|  24 | 26.03 19:18 | Atlas-V 551   | AEHF-6            | COM* | SUA     | CC SLC-41       | GEO   | Succes[fn:125] | [[/bul/069][69]]   |
+|  23 | 24.03 04:43 | CZ-2C         | 3x Yaogan 30      | COM* | China   | Xichang         | LEO   | Succes         | [[/bul/068][68]]   |
+|  22 | 21.03 17:06 | Soyuz-2.1b    | 34x OneWeb-3      | COM  | Europa  | Baikonur 31/6   | LEO   | Succes         | [[/bul/068][68]]   |
+|  21 | 18.03 12:16 | Falcon-9      | 60xStarlink-5     | COM  | SUA     | KSC LC-39A      | LEO   | Succes[fn:l23] | [[/bul/067][67]]   |
+|  20 | 16.03 20:28 | Soyuz-2.1b    | Glonass-M         | GNS  | Rusia   | Plesetsk 43/4   | MEO   | Succes[fn:l24] | [[/bul/067][67]]   |
+|  19 | 16.03 13:34 | CZ-7A         | TJS-6             | COM* | China   | Wenchang LC201  | GEO   | Eșec[fn:l21]   | [[/bul/067][67]]   |
+|  18 | 09.03 11:55 | CZ-3B         | BeiDou-3G2Q       | CNS  | China   | Xichang LC-2    | GEO   | Succes         | [[/bul/066][66]]   |
+|  17 | 07.03 06:50 | Falcon-9      | Dragon CRS-20     | NAV  | SUA     | CC SLC-40       | ISS   | Succes         | [[/bul/066][66]]   |
+|-----+-------------+---------------+-------------------+------+---------+-----------------+-------+----------------+------|
+|  16 | 20.02 08:22 | Soyuz-2.1a    | Meridian-M9       | COM* | Rusia   | Plesetsk 43/3   | MOL   | Succes         | [[/bul/064][64]]   |
+|  15 | 19.02 21:07 | CZ-2D         | 4x XJS            | SAT  | China   | Xichang LC-3    | LEO   | Succes         | [[/bul/063][63]]   |
+|  14 | 18.02 22:18 | Ariane-5 ECA  | JCSAT-17          | COM  | Europa  | Kourou ELA-3    | GEO   | Succes         | [[/bul/063][63]]   |
+|  13 | 17.02 15:05 | Falcon-9      | 60x Starlink-4    | COM  | SUA     | CC SLC-40       | LEO   | Succes         | [[/bul/063][63]]   |
+|  12 | 14.02 20:21 | Antares-230   | Cygnus NG-13      | NAV  | SUA     | Wallops 0A      | ISS   | Succes         | [[/bul/063][63]]   |
+|  11 | 10.02 04:03 | Atlas-V 411   | Solar Orbiter     | INT  | SUA     | CC SLC-41       | INT   | Succes         | [[/bul/062][62]]   |
+|  10 | 09.02 18:45 | Simorgh       | Zafar-1           | OBS* | Iran    | Semnan          | LEO   | Eșec           | [[/bul/062][62]]   |
+|  09 | 09.02 01:34 | H-IIA 202     | IGS-Optical-7     | OBS* | Japonia | T-shima LA-Y1   | SSO   | Succes         | [[/bul/062][62]]   |
+|  08 | 06.02 21:42 | Soyuz-2.1b    | 34x OneWeb-2      | COM  | Europa  | Baikonur        | LEO   | Succes[fn:l22] | [[/bul/062][62]]   |
+|-----+-------------+---------------+-------------------+------+---------+-----------------+-------+----------------+------|
+|  07 | 31.01 02:56 | Electron      | NROL-151          | SAT* | SUA     | Mahia LC-1      | LEO   | Succes         | [[/bul/061][61]]   |
+|  06 | 28.01 14:06 | Falcon-9      | 60x Starlink-3    | COM  | SUA     | CC SLC-40       | LEO   | Succes         | [[/bul/060][60]]   |
+|  05 | 16.01 21:05 | Ariane-5 ECA  | Konnect           | COM  | Europa  | Kourou ELA-3    | GEO   | Succes         | [[/bul/059][59]]   |
+|  04 | 16.01 03:02 | Kuaizhou-1A   | Yinhe-1           | DEM  | China   | Jiuquan         | SSO   | Succes         | [[/bul/059][59]]   |
+|  03 | 15.01 02:53 | CZ-2D         | Kuanfu-1          | OBS  | China   | Taiyua LC-9     | LEO   | Succes         | [[/bul/058][58]]   |
+|  02 | 07.01 15:20 | CZ-3B         | TJSW-5            | COM* | China   | Xichang LC-2    | GTO   | Succes         | [[/bul/057][57]]   |
+|  01 | 07.01 02:19 | Falcon-9      | 60x Starlink-2    | COM  | SUA     | CC SLC-40       | LEO   | Succes         | [[/bul/057][57]]   |
+
+**** Clasament
+| Țara    | Nr. | Lansări              |
+|---------+-----+----------------------|
+| SUA     |  20 | IIIIIIIIIIIXIIIIIIII |
+| China   |  20 | IIIIIXIXIIIIIIIIIIXI |
+| Rusia   |   6 | IIIIII               |
+| Europa  |   4 | IIII                 |
+| Japonia |   3 | III                  |
+| Iran    |   2 | XI                   |
+| Israel  |   1 | I                    |
+|---------+-----+----------------------|
+| *TOTAL*   |  *56* |                      |
+
+**** Legendă tabel
+
+- *Data lansării*: data și ora lansării este UTC, data exprimată în formatul ZZ.LL HH:MM;
+- *Lansator*: racheta, varianta folosită și treapta superioară (unde este cazul);
+- *Satelit*: este menționat doar un satelit, cel principal; unde este cazul, este specificat numărul sateliților identici;
+- *Tip*:sateliții militari sau cei de spionaj sunt marcați cu un asterisc* : 
+  + INT: sondă interplanetară
+  + NAV: capsulă cargo, test capsulă echipaj dar fără echipaj la bord, navetă
+  + CRW: capsulă cu echipaj la bord
+  + MOD: modul stație spațială
+  + GNS: satelit de geolocație
+  + COM: satelit telecomunicații
+  + OBS: satelit de observație
+  + MET: satelit meteorologic
+  + SAT: alte categorii
+- *Ținta*:
+  + LEO: orbita terestră joasă, între 200-2000 km altitudinesa
+  + ISS: zbor spre ISS, un caz special de orbită terestră joasă
+  + SSO: orbită heliosincronă, un caz special de orbită terestră joasă
+  + MEO: orbită terestră medie, între LEO și GEO
+  + GEO: orbită terestră geosincronă, aprox. 30000 km altitudine
+  + GTO: orbită de transfer geosincronă, satelitul ajunge ulterior pe GEO
+  + MOL: orbită Molniya
+  + LUN: zbor spre Lună
+  + MAR: zbor spre Marte
+  + INT: zbor interplanetar, cu o destinație alta decât Luna sau Marte
+- *Bul.*: link spre Buletinul Cosmic care oferă mai multe detalii despre lansare.
+
+
+[fn:l21] Prima lansare a rachetei Changzheng-7A.
+[fn:l22] Deși lansarea este efectuată la Baikonur, folosind o rachetă rusă, compania Arianespace este cea care operează acestă lansare, astfel lansarea este considerată a fi una europeană (la fel cum și lansările rachetei Soyuz care au loc din Guiana Franceză sunt considerate europene).
+[fn:l23] A fost pentru prima dată când SpaceX a folosit pentru a 5-a oară o treaptă primară; în timpul lansării unul din cele 9 motoare Merlin a suferit o problemă tehnică (scurgere de alcool izopropilic, folosit ca lichid de curățare), însă celelalte 8 au compensat și treapta secundară a ajuns pe traiectoria corectă; din păcate, treapta primară a ratat întâlnirea cu barja OCISLY din Atlantic și astfel nu a mai fost recuperată. A fost pentru prima dată când SpaceX a refolosit conul protector.
+[fn:l24] A fost a 100-a lansare a unei rachete Soyuz-2.
+[fn:125] A 500-a lansare a unei trepte superioare propulsate de un motor RL-10 și prima lansare pentru noa ramură a armatei americane US Space Force.
+[fn:126] Prima lansarea a variante Changzheng-5B, derivată din Changzheng-5, dar destinată orbitei terestre joase (LEO); zborul este dedicat testării noii capsule care urmează să fie folosite pentru viitoare lansări cu echipaj.
+[fn:127] Prima lansare a unui echipaj la bordul unei rachete Soyuz-2.
+[fn:128] Din cauza unor probleme cu cea de-a treia treaptă, lansarea a eșuat și satelitul a fost pierdut.
+
+*** Lansări orbitale 2019
+:PROPERTIES:
+:EXPORT_FILE_NAME: lansari2019
+:END:
+
+|  Nr |  Data |  Ora | Lansator         | Satelit        | Țara    | Rampa           | Ținta | Rezultat           |
+|-----+-------+------+------------------+----------------+---------+-----------------+-------+--------------------|
+| 102 | 27.12 | 1245 | Changzheng-5     | Shijian-20     | China   | Wenchang LC-1   | GEO   | Succes             |
+| 101 | 26.12 | 2312 | Rockot           | 3xGonets-M     | Rusia   | Plesetsk 133/3  | LEO   | Succes[fn:rroct]   |
+| 100 | 24.12 | 1215 | Proton-M         | Elektro-L3     | Rusia   | Baikonur 81/24  | GEO   | Succes[fn:rp1500]  |
+|  99 | 20.12 | 1136 | Atlas V          | CST-100        | SUA     | SLC-41          | ISS   | Succes[fn:rcst100] |
+|  98 | 20.12 | 0322 | Changzheng-4B    | CBERS-4A       | China   | Taiyuan-LC9     | SSO   | Succes             |
+|  97 | 18.12 | 0854 | Soyuz-STA        | CHEOPS         | Europa  | Kourou ELS      | SSO   | Succes             |
+|  96 | 17.12 | 0010 | Falcon 9         | JCSAT-18       | SUA     | CC SLC-40       | GTO   | Succes             |
+|  95 | 16.12 | 0722 | Changzheng-3B    | 2xBeidou-3     | China   | Xichang-LC3     | MEO   | Succes             |
+|  94 | 11.12 | 0955 | PSLV-QL          | RISAT-2BR1     | India   | Satish Dhawan   | LEO   | Succes             |
+|  93 | 11.12 | 0830 | Soyuz-2.1b       | GLONASS-M      | Rusia   | Plesetsk 43/3   | MEO   | Succes             |
+|  92 | 07.12 | 0852 | Kuaizhou-1A      | 2x Xingyun-2   | China   | Taiyuan         | SSO   | Succes             |
+|  91 | 07.12 | 0255 | Kuaizhou-1A      | Jilin-1        | China   | Taiyuan         | SSO   | Succes             |
+|  90 | 06.12 | 0934 | Soyuz-2.1a       | Progress MS-13 | Rusia   | Baikonur 31/6   | ISS   | Succes             |
+|  89 | 06.12 | 0757 | Electron         | ATL-1          | SUA     | Mahia LC-1      | LEO   | Succes             |
+|  88 | 05.12 | 1729 | Falcon 9         | Dragon CRS-19  | SUA     | CC SLC-40       | ISS   | Succes             |
+|-----+-------+------+------------------+----------------+---------+-----------------+-------+--------------------|
+|  87 | 27.11 | 2352 | Changzheng-4C    | Gaofen-12      | China   | Taiyaun LC-9    | SSO   | Succes             |
+|  86 | 27.11 | 0358 | PSLV-XL          | Cartosat-3     | India   | Satish Dhawan   | LEO   | Succes             |
+|  85 | 26.11 | 2109 | Ariane 5 ECA     | Inmarsat-5 F5  | Europa  | Kourou ELA-3    | GSO   | Succes             |
+|  84 | 25.11 | 1752 | Soyuz-2.1v       | Kosmos-2542    | Rusia   | Plesetsk 43/4   | LEO   | Succes             |
+|  83 | 23.11 | 0055 | Changzheng-3B    | Beidou-3       | China   | Xichang LC-3    | MEO   | Succes             |
+|  82 | 17.11 | 1000 | Kuaizhou-1A      | KL-Alpha       | China   | Jiuquan SLS-2   | LEO   | Succes             |
+|  81 | 13.11 | 0635 | Changzheng-6     | Ningxia-1      | China   | Taiyuan LC-16   | LEO   | Succes             |
+|  80 | 13.11 | 0340 | Kuaizhou-1A      | Gaofen-02A     | China   | Jiuquan SLS-2   | SSO   | Succes             |
+|  79 | 11.11 | 1456 | Falcon 9         | 60x Starlink   | SUA     | CC SLC-40       | LEO   | Succes             |
+|  78 | 04.11 | 1743 | Changzheng-3B/E  | Beidou-3       | China   | Xichang LC-2    | GSO   | Succes             |
+|  77 | 03.11 | 0322 | Changzheng-4B    | Gaofen-7       | China   | Taiyuan LC-9    | SSO   | Succes             |
+|  76 | 02.11 | 1359 | Antares 230+     | Cygnus NG-12   | SUA     | LP-0A           | ISS   | Succes             |
+|-----+-------+------+------------------+----------------+---------+-----------------+-------+--------------------|
+|  75 | 17.10 | 1521 | Changzheng-3B    | TJSW-4         | China   | Xichang LC-3    | GSO   | Succes             |
+|  74 | 17.10 | 0122 | Electron         | Palisade       | SUA     | Mahia LC-1      | SSO   | Succes             |
+|  73 | 11.10 | 0200 | Pegasus-XL       | ICON           | SUA     | /Stargazer/       | LEO   | Succes             |
+|  72 | 09.10 | 1017 | Proton-M         | MEV-1/Eutelsat | Rusia   | Baikonur 200/39 | GEO   | Succes             |
+|  71 | 04.10 | 1851 | Changzheng-4C    | Gaofen-10R     | China   | Taiyuan LC-9    | SSO   | Succes             |
+|-----+-------+------+------------------+----------------+---------+-----------------+-------+--------------------|
+|  70 | 26.09 | 0746 | Soyuz-2.1b       | Tundra         | Rusia   | Plesetsk 43/4   | MOL   | Succes             |
+|  69 | 25.09 | 1357 | Soyuz-FG         | Soyuz MS-15    | Rusia   | Baikonur 1/5    | ISS   | Succes[fn:rsfg]    |
+|  68 | 25.09 | 0054 | Changzheng-2D    | Yunhai-1       | China   | Jiuquan         | SSO   | Succes             |
+|  67 | 24.09 | 1605 | H-2B             | HTV-8          | Japonia | Tanegashima     | ISS   | Succes             |
+|  66 | 22.09 | 2110 | Changzheng-3B    | Beidou-3       | China   | Xichang         | MEO   | Succes             |
+|  65 | 19.09 | 0642 | Changzheng-11    | Zhuhai-1       | China   | Jiuquan         | SSO   | Succes             |
+|  64 | 12.09 | 0326 | Changzheng-4B    | Naxing-3       | China   | Taiyuan         | SSO   | Succes             |
+|-----+-------+------+------------------+----------------+---------+-----------------+-------+--------------------|
+|  63 | 30.08 | 2341 | Kuaizhou-1A      | KX-09          | China   | Jiuquan         | SSO   | Succes             |
+|  62 | 30.08 | 1700 | Rokot            | Geo-IK-2       | Rusia   | Plesetsk 133/3  | LEO   | Succes             |
+|  61 | 22.08 | 1606 | Delta IV Medium  | GPS-III SV02   | SUA     | CC SLC-37B      | MEO   | Succes             |
+|  60 | 22.08 | 0338 | Soyuz-2.1a       | Soyuz MS-14    | Rusia   | Baikonur 31/6   | ISS   | Succes             |
+|  59 | 19.08 | 1212 | Electron         | BRO-1          | SUA     | Mahia LC-1      | LEO   | Succes             |
+|  58 | 19.08 | 1203 | Changzheng-3B/G2 | Chinasat-18    | China   | Xichang         | GEO   | Succes[fn:rcz3b]   |
+|  57 | 17.08 | 0411 | Jielong-1        | QianSheng-1    | China   | Jiuquan         | SSO   | Succes             |
+|  56 | 08.08 | 1013 | Atlas V 551      | AEHF-5         | SUA     | CC SLC-41       | GEO   | Succes             |
+|  55 | 06.08 | 2323 | Falcon 9         | Amos-17        | SUA     | CC SLC-40       | GEO   | Succes             |
+|  54 | 06.08 | 1930 | Ariane 5 ECA     | EDRS-C         | Europa  | Kourou ELA-3    | GEO   | Succes             |
+|  53 | 05.08 | 2156 | Proton-M         | Blagovest-14L  | Rusia   | Baikonur 81/24  | GEO   | Succes             |
+|-----+-------+------+------------------+----------------+---------+-----------------+-------+--------------------|
+|  52 | 31.07 | 1210 | Soyuz-2.1a       | Progress MS-12 | Rusia   | Baikonur 31/6   | ISS   | Succes             |
+|  51 | 30.07 | 0556 | Soyuz-2.1a       | Meridian-8     | Rusia   | Plesetsk 43/4   | MOL   | Succes             |
+|  50 | 26.07 | 0357 | Changzheng-2C    | Yaogan-30      | China   | Xichang LC-3    | LEO   | Succes             |
+|  49 | 25.07 | 2201 | Falcon 9         | Dragon CRS-18  | SUA     | CC SLC-40       | ISS   | Succes             |
+|  48 | 25.07 | 0500 | Hyperbola-1      | CAS-7B         | China   | Jiuquan         | LEO   | Succes[fn:rhyp1]   |
+|  47 | 22.07 | 0913 | GSLV Mk.III      | Chandrayaan-2  | India   | S-Dhawan SLP    | SNC   | Succes             |
+|  46 | 20.07 | 1628 | Soyuz-FG         | Soyuz MS-13    | Rusia   | Baikonur 1/5    | ISS   | Succes             |
+|  45 | 13.07 | 1230 | Proton-M         | Spektr-RG      | Rusia   | Baikonur 81/24  | LL2   | Succes             |
+|  44 | 11.07 | 0153 | Vega             | FalconEye-1    | Europa  | Kourou ELV      | LEO   | Eșec[fn:rvega]     |
+|  43 | 10.07 | 1714 | Soyuz-2-1v       | Nivelir-L      | Rusia   | Plesetsk 43/4   | LEO   | Succes             |
+|  42 | 05.07 | 0541 | Soyuz-2.1b       | Meteor-M2-2    | Rusia   | Vostochny 1S    | SSO   | Succes             |
+|-----+-------+------+------------------+----------------+---------+-----------------+-------+--------------------|
+|  41 | 29.06 | 0430 | Electron         | BS-Global-3    | SUA     | Mahia LC-1      | LEO   | Succes             |
+|  40 | 25.06 | 0630 | Falcon Heavy     | STP-2          | SUA     | KSC LC-39A      | LEO   | Succes             |
+|  39 | 24.06 | 1750 | Changzheng-3B/E  | BeiDou-3       | China   | Xichang LC-3    | MEO   | Succes             |
+|  38 | 20.06 | 2141 | Ariane 5 ECA     | Eutelsat-7C    | Europa  | Kourou ELA-3    | GEO   | Succes             |
+|  37 | 12.06 | 1417 | Falcon 9         | RADARSAT       | SUA     | VAFB SLC-4E     | SSO   | Succes             |
+|  36 | 05.06 | 0406 | Changzheng-11H   | Bufeng-1       | China   | Marea Galbenă   | LEO   | Succes             |
+|-----+-------+------+------------------+----------------+---------+-----------------+-------+--------------------|
+|  35 | 30.05 | 1742 | Proton-M         | Yamal-601      | Rusia   | Baikonur 200/39 | GEO   | Succes             |
+|  34 | 27.05 | 0623 | Soyuz-2.1b       | GLONASS-M 758  | Rusia   | Plesetsk 43/4   | MEO   | Succes             |
+|  33 | 24.05 | 0230 | Falcon 9         | Starlink-1     | SUA     | CC SLC-40       | LEO   | Succes             |
+|  32 | 22.05 | 2249 | Changzheng-4C    | Yaogan-33      | China   | Taiyuan LC-9    | LEO   | Eșec[fn:rcz4c]     |
+|  31 | 22.05 | 0000 | PSLV-CA          | RISAT-2B       | India   | S-Shawan FLP    | SSO   | Succes             |
+|  30 | 17.05 | 1548 | Changzheng-3C    | BeiDou-2 G8    | China   | Xichang LC-2    | MEO   | Succes             |
+|  29 | 05.05 | 0600 | Electron         | Harbinger      | SUA     | Mahia LC-1      | LEO   | Succes             |
+|  28 | 04.05 | 0648 | Falcon 9         | Dragon CRS-17  | SUA     | CC SLC-40       | ISS   | Succes             |
+|-----+-------+------+------------------+----------------+---------+-----------------+-------+--------------------|
+|  27 | 29.04 | 2252 | Changzheng-4B    | Tianhui        | China   | Taiyuan LC-9    | SSO   | Succes             |
+|  26 | 20.04 | 1441 | Changzheng-3B/E  | Beidou-3       | China   | Xichang LC-3    | MEO   | Succes             |
+|  25 | 17.04 | 2046 | Antares 230      | Cygnus NG-11   | SUA     | MARS LP-0A      | ISS   | Succes             |
+|  24 | 11.04 | 2235 | Falcon Heavy     | Arabsat-6A     | SUA     | KSC LC-39A      | GEO   | Succes             |
+|  23 | 04.04 | 1703 | Soyuz ST-B       | O3b            | Europa  | Kourou ELS      | MEO   | Succes             |
+|  22 | 04.04 | 1101 | Soyuz-2.1a       | Progress MS-11 | Rusia   | Baikonur 31/6   | ISS   | Succes             |
+|  21 | 01.04 | 0357 | PSLV-QL          | EMISAT         | India   | S-Dhawan SLP    | LEO   | Succes             |
+|-----+-------+------+------------------+----------------+---------+-----------------+-------+--------------------|
+|  20 | 31.03 | 1550 | Changzheng-3B/E  | Tianlian-2-01  | China   | Xichang LC-2    | GEO   | Succes             |
+|  19 | 28.03 | 2230 | Electron         | R3D2           | SUA     | Mahia LC-1      | LEO   | Succes             |
+|  18 | 27.03 | 1039 | OS-M1            | Linque-1B      | China   | Jiquan SLS-2    | LEO   | Eșec[fn:rosm1]     |
+|  17 | 22.03 | 0150 | Vega             | PRISMA         | Europa  | Kourou ELV      | SSO   | Succes             |
+|  16 | 16.03 | 0026 | Delta-IV M+(5,4) | WGS-10         | SUA     | CC SLC-37B      | GEO   | Succes             |
+|  15 | 14.03 | 1914 | Soyuz-FG         | Soyuz MS-12    | Rusia   | Baikonur 1/5    | LEO   | Succes             |
+|  14 | 09.03 | 1728 | Changzheng-3B/E  | Chinasat-6C    | China   | Xichang LC-2    | GEO   | Succes             |
+|  13 | 02.03 | 0749 | Falcon 9         | Dragon2-DM1    | SUA     | KSC LC-39A      | ISS   | Succes             |
+|-----+-------+------+------------------+----------------+---------+-----------------+-------+--------------------|
+|  12 | 27.02 | 2137 | Soyuz ST-B       | Oneweb         | Europa  | Kourou ELS      | LEO   | Succes             |
+|  11 | 22.02 | 0145 | Falcon 9         | Nunsatara Satu | SUA     | CC SLC-40       | GEO   | Succes             |
+|  10 | 21.02 | 1647 | Soyuz-2.1b       | EgyptSat-A     | Rusia   | Baikonur 31/6   | LEO   | Succes             |
+|   9 | 05.02 | 2101 | Ariane 5 ECA     | HellasSat-4    | Europa  | Kourou ELA-3    | GEO   | Succes             |
+|   8 | 05.02 |      | Safir-1B         | Dousti         | Iran    | Semnan LP-1     | LEO   | Eșec               |
+|-----+-------+------+------------------+----------------+---------+-----------------+-------+--------------------|
+|   7 | 24.01 | 1807 | PSLV-DL          | Microsat-R     | India   | S-Dhawan        | LEO   | Succes             |
+|   6 | 21.01 | 0542 | Changzheng-11    | Jilin-1        | China   | Jiuquan SLS-2   | LEO   | Succes             |
+|   5 | 19.01 | 1905 | Delta IV Heavy   | NROL-71        | SUA     | VAFB SLC-6      | LEO   | Succes             |
+|   4 | 18.01 | 0050 | Epsilon          | RAPIS-1        | Japonia | Uchinoura       | SSO   | Succes             |
+|   3 | 15.01 |      | Simorgh          | AUTSAT-1       | Iran    | Semnan LP-2     | LEO   | Eșec               |
+|   2 | 11.01 | 1531 | Falcon 9         | Iridium 66-75  | SUA     | VAFB SLC-4E     | LEO   | Succes             |
+|   1 | 10.01 | 1705 | Changzheng-3B/E  | Chinasat-2D    | China   | Xichang LC-2    | GEO   | Succes             |
+
+#+CAPTION: Lansarea Falcon Heavy din 11 aprilie 2019 cu satelitul de telecomunicații Arabsat-6A (/Foto: SpaceX/)
+[[/img/fh2019.jpg]]
+
+**** Abrevieri folosite în tabele
+
+- LEO ::  orbită terestră joasă (/Low Earth Orbit)/;
+- ISS ::  lansare spre Stația Spațială Internațională (/International Space Station/), care se află pe LEO;
+- SSO :: orbită heliosincronă (/Sun-Synchronous Orbit/), un caz special de LEO;
+- MEO :: orbită terestră medie (/Medium Earth Orbit/);
+- GEO :: orbită geosincronă (/GEOsynchronous orbit/);
+- LL2 :: punctul Lagrange L2 Pământ-Lună;
+- SNC :: orbită selenocentrică (lunară);
+- MOL :: orbită Molniya.
+
+
+[fn:rroct] Probabil ultima lansarea a rachetei Rockot, cel puțin pentru sectorul militar.
+[fn:rp1500] Lansarea cu numărul 1500 de la cosmodromul din Baikonur.
+[fn:rosm1] Tentativa unei companii chinezești private de a pune pe orbită un satelit s-a încheiat cu un eșec după ce controlul rachetei a fost pierdut imediat după seprarea primei trepte.
+[fn:rcz4c] Probleme cu a treia treaptă a rachetei Changzheng.
+[fn:rvega] Prima lansare eșuată pentru racheta Vega, datorită unor probleme cu treapta secundară.
+[fn:rcz3b] Prima lansare orbitală reușită a unei companii private din China.
+[fn:rhyp1] Racheta a urcat satelitul pe orbita corectă, dar ulterior acesta a suferit probleme tehnice.
+[fn:rsfg] Ultima lansare a rachetei Soyuz-FG și [[/m/soyuz-fg][probabil ultima lansare de pe rampa istorică 1/5 de la Baikonur]].
+[fn:rcst100] Racheta și treapta secundară au funcționat nominal, dar capsula CST-100 Starliner nu a mai ajuns la ISS din cauza unei probleme cu ceasul computerului de bord, care astfel nu a mai efectuat la timp o manevră de inserție pe orbita corectă. 
+** Lansatoare orbitale active (arhivă)
+:PROPERTIES:
+:EXPORT_FILE_NAME: rachete_arhiva 
+:END:
+
+(Secțiune arhivată)
+
+|------------------+------+--------------+-------+--------------+-------+-------+-------+------+------+-------+------------|
+| Racheta          | Țara | Operator     | Debut | Motor        | LEO   | SSO   | GTO   | Lans | Succ | Eșec. |     Ultima |
+|------------------+------+--------------+-------+--------------+-------+-------+-------+------+------+-------+------------|
+| Antares[fn:rc1]  | SUA  | NGSSG        |  2013 | 2xRD-181     | 8t    |       |       |   12 |   11 |     1 | 14.02.2020 |
+| Atlas V          | SUA  | ULA          |  2002 | 1xRD-180     | 20.5t |       | 8.9t  |   84 |   82 |   (1) | 17.05.2020 |
+| Delta IV Heavy   | SUA  | ULA          |  2004 | 1xRS-68A     | 28.7  |       | 14.2t |   10 |    9 |   (1) | 19.01.2019 |
+| Electron         | SUA  | RocketLab    |  2017 | 9xRutherford |       | 0.22t |       |   13 |   11 |     2 | 04.07.2020 |
+| Falcon 9[fn:rc2] | SUA  | SpaceX       |  2010 | 9xMerlin     | 22.8t |       | 8.3t  |   89 |   87 | 1+(1) | 21.07.2020 |
+| Falcon Heavy     | SUA  | SpaceX       |  2018 | 27xMerlin    | 63.8  |       | 26.7  |    3 |    3 |     0 | 25.06.2019 |
+| Minotaur-C       | SUA  | NGSSG        |  1994 | Castor(S)    | 1.3t  |       |       |   10 |    7 |     3 | 31.10.2017 |
+| Minotaur-IV      | SUA  | NGSSG        |  2010 | SR-118 (S)   | 1.74  |       |       |    7 |    7 |     0 | 15.07.2020 |
+| Minotaur-V       | SUA  | NGSSG        |  2013 | Castor(S)    |       |       | 0.53t |    1 |    1 |     0 | 07.09.2013 |
+| LauncherOne      | SUA  | Virgin Orbit |  2020 | Newton3      |       | 0.5   |       |    1 |    0 |     1 | 25.05.2020 |
+|------------------+------+--------------+-------+--------------+-------+-------+-------+------+------+-------+------------|
+| Soyuz-2          | RUS  | Roscosmos    |  2004 | 1xRD-108A    | 8.2t  | 4.9t  | 3.2t  |  105 |   98 | 4+(3) | 23.07.2020 |
+| Proton-M         | RUS  | Roscosmos    |  2001 | 6xRD-275M    | 23t   |       | 6.3   |  109 |   98 | 9+(2) | 24.12.2019 |
+| Rockot           | RUS  | Roscosmos    |  1994 | 3xRD-0233    | 1.9t  | 1.2t  |       |   34 |   31 | 2+(1) | 27.12.2019 |
+| Angara           | RUS  | Roscosmos    |  2014 | 1xRD-191     | 3.8t  |       | 5.4t  |    2 |    2 |     0 | 23.12.2014 |
+|------------------+------+--------------+-------+--------------+-------+-------+-------+------+------+-------+------------|
+| CZ-2C            | CHN  | CNSA         |  1982 | 4xYF-21C     | 3.85t | 1.9t  | 1.25t |   53 |   52 |     1 | 10.06.2020 |
+| CZ-2D            | CHN  | CNSA         |  1992 | 4xYF-21C     | 3.5t  | 1.3t  |       |   49 |   48 |     1 | 04.07.2020 |
+| CZ-2F            | CHN  | CNSA         |  1999 | 4xYF-20B     | 8.4t  |       |       |   13 |   13 |     0 | 16.10.2016 |
+| CZ-3A            | CHN  | CNSA         |  1994 | 4xYF-21C     | 8.5t  |       | 2.6t  |   27 |   27 |     0 | 09.07.2018 |
+| CZ-3B            | CHN  | CNSA         |  1996 | 4xYF-21C     | 11.5t | 7.1t  | 5.5t  |   69 |   65 | 2+(2) | 09.07.2020 |
+| CZ-3C            | CHN  | CNSA         |  2008 | 4xYF-21C     |       |       | 3.9t  |   17 |   17 |     0 | 17.05.2019 |
+| CZ-4B            | CHN  | CNSA         |  1999 | 4xYF-21C     | 4.2t  | 2.8t  | 1.5t  |   36 |   35 |     1 | 03.07.2020 |
+| CZ-4C            | CHN  | CNSA         |  2006 | 4xYF-21C     | 4.2t  | 2.8t  | 1.5t  |   28 |   26 |     2 | 27.11.2019 |
+| CZ-5             | CHN  | CNSA         |  2016 | 2xYF-100     |       |       | 14t   |    4 |    3 |     1 | 23.07.2019 |
+| CZ-5B            | CHN  | CNSA         |  2020 | 2xYF-100     | 25t   |       |       |    1 |    1 |     0 | 05.05.2020 |
+| CZ-6             | CHN  | CNSA         |  2015 | 1xYF-100     |       | 1t    |       |    3 |    3 |     1 | 13.11.2019 |
+| CZ-7             | CHN  | CNSA         |  2016 | 2xYF-100     | 13.5t |       | 5.5t  |    2 |    2 |     0 | 20.04.2017 |
+| CZ-7A            | CHN  | CNSA         |  2020 | 1xYF-100     |       |       | 7.0t  |    1 |    0 |     1 | 16.03.2020 |
+| CZ-11[fn:rc4]    | CHN  | CNSA         |  2015 | P35 (S)      | 0.7t  | 0.35t |       |    9 |    9 |     0 | 29.05.2020 |
+| Jielong-1        | CHN  | CNSA         |  2019 | (S)          | ?     | ?     |       |    1 |    1 |     0 | 17.08.2019 |
+| Kuaizhou-1       | CHN  | ExPace       |  2013 | (S)          | 0.3t  | 0.2t  |       |   11 |   11 |     0 | 11.05.2020 |
+| Kuaizhou-11      | CHN  | ExPace       |  2020 | (S)          | 1t    | 0.7t  |       |    1 |    0 |     1 | 10.07.2020 |
+|------------------+------+--------------+-------+--------------+-------+-------+-------+------+------+-------+------------|
+| Ariane 5         | EU   | ArianeSpace  |  1996 | 1xVulcain    | 20t   |       | 10.9t |  108 |  103 |  2(3) | 18.02.2020 |
+| Vega             | EU   | ArianeSpace  |  2012 | P80 (S)      |       | 1.45t |       |   15 |   14 |     1 | 11.07.2019 |
+|------------------+------+--------------+-------+--------------+-------+-------+-------+------+------+-------+------------|
+| H-2A             | JPN  | JAXA         |  2001 | 1xLE-7A      | 15t   |       | 6t    |   41 |   40 |     1 | 09.02.2020 |
+| H-2B             | JPN  | JAXA         |  2009 | 2xLE-7A      | 16.5t |       | 8t    |    9 |    9 |     0 | 20.05.2020 |
+| Epsilon          | JPN  | JAXA         |  2013 | M-35 (S)     | 1.2   | 0.45  |       |    4 |    4 |     0 | 18.01.2019 |
+|------------------+------+--------------+-------+--------------+-------+-------+-------+------+------+-------+------------|
+| PSLV             | IND  | ISRO         |  1993 | (S)          | 3.8t  | 1.75t | 1.2t  |   50 |   47 | 2+(1) | 11.12.2019 |
+| GSLV Mk.II       | IND  | ISRO         |  2010 | S139 (S)     | 5t    |       | 2.7t  |    7 |    6 |     1 | 19.12.2018 |
+| GSLV Mk.III      | IND  | ISRO         |  2017 | S200 (S)     | 10t   |       | 4t    |    4 |    4 |     0 | 22.07.2019 |
+|------------------+------+--------------+-------+--------------+-------+-------+-------+------+------+-------+------------|
+| Shavit           | ISR  | ISA (ISR)    |  1988 | LK-1 (S)     | 0.35t |       |       |   10 |    8 |     2 | 06.07.2020 |
+|------------------+------+--------------+-------+--------------+-------+-------+-------+------+------+-------+------------|
+| Safir[fn:rc3]    | IRN  | ISA (IRN)    |  2008 | ??           | <0.1? |       |       |    8 |    4 |     4 | 05.02.2019 |
+| Simorgh          | IRN  | ISA (IRN)    |  2016 | 4xNodong?    | 0.35? |       |       |    4 |    1 |     3 | 09.02.2020 |
+| Qased            | IRN  | IRG (IRN)    |  2020 | ?Nodong?     | ??    | ??    | ??    |    1 |    1 |     0 | 22.04.2020 |
+|------------------+------+--------------+-------+--------------+-------+-------+-------+------+------+-------+------------|
+| Unha-3           | PRK  | NADA         |  2012 | 4xNodong?    | 0.2?  |       |       |    3 |    2 |     1 | 07.02.2016 |
+|------------------+------+--------------+-------+--------------+-------+-------+-------+------+------+-------+------------|
+
+[fn:rc1] După eșecul celei de-a 5-a lansări Antares, din 28.10.2014, racheta a schimbat motorul primei trepte din NK-33 în RD-181.
+[fn:rc2] Falcon-9 a suferit o explozie pe rampa de lansare, înaintea misiunii Amos-18 (01.09.2016), eșec care nu apare în tabel.
+[fn:rc3] Safir a suferit în 29.08.2019 o explozie pe rampă, eșec care nu apare în tabel.
+[fn:rc4] Include și varianta CZ-11H care este lansată de pe o platformă maritimă.
 
 
 * Materiale diverse
@@ -2612,7 +2614,7 @@ Marius Trusculescu, unul din membri echipei Goliat, primul satelit românesc, a 
 :EXPORT_TITLE: Lansări orbitale
 :END:
 
-Scopul acestei pagini este afișarea lansărilor (și a tentativelor de lansări) orbitale din fiecare an calendaristic, într-un tabel cât mai concis. Datele primare sunt preluate de pe [[https://planet4589.org/space/][site-ul lui Jonathan C. McDowell]] (cu permisiunea autorului), ușor alterate, pentru a le face mai concise și aduse la zi.
+Scopul acestei pagini este afișarea lansărilor (și a tentativelor de lansări) orbitale din fiecare an calendaristic, într-un tabel cât mai concis.
 
 #+name: noltotal
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb -t" :results value verbatim :exports none
@@ -2636,7 +2638,6 @@ GROUP BY lv_outcome
 #+end_src
 
 Din 1957 și până în prezent, au avut loc call_noltotal() tentative de lansări orbitale: call_noototal() au fost lansări care s-au încheiat cu succes (încărcătura primară a ajuns pe orbită), în timp ce call_noftotal() lansări s-au încheiat cu un eșec.
-
 
 #+name: nol2020
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb -t" :results value verbatim :exports none
@@ -3518,7 +3519,7 @@ GROUP BY ls_state
 ORDER BY COUNT(*) DESC
 #+end_src
 
-Lista celor call_nol2020() tentative de lansări orbitale din 2020 (din care call_nof2020() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
+Lista celor call_nol2020() tentative de lansări orbitale din 2020 (din care call_nof2020() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare.
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
 SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD.MM HH24:MI') AS "Data", lv_type AS "Lansator", lv_Payload AS "Satelit", ls_state AS "T", lv_name AS "Centru", lv_launchpad AS "Rampă", lv_outcome AS "R.", lv_buletin AS "Bul" 
@@ -3545,7 +3546,7 @@ GROUP BY ls_state
 ORDER BY COUNT(*) DESC
 #+end_src
 
-Lista celor call_nol2019() tentative de lansări orbitale din 2019 (din care call_nof2019() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
+Lista celor call_nol2019() tentative de lansări orbitale din 2019 (din care call_nof2019() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare.
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
 SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD.MM HH24:MI') AS "Data", lv_type AS "Lansator", lv_Payload AS "Satelit",  ls_state AS "T", lv_name AS "Centru", lv_launchpad AS "Rampă", lv_outcome AS "R." 
@@ -3572,7 +3573,7 @@ GROUP BY ls_state
 ORDER BY COUNT(*) DESC
 #+end_src
 
-Lista celor call_nol2018() tentative de lansări orbitale din 2018 (din care call_nof2018() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
+Lista celor call_nol2018() tentative de lansări orbitale din 2018 (din care call_nof2018() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare.
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
 SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD.MM HH24:MI') AS "Data", lv_type AS "Lansator", lv_Payload AS "Satelit",  ls_state AS "T", lv_name AS "Centru", lv_launchpad AS "Rampă", lv_outcome AS "R." 
@@ -3599,7 +3600,7 @@ GROUP BY ls_state
 ORDER BY COUNT(*) DESC
 #+end_src
 
-Lista celor call_nol2017() tentative de lansări orbitale din 2017 (din care call_nof2017() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
+Lista celor call_nol2017() tentative de lansări orbitale din 2017 (din care call_nof2017() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare.
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
 SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD.MM HH24:MI') AS "Data", lv_type AS "Lansator", lv_Payload AS "Satelit",  ls_state AS "T", lv_name AS "Centru", lv_launchpad AS "Rampă", lv_outcome AS "R." 
@@ -3626,7 +3627,7 @@ GROUP BY ls_state
 ORDER BY COUNT(*) DESC
 #+end_src
 
-Lista celor call_nol2016() tentative de lansări orbitale din 2016 (din care call_nof2016() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
+Lista celor call_nol2016() tentative de lansări orbitale din 2016 (din care call_nof2016() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare.
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
 SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD.MM HH24:MI') AS "Data", lv_type AS "Lansator", lv_Payload AS "Satelit",  ls_state AS "T", lv_name AS "Centru", lv_launchpad AS "Rampă", lv_outcome AS "R." 
@@ -3653,7 +3654,7 @@ GROUP BY ls_state
 ORDER BY COUNT(*) DESC
 #+end_src
 
-Lista celor call_nol2015() tentative de lansări orbitale din 2015 (din care call_nof2015() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
+Lista celor call_nol2015() tentative de lansări orbitale din 2015 (din care call_nof2015() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare.
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
 SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD.MM HH24:MI') AS "Data", lv_type AS "Lansator", lv_Payload AS "Satelit",  ls_state AS "T", lv_name AS "Centru", lv_launchpad AS "Rampă", lv_outcome AS "R." 
@@ -3680,7 +3681,7 @@ GROUP BY ls_state
 ORDER BY COUNT(*) DESC
 #+end_src
 
-Lista celor call_nol2014() tentative de lansări orbitale din 2014 (din care call_nof2014() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
+Lista celor call_nol2014() tentative de lansări orbitale din 2014 (din care call_nof2014() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare.
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
 SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD.MM HH24:MI') AS "Data", lv_type AS "Lansator", lv_Payload AS "Satelit",  ls_state AS "T", lv_name AS "Centru", lv_launchpad AS "Rampă", lv_outcome AS "R." 
@@ -3707,7 +3708,7 @@ GROUP BY ls_state
 ORDER BY COUNT(*) DESC
 #+end_src
 
-Lista celor call_nol2013() tentative de lansări orbitale din 2013 (din care call_nof2013() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
+Lista celor call_nol2013() tentative de lansări orbitale din 2013 (din care call_nof2013() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare.
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
 SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD.MM HH24:MI') AS "Data", lv_type AS "Lansator", lv_Payload AS "Satelit",  ls_state AS "T", lv_name AS "Centru", lv_launchpad AS "Rampă", lv_outcome AS "R." 
@@ -3734,7 +3735,7 @@ GROUP BY ls_state
 ORDER BY COUNT(*) DESC
 #+end_src
 
-Lista celor call_nol2012() tentative de lansări orbitale din 2012 (din care call_nof2012() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
+Lista celor call_nol2012() tentative de lansări orbitale din 2012 (din care call_nof2012() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare.
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
 SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD.MM HH24:MI') AS "Data", lv_type AS "Lansator", lv_Payload AS "Satelit",  ls_state AS "T", lv_name AS "Centru", lv_launchpad AS "Rampă", lv_outcome AS "R." 
@@ -3761,7 +3762,7 @@ GROUP BY ls_state
 ORDER BY COUNT(*) DESC
 #+end_src
 
-Lista celor call_nol2011() tentative de lansări orbitale din 2011 (din care call_nof2011() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
+Lista celor call_nol2011() tentative de lansări orbitale din 2011 (din care call_nof2011() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare.
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
 SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD.MM HH24:MI') AS "Data", lv_type AS "Lansator", lv_Payload AS "Satelit",  ls_state AS "T", lv_name AS "Centru", lv_launchpad AS "Rampă", lv_outcome AS "R." 
@@ -3788,7 +3789,7 @@ GROUP BY ls_state
 ORDER BY COUNT(*) DESC
 #+end_src
 
-Lista celor call_nol2010() tentative de lansări orbitale din 2010 (din care call_nof2010() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
+Lista celor call_nol2010() tentative de lansări orbitale din 2010 (din care call_nof2010() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare.
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
 SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD.MM HH24:MI') AS "Data", lv_type AS "Lansator", lv_Payload AS "Satelit",  ls_state AS "T", lv_name AS "Centru", lv_launchpad AS "Rampă", lv_outcome AS "R." 
@@ -3815,7 +3816,7 @@ GROUP BY ls_state
 ORDER BY COUNT(*) DESC
 #+end_src
 
-Lista celor call_nol2009() tentative de lansări orbitale din 2009 (din care call_nof2009() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
+Lista celor call_nol2009() tentative de lansări orbitale din 2009 (din care call_nof2009() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare.
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
 SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD.MM HH24:MI') AS "Data", lv_type AS "Lansator", lv_Payload AS "Satelit",  ls_state AS "T", lv_name AS "Centru", lv_launchpad AS "Rampă", lv_outcome AS "R." 
@@ -3842,7 +3843,7 @@ GROUP BY ls_state
 ORDER BY COUNT(*) DESC
 #+end_src
 
-Lista celor call_nol2008() tentative de lansări orbitale din 2008 (din care call_nof2008() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
+Lista celor call_nol2008() tentative de lansări orbitale din 2008 (din care call_nof2008() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare.
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
 SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD.MM HH24:MI') AS "Data", lv_type AS "Lansator", lv_Payload AS "Satelit",  ls_state AS "T", lv_name AS "Centru", lv_launchpad AS "Rampă", lv_outcome AS "R." 
@@ -3869,7 +3870,7 @@ GROUP BY ls_state
 ORDER BY COUNT(*) DESC
 #+end_src
 
-Lista celor call_nol2007() tentative de lansări orbitale din 2007 (din care call_nof2007() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
+Lista celor call_nol2007() tentative de lansări orbitale din 2007 (din care call_nof2007() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare.
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
 SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD.MM HH24:MI') AS "Data", lv_type AS "Lansator", lv_Payload AS "Satelit",  ls_state AS "T", lv_name AS "Centru", lv_launchpad AS "Rampă", lv_outcome AS "R." 
@@ -3896,7 +3897,7 @@ GROUP BY ls_state
 ORDER BY COUNT(*) DESC
 #+end_src
 
-Lista celor call_nol2006() tentative de lansări orbitale din 2006 (din care call_nof2006() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
+Lista celor call_nol2006() tentative de lansări orbitale din 2006 (din care call_nof2006() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare.
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
 SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD.MM HH24:MI') AS "Data", lv_type AS "Lansator", lv_Payload AS "Satelit",  ls_state AS "T", lv_name AS "Centru", lv_launchpad AS "Rampă", lv_outcome AS "R." 
@@ -3923,7 +3924,7 @@ GROUP BY ls_state
 ORDER BY COUNT(*) DESC
 #+end_src
 
-Lista celor call_nol2005() tentative de lansări orbitale din 2005 (din care call_nof2005() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
+Lista celor call_nol2005() tentative de lansări orbitale din 2005 (din care call_nof2005() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare.
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
 SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD.MM HH24:MI') AS "Data", lv_type AS "Lansator", lv_Payload AS "Satelit",  ls_state AS "T", lv_name AS "Centru", lv_launchpad AS "Rampă", lv_outcome AS "R." 
@@ -3950,7 +3951,7 @@ GROUP BY ls_state
 ORDER BY COUNT(*) DESC
 #+end_src
 
-Lista celor call_nol2004() tentative de lansări orbitale din 2004 (din care call_nof2004() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
+Lista celor call_nol2004() tentative de lansări orbitale din 2004 (din care call_nof2004() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare.
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
 SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD.MM HH24:MI') AS "Data", lv_type AS "Lansator", lv_Payload AS "Satelit",  ls_state AS "T", lv_name AS "Centru", lv_launchpad AS "Rampă", lv_outcome AS "R." 
@@ -3977,7 +3978,7 @@ GROUP BY ls_state
 ORDER BY COUNT(*) DESC
 #+end_src
 
-Lista celor call_nol2003() tentative de lansări orbitale din 2003 (din care call_nof2003() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
+Lista celor call_nol2003() tentative de lansări orbitale din 2003 (din care call_nof2003() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare.
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
 SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD.MM HH24:MI') AS "Data", lv_type AS "Lansator", lv_Payload AS "Satelit",  ls_state AS "T", lv_name AS "Centru", lv_launchpad AS "Rampă", lv_outcome AS "R." 
@@ -4004,7 +4005,7 @@ GROUP BY ls_state
 ORDER BY COUNT(*) DESC
 #+end_src
 
-Lista celor call_nol2002() tentative de lansări orbitale din 2002 (din care call_nof2002() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
+Lista celor call_nol2002() tentative de lansări orbitale din 2002 (din care call_nof2002() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare.
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
 SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD.MM HH24:MI') AS "Data", lv_type AS "Lansator", lv_Payload AS "Satelit",  ls_state AS "T", lv_name AS "Centru", lv_launchpad AS "Rampă", lv_outcome AS "R." 
@@ -4031,7 +4032,7 @@ GROUP BY ls_state
 ORDER BY COUNT(*) DESC
 #+end_src
 
-Lista celor call_nol2001() tentative de lansări orbitale din 2001 (din care call_nof2001() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
+Lista celor call_nol2001() tentative de lansări orbitale din 2001 (din care call_nof2001() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare.
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
 SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD.MM HH24:MI') AS "Data", lv_type AS "Lansator", lv_Payload AS "Satelit",  ls_state AS "T", lv_name AS "Centru", lv_launchpad AS "Rampă", lv_outcome AS "R." 
@@ -4058,7 +4059,7 @@ GROUP BY ls_state
 ORDER BY COUNT(*) DESC
 #+end_src
 
-Lista celor call_nol2000() tentative de lansări orbitale din 2000 (din care call_nof2000() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
+Lista celor call_nol2000() tentative de lansări orbitale din 2000 (din care call_nof2000() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare.
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
 SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD.MM HH24:MI') AS "Data", lv_type AS "Lansator", lv_Payload AS "Satelit",  ls_state AS "T", lv_name AS "Centru", lv_launchpad AS "Rampă", lv_outcome AS "R." 
@@ -4082,7 +4083,7 @@ GROUP BY ls_state
 ORDER BY COUNT(*) DESC
 #+end_src
 
-Lista celor call_nol1999() tentative de lansări orbitale din 1999 (din care call_nof1999() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
+Lista celor call_nol1999() tentative de lansări orbitale din 1999 (din care call_nof1999() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare.
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
 SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD.MM HH24:MI') AS "Data", lv_type AS "Lansator", lv_Payload AS "Satelit",  ls_state AS "T", lv_name AS "Centru", lv_launchpad AS "Rampă", lv_outcome AS "R." 
@@ -4106,7 +4107,7 @@ GROUP BY ls_state
 ORDER BY COUNT(*) DESC
 #+end_src
 
-Lista celor call_nol1998() tentative de lansări orbitale din 1998 (din care call_nof1998() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
+Lista celor call_nol1998() tentative de lansări orbitale din 1998 (din care call_nof1998() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare.
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
 SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD.MM HH24:MI') AS "Data", lv_type AS "Lansator", lv_Payload AS "Satelit",  ls_state AS "T", lv_name AS "Centru", lv_launchpad AS "Rampă", lv_outcome AS "R." 
@@ -4130,7 +4131,7 @@ GROUP BY ls_state
 ORDER BY COUNT(*) DESC
 #+end_src
 
-Lista celor call_nol1997() tentative de lansări orbitale din 1997 (din care call_nof1997() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
+Lista celor call_nol1997() tentative de lansări orbitale din 1997 (din care call_nof1997() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare.
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
 SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD.MM HH24:MI') AS "Data", lv_type AS "Lansator", lv_Payload AS "Satelit",  ls_state AS "T", lv_name AS "Centru", lv_launchpad AS "Rampă", lv_outcome AS "R." 
@@ -4154,7 +4155,7 @@ GROUP BY ls_state
 ORDER BY COUNT(*) DESC
 #+end_src
 
-Lista celor call_nol1996() tentative de lansări orbitale din 1996 (din care call_nof1996() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
+Lista celor call_nol1996() tentative de lansări orbitale din 1996 (din care call_nof1996() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare.
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
 SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD.MM HH24:MI') AS "Data", lv_type AS "Lansator", lv_Payload AS "Satelit",  ls_state AS "T", lv_name AS "Centru", lv_launchpad AS "Rampă", lv_outcome AS "R." 
@@ -4178,7 +4179,7 @@ GROUP BY ls_state
 ORDER BY COUNT(*) DESC
 #+end_src
 
-Lista celor call_nol1995() tentative de lansări orbitale din 1995 (din care call_nof1995() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
+Lista celor call_nol1995() tentative de lansări orbitale din 1995 (din care call_nof1995() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare.
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
 SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD.MM HH24:MI') AS "Data", lv_type AS "Lansator", lv_Payload AS "Satelit",  ls_state AS "T", lv_name AS "Centru", lv_launchpad AS "Rampă", lv_outcome AS "R." 
@@ -4202,7 +4203,7 @@ GROUP BY ls_state
 ORDER BY COUNT(*) DESC
 #+end_src
 
-Lista celor call_nol1994() tentative de lansări orbitale din 1994 (din care call_nof1994() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
+Lista celor call_nol1994() tentative de lansări orbitale din 1994 (din care call_nof1994() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare.
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
 SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD.MM HH24:MI') AS "Data", lv_type AS "Lansator", lv_Payload AS "Satelit",  ls_state AS "T", lv_name AS "Centru", lv_launchpad AS "Rampă", lv_outcome AS "R." 
@@ -4226,7 +4227,7 @@ GROUP BY ls_state
 ORDER BY COUNT(*) DESC
 #+end_src
 
-Lista celor call_nol1993() tentative de lansări orbitale din 1993 (din care call_nof1993() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
+Lista celor call_nol1993() tentative de lansări orbitale din 1993 (din care call_nof1993() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare.
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
 SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD.MM HH24:MI') AS "Data", lv_type AS "Lansator", lv_Payload AS "Satelit",  ls_state AS "T", lv_name AS "Centru", lv_launchpad AS "Rampă", lv_outcome AS "R." 
@@ -4250,7 +4251,7 @@ GROUP BY ls_state
 ORDER BY COUNT(*) DESC
 #+end_src
 
-Lista celor call_nol1992() tentative de lansări orbitale din 1992 (din care call_nof1992() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
+Lista celor call_nol1992() tentative de lansări orbitale din 1992 (din care call_nof1992() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare.
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
 SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD.MM HH24:MI') AS "Data", lv_type AS "Lansator", lv_Payload AS "Satelit",  ls_state AS "T", lv_name AS "Centru", lv_launchpad AS "Rampă", lv_outcome AS "R." 
@@ -4274,7 +4275,7 @@ GROUP BY ls_state
 ORDER BY COUNT(*) DESC
 #+end_src
 
-Lista celor call_nol1991() tentative de lansări orbitale din 1991 (din care call_nof1991() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
+Lista celor call_nol1991() tentative de lansări orbitale din 1991 (din care call_nof1991() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare.
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
 SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD.MM HH24:MI') AS "Data", lv_type AS "Lansator", lv_Payload AS "Satelit",  ls_state AS "T", lv_name AS "Centru", lv_launchpad AS "Rampă", lv_outcome AS "R." 
@@ -4298,7 +4299,7 @@ GROUP BY ls_state
 ORDER BY COUNT(*) DESC
 #+end_src
 
-Lista celor call_nol1990() tentative de lansări orbitale din 1990 (din care call_nof1990() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
+Lista celor call_nol1990() tentative de lansări orbitale din 1990 (din care call_nof1990() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare.
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
 SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD.MM HH24:MI') AS "Data", lv_type AS "Lansator", lv_Payload AS "Satelit",  ls_state AS "T", lv_name AS "Centru", lv_launchpad AS "Rampă", lv_outcome AS "R." 
@@ -4322,7 +4323,7 @@ GROUP BY ls_state
 ORDER BY COUNT(*) DESC
 #+end_src
 
-Lista celor call_nol1989() tentative de lansări orbitale din 1989 (din care call_nof1989() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
+Lista celor call_nol1989() tentative de lansări orbitale din 1989 (din care call_nof1989() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare.
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
 SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD.MM HH24:MI') AS "Data", lv_type AS "Lansator", lv_Payload AS "Satelit",  ls_state AS "T", lv_name AS "Centru", lv_launchpad AS "Rampă", lv_outcome AS "R." 
@@ -4346,7 +4347,7 @@ GROUP BY ls_state
 ORDER BY COUNT(*) DESC
 #+end_src
 
-Lista celor call_nol1988() tentative de lansări orbitale din 1988 (din care call_nof1988() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
+Lista celor call_nol1988() tentative de lansări orbitale din 1988 (din care call_nof1988() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare.
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
 SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD.MM HH24:MI') AS "Data", lv_type AS "Lansator", lv_Payload AS "Satelit",  ls_state AS "T", lv_name AS "Centru", lv_launchpad AS "Rampă", lv_outcome AS "R." 
@@ -4370,7 +4371,7 @@ GROUP BY ls_state
 ORDER BY COUNT(*) DESC
 #+end_src
 
-Lista celor call_nol1987() tentative de lansări orbitale din 1987 (din care call_nof1987() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
+Lista celor call_nol1987() tentative de lansări orbitale din 1987 (din care call_nof1987() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare.
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
 SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD.MM HH24:MI') AS "Data", lv_type AS "Lansator", lv_Payload AS "Satelit",  ls_state AS "T", lv_name AS "Centru", lv_launchpad AS "Rampă", lv_outcome AS "R." 
@@ -4394,7 +4395,7 @@ GROUP BY ls_state
 ORDER BY COUNT(*) DESC
 #+end_src
 
-Lista celor call_nol1986() tentative de lansări orbitale din 1986 (din care call_nof1986() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
+Lista celor call_nol1986() tentative de lansări orbitale din 1986 (din care call_nof1986() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare.
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
 SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD.MM HH24:MI') AS "Data", lv_type AS "Lansator", lv_Payload AS "Satelit",  ls_state AS "T", lv_name AS "Centru", lv_launchpad AS "Rampă", lv_outcome AS "R." 
@@ -4418,7 +4419,7 @@ GROUP BY ls_state
 ORDER BY COUNT(*) DESC
 #+end_src
 
-Lista celor call_nol1985() tentative de lansări orbitale din 1985 (din care call_nof1985() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
+Lista celor call_nol1985() tentative de lansări orbitale din 1985 (din care call_nof1985() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare.
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
 SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD.MM HH24:MI') AS "Data", lv_type AS "Lansator", lv_Payload AS "Satelit",  ls_state AS "T", lv_name AS "Centru", lv_launchpad AS "Rampă", lv_outcome AS "R." 
@@ -4442,7 +4443,7 @@ GROUP BY ls_state
 ORDER BY COUNT(*) DESC
 #+end_src
 
-Lista celor call_nol1984() tentative de lansări orbitale din 1984 (din care call_nof1984() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
+Lista celor call_nol1984() tentative de lansări orbitale din 1984 (din care call_nof1984() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare.
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
 SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD.MM HH24:MI') AS "Data", lv_type AS "Lansator", lv_Payload AS "Satelit",  ls_state AS "T", lv_name AS "Centru", lv_launchpad AS "Rampă", lv_outcome AS "R." 
@@ -4466,7 +4467,7 @@ GROUP BY ls_state
 ORDER BY COUNT(*) DESC
 #+end_src
 
-Lista celor call_nol1983() tentative de lansări orbitale din 1983 (din care call_nof1983() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
+Lista celor call_nol1983() tentative de lansări orbitale din 1983 (din care call_nof1983() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare.
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
 SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD.MM HH24:MI') AS "Data", lv_type AS "Lansator", lv_Payload AS "Satelit",  ls_state AS "T", lv_name AS "Centru", lv_launchpad AS "Rampă", lv_outcome AS "R." 
@@ -4490,7 +4491,7 @@ GROUP BY ls_state
 ORDER BY COUNT(*) DESC
 #+end_src
 
-Lista celor call_nol1982() tentative de lansări orbitale din 1982 (din care call_nof1982() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
+Lista celor call_nol1982() tentative de lansări orbitale din 1982 (din care call_nof1982() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare.
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
 SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD.MM HH24:MI') AS "Data", lv_type AS "Lansator", lv_Payload AS "Satelit",  ls_state AS "T", lv_name AS "Centru", lv_launchpad AS "Rampă", lv_outcome AS "R." 
@@ -4514,7 +4515,7 @@ GROUP BY ls_state
 ORDER BY COUNT(*) DESC
 #+end_src
 
-Lista celor call_nol1981() tentative de lansări orbitale din 1981 (din care call_nof1981() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
+Lista celor call_nol1981() tentative de lansări orbitale din 1981 (din care call_nof1981() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare.
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
 SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD.MM HH24:MI') AS "Data", lv_type AS "Lansator", lv_Payload AS "Satelit",  ls_state AS "T", lv_name AS "Centru", lv_launchpad AS "Rampă", lv_outcome AS "R." 
@@ -4538,7 +4539,7 @@ GROUP BY ls_state
 ORDER BY COUNT(*) DESC
 #+end_src
 
-Lista celor call_nol1980() tentative de lansări orbitale din 1980 (din care call_nof1980() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
+Lista celor call_nol1980() tentative de lansări orbitale din 1980 (din care call_nof1980() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare.
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
 SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD.MM HH24:MI') AS "Data", lv_type AS "Lansator", lv_Payload AS "Satelit",  ls_state AS "T", lv_name AS "Centru", lv_launchpad AS "Rampă", lv_outcome AS "R." 
@@ -4562,7 +4563,7 @@ GROUP BY ls_state
 ORDER BY COUNT(*) DESC
 #+end_src
 
-Lista celor call_nol1979() tentative de lansări orbitale din 1979 (din care call_nof1979() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
+Lista celor call_nol1979() tentative de lansări orbitale din 1979 (din care call_nof1979() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare.
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
 SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD.MM HH24:MI') AS "Data", lv_type AS "Lansator", lv_Payload AS "Satelit",  ls_state AS "T", lv_name AS "Centru", lv_launchpad AS "Rampă", lv_outcome AS "R." 
@@ -4586,7 +4587,7 @@ GROUP BY ls_state
 ORDER BY COUNT(*) DESC
 #+end_src
 
-Lista celor call_nol1978() tentative de lansări orbitale din 1978 (din care call_nof1978() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
+Lista celor call_nol1978() tentative de lansări orbitale din 1978 (din care call_nof1978() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare.
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
 SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD.MM HH24:MI') AS "Data", lv_type AS "Lansator", lv_Payload AS "Satelit",  ls_state AS "T", lv_name AS "Centru", lv_launchpad AS "Rampă", lv_outcome AS "R." 
@@ -4610,7 +4611,7 @@ GROUP BY ls_state
 ORDER BY COUNT(*) DESC
 #+end_src
 
-Lista celor call_nol1977() tentative de lansări orbitale din 1977 (din care call_nof1977() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
+Lista celor call_nol1977() tentative de lansări orbitale din 1977 (din care call_nof1977() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare.
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
 SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD.MM HH24:MI') AS "Data", lv_type AS "Lansator", lv_Payload AS "Satelit",  ls_state AS "T", lv_name AS "Centru", lv_launchpad AS "Rampă", lv_outcome AS "R." 
@@ -4634,7 +4635,7 @@ GROUP BY ls_state
 ORDER BY COUNT(*) DESC
 #+end_src
 
-Lista celor call_nol1976() tentative de lansări orbitale din 1976 (din care call_nof1976() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
+Lista celor call_nol1976() tentative de lansări orbitale din 1976 (din care call_nof1976() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare.
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
 SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD.MM HH24:MI') AS "Data", lv_type AS "Lansator", lv_Payload AS "Satelit",  ls_state AS "T", lv_name AS "Centru", lv_launchpad AS "Rampă", lv_outcome AS "R." 
@@ -4658,7 +4659,7 @@ GROUP BY ls_state
 ORDER BY COUNT(*) DESC
 #+end_src
 
-Lista celor call_nol1975() tentative de lansări orbitale din 1975 (din care call_nof1975() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
+Lista celor call_nol1975() tentative de lansări orbitale din 1975 (din care call_nof1975() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare.
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
 SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD.MM HH24:MI') AS "Data", lv_type AS "Lansator", lv_Payload AS "Satelit",  ls_state AS "T", lv_name AS "Centru", lv_launchpad AS "Rampă", lv_outcome AS "R." 
@@ -4682,7 +4683,7 @@ GROUP BY ls_state
 ORDER BY COUNT(*) DESC
 #+end_src
 
-Lista celor call_nol1974() tentative de lansări orbitale din 1974 (din care call_nof1974() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
+Lista celor call_nol1974() tentative de lansări orbitale din 1974 (din care call_nof1974() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare.
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
 SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD.MM HH24:MI') AS "Data", lv_type AS "Lansator", lv_Payload AS "Satelit",  ls_state AS "T", lv_name AS "Centru", lv_launchpad AS "Rampă", lv_outcome AS "R." 
@@ -4706,7 +4707,7 @@ GROUP BY ls_state
 ORDER BY COUNT(*) DESC
 #+end_src
 
-Lista celor call_nol1973() tentative de lansări orbitale din 1973 (din care call_nof1973() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
+Lista celor call_nol1973() tentative de lansări orbitale din 1973 (din care call_nof1973() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare.
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
 SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD.MM HH24:MI') AS "Data", lv_type AS "Lansator", lv_Payload AS "Satelit",  ls_state AS "T", lv_name AS "Centru", lv_launchpad AS "Rampă", lv_outcome AS "R." 
@@ -4730,7 +4731,7 @@ GROUP BY ls_state
 ORDER BY COUNT(*) DESC
 #+end_src
 
-Lista celor call_nol1972() tentative de lansări orbitale din 1972 (din care call_nof1972() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
+Lista celor call_nol1972() tentative de lansări orbitale din 1972 (din care call_nof1972() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare.
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
 SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD.MM HH24:MI') AS "Data", lv_type AS "Lansator", lv_Payload AS "Satelit",  ls_state AS "T", lv_name AS "Centru", lv_launchpad AS "Rampă", lv_outcome AS "R." 
@@ -4754,7 +4755,7 @@ GROUP BY ls_state
 ORDER BY COUNT(*) DESC
 #+end_src
 
-Lista celor call_nol1971() tentative de lansări orbitale din 1971 (din care call_nof1971() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
+Lista celor call_nol1971() tentative de lansări orbitale din 1971 (din care call_nof1971() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare.
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
 SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD.MM HH24:MI') AS "Data", lv_type AS "Lansator", lv_Payload AS "Satelit",  ls_state AS "T", lv_name AS "Centru", lv_launchpad AS "Rampă", lv_outcome AS "R." 
@@ -4778,7 +4779,7 @@ GROUP BY ls_state
 ORDER BY COUNT(*) DESC
 #+end_src
 
-Lista celor call_nol1970() tentative de lansări orbitale din 2010 (din care call_nof1970() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
+Lista celor call_nol1970() tentative de lansări orbitale din 2010 (din care call_nof1970() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare.
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
 SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD.MM HH24:MI') AS "Data", lv_type AS "Lansator", lv_Payload AS "Satelit",  ls_state AS "T", lv_name AS "Centru", lv_launchpad AS "Rampă", lv_outcome AS "R." 
@@ -4802,7 +4803,7 @@ GROUP BY ls_state
 ORDER BY COUNT(*) DESC
 #+end_src
 
-Lista celor call_nol1969() tentative de lansări orbitale din 1969 (din care call_nof1969() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
+Lista celor call_nol1969() tentative de lansări orbitale din 1969 (din care call_nof1969() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare.
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
 SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD.MM HH24:MI') AS "Data", lv_type AS "Lansator", lv_Payload AS "Satelit",  ls_state AS "T", lv_name AS "Centru", lv_launchpad AS "Rampă", lv_outcome AS "R." 
@@ -4826,7 +4827,7 @@ GROUP BY ls_state
 ORDER BY COUNT(*) DESC
 #+end_src
 
-Lista celor call_nol1968() tentative de lansări orbitale din 2010 (din care call_nof1968() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
+Lista celor call_nol1968() tentative de lansări orbitale din 2010 (din care call_nof1968() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare.
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
 SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD.MM HH24:MI') AS "Data", lv_type AS "Lansator", lv_Payload AS "Satelit",  ls_state AS "T", lv_name AS "Centru", lv_launchpad AS "Rampă", lv_outcome AS "R." 
@@ -4850,7 +4851,7 @@ GROUP BY ls_state
 ORDER BY COUNT(*) DESC
 #+end_src
 
-Lista celor call_nol1967() tentative de lansări orbitale din 1967 (din care call_nof1967() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
+Lista celor call_nol1967() tentative de lansări orbitale din 1967 (din care call_nof1967() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare.
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
 SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD.MM HH24:MI') AS "Data", lv_type AS "Lansator", lv_Payload AS "Satelit",  ls_state AS "T", lv_name AS "Centru", lv_launchpad AS "Rampă", lv_outcome AS "R." 
@@ -4874,7 +4875,7 @@ GROUP BY ls_state
 ORDER BY COUNT(*) DESC
 #+end_src
 
-Lista celor call_nol1966() tentative de lansări orbitale din 1966 (din care call_nof1966() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
+Lista celor call_nol1966() tentative de lansări orbitale din 1966 (din care call_nof1966() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare.
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
 SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD.MM HH24:MI') AS "Data", lv_type AS "Lansator", lv_Payload AS "Satelit",  ls_state AS "T", lv_name AS "Centru", lv_launchpad AS "Rampă", lv_outcome AS "R." 
@@ -4898,7 +4899,7 @@ GROUP BY ls_state
 ORDER BY COUNT(*) DESC
 #+end_src
 
-Lista celor call_nol1965() tentative de lansări orbitale din 1965 (din care call_nof1965() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
+Lista celor call_nol1965() tentative de lansări orbitale din 1965 (din care call_nof1965() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare.
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
 SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD.MM HH24:MI') AS "Data", lv_type AS "Lansator", lv_Payload AS "Satelit",  ls_state AS "T", lv_name AS "Centru", lv_launchpad AS "Rampă", lv_outcome AS "R." 
@@ -4922,7 +4923,7 @@ GROUP BY ls_state
 ORDER BY COUNT(*) DESC
 #+end_src
 
-Lista celor call_nol1964() tentative de lansări orbitale din 1964 (din care call_nof1964() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
+Lista celor call_nol1964() tentative de lansări orbitale din 1964 (din care call_nof1964() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare.
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
 SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD.MM HH24:MI') AS "Data", lv_type AS "Lansator", lv_Payload AS "Satelit",  ls_state AS "T", lv_name AS "Centru", lv_launchpad AS "Rampă", lv_outcome AS "R." 
@@ -4946,7 +4947,7 @@ GROUP BY ls_state
 ORDER BY COUNT(*) DESC
 #+end_src
 
-Lista celor call_nol1963() tentative de lansări orbitale din 1963 (din care call_nof1963() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
+Lista celor call_nol1963() tentative de lansări orbitale din 1963 (din care call_nof1963() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare.
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
 SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD.MM HH24:MI') AS "Data", lv_type AS "Lansator", lv_Payload AS "Satelit",  ls_state AS "T", lv_name AS "Centru", lv_launchpad AS "Rampă", lv_outcome AS "R." 
@@ -4970,7 +4971,7 @@ GROUP BY ls_state
 ORDER BY COUNT(*) DESC
 #+end_src
 
-Lista celor call_nol1962() tentative de lansări orbitale din 1962 (din care call_nof1962() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
+Lista celor call_nol1962() tentative de lansări orbitale din 1962 (din care call_nof1962() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare.
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
 SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD.MM HH24:MI') AS "Data", lv_type AS "Lansator", lv_Payload AS "Satelit",  ls_state AS "T", lv_name AS "Centru", lv_launchpad AS "Rampă", lv_outcome AS "R." 
@@ -4994,7 +4995,7 @@ GROUP BY ls_state
 ORDER BY COUNT(*) DESC
 #+end_src
 
-Lista celor call_nol1961() tentative de lansări orbitale din 1961 (din care call_nof1961() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
+Lista celor call_nol1961() tentative de lansări orbitale din 1961 (din care call_nof1961() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare.
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
 SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD.MM HH24:MI') AS "Data", lv_type AS "Lansator", lv_Payload AS "Satelit",  ls_state AS "T", lv_name AS "Centru", lv_launchpad AS "Rampă", lv_outcome AS "R." 
@@ -5018,7 +5019,7 @@ GROUP BY ls_state
 ORDER BY COUNT(*) DESC
 #+end_src
 
-Lista celor call_nol1960() tentative de lansări orbitale din 1960 (din care call_nof1960() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
+Lista celor call_nol1960() tentative de lansări orbitale din 1960 (din care call_nof1960() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare.
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
 SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD.MM HH24:MI') AS "Data", lv_type AS "Lansator", lv_Payload AS "Satelit",  ls_state AS "T", lv_name AS "Centru", lv_launchpad AS "Rampă", lv_outcome AS "R." 
@@ -5042,7 +5043,7 @@ GROUP BY ls_state
 ORDER BY COUNT(*) DESC
 #+end_src
 
-Lista celor call_nol1959() tentative de lansări orbitale din 1959 (din care call_nof1959() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
+Lista celor call_nol1959() tentative de lansări orbitale din 1959 (din care call_nof1959() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare.
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
 SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD.MM HH24:MI') AS "Data", lv_type AS "Lansator", lv_Payload AS "Satelit",  ls_state AS "T", lv_name AS "Centru", lv_launchpad AS "Rampă", lv_outcome AS "R." 
@@ -5066,7 +5067,7 @@ GROUP BY ls_state
 ORDER BY COUNT(*) DESC
 #+end_src
 
-Lista celor call_nol1958() tentative de lansări orbitale din 1958 (din care call_nof1958() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
+Lista celor call_nol1958() tentative de lansări orbitale din 1958 (din care call_nof1958() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare.
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
 SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD.MM HH24:MI') AS "Data", lv_type AS "Lansator", lv_Payload AS "Satelit",  ls_state AS "T", lv_name AS "Centru", lv_launchpad AS "Rampă", lv_outcome AS "R." 
@@ -5090,7 +5091,7 @@ GROUP BY ls_state
 ORDER BY COUNT(*) DESC
 #+end_src
 
-Lista celor call_nol1957() tentative de lansări orbitale din 1957 (din care call_nof1957() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare. Pentru /Ținta/ orbitală, detalii găsiți pe [[https://planet4589.org/space/log/orbcat.html][site-ul planet4589.org]].
+Lista celor call_nol1957() tentative de lansări orbitale din 1957 (din care call_nof1957() eșecuri). Ora afișată este în UTC. Este afișat doar satelitul primar, în cazul în care sunt mai mulți sateliți lansați, iar în paranteze este numele inițial al satelului, dat de producător, în cazul în care acesta diferă de numele primit de satelit după lansare.
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
 SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD.MM HH24:MI') AS "Data", lv_type AS "Lansator", lv_Payload AS "Satelit",  ls_state AS "T", lv_name AS "Centru", lv_launchpad AS "Rampă", lv_outcome AS "R." 
@@ -5103,6 +5104,62 @@ SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: bul
 :END:
+
+** Buletin Cosmic nr. 88 :venus:astra:kuaizhou:cz11:
+:PROPERTIES:
+:EXPORT_FILE_NAME: 088
+:EXPORT_DATE: 2020-09-17
+:END:
+
+*** Posibile urme de viață în atmosfera lui Venus
+
+O echipă de cercetători britanici și americani a descoperit în straturile atmosferei lui *Venus* un gaz denumit fosfină, gaz care aici pe Pământ este produs fie de industria chimică, fie de metabolismul organismelor vii. Până în prezent, nu se cunoaște un alt mecanism care să producă fosfină, cel puțin nu în condițiile existente pe Venus (Jupiter ar putea conține fosfină, datorită presiunii atmosferice mult mai ridicate, dar nici o planetă telurică nu ar putea forma fosfină prin procese abiotice), ceea ce înseamnă că singura explicație rămasă este că acest gaz provine de la microorganisme care trăiesc pe Venus. Deși condițiile de pe suprafața planetei sunt improprii vieții așa cum o cunoaștem noi, existența vieții în atmosfera planetei a fost una dintre ipotezele luate în calcul în căutarea vieții dincolo de Pământ. Sunt necesare noi date, noi observații și probabil noi misiuni spre Venus care să confirme această descoperire și să investigheze ce se întâmplă de fapt în atmosfera planetei vecine, dar articolul publicat în [Nature Astronomy](https://www.nature.com/articles/s41550-020-1174-4) în această săptămână este probabil cel mai important pas pe care l-am făcut până acum în confirmarea existenței vieții pe alte planete.
+
+Din păcate Venus a fost neglijată în ultimii ani, iar o misiune de amploare a unei agenții spațiale naționale spre planeta vecină nu va avea loc mai devreme de 10 ani (misiunea VERITAS a JPL nu va fi lansată mai devreme de 2026, iar misiunea rusă VENERA-D probabil cândva în jurul anului 2030), însă este posibil să vedem sonde de mici dimensiuni, trimise spre Venus de către companii private. Peter Beck, directorul companiei Rocket Lab, cea care dezvoltă racheta de calibru ușor Electron, și-a manifestat încă de la începutul acestui an [interesul pentru o misiune spre Venus](https://youtu.be/SjuxmH7eWHc) folosind o sondă derivată din sateliții Photon, produși de aceeași companie și testați deja pe orbită în cea mai recentă misiune a rachetei, misiune care a avut loc la finalul lunii august. Așadar, Venus de așteaptă și se pare că este plină de surprize pentru că și dacă nu găzduiește viață, cu siguranță vom afla lucruri interesante despre atmosfera sa.
+
+*** Două lansări orbitale eșuate, la câteva ore distanță
+
+Sâmbătă, într-un interval de câteva ore, două rachete au avut lansări eșuate. Prima data, racheta companiei Astra (*Rocket 3.1*) [nu a reușit lansarea să inaugurală](https://astra.com/blog/we-have-lift-off/), programată pentru ora 06:19 ora României, după o defecțiune a primei trepte, la 15 secunde după desprinderea de rampa de pe insula Kodiak, Alaska. Proiectul Rocket 3.1 al companiei Astra a fost parte a unei competiții organizate de agenția DARPA pentru lansatoare ușoare, dar amânarea frecventă a lansării inaugurale a făcut ca Astra să rateze premiul din finala competiției. Compania a precizat că va continua dezvoltarea rachetei și după lansarea eșuată de sâmbătă, pentru că problema care a dus la pierderea rachetei poate fi remediată printr-un update al softului acesteia.
+
+Al doilea eșec a avut loc în China la ora 08:02 ora României, unde o rachetă [Kuaizhou-1A nu a reușit să plaseze pe orbită satelitul de observații Jilin-1 Gaofen-02C](http://www.xinhuanet.com/english/2020-09/12/c_139363535.htm). Lansarea a avut loc de pe rampa SLS-2 din Jiuquan. Cele două eșecuri de sâmbătă urcă la 8 numărul lansărilor eșuate din 2020, cifră care nu a mai fost atinsă din 1982.
+
+*** A doua lansare chinezească de pe o barjă
+
+Marți, la trei zile după eșecul rachetei Kuaizhou-1A, China a lansat o rachetă *Changzheng-11*, care a plasat pe orbită nouă sateliți. Aceasta a fost a doua lansare orbitală a Chinei de pe o barjă maritimă, denumită Debo-3, după zborul inaugural din iunie 2019 (lansarea din 2019 a avut loc de pe o altă barjă, denumită Tairui). Changzheng-11 este o rachetă de calibru ușor, cu combustibil solid, în patru trepte, care a efectuat până acum 9 zboruri orbitale, toate încheiate cu succes.
+
+** Buletin Cosmic nr. 87 :spacex:starlink:electron:vega:china:usaf:
+:PROPERTIES:
+:EXPORT_FILE_NAME: 087
+:EXPORT_DATE: 2020-09-10
+:END:
+
+*** SpaceX și Starlink
+
+În această vară, *SpaceX* a ajuns la cea de-a 100-a lansare orbitală a unei rachete din familia Falcon. A fost vorba, evident, de o rachetă Falcon 9, care a plasat pe orbită alți 60 de sateliți *Starlink*. Până în prezent, SpaceX a lansat 715 sateliți Starlink, din care 20 au fost deorbitați activ, 1 deorbitat natural (în urma unei defecțiuni) și 16 care par să nu fie manevrabili (nu și-au modificat orbita după lansare). În urmă cu câteva zile, Elon Musk a făcut publice câteva detalii tehnice cu privire la viitorul serviciu Starlink: astfel, viteza de descărcare va depăși în viitor 100 Mbps, suficientă pentru a vedea 2-3 filme în format 4K simultan, iar cei care au testat serviciul până acum au avut parte de viteze cuprinse între 11-60 Mbps, cu o latență între 31-94 ms.
+
+Și tot în această vară, SpaceX a reușit o plasare pe orbită polară a unui satelit lansat din Florida (lansarea precedentă, Starlink, a fost cea de-a 100 lansare a unei rachete Falcon, dar lansarea SAOCOM-1B a fost cea de-a 100 lansare orbitală, pentru că testul Dragon din ianuarie nu a fost unul orbital, deși a implicat lansarea unei rachete Falcon-9), lucru care ultima dată s-a întâmplat în 1969. Însă atunci, treapta primară a rachetei a căzut în Cuba și a cauzat unele probleme ce au dus la interzicerea acestor traiectorii pentru aproape 50 de ani. Însă acum treapta primară Falcon 9 a revenit la sol după lansarea satelitului argentinian SAOCOM-1B, iar treapta superioară era, la momentul trecerii sale peste zone populate, la o altitudine mult prea mare pentru ca o dezintegrare neprevăzută să creeze probleme la sol.
+
+*** Electron și Vega
+
+Si tot în această vară, am mai avut parte de un record doborât: cele două lansări de ale rachetelor de calibru ușor *Electron* și *Vega* (ambele rachete au revenit pe rampele de lansare după câte un eșec) de joi, 3 septembrie, au stabilit un nou record pentru cel mai mare număr de sateliți lansați într-un interval de 24 de ore: 113.
+
+Recordul privind cel mai mare număr de sateliți lansați de o singură rachetă îi aparține în continuare rachetei indiene PSLV, care în cadrul misiunii C-37 din 15 februarie 2017 a lansat 104 sateliți pe orbită heliosincronă.
+
+*** Avionul spațial chinezesc
+
+China a devenit al treilea stat care a reușit să lanseze un vehicul cu aripi, reutilizabil, pe orbită. Avionul spațial chinezesc este, cel mai probabil, asemănător cu cele două vehicule X-37B americane, prea mic pentru a transporta un echipaj la bord, dar versatil, reutilizabil și probabil o platformă pentru experimente desfășurate în spațiu. Nu se cunosc detalii despre avionul spațial și nici performanțele acestuia, știm doar că lansarea a avut loc vineri, 4 septembrie, și că pentru a transporta avionul pe orbită a fost folosită o rachetă Changzheng-2F (modelul este folosit de obicei pentru lansări cu echipaj sau peste teste ale capsulelor Shenzhou și Tiangong, dar cu un con protector special pentru această misiune). Avionul spațial a ajuns pe o orbită 338x348 km și după două zile petrecute în spațiu, a revenit la sol, în apropierea unei baze militare chinezești, nu înainte de a lansa un mic satelit despre care, din nou, nu au fost oferite detalii.
+
+## Delta IV Heavy --NROL-44
+
+Secvența lansării *Delta IV Heavy* de sâmbătă, 29 august, a fost întreruptă cu 3 secunde înainte se aprinderea motoarelor RS-68A. Problema pare să fie legată de un echipament de la sol, racheta și satelitul de spionaj de la bord fiind într-o state bună. Având în vedere că anularea s-a produs atât de aproape de momentul lansării, pregătirea rampei pentru o nouă tentativă durează cel puțin o săptămână iar o decizie cu privire la o nouă dată pentru lansare urmează să fie luată în următoarele zile.
+
+*** Contract de la USAF
+
+*United Launch Alliance* (ULA) și *SpaceX* sunt câștigătoarele celei de-a doua faze a competiției inițiate de Forțele Aeriene (USAF) pentru asigurarea de lansatoare contractate între 2020 și 2024 (primele lansări urmând să aibă loc în 2022). Astfel, ULA va executa 60% dintre lansările necesare pentru USAF după 2022, iar SpaceX 40%, fără a fi specificat un număr fix de lansări, ceea ce înseamnă contracte finale de miliarde de dolari pentru cele două companii (sunt estimate un număr de 32-34 de lansări).
+
+Au fost anunțate deja trei contracte pentru lansări în 2022: două lansări contractate cu ULA pentru 337 milioane de dolari (USSF-51 și USSF-106) și 316 milioane de dolari pentru SpaceX (USSF-67), fără detalii despre sateliți, însă suma uriașă primită de SpaceX probabil implică o rachetă Falcon Heavy cu un con protector mai generos și probabil modificări ale modului în care satelitul este montat la bordul rachetei. ULA va folosi viitorul lansator Vulcan pentru derularea acestor contacte, în timp ce SpaceX va utiliza Falcon-9 și Falcon Heavy.
+
+Din păcate asta înseamnă că *Northrop Grumann* și *Blue Origin* nu vor primi fonduri pentru rachetele OmegA și respectiv New Glenn, deși cele două companii au fost finanțate în prima fază a competiției. Însă cele două companii vor beneficia însă de aceste contracte indirect, pentru că cei care vor fabrica motoarele BE-4 necesare pentru rachetele Vulcan sunt Blue Origin, iar boosterele suplimemntare pentru Vulcan sunt construite de Nortrop Grumann. Este foarte posibil ca Jeff Bezos să continue finanțarea rachetei New Glenn din fonduri proprii (Bezos a vândut recent acțiuni Amazon în valoare de 3 miliarde de dolari pentru a continua finanțarea Blue Origin), însă viitorul rachetei OmegA rămâne incert, aceasta fiind dezvoltată aproape exclusiv pentru contracte cu USAF/USSF, deși Northrop Grumann nu a făcut încă un anunț oficial în această privință.
 
 ** Buletin Cosmic nr. 86 :spacex:ariane5:cz2d:htv:iss:
 :PROPERTIES:

@@ -5956,3 +5956,6 @@
 2020-062    2020-09-03 12:46   Falcon 9                094/B1060.2          Starlink-12 / Starlink 1.0-L11                 US    KSC          LC39A      S 87
 2020-063    2020-09-04 07:30   Chang Zheng 2F          T3                   CSSHQ                                          CN    Jiuquan      Pad 921?   S 87
 2020-064    2020-09-07 05:57   Chang Zheng 4B          Y46                  Gao Fen 11-02                                  CN    Taiyuan      LC9        S 88
+2020-F07    2020-09-12 03:19   Rocket 3.1                                   (Test)                                         US    Kodiak       LP-3B      F 88
+2020-F08    2020-09-12 05:02   Kuaizhou 1A             Y3                   Jilin-1 Gaofen-02C                             CN    Jiuquan      SLS-2      F 88
+2020-065    2020-09-15 01:23   Chang Zheng 11H         Y2                   Jilin-1 Gaofen-03B/C                           CN    De Bo 3                 S 88
