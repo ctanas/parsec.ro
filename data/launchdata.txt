@@ -5951,7 +5951,7 @@
 2020-057    2020-08-18 14:31   Falcon 9                092/B1049.6          Starlink-11 / Starlink 1.0-L10/SkySat          US    CC           LC40       S 86
 2020-058    2020-08-23 02:27   Chang Zheng 2D          Y57                  Gao Fen 9-05                                   CN    Jiuquan      -          S 86
 2020-059    2020-08-30 23:18   Falcon 9                093/B1059.4          SAOCOM-1B                                      US    CC           LC40       S 87
-2020-060    2020-08-31 03:05   Electron                14                   I Can't Believe It's.. / Sequoia               US    Mahia        LC1A       S 87
+2020-060    2020-08-31 03:05   Electron                14                   I Can't Believe It's Not Optical / Sequoia     US    Mahia        LC1A       S 87
 2020-061    2020-09-03 01:51   Vega                    VV16                 SSMS                                           EU    Kourou       ZLV        S 87
 2020-062    2020-09-03 12:46   Falcon 9                094/B1060.2          Starlink-12 / Starlink 1.0-L11                 US    KSC          LC39A      S 87
 2020-063    2020-09-04 07:30   Chang Zheng 2F          T3                   CSSHQ                                          CN    Jiuquan      Pad 921?   S 87
