@@ -5123,6 +5123,34 @@ SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD
 :EXPORT_HUGO_SECTION: bul
 :END:
 
+** Buletin Cosmic nr. 89 :artemis:nasa:venus:cz4b:
+:PROPERTIES:
+:EXPORT_FILE_NAME: 089
+:EXPORT_DATE: 2020-09-23
+:END:
+
+NASA a făcut public în această săptămână [[https://www.nasa.gov/press-release/nasa-publishes-artemis-plan-to-land-first-woman-next-man-on-moon-in-2024/][un raport]] în care detaliază pas cu pas prima fază a programului Artemis, în urma căruia un echipaj de astronauți urmează să ajungă pe Lună în 2024.  Însă pentru ca acest lucru să se întâmple, NASA are nevoie până atunci de 28 de miliarde de dolari de la Congresul SUA, iar până în martie 2021 are nevoie de 3.2 miliarde de dolari pentru finanțarea companiilor SpaceX, Dynetics și Blue Origin, care dezvoltă în prezent vehiculele cu care echipajul Artemis-3 urmează să ajungă pe suprafața Lunii, deși se pare că va primi doar 600 de milioane de dolari pentru această etapă, suma insuficientă pentru a păstra programul pe actuala sa traiectorie.
+
+Planul propus recent de NASA pentru întoarcerea pe Lună din 2024 arată în felul următor începe cu un prim test al rachetei SLS și al capsulei Orion în 2021, când misiunea Artemis I va da un ocol Lunii, similar cu misiunea Apollo 8, dar fără echipaj la bord. A doua misiunea, Artemis II va zbura în 2023, cu echipaj, și va petrece 10 zile în spațiu, tot într-un ocol dat Lunii. Artemis III va aseleniza în 2024 și echipajul va petrece 7 zile pe suprafața Lunii. Din 2021 și până în 2024, NASA va lansa câte 2 misiuni robotice spre Lună, folosind rachete ale companiilor partenere (SpaceX, ULA), parte a unui program paralel prin care se va studia în amănunt zona în care urmează să ajungă echipajul în 2024.
+
+Soarta stației spațiale lunare Gateway nu este clară în acest moment: probabil primul element al viitoarei stații spațiale va fi lansat în 2023, ceea ce înseamnă că Gateway nu va fi folosită pentru misiunea Artemis III din 2024. În ciuda unor comentarii vagi din ultimele zile ale lui Jim Bridenstine, Artemis III se va îndrepta spre Polul Sud lunar, administratorul NASA precizând că nu sunt luate în considerare alte ținte pentru aselenizarea din 2024. Nu a fost luată o decizie cu privire la numele astronauților care vor păși pe Lună în 2024, dar NASA va comunica în viitorul apropiat numele celor selectați pentru a participa la misiunile Artemis.
+
+Cele 28 de miliarde de dolari pe care NASA le cere Congresului SUA pentru a se întoarce pe Lună în 2024 se adaugă celor 40 de miliarde cheltuite deja pentru racheta SLS (19 miliarde) și capsula Orion (21 miliarde), ceea ce înseamnă că, cel puțin deocamdată, costul aselenizării cu echipaj ajunge la peste 70 miliarde de dolari (SLS și Orion vor continua să consume bani până în 2024). Pare foarte mult, mai ales dacă ținem cont de prețurile exagerat de mari ale rachetei SLS și ale capsulei Orion, dar dacă punem lucrurile în perspectivă, suma este semnificativ mai mică decât costul programului Apollo, care, ajustat la nivelul din 2020, ar însemna aproximativ 160 de miliarde de dolari.
+
+#+CAPTION: Răsăritul Pământului de sub orizontul lunar, suprins de echipajul misiunii Apollo 8, care în 1968 a dat un ocol Lunii, într-un test premergător aselenizării care urma să aibă loc câteva luni mai târziu (sursa foto: [[https://www.nasa.gov/image-feature/apollo-8-earthrise][NASA]])
+[[/img/earthrise.jpg]]
+
+
+---
+
+În urma anunțului descoperirii fosfinei în atmosfera Venusiană, mai multe misiuni spre Venus încep să prindă contur, dar va dura câțiva ani până când prima dintre aceste misiuni va decola spre planeta vecină. Avem însă o sondă aflată deja în spațiu, care chiar în aceste zile se îndreaptă, nu întâmplător, spre Venus! Mai țineți minte misiunea Bepi-Colombo, care se îndreaptă spre Mercur, lansată în 2018? Ei bine, în mai puțin de o lună, [[https://www.forbes.com/sites/jonathanocallaghan/2020/09/16/in-a-complete-fluke-a-european-spacecraft-is-about-to-fly-past-venus--and-could-look-for-signs-of-life/][în 15 octombrie, sonda va survola planeta Venus]], pentru o ajustare a traiectoriei. Asta înseamnă că instrumentul de la bord, denumit MERTIS (MErcury Radiometer and Thermal Infrared Spectrometer) și destinat studierii suprafeței planetei Mercur, va putea fi îndreptat spre Venus, pentru a confirma prezența moleculelor de fosfină din atmosfera planetei!
+
+Nu știm încă dacă precizia instrumentului este însă suficientă pentru detectarea fosfinei, dar echipa de cercetători europeni va mai avea o ocazie să facă acest lucru în 10 august 2021, în timpul celui de-al doilea survol al lui Venus. Dacă în octombrie sonda Bepi-Colombo se va apropia la 10000 km de Venus, în august anul viitor survolul va duce sonda la doar 550 km de atmosfera venusiană, o oportunitate mult mai bună pentru analize mai precise.
+
+---
+
+Doar o singură lansare orbitală a avut loc în ultima săptămână: o rachetă Changzheng-4B a plasat pe orbită satelitul Haiyang-2C destinat observațiilor oceanice. Lansarea a avut loc de la centrul spațial Jiuquan și a fost a 28-a lansare orbitală a Chinei în acest an, devansând astfel Statele Unite, care au doar 27 de lansări orbitale. China conduce și în clasamentul lansărilor eșuate, 4, față de 3 rachete americane care nu au ajuns pe orbită în acest an. Statele Unite au șansa să treacă din nou pe prima poziție a clasamentului dacă cele două lansări programate pentru acest sfârșit de săptămână vor avea loc: lansarea rachetei Delta IV Heavy cu satelitul de spionaj NROL-44 și o rachetă FDalcon 9 cu nou set de sateliți Starlink, ambele lansări fiind programate să aibă loc din Florida. Prima treaptă a rachetei Changzheng-4B a fost dotată cu patru aripioare manevrabile, asemănătoare cu cele ale rachetei Falcon 9, dar care nu sunt folosite pentru aterizarea primeri trepte ci pentru un mai bun control în timpul revenirii prin atmosferă a acesteia și pentru evitarea prăbușirii deasupra zonelor populate, una dintre aceste aripioare fiind recuperate dintr-o lansare anterioară.
+
 ** Buletin Cosmic nr. 88 :venus:astra:kuaizhou:cz11:
 :PROPERTIES:
 :EXPORT_FILE_NAME: 088
