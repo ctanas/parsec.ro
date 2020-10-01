@@ -5959,4 +5959,6 @@
 2020-F07    2020-09-12 03:19   Rocket 3.1                                   (Test)                                         US    Kodiak       LP-3B      F 88
 2020-F08    2020-09-12 05:02   Kuaizhou 1A             Y3                   Jilin-1 Gaofen-02C                             CN    Jiuquan      SLS-2      F 88
 2020-065    2020-09-15 01:23   Chang Zheng 11H         Y2                   Jilin-1 Gaofen-03B/C                           CN    HHAI         Debo-3     S 88
-2020-066    2020-09-21 05:40   Chang Zheng 4B                               HaiYang-2C                                     CN    Jiuquan      SLS-2      S 89
+2020-066    2020-09-21 05:40   Chang Zheng 4B          Y41                  HaiYang-2C                                     CN    Jiuquan      SLS-2      S 89
+2020-067    2020-09-27 03:23   Chang Zheng 4B          Y42                  HuanJing-2                                     CN    Taiyuan      LC-9       S 90
+2020-068    2020-09-28 11:20   Soyuz-2-1B                                   Gonets-M                                       RU    Plesetsk     43/3       S 90
