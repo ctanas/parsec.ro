@@ -83,29 +83,29 @@ draft = false
 | 2019-03-02 | Falcon 9     | 070/B1051   | Crew Dragon DM-1 / Dragon C201             | KSC    | LC39A | S |
 | 2019-04-11 | Falcon Heavy | 002         | Arabsat 6A                                 | KSC    | LC39A | S |
 | 2019-05-04 | Falcon 9     | 071/B1056   | Dragon CRS-17 / Dragon C113.2              | CC     | LC40  | S |
-| 2019-05-24 | Falcon 9     | 072/B1049.3 | Starlink-1 / Starlink V0.9                 | CC     | LC40  | S |
+| 2019-05-24 | Falcon 9     | 072/B1049.3 | Starlink V0.9                              | CC     | LC40  | S |
 | 2019-06-12 | Falcon 9     | 073/B1051.2 | RCM / Radarsat Const. Mission              | SVAFB  | SLC4E | S |
 | 2019-06-25 | Falcon Heavy | 003         | STP-2                                      | KSC    | LC39A | S |
 | 2019-07-25 | Falcon 9     | 074/B1056.2 | Dragon CRS-18 / Dragon C108.3              | CC     | LC40  | S |
 | 2019-08-06 | Falcon 9     | 075/B1047.3 | AMOS 17                                    | CC     | LC40  | S |
-| 2019-11-11 | Falcon 9     | 076/B1048.4 | Starlink-2 / Starlink 1.0-L1               | CC     | LC40  | S |
+| 2019-11-11 | Falcon 9     | 076/B1048.4 | Starlink 1.0-L1                            | CC     | LC40  | S |
 | 2019-12-05 | Falcon 9     | 077/B1059   | Dragon CRS-19 / Dragon C106.3              | CC     | LC40  | S |
 | 2019-12-17 | Falcon 9     | 078/B1056.3 | JCSAT-18-Kacific-1                         | CC     | LC40  | S |
-| 2020-01-07 | Falcon 9     | 079/B1049.4 | Starlink-3 / Starlink 1.0-L2               | CC     | LC40  | S |
-| 2020-01-29 | Falcon 9     | 081/B1051.3 | Starlink-4 / Starlink 1.0-L3               | CC     | LC40  | S |
-| 2020-02-17 | Falcon 9     | 082/B1056.4 | Starlink-5 / Starlink 1.0-L4               | CC     | LC40  | S |
+| 2020-01-07 | Falcon 9     | 079/B1049.4 | Starlink 1.0-L2                            | CC     | LC40  | S |
+| 2020-01-29 | Falcon 9     | 081/B1051.3 | Starlink 1.0-L3                            | CC     | LC40  | S |
+| 2020-02-17 | Falcon 9     | 082/B1056.4 | Starlink 1.0-L4                            | CC     | LC40  | S |
 | 2020-03-07 | Falcon 9     | 083/B1059.2 | Dragon CRS-20 / Dragon C112.3              | CC     | LC40  | S |
-| 2020-03-18 | Falcon 9     | 084/B1048.5 | Starlink-6 / Starlink 1.0-L5               | KSC    | LC39A | S |
-| 2020-04-22 | Falcon 9     | 085/B1051.4 | Starlink-7 / Starlink 1.0-L6               | KSC    | LC39A | S |
+| 2020-03-18 | Falcon 9     | 084/B1048.5 | Starlink 1.0-L5                            | KSC    | LC39A | S |
+| 2020-04-22 | Falcon 9     | 085/B1051.4 | Starlink 1.0-L6                            | KSC    | LC39A | S |
 | 2020-05-30 | Falcon 9     | 086/B1058.1 | Dragon DM-2 / Dragon C206                  | KSC    | LC39A | S |
-| 2020-06-04 | Falcon 9     | 087/B1049.5 | Starlink-8 / Starlink 1.0-L7               | CC     | LC40  | S |
-| 2020-06-13 | Falcon 9     | 088/B1059.3 | Starlink-9 / Starlink 1.0-L8/SkySat        | CC     | LC40  | S |
+| 2020-06-04 | Falcon 9     | 087/B1049.5 | Starlink 1.0-L7                            | CC     | LC40  | S |
+| 2020-06-13 | Falcon 9     | 088/B1059.3 | Starlink 1.0-L8/SkySat                     | CC     | LC40  | S |
 | 2020-06-30 | Falcon 9     | 089/B1060.1 | GPS III SV-03                              | CC     | LC40  | S |
 | 2020-07-20 | Falcon 9     | 090/B1058.2 | ANASIS II / ANASIS-2                       | CC     | LC40  | S |
-| 2020-08-07 | Falcon 9     | 091/B1051.5 | Starlink-10 / Starlink 1.0-L9/BlackSky     | KSC    | LC39A | S |
-| 2020-08-18 | Falcon 9     | 092/B1049.6 | Starlink-11 / Starlink 1.0-L10/SkySat      | CC     | LC40  | S |
+| 2020-08-07 | Falcon 9     | 091/B1051.5 | Starlink 1.0-L9/BlackSky                   | KSC    | LC39A | S |
+| 2020-08-18 | Falcon 9     | 092/B1049.6 | Starlink 1.0-L10/SkySat                    | CC     | LC40  | S |
 | 2020-08-30 | Falcon 9     | 093/B1059.4 | SAOCOM-1B                                  | CC     | LC40  | S |
-| 2020-09-03 | Falcon 9     | 094/B1060.2 | Starlink-12 / Starlink 1.0-L11             | KSC    | LC39A | S |
+| 2020-09-03 | Falcon 9     | 094/B1060.2 | Starlink 1.0-L11                           | KSC    | LC39A | S |
 
 <div class="table-caption">
   <span class="table-number">Tabel 1</span>:

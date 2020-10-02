@@ -6,7 +6,7 @@ draft = false
 
 Ne aflăm la mijlocul anilor ’70, în plin război rece și în era post-Apollo. Cursa spațială s-a încheiat deja, dar cursa înarmării continua și bugetele pentru apărare, atât în SUA cât și în URSS sunt practic nelimitate. Încă dinainte de aselenizare, NASA trasase deja un plan pentru dezvoltarea unui vehicul reutilizabil care să permită accesul frecvent și ieftin la orbita terestră joasă, construirea unei navete spațiale devenind preocuparea principală a agenției spațiale americane. Dar nu doar Statele Unite au avut o navetă spațială.
 
-{{< figure src="/img/buran3.jpg" caption="Imaginea 1: Naveta spațială sovietică Buran și racheta Energia, înainte lansrăii (_sursa foto: buran.ru_)" >}}
+{{< figure src="/img/buran3.jpg" caption="Figure 1: Naveta spațială sovietică Buran și racheta Energia, înainte lansrăii (_sursa foto: buran.ru_)" >}}
 
 
 ## Planuri pentru Buran {#planuri-pentru-buran}
@@ -23,7 +23,7 @@ Planurile inițiale pentru Buran nu cuprindeau însă un vehicul identic cu nave
 
 Exista la un moment dat un plan de a monta pe aripa posterioară a navetei două motoare cu reacție. Ar fi fost o diferență majoră față de navetele americane deoarece aceste motoare nu ar fi permis doar o mai bună manevrabilitate înainte de aterizare (Buran nu ar mai fi fost astfel doar un planor imens care cădea spre pista de lansare, ci un avion controlabil) dar și posibilitatea ca naveta să poată decola singură pentru zboruri atmosferice, eliminând astfel montarea ei pe un alt avion pentru transferul între diversele centre de testare din URSS. Însă această modificare nu a mai avut loc. Motivele sunt diverse: se pare că motoarele nu ar fi fost finalizate pentru zborul inaugural al lui Buran din 1988. Iar montarea lor ar fi dat mai multe bătăi de cap inginerilor: centrul de greutate avea să se modifice, masa navetei ar fi crescut (pe lângă motoare era nevoie de sisteme de protecție a acestora și un rezervor cu combustibil), profilul aerodinamic era altul (inclusiv un stres suplimentar pe coada navetei), aspecte ce necesitau teste suplimentare în tunelul aerodinamic, iar toate aceste inconveniente ar fi amânat și mai mult primul zbor al lui Buran.
 
-{{< figure src="/img/buran2.jpg" caption="Imaginea 2: O variantă a navetei Buran cu motoare cu reacție (_sursa foto: buran.ru_)" >}}
+{{< figure src="/img/buran2.jpg" caption="Figure 2: O variantă a navetei Buran cu motoare cu reacție (_sursa foto: buran.ru_)" >}}
 
 Cinci vehicule trebuiau să fie operaționale în programul Buran. Denumirile lor însă nu au fost niciodată foarte clar stabilite. Dacă vehiculul care a zburat în spațiu este denumit
 

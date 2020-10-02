@@ -15,6 +15,14 @@ Siteul de față reprezintă o colecție personală de materiale, articole și n
 
 Știrile sunt grupate în [[/bul][Buletine Cosmice]] (cu o frecvență aproximativ săptămânală), materiale care conțin detalii despre lansările orbitale, dar și noutăți cu privire la explorarea spațiului cosmic.
 
+** Ultimele lansări orbitale
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
+SELECT to_char(launchDate, 'DD.MM HH24:MI') AS "Data", lv_type AS "Lansator", lv_serial AS "Config", lv_Payload AS "Satelit", ls_state AS "T", lv_name AS "Centru", lv_launchpad AS "Rampă", lv_outcome AS "R.", lv_buletin AS "Bul" 
+  FROM launches
+ORDER BY launchDate DESC
+LIMIT 10
+#+end_src
+
 ** Tabele și articole
 
 + [[/t/l2020][Lista lansărilor orbitale din 2020]];
