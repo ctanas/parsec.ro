@@ -15,7 +15,7 @@ Siteul de față reprezintă o colecție personală de materiale, articole și n
 
 | Data        | Lansator    | Config      | Satelit              | T  | Centru   | Rampă    | R. | Bul            |
 |-------------|-------------|-------------|----------------------|----|----------|----------|----|----------------|
-| 28.09 11:20 | Soyuz-2-1B  |             | Gonets-M             | RU | Plesetsk | 43/3     | S  | [90](/bul/090) |
+| 28.09 11:20 | Soyuz-2.1b  |             | Gonets-M             | RU | Plesetsk | 43/3     | S  | [90](/bul/090) |
 | 27.09 03:23 | CZ-4B       | Y42         | HuanJing-2           | CN | Taiyuan  | LC-9     | S  | [90](/bul/090) |
 | 21.09 05:40 | CZ-4B       | Y41         | HaiYang-2C           | CN | Jiuquan  | SLS-2    | S  | [89](/bul/089) |
 | 15.09 01:23 | CZ-11H      | Y2          | Jilin-1 Gaofen-03B/C | CN | HHAI     | Debo-3   | S  | [88](/bul/088) |
