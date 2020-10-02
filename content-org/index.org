@@ -5127,6 +5127,33 @@ SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD
 :EXPORT_HUGO_SECTION: bul
 :END:
 
+** Buletin Cosmic nr. 90 :venus:marte:spacex:dragon:iss:
+:PROPERTIES:
+:EXPORT_FILE_NAME: 090
+:EXPORT_DATE: 2020-09-30
+:END:
+   
+O echipă de cercetători americani și europeni a săpat în arhivele misiunii americane Pioneer-13, care în 1978 a survolat planeta Venus, și [[https://arxiv.org/abs/2009.12758][a găsit printre datele înregistrate de sondă]] dovezi care confirmă prezența fosfinei în atmosfera planetei vecine. Este prima verificare independentă a rezultatelor comunicate la mijlocul lunii septembrie de o echipă de cercetători britanici, care au folosit telescoape terestre pentru a căuta această moleculă în norii venusieni, moleculă despre care nu cunoaștem încă un alt mod de formare pe Venus altul decât ca rezultat al proceselor metabolice.  
+
+---
+
+Nici cercetătorii care studiază planeta Marte nu s-au lăsat însă mai prejos în aceste zile. În 2018, datele furnizate de sonda europeană Mars Express [[https://www.nature.com/articles/d41586-018-05795-6][sugerau prezența unui lac (cu apă lichidă)]] ascuns sub suprafața planetei Marte. În urmă cu câteva zile [[https://www.nature.com/articles/s41550-020-1200-6][au mai fost descoperite alte trei lacuri subterane]], în vecinătatea celui descoperit în 2018, toate conținând apă sărată, ceea ce ar explica prezența apei lichide în condițiile de temperatură și presiune existente în peșterile marțiene. Lacurile ar putea găzdui și ele forme de viață sau urme ale formelor de viață care ar fi putut exista în trecutul geologic al planetei Marte, dar pot fi și resurse pentru o viitoare colonie marțiană. Deși, una dintre probleme este că aceste lacuri se află la o adâncime de 1.5 km de polul sud marțian, ceea ce le face greu accesibile, atât pentru o viitoare sondă, cât și pentru un eventual echipaj trimis să le investigheze. 
+
+---
+
+Dacă în septembrie 2019, când a fost identificată prima dată, pierderea de aer de la bordul Stației Spațiale Internaționale era de doar 270 grame de aer pe zi, și considerată atunci nesemnificativă, sursa acesteia a rămas neidentificată până în această săptămână și cantitatea de aer pe care ISS o pierde a crescut în aceste zile la 1.4 kilograme de aer/zi. Se pare că sursa scurgerii este situată undeva în modulul rusesc Zvezda, iar acum echipajul încearcă să o identifice mai precis și să ulterior să o oprească.  NASA și Roscosmos a precizat că echipajul se află în afara oricărui pericol, stația având rezerve de aer suficiente pentru a face față acestei scurgeri, dacă ea va continua. O misiune de aprovizionare cu o capsulă Cygnus este programată să decoleze spre ISS în următoarele zile. 
+
+---
+
+Italia a semnat recent [[https://www.nasa.gov/press/2013/june/nasa-and-italian-space-agency-sign-agreement-on-exploration-of-mercury/][un memorandum]] cu NASA, separat de colaborarea dintre Agenția Spațiale Europeană (al cărui membru este) și se pare că va contribui cu 1 miliard de euro la programul Artemis, prin care NASA dorește să revină pe Lună cu un echipaj, în 2024. Asta probabil înseamnă că unul dintre cei doi astronauți italieni cu experiență, Sam Cristoforetti sau Luca Parmitano, vor fi la bordul unei capsule Orion în următorii ani, fie într-un zbor în jurul Lunii (misiunea Artemis II) sau, de ce nu, poate un european va fi membru al echipajului Artemis III. Până la urmă, modulul de serviciu atașat capsulei Orion este dezvoltat și asamblat de Agenția Spațială Europeană. 
+
+---
+
+NASA și SpaceX se pregătesc să lanseze, la sfârșitul lunii octombrie, a doua capsulă Dragon cu echipaj și prima misiune operațională de acest fel, după ce zborul din luna mai a fost considerat un test. De această dată capsula Dragon, botezată Resilience, va găzdui 4 astronauți: Michael Hopkins, Victor Glover, Shannon Walker și Soichi Noguchi, ultimul fiind un reprezentant al agenției spațiale japoneze. Capsula și echipajul urmează să rămână pe orbită timp de 6 luni, iar la câteva săptămâni după lansare, SpaceX va trmite o nouă capsulă Dragon, de această dată doar cu provizii, fiind pentru prima dată când compania lui Elon Musk folosește o capsulă Dragon de nouă generație pentru aprovizionarea stației spațiale. Acest lucru înseamnă că pentru o bună perioadă de timp, la ISS vor fi andocate simultan două capsule Dragon. SpaceX plănuiește 7 misiuni Dragon în următoarele 14 luni, 3 cu echipaj și 4 cargo. 
+
+#+CAPTION: Capsula Dragon 2, carianta cargo, care urmează să fie folosită începând din acest an pentru aprovizionarea Stației Spațiale Internaționale.
+[[/img/dragon2cargo.jpg]]
+
 ** Buletin Cosmic nr. 89 :artemis:nasa:venus:cz4b:
 :PROPERTIES:
 :EXPORT_FILE_NAME: 089
