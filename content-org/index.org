@@ -109,10 +109,10 @@ Materialele care nu mai au un caracter de noutate (și care probabil nu vor mai 
 
 
 * FAQ
-  :PROPERTIES:
-  :EXPORT_HUGO_SECTION: /
-  :EXPORT_FILE_NAME: faq
-  :END:
+:PROPERTIES:
+:EXPORT_HUGO_SECTION: /
+:EXPORT_FILE_NAME: faq
+:END:
 
 ** Ce reprezintă un parsec?
 
@@ -810,7 +810,6 @@ order by lv_type
 - SSO :: orbită heliosincronă (aprox. 500 km, înclinație 97.7 grade)
 - GTO :: orbită geostaționară de transfer (spre orbita geostaționară --GEO, cu apogeul la 35786 km) 
 
-
 ** Soyuz-2
 :PROPERTIES:
 :EXPORT_FILE_NAME: soyuz-2
@@ -1067,8 +1066,8 @@ Competitorul direct al Athenei este Minotaur, construită și operată de Orbita
 
 ** Soyuz-FG
 :PROPERTIES:
-  :EXPORT_FILE_NAME: soyuz-fg
-  :END:
+:EXPORT_FILE_NAME: soyuz-fg
+:END:
 
 Lansarea capsulei Soyuz MS-15 nu marchează doar a 70-a și ultima lansare a rachetei Soyuz-FG, dar este probabil și ultima lansare de pe rampa 1/5 de la Baikonur, de unde a fost lansat primul satelit artificial Sputnik, dar și primul om în spațiu, Iuri Gagarin.
 
@@ -1093,9 +1092,8 @@ Soyuz-2, folosită începând cu 2006, vine însă în două variante: Soyuz-2.1
 :EXPORT_FILE_NAME: falcon9 
 :END:
 
-#+name: falcon9
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
-SELECT DISTINCT ON (launchJDate) launchJDate AS "Data", lv_type AS "Racheta", lv_serial AS "Nr. serial", lv_Payload as "Satelit primar", lv_name as "Centru", lv_launchPad as "Rampă", sat_orbitClass as "Orbită", lv_outcome as "R"
+SELECT DISTINCT ON (launchJDate) launchJDate AS "Data", lv_type AS "Racheta", lv_serial AS "Tip", lv_Payload AS "Satelit primar", lv_name AS "Centru", lv_launchPad AS "Rampă", lv_outcome AS "R"
 FROM launches
 WHERE lv_type LIKE ('Falcon%')
 #+end_src
@@ -1161,7 +1159,6 @@ WHERE lv_type LIKE ('Falcon%')
 | B1061.1 | ??.08.2020 | Dragon USCV-1  | ???              | Falcon 9   |
 |---------+------------+----------------+------------------+------------|
 | B1062.1 | ??.??.202? | GPS3-SV04      | ???              | Falcon 9   |
-
 
 **** Abrevieri
 
@@ -1353,7 +1350,7 @@ Epsilon-S va reprezenta un upgrade substabțial al rachetei, cu modificări ale 
 
 #+name: deltaivheavy1
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
-SELECT DISTINCT ON (launchJDate) launchJDate AS "Data", lv_type AS "Racheta", lv_serial AS "Nr. serial", lv_Payload as "Satelit primar", lv_name as "Centru", lv_launchPad as "Rampă", sat_orbitClass as "Orbită", lv_outcome as "R"
+SELECT DISTINCT ON (launchJDate) launchJDate AS "Data", lv_type AS "Racheta", lv_serial AS "Nr. serial", lv_Payload as "Satelit primar", lv_name as "Centru", lv_launchPad as "Rampă", lv_outcome as "R"
 FROM launches
 WHERE lv_type LIKE ('Delta 4H%')
 #+end_src
@@ -1372,7 +1369,6 @@ WHERE lv_type LIKE ('Delta 4H%')
 | 2016-06-11 | Delta 4H           | D4-32/D374 | USA 268 (ORION 9?)  | CC     | SLC37B | GEO/I  | S |
 | 2018-08-12 | Delta 4H/Star 48BV | D4-37/D380 | Parker Solar Probe  | CC     | SLC37B | EEO    | S |
 | 2019-01-19 | Delta 4H           | D4-38/D382 | USA 290             | SVAFB  | SLC6   | LLEO/I | S |
-
 
 ** Lansări orbitale (arhivă)
 *** Lansări orbitale 2020
@@ -5149,7 +5145,7 @@ Nu știm încă dacă precizia instrumentului este însă suficientă pentru det
 
 ---
 
-Doar o singură lansare orbitală a avut loc în ultima săptămână: o rachetă Changzheng-4B a plasat pe orbită satelitul Haiyang-2C destinat observațiilor oceanice. Lansarea a avut loc de la centrul spațial Jiuquan și a fost a 28-a lansare orbitală a Chinei în acest an, devansând astfel Statele Unite, care au doar 27 de lansări orbitale. China conduce și în clasamentul lansărilor eșuate, 4, față de 3 rachete americane care nu au ajuns pe orbită în acest an. Statele Unite au șansa să treacă din nou pe prima poziție a clasamentului dacă cele două lansări programate pentru acest sfârșit de săptămână vor avea loc: lansarea rachetei Delta IV Heavy cu satelitul de spionaj NROL-44 și o rachetă FDalcon 9 cu nou set de sateliți Starlink, ambele lansări fiind programate să aibă loc din Florida. Prima treaptă a rachetei Changzheng-4B a fost dotată cu patru aripioare manevrabile, asemănătoare cu cele ale rachetei Falcon 9, dar care nu sunt folosite pentru aterizarea primeri trepte ci pentru un mai bun control în timpul revenirii prin atmosferă a acesteia și pentru evitarea prăbușirii deasupra zonelor populate, una dintre aceste aripioare fiind recuperate dintr-o lansare anterioară.
+Doar o singură lansare orbitală a avut loc în ultima săptămână: o rachetă Changzheng-4B a plasat pe orbită satelitul Haiyang-2C destinat observațiilor oceanice. Lansarea a avut loc de la centrul spațial Jiuquan și a fost a 28-a lansare orbitală a Chinei în acest an, devansând astfel Statele Unite, care au doar 27 de lansări orbitale. China conduce și în clasamentul lansărilor eșuate, 4, față de 3 rachete americane care nu au ajuns pe orbită în acest an. Statele Unite au șansa să treacă din nou pe prima poziție a clasamentului dacă cele două lansări programate pentru acest sfârșit de săptămână vor avea loc: lansarea rachetei Delta IV Heavy cu satelitul de spionaj NROL-44 și o rachetă Falcon 9 cu nou set de sateliți Starlink, ambele lansări fiind programate să aibă loc din Florida. Prima treaptă a rachetei Changzheng-4B a fost dotată cu patru aripioare manevrabile, asemănătoare cu cele ale rachetei Falcon 9, dar care nu sunt folosite pentru aterizarea primeri trepte ci pentru un mai bun control în timpul revenirii prin atmosferă a acesteia și pentru evitarea prăbușirii deasupra zonelor populate, una dintre aceste aripioare fiind recuperate dintr-o lansare anterioară.
 
 ** Buletin Cosmic nr. 88 :venus:astra:kuaizhou:cz11:
 :PROPERTIES:
