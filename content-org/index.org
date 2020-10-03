@@ -23,6 +23,8 @@ ORDER BY launchDate DESC
 LIMIT 10
 #+end_src
 
+Detalii cu privire la informațiile din tabel, pot fi găsite în secțiunea [[/t/legenda_tabele][Legendă tabele]]. Data și ora sunt UTC.
+
 ** Tabele și articole
 
 + [[/t/l2020][Lista lansărilor orbitale din 2020]];
@@ -2628,7 +2630,7 @@ Marius Trusculescu, unul din membri echipei Goliat, primul satelit românesc, a 
 
 Tabelele cu lansări urmează în general structura detaliată mai jos. Datele istorice, precedente lunii septembrie 2020, sunt extrase din [[https://planet4589.org/space/gcat/][GCAT: General Catalog of Artificial Space Objects]] și prelucrate pentru a afișa următoarele informații pe care eu le consider esențiale pentru o tentativă de lansare orbitală: data și ora, vehiculul folosit, misiunea, țara și locul lansării. Datele ulterioare septembrie 2020 sunt menținute în paralel (și din când în când verificate cu cele din GCAT :)
 
-- Coloana 1 (Nr.) :: --numărul tentativei de lansare orbitală din anul curent, fie că este una reușită, fie că nu; sunt luate în considerare doar lansările orbitale, iar dacă o rachetă a explodat pe rampa de lansare înaintea unei lansări orbitale, nu este luată în considerare. 
+- Coloana 1 (Nr.) :: --(/dacă este prezentă/) numărul tentativei de lansare orbitală din anul curent, fie că este una reușită, fie că nu; sunt luate în considerare doar lansările orbitale, iar dacă o rachetă a explodat pe rampa de lansare înaintea unei lansări orbitale, nu este luată în considerare. 
 - Coloana 2 (Data) :: --data și ora lansării (UTC).
 - Coloana 3 (Lansator) :: --vehiculul folosit pentru lansare, uneori fiind specificată și trepta secundară folosită.
 - Coloana 4 (Satelit) :: --denumirea zborului, a misiunii sau a încărcăturii principale; de cele mai multe ori, misiunea primește un al nume după lansare sau pur și simplu are două nume, motiv pentru care denumirile sunt despărțite prin "/".

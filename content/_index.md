@@ -26,6 +26,8 @@ Siteul de față reprezintă o colecție personală de materiale, articole și n
 | 04.09 07:30 | CZ-2F        | T3          | CSSHQ                          | CN | Jiuquan  | Pad 921? | S  | [87](/bul/087) |
 | 03.09 12:46 | Falcon 9     | 094/B1060.2 | Starlink 1.0-L11               | US | KSC      | LC39A    | S  | [87](/bul/087) |
 
+Detalii cu privire la informațiile din tabel, pot fi găsite în secțiunea [Legendă tabele](/t/legenda_tabele). Data și ora sunt UTC.
+
 
 ## Tabele și articole {#tabele-și-articole}
 

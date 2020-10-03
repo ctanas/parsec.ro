@@ -7,7 +7,7 @@ draft = false
 Tabelele cu lansări urmează în general structura detaliată mai jos. Datele istorice, precedente lunii septembrie 2020, sunt extrase din [GCAT: General Catalog of Artificial Space Objects](https://planet4589.org/space/gcat/) și prelucrate pentru a afișa următoarele informații pe care eu le consider esențiale pentru o tentativă de lansare orbitală: data și ora, vehiculul folosit, misiunea, țara și locul lansării. Datele ulterioare septembrie 2020 sunt menținute în paralel (și din când în când verificate cu cele din GCAT :)
 
 Coloana 1 (Nr.)
-: --numărul tentativei de lansare orbitală din anul curent, fie că este una reușită, fie că nu; sunt luate în considerare doar lansările orbitale, iar dacă o rachetă a explodat pe rampa de lansare înaintea unei lansări orbitale, nu este luată în considerare.
+: --(_dacă este prezentă_) numărul tentativei de lansare orbitală din anul curent, fie că este una reușită, fie că nu; sunt luate în considerare doar lansările orbitale, iar dacă o rachetă a explodat pe rampa de lansare înaintea unei lansări orbitale, nu este luată în considerare.
 
 Coloana 2 (Data)
 : --data și ora lansării (UTC).
