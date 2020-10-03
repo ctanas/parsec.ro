@@ -13,18 +13,18 @@ Siteul de față reprezintă o colecție personală de materiale, articole și n
 
 ## Ultimele lansări orbitale {#ultimele-lansări-orbitale}
 
-| Data        | Lansator    | Config      | Satelit              | T  | Centru   | Rampă    | R. | Bul            |
-|-------------|-------------|-------------|----------------------|----|----------|----------|----|----------------|
-| 28.09 11:20 | Soyuz-2.1b  |             | Gonets-M             | RU | Plesetsk | 43/3     | S  | [90](/bul/090) |
-| 27.09 03:23 | CZ-4B       | Y42         | HuanJing-2           | CN | Taiyuan  | LC-9     | S  | [90](/bul/090) |
-| 21.09 05:40 | CZ-4B       | Y41         | HaiYang-2C           | CN | Jiuquan  | SLS-2    | S  | [89](/bul/089) |
-| 15.09 01:23 | CZ-11H      | Y2          | Jilin-1 Gaofen-03B/C | CN | HHAI     | Debo-3   | S  | [88](/bul/088) |
-| 12.09 05:02 | Kuaizhou 1A | Y3          | Jilin-1 Gaofen-02C   | CN | Jiuquan  | SLS-2    | F  | [88](/bul/088) |
-| 12.09 03:19 | Rocket 3.1  |             | (Test)               | US | Kodiak   | LP-3B    | F  | [88](/bul/088) |
-| 07.09 05:57 | CZ-4B       | Y46         | Gao Fen 11-02        | CN | Taiyuan  | LC9      | S  | [88](/bul/088) |
-| 04.09 07:30 | CZ-2F       | T3          | CSSHQ                | CN | Jiuquan  | Pad 921? | S  | [87](/bul/087) |
-| 03.09 12:46 | Falcon 9    | 094/B1060.2 | Starlink 1.0-L11     | US | KSC      | LC39A    | S  | [87](/bul/087) |
-| 03.09 01:51 | Vega        | VV16        | SSMS                 | EU | Kourou   | ZLV      | S  | [87](/bul/087) |
+| Data        | Lansator     | Config      | Satelit                        | T  | Centru   | Rampă    | R. | Bul            |
+|-------------|--------------|-------------|--------------------------------|----|----------|----------|----|----------------|
+| 03.10 01:16 | Antares-230+ |             | Cygnus NG-14 SS Kalpana Chawla | US | Wallops  | LP-0A    | S  | [91](/bul/091) |
+| 28.09 11:20 | Soyuz-2.1b   |             | Gonets-M                       | RU | Plesetsk | 43/3     | S  | [90](/bul/090) |
+| 27.09 03:23 | CZ-4B        | Y42         | HuanJing-2                     | CN | Taiyuan  | LC-9     | S  | [90](/bul/090) |
+| 21.09 05:40 | CZ-4B        | Y41         | HaiYang-2C                     | CN | Jiuquan  | SLS-2    | S  | [89](/bul/089) |
+| 15.09 01:23 | CZ-11H       | Y2          | Jilin-1 Gaofen-03B             | CN | HHAI     | Debo-3   | S  | [88](/bul/088) |
+| 12.09 05:02 | Kuaizhou 1A  | Y3          | Jilin-1 Gaofen-02C             | CN | Jiuquan  | SLS-2    | F  | [88](/bul/088) |
+| 12.09 03:19 | Rocket 3.1   |             | (Test)                         | US | Kodiak   | LP-3B    | F  | [88](/bul/088) |
+| 07.09 05:57 | CZ-4B        | Y46         | Gao Fen 11-02                  | CN | Taiyuan  | LC9      | S  | [88](/bul/088) |
+| 04.09 07:30 | CZ-2F        | T3          | CSSHQ                          | CN | Jiuquan  | Pad 921? | S  | [87](/bul/087) |
+| 03.09 12:46 | Falcon 9     | 094/B1060.2 | Starlink 1.0-L11               | US | KSC      | LC39A    | S  | [87](/bul/087) |
 
 
 ## Tabele și articole {#tabele-și-articole}
