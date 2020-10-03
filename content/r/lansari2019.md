@@ -109,7 +109,7 @@ draft = false
 | 2   | 11.01 | 1531 | Falcon 9         | Iridium 66-75  | SUA     | VAFB SLC-4E     | LEO   | Succes        |
 | 1   | 10.01 | 1705 | Changzheng-3B/E  | Chinasat-2D    | China   | Xichang LC-2    | GEO   | Succes        |
 
-{{< figure src="/img/fh2019.jpg" caption="Imaginea 1: Lansarea Falcon Heavy din 11 aprilie 2019 cu satelitul de telecomunicații Arabsat-6A (_Foto: SpaceX_)" >}}
+{{< figure src="/img/fh2019.jpg" caption="Figure 1: Lansarea Falcon Heavy din 11 aprilie 2019 cu satelitul de telecomunicații Arabsat-6A (_Foto: SpaceX_)" >}}
 
 
 ## Abrevieri folosite în tabele {#abrevieri-folosite-în-tabele}

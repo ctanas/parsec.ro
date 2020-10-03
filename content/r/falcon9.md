@@ -131,6 +131,7 @@ draft = false
 | B1049.3 | 24.05.2019 | Starlink v.0.9 | OCISLY        | Falcon 9   |
 | B1049.4 | 07.01.2020 | Starlink-2     | OCISLY        | Falcon 9   |
 | B1049.5 | 04.06.2020 | Starlink-7     | JRTI          | Falcon 9   |
+| B1049.6 | 18.08.2020 | Starlink-10    | OCISLY        | Falcon 9   |
 | B1050.1 | 05.12.2018 | Dragon CRS-16  | (LZ1)[^fn:2]  | Falcon 9   |
 | B1051.1 | 09.03.2019 | Dragon DM-1    | OCISLY        | Falcon 9   |
 | B1051.2 | 12.06.2019 | RADARSAT       | LZ-4          | Falcon 9   |
@@ -150,12 +151,17 @@ draft = false
 | B1057.1 | 25.06.2019 | STP-2          | N/A[^fn:6]    | FH centru  |
 | B1058.1 | 30.05.2020 | Dragon DM-2    | OCISLY        | Falcon 9   |
 | B1058.2 | 21.07.2020 | Anasis-II      | JRI           | Falcon 9   |
+| B1058.3 | ??.10.2020 | Starlink-12    | OCISLY?       | Falcon 9   |
 | B1059.1 | 05.12.2019 | Dragon CRS-19  | OCISLY        | Falcon 9   |
 | B1059.2 | 07.03.2020 | Dragon CRS-20  | LZ-1          | Falcon 9   |
 | B1059.3 | 13.06.2020 | Starlink-8     | OCISLY        | Falcon 9   |
+| B1059.4 | 30.08.2020 | SACOCOM-1B     | LZ-1          | Falcon 9   |
 | B1060.1 | 30.06.2020 | GPS3-SV03      | JRI           | Falcon 9   |
-| B1061.1 | ??.08.2020 | Dragon USCV-1  | ???           | Falcon 9   |
-| B1062.1 | ??.??.202? | GPS3-SV04      | ???           | Falcon 9   |
+| B1060.2 | 03.09.2020 | Starlink-11    | OCISLY        | Falcon 9   |
+| B1061.1 | ??.10.2020 | Dragon USCV-1  | ???           | Falcon 9   |
+| B1062.1 | ??.10.2020 | GPS3-SV04      | ???           | Falcon 9   |
+| B1062.2 | ??.??.2021 | GPS3-SV05      | ???           | Falcon 9   |
+| B1063.1 | ??.??.2020 | Sentinel-1     | ???           | Falcon 9   |
 
 
 ## Abrevieri {#abrevieri}

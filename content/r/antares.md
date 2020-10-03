@@ -18,11 +18,11 @@ Pentru al cincilea zbor, din 28 octombrie 2014, Orbital ATK folosește varianta 
 
 Sâmbătă, 15 februarie 2020, o nouă lansare Antares-230+ a urcat pe orbită o capsulă Cygnus, încărcată cu peste 3 tone de provizii și echipamente științifice pentru echipajul Stației Spațiale Internaționale. Lansarea a avut loc de pe rampa LP-0A de la complexul Wallops din Virgina. Capsula Cygnus NG-13 _S.S. Robert H. Lawrence_ a ajuns în vecinătatea ISS în cursul zilei de marți, 18 februarie, de unde a fost capturată de echipaj folosind brațul robotic al stației și atașată modulului Unity, unde va petrece următoarele aproximativ 3 luni, până în 11 mai 2020, când este programată decuplarea de ISS. Lansarea a fost amânată de două ori, în 9 februarie din cauza unei probleme cu un echipament de la sol, iar a doua oară, în 14 februarie, din cauza vânturilor puternice de la altitudine înaltă (motivul pentru care o lansare în 13 februarie nici nu a mai fost luată în considerare). Northrop Grumann a specificat că misiunea a fost lansată cu două luni mai devreme decât fusese inițial planificată, la solicitarea NASA.
 
-{{< figure src="/img/antaresx.jpg" caption="Imaginea 1: Explozia rachetei Antares-130, la 6 secunde după lansare, datorită unor probleme a pompei motoarelor AJ26-62. Sursa foto: NASA." >}}
+{{< figure src="/img/antaresx.jpg" caption="Figure 1: Explozia rachetei Antares-130, la 6 secunde după lansare, datorită unor probleme a pompei motoarelor AJ26-62. Sursa foto: NASA." >}}
 
 A șasea rachetă Antares înlocuiește motoarele derivate din NK-33 cu motoarele RD-181 (derivate din RD-191) și această variantă se numește **Antares-230** (treapta secundară Castor-30XL este păstrată). Capsula Cygnus primește și ea un upgrade (volum intern mai mare, panouri solare mai ușoare și rotunde, 700 kg creștere a masei utile care poate fi lansată pe orbită). Este priam astfel de capsulă lansată de o rachetă Antares, dar a treia capsulă Cygnus de nouă generație, primele două variante îmbunătățite fiind lansate de câte o rachetă Atlas V, pentru ca Orbital ATK să își poată susține obligațiile contractuale cu NASA și să nu existe o discontinuitate în aprovizionarea ISS. Cygnus CRS OA-5 "Alan G. Poindexter", încărcată cu 2425 de kilograme de provizii, este lansată în 17 octombrie 2017 și este cuplată cu ISS șase zile mai târziu.
 
-{{< figure src="/img/cygnusoa6.jpg" caption="Imaginea 2: Capsula Cygnus OA-6, înainte de a fi capturată folosind brațul robotic CanadArm-2 al Stației Spațiale Internaționale (26.03.2016). _Sursa foto: [NASA](https://www.flickr.com/photos/nasa2explore/26099981645/)_." >}}
+{{< figure src="/img/cygnusoa6.jpg" caption="Figure 2: Capsula Cygnus OA-6, înainte de a fi capturată folosind brațul robotic CanadArm-2 al Stației Spațiale Internaționale (26.03.2016). _Sursa foto: [NASA](https://www.flickr.com/photos/nasa2explore/26099981645/)_." >}}
 
 Următoarele misiuni Antares sunt în continuare dedicate exclusiv lansării capsulei Cygnus și folosesc doar varianta Antares-230, deși mai este intercalată încă o lansare cu racheta Atlas V. În ultimul timp, capsulele Cygnus, după desprinderea de ISS, au rămas din ce în ce mai mult timp pe orbită, înainte de a reveni distructiv prin atmosferă, pentru a derula o serie din ce în ce mai complexă de experimente științifice. Cea mai recentă capsulă Cygnus, NG-10, a rămas o lună de zile pe orbită, înainte de finalul misiunii.
 
@@ -48,7 +48,8 @@ Misiunea NG-12, parte a CRS2 (a doua parte a contractului de aprovizionare comer
 | OA-9E   | 21.05.2018   | A-230    | RD-181   | C-30XL    | 24.05.2018   | 3350     | 15.07.2018   | 30.07.2018   | Unity   | Succ.   |
 | NG-10   | 17.11.2018   | A-230    | RD-181   | C-30XL    | 19.11.2018   | 3350     | 08.02.2018   | 25.02.2019   | Unity   | Succ.   |
 | NG-11   | 17.04.2019   | A-230    | RD-181   | C-30XL    | 19.04.2019   | 3436     | 06.08.2019   | 06.09.2019   | Unity   | Succ.   |
-| NG-12   | 02.11.2019   | A-230+   | RD-181   | C-30XL    | 04.11.2019   | 3750     | 31.01.2020   |              | Unity   | Succ.   |
-| NG-13   | 15.02.2020   | A-230+   | RD-181   | C-30XL    | 18.02.2020   | 3377     | 11.05.2020   |              | Unity   | Succ.   |
+| NG-12   | 02.11.2019   | A-230+   | RD-181   | C-30XL    | 04.11.2019   | 3750     | 31.01.2020   | 17.03.2020   | Unity   | Succ.   |
+| NG-13   | 15.02.2020   | A-230+   | RD-181   | C-30XL    | 18.02.2020   | 3377     | 11.05.2020   | 29.05.2020   | Unity   | Succ.   |
+| NG-14   | 03.10.2020   | A-230+   | RD-181   | C-30XL    | 05.10.2020   | 3519     | ??.12.2020   |              | Unity   | Succ.   |
 
 [^fn:1]: _Orbital Sciences_ a fost fondată în 1982 și în 2014 a fuzionat cu _Alliant Techsystems_ (ATK), formând compania _Orbital ATK_, care a funcționat ca atare până în 2017, când _Northrop Grumman_ a cumpărat _Orbital ATK_, astfel că fosta companie a ajuns o divizie în cadrul _Northrop Grumman_, denumită _Nortrop Grumman Innovation System_ (NGIS).

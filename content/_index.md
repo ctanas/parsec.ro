@@ -13,7 +13,7 @@ Siteul de față reprezintă o colecție personală de materiale, articole și n
 
 ## Ultimele lansări orbitale {#ultimele-lansări-orbitale}
 
-| Data        | Lansator     | Config      | Satelit                        | T  | Centru   | Rampă    | R. | Bul            |
+| Data        | Lansator     | Serie       | Satelit                        | T  | Centru   | Rampă    | R. | Bul            |
 |-------------|--------------|-------------|--------------------------------|----|----------|----------|----|----------------|
 | 03.10 01:16 | Antares-230+ |             | Cygnus NG-14 SS Kalpana Chawla | US | Wallops  | LP-0A    | S  | [91](/bul/091) |
 | 28.09 11:20 | Soyuz-2.1b   |             | Gonets-M                       | RU | Plesetsk | 43/3     | S  | [90](/bul/090) |

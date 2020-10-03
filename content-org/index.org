@@ -17,7 +17,7 @@ Siteul de față reprezintă o colecție personală de materiale, articole și n
 
 ** Ultimele lansări orbitale
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
-SELECT to_char(launchDate, 'DD.MM HH24:MI') AS "Data", lv_type AS "Lansator", lv_serial AS "Config", lv_Payload AS "Satelit", ls_state AS "T", lv_name AS "Centru", lv_launchpad AS "Rampă", lv_outcome AS "R.", lv_buletin AS "Bul" 
+SELECT to_char(launchDate, 'DD.MM HH24:MI') AS "Data", lv_type AS "Lansator", lv_serial AS "Serie", lv_Payload AS "Satelit", ls_state AS "T", lv_name AS "Centru", lv_launchpad AS "Rampă", lv_outcome AS "R.", lv_buletin AS "Bul" 
   FROM launches
 ORDER BY launchDate DESC
 LIMIT 10
@@ -1040,8 +1040,9 @@ Misiunea NG-12, parte a CRS2 (a doua parte a contractului de aprovizionare comer
 | OA-9E   | 21.05.2018 | A-230   | RD-181  | C-30XL  | 24.05.2018 |     3350 | 15.07.2018 | 30.07.2018 | Unity   | Succ. |
 | NG-10   | 17.11.2018 | A-230   | RD-181  | C-30XL  | 19.11.2018 |     3350 | 08.02.2018 | 25.02.2019 | Unity   | Succ. |
 | NG-11   | 17.04.2019 | A-230   | RD-181  | C-30XL  | 19.04.2019 |     3436 | 06.08.2019 | 06.09.2019 | Unity   | Succ. |
-| NG-12   | 02.11.2019 | A-230+  | RD-181  | C-30XL  | 04.11.2019 |     3750 | 31.01.2020 |            | Unity   | Succ. |
-| NG-13   | 15.02.2020 | A-230+  | RD-181  | C-30XL  | 18.02.2020 |     3377 | 11.05.2020 |            | Unity   | Succ. |
+| NG-12   | 02.11.2019 | A-230+  | RD-181  | C-30XL  | 04.11.2019 |     3750 | 31.01.2020 | 17.03.2020 | Unity   | Succ. |
+| NG-13   | 15.02.2020 | A-230+  | RD-181  | C-30XL  | 18.02.2020 |     3377 | 11.05.2020 | 29.05.2020 | Unity   | Succ. |
+| NG-14   | 03.10.2020 | A-230+  | RD-181  | C-30XL  | 05.10.2020 |     3519 | ??.12.2020 |            | Unity   | Succ. |
 
 [fn:ant1] /Orbital Sciences/ a fost fondată în 1982 și în 2014 a fuzionat cu /Alliant Techsystems/ (ATK), formând compania /Orbital ATK/, care a funcționat ca atare până în 2017, când /Northrop Grumman/ a cumpărat /Orbital ATK/, astfel că fosta companie a ajuns o divizie în cadrul /Northrop Grumman/, denumită /Nortrop Grumman Innovation System/ (NGIS).
 
@@ -1129,6 +1130,7 @@ WHERE lv_type LIKE ('Falcon%')
 | B1049.3 | 24.05.2019 | Starlink v.0.9 | OCISLY           | Falcon 9   |
 | B1049.4 | 07.01.2020 | Starlink-2     | OCISLY           | Falcon 9   |
 | B1049.5 | 04.06.2020 | Starlink-7     | JRTI             | Falcon 9   |
+| B1049.6 | 18.08.2020 | Starlink-10    | OCISLY           | Falcon 9   |
 |---------+------------+----------------+------------------+------------|
 | B1050.1 | 05.12.2018 | Dragon CRS-16  | (LZ1)[fn:B1050]  | Falcon 9   |
 |---------+------------+----------------+------------------+------------|
@@ -1157,16 +1159,22 @@ WHERE lv_type LIKE ('Falcon%')
 |---------+------------+----------------+------------------+------------|
 | B1058.1 | 30.05.2020 | Dragon DM-2    | OCISLY           | Falcon 9   |
 | B1058.2 | 21.07.2020 | Anasis-II      | JRI              | Falcon 9   |
+| B1058.3 | ??.10.2020 | Starlink-12    | OCISLY?          | Falcon 9   |
 |---------+------------+----------------+------------------+------------|
 | B1059.1 | 05.12.2019 | Dragon CRS-19  | OCISLY           | Falcon 9   |
 | B1059.2 | 07.03.2020 | Dragon CRS-20  | LZ-1             | Falcon 9   |
 | B1059.3 | 13.06.2020 | Starlink-8     | OCISLY           | Falcon 9   |
+| B1059.4 | 30.08.2020 | SACOCOM-1B     | LZ-1             | Falcon 9   |
 |---------+------------+----------------+------------------+------------|
 | B1060.1 | 30.06.2020 | GPS3-SV03      | JRI              | Falcon 9   |
+| B1060.2 | 03.09.2020 | Starlink-11    | OCISLY           | Falcon 9   |
 |---------+------------+----------------+------------------+------------|
-| B1061.1 | ??.08.2020 | Dragon USCV-1  | ???              | Falcon 9   |
+| B1061.1 | ??.10.2020 | Dragon USCV-1  | ???              | Falcon 9   |
 |---------+------------+----------------+------------------+------------|
-| B1062.1 | ??.??.202? | GPS3-SV04      | ???              | Falcon 9   |
+| B1062.1 | ??.10.2020 | GPS3-SV04      | ???              | Falcon 9   |
+| B1062.2 | ??.??.2021 | GPS3-SV05      | ???              | Falcon 9   |
+|---------+------------+----------------+------------------+------------|
+| B1063.1 | ??.??.2020 | Sentinel-1     | ???              | Falcon 9   |
 
 **** Abrevieri
 
