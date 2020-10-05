@@ -4,11 +4,17 @@ author = ["Claudiu"]
 draft = false
 +++
 
+05.09.2020
+: Capsula Cygnus NG-14 a fost cuplată cu modulul _Unity_
+
 18.08.2020
 : Vehiculul HTV-9 a fost desprins de ISS și a revenit distructiv prin atmosferă.
 
 02.08.2020
 : Capsula Crew Dragon "Endeavour" s-a desprins de modulul _Harmony_ și a revenit pe Pământ;
+
+23.07.2020
+: Progress MS-15 andochează cu modulul _Pirs;_
 
 16.07.2020
 : EVA-230 (6 ore): Cassidy și Behnken, pentru schimbarea bateriilor ISS;
@@ -26,7 +32,7 @@ draft = false
 : Capsula Crew Dragon "Endeavour" se cuplează la modulul _Harmony_ și Bob Behnken și Doug Hurley se alătură echipajului expediției 63;
 
 25.05.2020
-: Vehiculul HTV-9 a fost cuplat cu modulul Harmony al ISS;
+: Vehiculul HTV-9 a fost cuplat cu modulul _Harmony_ al ISS;
 
 10.05.2020
 : Capsula Cygnus NG-13 se desprinde de modulul _Unity_;

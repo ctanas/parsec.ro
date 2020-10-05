@@ -26,9 +26,10 @@ Construcția ISS a însemnat asamblare pe orbită a [modulelor componente](<http
 
 | Vehicul        | Lansare    | Rachetă     | Port   | Sosire     | Plecare    | Recuperare |
 |----------------|------------|-------------|--------|------------|------------|------------|
-| Cygnus NG-13   | 15.02.2020 | Antares-230 | Unity  | 18.02.2020 | 11.05.2020 | NU         |
-| Soyuz MS-16    | 09.04.2020 | Soyuz-2.1a  | Poisk  | 09.04.2020 | xx.10.2020 | DA         |
-| Progress MS-14 | 25.04.2020 | Soyuz-2.1a  | Zvezda | 25.04.2020 | xx.10.2020 | NU         |
+| Cygnus NG-14   | 03.10.2020 | Antares-230 | Unity  | 05.10.2020 | xx.12.2020 | NU         |
+| Progress MS-14 | 25.04.2020 | Soyuz-2.1a  | Zvezda | 25.04.2020 | xx.12.2020 | NU         |
+| Progress MS-15 | 23.07.2020 | Soyuz-2.1a  | Pirs   | 23.07.2020 | xx.xx.2020 | NU         |
+| Soyuz MS-16    | 09.04.2020 | Soyuz-2.1a  | poisk  | 09.04.2020 | xx.xx.2020 | DA         |
 
 
 ## Câți astronauți sunt de obicei la bordul ISS? {#câți-astronauți-sunt-de-obicei-la-bordul-iss}
