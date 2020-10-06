@@ -17,7 +17,7 @@ Lansările Epsilon au loc de la centrul spațial Uchinoura, folosit pentru foste
 Epsilon-S va reprezenta un upgrade substabțial al rachetei, cu modificări ale treptelor 1 și 3, dar și ale conului protector sau ale softului de la bord, pentru a armoniza integrarea cu viitoarea rachetă H3. Astfel, prima treaptă Epsilon-S va fi chiar boosterul auxialiar cu combustibil solid folosit și pentru racheta H3, denumit SRB-3, iar a treia treaptă va avea o cantitate dublă de combustibil față de versiunea precedentă Epsilon-2[^fn:3]. Prima lansare Epsilon-S este programată pentru 2023, când racheta va lansa satelitul Vietnamez LOTUSat-1[^fn:4]. Epsilon-S va putea lansa 600 de kilograme la maximum 700 km (orbită heliosincronă) sau 1400 kg la 500 km altitudine.
 
 <div class="table-caption">
-  <span class="table-number">Tabel 1</span>:
+  <span class="table-number">Table 1</span>:
   Lista lansărilor rachetei Epsilon
 </div>
 

@@ -49,7 +49,7 @@ Dezvoltată oarecum în paralel cu PSLV, GSLV renunță la propulsoarele auxilia
 Din 2014, GSLV Mark II a avut șase lansări fără probleme, aproximativ câte una în fiecare an, urcând pe orbită geostaționară sateliții indieni GSAT-14, GSAT-16, INSAT-3DR, GSAT-9, GSAT-6A și GSAT-7A (ultimele două lansări folosind o variantă îmbunătățită a motorului Vikas), fiecare cu o masă de aproximativ 2 tone.
 
 <div class="table-caption">
-  <span class="table-number">Tabel 1</span>:
+  <span class="table-number">Table 1</span>:
   Lista lansărilor GSLV Mk.I și Mk.II. Toate lansările au fost spre GTO.
 </div>
 
@@ -79,7 +79,7 @@ Deși numele pare să indice o nouă iterație a rachetei GSLV Mark II, GSLV Mar
 GSLV Mark III a funcționat până acum fără probleme: nu a avut mai mult de patru zboruri, dar India a scăpat de blestemul primelor lansări eșuate ale unei rachete noi. Este de departe cel mai puternic lansator de care dispune India, putând lansa peste 3 tone pe orbită geostaționară (cu mult sub posibilitățile Ariane 5, de pildă, care poate lansa sateliți de trei ori mai grei) și până acum a avut două zboruri, amebele încheiate cu succes, deși primul, care a avut loc în 2014, a fost unul suborbital (încărcătura de la bord nu a ajuns să fie plasată pe orbită). Ritmul pe care ISRO speră să-l poată menține este de aproximativ o lansare GSLV Mark III pe an.
 
 <div class="table-caption">
-  <span class="table-number">Tabel 2</span>:
+  <span class="table-number">Table 2</span>:
   Lista lansărilor GSLV Mk.III. Toate lansările au fost spre GTO, cu excepția lansării sondei Chandrayaan-2, care a avut ca țintă finală orbita selenară.
 </div>
 

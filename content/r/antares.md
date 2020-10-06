@@ -29,7 +29,7 @@ Următoarele misiuni Antares sunt în continuare dedicate exclusiv lansării cap
 Misiunea NG-12, parte a CRS2 (a doua parte a contractului de aprovizionare comercială a ISS semnat cu NASA) a însemnat și debutul variantei Antares-230+, în 02 noiembrie 2019, care a lansat capsula Cygnus SS "Alan Bean" NG-12. Varianta 230+ aduce în plus o serie de îmbunătățiri structurale ale primei trepte, pentru a putea permite funcționarea la putere maximă a motoarelor RD-181, folosite din 2016. CRS2 vine cu câteva cerințe suplimentare din partea NASA: o masă mai mare urcată pe orbită și posibilitatea de a încărca o parte a proviziilor cu mai puțin de 24 de ore înainte de lansare.
 
 <div class="table-caption">
-  <span class="table-number">Tabel 1</span>:
+  <span class="table-number">Table 1</span>:
   Lansările capsulei Cygnus, care includ și cele trei lansări efectuate cu racheta Atlas V în configurația 401 (4 metri diametru conului protector, fără boostere suplimentare cu combustibil solid și un singur motor al treptei superioare Centaur).
 </div>
 
