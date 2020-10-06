@@ -5963,4 +5963,4 @@
 2020-067    2020-09-27 03:23   Chang Zheng 4B          Y42                  HuanJing-2                                     CN    Taiyuan      LC-9       S 90
 2020-068    2020-09-28 11:20   Soyuz-2.1b                                   Gonets-M                                       RU    Plesetsk     43/3       S 90
 2020-069    2020-10-03 01:16   Antares-230+                                 Cygnus NG-14 SS Kalpana Chawla                 US    Wallops      LP-0A      S 91
-2020-070    2020-10-06 11:29   Falcon 9                095/B1058.3          Starlink 1.0-L12                               US    KSC          LC39A      S 92
+2020-070    2020-10-06 11:29   Falcon 9                095/B1058.3          Starlink 1.0-L12                               US    KSC          LC39A      S 91
