@@ -15,7 +15,7 @@ Siteul de față reprezintă o colecție personală de materiale, articole și n
 
 | Data        | Lansator     | Serie       | Satelit                        | T  | Centru   | Rampă    | R. | Bul            |
 |-------------|--------------|-------------|--------------------------------|----|----------|----------|----|----------------|
-| 06.10 11:29 | Falcon 9     | 095/B1058.3 | Starlink 1.0-L12               | US | KSC      | LC39A    | S  | [92](/bul/092) |
+| 06.10 11:29 | Falcon 9     | 095/B1058.3 | Starlink 1.0-L12               | US | KSC      | LC39A    | S  | [91](/bul/091) |
 | 03.10 01:16 | Antares-230+ |             | Cygnus NG-14 SS Kalpana Chawla | US | Wallops  | LP-0A    | S  | [91](/bul/091) |
 | 28.09 11:20 | Soyuz-2.1b   |             | Gonets-M                       | RU | Plesetsk | 43/3     | S  | [90](/bul/090) |
 | 27.09 03:23 | CZ-4B        | Y42         | HuanJing-2                     | CN | Taiyuan  | LC-9     | S  | [90](/bul/090) |
