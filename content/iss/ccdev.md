@@ -25,7 +25,7 @@ Capsula CST-100 Starliner "Calypso" a fost lansată în 22 decembrie pentru un t
 Boeing a anunțat că misiunea OFT va fi repetată[^fn:1], nu mai devreme de octombrie 2020, compania suportând integral costurile suplimentare asociate cu noua misiune.
 
 
-## SpaceX DM-2 (30 mai 2020 -- ?) {#spacex-dm-2--30-mai-2020}
+## SpaceX DM-2 (30 mai 2020 -- 02 augsut 2020) {#spacex-dm-2--30-mai-2020-02-augsut-2020}
 
 _Demo Mission 2_ (Dragon2 C206 "Endeavour")
 
@@ -35,7 +35,7 @@ _Demo Mission 2_ (Dragon2 C206 "Endeavour")
 Misiunea, programată inițial pentru 27 mai, a fost amânată 3 zile din cauza condițiilor meteo nefavorabile.
 
 
-## SpaceX USCV-1 (august 2020 +6luni) {#spacex-uscv-1--august-2020-plus-6luni}
+## SpaceX USCV-1 (octombrie 2020 +6luni) {#spacex-uscv-1--octombrie-2020-plus-6luni}
 
 _US Crew Vehicle 1_ (Dragon2 C207)
 
@@ -45,20 +45,21 @@ _US Crew Vehicle 1_ (Dragon2 C207)
 -   **Soichi Noguchi** (_JAXA_) (Discovery STS-114, Soyuz TMA-17, 177 zile ISS)
 
 
-## Boeing OFT-2 (octombrie 2020) {#boeing-oft-2--octombrie-2020}
+## Boeing OFT-2 (decembrie 2020) {#boeing-oft-2--decembrie-2020}
 
 _Orbital Flight Test 2_
 
 -   fără echipaj
 
 
-## Boeing CFT (martie 2021) {#boeing-cft--martie-2021}
+## Boeing CFT (2021) {#boeing-cft--2021}
 
 _Crew Flight Test_
 
 -   **Michael Fincke** (Soyuz TMA-4, Soyuz TMA-13, Endeavour STS-134)
     -   l-a înlocuit pe Eric Boe, programat inițial pentru această misiune, dar care s-a retras din program în 2019 din motive medicale.
--   **Chris Ferguson** (Atlantis STS-115, Endeavour STS-126, Atlantis STS-135)
+-   **Barry Willmore** (STS-129, Soyuz TMA-14M)
+    -   l-a înlocuit pe Chris Ferguson, programat inițial pentru această misiune, dar care s-a retras din program în octombrie 2020, din motive medicale.
 -   **Nicole Aunapu Mann** (primul zbor spațial)
 
 
