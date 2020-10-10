@@ -5141,6 +5141,14 @@ SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD
 :EXPORT_HUGO_SECTION: bul
 :END:
 
+** Buletin Cosmic nr. 92
+:PROPERTIES:
+:EXPORT_FILE_NAME: 092
+:EXPORT_DATE: 2020-10-14
+:END:
+
+
+
 ** Buletin Cosmic nr. 91 :antares:cygnus:ng14:spacex:falcon9:starlink:amur:boeing:cst100:
 :PROPERTIES:
 :EXPORT_FILE_NAME: 091
@@ -5171,7 +5179,6 @@ NRO, agenția guvernamentală responsabilă cu sateliții americani de spionaj, 
 ---
 
 Chris Ferguson, fost astronaut NASA, a anunțat că se retrage din misiunea test a capsulei *CST-100* programată pentru anul viitor. Ferguson, în vârstă de 59 de ani, a fost comandantul misiunii STS-135, ultimul zbor al navetei Atlantis și ultima misiune a unei navete spațiale americane. Acesta a declarat că dorește să dedice mai mult timp familiei și va fi înlocuit de Boeing cu Barry Wilmore, un alt fost astronaut experimentat al NASA. Capsula CST-100 a companiei *Boeing* urmează să refacă în acest an testul fără echipaj, după misiunea eșuată de anul trecut, când capsula nu a ajuns pe orbita corectă din cauza unor probleme software. Abia după acest nou test NASA va permite companiei Boeing să înceapă zborurile cu echipaj spre Stația Spațiale Internațională. Între timp, SpaceX se pregătește pentru al doilea zbor cu echipaj spre ISS, lansarea noii capsule Dragon fiind programată pentru finalul acestei luni. Retragerea lui Ferguson este a doua din echipajul misiunii inaugurale, după ce anul trecut Eric Boe s-a retras din motive medicale.
-
 
 ** Buletin Cosmic nr. 90 :venus:marte:spacex:dragon:iss:
 :PROPERTIES:
