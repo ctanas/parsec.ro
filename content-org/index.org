@@ -790,7 +790,7 @@ order by lv_type
 | Racheta           | Țara | Operator    | Inaugurare | Motor    | LEO   | SSO   | GTO   | Lună | Marte |
 |-------------------+------+-------------+------------+----------+-------+-------+-------+------+-------|
 | SLS Block1        | SUA  | NASA        |       2021 | RS-25    | 95t   |       |       | 26t  |       |
-| SLS Block1B       | SUA  | NASA        |       2024 | RS-25    | 105t  |       |       | 40t  |       |
+| SLS Block1B       | SUA  | NASA        |       2025 | RS-25    | 105t  |       |       | 40t  |       |
 | SLS Block2        | SUA  | NASA        |      2028+ | RS-25    | 130t  |       |       |      | 45t   |
 | BFR               | SUA  | SpaceX      |       2021 | Raptor   | 150t  |       |       | 100t | 100t  |
 | Vulcan Centaur    | SUA  | ULA         |    07.2021 | BE-4     | 34t   | 29t   | 16.3t |      |       |
@@ -5147,7 +5147,25 @@ SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD
 :EXPORT_DATE: 2020-10-14
 :END:
 
+Blue Origin
 
+---
+
+Soyuz MS-17
+birthday
+last NASA Soyuz seat
+
+---
+
+SLS
+30 oct fuel
+14 octombrie
+KSC 14 ianuarie
+Artemis-1 nov 2021
+
+---
+
+USCV-1 amânat pentru mijlocul lunii noimebrie
 
 ** Buletin Cosmic nr. 91 :antares:cygnus:ng14:spacex:falcon9:starlink:amur:boeing:cst100:
 :PROPERTIES:
