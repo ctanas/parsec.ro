@@ -2356,6 +2356,43 @@ Capsula *Dragon-XL* a comapaniei SpaceX a fost primul vehicul pe care NASA l-a d
 + [[https://gosoftworks.com/apps/gosatwatch/][GoSatWatch]] (aplicație iOS, care permite folosirea TLE de la Celestrak, inclusiv Starlink)
 
 
+** Media
+:PROPERTIES:
+:EXPORT_FILE_NAME: media
+:END:
+
+*** Documentare
+
+   + [[https://www.imdb.com/title/tt0084043][Hail Columbia!]] (1982) --1*
+   + [[https://www.imdb.com/title/tt0290296][Space Station 3D]] (2002) --2*
+   + [[https://www.imdb.com/title/tt0925248][In the Shadow of the Moon]] (2007) --3*
+   + [[https://www.imdb.com/title/tt1233514][When We Left Earth]] (2008) --3*
+   + [[https://www.imdb.com/title/tt1203167][Moon Machines]] (2008) --2*
+   + [[https://www.imdb.com/title/tt3219604][The Last Man on the Moon]] (2014) --1*
+   + [[https://www.imdb.com/title/tt5959952/][Mission Control]] (2017) --1*
+   + [[https://www.imdb.com/title/tt8760684][Apollo 11]] (2019) --3*
+   + [[https://www.imdb.com/title/tt12930534][Challenger: The Final Flight]] (2020) -1*
+
+*** Dramatizări
+
+   + [[https://www.imdb.com/title/tt0112384][Apollo 13]] (1995) --3*
+   + [[https://www.imdb.com/title/tt0086197][The Right Stuff]] (1983) --3*
+   + [[https://www.imdb.com/title/tt0120570][From the Earth to the Moon]] (1998) --3*
+   + [[https://www.imdb.com/title/tt1213641][First Man]] (2018) -1*
+
+*** Podcasts
+
+   + [[https://www.bbc.co.uk/programmes/w13xttx2][13 Minutes to the Moon]] --3*
+
+*** Jocuri video
+
+   + [[http://orbit.medphys.ucl.ac.uk][Orbiter Space Flight Simulator]] --3*
+   + [[https://www.raceintospace.org/][Race into Space]] --3*
+   + [[https://www.slitherine.com/game/buzz-aldrins-space-program-manager][Buzz Aldrin's Space Program Manager]] --2*
+   + [[https://www.kerbalspaceprogram.com/][Kerbal Space Program]] --1*
+   + [[https://www.simplerockets.com/][Simple Rockets]] --1*
+    
+
 * Interviuri
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: i
