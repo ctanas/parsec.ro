@@ -37,7 +37,7 @@ Misiunea, programată inițial pentru 27 mai, a fost amânată 3 zile din cauza 
 
 ## SpaceX USCV-1 (octombrie 2020 +6luni) {#spacex-uscv-1--octombrie-2020-plus-6luni}
 
-_US Crew Vehicle 1_ (Dragon2 C207)
+_US Crew Vehicle 1_ (Dragon2 C207 "Resilience")
 
 -   **Victor Glover** (primul zbor spațial)
 -   **Mike Hopkins** (Soyuz TMA-10M, 166 zile ISS, 2 EVA)
