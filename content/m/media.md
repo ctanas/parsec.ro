@@ -4,6 +4,9 @@ author = ["Claudiu"]
 draft = false
 +++
 
+Câteva dintre cele mai reușite documentare, dramatizări, podcasts și jocuri video care au ca subiect explorarea spațială. Fiecare au primit o notă, pur subiectivă, între 1\* și 3\*. Lista est departe de a fi exhaustivă și probabil va fi extinsă pe viitor.
+
+
 ## Documentare {#documentare}
 
 -   [Hail Columbia!](https://www.imdb.com/title/tt0084043) (1982) --1\*

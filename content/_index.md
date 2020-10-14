@@ -39,7 +39,8 @@ Detalii cu privire la informațiile din tabel, pot fi găsite în secțiunea [Le
 -   [Lista sondelor interplanetare active](/m/sonde);
 -   [Meteoriți](/m/meteoriti) --informații generale și lista meteoriților românești (_draft_);
 -   [X-37B](/m/x37b) --naveta spațială autonomă a Forțelor Aeriene ale SUA;
--   [Gateway](/m/gateway) --viitoarea stație spațială de pe orbita Lunii.
+-   [Gateway](/m/gateway) --viitoarea stație spațială de pe orbita Lunii;
+-   [Media](/m/media) -- o listă cu filme, seriale, podcasts și jocuri video despre explorarea spațiului.
 
 
 ## Stația Spațială Internațională (ISS) {#stația-spațială-internațională--iss}

@@ -35,7 +35,8 @@ Detalii cu privire la informațiile din tabel, pot fi găsite în secțiunea [[/
 + [[/m/sonde][Lista sondelor interplanetare active]];
 + [[/m/meteoriti][Meteoriți]] --informații generale și lista meteoriților românești (/draft/);
 + [[/m/x37b][X-37B]] --naveta spațială autonomă a Forțelor Aeriene ale SUA;
-+ [[/m/gateway][Gateway]] --viitoarea stație spațială de pe orbita Lunii.
++ [[/m/gateway][Gateway]] --viitoarea stație spațială de pe orbita Lunii;
++ [[/m/media][Media]] -- o listă cu filme, seriale, podcasts și jocuri video despre explorarea spațiului.
 
 ** Stația Spațială Internațională (ISS) 
 
@@ -2355,11 +2356,12 @@ Capsula *Dragon-XL* a comapaniei SpaceX a fost primul vehicul pe care NASA l-a d
 + [[https://james.darpinian.com/satellites/?special=starlink][James Darpinian]] (site web, folosește Google Street View, pentru o orientare și mai simplă)
 + [[https://gosoftworks.com/apps/gosatwatch/][GoSatWatch]] (aplicație iOS, care permite folosirea TLE de la Celestrak, inclusiv Starlink)
 
-
 ** Media
 :PROPERTIES:
 :EXPORT_FILE_NAME: media
 :END:
+
+Câteva dintre cele mai reușite documentare, dramatizări, podcasts și jocuri video care au ca subiect explorarea spațială. Fiecare au primit o notă, pur subiectivă, între 1* și 3*. Lista est departe de a fi exhaustivă și probabil va fi extinsă pe viitor.
 
 *** Documentare
 
