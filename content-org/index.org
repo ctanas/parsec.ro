@@ -201,23 +201,27 @@ Construcția ISS a însemnat asamblare pe orbită a [modulelor componente](https
 
 *** Câți astronauți sunt acum pe orbită?
 
-În prezent sunt 3 astronauți la bordul Stației Spațiale Internaționale, parte a Expdiției 63:
+În prezent sunt 6 astronauți la bordul Stației Spațiale Internaționale, parte a Expdiției 63:
 
-| Nume              | Agn  | Sosire      |       Data | Plecare     | Data       |
-|-------------------+------+-------------+------------+-------------+------------|
-| Anatoli Ivanishin | RSA  | Soyuz MS-16 | 09.04.2020 | Soyuz MS-16 | xx.10.2020 |
-| Ivan Vagner       | RSA  | Soyuz MS-16 | 09.04.2020 | Soyuz MS-16 | xx.10.2020 |
-| Cris Cassidy      | NASA | Soyuz MS-16 | 09.04.2020 | Soyuz MS-16 | xx.10.2020 |
-|-------------------+------+-------------+------------+-------------+------------|
+| Nume                 | Agn  | Sosire      |       Data | Plecare     | Data       |
+|----------------------+------+-------------+------------+-------------+------------|
+| Anatoli Ivanishin    | RSA  | Soyuz MS-16 | 09.04.2020 | Soyuz MS-16 | 21.10.2020 |
+| Ivan Vagner          | RSA  | Soyuz MS-16 | 09.04.2020 | Soyuz MS-16 | 21.10.2020 |
+| Cris Cassidy         | NASA | Soyuz MS-16 | 09.04.2020 | Soyuz MS-16 | 21.10.2020 |
+|----------------------+------+-------------+------------+-------------+------------|
+| Sergei Ryzhikov      | RSA  | Soyuz MS-17 | 14.10.2020 | Soyuz MS-17 | xx.04.2021 |
+| Sergei Kud-Sverchkov | RSA  | Soyuz MS-17 | 14.10.2020 | Soyuz MS-17 | xx.04.2021 |
+| Kathleen Rubins      | NASA | Soyuz MS-17 | 14.10.2020 | Soyuz MS-17 | xx.04.2021 |
 
 *** Câte vehicule sunt în prezent andocate la ISS?
 
-| Vehicul        |    Lansare | Rachetă     | Port   |     Sosire | Plecare    | Recuperare |
-|----------------+------------+-------------+--------+------------+------------+------------|
-| Cygnus NG-14   | 03.10.2020 | Antares-230 | Unity  | 05.10.2020 | xx.12.2020 | NU         |
-| Progress MS-14 | 25.04.2020 | Soyuz-2.1a  | Zvezda | 25.04.2020 | xx.12.2020 | NU         |
-| Progress MS-15 | 23.07.2020 | Soyuz-2.1a  | Pirs   | 23.07.2020 | xx.xx.2020 | NU         |
-| Soyuz MS-16    | 09.04.2020 | Soyuz-2.1a  | poisk  | 09.04.2020 | xx.xx.2020 | DA         |
+| Vehicul        |    Lansare | Rachetă     | Port    |     Sosire | Plecare    | Recuperare |
+|----------------+------------+-------------+---------+------------+------------+------------|
+| Cygnus NG-14   | 03.10.2020 | Antares-230 | Unity   | 05.10.2020 | xx.12.2020 | NU         |
+| Progress MS-14 | 25.04.2020 | Soyuz-2.1a  | Zvezda  | 25.04.2020 | xx.12.2020 | NU         |
+| Progress MS-15 | 23.07.2020 | Soyuz-2.1a  | Pirs    | 23.07.2020 | xx.xx.2020 | NU         |
+| Soyuz MS-16    | 09.04.2020 | Soyuz-2.1a  | Poisk   | 09.04.2020 | 21.10.2020 | DA         |
+| Soyuz MS-17    | 14.10.2020 | Soyuz-2.1a  | Rassvet | 14.10.2020 | xx.04.2021 | DA         |
 
 *** Câți astronauți sunt de obicei la bordul ISS?
 
@@ -231,8 +235,9 @@ Da! Datorită panourilor solare de mari dimensiuni, ISS poate fi văzută cu uș
 :EXPORT_FILE_NAME: jurnal
 :END:
 
-- 05.09.2020 :: Capsula Cygnus NG-14 a fost cuplată cu modulul /Unity/
-- 18.08.2020 :: Vehiculul HTV-9 a fost desprins de ISS și a revenit distructiv prin atmosferă.
+- 14.10.2020 :: Soyuz MS-17 (Ryzhikov, Kud-Sverchkov, Rubins) este lansată și andocheză după 3 ore și 3 minute cu ISS la portul Rassvet.
+- 05.09.2020 :: Capsula Cygnus NG-14 a fost cuplată cu modulul /Unity/;
+- 18.08.2020 :: Vehiculul HTV-9 a fost desprins de ISS și a revenit distructiv prin atmosferă;
 - 02.08.2020 :: Capsula Crew Dragon "Endeavour" s-a desprins de modulul /Harmony/ și a revenit pe Pământ;
 - 23.07.2020 :: Progress MS-15 andochează cu modulul /Pirs;/
 - 16.07.2020 :: EVA-230 (6 ore): Cassidy și Behnken, pentru schimbarea bateriilor ISS;

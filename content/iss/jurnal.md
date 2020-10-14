@@ -4,11 +4,14 @@ author = ["Claudiu"]
 draft = false
 +++
 
+14.10.2020
+: Soyuz MS-17 (Ryzhikov, Kud-Sverchkov, Rubins) este lansată și andocheză după 3 ore și 3 minute cu ISS la portul Rassvet.
+
 05.09.2020
-: Capsula Cygnus NG-14 a fost cuplată cu modulul _Unity_
+: Capsula Cygnus NG-14 a fost cuplată cu modulul _Unity_;
 
 18.08.2020
-: Vehiculul HTV-9 a fost desprins de ISS și a revenit distructiv prin atmosferă.
+: Vehiculul HTV-9 a fost desprins de ISS și a revenit distructiv prin atmosferă;
 
 02.08.2020
 : Capsula Crew Dragon "Endeavour" s-a desprins de modulul _Harmony_ și a revenit pe Pământ;
