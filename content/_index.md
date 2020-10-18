@@ -15,6 +15,7 @@ Siteul de față reprezintă o colecție personală de materiale, articole și n
 
 | Data        | Lansator     | Serie       | Satelit                        | T  | Centru   | Rampă  | R. | Bul            |
 |-------------|--------------|-------------|--------------------------------|----|----------|--------|----|----------------|
+| 18.10 15:25 | Falcon 9     | 096/B1051.6 | Starlink 1.0-L13               | US | KSC      | LC39A  | S  | [93](/bul/093) |
 | 14.10 05:45 | Soyuz-2.1a   |             | Soyuz MS-17                    | RU | Baikonur | 31/6   | S  | [92](/bul/092) |
 | 11.10 16:57 | CZ-3B        |             | Gao Fen 13                     | CN | Xichang  |        | S  | [92](/bul/092) |
 | 06.10 11:29 | Falcon 9     | 095/B1058.3 | Starlink 1.0-L12               | US | KSC      | LC39A  | S  | [91](/bul/091) |
@@ -24,7 +25,6 @@ Siteul de față reprezintă o colecție personală de materiale, articole și n
 | 21.09 05:40 | CZ-4B        | Y41         | HaiYang-2C                     | CN | Jiuquan  | SLS-2  | S  | [89](/bul/089) |
 | 15.09 01:23 | CZ-11H       | Y2          | Jilin-1 Gaofen-03B             | CN | HHAI     | Debo-3 | S  | [88](/bul/088) |
 | 12.09 05:02 | Kuaizhou 1A  | Y3          | Jilin-1 Gaofen-02C             | CN | Jiuquan  | SLS-2  | F  | [88](/bul/088) |
-| 12.09 03:19 | Rocket 3.1   |             | (Test)                         | US | Kodiak   | LP-3B  | F  | [88](/bul/088) |
 
 Detalii cu privire la informațiile din tabel, pot fi găsite în secțiunea [Legendă tabele](/t/legenda_tabele). Data și ora sunt UTC.
 

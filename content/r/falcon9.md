@@ -107,6 +107,7 @@ draft = false
 | 2020-08-30 | Falcon 9     | 093/B1059.4 | SAOCOM-1B                                  | CC     | LC40  | S |
 | 2020-09-03 | Falcon 9     | 094/B1060.2 | Starlink 1.0-L11                           | KSC    | LC39A | S |
 | 2020-10-06 | Falcon 9     | 095/B1058.3 | Starlink 1.0-L12                           | KSC    | LC39A | S |
+| 2020-10-18 | Falcon 9     | 096/B1051.6 | Starlink 1.0-L13                           | KSC    | LC39A | S |
 
 <div class="table-caption">
   <span class="table-number">Tabel 1</span>:
