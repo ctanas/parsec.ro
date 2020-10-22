@@ -4,8 +4,16 @@ author = ["Claudiu"]
 draft = false
 +++
 
+22.10.2020
+: Soyuz MS-16 revine pe Pământ cu Anatoli Ivanishin, Ivan Vagner și Chris Cassidy.
+
+21.10.2020
+: Începe **Expediția 64**;
+
+---
+
 14.10.2020
-: Soyuz MS-17 (Ryzhikov, Kud-Sverchkov, Rubins) este lansată și andocheză după 3 ore și 3 minute cu ISS la portul Rassvet.
+: Soyuz MS-17 (Ryzhikov, Kud-Sverchkov, Rubins) este lansată și andocheză după 3 ore și 3 minute cu ISS la portul Rassvet;
 
 05.09.2020
 : Capsula Cygnus NG-14 a fost cuplată cu modulul _Unity_;

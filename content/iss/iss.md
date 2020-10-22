@@ -13,13 +13,10 @@ Construcția ISS a însemnat asamblare pe orbită a [modulelor componente](<http
 
 ## Câți astronauți sunt acum pe orbită? {#câți-astronauți-sunt-acum-pe-orbită}
 
-În prezent sunt 6 astronauți la bordul Stației Spațiale Internaționale, parte a Expdiției 63:
+În prezent sunt 3 astronauți la bordul Stației Spațiale Internaționale, parte a Expdiției 64:
 
 | Nume                 | Agn  | Sosire      | Data       | Plecare     | Data       |
 |----------------------|------|-------------|------------|-------------|------------|
-| Anatoli Ivanishin    | RSA  | Soyuz MS-16 | 09.04.2020 | Soyuz MS-16 | 21.10.2020 |
-| Ivan Vagner          | RSA  | Soyuz MS-16 | 09.04.2020 | Soyuz MS-16 | 21.10.2020 |
-| Cris Cassidy         | NASA | Soyuz MS-16 | 09.04.2020 | Soyuz MS-16 | 21.10.2020 |
 | Sergei Ryzhikov      | RSA  | Soyuz MS-17 | 14.10.2020 | Soyuz MS-17 | xx.04.2021 |
 | Sergei Kud-Sverchkov | RSA  | Soyuz MS-17 | 14.10.2020 | Soyuz MS-17 | xx.04.2021 |
 | Kathleen Rubins      | NASA | Soyuz MS-17 | 14.10.2020 | Soyuz MS-17 | xx.04.2021 |
