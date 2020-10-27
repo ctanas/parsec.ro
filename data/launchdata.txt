@@ -5968,3 +5968,5 @@
 2020-072    2020-10-14 05:45   Soyuz-2.1a                                   Soyuz MS-17                                    RU    Baikonur     31/6       S 92
 2020-073    2020-10-18 12:25   Falcon 9                096/B1051.6          Starlink 1.0-L13                               US    KSC          LC39A      S 93
 2020-074    2020-10-24 15:31   Falcon 9                097/B1063.3          Starlink 1.0-L14                               US    CC           LC40       S 94
+2020-075    2020-10-25 19:08   Soyuz-2.1b                                   GLONASS-K 15                                   RU    Plesetsk     43/3       S 94
+2020-076    2020-10-26 15:19   Chang Zheng 2C          2C-Y43               Yaogan 30-07                                   CN    Xichang      LC-3       S 94
