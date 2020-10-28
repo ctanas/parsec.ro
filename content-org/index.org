@@ -5206,6 +5206,9 @@ A ajuns în port treapta primară care acum 3 zile executa cu succes cea de-a 10
 
 Treapta primară B1060 (foto) a efectuat până acum 3 zboruri, două misiuni Starlink și o lansare a unui satelit GPS. SpaceX dispune în prezent de 7 trepte primare folosite, apte pentru viitoare misiuni.
 
+#+CAPTION: Cea de-a 100-a lansare reușită a companiei SpaceX, o rachetă Falcon 9 care a urcat pe orbită un nou set de 60 de sateliți Starlink (/sursa foto: [[https://www.flickr.com/photos/spacex/50501674637/][SpaceX]])/.
+[[/img/falcon9100]]
+
 ---
 
 GLONASS
@@ -5222,7 +5225,7 @@ Apă pe Lună
 
 Un pas înainte spre realizarea stației spațiale lunare Gateway: NASA și ESA au semnat astăzi o intenție de colaborare, prin care ESA promite să producă cel puțin două module de serviciu pentru capsula Orion,  care să genereze oxigen, electricitate, apă și azot pentru astronauții de la bord dar și două module Gateway (I-Hab și ESPRIT). Astfel, cel puțin trei astronauți europeni vor participa la misiunile Artemis. Și o veste proastă și un pas înapoi pentru Artemis: testul complet al primei trepte și al celor patru motoare RS-25 atașate nu va mai avea loc în noiembrie, fiind amânat probabil pentru anul viitor. Testul trebuia să aibă loc în această vara, iar amânarea sa pentru 2021 probabil înseamnă că anul viitor nu vom avea parte de inaugurarea rachetei SLS (misiunea Artemis-1).
 
-#+CAPTION: Reprezentare grafică a viitoarei stații spațiale lunare Gateway, împreună cu capsula Orion andocată /(Sursa: [[http://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Positive_signs_for_Europe_as_ESA_goes_forward_to_the_Moon][ESA]])/
+#+CAPTION: Reprezentare grafică a viitoarei stații spațiale lunare Gateway, împreună cu capsula Orion andocată /(sursa foto: [[http://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Positive_signs_for_Europe_as_ESA_goes_forward_to_the_Moon][ESA]])/
 [[/img/gateway.jpg]]
 
 ---
