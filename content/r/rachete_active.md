@@ -61,7 +61,7 @@ Lista tuturor lansatoarelor orbitale active folosite în prezent, împreună cu 
 | 51  | CZ-7/YZ-1A         | CN   | 1         | 1       | 0       | 2016-06-25 | 2016-06-25 |
 | 52  | Delta 4H           | US   | 10        | 10      | 0       | 2004-12-21 | 2019-01-19 |
 | 53  | Delta 4H/Star 48BV | US   | 1         | 1       | 0       | 2018-08-12 | 2018-08-12 |
-| 54  | Electron           | US   | 14        | 12      | 2       | 2017-05-25 | 2020-08-31 |
+| 54  | Electron           | US   | 15        | 13      | 2       | 2017-05-25 | 2020-10-28 |
 | 55  | Epsilon            | JP   | 4         | 4       | 0       | 2013-09-14 | 2019-01-18 |
 | 56  | Falcon 1           | US   | 5         | 2       | 3       | 2006-03-24 | 2009-07-14 |
 | 57  | Falcon 9           | US   | 95        | 94      | 1       | 2010-06-04 | 2020-10-24 |

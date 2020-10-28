@@ -169,7 +169,7 @@ Lista tuturor lansatoarelor orbitale folosite până în prezent, împreună cu 
 | 159 | Diamant B             | EU   | 4         | 3       | 1       | 1970-03-10 | 1971-12-05 |
 | 160 | Diamant BP.4          | EU   | 3         | 3       | 0       | 1975-02-06 | 1975-09-27 |
 | 161 | Dnepr                 | RU   | 22        | 21      | 1       | 1999-04-21 | 2015-03-25 |
-| 162 | Electron              | US   | 14        | 12      | 2       | 2017-05-25 | 2020-08-31 |
+| 162 | Electron              | US   | 15        | 13      | 2       | 2017-05-25 | 2020-10-28 |
 | 163 | Energiya/Buran        | SU   | 1         | 1       | 0       | 1988-11-15 | 1988-11-15 |
 | 164 | Epsilon               | JP   | 4         | 4       | 0       | 2013-09-14 | 2019-01-18 |
 | 165 | Europa I              | AU   | 2         | 0       | 2       | 1968-11-29 | 1969-07-02 |

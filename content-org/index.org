@@ -5197,44 +5197,40 @@ SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD
 ** Buletin Cosmic nr. 94 :starlink:glonass:yaogan:luna:osirisrex:gateway:
 :PROPERTIES:
 :EXPORT_FILE_NAME: 094
-:EXPORT_DATE: 2020-10-29
+:EXPORT_DATE: 2020-10-28
 :END:
 
-Alți 60 de sateliți Starlink au ajuns în această după-masă pe orbită (18:31 ora României), lansarea având loc de pe rampa LC40 de la Cape Canaveral. Treapta primară a rachetei Falcon 9 s-a aflat la al treilea zbor și a fost recuperată și de această dată pe vasul Just Read the Instructions, din Oceanul Atlantic. Un inventar complet al zborurilor treptelor primare Falcon 9 Block 5 se găsește pe site, la linkul de mai jos.
-
-A ajuns în port treapta primară care acum 3 zile executa cu succes cea de-a 100-a lansare reușită pentru SpaceX. Aici includem lansările Falcon 1 și Falcon Heavy dar și lansarea test a capsulei Dragon din ianuarie, ceea ce înseamnă că treapta primară B1060 a efectuat de fapt doar a 99-a lansare _orbitală_ a companiei lui Elon Musk. Falcon 9 are 94 de lansările orbitale reușite din 2010 și până în prezent. Singurul eșec al lansatorului a avut loc în 2015, când, în timpul misiunii CRS-7, racheta s-a dezintegrat, la 139 de secunde după lansare.
-
-Treapta primară B1060 (foto) a efectuat până acum 3 zboruri, două misiuni Starlink și o lansare a unui satelit GPS. SpaceX dispune în prezent de 7 trepte primare folosite, apte pentru viitoare misiuni.
+Alți 60 de sateliți *Starlink* au ajuns sâmbătă pe orbită, la ora 18:31 ora României, lansarea având loc de pe rampa LC40 de la Cape Canaveral. Treapta primară a rachetei *Falcon 9* folosită pentru această misiune s-a aflat la al treilea zbor și a fost recuperată și de această dată pe vasul /Just Read the Instructions/, din Oceanul Atlantic. A fost cea de-a 100-a lansare reușită pentru SpaceX și aici includem lansările Falcon 1 și Falcon Heavy dar și lansarea test a capsulei Dragon din ianuarie care s-a soldat cu explozia așteptată a rachetei, ceea ce înseamnă că treapta primară B1060 a efectuat de fapt doar a 99-a lansare /orbitală/ a companiei lui Elon Musk. Falcon 9 are 94 de lansările orbitale reușite din 2010 și până în prezent, singurul eșec al lansatorului având loc în 2015, când, în timpul misiunii CRS-7, racheta s-a dezintegrat, la 139 de secunde după lansare.
 
 #+CAPTION: Cea de-a 100-a lansare reușită a companiei SpaceX, o rachetă Falcon 9 care a urcat pe orbită un nou set de 60 de sateliți Starlink (/sursa foto: [[https://www.flickr.com/photos/spacex/50501674637/][SpaceX]])/.
-[[/img/falcon9100]]
+[[/img/falcon9100.jpg]]
 
 ---
 
-GLONASS
+Duminică, Rusia a urcat pe orbită un nou satelit *Uragan-K* pentru sistemul propriu de geolocalizare GLONASS. Lansarea a avut loc de la cosmidromul militar Plesetsk și a fost efectuată cu o rachetă Soyuz-2.1b, duminică seara la ora 21:08, ora României. Sistemul GLONASS, similar cu cel american GPS, a fost inaugurat în 1982, însă abandonat temporar în anii 90 din cauza situației economice precare a Rusiei. După 2001 însă, Rusia a reluat lansările sateliților dedicați sistemului GLONASS, iar din 2011 sistemul este unul global.
 
 ---
 
-Yaogan
+Luni la ora 17:19 ora României, China a lansat trei sateliți militari *Yaogan-30* de la centrul spațial Xichang, folosind un lansator *Changzheng-2C*. Din 1975, această rachetă a avut parte de 49 de lansări și dintre acestea doar una singură s-a încheiat cu un eșec. Changzheng-2C este un lansator pentru orbita terestră joasă, derivat din racheta balistică intercontinentală DF-5.
 
 ---
 
-Apă pe Lună
+Joi, o nouă rachetă *Electron* a lansat 9 sateliți SuperDove, folosiți pentru observații ale suprafeței Pământului de compania Planet, împreună cu un satelit experimental al companiei Canon. Toți sateliții au ajuns pe orbită terestră joasă, heliosincronă, la aproximativ 500 km altitudine. A fost a 14-a lansare a rachetei Electron din Noua Zeelenadă, care se pregătește să inaugureze o nouă rampă în cadrul centrului spațial Wallops al NASA din Statele Unite.
 
 ---
 
-Un pas înainte spre realizarea stației spațiale lunare Gateway: NASA și ESA au semnat astăzi o intenție de colaborare, prin care ESA promite să producă cel puțin două module de serviciu pentru capsula Orion,  care să genereze oxigen, electricitate, apă și azot pentru astronauții de la bord dar și două module Gateway (I-Hab și ESPRIT). Astfel, cel puțin trei astronauți europeni vor participa la misiunile Artemis. Și o veste proastă și un pas înapoi pentru Artemis: testul complet al primei trepte și al celor patru motoare RS-25 atașate nu va mai avea loc în noiembrie, fiind amânat probabil pentru anul viitor. Testul trebuia să aibă loc în această vara, iar amânarea sa pentru 2021 probabil înseamnă că anul viitor nu vom avea parte de inaugurarea rachetei SLS (misiunea Artemis-1).
+NASA [[https://www.nasa.gov/press-release/nasa-s-sofia-discovers-water-on-sunlit-surface-of-moon/][a anunțat luni]], într-o conferință de presă, că a descoperit, pentru prima dată, apă pe partea însorită a Lunii. Era cunoscut faptul că pe Lună se găsește apă în zonele umbrite, iar semnătura spectroscopică a hidrogenului a fost cunoscută de multă vreme, dar nu se știa dacă este vorba despre apă sau doar compusul hidroxil, format dintr-un atom de oxigen și unul de hidrogen. Acum însă, folosind datele obținute de telescopul SOFIA, instalat la bordul unui avion Boeing 747 special modificat, NASA a confirmat că moleculele de apă sunt prezente în solul lunar, cel puțin în craterul Clavius, într-o concentrație de aproximativ 300 de ml de apă într-un metru cub de sol. Nu este o concentrație foarte mare, pentru că în deșertul Sahara există de 100 de ori mai multă apă decât în craterele selenare, dar sunt vești bune pentru viitoarele echipaje care urmează să continue explorarea suprafeței Lunii. Articolul a fost publicat în revista [[https://www.nature.com/articles/s41550-020-01222-x#_blank][Nature Astronomy]].
+
+---
+
+În această săptămână a fost realizat un pas important spre realizarea stației spațiale lunare *Gateway*: NASA și ESA au semnat o [[https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Positive_signs_for_Europe_as_ESA_goes_forward_to_the_Moon][intenție de colaborare]], prin care ESA promite să producă cel puțin două module de serviciu pentru capsula Orion,  care să genereze oxigen, electricitate, apă și azot pentru astronauții de la bord dar și două module Gateway (I-Hab și ESPRIT). Astfel, cel puțin trei astronauți europeni vor participa la misiunile Artemis. Dar tot în această săptămână am primit și o veste proastă: testul complet al primei trepte și al celor patru motoare RS-25 atașate nu va mai avea loc în noiembrie, fiind amânat probabil pentru anul viitor. Testul trebuia să aibă loc în această vara, iar amânarea sa pentru 2021 probabil înseamnă că anul viitor nu vom avea parte de inaugurarea rachetei SLS (misiunea Artemis-1).
 
 #+CAPTION: Reprezentare grafică a viitoarei stații spațiale lunare Gateway, împreună cu capsula Orion andocată /(sursa foto: [[http://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Positive_signs_for_Europe_as_ESA_goes_forward_to_the_Moon][ESA]])/
 [[/img/gateway.jpg]]
 
 ---
 
-Din ciclul “ai grijă ce îți dorești, pentru că s-ar putea întâmpla”, OSIRiIS-REx a colectat atâta de multe fragmente de sol încât valva care trebuia să închidă cupa de prelevare s-a blocat în poziția “deschis”, iar acum fragmentele prelevate sunt pierdute în spațiu (foto). NASA estimează că a pierdut deja 10 grame de sol, dar vestea bună este că a prelevat cu mult peste cele 60 de grame dorite inițial. Manevra de cântărire a fost anulată pentru a nu pierde și mai multe fragmente, dar se pare că în cupa de prelevare au ajuns între 400 grame și 2 kilograme(!) de fragmente de sol. Echipa de ingineri lucrează acum la manevre de împachetate a brațului corector, pentru a limita pierderea de probe, iar până atunci orice manevră a probei a fost anulată. Astfel, OSIRIS-REx nu va mai reveni pe orbita lui Bennu și nici nu va mai încerca o altă manevră de prelevare.
-
----
-
-Jumătate drum Marte
+Vă spuneam săptămâna trecută că sonda *OSIRIS-REx* a prelevat probe de pe suprafața asteroidului *Bennu*. Se pare însă că sonda a adunat  atât de multe fragmente de sol încât valva care trebuia să închidă cupa de prelevare s-a blocat în poziția “deschis”, iar ulterior o parte din fragmentele prelevate au fost pierdute în spațiu. NASA estimează că a pierdut aproximativ 10 grame de sol, dar vestea bună este că a prelevat cu mult peste cele 60 de grame dorite inițial. Manevra de cântărire a fost anulată pentru a nu pierde și mai multe fragmente, dar se pare că în cupa de prelevare au ajuns între 400 grame și 2 kilograme(!) de fragmente de sol. Echipa de ingineri lucrează acum la [[https://www.nasa.gov/press-release/nasa-s-osiris-rex-spacecraft-goes-for-early-stow-of-asteroid-sample][manevre de împachetate a brațului colector]], pentru a limita pierderea de probe, iar până atunci orice manevră a probei a fost anulată. Astfel, OSIRIS-REx nu va mai reveni pe orbita lui Bennu și nici nu va mai încerca o altă manevră de prelevare, iar probele vor fi stocate în siguranță în capsula care urmează să ajungă pe Pământ în septembrie 2023.
 
 ** Buletin Cosmic nr. 93 :soyuz:ms16:iss:bennu:spacex:starlink:
 :PROPERTIES:
