@@ -5222,10 +5222,16 @@ Apă pe Lună
 
 Un pas înainte spre realizarea stației spațiale lunare Gateway: NASA și ESA au semnat astăzi o intenție de colaborare, prin care ESA promite să producă cel puțin două module de serviciu pentru capsula Orion,  care să genereze oxigen, electricitate, apă și azot pentru astronauții de la bord dar și două module Gateway (I-Hab și ESPRIT). Astfel, cel puțin trei astronauți europeni vor participa la misiunile Artemis. Și o veste proastă și un pas înapoi pentru Artemis: testul complet al primei trepte și al celor patru motoare RS-25 atașate nu va mai avea loc în noiembrie, fiind amânat probabil pentru anul viitor. Testul trebuia să aibă loc în această vara, iar amânarea sa pentru 2021 probabil înseamnă că anul viitor nu vom avea parte de inaugurarea rachetei SLS (misiunea Artemis-1).
 
+#+CAPTION: Reprezentare grafică a viitoarei stații spațiale lunare Gateway, împreună cu capsula Orion andocată /(Sursa: [[http://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Positive_signs_for_Europe_as_ESA_goes_forward_to_the_Moon][ESA]])/
+[[/img/gateway.jpg]]
+
 ---
 
 Din ciclul “ai grijă ce îți dorești, pentru că s-ar putea întâmpla”, OSIRiIS-REx a colectat atâta de multe fragmente de sol încât valva care trebuia să închidă cupa de prelevare s-a blocat în poziția “deschis”, iar acum fragmentele prelevate sunt pierdute în spațiu (foto). NASA estimează că a pierdut deja 10 grame de sol, dar vestea bună este că a prelevat cu mult peste cele 60 de grame dorite inițial. Manevra de cântărire a fost anulată pentru a nu pierde și mai multe fragmente, dar se pare că în cupa de prelevare au ajuns între 400 grame și 2 kilograme(!) de fragmente de sol. Echipa de ingineri lucrează acum la manevre de împachetate a brațului corector, pentru a limita pierderea de probe, iar până atunci orice manevră a probei a fost anulată. Astfel, OSIRIS-REx nu va mai reveni pe orbita lui Bennu și nici nu va mai încerca o altă manevră de prelevare.
 
+---
+
+Jumătate drum Marte
 
 ** Buletin Cosmic nr. 93 :soyuz:ms16:iss:bennu:spacex:starlink:
 :PROPERTIES:
