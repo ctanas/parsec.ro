@@ -16,10 +16,10 @@ Mai există și varianta Soyuz-2.1v care înseamnă doar corpul central al rache
 
 Soyuz-2.1a poate lansa cel mult 7 tone pe orbită terestră joasă sau 2.8 tone pe orbită geostaționară, în timp ce Soyuz-2.1b poate urca până la 8.2 tone pe orbită terestră joasă și 3.2 tone pe orbită geostaționară. Soyuz-2.1v are performanțe mai modeste, cu 2.8 tone pe orbită terestră joasă.
 
-{{< figure src="/img/soyuz21a.jpg" caption="Figure 1: Lansarea rachetei Soyuz-2.1a cu nava cargo Progress MS-13, din 06 decembrie 2019." >}}
+{{< figure src="/img/soyuz21a.jpg" caption="Imaginea 1: Lansarea rachetei Soyuz-2.1a cu nava cargo Progress MS-13, din 06 decembrie 2019." >}}
 
 <div class="table-caption">
-  <span class="table-number">Table 1</span>:
+  <span class="table-number">Tabel 1</span>:
   Performanțele rachetei Soyuz-2 în funcție de confgiurație și orbită
 </div>
 
@@ -32,7 +32,7 @@ Soyuz-2.1a poate lansa cel mult 7 tone pe orbită terestră joasă sau 2.8 tone 
 | 2.1v         | 2850 kg |         |         |
 
 <div class="table-caption">
-  <span class="table-number">Table 2</span>:
+  <span class="table-number">Tabel 2</span>:
   Lista lansărilor rachetelor Soyuz-2 (2.1a, 2.1b, 2.1v)
 </div>
 

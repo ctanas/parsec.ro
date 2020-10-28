@@ -111,7 +111,7 @@ draft = false
 | 2020-10-24 | Falcon 9     | 097/B1063.3 | Starlink 1.0-L14                           | CC     | LC40  | S |
 
 <div class="table-caption">
-  <span class="table-number">Table 1</span>:
+  <span class="table-number">Tabel 1</span>:
   Lista treptelor primare Falcon 1 Block 5
 </div>
 
