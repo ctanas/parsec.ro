@@ -13,18 +13,18 @@ Siteul de față reprezintă o colecție personală de materiale, articole și n
 
 ## Ultimele lansări orbitale {#ultimele-lansări-orbitale}
 
-| Data        | Lansator     | Serie       | Satelit                        | T  | Centru   | Rampă | R. | Bul            |
-|-------------|--------------|-------------|--------------------------------|----|----------|-------|----|----------------|
-| 28.10 21:21 | Electron     | 15          | In Focus / CE-SAT-IIB          | US | Mahia    | LC-1  | S  | [94](/bul/094) |
-| 26.10 15:19 | CZ-2C        | 2C-Y43      | Yaogan 30-07                   | CN | Xichang  | LC-3  | S  | [94](/bul/094) |
-| 25.10 19:08 | Soyuz-2.1b   |             | Uragan-K No.15L                | RU | Plesetsk | 43/3  | S  | [94](/bul/094) |
-| 24.10 15:31 | Falcon 9     | 097/B1060.3 | Starlink 1.0-L14               | US | CC       | LC40  | S  | [94](/bul/094) |
-| 18.10 12:25 | Falcon 9     | 096/B1051.6 | Starlink 1.0-L13               | US | KSC      | LC39A | S  | [93](/bul/093) |
-| 14.10 05:45 | Soyuz-2.1a   |             | Soyuz MS-17                    | RU | Baikonur | 31/6  | S  | [92](/bul/092) |
-| 11.10 16:57 | CZ-3B        |             | Gao Fen 13                     | CN | Xichang  |       | S  | [92](/bul/092) |
-| 06.10 11:29 | Falcon 9     | 095/B1058.3 | Starlink 1.0-L12               | US | KSC      | LC39A | S  | [91](/bul/091) |
-| 03.10 01:16 | Antares-230+ |             | Cygnus NG-14 SS Kalpana Chawla | US | Wallops  | LP-0A | S  | [91](/bul/091) |
-| 28.09 11:20 | Soyuz-2.1b   |             | Gonets-M                       | RU | Plesetsk | 43/3  | S  | [90](/bul/090) |
+| Data        | Lansator   | Serie       | Satelit               | T  | Centru   | Rampă | R. | Bul            |
+|-------------|------------|-------------|-----------------------|----|----------|-------|----|----------------|
+| 06.11 03:18 | CZ-6       | Y4          | ÑuSat                 | CN | Taiyuan  | LC-16 | S  | [96](/bul/096) |
+| 05.11 23:24 | Falcon-9   | 098/1062.1  | GPS-III-SV04          | US | CC       | LC40  | S  | [96](/bul/096) |
+| 28.10 21:21 | Electron   | 15          | In Focus / CE-SAT-IIB | US | Mahia    | LC-1  | S  | [94](/bul/094) |
+| 26.10 15:19 | CZ-2C      | 2C-Y43      | Yaogan 30-07          | CN | Xichang  | LC-3  | S  | [94](/bul/094) |
+| 25.10 19:08 | Soyuz-2.1b |             | Uragan-K No.15L       | RU | Plesetsk | 43/3  | S  | [94](/bul/094) |
+| 24.10 15:31 | Falcon 9   | 097/B1060.3 | Starlink 1.0-L14      | US | CC       | LC40  | S  | [94](/bul/094) |
+| 18.10 12:25 | Falcon 9   | 096/B1051.6 | Starlink 1.0-L13      | US | KSC      | LC39A | S  | [93](/bul/093) |
+| 14.10 05:45 | Soyuz-2.1a |             | Soyuz MS-17           | RU | Baikonur | 31/6  | S  | [92](/bul/092) |
+| 11.10 16:57 | CZ-3B      |             | Gao Fen 13            | CN | Xichang  |       | S  | [92](/bul/092) |
+| 06.10 11:29 | Falcon 9   | 095/B1058.3 | Starlink 1.0-L12      | US | KSC      | LC39A | S  | [91](/bul/091) |
 
 Detalii cu privire la informațiile din tabel, pot fi găsite în secțiunea [Legendă tabele](/t/legenda_tabele). Data și ora sunt UTC.
 

@@ -5971,3 +5971,5 @@
 2020-075    2020-10-25 19:08   Soyuz-2.1b                                   Uragan-K No.15L                                RU    Plesetsk     43/3       S 94
 2020-076    2020-10-26 15:19   Chang Zheng 2C          2C-Y43               Yaogan 30-07                                   CN    Xichang      LC-3       S 94
 2020-077    2020-10-28 21:21   Electron                15                   In Focus / CE-SAT-IIB                          US    Mahia        LC-1       S 94
+2020-078    2020-11-05 23:24   Falcon-9                098/1062.1           GPS-III-SV04                                   US    CC           LC40       S 96
+2020-079    2020-11-06 03:18   Chang Zheng 6           Y4                   ÑuSat                                          CN    Taiyuan      LC-16      S 96

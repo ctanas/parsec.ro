@@ -462,7 +462,9 @@ Changzheng-6 se vrea racheta de calibru mic, pentru încărcături ușoare spre 
 | Nr. |       Data | Încărcătură | Masa | Dest. | Rezultat |
 |-----+------------+-------------+------+-------+----------|
 |   1 | 19.09.2015 | 20 microsat | 1t   | SSO   | Succes   |
-|   2 | 21.11.2017 | Jilin-1     | 1t   | SSO | Succes   |
+|   2 | 21.11.2017 | Jilin-1     | 1t   | SSO   | Succes   |
+|   3 | 13.11.2019 | Ningxia-1   | 1t   | LEO   | Succes   |
+|   4 | 06.11.2020 | ÑuSat       | 1t   | SSO   | Succes   |
 
 **** Changzheng-7
 
