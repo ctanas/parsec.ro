@@ -750,6 +750,7 @@ lv_type like 'CZ-7%' or
 lv_type like 'CZ-11%' or
 lv_type like 'Jielong%' or
 lv_type like 'Kuaizhou%' or
+lv_type like 'Ceres%' or
 lv_type like 'Epsilon%' or
 lv_type like 'H-2%' or
 lv_type like 'PSLV%' or
