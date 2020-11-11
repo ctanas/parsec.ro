@@ -46,6 +46,7 @@ Detalii cu privire la informațiile din tabel, pot fi găsite în secțiunea [[/
 + Detalii despre [[/iss/module][modulele ISS]];
 + Oportunități de [[https://www.heavens-above.com/PassSummary.aspx?satid=25544&lat=46.7712&lng=23.6236&loc=Cluj-Napoca&alt=0&tz=EET][observare]] a ISS. 
 
+
 * About
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: /
@@ -5189,6 +5190,33 @@ SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: bul
 :END:
+
+** Buletin Cosmic nr. 96   :spacex:ceres1:cz6:gps:artemis:luna:marte:arecibo:
+:PROPERTIES:
+:EXPORT_FILE_NAME: 096
+:EXPORT_DATE: 2020-11-11
+:END:
+
+În ultima săptămână au avut loc patru lansări orbitale, din trei state diferite. O rachetă *Falcon-9* a reușit în cele din urmă, după mai multe amânări, să urce pe orbită un nou satelit GPS și să confirme astfel că *SpaceX* a rezolvat problema detectată la motoarele Merlin ale rachetei, NASA permițându-i astfel să continue pregătirile pentru lansarea unui echipaj de astronauți spre Stația Spațială Internațională, în ceea ce urmează să fie al doilea zbor operațional al capsulei Dragon-2. Lansarea satelitului GPS a avut loc joia trecută, la ora 23:24 de minute ora României, iar lansarea capsulei Dragon-2 spre ISS este programată pentru noaptea de sâmbătă spre duminică, la ora 02:49 ora României. Vineri, 6 noiembrie, din China a avut loc a 4-a lansarea a unei rachete *Changzheng-6*, care a urcat pe orbită mai mulți sateliți de mici dimensiuni, dar lansarea care a avut loc sâmbătă, tot din China, a fost una mult mai interesantă. În 7 noiembrie, la ora 09:10 ora României, racheta *Ceres-1* a decolat de la centrul spațial Jiuquan, în primul său zbor, devenind a doua rachetă dezvoltată de sectorul privat, după ce racheta Hiperbola-1 a companiei i-Space a ajuns pe orbită anul trecut. În mod tradițional, lansările orbitale din China sunt apanajul agenției spațiale de stat, dar în ultimii ani a existat o deschidere spre sectorul privat, concretizată prin cele două lansări de până acum. Racheta Ceres-1 are 4 trepte (primele 3 trepte cu combustibil solid și a patra cu combustibil lichid) și este dezvoltată de compania Galactic Energy. A patra lansare din acestă săptămână a aparținut Indiei, care a plasat pe orbită satelitul EOS-01 folosind o rachetă *PSLV-DL*. A fost primul zbor orbital din India din acest an, lansările rachetelor indiene fiind amânate din cauza pandemiei de coronavirus.
+
+---
+
+Congresul Statelor Unite [[https://spaceexplored.com/2020/11/10/nasa-hls-budget-short/][a aprobat marți]] aproximativ 1 miliard de dolari pentru programul Artemis, însă NASA a solicitase 3 miliarde pentru a putea realiza aselenizarea în 2024. Existența programului Artemis nu pare să fie periclitată de tranziția spre noua administrație de la Casa Albă, dar este foarte probabil ca aselenizarea să fie amânată pentru 2028 sau 2030. Oricum, amânarea testului primei trepte SLS pentru anul viitor punea deja serioase semne de întrebare cu privire la posibilitatea de a derula misiunea Artemis-3 în 2024. Ce știm cu siguranță în acest moment este că Gateway, viitoarea stație spațială lunară, nu va fi disponibillă în 2024, dar NASA a precizat că nu are nevoie de Gateway pentru a derula misiunea Artemis-3. Actualul administrator al NASA, Jim Bridenstine, a declarat în aceste zile că va renunța la funcție după ce noul președinte va fi investit, pentru că este spre binele agenției spațile ca viitorul său administrator să aibă relații când mai strânse cu Casa Albă.
+
+---
+
+Agenția Spațială Europeană a anunțat că a acordat un contract unei companii private pentru dezvoltarea unei tehnologii pentru extracția oxigenului din solul lunar. Compania Metalysis din Marea Britanie va fi finanțată timp de 9 luni pentru a îmbunătăți procesul electrochimic prin care oxigenul este separat de particulele de sol lunar, după ce un studiu preliminar a demonstrat că 96% din cantitatea de oxigen poate fi extrasă dintr-un material care imită regolitul aflat la suprafața Lunii. Procesul este derivat dintr-o reacție folosită în industrie, pentru producerea de titan și tantal, din care rezultă oxigen ca produs auxiliar. Agenția Spațială Europeană estimează [[https://www.theengineer.co.uk/esa-contract-metalysis-lunar-harvesting/][venituri de până la 170 de miliarde de euro până în 2045]], rezultate din exploatarea resurselor extraterestre.
+
+---
+
+Roverul Perseverance nu a ajuns încă pe *Marte*, dar agențiile spațiale din Statele Unite și Europa pun la punct misiunile următoare, care urmează să aducă pe Pământ viitoarele eșantioane colectate de Perseverance, după ce acesta va ajunge pe suprafața lui Marte în februarie 2020. Astfel, [[https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Exploration/ESA_welcomes_positive_review_of_plan_to_bring_Mars_to_Earth][un nou rover european va colecta probele lăsate în urmă de Perseverance]] și la va aduce la o rampă de lansare, unde le va aștepta un lansator american. De aici, acestea vor fi trimise spre orbita lui Marte, de unde vor fi culese de o sondă europeană, care le va aduce pe Pământ, cânvva în anii 2030. Acest șir de misiuni nu doar că ne va pune la dispoziție eșantioane de sol marțian care va fi studiat în laboratoarele de pe Pământ, dar vor testa și elementele de care va fi nevoie într-o misiune mai amplă, cu echipaj, care probabil urmează să ajungă pe Marte în anii 2030-2040.
+
+---
+
+După ce în 10 august un cablu care susținea binecunoscutul radiotelescop din *Arecibo* a cedat, provocând daune majore radiotelescopului, duminică [[https://www.ucf.edu/news/a-second-cable-fails-at-nsfs-arecibo-observatory-in-puerto-rico/][un al doilea cablu a cedat]], provocând alte pagube. Din fericire nimeni nu a fost rănit, pentru că inginerii evaluau situația provocată de primul incident, în încercarea de a repara radiotelescopul. Acesta a fost construit în anii '60 și antena sa are un diametru de pentru 300 de metri, fiind cunoscut publicului larg mai ales datorită programului SETI, care a folosit radiotelescopul pentru a trimite un mesaj în cosmos, în speranța că va fi interceptat într-o zi de o civilizație extraterestră.
+
+#+CAPTION: Radiotelescopul Arecibo, înainte de avariile din 2020. Sursă foto: [[https://www.ucf.edu/news/a-second-cable-fails-at-nsfs-arecibo-observatory-in-puerto-rico][University of Central California]].
+[[/img/arecibo.jpg]]
 
 ** Buletin Cosmic nr. 95 :voyager:iss:exomars:luna25:
 :PROPERTIES:
