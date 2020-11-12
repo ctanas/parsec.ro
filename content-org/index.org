@@ -5191,7 +5191,7 @@ SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD
 :EXPORT_HUGO_SECTION: bul
 :END:
 
-** Buletin Cosmic nr. 96   :spacex:ceres1:cz6:gps:artemis:luna:marte:arecibo:
+** Buletin Cosmic nr. 96 :spacex:ceres1:cz6:gps:artemis:luna:marte:arecibo:
 :PROPERTIES:
 :EXPORT_FILE_NAME: 096
 :EXPORT_DATE: 2020-11-11
@@ -5201,7 +5201,7 @@ SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD
 
 ---
 
-Congresul Statelor Unite [[https://spaceexplored.com/2020/11/10/nasa-hls-budget-short/][a aprobat marți]] aproximativ 1 miliard de dolari pentru programul Artemis, însă NASA a solicitase 3 miliarde pentru a putea realiza aselenizarea în 2024. Existența programului Artemis nu pare să fie periclitată de tranziția spre noua administrație de la Casa Albă, dar este foarte probabil ca aselenizarea să fie amânată pentru 2028 sau 2030. Oricum, amânarea testului primei trepte SLS pentru anul viitor punea deja serioase semne de întrebare cu privire la posibilitatea de a derula misiunea Artemis-3 în 2024. Ce știm cu siguranță în acest moment este că Gateway, viitoarea stație spațială lunară, nu va fi disponibillă în 2024, dar NASA a precizat că nu are nevoie de Gateway pentru a derula misiunea Artemis-3. Actualul administrator al NASA, Jim Bridenstine, a declarat în aceste zile că va renunța la funcție după ce noul președinte va fi investit, pentru că este spre binele agenției spațile ca viitorul său administrator să aibă relații când mai strânse cu Casa Albă.
+Congresul Statelor Unite [[https://spaceexplored.com/2020/11/10/nasa-hls-budget-short/][a aprobat marți]] aproximativ 1 miliard de dolari pentru programul Artemis, însă NASA a solicitase 3 miliarde pentru a putea realiza aselenizarea în 2024. Existența programului Artemis nu pare să fie periclitată de tranziția spre noua administrație de la Casa Albă, dar este foarte probabil ca aselenizarea să fie amânată pentru 2028 sau 2030. Oricum, amânarea testului primei trepte SLS pentru anul viitor punea deja serioase semne de întrebare cu privire la posibilitatea de a derula misiunea Artemis-3 în 2024. Ce știm cu siguranță în acest moment este că Gateway, viitoarea stație spațială lunară, nu va fi disponibillă în 2024, dar NASA a precizat că nu are nevoie de Gateway pentru a derula misiunea Artemis-3. Actualul administrator al NASA, Jim Bridenstine, a declarat în aceste zile că va renunța la funcție după ce noul președinte va fi investit, pentru că este spre binele agenției spațiale ca viitorul său administrator să aibă relații când mai strânse cu Casa Albă.
 
 ---
 
