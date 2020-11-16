@@ -5975,3 +5975,6 @@
 2020-079    2020-11-06 03:18   Chang Zheng 6           Y4                   ÑuSat                                          CN    Taiyuan      LC-16      S 96
 2020-080    2020-11-07 07:10   Ceres-1                                      Tianqi-11                                      CN    Jiuquan                 S 96
 2020-081    2020-11-07 09:41   PSLV-DL                 C49                  EOS-01                                         IN    Satish       SLP        S 96
+2020-082    2020-11-12 15:59   Chang Zheng 3B/E        3B-Y73               Tiantong-1 02                                  CN    Xichang      LC-2       S 97
+2020-083    2020-11-13 22:32   Atlas V 531             AV-090               NROL-101                                       US    CC           LC-41      S 97
+2020-084    2020-11-16 00:27   Falcon-9                099/1061.1           USCV-1 / Dragon-2 C207                         US    KSC          LC39A      S 97

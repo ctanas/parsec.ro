@@ -196,23 +196,28 @@ Construcția ISS a însemnat asamblare pe orbită a [modulelor componente](https
 
 *** Câți astronauți sunt acum pe orbită?
 
-În prezent sunt 3 astronauți la bordul Stației Spațiale Internaționale, parte a Expdiției 64:
+În prezent sunt 7 astronauți la bordul Stației Spațiale Internaționale, parte a Expdiției 64:
 
-| Nume                 | Agn  | Sosire      |       Data | Plecare     | Data       |
-|----------------------+------+-------------+------------+-------------+------------|
-| Sergei Ryzhikov      | RSA  | Soyuz MS-17 | 14.10.2020 | Soyuz MS-17 | xx.04.2021 |
-| Sergei Kud-Sverchkov | RSA  | Soyuz MS-17 | 14.10.2020 | Soyuz MS-17 | xx.04.2021 |
-| Kathleen Rubins      | NASA | Soyuz MS-17 | 14.10.2020 | Soyuz MS-17 | xx.04.2021 |
+| Nume                 | Agn  | Sosire             |       Data | Plecare            | Data       |
+|----------------------+------+--------------------+------------+--------------------+------------|
+| Sergei Ryzhikov      | RSA  | Soyuz MS-17        | 14.10.2020 | Soyuz MS-17        | xx.04.2021 |
+| Sergei Kud-Sverchkov | RSA  | Soyuz MS-17        | 14.10.2020 | Soyuz MS-17        | xx.04.2021 |
+| Kathleen Rubins      | NASA | Soyuz MS-17        | 14.10.2020 | Soyuz MS-17        | xx.04.2021 |
+|----------------------+------+--------------------+------------+--------------------+------------|
+| Mike Hpkins          | NASA | Dragon "Resilience | 17.11.2020 | Dragon "Resilience | xx.05.2021 |
+| Victor Glover        | NASA | Dragon "Resilience | 17.11.2020 | Dragon "Resilience | xx.05.2021 |
+| Soichi Noguchi       | JAXA | Dragon "Resilience | 17.11.2020 | Dragon "Resilience | xx.05.2021 |
+| Shannon Walker       | NASA | Dragon "Resilience | 17.11.2020 | Dragon "Resilience | xx.05.2021 |
 
 *** Câte vehicule sunt în prezent andocate la ISS?
 
-| Vehicul        |    Lansare | Rachetă     | Port    |     Sosire | Plecare    | Recuperare |
-|----------------+------------+-------------+---------+------------+------------+------------|
-| Cygnus NG-14   | 03.10.2020 | Antares-230 | Unity   | 05.10.2020 | xx.12.2020 | NU         |
-| Progress MS-14 | 25.04.2020 | Soyuz-2.1a  | Zvezda  | 25.04.2020 | xx.12.2020 | NU         |
-| Progress MS-15 | 23.07.2020 | Soyuz-2.1a  | Pirs    | 23.07.2020 | xx.xx.2020 | NU         |
-| Soyuz MS-16    | 09.04.2020 | Soyuz-2.1a  | Poisk   | 09.04.2020 | 21.10.2020 | DA         |
-| Soyuz MS-17    | 14.10.2020 | Soyuz-2.1a  | Rassvet | 14.10.2020 | xx.04.2021 | DA         |
+| Vehicul             |    Lansare | Rachetă     | Port    |     Sosire | Plecare    | Recuperare |
+|---------------------+------------+-------------+---------+------------+------------+------------|
+| Cygnus NG-14        | 03.10.2020 | Antares-230 | Unity   | 05.10.2020 | xx.12.2020 | NU         |
+| Progress MS-14      | 25.04.2020 | Soyuz-2.1a  | Zvezda  | 25.04.2020 | xx.12.2020 | NU         |
+| Progress MS-15      | 23.07.2020 | Soyuz-2.1a  | Pirs    | 23.07.2020 | xx.xx.2020 | NU         |
+| Soyuz MS-17         | 14.10.2020 | Soyuz-2.1a  | Rassvet | 14.10.2020 | xx.04.2021 | DA         |
+| Dragon "Resiliance" | 16.11.2020 | Falcon-9    | Harmony | 17.11.2020 | xx.05.2021 | DA         |
 
 *** Câți astronauți sunt de obicei la bordul ISS?
 
@@ -375,7 +380,7 @@ Boeing a anunțat că misiunea OFT va fi repetată[fn:reoft1], nu mai devreme de
 
 Misiunea, programată inițial pentru 27 mai, a fost amânată 3 zile din cauza condițiilor meteo nefavorabile.
 
-*** SpaceX USCV-1 (octombrie 2020 +6luni)
+*** SpaceX USCV-1 (16 noiembrie 2020 +6luni)
 /US Crew Vehicle 1/ (Dragon2 C207 "Resilience")
 
 - *Victor Glover* (primul zbor spațial)
@@ -1169,7 +1174,7 @@ WHERE lv_type LIKE ('Falcon%')
 |---------+------------+----------------+----------------------+------------|
 | B1058.1 | 30.05.2020 | Dragon DM-2    | OCISLY               | Falcon 9   |
 | B1058.2 | 21.07.2020 | Anasis-II      | JRI                  | Falcon 9   |
-| B1058.3 | ??.10.2020 | Starlink-12    | OCISLY?              | Falcon 9   |
+| B1058.3 | 18.10.2020 | Starlink-12    | OCISLY               | Falcon 9   |
 |---------+------------+----------------+----------------------+------------|
 | B1059.1 | 05.12.2019 | Dragon CRS-19  | OCISLY               | Falcon 9   |
 | B1059.2 | 07.03.2020 | Dragon CRS-20  | LZ-1                 | Falcon 9   |
@@ -1180,7 +1185,7 @@ WHERE lv_type LIKE ('Falcon%')
 | B1060.2 | 03.09.2020 | Starlink-11    | OCISLY               | Falcon 9   |
 | B1060.3 | 24.10.2020 | Starlink-14    | JRI                  | Falcon 9   |
 |---------+------------+----------------+----------------------+------------|
-| B1061.1 | ??.11.2020 | Dragon USCV-1  | ???                  | Falcon 9   |
+| B1061.1 | 16.11.2020 | Dragon USCV-1  | JRI                  | Falcon 9   |
 |---------+------------+----------------+----------------------+------------|
 | B1062.1 | ??.11.2020 | GPS3-SV04      | ???                  | Falcon 9   |
 | B1062.2 | ??.07.2021 | GPS3-SV05      | ???                  | Falcon 9   |
@@ -2399,7 +2404,6 @@ Câteva dintre cele mai reușite documentare, dramatizări, podcasts și jocuri 
    + [[https://www.slitherine.com/game/buzz-aldrins-space-program-manager][Buzz Aldrin's Space Program Manager]] --2*
    + [[https://www.kerbalspaceprogram.com/][Kerbal Space Program]] --1*
    + [[https://www.simplerockets.com/][Simple Rockets]] --1*
-    
      
 * Interviuri
 :PROPERTIES:

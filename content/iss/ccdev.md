@@ -35,7 +35,7 @@ _Demo Mission 2_ (Dragon2 C206 "Endeavour")
 Misiunea, programată inițial pentru 27 mai, a fost amânată 3 zile din cauza condițiilor meteo nefavorabile.
 
 
-## SpaceX USCV-1 (octombrie 2020 +6luni) {#spacex-uscv-1--octombrie-2020-plus-6luni}
+## SpaceX USCV-1 (16 noiembrie 2020 +6luni) {#spacex-uscv-1--16-noiembrie-2020-plus-6luni}
 
 _US Crew Vehicle 1_ (Dragon2 C207 "Resilience")
 

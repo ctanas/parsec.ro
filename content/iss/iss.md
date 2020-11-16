@@ -13,24 +13,28 @@ Construcția ISS a însemnat asamblare pe orbită a [modulelor componente](<http
 
 ## Câți astronauți sunt acum pe orbită? {#câți-astronauți-sunt-acum-pe-orbită}
 
-În prezent sunt 3 astronauți la bordul Stației Spațiale Internaționale, parte a Expdiției 64:
+În prezent sunt 7 astronauți la bordul Stației Spațiale Internaționale, parte a Expdiției 64:
 
-| Nume                 | Agn  | Sosire      | Data       | Plecare     | Data       |
-|----------------------|------|-------------|------------|-------------|------------|
-| Sergei Ryzhikov      | RSA  | Soyuz MS-17 | 14.10.2020 | Soyuz MS-17 | xx.04.2021 |
-| Sergei Kud-Sverchkov | RSA  | Soyuz MS-17 | 14.10.2020 | Soyuz MS-17 | xx.04.2021 |
-| Kathleen Rubins      | NASA | Soyuz MS-17 | 14.10.2020 | Soyuz MS-17 | xx.04.2021 |
+| Nume                 | Agn  | Sosire             | Data       | Plecare            | Data       |
+|----------------------|------|--------------------|------------|--------------------|------------|
+| Sergei Ryzhikov      | RSA  | Soyuz MS-17        | 14.10.2020 | Soyuz MS-17        | xx.04.2021 |
+| Sergei Kud-Sverchkov | RSA  | Soyuz MS-17        | 14.10.2020 | Soyuz MS-17        | xx.04.2021 |
+| Kathleen Rubins      | NASA | Soyuz MS-17        | 14.10.2020 | Soyuz MS-17        | xx.04.2021 |
+| Mike Hpkins          | NASA | Dragon "Resilience | 17.11.2020 | Dragon "Resilience | xx.05.2021 |
+| Victor Glover        | NASA | Dragon "Resilience | 17.11.2020 | Dragon "Resilience | xx.05.2021 |
+| Soichi Noguchi       | JAXA | Dragon "Resilience | 17.11.2020 | Dragon "Resilience | xx.05.2021 |
+| Shannon Walker       | NASA | Dragon "Resilience | 17.11.2020 | Dragon "Resilience | xx.05.2021 |
 
 
 ## Câte vehicule sunt în prezent andocate la ISS? {#câte-vehicule-sunt-în-prezent-andocate-la-iss}
 
-| Vehicul        | Lansare    | Rachetă     | Port    | Sosire     | Plecare    | Recuperare |
-|----------------|------------|-------------|---------|------------|------------|------------|
-| Cygnus NG-14   | 03.10.2020 | Antares-230 | Unity   | 05.10.2020 | xx.12.2020 | NU         |
-| Progress MS-14 | 25.04.2020 | Soyuz-2.1a  | Zvezda  | 25.04.2020 | xx.12.2020 | NU         |
-| Progress MS-15 | 23.07.2020 | Soyuz-2.1a  | Pirs    | 23.07.2020 | xx.xx.2020 | NU         |
-| Soyuz MS-16    | 09.04.2020 | Soyuz-2.1a  | Poisk   | 09.04.2020 | 21.10.2020 | DA         |
-| Soyuz MS-17    | 14.10.2020 | Soyuz-2.1a  | Rassvet | 14.10.2020 | xx.04.2021 | DA         |
+| Vehicul             | Lansare    | Rachetă     | Port    | Sosire     | Plecare    | Recuperare |
+|---------------------|------------|-------------|---------|------------|------------|------------|
+| Cygnus NG-14        | 03.10.2020 | Antares-230 | Unity   | 05.10.2020 | xx.12.2020 | NU         |
+| Progress MS-14      | 25.04.2020 | Soyuz-2.1a  | Zvezda  | 25.04.2020 | xx.12.2020 | NU         |
+| Progress MS-15      | 23.07.2020 | Soyuz-2.1a  | Pirs    | 23.07.2020 | xx.xx.2020 | NU         |
+| Soyuz MS-17         | 14.10.2020 | Soyuz-2.1a  | Rassvet | 14.10.2020 | xx.04.2021 | DA         |
+| Dragon "Resiliance" | 16.11.2020 | Falcon-9    | Harmony | 17.11.2020 | xx.05.2021 | DA         |
 
 
 ## Câți astronauți sunt de obicei la bordul ISS? {#câți-astronauți-sunt-de-obicei-la-bordul-iss}
