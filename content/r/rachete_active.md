@@ -103,4 +103,4 @@ Lista tuturor lansatoarelor orbitale active folosite în prezent, împreună cu 
 | 93  | Soyuz-2-1V         | RU   | 6         | 6       | 0       | 2013-12-28 | 2019-11-25 |
 | 94  | Unha-2             | KP   | 1         | 0       | 1       | 2009-04-05 | 2009-04-05 |
 | 95  | Unha-3             | KP   | 2         | 1       | 1       | 2012-04-12 | 2012-12-12 |
-| 96  | Vega               | EU   | 15        | 14      | 1       | 2012-02-13 | 2020-09-03 |
+| 96  | Vega               | EU   | 16        | 14      | 2       | 2012-02-13 | 2020-11-17 |

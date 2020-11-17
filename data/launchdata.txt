@@ -5978,3 +5978,4 @@
 2020-082    2020-11-12 15:59   Chang Zheng 3B/E        3B-Y73               Tiantong-1 02                                  CN    Xichang      LC-2       S 97
 2020-083    2020-11-13 22:32   Atlas V 531             AV-090               NROL-101                                       US    CC           LC-41      S 97
 2020-084    2020-11-16 00:27   Falcon-9                099/1061.1           USCV-1 / Dragon-2 C207                         US    KSC          LC39A      S 97
+2020-F09    2020-11-17 01:52   Vega                    VV17                 SEOSat / TARANIS                               EU    Kourou       ELV        F 97
