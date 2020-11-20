@@ -5213,6 +5213,10 @@ Miercuri, Sergei Ryzhikov și Sergei Kud-Sverchkov au efectuat miercuri o activi
 
 Trei rachete de calibru greu se pregătesc pentru lansare în perioada imediat următoare: Changzheng-5 în China (în 23 noiembrie), pentru o misiune spre Lună (cu o sondă care urmează să aducă pe Pământ roci și sol lunar), Angara-A5 din Rusia (programată pentru 28 noiembrie), la o distanță de 6 ani(!) de la zborul inaugural al acestei rachete și Delta IV Heavy, care urmează să lanseze până la sfârșitul acestei luni satelitul NROL-44 de la Cape Canaveral, după mai multe amânări.
 
+---
+
+Variante audio a acestui material poate fi ascultată la [[https://radioromaniacultural.ro/cucerirea-spatiului-misiune-posibila-pentru-spacex-si-nasa/][Radio România Cultural]].
+
 ** Buletin Cosmic nr. 96 :spacex:ceres1:cz6:gps:artemis:luna:marte:arecibo:
 :PROPERTIES:
 :EXPORT_FILE_NAME: 096
@@ -5240,6 +5244,10 @@ După ce în 10 august un cablu care susținea binecunoscutul radiotelescop din 
 #+CAPTION: Radiotelescopul Arecibo, înainte de avariile din 2020. Sursă foto: [[https://www.ucf.edu/news/a-second-cable-fails-at-nsfs-arecibo-observatory-in-puerto-rico][University of Central California]].
 [[/img/arecibo.jpg]]
 
+---
+
+Varianta audio a acestui material poate fi ascultată la [[https://radioromaniacultural.ro/racheta-ceres-1-dezvoltata-de-galactic-energy-a-decolat-de-la-centrul-spatial-jiuquan/][Radio România Cultural]].
+
 ** Buletin Cosmic nr. 95 :voyager:iss:exomars:luna25:
 :PROPERTIES:
 :EXPORT_FILE_NAME: 095
@@ -5266,6 +5274,10 @@ Viitorul rover marțian Rosalind Freanklin, parte a misiunii europene *Exomars*,
 ---
 
 Chiar dacă mai puțin ambițios decât programul american de explorare al Lunii, există și un program rusesc paralel, derulat împreună cu agenția spațială europeană. [[https://t.co/HcaiwYKVxo][Misiunea Luna-25]] este pregătită în această perioadă pentru lansarea care va avea loc anul viitor: luna trecută au avut loc o serie de teste, iar în august sonda va fi transportată la noul cosmodrom Vostochny din estul extrem al Rusiei, de unde va fi lansată de o rachetă Soyuz-2.1b în data de 1 octombrie 2021. După un drum de 5 zile, sonda va intra pe orbită polară și timp de o săptămână se va pregăti pentru aselenizarea în zona polului sud lunar. La bordul landerului vor fi instalate 8 echipamente științifice iar obiectivul principal al misiunii va fi aselenizarea în siguranță, urmând în 2024 să demareze misiunea Luna-26, apoi Luna-27 în 2025. Aceasta din urmă are ca obiectiv aselenizarea pe fața îndepărtată a Lunii, dar și aducerea pe Pămâmnt a unor eșantioane de sol lunar, la fel ca Luna-28 în 2028. Ultima misiune robotică lunară a URSS a fost Luna-24 și aceasta a adus în 1976 pe Pământ 170 de grame de sol selenar, fiind până în prezent ultima misiune care a transportat probe de pe Lună.
+
+---
+
+Varianta audio a acestui material poate fi ascultată la [[https://radioromaniacultural.ro/spacex-pregatiri-pentru-lansarea-a-patru-astronauti-spre-statia-spatiala-internationala/][Radio România Cultural]].
 
 ** Buletin Cosmic nr. 94 :starlink:glonass:yaogan:luna:osirisrex:gateway:electron:
 :PROPERTIES:
@@ -5305,6 +5317,10 @@ NASA [[https://www.nasa.gov/press-release/nasa-s-sofia-discovers-water-on-sunlit
 
 Vă spuneam săptămâna trecută că sonda *OSIRIS-REx* a prelevat probe de pe suprafața asteroidului *Bennu*. Se pare însă că sonda a adunat  atât de multe fragmente de sol încât valva care trebuia să închidă cupa de prelevare s-a blocat în poziția “deschis”, iar ulterior o parte din fragmentele prelevate au fost pierdute în spațiu. NASA estimează că a pierdut aproximativ 10 grame de sol, dar vestea bună este că a prelevat cu mult peste cele 60 de grame dorite inițial. Manevra de cântărire a fost anulată pentru a nu pierde și mai multe fragmente, dar se pare că în cupa de prelevare au ajuns între 400 grame și 2 kilograme(!) de fragmente de sol. Echipa de ingineri lucrează acum la [[https://www.nasa.gov/press-release/nasa-s-osiris-rex-spacecraft-goes-for-early-stow-of-asteroid-sample][manevre de împachetate a brațului colector]], pentru a limita pierderea de probe, iar până atunci orice manevră a sondei a fost anulată. Astfel, OSIRIS-REx nu va mai reveni pe orbita lui Bennu și nici nu va mai încerca o altă manevră de prelevare, iar probele vor fi stocate în siguranță în capsula care urmează să ajungă pe Pământ în septembrie 2023.
 
+---
+
+Varianta audio a acestui material poate fi ascultată la [[https://radioromaniacultural.ro/nasa-si-esa-au-semnat-o-intentie-de-colaborare-astfel-cel-putin-trei-astronauti-europeni-vor-participa-la-misiunile-artemis/][Radio România Cultural]].
+
 ** Buletin Cosmic nr. 93 :soyuz:ms16:iss:bennu:spacex:starlink:
 :PROPERTIES:
 :EXPORT_FILE_NAME: 093
@@ -5332,6 +5348,10 @@ Până în prezent, au fost lansați [[https://planet4589.org/space/stats/megaco
 
 În 2020 au avut loc până astăzi 81 de tentative de lansări orbitale, din care 8 eșecuri (4 pentru China, 3, pentru SUA și 1 pentru Iran). Cu 27 de lansări, Statele Unite conduc acest clasament, iar China se află pe un apropiat loc 2, cu doar 26 de lansări. Pe locul trei, însă la mare distanță, se află Rusia, cu 11 lansări, urmată de Europa (4), Japonia (3) și Iran și Israel, câte o lansare.
 
+---
+
+Varianta audio a acestui material poate fi ascultată la [[https://radioromaniacultural.ro/sonda-osiris-rex-a-atins-suprafata-asteroidului-bennu-aflat-la-321-de-milioane-de-km-de-pamant/][Radio Romania Cultural]].
+
 ** Buletin Cosmic nr. 92 :newshepard:soyuz:ms17:sls:artemis:uscv1:
 :PROPERTIES:
 :EXPORT_FILE_NAME: 092
@@ -5358,6 +5378,10 @@ SLS sau /Space Launch System/ se pregătește pentru o serie de două teste vita
 ---
 
 Duminică, 11 octombrie, o rachetă Changzheng-3B a lansat satelitul Gaofen-13 de la centrul spațial Xichang. Lansarea a avut loc la ora 19:57 ora României și satelitul a fost trimis pe orbită geostaționară, existând zvonuri care spun că acesta ar fi unul cu dublu rol, civil și militar. A fost a 70-a lansare a unei rachete Changzheng-3B din februarie 1996, rachetă care a suferit de atunci doar 2 eșecuri.
+
+---
+
+Varianta audio a acestui material poate fi ascultată la [[https://radioromaniacultural.ro/buletin-cosmic-nr-92/][Radio România Cultural]].
 
 ** Buletin Cosmic nr. 91 :antares:cygnus:ng14:spacex:falcon9:starlink:amur:boeing:cst100:
 :PROPERTIES:
@@ -5390,6 +5414,10 @@ NRO, agenția guvernamentală responsabilă cu sateliții americani de spionaj, 
 
 Chris Ferguson, fost astronaut NASA, a anunțat că se retrage din misiunea test a capsulei *CST-100* programată pentru anul viitor. Ferguson, în vârstă de 59 de ani, a fost comandantul misiunii STS-135, ultimul zbor al navetei Atlantis și ultima misiune a unei navete spațiale americane. Acesta a declarat că dorește să dedice mai mult timp familiei și va fi înlocuit de Boeing cu Barry Wilmore, un alt fost astronaut experimentat al NASA. Capsula CST-100 a companiei *Boeing* urmează să refacă în acest an testul fără echipaj, după misiunea eșuată de anul trecut, când capsula nu a ajuns pe orbita corectă din cauza unor probleme software. Abia după acest nou test NASA va permite companiei Boeing să înceapă zborurile cu echipaj spre Stația Spațiale Internațională. Între timp, SpaceX se pregătește pentru al doilea zbor cu echipaj spre ISS, lansarea noii capsule Dragon fiind programată pentru finalul acestei luni. Retragerea lui Ferguson este a doua din echipajul misiunii inaugurale, după ce anul trecut Eric Boe s-a retras din motive medicale.
 
+---
+
+Varianta audio a acestui material poate fi ascultată la [[https://radioromaniacultural.ro/buletin-cosmic-nr-91/][Radio România Cultural]].
+
 ** Buletin Cosmic nr. 90 :venus:marte:spacex:dragon:iss:
 :PROPERTIES:
 :EXPORT_FILE_NAME: 090
@@ -5416,6 +5444,10 @@ NASA și SpaceX se pregătesc să lanseze, la sfârșitul lunii octombrie, a dou
 
 #+CAPTION: Capsula Dragon 2, carianta cargo, care urmează să fie folosită începând din acest an pentru aprovizionarea Stației Spațiale Internaționale.
 [[/img/dragon2cargo.jpg]]
+
+---
+
+Varianta audio a acestui material poate fi ascultată la [[https://radioromaniacultural.ro/buletin-cosmic-40/][Radio România Cultural]].
 
 ** Buletin Cosmic nr. 89 :artemis:nasa:venus:cz4b:
 :PROPERTIES:
@@ -5445,6 +5477,10 @@ Nu știm încă dacă precizia instrumentului este însă suficientă pentru det
 
 Doar o singură lansare orbitală a avut loc în ultima săptămână: o rachetă Changzheng-4B a plasat pe orbită satelitul Haiyang-2C destinat observațiilor oceanice. Lansarea a avut loc de la centrul spațial Jiuquan și a fost a 28-a lansare orbitală a Chinei în acest an, devansând astfel Statele Unite, care au doar 27 de lansări orbitale. China conduce și în clasamentul lansărilor eșuate, 4, față de 3 rachete americane care nu au ajuns pe orbită în acest an. Statele Unite au șansa să treacă din nou pe prima poziție a clasamentului dacă cele două lansări programate pentru acest sfârșit de săptămână vor avea loc: lansarea rachetei Delta IV Heavy cu satelitul de spionaj NROL-44 și o rachetă Falcon 9 cu nou set de sateliți Starlink, ambele lansări fiind programate să aibă loc din Florida. Prima treaptă a rachetei Changzheng-4B a fost dotată cu patru aripioare manevrabile, asemănătoare cu cele ale rachetei Falcon 9, dar care nu sunt folosite pentru aterizarea primeri trepte ci pentru un mai bun control în timpul revenirii prin atmosferă a acesteia și pentru evitarea prăbușirii deasupra zonelor populate, una dintre aceste aripioare fiind recuperate dintr-o lansare anterioară.
 
+---
+
+Varianta audio a acestui material poate fi ascultată la [[https://radioromaniacultural.ro/buletin-cosmic-nr-89/][Radio România Cultural]].
+
 ** Buletin Cosmic nr. 88 :venus:astra:kuaizhou:cz11:
 :PROPERTIES:
 :EXPORT_FILE_NAME: 088
@@ -5466,6 +5502,9 @@ Al doilea eșec a avut loc în China la ora 08:02 ora României, unde o rachetă
 *** A doua lansare chinezească de pe o barjă
 
 Marți, la trei zile după eșecul rachetei Kuaizhou-1A, China a lansat o rachetă *Changzheng-11*, care a plasat pe orbită nouă sateliți. Aceasta a fost a doua lansare orbitală a Chinei de pe o barjă maritimă, denumită Debo-3, după zborul inaugural din iunie 2019 (lansarea din 2019 a avut loc de pe o altă barjă, denumită Tairui). Changzheng-11 este o rachetă de calibru ușor, cu combustibil solid, în patru trepte, care a efectuat până acum 9 zboruri orbitale, toate încheiate cu succes.
+
+
+Varianta audio a acestui material poate fi ascultată la [[https://radioromaniacultural.ro/buletin-cosmic-nr-88/][Radio România Cultural]].
 
 ** Buletin Cosmic nr. 87 :spacex:starlink:electron:vega:china:usaf:
 :PROPERTIES:
@@ -5500,6 +5539,10 @@ Secvența lansării *Delta IV Heavy* de sâmbătă, 29 august, a fost întrerupt
 Au fost anunțate deja trei contracte pentru lansări în 2022: două lansări contractate cu ULA pentru 337 milioane de dolari (USSF-51 și USSF-106) și 316 milioane de dolari pentru SpaceX (USSF-67), fără detalii despre sateliți, însă suma uriașă primită de SpaceX probabil implică o rachetă Falcon Heavy cu un con protector mai generos și probabil modificări ale modului în care satelitul este montat la bordul rachetei. ULA va folosi viitorul lansator Vulcan pentru derularea acestor contacte, în timp ce SpaceX va utiliza Falcon-9 și Falcon Heavy.
 
 Din păcate asta înseamnă că *Northrop Grumann* și *Blue Origin* nu vor primi fonduri pentru rachetele OmegA și respectiv New Glenn, deși cele două companii au fost finanțate în prima fază a competiției. Însă cele două companii vor beneficia însă de aceste contracte indirect, pentru că cei care vor fabrica motoarele BE-4 necesare pentru rachetele Vulcan sunt Blue Origin, iar boosterele suplimemntare pentru Vulcan sunt construite de Nortrop Grumann. Este foarte posibil ca Jeff Bezos să continue finanțarea rachetei New Glenn din fonduri proprii (Bezos a vândut recent acțiuni Amazon în valoare de 3 miliarde de dolari pentru a continua finanțarea Blue Origin), însă viitorul rachetei OmegA rămâne incert, aceasta fiind dezvoltată aproape exclusiv pentru contracte cu USAF/USSF, deși Northrop Grumann nu a făcut încă un anunț oficial în această privință.
+
+---
+
+Varianta audio a acestui material poate fi ascultată la [[https://radioromaniacultural.ro/buletin-cosmic-39/][Radio România Cultural]].
 
 ** Buletin Cosmic nr. 86 :spacex:ariane5:cz2d:htv:iss:
 :PROPERTIES:
@@ -5664,6 +5707,10 @@ Continuând deschiderea către sectorul privat, NASA a anunțat în 22 iunie că
 
 Agenția spațială rusă a făcut publice câteva detalii cu privire la viitoarea capsulă *Oryol*[fn::https://www.roscosmos.ru/28714/], proiectată pentru a o înlocui pe legendara Soyuz. Astfel, primul zbor test al unei capsule complet funcționale, fără echipaj, este în prezent programat pentru 2023, iar primul zbor orbital cu echipaj în 2025. În 2029, o versiune adaptată pentru zboruri spre Lună urmează să transporte primul echipaj pe o traiectorie cislunară. Oryol va putea petrece un an pe orbită, andocată cu o stație spațială (Stația Spațială Internațională sau o viitoare stație spațială rusă), sau 180 de zile pe orbită în jurul Lunii. Lansările vor avea loc de la noul cosmodrom Vostochny folosind o rachetă Angara pentru orbite terestre și un viitor lansator supergreu pentru misiunile lunare. Oryol va putea lansa 4 astronauți, dar va putea aduce înapoi pe Pământ cu 2 în plus, dacă va fi nevoie și este proiectată să poată fi pilotată de un singur astronaut. Revenirea pe Pământ se va face similar cu revenirea capsulei Soyuz: un sistem de parașute va încetini capsula, iar un sistem de retrorachete vor fi activate în ultimele momente ale zborului, pentru a reduce și mai mult impactul cu solul.
 
+---
+
+Varianta audio a acestui material poate fi ascultată la [[https://radioromaniacultural.ro/buletin-cosmic-nr-81/][Radio România Cultural]].
+
 ** Buletin Cosmic nr. 80 :spacex:falcon9:starlink:electron:viper:iss:rocketlab:
 :PROPERTIES:
 :EXPORT_FILE_NAME: 080
@@ -5688,6 +5735,10 @@ Miercuri, 17 iunie, la ora 10:19 ora României, o rachetă *Changzheng-2D* a lan
 ---
 
 În ultima lună, pe *Stația Spațială Internațională* s-au întregistrat valori mai mari decât obișnuite pentru concentrația de benzen din atmosferă. Valorile nu au atins un prag periculos și echipajul a fost ocupat cu misiunea Demo Mission 2 până acum câteva zile, când au început să investigheze problema prezenței benzenului. Sursa acestuia nu a fost identificată și pentru a reuși să localizeze problema, în cursul acestei săptămâni, ventilația a fost separată între secțiunile rusești și americane ale stației, în timp ce astronauții monitorizează în continuare nivelul de benzen din atmosferă[fn::https://ria.ru/20200613/1572872419.html].
+
+---
+
+Varianta audio a acestui material poate fi ascultată la [[https://radioromaniacultural.ro/buletin-cosmic-nr-80/][Radio România Cultural]].
 
 ** Buletin Cosmic nr. 79 :starlink:spacex:falcon9:marte:qased:halo:gateway:
 :PROPERTIES:
@@ -5728,6 +5779,10 @@ Dacă Luna se depărtează de Pământ cu 3.8 centimetri în fiecare an, există
 
 *Telescopul spațial James Webb* nu va fi lansat nici în martie 2021, data țintită în ultima perioadă, conform unui anunț făcut miercuri de NASA[fn::https://arstechnica.com/science/2020/06/james-webb-space-telescope-will-absolutely-not-launch-in-march/]. Planificat inițial pentru o lansare în 2007 și un cost de 1 miliard de dolari, telescopul spațial James Webb a ajuns să coste aproape 10 miliarde de dolari. Un raport guvernamental[fn::https://www.gao.gov/assets/710/704078.pdf] estima că există șanse de doar 12% ca lansarea telescopului să aibă loc anul viitor. Privit ca un succesor al telescopului spațial Hubble, telescopul James Webb va studia universul în domeniul radiației infraroșii și va fi plasat la 1.5 milioane kilometri de Pământ, în punctul Lagrange L2. Lansarea trebuie să decurgă perfect, pentru că, spre deosebire de Hubble, echipajele de astronauți nu vor putea să ajungă la telescopul James Webb pentru reparații. În momentul lansării, va fi probabil cel mai scump satelit lansat vreodată, sarcină ce îi revine rachetei europene Ariane 5.
 
+---
+
+Varianta audio a acestui material poate fi ascultată la [[https://radioromaniacultural.ro/buletin-cosmic-nr-79/][Radio România Cultural]].
+
 ** Buletin Cosmic nr. 78 :dragon:nasa:spacex:dm2:ch11:cz2d:starship:
 :PROPERTIES:
 :EXPORT_FILE_NAME: 078
@@ -5752,6 +5807,10 @@ Duminică la ora 11:53 ora României, o rachetă *Changzheng-2D* a decolat de pe
 *** Alte evenimente
 
 Vineri, prototipul *Starship SN4* al companiei SpaceX a explodat[fn::https://www.youtube.com/watch?v=mvtLXa7x_cY] la centrul de testare de la Boca Chica, Texas, în urma unui test static al unui motor Raptor. După oprirea motorului, în urma unei scurgeri de combustibil, s-a produs o deflagrație care a avariat sever atât prototipul, când și standul de test, însă din fericire nimeni nu a fost rănit. Este al patrulea incident de acest fel, dar următoarele două prototipuri, SN5 și SN6 sunt parțial construite și poate acestea vor reuși un test la 200 metri înalțime în acest an, urmat de un zbor orbital, pași la care prototipurile precedente nu au mai ajuns. Starship este viitoarea rachetă SpaceX, de calibru super-greu, cu care Elon Musk speră să trimită echipaje spre Lună și Marte.
+
+---
+
+Varianta audio a acestui material poate fi ascultată la [[https://radioromaniacultural.ro/buletin-cosmic-nr-78/][Radio România Cultural]].
 
 ** Buletin Cosmic nr. 77 :soyuz:rocketone:virginorbit:spacex:nasa:dragon:htv:
 :PROPERTIES:
@@ -5781,6 +5840,10 @@ Din cauza condițiilor meteo nefavorabile, *SpaceX* a fost nevoită să amâne l
 ---
 
 Nava *HTV-9*, ultima din actuala generație a vehiculelor spatiale nipone, a fost capturată luni de brațul robotic al *Stației Spatiale Internaționale* și a fost conectat cu modulul Harmony, unde va rămâne până în luna iulie. HTV-9 a fost lansată miercuri, 20 mai, de o rachetă H-IIB de la centrul spațial Tanegashima din Japonia. HTV-X, noua navă cargo, care va fi lansată folosind viitoarea rachetă niponă H-IIIB, va debuta anul viitor, tot pentru transport de marfă spre Stația Spațială Internațională.
+
+---
+
+Varianta audio a acestui material poate fi ascultată la [[https://radioromaniacultural.ro/buletin-cosmic-nr-77/][Radio România Cultural]].
 
 ** Buletin Cosmic nr. 76 :venus:x37b:atasv:htv9:h2b:venus:nasa:
 :PROPERTIES:
@@ -5813,6 +5876,8 @@ Cu o săptămână înaintea lansării misiunii SpX-DM-2 cu astronauți la bordu
 Doug Loverro l-a înlocuit în 2019 pe William Gerstenmaier[fn::https://www.nasa.gov/press-release/nasa-administrator-selects-douglas-loverro-as-next-human-spaceflight-head], care deținea respectiva funcție de 15 ani. Acum Ken Bowersox, un fost astronaut și participant în 5 misiuni ale navetei spațiale, este temporar în fruntea programului de zboruri cu echipaj, după ce a asigurat interimatul după demiterea lui Gerstenmaier până la preluarea funcției de Loverro.
 
 ---
+
+Varianta audio a acestui material poate fi ascultată la [[https://radioromaniacultural.ro/buletin-cosmic-nr-76/][Radio România Cultural]].
 
 ** Buletin Cosmic nr. 75 :kuaizhou:cygnus:ng13:soyuz:cz5b:hayabusa2:
 :PROPERTIES:
