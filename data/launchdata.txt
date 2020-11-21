@@ -5971,11 +5971,13 @@
 2020-075    2020-10-25 19:08   Soyuz-2.1b                                   Uragan-K No.15L                                RU    Plesetsk     43/3       S 94
 2020-076    2020-10-26 15:19   Chang Zheng 2C          2C-Y43               Yaogan 30-07                                   CN    Xichang      LC-3       S 94
 2020-077    2020-10-28 21:21   Electron                15                   In Focus / CE-SAT-IIB                          US    Mahia        LC-1       S 94
-2020-078    2020-11-05 23:24   Falcon-9                098/1062.1           GPS-III-SV04                                   US    CC           LC40       S 96
+2020-078    2020-11-05 23:24   Falcon 9                098/1062.1           GPS-III-SV04                                   US    CC           LC40       S 96
 2020-079    2020-11-06 03:18   Chang Zheng 6           Y4                   ÑuSat                                          CN    Taiyuan      LC-16      S 96
 2020-080    2020-11-07 07:10   Ceres-1                                      Tianqi-11                                      CN    Jiuquan                 S 96
 2020-081    2020-11-07 09:41   PSLV-DL                 C49                  EOS-01                                         IN    Satish       SLP        S 96
 2020-082    2020-11-12 15:59   Chang Zheng 3B/E        3B-Y73               Tiantong-1 02                                  CN    Xichang      LC-2       S 97
 2020-083    2020-11-13 22:32   Atlas V 531             AV-090               NROL-101                                       US    CC           LC-41      S 97
-2020-084    2020-11-16 00:27   Falcon-9                099/1061.1           USCV-1 / Dragon-2 C207                         US    KSC          LC39A      S 97
+2020-084    2020-11-16 00:27   Falcon 9                099/1061.1           USCV-1 / Dragon-2 C207                         US    KSC          LC39A      S 97
 2020-F09    2020-11-17 01:52   Vega                    VV17                 SEOSat / TARANIS                               EU    Kourou       ELV        F 97
+2020-085    2020-11-20 01:44   Electron                16                   Return to Sender / SpaceBEE                    US    Mahia        LC-1       S 98
+2020-086    2020-11-21 17:17   Falcon 9                100/1063.1           Sentinel-6                                     US    Vandenberg   SLC-4E     S 98

@@ -4,113 +4,114 @@ author = ["Claudiu"]
 draft = false
 +++
 
-| Data       | Racheta      | Tip         | Satelit primar                             | Centru | Rampă | R |
-|------------|--------------|-------------|--------------------------------------------|--------|-------|---|
-| 2006-03-24 | Falcon 1     | F001        | Falconsat-2 / Falconsat 2                  | KMR    | OM    | F |
-| 2007-03-21 | Falcon 1     | F002        | Demosat / AFSS/LCT2                        | KMR    | OM    | F |
-| 2008-08-03 | Falcon 1     | F003        | Trailblazer / ORS Trailblazer              | KMR    | OM    | F |
-| 2008-09-28 | Falcon 1     | F004        | Ratsat / Mass simulator                    | KMR    | OM    | S |
-| 2009-07-14 | Falcon 1     | F005        | Razaksat / MACSat                          | KMR    | OM    | S |
-| 2010-06-04 | Falcon 9     | 001         | Dragon Qual Unit / Dragon Spacecraft       | CC     | LC40  | S |
-| 2010-12-08 | Falcon 9     | 002         | Dragon C1 / Dragon C101                    | CC     | LC40  | S |
-| 2012-05-22 | Falcon 9     | 003         | Dragon C2 / Dragon C102                    | CC     | LC40  | S |
-| 2012-10-08 | Falcon 9     | 004         | Dragon CRS-1 / Dragon C103                 | CC     | LC40  | S |
-| 2013-03-01 | Falcon 9     | 005         | Dragon CRS-2 / Dragon C104                 | CC     | LC40  | S |
-| 2013-09-29 | Falcon 9     | 006         | Cassiope/Demo / Cassiope                   | SVAFB  | SLC4E | S |
-| 2013-12-03 | Falcon 9     | 007         | SES-8                                      | CC     | LC40  | S |
-| 2014-01-06 | Falcon 9     | 008         | Thaicom  6                                 | CC     | LC40  | S |
-| 2014-04-18 | Falcon 9     | 009         | Dragon CRS-3 / Dragon C105                 | CC     | LC40  | S |
-| 2014-07-14 | Falcon 9     | 010         | Orbcomm OG2 Mission 1 / Orbcomm OG2        | CC     | LC40  | S |
-| 2014-08-05 | Falcon 9     | 011         | Asiasat 8                                  | CC     | LC40  | S |
-| 2014-09-07 | Falcon 9     | 013         | Asiasat 6 / Asiasat 6/Thaicom              | CC     | LC40  | S |
-| 2014-09-21 | Falcon 9     | 012         | Dragon CRS-4 / Dragon C106                 | CC     | LC40  | S |
-| 2015-01-10 | Falcon 9     | 014         | Dragon CRS-5 / Dragon C107                 | CC     | LC40  | S |
-| 2015-02-11 | Falcon 9     | 015         | DSCOVR                                     | CC     | LC40  | S |
-| 2015-03-02 | Falcon 9     | 016         | ABS-3A/Eutelsat115WB                       | CC     | LC40  | S |
-| 2015-04-14 | Falcon 9     | 017         | Dragon CRS-6 / Dragon C108                 | CC     | LC40  | S |
-| 2015-04-27 | Falcon 9     | 018         | TurkmenAlem52E/MonacoSat / Turkmensat      | CC     | LC40  | S |
-| 2015-06-28 | Falcon 9     | 020         | Dragon CRS-7 / Dragon C109                 | CC     | LC40  | F |
-| 2015-12-22 | Falcon 9     | 021/B1019   | Orbcomm OG2 Mission 2 / Orbcomm OG2        | CC     | LC40  | S |
-| 2016-01-17 | Falcon 9     | 019         | Jason-3                                    | SVAFB  | SLC4E | S |
-| 2016-03-04 | Falcon 9     | 022/B1020?  | SES-9                                      | CC     | LC40  | S |
-| 2016-04-08 | Falcon 9     | 023/B1021   | Dragon CRS-8 / Dragon C110                 | CC     | LC40  | S |
-| 2016-05-06 | Falcon 9     | 024/B1022?  | JCSAT 2B / JCSAT 14                        | CC     | LC40  | S |
-| 2016-05-27 | Falcon 9     | 025/B1023   | Thaicom 8                                  | CC     | LC40  | S |
-| 2016-06-15 | Falcon 9     | 026/B1024?  | ABS-2/Eutelsat 117WB                       | CC     | LC40  | S |
-| 2016-07-18 | Falcon 9     | 027/B1025   | Dragon CRS-9 / Dragon C111                 | CC     | LC40  | S |
-| 2016-08-14 | Falcon 9     | 028/B1026?  | JCSAT 16                                   | CC     | LC40  | S |
-| 2017-01-14 | Falcon 9     | 030/B1029   | Iridium-1 / Iridium Next SV1-10            | SVAFB  | SLC4E | S |
-| 2017-02-19 | Falcon 9     | 032/B1031   | Dragon CRS-10 / Dragon C112                | KSC    | LC39A | S |
-| 2017-03-16 | Falcon 9     | 031/B1030   | Echostar 23                                | KSC    | LC39A | S |
-| 2017-03-30 | Falcon 9     | 033/B1021.2 | SES-10                                     | KSC    | LC39A | S |
-| 2017-05-01 | Falcon 9     | 035/B1032   | USA 276 / NROL-76                          | KSC    | LC39A | S |
-| 2017-05-15 | Falcon 9     | 034/B1034   | Inmarsat 5F4                               | KSC    | LC39A | S |
-| 2017-06-03 | Falcon 9     | 036/B1035   | Dragon CRS-11 / Dragon C106.2              | KSC    | LC39A | S |
-| 2017-06-23 | Falcon 9     | 037/B1029.2 | BulgariaSat-1                              | KSC    | LC39A | S |
-| 2017-06-25 | Falcon 9     | 038/B1036   | Iridium-2 / Iridium Next SV11-20           | SVAFB  | SLC4E | S |
-| 2017-07-05 | Falcon 9     | 039/B1037   | Intelsat IS-35e                            | KSC    | LC39A | S |
-| 2017-08-14 | Falcon 9     | 040/B1039   | Dragon CRS-12 / Dragon C113                | KSC    | LC39A | S |
-| 2017-08-24 | Falcon 9     | 041/B1038   | Formosat-5                                 | SVAFB  | SLC4E | S |
-| 2017-09-07 | Falcon 9     | 042/B1040   | X-37B OTV-5 / OTV-5                        | KSC    | LC39A | S |
-| 2017-10-09 | Falcon 9     | 043/B1041   | Iridium-3 / Iridium Next SV21-30           | SVAFB  | SLC4E | S |
-| 2017-10-11 | Falcon 9     | 044/B1031.2 | SES-11 / SES-11/Echostar-105               | KSC    | LC39A | S |
-| 2017-10-30 | Falcon 9     | 045/B1042   | Koreasat-5A                                | KSC    | LC39A | S |
-| 2017-12-15 | Falcon 9     | 046/B1035.2 | Dragon CRS-13 / Dragon C108.2              | CC     | LC40  | S |
-| 2017-12-23 | Falcon 9     | 047/B1036.2 | Iridium-4 / Iridium Next SV31-40           | SVAFB  | SLC4E | S |
-| 2018-01-08 | Falcon 9     | 048/B1043   | Zuma                                       | CC     | LC40  | S |
-| 2018-01-31 | Falcon 9     | 049/B1032.2 | GovSat-1                                   | CC     | LC40  | S |
-| 2018-02-06 | Falcon Heavy | 001         | Tesla Roadster                             | KSC    | LC39A | S |
-| 2018-02-22 | Falcon 9     | 050/B1038.2 | PAZ / PAZ/SpaceX Demo                      | SVAFB  | SLC4E | S |
-| 2018-03-06 | Falcon 9     | 051/B1044   | Hispasat 30W-6                             | CC     | LC40  | S |
-| 2018-03-30 | Falcon 9     | 052/B1041.2 | Iridium-5 / Iridium Next SV41-50           | SVAFB  | SLC4E | S |
-| 2018-04-02 | Falcon 9     | 053/B1039.2 | Dragon CRS-14 / Dragon C110.2              | CC     | LC40  | S |
-| 2018-04-18 | Falcon 9     | 054/B1045   | TESS                                       | CC     | LC40  | S |
-| 2018-05-11 | Falcon 9     | 055/B1046   | Bangabandhu 1 / Bangabadhu 1               | KSC    | LC39A | S |
-| 2018-05-22 | Falcon 9     | 056/B1043.2 | Iridium-6/GRACE-FO                         | SVAFB  | SLC4E | S |
-| 2018-06-04 | Falcon 9     | 057/B1040.2 | SES-12                                     | CC     | LC40  | S |
-| 2018-06-29 | Falcon 9     | 058/B1045.2 | Dragon CRS-15 / Dragon C111.2              | CC     | LC40  | S |
-| 2018-07-22 | Falcon 9     | 059/B1047   | Telstar 19V                                | CC     | LC40  | S |
-| 2018-07-25 | Falcon 9     | 060/B1048   | Iridium-7                                  | SVAFB  | SLC4E | S |
-| 2018-08-07 | Falcon 9     | 061/B1046.2 | Merah Putih / Telkom 4                     | CC     | LC40  | S |
-| 2018-09-10 | Falcon 9     | 062/B1049   | Telstar 18V                                | CC     | LC40  | S |
-| 2018-10-08 | Falcon 9     | 063/B1048.2 | SAOCOM-1A                                  | SVAFB  | SLC4E | S |
-| 2018-11-15 | Falcon 9     | 064/B1047.2 | Es'hail 2                                  | KSC    | LC39A | S |
-| 2018-12-03 | Falcon 9     | 065/B1046.3 | SSO-A                                      | SVAFB  | SLC4E | S |
-| 2018-12-05 | Falcon 9     | 066/B1050   | Dragon CRS-16 / Dragon C112.2              | CC     | LC40  | S |
-| 2018-12-23 | Falcon 9     | 067/B1054   | GPS III SV01                               | CC     | LC40  | S |
-| 2019-01-11 | Falcon 9     | 068/B1049.2 | Iridium-8                                  | SVAFB  | SLC4E | S |
-| 2019-02-22 | Falcon 9     | 069/B1048.3 | Nusantara Satu/Beresheet / PSN 6/Beresheet | CC     | LC40  | S |
-| 2019-03-02 | Falcon 9     | 070/B1051   | Crew Dragon DM-1 / Dragon C201             | KSC    | LC39A | S |
-| 2019-04-11 | Falcon Heavy | 002         | Arabsat 6A                                 | KSC    | LC39A | S |
-| 2019-05-04 | Falcon 9     | 071/B1056   | Dragon CRS-17 / Dragon C113.2              | CC     | LC40  | S |
-| 2019-05-24 | Falcon 9     | 072/B1049.3 | Starlink V0.9                              | CC     | LC40  | S |
-| 2019-06-12 | Falcon 9     | 073/B1051.2 | RCM / Radarsat Const. Mission              | SVAFB  | SLC4E | S |
-| 2019-06-25 | Falcon Heavy | 003         | STP-2                                      | KSC    | LC39A | S |
-| 2019-07-25 | Falcon 9     | 074/B1056.2 | Dragon CRS-18 / Dragon C108.3              | CC     | LC40  | S |
-| 2019-08-06 | Falcon 9     | 075/B1047.3 | AMOS 17                                    | CC     | LC40  | S |
-| 2019-11-11 | Falcon 9     | 076/B1048.4 | Starlink 1.0-L1                            | CC     | LC40  | S |
-| 2019-12-05 | Falcon 9     | 077/B1059   | Dragon CRS-19 / Dragon C106.3              | CC     | LC40  | S |
-| 2019-12-17 | Falcon 9     | 078/B1056.3 | JCSAT-18-Kacific-1                         | CC     | LC40  | S |
-| 2020-01-07 | Falcon 9     | 079/B1049.4 | Starlink 1.0-L2                            | CC     | LC40  | S |
-| 2020-01-29 | Falcon 9     | 081/B1051.3 | Starlink 1.0-L3                            | CC     | LC40  | S |
-| 2020-02-17 | Falcon 9     | 082/B1056.4 | Starlink 1.0-L4                            | CC     | LC40  | S |
-| 2020-03-07 | Falcon 9     | 083/B1059.2 | Dragon CRS-20 / Dragon C112.3              | CC     | LC40  | S |
-| 2020-03-18 | Falcon 9     | 084/B1048.5 | Starlink 1.0-L5                            | KSC    | LC39A | S |
-| 2020-04-22 | Falcon 9     | 085/B1051.4 | Starlink 1.0-L6                            | KSC    | LC39A | S |
-| 2020-05-30 | Falcon 9     | 086/B1058.1 | Dragon DM-2 / Dragon C206                  | KSC    | LC39A | S |
-| 2020-06-04 | Falcon 9     | 087/B1049.5 | Starlink 1.0-L7                            | CC     | LC40  | S |
-| 2020-06-13 | Falcon 9     | 088/B1059.3 | Starlink 1.0-L8/SkySat                     | CC     | LC40  | S |
-| 2020-06-30 | Falcon 9     | 089/B1060.1 | GPS III SV-03                              | CC     | LC40  | S |
-| 2020-07-20 | Falcon 9     | 090/B1058.2 | ANASIS II / ANASIS-2                       | CC     | LC40  | S |
-| 2020-08-07 | Falcon 9     | 091/B1051.5 | Starlink 1.0-L9/BlackSky                   | KSC    | LC39A | S |
-| 2020-08-18 | Falcon 9     | 092/B1049.6 | Starlink 1.0-L10/SkySat                    | CC     | LC40  | S |
-| 2020-08-30 | Falcon 9     | 093/B1059.4 | SAOCOM-1B                                  | CC     | LC40  | S |
-| 2020-09-03 | Falcon 9     | 094/B1060.2 | Starlink 1.0-L11                           | KSC    | LC39A | S |
-| 2020-10-06 | Falcon 9     | 095/B1058.3 | Starlink 1.0-L12                           | KSC    | LC39A | S |
-| 2020-10-18 | Falcon 9     | 096/B1051.6 | Starlink 1.0-L13                           | KSC    | LC39A | S |
-| 2020-10-24 | Falcon 9     | 097/B1060.3 | Starlink 1.0-L14                           | CC     | LC40  | S |
-| 2020-11-05 | Falcon-9     | 098/1062.1  | GPS-III-SV04                               | CC     | LC40  | S |
-| 2020-11-16 | Falcon-9     | 099/1061.1  | USCV-1 / Dragon-2 C207                     | KSC    | LC39A | S |
+| Data       | Racheta      | Tip         | Satelit primar                             | Centru     | Rampă  | R |
+|------------|--------------|-------------|--------------------------------------------|------------|--------|---|
+| 2006-03-24 | Falcon 1     | F001        | Falconsat-2 / Falconsat 2                  | KMR        | OM     | F |
+| 2007-03-21 | Falcon 1     | F002        | Demosat / AFSS/LCT2                        | KMR        | OM     | F |
+| 2008-08-03 | Falcon 1     | F003        | Trailblazer / ORS Trailblazer              | KMR        | OM     | F |
+| 2008-09-28 | Falcon 1     | F004        | Ratsat / Mass simulator                    | KMR        | OM     | S |
+| 2009-07-14 | Falcon 1     | F005        | Razaksat / MACSat                          | KMR        | OM     | S |
+| 2010-06-04 | Falcon 9     | 001         | Dragon Qual Unit / Dragon Spacecraft       | CC         | LC40   | S |
+| 2010-12-08 | Falcon 9     | 002         | Dragon C1 / Dragon C101                    | CC         | LC40   | S |
+| 2012-05-22 | Falcon 9     | 003         | Dragon C2 / Dragon C102                    | CC         | LC40   | S |
+| 2012-10-08 | Falcon 9     | 004         | Dragon CRS-1 / Dragon C103                 | CC         | LC40   | S |
+| 2013-03-01 | Falcon 9     | 005         | Dragon CRS-2 / Dragon C104                 | CC         | LC40   | S |
+| 2013-09-29 | Falcon 9     | 006         | Cassiope/Demo / Cassiope                   | SVAFB      | SLC4E  | S |
+| 2013-12-03 | Falcon 9     | 007         | SES-8                                      | CC         | LC40   | S |
+| 2014-01-06 | Falcon 9     | 008         | Thaicom  6                                 | CC         | LC40   | S |
+| 2014-04-18 | Falcon 9     | 009         | Dragon CRS-3 / Dragon C105                 | CC         | LC40   | S |
+| 2014-07-14 | Falcon 9     | 010         | Orbcomm OG2 Mission 1 / Orbcomm OG2        | CC         | LC40   | S |
+| 2014-08-05 | Falcon 9     | 011         | Asiasat 8                                  | CC         | LC40   | S |
+| 2014-09-07 | Falcon 9     | 013         | Asiasat 6 / Asiasat 6/Thaicom              | CC         | LC40   | S |
+| 2014-09-21 | Falcon 9     | 012         | Dragon CRS-4 / Dragon C106                 | CC         | LC40   | S |
+| 2015-01-10 | Falcon 9     | 014         | Dragon CRS-5 / Dragon C107                 | CC         | LC40   | S |
+| 2015-02-11 | Falcon 9     | 015         | DSCOVR                                     | CC         | LC40   | S |
+| 2015-03-02 | Falcon 9     | 016         | ABS-3A/Eutelsat115WB                       | CC         | LC40   | S |
+| 2015-04-14 | Falcon 9     | 017         | Dragon CRS-6 / Dragon C108                 | CC         | LC40   | S |
+| 2015-04-27 | Falcon 9     | 018         | TurkmenAlem52E/MonacoSat / Turkmensat      | CC         | LC40   | S |
+| 2015-06-28 | Falcon 9     | 020         | Dragon CRS-7 / Dragon C109                 | CC         | LC40   | F |
+| 2015-12-22 | Falcon 9     | 021/B1019   | Orbcomm OG2 Mission 2 / Orbcomm OG2        | CC         | LC40   | S |
+| 2016-01-17 | Falcon 9     | 019         | Jason-3                                    | SVAFB      | SLC4E  | S |
+| 2016-03-04 | Falcon 9     | 022/B1020?  | SES-9                                      | CC         | LC40   | S |
+| 2016-04-08 | Falcon 9     | 023/B1021   | Dragon CRS-8 / Dragon C110                 | CC         | LC40   | S |
+| 2016-05-06 | Falcon 9     | 024/B1022?  | JCSAT 2B / JCSAT 14                        | CC         | LC40   | S |
+| 2016-05-27 | Falcon 9     | 025/B1023   | Thaicom 8                                  | CC         | LC40   | S |
+| 2016-06-15 | Falcon 9     | 026/B1024?  | ABS-2/Eutelsat 117WB                       | CC         | LC40   | S |
+| 2016-07-18 | Falcon 9     | 027/B1025   | Dragon CRS-9 / Dragon C111                 | CC         | LC40   | S |
+| 2016-08-14 | Falcon 9     | 028/B1026?  | JCSAT 16                                   | CC         | LC40   | S |
+| 2017-01-14 | Falcon 9     | 030/B1029   | Iridium-1 / Iridium Next SV1-10            | SVAFB      | SLC4E  | S |
+| 2017-02-19 | Falcon 9     | 032/B1031   | Dragon CRS-10 / Dragon C112                | KSC        | LC39A  | S |
+| 2017-03-16 | Falcon 9     | 031/B1030   | Echostar 23                                | KSC        | LC39A  | S |
+| 2017-03-30 | Falcon 9     | 033/B1021.2 | SES-10                                     | KSC        | LC39A  | S |
+| 2017-05-01 | Falcon 9     | 035/B1032   | USA 276 / NROL-76                          | KSC        | LC39A  | S |
+| 2017-05-15 | Falcon 9     | 034/B1034   | Inmarsat 5F4                               | KSC        | LC39A  | S |
+| 2017-06-03 | Falcon 9     | 036/B1035   | Dragon CRS-11 / Dragon C106.2              | KSC        | LC39A  | S |
+| 2017-06-23 | Falcon 9     | 037/B1029.2 | BulgariaSat-1                              | KSC        | LC39A  | S |
+| 2017-06-25 | Falcon 9     | 038/B1036   | Iridium-2 / Iridium Next SV11-20           | SVAFB      | SLC4E  | S |
+| 2017-07-05 | Falcon 9     | 039/B1037   | Intelsat IS-35e                            | KSC        | LC39A  | S |
+| 2017-08-14 | Falcon 9     | 040/B1039   | Dragon CRS-12 / Dragon C113                | KSC        | LC39A  | S |
+| 2017-08-24 | Falcon 9     | 041/B1038   | Formosat-5                                 | SVAFB      | SLC4E  | S |
+| 2017-09-07 | Falcon 9     | 042/B1040   | X-37B OTV-5 / OTV-5                        | KSC        | LC39A  | S |
+| 2017-10-09 | Falcon 9     | 043/B1041   | Iridium-3 / Iridium Next SV21-30           | SVAFB      | SLC4E  | S |
+| 2017-10-11 | Falcon 9     | 044/B1031.2 | SES-11 / SES-11/Echostar-105               | KSC        | LC39A  | S |
+| 2017-10-30 | Falcon 9     | 045/B1042   | Koreasat-5A                                | KSC        | LC39A  | S |
+| 2017-12-15 | Falcon 9     | 046/B1035.2 | Dragon CRS-13 / Dragon C108.2              | CC         | LC40   | S |
+| 2017-12-23 | Falcon 9     | 047/B1036.2 | Iridium-4 / Iridium Next SV31-40           | SVAFB      | SLC4E  | S |
+| 2018-01-08 | Falcon 9     | 048/B1043   | Zuma                                       | CC         | LC40   | S |
+| 2018-01-31 | Falcon 9     | 049/B1032.2 | GovSat-1                                   | CC         | LC40   | S |
+| 2018-02-06 | Falcon Heavy | 001         | Tesla Roadster                             | KSC        | LC39A  | S |
+| 2018-02-22 | Falcon 9     | 050/B1038.2 | PAZ / PAZ/SpaceX Demo                      | SVAFB      | SLC4E  | S |
+| 2018-03-06 | Falcon 9     | 051/B1044   | Hispasat 30W-6                             | CC         | LC40   | S |
+| 2018-03-30 | Falcon 9     | 052/B1041.2 | Iridium-5 / Iridium Next SV41-50           | SVAFB      | SLC4E  | S |
+| 2018-04-02 | Falcon 9     | 053/B1039.2 | Dragon CRS-14 / Dragon C110.2              | CC         | LC40   | S |
+| 2018-04-18 | Falcon 9     | 054/B1045   | TESS                                       | CC         | LC40   | S |
+| 2018-05-11 | Falcon 9     | 055/B1046   | Bangabandhu 1 / Bangabadhu 1               | KSC        | LC39A  | S |
+| 2018-05-22 | Falcon 9     | 056/B1043.2 | Iridium-6/GRACE-FO                         | SVAFB      | SLC4E  | S |
+| 2018-06-04 | Falcon 9     | 057/B1040.2 | SES-12                                     | CC         | LC40   | S |
+| 2018-06-29 | Falcon 9     | 058/B1045.2 | Dragon CRS-15 / Dragon C111.2              | CC         | LC40   | S |
+| 2018-07-22 | Falcon 9     | 059/B1047   | Telstar 19V                                | CC         | LC40   | S |
+| 2018-07-25 | Falcon 9     | 060/B1048   | Iridium-7                                  | SVAFB      | SLC4E  | S |
+| 2018-08-07 | Falcon 9     | 061/B1046.2 | Merah Putih / Telkom 4                     | CC         | LC40   | S |
+| 2018-09-10 | Falcon 9     | 062/B1049   | Telstar 18V                                | CC         | LC40   | S |
+| 2018-10-08 | Falcon 9     | 063/B1048.2 | SAOCOM-1A                                  | SVAFB      | SLC4E  | S |
+| 2018-11-15 | Falcon 9     | 064/B1047.2 | Es'hail 2                                  | KSC        | LC39A  | S |
+| 2018-12-03 | Falcon 9     | 065/B1046.3 | SSO-A                                      | SVAFB      | SLC4E  | S |
+| 2018-12-05 | Falcon 9     | 066/B1050   | Dragon CRS-16 / Dragon C112.2              | CC         | LC40   | S |
+| 2018-12-23 | Falcon 9     | 067/B1054   | GPS III SV01                               | CC         | LC40   | S |
+| 2019-01-11 | Falcon 9     | 068/B1049.2 | Iridium-8                                  | SVAFB      | SLC4E  | S |
+| 2019-02-22 | Falcon 9     | 069/B1048.3 | Nusantara Satu/Beresheet / PSN 6/Beresheet | CC         | LC40   | S |
+| 2019-03-02 | Falcon 9     | 070/B1051   | Crew Dragon DM-1 / Dragon C201             | KSC        | LC39A  | S |
+| 2019-04-11 | Falcon Heavy | 002         | Arabsat 6A                                 | KSC        | LC39A  | S |
+| 2019-05-04 | Falcon 9     | 071/B1056   | Dragon CRS-17 / Dragon C113.2              | CC         | LC40   | S |
+| 2019-05-24 | Falcon 9     | 072/B1049.3 | Starlink V0.9                              | CC         | LC40   | S |
+| 2019-06-12 | Falcon 9     | 073/B1051.2 | RCM / Radarsat Const. Mission              | SVAFB      | SLC4E  | S |
+| 2019-06-25 | Falcon Heavy | 003         | STP-2                                      | KSC        | LC39A  | S |
+| 2019-07-25 | Falcon 9     | 074/B1056.2 | Dragon CRS-18 / Dragon C108.3              | CC         | LC40   | S |
+| 2019-08-06 | Falcon 9     | 075/B1047.3 | AMOS 17                                    | CC         | LC40   | S |
+| 2019-11-11 | Falcon 9     | 076/B1048.4 | Starlink 1.0-L1                            | CC         | LC40   | S |
+| 2019-12-05 | Falcon 9     | 077/B1059   | Dragon CRS-19 / Dragon C106.3              | CC         | LC40   | S |
+| 2019-12-17 | Falcon 9     | 078/B1056.3 | JCSAT-18-Kacific-1                         | CC         | LC40   | S |
+| 2020-01-07 | Falcon 9     | 079/B1049.4 | Starlink 1.0-L2                            | CC         | LC40   | S |
+| 2020-01-29 | Falcon 9     | 081/B1051.3 | Starlink 1.0-L3                            | CC         | LC40   | S |
+| 2020-02-17 | Falcon 9     | 082/B1056.4 | Starlink 1.0-L4                            | CC         | LC40   | S |
+| 2020-03-07 | Falcon 9     | 083/B1059.2 | Dragon CRS-20 / Dragon C112.3              | CC         | LC40   | S |
+| 2020-03-18 | Falcon 9     | 084/B1048.5 | Starlink 1.0-L5                            | KSC        | LC39A  | S |
+| 2020-04-22 | Falcon 9     | 085/B1051.4 | Starlink 1.0-L6                            | KSC        | LC39A  | S |
+| 2020-05-30 | Falcon 9     | 086/B1058.1 | Dragon DM-2 / Dragon C206                  | KSC        | LC39A  | S |
+| 2020-06-04 | Falcon 9     | 087/B1049.5 | Starlink 1.0-L7                            | CC         | LC40   | S |
+| 2020-06-13 | Falcon 9     | 088/B1059.3 | Starlink 1.0-L8/SkySat                     | CC         | LC40   | S |
+| 2020-06-30 | Falcon 9     | 089/B1060.1 | GPS III SV-03                              | CC         | LC40   | S |
+| 2020-07-20 | Falcon 9     | 090/B1058.2 | ANASIS II / ANASIS-2                       | CC         | LC40   | S |
+| 2020-08-07 | Falcon 9     | 091/B1051.5 | Starlink 1.0-L9/BlackSky                   | KSC        | LC39A  | S |
+| 2020-08-18 | Falcon 9     | 092/B1049.6 | Starlink 1.0-L10/SkySat                    | CC         | LC40   | S |
+| 2020-08-30 | Falcon 9     | 093/B1059.4 | SAOCOM-1B                                  | CC         | LC40   | S |
+| 2020-09-03 | Falcon 9     | 094/B1060.2 | Starlink 1.0-L11                           | KSC        | LC39A  | S |
+| 2020-10-06 | Falcon 9     | 095/B1058.3 | Starlink 1.0-L12                           | KSC        | LC39A  | S |
+| 2020-10-18 | Falcon 9     | 096/B1051.6 | Starlink 1.0-L13                           | KSC        | LC39A  | S |
+| 2020-10-24 | Falcon 9     | 097/B1060.3 | Starlink 1.0-L14                           | CC         | LC40   | S |
+| 2020-11-05 | Falcon 9     | 098/1062.1  | GPS-III-SV04                               | CC         | LC40   | S |
+| 2020-11-16 | Falcon 9     | 099/1061.1  | USCV-1 / Dragon-2 C207                     | KSC        | LC39A  | S |
+| 2020-11-21 | Falcon 9     | 100/1063.1  | Sentinel-6                                 | Vandenberg | SLC-4E | S |
 
 <div class="table-caption">
   <span class="table-number">Tabel 1</span>:
