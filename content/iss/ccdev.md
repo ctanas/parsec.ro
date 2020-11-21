@@ -45,7 +45,7 @@ _US Crew Vehicle 1_ (Dragon2 C207 "Resilience")
 -   **Soichi Noguchi** (_JAXA_) (Discovery STS-114, Soyuz TMA-17, 177 zile ISS)
 
 
-## Boeing OFT-2 (decembrie 2020) {#boeing-oft-2--decembrie-2020}
+## Boeing OFT-2 (2021) {#boeing-oft-2--2021}
 
 _Orbital Flight Test 2_
 
