@@ -3,6 +3,7 @@
   command = "hugo --gc --themesDir themes"
 
 [build.environment]
+  RUBY_VERSION = "2.5.4"
   HUGO_VERSION = "0.57.2"
   HUGO_THEME = "alageek"
   HUGO_BASEURL = "/"
