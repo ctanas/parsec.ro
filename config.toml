@@ -9,7 +9,7 @@ title = "parsec.ro"
 toc = true
 DefaultContentLanguage = "ro"
 googleAnalytics = "UA-19421559-1"
-smartypants = false
+fractions = false
 
 [params]
 copyright = "©2009-2020 parsec.ro | un site de Claudiu Tănăselia."
