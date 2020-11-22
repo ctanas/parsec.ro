@@ -2,6 +2,7 @@
 title = "știri din spațiu"
 author = ["Claudiu"]
 draft = false
+fractions = false
 +++
 
 ## Rachete, astronauți și sonde interplanetare {#rachete-astronauți-și-sonde-interplanetare}

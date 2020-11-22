@@ -7,6 +7,7 @@
 :EXPORT_HUGO_SECTION: /
 :EXPORT_FILE_NAME: _index
 :EXPORT_TITLE: știri din spațiu
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :fractions false
 :END:
 
 ** Rachete, astronauți și sonde interplanetare
