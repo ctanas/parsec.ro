@@ -16,6 +16,7 @@ Siteul de față reprezintă o colecție personală de materiale, articole și n
 
 | Data        | Lansator    | Serie      | Satelit                     | T  | Centru     | Rampă  | R. | Bul            |
 |-------------|-------------|------------|-----------------------------|----|------------|--------|----|----------------|
+| 23.11 20:30 | CZ-5        | Y5         | Chang'e-5                   | CN | Wenchang   | LC-1   | S  | [98](/bul/098) |
 | 21.11 17:17 | Falcon 9    | 100/1063.1 | Sentinel-6                  | US | Vandenberg | SLC-4E | S  | [98](/bul/098) |
 | 20.11 01:44 | Electron    | 16         | Return to Sender / SpaceBEE | US | Mahia      | LC-1   | S  | [98](/bul/098) |
 | 17.11 01:52 | Vega        | VV17       | SEOSat / TARANIS            | EU | Kourou     | ELV    | F  | [97](/bul/097) |
@@ -25,7 +26,6 @@ Siteul de față reprezintă o colecție personală de materiale, articole și n
 | 07.11 09:41 | PSLV-DL     | C49        | EOS-01                      | IN | Satish     | SLP    | S  | [96](/bul/096) |
 | 07.11 07:10 | Ceres-1     |            | Tianqi-11                   | CN | Jiuquan    |        | S  | [96](/bul/096) |
 | 06.11 03:18 | CZ-6        | Y4         | ÑuSat                       | CN | Taiyuan    | LC-16  | S  | [96](/bul/096) |
-| 05.11 23:24 | Falcon 9    | 098/1062.1 | GPS-III-SV04                | US | CC         | LC40   | S  | [96](/bul/096) |
 
 Detalii cu privire la informațiile din tabel, pot fi găsite în secțiunea [Legendă tabele](/t/legenda_tabele). Data și ora sunt UTC.
 
