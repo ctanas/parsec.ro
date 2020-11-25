@@ -5198,6 +5198,33 @@ SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD
 :EXPORT_HUGO_SECTION: bul
 :END:
 
+** Buletin Cosmic nr. 98 :cz5:arecibo:falcon9:spacex:electron:
+:PROPERTIES:
+:EXPORT_FILE_NAME: 098
+:EXPORT_DATE: 2020-11-25
+:END:
+
+Luni, la ora 22:30, cea mai puternică rachetă chinezească, *Changzheng-5*, [[http://www.xinhuanet.com/english/2020-11/24/c_139538825.htm][a lansat sonda Chang'e-5]]. Aceasta pornit spre Lună și va aseleniza între 29 noiembrie și 2 decembrie urmând să se întoarcă pe Pământ cel târziu în 16 decembrie, cu probe din solul lunar. Lansarea Chang'e-5 a fost amânată cu 3 ani, din cauza problemelor tehnice întâmpinate în timpul lansării Changzheng-5 din iulie 2017. 
+
+Sonda are și o foreză cu care vor fi prelevate eșantioane de sol selenar de la 2 metri adâncime, din zona Mons Rümker, Oceanus Procellarum. Aici solul are o vechime de doar 1-2 miliarde ani, spre deosebire de zonele de unde au fost prelevate probele din programul Apollo, care au o vechime de peste 3 miliarde ani.
+
+Chang'e-5 este prima misiune care își propune să aducă probe de sol pe Pământ, după 1976 și prima misiune care va încerca un rendezvous automat, pe orbita Lunii. Este cea mai grea sondă interplanetară chinezească, cu o masă de peste 8 tone. Chang'e-6 a fost construită în paralel cu Chang'e-5 și va putea înlocui în viitor sonda de astăzi, dacă va avea probleme. Dacă totul decurge bine, Chang'e-6 se va îndrepta în 2024 spre Polul Sud lunar și va încerca să preleveze probe de sol și de acolo.
+
+#+CAPTION: Lansarea rachetei Changzheng-5 cu sonda lunară Chang'e-5 (Sursa foto: [[http://www.xinhuanet.com/english/2020-11/24/c_139538825.htm][Xinhua]])
+[[/img/cz5bc.jpg]]
+
+---
+
+După evaluarea situației radiotelescopului *Arecibo*, afectat sever de două incidente din acest an, /National Science Foundation/ din Statele Unite, entitatea responsabilă pentru finanțarea radiotelescopului, [[https://www.nsf.gov/news/news_summ.jsp?cntn_id=301674][a decis că acesta nu mai poate fi reparat]] în condiții de siguranță și astfel urmează să fie demolat. Arecibo este un radiotelescop celebru nu doar pentru contribuțiile sale în astronomie, dar și datorită aparițiilor sale din filme sau jocuri video sau a contribuției sale la proiectul SET@Home, care avea ca scop detectarea semnalelor radio care ar fi fost produse de civilizații extraterestre îndepărtate. Până în 2016, Arecibo era cel mai mare radiotelescop din lume, având un diametru de 305 metri, fiind însă depășit de radiotelescopul chinezesc FAST, cu un diametru de 500 metri.
+
+---
+
+*SpaceX* a lansat cea de-a 100 rachetă *Falcon 9* în noaptea de marți spre miercuri. Cu această ocazie, pe orbită au ajuns încă [[https://youtu.be/J442-ti-Dhg][60 de sateliți Starlink]], iar prima treaptă a rachetei a fost din nou recuperată pe barja /Of Course I Still Love You/, după ce a stabilit un record: prima treaptă Falcon 9 care a zburat (și a fost recuperată) de 7 ori. Și tot SpaceX, după o pauză de aproape un an și jumătate, a revenit sâmbătă pe rampa SLC-4E, de la baza militară Vandenberg, lansând [[https://www.esa.int/ESA_Multimedia/Videos/2020/11/Highlights_from_the_Sentinel-6_launch][satelitul european Sentinel-6A]]. Mai mult decât atât, după lansare, treapta primară Falcon 9 (nou-nouță) a fost recuperată la sol, pe Landing Zone 4.
+
+---
+
+Vinerea trecută, compania *RocketLab* a lansat [[https://www.rocketlabusa.com/missions/completed-missions/flight-16/][30 de sateliți de mici dimensiuni]] pe orbită terestră joasă și a reușit în premieră recuperarea primei trepte a rachetei *Electron*. Aceasta a fost recuperată din ocean, după ce a revenit prin atmosferă și parașutele i-au redus viteza înainte de contactul cu apa. Viitoarele rachete Electron urmează să fie recuperate din zbor, folosind un elicopter, după separarea de treapta secundară și ulterior refolosite.
+
 ** Buletin Cosmic nr. 97 :vega:atlasv:cz3b:spacex:uscv1:eva:
 :PROPERTIES:
 :EXPORT_FILE_NAME: 097
