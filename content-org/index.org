@@ -1146,7 +1146,7 @@ WHERE lv_type LIKE ('Falcon%')
 | B1049.4 | 07.01.2020 | Starlink-2     | OCISLY               | Falcon 9   |
 | B1049.5 | 04.06.2020 | Starlink-7     | JRTI                 | Falcon 9   |
 | B1049.6 | 18.08.2020 | Starlink-10    | OCISLY               | Falcon 9   |
-| B1049.7 | XX.11.2020 | Starlink-15    | OCISLY               | Falcon 9   |
+| B1049.7 | 25.11.2020 | Starlink-15    | OCISLY               | Falcon 9   |
 |---------+------------+----------------+----------------------+------------|
 | B1050.1 | 05.12.2018 | Dragon CRS-16  | (LZ1)[fn:B1050] [X]  | Falcon 9   |
 |---------+------------+----------------+----------------------+------------|
