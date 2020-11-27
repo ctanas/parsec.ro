@@ -5225,6 +5225,10 @@ După evaluarea situației radiotelescopului *Arecibo*, afectat sever de două i
 
 Vinerea trecută, compania *RocketLab* a lansat [[https://www.rocketlabusa.com/missions/completed-missions/flight-16/][30 de sateliți de mici dimensiuni]] pe orbită terestră joasă și a reușit în premieră recuperarea primei trepte a rachetei *Electron*. Aceasta a fost recuperată din ocean, după ce a revenit prin atmosferă și parașutele i-au redus viteza înainte de contactul cu apa. Viitoarele rachete Electron urmează să fie recuperate din zbor, folosind un elicopter, după separarea de treapta secundară și ulterior refolosite.
 
+---
+
+Variante audio a acestui material poate fi ascultată la [[https://radioromaniacultural.ro/spacex-isi-consolideaza-constelatia-de-sateliti/][Radio România Cultural]].
+
 ** Buletin Cosmic nr. 97 :vega:atlasv:cz3b:spacex:uscv1:eva:
 :PROPERTIES:
 :EXPORT_FILE_NAME: 097
