@@ -5198,7 +5198,7 @@ SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD
 :EXPORT_HUGO_SECTION: bul
 :END:
 
-** Buletin Cosmic nr. 99 :change5:soyuz:arecibo:h2a:starship:
+** Buletin Cosmic nr. 99 :change5:soyuz:arecibo:h2a:starship:artemis:
 :PROPERTIES:
 :EXPORT_FILE_NAME: 099
 :EXPORT_DATE: 2020-12-03
@@ -5220,6 +5220,10 @@ La doar câteva zile după ce National Science Foundation a anunțat că radiote
 ---
 
 În această după-amiază, SpaceX are programat un test important și spectaculos al noii sale rachete Starship: treapta a doua a rachetei va decola de pe rampa de la Boca Chica din Texas și va încerca să urce până la altitudinea de 15 kilometri, după care, sperăm noi, va reveni controlat spre rampa de lansare. Va fi cel mai îndrăzneț test de până acum, pentru că ultimul zbor al unui vehicul Starship a avut loc în septembrie, când Starship SN6 s-a ridicat până la 150 metri, după care a revenit la sol. Pentru testul de astăzi, SpaceX a pregătit vehiculul Starship SN8, unul dintre cele câteva vehicule dezvoltate de compania lui Elon Musk.
+
+---
+
+O nouă veste proastă pentru programul Artemis: compania Lockheed Martin și NASA au identificat o problemă tehnică la o componentă electrică a capsulei Orion, depozitată la Centrul Spațial Kennedy din 2016, pe vremea când primul zbor Orion era programat pentru 2018. Înlocuirea componentei va dura între 4 și 12 luni și probabil va împinge și mai mult în viitor debutul rachetei SLS și al capsulei Orion, care, în misiunea Artemis-1, urmează să dea un ocol Lunii. Lansarea Artemis-1 era programată pentru noiembrie 2021, însă scad tot mai mult șansele ca misiunea să aibă loc anul viitor.
    
 ** Buletin Cosmic nr. 98 :cz5:arecibo:falcon9:spacex:electron:
 :PROPERTIES:
