@@ -5198,7 +5198,7 @@ SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD
 :EXPORT_HUGO_SECTION: bul
 :END:
 
-** Buletin Cosmic nr. 99 :change5:soyuz:
+** Buletin Cosmic nr. 99 :change5:soyuz:arecibo:h2a:starship:
 :PROPERTIES:
 :EXPORT_FILE_NAME: 099
 :EXPORT_DATE: 2020-12-03
@@ -5210,8 +5210,8 @@ După o lansare reușită la bordul rachetei Changzheng-5, sonda chinezească *C
 
 Miercuri și joi, la un interval mai mic de 24 de ore, două rachete Soyuz au fost lansate de pe două rampe diferite: prima, o rachetă Soyuz-STA, a decolat din Guiana Franceză pentru a urca pe orbită satelitul militar FalconEye-2 al Emiratelor Arabe Unite, iar de la cosmodromul Plesetsk din Rusia, o rachetă Soyuz-2.1b a lansat 3 sateliți de comunicații Gonets-M pe orbită terestră joasă și un satelit militar experimental, de mici dimensiuni. FalconEye-2 a fost lansat după ce precedentul satelit FalconEye a fost pierdut anul trecut, în penultima lansare eșuată a rachetei Vega. Lansarea de la Plesetsk a fost a 100 lansare orbitală din 2020 și a 13-a din Rusia. Japonia a completat lansările în ultima săptămână, lansând duminică un satelit militar de telecomunicații, folosind racheta H-IIA.
 
-[[./img/soyuzsta2.jpg]]
 #+CAPTION: Lansarea rachetei Soyuz-STA de la Kourour, Guiana Franceză, având la bord satelitul militar FalconEye-2 al Emiratelor Arabe Unite (/Sursa: [[https://twitter.com/gk_launch/status/1334457936073125891/photo/2][Glavkosmos]])/
+[[./img/soyuzsta2.jpg]]
 
 ---
 
