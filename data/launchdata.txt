@@ -770,7 +770,7 @@
 1967-F12    1967-11-22 19:07   Proton-K/D              230-01               L-1 No. 5L                                     SU    Baikonur     LC81/24    F
 1967-116    1967-11-23 15:00   Kosmos 11K65M           N149    -18LM        Kosmos-192 / Tsiklon                           SU    Plesetsk     LC132/2    S
 1967-117    1967-11-25 11:30   Voskhod 11A57           Ya15002- 04          Kosmos-193 / Zenit-2 No. 58                    SU    Plesetsk     LC41/1     S
-1967-118    1967-11-29 04:49   SPARTA                  CC-2029/SV-10        WRESAT                                         AU    Woomera      LA8        S
+1967-118    1967-11-29 04:49   SPARTA                  CC-2029/SV-10        WRESAT                                         US    Woomera      LA8        S
 1967-119    1967-12-03 12:00   Voskhod 11A57           Ya15002- 13          Kosmos-194 / Zenit-4 No. 39                    SU    Plesetsk     LC41/1     S
 1967-120    1967-12-05 01:03   Scout B                 S158C                OV3-6                                          US    Vandenberg   SLC5       S
 1967-121    1967-12-05 18:45   Titan IIIB              3B-12                KH-8 / GAMBIT-3 Mission 4310                   US    Vandenberg   SLC4W      S
@@ -893,7 +893,7 @@
 1968-103    1968-11-16 11:40   Proton-K                236-01               Proton-4 / N-6 No. 1                           SU    Baikonur     LC81/24    S
 1968-104    1968-11-21 12:10   Voskhod 11A57           V 15001-017          Kosmos-254 / Zenit-4 No. 50                    SU    Plesetsk     LC41/1     S
 1968-105    1968-11-29 12:40   Voskhod 11A57           V 15001-007          Kosmos-255 / Zenit-2 No. 68                    SU    Plesetsk     LC41/1     S
-1968-F09    1968-11-29 23:12   Europa I                F-7                  STV 1                                          AU    Woomera      LA6A       F
+1968-F09    1968-11-29 23:12   Europa I                F-7                  STV 1                                          EU    Woomera      LA6A       F
 1968-106    1968-11-30 12:00   Kosmos 11K65M           V149    -24LM        Kosmos-256 / Sfera                             SU    Plesetsk     LC132/2    S
 1968-107    1968-12-03 14:52   Kosmos 11K63            V295-03              Kosmos-257 / DS-P1-Yu No. 17                   SU    Plesetsk     LC133/3    S
 1968-108    1968-12-04 19:23   Titan IIIB              3B-20                KH-8 / GAMBIT-3 Mission 4318                   US    Vandenberg   SLC4W      S
@@ -971,7 +971,7 @@
 1969-054    1969-06-24 06:50   Voskhod 11A57           V 15002-008          Kosmos-287 / Zenit-2 No. 76                    SU    Baikonur     LC31       S
 1969-055    1969-06-27 06:59   Voskhod 11A57           Yu15001-011          Kosmos-288 / Zenit-4 No. 59                    SU    Baikonur     LC1        S
 1969-056    1969-06-29 03:15   Thor Delta N            539/D070             Biosatellite 3 / Biosatellite D Adapter        US    CC           LC17A      S
-1969-F09    1969-07-02 22:55   Europa I                F-8                  STV 2 / STV 2 Adapter                          AU    Woomera      LA6A       F
+1969-F09    1969-07-02 22:55   Europa I                F-8                  STV 2 / STV 2 Adapter                          EU    Woomera      LA6A       F
 1969-F10    1969-07-03 20:18   N-1 11A52               5L/V15005            L-1S No. 5                                     SU    Baikonur     LC110R     F
 1969-057    1969-07-10 09:00   Voskhod 11A57           V 15002-016          Kosmos-289 / Zenit-4 No. 56                    SU    Plesetsk     LC41/1     S
 1969-058    1969-07-13 02:54   Proton-K/D              242-01               Luna-15 / E-8-5 No. 401                        SU    Baikonur     LC81/24    S
@@ -1106,7 +1106,7 @@
 1970-067    1970-08-27 13:23   Scout A                 S176C                NNS O-19 (N-14) / NNS O-19                     US    Vandenberg   SLC5       S
 1970-068    1970-08-29 08:30   Voskhod 11A57           Kh76002-045          Kosmos-360 / Zenit-4M                          SU    Baikonur     LC31       S
 1970-069    1970-09-01 01:00   Atlas SLV-3A Agena D    5203A                AFP-827 / CANYON 3                             US    CC           LC13       S
-1970-F07    1970-09-02 00:34   Black Arrow             R-2                  X-2                                            AU    Woomera      LA5B       F
+1970-F07    1970-09-02 00:34   Black Arrow             R-2                  X-2                                            EU    Woomera      LA5B       F
 1970-070    1970-09-03 08:39   Thor Burner 2           288/BII-13           DAPP 2525 / DAPP Block 5A F-2                  US    VAFB         SLC10W     S
 1970-071    1970-09-08 10:30   Voskhod 11A57           Kh76002-046          Kosmos-361 / Zenit-4M                          SU    Plesetsk     LC41/1     S
 1970-072    1970-09-12 13:25   Proton-K/D              248-01               Luna-16 / E-8-5 No. 406                        SU    Baikonur     LC81/23    S
@@ -1256,7 +1256,7 @@
 1971-090    1971-10-19 12:40   Kosmos 11K63            64634-145            Kosmos-453 / DS-P1-Yu No. 44                   SU    Plesetsk     LC133/3    S
 1971-091    1971-10-21 11:32   Thor Delta N6           572/D086             ITOS B                                         US    VAFB         SLC2E      S
 1971-092    1971-10-23 17:10   Titan 24B               24B-2 (3B-33)        KH-8A / GAMBIT-3 Mission 4333                  US    Vandenberg   SLC4W      S
-1971-093    1971-10-28 04:09   Black Arrow             R-3                  X-3                                            AU    Woomera      LA5B       S
+1971-093    1971-10-28 04:09   Black Arrow             R-3                  X-3                                            EU    Woomera      LA5B       S
 1971-094    1971-11-02 14:25   Voskhod 11A57           7705712-217          Kosmos-454 / Zenit-4M                          SU    Plesetsk     LC41/1     S
 1971-095    1971-11-03 03:09   Titan IIIC              23C-3 (3C-21)        DSCS II 1/2 / DSCS II A-1                      US    CC           LC40       S
 1971-F10    1971-11-05 13:00   Europa II               F-11                 STV 4/PAS / STV 4                              EU    Kourou       CECLES     F
