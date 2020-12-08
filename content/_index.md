@@ -16,6 +16,7 @@ Siteul de față reprezintă o colecție personală de materiale, articole și n
 
 | Data        | Lansator   | Serie      | Satelit                     | T  | Centru      | Rampă | R. | Bul             |
 |-------------|------------|------------|-----------------------------|----|-------------|-------|----|-----------------|
+| 06.12 16:17 | Falcon 9   | 101/1058.4 | Dragon CRS-21               | US | KSC         | LC39A | S  | [100](/bul/100) |
 | 06.12 03:58 | CZ-3B/E    | 3B-Y74     | Gaofen-14                   | CN | Xichang     |       | S  | [100](/bul/100) |
 | 03.12 01:14 | Soyuz-2.1b |            | Gonets-M 20-22              | RU | Plesetsk    | 43/3  | S  | [99](/bul/099)  |
 | 02.12 01:33 | Soyuz-2.1a | VS24       | FalconEye-24                | EU | Kourou      | ELS   | S  | [99](/bul/099)  |
@@ -25,7 +26,6 @@ Siteul de față reprezintă o colecție personală de materiale, articole și n
 | 21.11 17:17 | Falcon 9   | 100/1063.1 | Sentinel-6                  | US | Vandenberg  | SLC4E | S  | [98](/bul/098)  |
 | 20.11 01:44 | Electron   | 16         | Return to Sender / SpaceBEE | US | Mahia       | LC1   | S  | [98](/bul/098)  |
 | 17.11 01:52 | Vega       | VV17       | SEOSat / TARANIS            | EU | Kourou      | ELV   | F  | [97](/bul/097)  |
-| 16.11 00:27 | Falcon 9   | 099/1061.1 | USCV-1 / Dragon-2 C207      | US | KSC         | LC39A | S  | [97](/bul/097)  |
 
 Detalii cu privire la informațiile din tabel, pot fi găsite în secțiunea [Legendă tabele](/t/legenda_tabele). Data și ora sunt UTC.
 

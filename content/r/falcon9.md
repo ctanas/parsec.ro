@@ -113,6 +113,7 @@ draft = false
 | 2020-11-16 | Falcon 9     | 099/1061.1  | USCV-1 / Dragon-2 C207                     | KSC        | LC39A | S |
 | 2020-11-21 | Falcon 9     | 100/1063.1  | Sentinel-6                                 | Vandenberg | SLC4E | S |
 | 2020-11-25 | Falcon 9     | 101/1049.7  | Starlink 1.0-L15                           | CC         | LC40  | S |
+| 2020-12-06 | Falcon 9     | 101/1058.4  | Dragon CRS-21                              | KSC        | LC39A | S |
 
 <div class="table-caption">
   <span class="table-number">Tabel 1</span>:
