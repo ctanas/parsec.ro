@@ -162,6 +162,7 @@ draft = false
 | B1058.1 | 30.05.2020 | Dragon DM-2    | OCISLY            | Falcon 9   |
 | B1058.2 | 21.07.2020 | Anasis-II      | JRI               | Falcon 9   |
 | B1058.3 | 18.10.2020 | Starlink-12    | OCISLY            | Falcon 9   |
+| B1058.4 | 06.12.2020 | Dragon CRS-21  | OCISLY            | Falcon 9   |
 | B1059.1 | 05.12.2019 | Dragon CRS-19  | OCISLY            | Falcon 9   |
 | B1059.2 | 07.03.2020 | Dragon CRS-20  | LZ-1              | Falcon 9   |
 | B1059.3 | 13.06.2020 | Starlink-8     | OCISLY            | Falcon 9   |

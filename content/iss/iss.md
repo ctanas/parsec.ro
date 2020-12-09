@@ -28,13 +28,14 @@ Construcția ISS a însemnat asamblare pe orbită a [modulelor componente](<http
 
 ## Câte vehicule sunt în prezent andocate la ISS? {#câte-vehicule-sunt-în-prezent-andocate-la-iss}
 
-| Vehicul             | Lansare    | Rachetă     | Port    | Sosire     | Plecare    | Recuperare |
-|---------------------|------------|-------------|---------|------------|------------|------------|
-| Cygnus NG-14        | 03.10.2020 | Antares-230 | Unity   | 05.10.2020 | xx.12.2020 | NU         |
-| Progress MS-14      | 25.04.2020 | Soyuz-2.1a  | Zvezda  | 25.04.2020 | xx.12.2020 | NU         |
-| Progress MS-15      | 23.07.2020 | Soyuz-2.1a  | Pirs    | 23.07.2020 | xx.xx.2020 | NU         |
-| Soyuz MS-17         | 14.10.2020 | Soyuz-2.1a  | Rassvet | 14.10.2020 | xx.04.2021 | DA         |
-| Dragon "Resilience" | 16.11.2020 | Falcon-9    | Harmony | 17.11.2020 | xx.05.2021 | DA         |
+| Vehicul             | Lansare    | Rachetă     | Port         | Sosire     | Plecare    | Recuperare |
+|---------------------|------------|-------------|--------------|------------|------------|------------|
+| Cygnus NG-14        | 03.10.2020 | Antares-230 | Unity        | 05.10.2020 | xx.12.2020 | NU         |
+| Progress MS-14      | 25.04.2020 | Soyuz-2.1a  | Zvezda       | 25.04.2020 | xx.12.2020 | NU         |
+| Progress MS-15      | 23.07.2020 | Soyuz-2.1a  | Pirs         | 23.07.2020 | xx.xx.2020 | NU         |
+| Soyuz MS-17         | 14.10.2020 | Soyuz-2.1a  | Rassvet      | 14.10.2020 | xx.04.2021 | DA         |
+| Dragon "Resilience" | 16.11.2020 | Falcon 9    | Harmony/IDA  | 17.11.2020 | xx.05.2021 | DA         |
+| Dragon CRS-21       | 06.12.2020 | Falcon 9    | Harmony/IDA3 | 07.12.2020 | xx.01.2021 | DA         |
 
 
 ## Câți astronauți sunt de obicei la bordul ISS? {#câți-astronauți-sunt-de-obicei-la-bordul-iss}
