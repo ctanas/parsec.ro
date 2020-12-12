@@ -5988,3 +5988,5 @@
 2020-091    2020-12-03 01:14   Soyuz-2.1b                                   Gonets-M 20-22                                 RU    Plesetsk     43/3       S 99
 2020-092    2020-12-06 03:58   Chang Zheng 3B/E        3B-Y74               Gaofen-14                                      CN    Xichang                 S 100
 2020-093    2020-12-06 16:17   Falcon 9                101/1058.4           Dragon CRS-21                                  US    KSC          LC39A      S 100
+2020-094    2020-12-09 20:14   Chang Zheng 11          Y9                   GECAM                                          CN    Xichang      LC4        S 101
+2020-095    2020-12-11 01:09   Delta 4H                D-385                NROL-44 / USA-311                              US    CC           SLC37B     S 101
