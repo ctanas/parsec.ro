@@ -16,6 +16,7 @@ Siteul de față reprezintă o colecție personală de materiale, articole și n
 
 | Data        | Lansator   | Serie      | Satelit           | T  | Centru      | Rampă  | R. | Bul             |
 |-------------|------------|------------|-------------------|----|-------------|--------|----|-----------------|
+| 13.12 17:30 | Falcon 9   | 102/1051.7 | Sirius SXM-7      | US | CC          | LC40   | S  | [101](/bul/101) |
 | 11.12 01:09 | Delta 4H   | D-385      | NROL-44 / USA-311 | US | CC          | SLC37B | S  | [101](/bul/101) |
 | 09.12 20:14 | CZ-11      | Y9         | GECAM             | CN | Xichang     | LC4    | S  | [101](/bul/101) |
 | 06.12 16:17 | Falcon 9   | 101/1058.4 | Dragon CRS-21     | US | KSC         | LC39A  | S  | [100](/bul/100) |
@@ -25,7 +26,6 @@ Siteul de față reprezintă o colecție personală de materiale, articole și n
 | 29.11 07:25 | H-IIA 202  | H-IIA-43   | JDRS-1            | JP | Tanegashima | LA-Y1  | S  | [99](/bul/099)  |
 | 25.11 02:13 | Falcon 9   | 101/1049.7 | Starlink 1.0-L15  | US | CC          | LC40   | S  | [98](/bul/098)  |
 | 23.11 20:30 | CZ-5       | Y5         | Chang'e-5         | CN | Wenchang    | LC1    | S  | [98](/bul/098)  |
-| 21.11 17:17 | Falcon 9   | 100/1063.1 | Sentinel-6        | US | Vandenberg  | SLC4E  | S  | [98](/bul/098)  |
 
 Detalii cu privire la informațiile din tabel, pot fi găsite în secțiunea [Legendă tabele](/t/legenda_tabele). Data și ora sunt UTC.
 
