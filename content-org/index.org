@@ -5202,36 +5202,45 @@ SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD
 :EXPORT_HUGO_SECTION: bul
 :END:
 
-** Buletin Cosmic nr. 101 :hayabusa2:angara5:starship:
+** Buletin Cosmic nr. 101 :hayabusa2:angara5:starship:falcon9:
+:PROPERTIES:
+:EXPORT_FILE_NAME: 101
+:EXPORT_DATE: 2020-12-16
+:END:
 
-Cercetătorii JAXA au desfăcut capsula sondei Hayabusa2 (cea recuperată în 5 decembrie din deșertul australian) și, după cum se vede și în imaginile publicate de agenția spațială niponă, aceasta conține particule prelevate de pe suprafața asteroidului Ryugu!
+Cercetătorii Agenției Spațiale Japoneze (JAXA) au desfăcut capsula sondei *Hayabusa2* (cea recuperată în 5 decembrie din deșertul australian) și [[https://global.jaxa.jp/press/2020/12/20201214-1_e.html][au confirmat]] că aceasta conține particule prelevate de pe suprafața asteroidului Ryugu, în toate cele trei compartimente ale capsulei. A fost colectat inclusiv gazul prezent în respectivele compartimente, care este de asemenea colectat din jurul asteroidului și urmează să fie analizat de cercetători în lunile care urmează.
 
 ---
 
-La 6 ani după zborul inaugural(!), Rusia a lansat astăzi, la ora 07:50, de la cosmodromul militar Plesetsk, a doua rachetă Angara-A5. Pentru că nimeni nu a îndrăznit să pună un satelit deasupra treptei superioare, racheta a lansat, încă o dată, un balast de peste 2 tone spre orbită geostaționară (folosind treapta superioară Briz-M), doar pentru a valida lansatorul ce urmează să lanseze în viitor capsula cu echipa Orel (nu mai devreme de 2023).
+La 6 ani după zborul inaugural(!), Rusia a lansat luni, la ora 07:50, de la cosmodromul militar Plesetsk, a doua rachetă *Angara-A5*. Pentru că nimeni nu a îndrăznit să pună un satelit deasupra treptei superioare, racheta a lansat, încă o dată, un balast de peste 2 tone spre orbită geostaționară (folosind treapta superioară Briz-M), doar pentru a valida lansatorul ce urmează să lanseze în viitor capsula cu echipa Orel (nu mai devreme de 2023). Anul viitor sunt programate alte două lansări Angara, de această dată cu sateliți la bord, aparținând partenerilor privați.
 
 ---
 
-SpaceX a lansat la ora 19:30 satelitul Sirius SXM-7, în ceea ce a fost a 25-a lansare pentru compania lui Elon Musk în 2020, de pe rampa SLC40 de la Cape Canaveral. Satelitul urmează să ajungă pe orbită geostaționară, pentru a furniza transmisiuni digitale pentru posturile de radio Sirius deasupra Americii de Nord.
+SpaceX a lansat duminică, la ora 19:30 satelitul *Sirius SXM-7*, în ceea ce a fost a 25-a lansare pentru compania lui Elon Musk în 2020, de pe rampa SLC40 de la Cape Canaveral. Satelitul urmează să ajungă pe orbită geostaționară, pentru a furniza transmisiuni digitale pentru posturile de radio Sirius deasupra Americii de Nord.
 
 Pentru treapta primară B1051 (foto) a fost al 7-lea zbor, aceasta fiind din nou recuperată pe barja Just Read the Instructions din Oceanul Atlantic. A fost a 69-a recuperare reușită a unei trepte primare Falcon 9 (a 48-a pe o barjă) și cea de-a 100 lansare orbitală cu succes a acestei rachete.
 
 Treapta primară B1051 a zburat de 5 ori în acest an, un număr egal cu cel al zborurilor Atlas V din 2020 în orice configurație(!). SpaceX mai are programată o singură lansare în 2020: NROL-108 (pentru 17 decembrie).
 A fost a 105-a tentativă de lansare orbitală din 2020 și a 38-a pentru SUA, care se poziționează confortabil pe primul loc al unui clasament general (pe locul 2, China are 33 de lansări și doar o singură lansare programată până la finalul lunii).
 
----
-
-O nouă serie de defecțiuni tehnice afectează în prezent funcționarea Stației Spațiale Internaționale:
-🚀modulul Elektron-VM folosit pentru generarea de oxigen din sectorul rusesc s-a defectat (din nou, după alte trei defecțiuni pe care le-a suferit în octombrie); https://ria.ru/20201212/mks-1588923186.html
-🚀sectorul american are probleme cu energia electrică, aceasta fiind redusă după o defecțiune a modulului de încărcare a acumulatorilor de la bord, unele echipamente fiind deconectate din acest motiv. https://ria.ru/20201212/mks-1588908119.html
+#+CAPTION: Lansarea rachetei Falcon 9 B1051 cu satelitul Sirius SXM-7 /(Sursa foto: [[https://www.flickr.com/photos/spacex/50716071167/][SpaceX]])/
+[[/img/sxm7.jpg]]
 
 ---
 
-După mai multe amânări, racheta Delta IV Heavy se pregătește din nou pentru lansarea satelitului NROL-44 de pe rampa SLC-37B de la Cape Canaveral, în această noapte de la ora 01:15.
+Săptămâna trecută, în noaptea de miercuri spre joi, SpaceX a testat vehiculul *Starship SN8*, care a decolat de pe rampa de la Boca Chica până la 12.5 kilometri altitudine. De acolo, Starship a revenit controlat înapoi la sol, însă cu câteva secunde înainte de aterizare, preiunea într-unul din rezervoare a fost prea scăzută, ceea ce a condus la probleme cu unul dintre cele motoare Raptor, Starship lovind solul cu o viteză prea mare, ceea ce a dus la explozia vehiculului. Cu toate acestea, până la momentul exploziei, testul a decurs cu bine și a fost unul peste așteptări pentru SpaceX. În aceste zile, Starship SN9 va ajunge pe rampa de lansare, în pregătirea următorului test, care probabil va avea loc cândva în următoarele săptămâni.
 
 ---
 
-CZ-11
+O nouă serie de defecțiuni tehnice afectează în prezent funcționarea Stației Spațiale Internaționale: modulul Elektron-VM folosit pentru generarea de oxigen din sectorul rusesc [[https://ria.ru/20201212/mks-1588923186.html][s-a defectat]] (din nou, după alte trei defecțiuni pe care le-a suferit în octombrie). În sectorul american al stației, sunt probleme cu energia electrică, aceasta fiind redusă după [[https://ria.ru/20201212/mks-1588908119.html][o defecțiune]] a modulului de încărcare a acumulatorilor de la bord, unele echipamente fiind deconectate din acest motiv.
+
+---
+
+După mai multe amânări, vineri, racheta *Delta IV Heavy* a lansat în cele din urmă satelitul NROL-44, de pe rampa SLC-37B de la Cape Canaveral.
+
+---
+
+Racheta Rocket 3.2 a companiei *Astra* a încercat o nouă lansare orbitală din insula Kodiak, în Alaska, însă nici de această dată zborul nu a fost unul reușit: deși a trecut de linia Karman și ajuns în spațiu, racheta de calibru ușor nu a avut viteza necesară pentru înscrierea pe o traiectorie orbitală, treapta superioară prăbușindu-se la câteva minute după lansare.
    
 ** Buletin Cosmic nr. 100 :dragon2:cz3b:change5:hayabusa2:
 :PROPERTIES:
