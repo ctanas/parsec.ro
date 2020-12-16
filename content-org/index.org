@@ -5202,6 +5202,37 @@ SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD
 :EXPORT_HUGO_SECTION: bul
 :END:
 
+** Buletin Cosmic nr. 101 :hayabusa2:angara5:starship:
+
+Cercetătorii JAXA au desfăcut capsula sondei Hayabusa2 (cea recuperată în 5 decembrie din deșertul australian) și, după cum se vede și în imaginile publicate de agenția spațială niponă, aceasta conține particule prelevate de pe suprafața asteroidului Ryugu!
+
+---
+
+La 6 ani după zborul inaugural(!), Rusia a lansat astăzi, la ora 07:50, de la cosmodromul militar Plesetsk, a doua rachetă Angara-A5. Pentru că nimeni nu a îndrăznit să pună un satelit deasupra treptei superioare, racheta a lansat, încă o dată, un balast de peste 2 tone spre orbită geostaționară (folosind treapta superioară Briz-M), doar pentru a valida lansatorul ce urmează să lanseze în viitor capsula cu echipa Orel (nu mai devreme de 2023).
+
+---
+
+SpaceX a lansat la ora 19:30 satelitul Sirius SXM-7, în ceea ce a fost a 25-a lansare pentru compania lui Elon Musk în 2020, de pe rampa SLC40 de la Cape Canaveral. Satelitul urmează să ajungă pe orbită geostaționară, pentru a furniza transmisiuni digitale pentru posturile de radio Sirius deasupra Americii de Nord.
+
+Pentru treapta primară B1051 (foto) a fost al 7-lea zbor, aceasta fiind din nou recuperată pe barja Just Read the Instructions din Oceanul Atlantic. A fost a 69-a recuperare reușită a unei trepte primare Falcon 9 (a 48-a pe o barjă) și cea de-a 100 lansare orbitală cu succes a acestei rachete.
+
+Treapta primară B1051 a zburat de 5 ori în acest an, un număr egal cu cel al zborurilor Atlas V din 2020 în orice configurație(!). SpaceX mai are programată o singură lansare în 2020: NROL-108 (pentru 17 decembrie).
+A fost a 105-a tentativă de lansare orbitală din 2020 și a 38-a pentru SUA, care se poziționează confortabil pe primul loc al unui clasament general (pe locul 2, China are 33 de lansări și doar o singură lansare programată până la finalul lunii).
+
+---
+
+O nouă serie de defecțiuni tehnice afectează în prezent funcționarea Stației Spațiale Internaționale:
+🚀modulul Elektron-VM folosit pentru generarea de oxigen din sectorul rusesc s-a defectat (din nou, după alte trei defecțiuni pe care le-a suferit în octombrie); https://ria.ru/20201212/mks-1588923186.html
+🚀sectorul american are probleme cu energia electrică, aceasta fiind redusă după o defecțiune a modulului de încărcare a acumulatorilor de la bord, unele echipamente fiind deconectate din acest motiv. https://ria.ru/20201212/mks-1588908119.html
+
+---
+
+După mai multe amânări, racheta Delta IV Heavy se pregătește din nou pentru lansarea satelitului NROL-44 de pe rampa SLC-37B de la Cape Canaveral, în această noapte de la ora 01:15.
+
+---
+
+CZ-11
+   
 ** Buletin Cosmic nr. 100 :dragon2:cz3b:change5:hayabusa2:
 :PROPERTIES:
 :EXPORT_FILE_NAME: 100
@@ -5226,7 +5257,6 @@ Miercuri, agenția spațială israeliană [[https://www.haaretz.com/israel-news/
 ---
 
 Sâmbătă, în deșertul australian, capsula cu probe de pe suprafața asteroidului *Ryugu* [[https://www.hayabusa2.jaxa.jp/en/topics/20201209_capsulephotos/][a ajuns cu bine la sol]] și a fost preluată de reprezentanți ai agenției spațiale japoneze. Capsula s-a despărțit de sonda *Hayabusa2*, sondă care ulterior a efectuat o manevră de evitare a Pământului, pentru a-și continua misiunea. Având în vedere că sonda mai are suficient combustibil la bord, JAXA a trimis-o spre asteroidul 1998 KY26, într-un survol ce urmează să fie realizat în 2031. Până atunci, sonda va mai trece de două ori pe lângă Pământ, pentru corecții ale traiectoriei, în 2027 și 2028.
-
 
 ** Buletin Cosmic nr. 99 :change5:soyuz:arecibo:h2a:starship:artemis:
 :PROPERTIES:
