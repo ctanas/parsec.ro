@@ -5956,7 +5956,7 @@
 2020-062    2020-09-03 12:46   Falcon 9                094/B1060.2          Starlink 1.0-L11                               US    KSC          LC39A      S 87
 2020-063    2020-09-04 07:30   Chang Zheng 2F          T3                   CSSHQ                                          CN    Jiuquan      Pad 921?   S 87
 2020-064    2020-09-07 05:57   Chang Zheng 4B          Y46                  Gao Fen 11-02                                  CN    Taiyuan      LC9        S 88
-2020-F07    2020-09-12 03:19   Rocket 3.1                                   (Test)                                         US    Kodiak       LP3B       F 88
+2020-F07    2020-09-12 03:19   Rocket 3                3.1                  (Test)                                         US    Kodiak       LP3B       F 88
 2020-F08    2020-09-12 05:02   Kuaizhou 1A             Y3                   Jilin-1 Gaofen-02C                             CN    Jiuquan      SLS2       F 88
 2020-065    2020-09-15 01:23   Chang Zheng 11H         Y2                   Jilin-1 Gaofen-03B                             CN    HHAI         Debo3      S 88
 2020-066    2020-09-21 05:40   Chang Zheng 4B          Y41                  HaiYang-2C                                     CN    Jiuquan      SLS2       S 89
@@ -5991,3 +5991,6 @@
 2020-094    2020-12-09 20:14   Chang Zheng 11          Y9                   GECAM                                          CN    Xichang      LC4        S 101
 2020-095    2020-12-11 01:09   Delta 4H                D-385                NROL-44 / USA-311                              US    CC           SLC37B     S 101
 2020-096    2020-12-13 17:30   Falcon 9                102/1051.7           Sirius SXM-7                                   US    CC           LC40       S 101
+2020-097    2020-12-14 05:50   Angara A5                                    IPM2                                           RU    Plesetsk     35/1       S 101
+2020-098    2020-12-15 10:09   Electron                17                   StriX-a / The Owl Night Begin                  US    Mahia        LC1        S 101
+2020-F10    2020-12-15 20:55   Rocket 3                3.2                  (Test)                                         US    Kodiak       LP3B       F 101          

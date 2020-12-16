@@ -8,7 +8,7 @@ Lista tuturor lansatoarelor orbitale active folosite în prezent, împreună cu 
 
 | Nr. | Lansator           | Țara | Tentative | Lansări | Eșecuri | Prima      | Recentă    |
 |-----|--------------------|------|-----------|---------|---------|------------|------------|
-| 1   | Angara A5          | RU   | 1         | 1       | 0       | 2014-12-23 | 2014-12-23 |
+| 1   | Angara A5          | RU   | 2         | 2       | 0       | 2014-12-23 | 2020-12-14 |
 | 2   | Antares 110        | US   | 2         | 2       | 0       | 2013-04-21 | 2013-09-18 |
 | 3   | Antares 120        | US   | 2         | 2       | 0       | 2014-01-09 | 2014-07-13 |
 | 4   | Antares 130        | US   | 1         | 0       | 1       | 2014-10-28 | 2014-10-28 |
@@ -63,7 +63,7 @@ Lista tuturor lansatoarelor orbitale active folosite în prezent, împreună cu 
 | 53  | CZ-7/YZ-1A         | CN   | 1         | 1       | 0       | 2016-06-25 | 2016-06-25 |
 | 54  | Delta 4H           | US   | 11        | 11      | 0       | 2004-12-21 | 2020-12-11 |
 | 55  | Delta 4H/Star 48BV | US   | 1         | 1       | 0       | 2018-08-12 | 2018-08-12 |
-| 56  | Electron           | US   | 16        | 14      | 2       | 2017-05-25 | 2020-11-20 |
+| 56  | Electron           | US   | 17        | 15      | 2       | 2017-05-25 | 2020-12-15 |
 | 57  | Epsilon            | JP   | 4         | 4       | 0       | 2013-09-14 | 2019-01-18 |
 | 58  | Falcon 1           | US   | 5         | 2       | 3       | 2006-03-24 | 2009-07-14 |
 | 59  | Falcon 9           | US   | 101       | 100     | 1       | 2010-06-04 | 2020-12-13 |
