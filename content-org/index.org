@@ -5228,7 +5228,7 @@ A fost a 105-a tentativă de lansare orbitală din 2020 și a 38-a pentru SUA, c
 
 ---
 
-Săptămâna trecută, în noaptea de miercuri spre joi, SpaceX a testat vehiculul *Starship SN8*, care a decolat de pe rampa de la Boca Chica până la 12.5 kilometri altitudine. De acolo, Starship a revenit controlat înapoi la sol, însă cu câteva secunde înainte de aterizare, preiunea într-unul din rezervoare a fost prea scăzută, ceea ce a condus la probleme cu unul dintre cele motoare Raptor, Starship lovind solul cu o viteză prea mare, ceea ce a dus la explozia vehiculului. Cu toate acestea, până la momentul exploziei, testul a decurs cu bine și a fost unul peste așteptări pentru SpaceX. În aceste zile, Starship SN9 va ajunge pe rampa de lansare, în pregătirea următorului test, care probabil va avea loc cândva în următoarele săptămâni.
+Săptămâna trecută, în noaptea de miercuri spre joi, SpaceX a testat vehiculul *Starship SN8*, care a decolat de pe rampa de la Boca Chica până la 12.5 kilometri altitudine. De acolo, Starship a revenit controlat înapoi la sol, însă cu câteva secunde înainte de aterizare, preiunea într-unul din rezervoare a fost prea scăzută, ceea ce a condus la probleme cu unul dintre cele trei motoare Raptor, Starship lovind solul cu o viteză prea mare, ceea ce a dus la explozia vehiculului. Cu toate acestea, până la momentul exploziei, testul a decurs cu bine și a fost unul peste așteptări pentru SpaceX. În aceste zile, Starship SN9 va ajunge pe rampa de lansare, în pregătirea următorului test, care probabil va avea loc cândva în următoarele săptămâni.
 
 ---
 

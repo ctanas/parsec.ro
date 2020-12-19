@@ -5993,4 +5993,6 @@
 2020-096    2020-12-13 17:30   Falcon 9                102/1051.7           Sirius SXM-7                                   US    CC           LC40       S 101
 2020-097    2020-12-14 05:50   Angara A5                                    IPM2                                           RU    Plesetsk     35/1       S 101
 2020-098    2020-12-15 10:09   Electron                17                   StriX-a / The Owl Night Begin                  US    Mahia        LC1        S 101
-2020-F10    2020-12-15 20:55   Rocket 3                3.2                  (Test)                                         US    Kodiak       LP3B       F 101          
+2020-F10    2020-12-15 20:55   Rocket 3                3.2                  (Test)                                         US    Kodiak       LP3B       F 101
+2020-099    2020-12-17 10:11   PSLV-XL                 C50                  CMS-01 / GSAT-12R                              IN    Satish       SLP        S 102
+2020-100    2020-12-18 12:26   Soyuz-2.1b              ST29                 Oneweb                                         EU    Vostochny    1S         S 102          
