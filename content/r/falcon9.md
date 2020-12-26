@@ -115,6 +115,7 @@ draft = false
 | 2020-11-25 | Falcon 9     | 101/1049.7  | Starlink 1.0-L15                           | CC         | LC40  | S |
 | 2020-12-06 | Falcon 9     | 101/1058.4  | Dragon CRS-21                              | KSC        | LC39A | S |
 | 2020-12-13 | Falcon 9     | 102/1051.7  | Sirius SXM-7                               | CC         | LC40  | S |
+| 2020-12-19 | Falcon 9     | B1059       | NROL-108                                   | KSC        | LC39A | S |
 
 <div class="table-caption">
   <span class="table-number">Tabel 1</span>:
@@ -169,6 +170,7 @@ draft = false
 | B1059.2 | 07.03.2020 | Dragon CRS-20  | LZ-1              | Falcon 9   |
 | B1059.3 | 13.06.2020 | Starlink-8     | OCISLY            | Falcon 9   |
 | B1059.4 | 30.08.2020 | SACOCOM-1B     | LZ-1              | Falcon 9   |
+| B1059.5 | 19.12.2020 | NROL-108       | LZ-1              | Falcon 9   |
 | B1060.1 | 30.06.2020 | GPS3-SV03      | JRI               | Falcon 9   |
 | B1060.2 | 03.09.2020 | Starlink-11    | OCISLY            | Falcon 9   |
 | B1060.3 | 24.10.2020 | Starlink-14    | JRI               | Falcon 9   |

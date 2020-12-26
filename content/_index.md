@@ -16,6 +16,8 @@ Siteul de față reprezintă o colecție personală de materiale, articole și n
 
 | Data        | Lansator   | Serie      | Satelit                       | T  | Centru    | Rampă  | R. | Bul             |
 |-------------|------------|------------|-------------------------------|----|-----------|--------|----|-----------------|
+| 22.12 04:37 | CZ-8       | Y1         | XJY-7                         | CN | Wenchang  | LC2    | S  | [102](/bul/102) |
+| 19.12 14:00 | Falcon 9   | B1059      | NROL-108                      | US | KSC       | LC39A  | S  | [102](/bul/102) |
 | 18.12 12:26 | Soyuz-2.1b | ST29       | Oneweb                        | EU | Vostochny | 1S     | S  | [102](/bul/102) |
 | 17.12 10:11 | PSLV-XL    | C50        | CMS-01 / GSAT-12R             | IN | Satish    | SLP    | S  | [102](/bul/102) |
 | 15.12 20:55 | Rocket 3   | 3.2        | (Test)                        | US | Kodiak    | LP3B   | F  | [101](/bul/101) |
@@ -24,8 +26,6 @@ Siteul de față reprezintă o colecție personală de materiale, articole și n
 | 13.12 17:30 | Falcon 9   | 102/1051.7 | Sirius SXM-7                  | US | CC        | LC40   | S  | [101](/bul/101) |
 | 11.12 01:09 | Delta 4H   | D-385      | NROL-44 / USA-311             | US | CC        | SLC37B | S  | [101](/bul/101) |
 | 09.12 20:14 | CZ-11      | Y9         | GECAM                         | CN | Xichang   | LC4    | S  | [101](/bul/101) |
-| 06.12 16:17 | Falcon 9   | 101/1058.4 | Dragon CRS-21                 | US | KSC       | LC39A  | S  | [100](/bul/100) |
-| 06.12 03:58 | CZ-3B/E    | 3B-Y74     | Gaofen-14                     | CN | Xichang   |        | S  | [100](/bul/100) |
 
 Detalii cu privire la informațiile din tabel, pot fi găsite în secțiunea [Legendă tabele](/t/legenda_tabele). Data și ora sunt UTC.
 
