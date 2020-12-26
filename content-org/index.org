@@ -736,7 +736,7 @@ SUM (CASE WHEN lv_outcome in ('F') then 1 else 0 end) AS "Eșecuri",
 min(launchJDate) as "Prima", max(launchJDate) as "Recentă"
 FROM launches
 WHERE 
-lv_type like 'Antares%' or
+lv_type like 'Antares%' or lv_type like 'Angara%' or
 lv_type like 'Atlas V%' or
 lv_type like 'Delta 4H%' or
 lv_type like 'Electron%' or 
@@ -755,7 +755,7 @@ lv_type like 'CZ-3%' or
 lv_type like 'CZ-4%' or
 lv_type like 'CZ-5%' or
 lv_type like 'CZ-6%' or
-lv_type like 'CZ-7%' or
+lv_type like 'CZ-7%' or lv_type like 'CZ-8%' or
 lv_type like 'CZ-11%' or
 lv_type like 'Jielong%' or
 lv_type like 'Kuaizhou%' or
