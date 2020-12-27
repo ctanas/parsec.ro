@@ -5998,4 +5998,4 @@
 2020-100    2020-12-18 12:26   Soyuz-2.1b              ST29                 Oneweb                                         EU    Vostochny    1S         S 102
 2020-101    2020-12-19 14:00   Falcon 9                B1059                NROL-108                                       US    KSC          LC39A      S 102
 2020-102    2020-12-22 04:37   Chang Zheng 8           Y1                   XJY-7                                          CN    Wenchang     LC2        S 102
-2020-103    2020-12-27 15:44   Chang Zneng 4C                               Yaogan-33                                      CN    Jiuquan                 S 103          
+2020-103    2020-12-27 15:44   Chang Zheng 4C                               Yaogan-33                                      CN    Jiuquan                 S 103          
