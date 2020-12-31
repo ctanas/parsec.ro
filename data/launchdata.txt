@@ -5996,7 +5996,7 @@
 2020-F10    2020-12-15 20:55   Rocket 3                3.2                  (Test)                                         US    Kodiak       LP3B       F 101
 2020-099    2020-12-17 10:11   PSLV-XL                 C50                  CMS-01 / GSAT-12R                              IN    Satish       SLP        S 102
 2020-100    2020-12-18 12:26   Soyuz-2.1b              ST29                 Oneweb                                         EU    Vostochny    1S         S 102
-2020-101    2020-12-19 14:00   Falcon 9                B1059                NROL-108                                       US    KSC          LC39A      S 102
+2020-101    2020-12-19 14:00   Falcon 9                B1059.5              NROL-108 / USA-312 USA-313                     US    KSC          LC39A      S 102
 2020-102    2020-12-22 04:37   Chang Zheng 8           Y1                   XJY-7                                          CN    Wenchang     LC2        S 102
 2020-103    2020-12-27 15:44   Chang Zheng 4C                               Yaogan-33                                      CN    Jiuquan                 S 102
 2020-104    2020-12-29 16:42   Soyuz-ST-A              VS25                 CSO-2                                          EU    Kourou       ELS        S 102 

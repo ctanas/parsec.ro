@@ -19,7 +19,7 @@ Siteul de față reprezintă o colecție personală de materiale, articole și n
 | 29.12 16:42 | Soyuz-ST-A | VS25       | CSO-2                         | EU | Kourou    | ELS   | S  | [102](/bul/102) |
 | 27.12 15:44 | CZ-4C      |            | Yaogan-33                     | CN | Jiuquan   |       | S  | [102](/bul/102) |
 | 22.12 04:37 | CZ-8       | Y1         | XJY-7                         | CN | Wenchang  | LC2   | S  | [102](/bul/102) |
-| 19.12 14:00 | Falcon 9   | B1059      | NROL-108                      | US | KSC       | LC39A | S  | [102](/bul/102) |
+| 19.12 14:00 | Falcon 9   | B1059.5    | NROL-108 / USA-312 USA-313    | US | KSC       | LC39A | S  | [102](/bul/102) |
 | 18.12 12:26 | Soyuz-2.1b | ST29       | Oneweb                        | EU | Vostochny | 1S    | S  | [102](/bul/102) |
 | 17.12 10:11 | PSLV-XL    | C50        | CMS-01 / GSAT-12R             | IN | Satish    | SLP   | S  | [102](/bul/102) |
 | 15.12 20:55 | Rocket 3   | 3.2        | (Test)                        | US | Kodiak    | LP3B  | F  | [101](/bul/101) |
