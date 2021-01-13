@@ -5999,4 +5999,5 @@
 2020-101    2020-12-19 14:00   Falcon 9                B1059.5              NROL-108 / USA-312 USA-313                     US    KSC          LC39A      S 102
 2020-102    2020-12-22 04:37   Chang Zheng 8           Y1                   XJY-7                                          CN    Wenchang     LC2        S 102
 2020-103    2020-12-27 15:44   Chang Zheng 4C                               Yaogan-33                                      CN    Jiuquan                 S 102
-2020-104    2020-12-29 16:42   Soyuz-ST-A              VS25                 CSO-2                                          EU    Kourou       ELS        S 102 
+2020-104    2020-12-29 16:42   Soyuz-ST-A              VS25                 CSO-2                                          EU    Kourou       ELS        S 102
+2021-001    2021-01-08 02:15   Falcon 9                B1060.4              Turksat-5A                                     US    CC           LC40       S 103

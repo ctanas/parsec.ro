@@ -28,7 +28,7 @@ Detalii cu privire la informațiile din tabel, pot fi găsite în secțiunea [[/
 
 ** Tabele și articole
 
-+ [[/t/l2020][Lista lansărilor orbitale din 2020]];
++ [[/t/l2021][Lista lansărilor orbitale din 2021]];
 + [[/t/lansari][Lista completă a lansărilor orbitale]];
 + [[/r/rachete_active][Lista rachetelor active]] --cu detalii despre [[/r/atlasv][Atlas V]], [[/r/antares][Antares]], [[/r/epsilon][Epsilon]], [[/r/soyuz-2][Soyuz-2]] și [[/r/falcon9][Falcon 9]];
 + [[/r/rachete][Lista completă a rachetelor]] folosite până în prezent -- inclusiv cele inactive;
@@ -1191,6 +1191,7 @@ WHERE lv_type LIKE ('Falcon%')
 | B1060.1 | 30.06.2020 | GPS3-SV03      | JRI                  | Falcon 9   |
 | B1060.2 | 03.09.2020 | Starlink-11    | OCISLY               | Falcon 9   |
 | B1060.3 | 24.10.2020 | Starlink-14    | JRI                  | Falcon 9   |
+| B1060.4 | 08.01.2021 | Turksat-5A     | JRI                  | Falcon 9   |
 |---------+------------+----------------+----------------------+------------|
 | B1061.1 | 16.11.2020 | Dragon USCV-1  | JRI                  | Falcon 9   |
 |---------+------------+----------------+----------------------+------------|
@@ -2737,6 +2738,11 @@ GROUP BY lv_outcome
 
 Din 1957 și până în prezent, au avut loc call_noltotal() tentative de lansări orbitale: call_noototal() au fost lansări care s-au încheiat cu succes (încărcătura primară a ajuns pe orbită), în timp ce call_noftotal() lansări s-au încheiat cu un eșec.
 
+#+name: nol2021
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb -t" :results value verbatim :exports none
+SELECT COUNT(*) FROM launches WHERE EXTRACT (year FROM "launchdate") = 2021
+#+end_src
+
 #+name: nol2020
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb -t" :results value verbatim :exports none
 SELECT COUNT(*) FROM launches WHERE EXTRACT (year FROM "launchdate") = 2020
@@ -3057,6 +3063,13 @@ SELECT COUNT(*) FROM launches WHERE EXTRACT (year FROM "launchdate") = 1958
 SELECT COUNT(*) FROM launches WHERE EXTRACT (year FROM "launchdate") = 1957
 #+end_src
 
+#+name: nof2021
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb -t" :results value verbatim :exports none
+SELECT COUNT(*)
+FROM launches 
+WHERE lv_outcome in ('F') AND EXTRACT (year FROM "launchdate") = 2021
+GROUP BY lv_outcome
+#+end_src
 
 #+name: nof2020
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb -t" :results value verbatim :exports none
@@ -3596,6 +3609,33 @@ SUM (CASE WHEN lv_outcome in ('F') then 1 else 0 end) AS "Eșecuri"
 FROM launches
 GROUP BY ls_state
 ORDER BY COUNT(*) DESC
+#+end_src
+
+** lansări 2021
+:PROPERTIES:
+:EXPORT_FILE_NAME: l2021
+:EXPORT_TITLE: Lansări orbitale 2021
+:END:
+
+Lista numărului de tentative de lansări orbitale din 2021, în funcție de statele care au efectuat tentativa:
+
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
+SELECT ls_state AS "Țara",
+COUNT(*) AS "Tentative",
+SUM (CASE WHEN lv_outcome in ('S') then 1 else 0 end) AS "Lansări",
+SUM (CASE WHEN lv_outcome in ('F') then 1 else 0 end) AS "Eșecuri"
+FROM launches
+WHERE EXTRACT (year FROM "launchdate") = 2021
+GROUP BY ls_state
+ORDER BY COUNT(*) DESC
+#+end_src
+
+Lista celor call_nol2021() tentative de lansări orbitale din 2021 (din care call_nof2021() eșecuri). Detalii cu privire la informațiile prezente în coloane pot fi găsite în secțiunea [[/t/legenda_tabele][Legendă tabele]].
+
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
+SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD.MM HH24:MI') AS "Data", lv_type AS "Lansator", lv_Payload AS "Satelit", ls_state AS "T", lv_name AS "Centru", lv_launchpad AS "Rampă", lv_outcome AS "R.", lv_buletin AS "Bul" 
+  FROM launches
+ WHERE EXTRACT(year FROM "launchdate") = 2021
 #+end_src
 
 ** Lansări 2020
