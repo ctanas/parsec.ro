@@ -5920,7 +5920,7 @@
 2020-029    2020-05-17 13:14   Atlas V 501             AV-081               OTV 6 / OTV X-37B No. 1?                       US    CC           SLC41      S 76
 2020-030    2020-05-20 17:31   H-IIB                   H-IIB-F9             HTV-9 / HTV 9                                  JP    Tanegashima  Y2         S 76
 2020-031    2020-05-22 07:31   Soyuz-2.1b              -                    Kosmos-2546 / Kupol No. 4                      RU    Plesetsk     LC43/4     S 77
-2020-F04    2020-05-25 19:50   LauncherOne             001                  Starshine 4?                                   US    MHV          RW12/30    F 77
+2020-F04    2020-05-25 19:50   LauncherOne             F1                   Starshine 4?                                   US    MHV          RW12/30    F 77
 2020-032    2020-05-29 20:13   Chang Zheng 11          Y8                   XJS G, H                                       CN    Xichang      LC4        S 78
 2020-033    2020-05-30 19:22   Falcon 9                086/B1058.1          Dragon DM-2 / Dragon C206                      US    KSC          LC39A      S 78
 2020-034    2020-05-31 08:53   Chang Zheng 2D          Y51                  Gao Fen 9-02                                   CN    Jiuquan      -          S 78
@@ -6001,3 +6001,4 @@
 2020-103    2020-12-27 15:44   Chang Zheng 4C                               Yaogan-33                                      CN    Jiuquan                 S 102
 2020-104    2020-12-29 16:42   Soyuz-ST-A              VS25                 CSO-2                                          EU    Kourou       ELS        S 102
 2021-001    2021-01-08 02:15   Falcon 9                B1060.4              Turksat-5A                                     US    CC           LC40       S 103
+2021-002    2021-01-17 19:39   LauncherOne             F2                   CACTUS-1                                       US    MHV          RW12/30    S 103
