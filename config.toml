@@ -1,4 +1,4 @@
-author = "Claudiu"
+﻿author = "Claudiu"
 baseurl = "/"
 canonifyurls = true
 languageCode = "ro"
@@ -12,7 +12,7 @@ googleAnalytics = "UA-19421559-1"
 fractions = false
 
 [params]
-copyright = "©2009-2020 parsec.ro | un site de Claudiu Tănăselia."
+copyright = "©2009-2021 parsec.ro | un site de Claudiu Tănăselia."
 copyrightUrl = "https://www.parsec.ro"
 faviconfile = "/img/favicon.ico"
 latestpostcount = 8
