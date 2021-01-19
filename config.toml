@@ -2,7 +2,7 @@
 baseurl = "/"
 canonifyurls = true
 languageCode = "ro"
-copyright = "Copyright &copy;2008–2018, Steve Francia and the Hugo Authors; all rights reserved."
+copyright = "Copyright ©2008–2018, Steve Francia and the Hugo Authors; all rights reserved."
 paginate = 12
 theme = "alageek"
 title = "parsec.ro"
@@ -12,7 +12,7 @@ googleAnalytics = "UA-19421559-1"
 fractions = false
 
 [params]
-copyright = "&copy;2009-2021 parsec.ro | un site de Claudiu Tănăselia."
+copyright = "©2009-2021 parsec.ro | un site de Claudiu Tănăselia."
 copyrightUrl = "https://www.parsec.ro"
 faviconfile = "/img/favicon.ico"
 latestpostcount = 8
