@@ -5243,6 +5243,37 @@ SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD
 :EXPORT_HUGO_SECTION: bul
 :END:
 
+** Buletin Cosmic nr. 103 :sls:rs25:virginorbit:launcherone:juno:europa:crs21:iss:
+:PROPERTIES:
+:EXPORT_FILE_NAME: 103
+:EXPORT_DATE: 2021-01-19
+:END:
+
+În noaptea de sâmbătă spre duminică, *NASA* a efectuat un testul static al primei trepte *SLS* (împreună cu cele 4 motoare *RS-25*) la centrul spațial Stennis, din Mississippi. Testul trebuia să simuleze o lansare a rachetei SLS și astfel cele patru motoare urmau să fie funcționare pentru 8 minute, însă o problemă tehnică la motorul 4 a dus la oprirea testului după aproximativ 1 minut. Ce înseamnă acest lucru? După 10 ani și aproape 20 de miliarde de dolari cheltuite pentru SLS, în care a transformat niște motoare reutilizabile în motoare de unică folosință, NASA nu a reușit să pornească aceste motoare în condiții de zbor, deși acestea au deja câteva misiuni la activ. Cel mai probabil, testul static va trebui reluat. Asta înseamnă că SLS nu mai are nici o șansă să zboare în acest an; pentru ca acest lucru să se întâmple, treapta primară și motoarele trebuie să ajungă în februarie în Florida, iar acest lucru nu se va întâmpla. Iar asta înseamnă că aselenizarea nu mai are cum să se întâmple în 2024, un termen care era deja unul prea ambițios chiar și înaintea acestui test. Unul dintre cele patru motoare testate (E2045)  – și care va propulsa și misiunea Artemis-1 spre Lună – a zburat pentru prima dată în spațiu în 1998(!), în misiunea STS-98, fiind unul din cele trei motoare ale navetei spațiale Discovery care l-a lansat pe John Glenn(!) pe orbită.
+
+#+CAPTION: Test al unui motor RS-25, realizat în 1981 (/sursa foto: [[http://grin.hq.nasa.gov/ABSTRACTS/GPN-2000-000543.html][NASA]]/)
+[[/img/rs25.jpg]]
+
+---
+
+După o lansare eșuată anul trecut, *Virgin Orbit* a reușit duminică să plaseze câțiva sateliți de mici dimensiuni pe orbită terestră joasă, folosind racheta *LauncherOne*, lansată de un avion Boeing 747. Este o premieră pentru o companie privată și, spre deosebire de racheta Pegasus, folosită uneori de NASA și propulsată de combustibil solid, LauncherOne este propulsată cu combustibil lichid. Masa utilă lansată spre orbită de LauncherOne este comparabilă cu masa sateliților lansați de racheta Electron, dar avantajul Virgin Orbit este că Boeing-ul 747 poate decola de pe (aproape) orice aeroport din lume; prețul unei lansări LauncherOne este însă cu 70% mai mare decât al unei lansări Electron (lansările Pegasus sunt exorbitante și se apropie de costul unei lansări Falcon 9, motiv pentru care sunt din ce în ce mai rare), însă este posibil ca în viitor prețul să scadă și lansările de acest tip să devină atractive.
+
+---
+
+NASA a decis prelungirea misiunii sondei *Juno* până în 2025. Aceasta a fost lansată în 2011 și a ajuns pe orbita lui Jupiter în 2016, însă se află într-o stare mai bună decât anticipau inginerii care au proiectat-o. Prelungirea misiunii înseamnă și modificarea traiectoriei sondei în jurul planetei Jupiter, astfel încât aceasta să survoleze trei dintre sateliții jovieni. Astfel, în această vară, Juno va trece la o distanță de 1000 km de *Ganymede*, în 2022 va survola *Europa* de la doar 320 km altitudine și în 2024 va survola de două ori satelitul *Io* (unul din cele patru corpuri din sistemul solar ce prezintă un vulcanism activ, alături de Pământ, Enceladus și Triton). Va fi un excelent preambul al misiunii europene JUICE (Jupiter Icy Moons Explorer) care urmează să fie lansată spre Jupiter anul viitor, dar și al misiunii americane Europa Clipper, programată pentru lansare în 2024.
+
+---
+
+Ați cumpărat recent setul LEGO cu *Stația Spațială Internațională*? Ghinion. Boeing va construi 6 panouri solare noi pentru Stația Spațială Internațională, pentru a mări cu 20-30% puterea electrică disponibilă la bordul stației. Aceste panouri noi vor fi lansate spre ISS în 3 misiuni cargo ale capsulei Dragon, începând cu 2021, iar montarea primului set este programată deja pentru finalul acestui an. Fiecare panou solar are nevoie de două activități extravehiculare, una pentru pregătirea instalării și alta pentru instalarea sa propriu-zisă. Noile panouri vor fi montate obturându-le parțial pe cele existente, însă panourile vechi nu vor fi retrase din uz, ele continuând să funcționeze în continuare, deși se apropie de finalul perioadei de funcționare prevăzute inițial.
+
+---
+
+*Blue Origin* a efectuat un nou test suborbital al vehiculului *New Shepard*, al 14-lea, joia trecută (14 ianuarie). După 7 zboruri ale rachetei precedente (NS3, între 2017 și 2020), de această dată Blue Origin va testa o nouă rachetă și o nouă capsulă (NS4), care include mai multe îmbunătățiri, compania făcând astfel un nou pas spre ziua când va lansa un echipaj până dincolo de linia Karman. Zvonurile spun că primul echipaj va testa vehiculul probabil în acest an, după ce va mai avea loc încă un zbor test, așadar al 16-lea zbor New Shepard ar putea să trimită câțiva turiști într-un scurt zbor spațial suborbital.
+
+---
+
+Capsula *Dragon CRS-21* (prima variantă cargo a noii versiuni Dragon2) s-a desprins marțea trecută (12 ianuarie) de modulul Harmony al Stației Spațiale Internaționale, după aproape 36 de zile în care a fost conectat cu avanpostul orbital. Începând cu această misiune, capsula Dragon este certificată pentru andocări și decuplări directe, fără să mai fie nevoie de ajutorul brațului robotic Canadarm2 al stației. Revenirea Dragon pe Pământ a avut loc două zile mai târziu, în Oceanul Atlantic, la vest de coasta Floridei. Capsula a adus de pe orbită aproape 2 tone de experimente științifice. Însă pe orbită se află în prezent capsula Dragon /Resiliance/, cea care în noimebrie, i-a transportat pe ISS pe Mike Hopkins, Victor Glover, Soichi Noguchi și Shannon Walker iar un nou echipaj urmează să fie lansat la bordul capsulei Dragon în această primăvară, după ce Resilience se va întoarce pe Pământ.
+
 ** Buletin Cosmic nr. 102 :pslv:soyuz:falcon9:cz8:cz4:oneweb:
 :PROPERTIES:
 :EXPORT_FILE_NAME: 102
