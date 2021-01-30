@@ -6002,3 +6002,8 @@
 2020-104    2020-12-29 16:42   Soyuz-ST-A              VS25                 CSO-2                                          EU    Kourou       ELS        S 102
 2021-001    2021-01-08 02:15   Falcon 9                B1060.4              Turksat-5A                                     US    CC           LC40       S 103
 2021-002    2021-01-17 19:39   LauncherOne             F2                   CACTUS-1                                       US    MHV          RW12/30    S 103
+2021-003    2021-01-19 16:25   Chang Zheng 3B/E        3B-Y75               Tiantong-1 03                                  CN    Xichang      LC2        S 104
+2021-004    2021-01-20 07:26   Electron                18                   GMS-& / Another one leaves the crust           US    Mahia        LC1        S 104
+2021-005    2021-01-20 13:02   Falcon 9                B1051.8              Starlink 1.0-L16                               US    KSC          LC39A      S 104
+2021-006    2021-01-24 15:00   Falcon 9                B1058.5              Transporter-1                                  US    CC           LC40       S 104
+2021-007    2021-01-29 04:47   Chang Zheng 4C          4C-Y31               Yaogan-31                                      US    Jiuquan      SLS2       S 104
