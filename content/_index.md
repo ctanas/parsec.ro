@@ -14,18 +14,18 @@ Siteul de față reprezintă o colecție personală de materiale, articole și n
 
 ## Ultimele lansări orbitale {#ultimele-lansări-orbitale}
 
-| Data        | Lansator    | Serie   | Satelit                       | T  | Centru    | Rampă   | R. | Bul             |
-|-------------|-------------|---------|-------------------------------|----|-----------|---------|----|-----------------|
-| 17.01 19:39 | LauncherOne | F2      | CACTUS-1                      | US | MHV       | RW12/30 | S  | [103](/bul/103) |
-| 08.01 02:15 | Falcon 9    | B1060.4 | Turksat-5A                    | US | CC        | LC40    | S  | [103](/bul/103) |
-| 29.12 16:42 | Soyuz-ST-A  | VS25    | CSO-2                         | EU | Kourou    | ELS     | S  | [102](/bul/102) |
-| 27.12 15:44 | CZ-4C       |         | Yaogan-33                     | CN | Jiuquan   |         | S  | [102](/bul/102) |
-| 22.12 04:37 | CZ-8        | Y1      | XJY-7                         | CN | Wenchang  | LC2     | S  | [102](/bul/102) |
-| 19.12 14:00 | Falcon 9    | B1059.5 | NROL-108 / USA-312 USA-313    | US | KSC       | LC39A   | S  | [102](/bul/102) |
-| 18.12 12:26 | Soyuz-2.1b  | ST29    | Oneweb                        | EU | Vostochny | 1S      | S  | [102](/bul/102) |
-| 17.12 10:11 | PSLV-XL     | C50     | CMS-01 / GSAT-12R             | IN | Satish    | SLP     | S  | [102](/bul/102) |
-| 15.12 20:55 | Rocket 3    | 3.2     | (Test)                        | US | Kodiak    | LP3B    | F  | [101](/bul/101) |
-| 15.12 10:09 | Electron    | 17      | StriX-a / The Owl Night Begin | US | Mahia     | LC1     | S  | [101](/bul/101) |
+| Data        | Lansator    | Serie   | Satelit                              | T  | Centru   | Rampă   | R. | Bul             |
+|-------------|-------------|---------|--------------------------------------|----|----------|---------|----|-----------------|
+| 29.01 04:47 | CZ-4C       | 4C-Y31  | Yaogan-31                            | US | Jiuquan  | SLS2    | S  | [104](/bul/104) |
+| 24.01 15:00 | Falcon 9    | B1058.5 | Transporter-1                        | US | CC       | LC40    | S  | [104](/bul/104) |
+| 20.01 13:02 | Falcon 9    | B1051.8 | Starlink 1.0-L16                     | US | KSC      | LC39A   | S  | [104](/bul/104) |
+| 20.01 07:26 | Electron    | 18      | GMS-& / Another one leaves the crust | US | Mahia    | LC1     | S  | [104](/bul/104) |
+| 19.01 16:25 | CZ-3B/E     | 3B-Y75  | Tiantong-1 03                        | CN | Xichang  | LC2     | S  | [104](/bul/104) |
+| 17.01 19:39 | LauncherOne | F2      | CACTUS-1                             | US | MHV      | RW12/30 | S  | [103](/bul/103) |
+| 08.01 02:15 | Falcon 9    | B1060.4 | Turksat-5A                           | US | CC       | LC40    | S  | [103](/bul/103) |
+| 29.12 16:42 | Soyuz-ST-A  | VS25    | CSO-2                                | EU | Kourou   | ELS     | S  | [102](/bul/102) |
+| 27.12 15:44 | CZ-4C       |         | Yaogan-33                            | CN | Jiuquan  |         | S  | [102](/bul/102) |
+| 22.12 04:37 | CZ-8        | Y1      | XJY-7                                | CN | Wenchang | LC2     | S  | [102](/bul/102) |
 
 Detalii cu privire la informațiile din tabel, pot fi găsite în secțiunea [Legendă tabele](/t/legenda_tabele). Data și ora sunt UTC.
 

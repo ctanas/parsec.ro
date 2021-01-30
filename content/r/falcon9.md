@@ -117,6 +117,8 @@ draft = false
 | 2020-12-13 | Falcon 9     | 102/1051.7  | Sirius SXM-7                               | CC         | LC40  | S |
 | 2020-12-19 | Falcon 9     | B1059.5     | NROL-108 / USA-312 USA-313                 | KSC        | LC39A | S |
 | 2021-01-08 | Falcon 9     | B1060.4     | Turksat-5A                                 | CC         | LC40  | S |
+| 2021-01-20 | Falcon 9     | B1051.8     | Starlink 1.0-L16                           | KSC        | LC39A | S |
+| 2021-01-24 | Falcon 9     | B1058.5     | Transporter-1                              | CC         | LC40  | S |
 
 <div class="table-caption">
   <span class="table-number">Tabel 1</span>:
@@ -152,6 +154,7 @@ draft = false
 | B1051.5 | 07.08.2020 | Starlink-9     | OCISLY            | Falcon 9   |
 | B1051.6 | 18.10.2020 | Starlink-13    | OCISLY            | Falcon 9   |
 | B1051.7 | 13.12.2020 | Sirius SXM-7   | JRI               | Falcon 9   |
+| B1051.8 | 20.01.2021 | Starlink-16    | JRI               | Falcon 9   |
 | B1052.1 | 12.04.2018 | Arabsat-6A     | LZ-1              | FH lateral |
 | B1052.2 | 25.06.2019 | STP-2          | LZ-1              | FH lateral |
 | B1053.1 | 12.04.2018 | Arabsat-6A     | LZ-1              | FH lateral |
@@ -167,6 +170,7 @@ draft = false
 | B1058.2 | 21.07.2020 | Anasis-II      | JRI               | Falcon 9   |
 | B1058.3 | 18.10.2020 | Starlink-12    | OCISLY            | Falcon 9   |
 | B1058.4 | 06.12.2020 | Dragon CRS-21  | OCISLY            | Falcon 9   |
+| B1058.5 | 24.01.2021 | Transporter-1  | OCISLY            | Falcon 9   |
 | B1059.1 | 05.12.2019 | Dragon CRS-19  | OCISLY            | Falcon 9   |
 | B1059.2 | 07.03.2020 | Dragon CRS-20  | LZ-1              | Falcon 9   |
 | B1059.3 | 13.06.2020 | Starlink-8     | OCISLY            | Falcon 9   |
