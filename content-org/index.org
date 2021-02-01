@@ -5245,6 +5245,22 @@ SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD
 :EXPORT_HUGO_SECTION: bul
 :END:
 
+** Buletin Cosmic nr. 104 :spacex:falcon9:boeing:cst100:rusia:starlink:electron:
+:PROPERTIES:
+:EXPORT_FILE_NAME: 104
+:EXPORT_DATE: 2021-01-26
+:END:
+
+*SpaceX* a lansat duminică, 24 ianuarie, 143 de sateliți, stabilind astfel un nou record pentru numărul de sateliți lansați urcați pe orbită într-o singură lansare (recordul precedent era deținut de lansarea indiană PSLV-C37 din 15 februarie 2017, când au fost lansați 104 sateliți). 10 dintre cei 143 sateliți lansați duminică sunt sateliți Starlink iar restul sateliți de mici dimensiuni, pentru diverși parteneri privați. Prin această lansare, SpaceX dorește să creeze un cadru nou, prin care să poată lansa constant astfel de sateliți de mici dimensiuni, pentru diverse entități: companii comerciale, agenții guvernamentale (NASA) sau licee sau universități cu astfel de preocupări. Pentru această misiune (denumită Transporter-1), SpaceX a folosit treapta primară B1058, aflată la cel de-al 5-lea zbor. Lansarea a avut loc de pe rampa SLC-40 de la Cape Canaveral și a țintit o orbită polară, cu apogeul la 525 km. Treapta primară Falcon 9 a fost din nou recuperată pe barja /Of Course I Still Love You/, din Atlantic.
+
+Al doilea test al capsulei *CST-100 Starliner* (misiune denumită OFT-2) a fost reprogramat pentru 25 martie, cu 4 zile mai devreme decât a fost planificat inițial(!). Misiunea OFT-2 va fi și prima lansare a rachetei Atlas V din acest an (ultimul zbor Atlas V a fost în 13 noiembrie 2020). Dacă misiunea OFT-1 din 19 decembrie 2019 decurgea bine, *Boeing* nu ar fi fost obligată de NASA să deruleze și această misiune suplimentară, dar în 2019 zborul capsulei Starliner s-a terminat prematur din cauza unei probleme de sincronizare a ceasului computerului de bord, lucru ce a dus la declanșarea propulsoarelor capsulei într-un moment în care acest eveniment nu trebuia să aibă loc. Boeing a declarat că un echipaj aflat la bordul capsulei nu s-ar fi aflat în pericol, deoarece ar fi detectat din timp problema și ar fi remediat-o din mers, în NASA a insistat ca înainte ca astronauții săi să se îmbarce la bordul Starliner, Boeing va trebui să demonstreze că această capsulă este capabilă să efectueze autonom o andocare cu Stația Spațială Internațională și o revenire în siguranță înapoi pe Pământ. Probabil că dacă misiunea decurge bine de această dată, s-ar putea ca la mijlocul anului să asistăm la o lansare cu echipaj la bord, Starliner fiind cea de-a doua capsulă contractată de NASA, alături de Dragon, pentru a transporta astronauți spre ISS, reenunțându-se astfel la contractul cu agenția spațială rusă, prin care astronauți americani și ruși zburau la bordul capsulelor Soyuz.
+
+Dimitri Rogozin, șeful agenției spațiale ruse, a declarat că *Rusia* va începe un ambițios program spațial lunar în acest an, care urmează să trimită astronauți spre Lună în 2028. A mai precizat că sunt discuții avansate cu China pentru stabilirea unor baze lunare, ceea ce vine a ca o continuarea a declarațiilor părții chineze care vorbea despre o aliniere a misiunilor chinezești și rusești în ceea ce privește Luna. De menționat faptul că Rusia nu este parte a Acordurilor Artemis, o serie de memorandumuri între actualii parteneri internaționali implicați în proiectul Stației Spațiale Internaționale, care-și propun să contribuie colaborarea în viitoarele misiuni selenare din cadrul programului Artemis, iar NASA are interdicție de la Congresul SUA de a colabora cu China în materie de explorare spațială din cauza componentei militare a programului spațial chinezesc.
+
+Cu 4 zile înainte de lansarea Transport-1, *SpaceX* a mai lansat alți 60 de sateliți *Starlink*, de pe rampa LC39A de la Kennedy Space Center. A fost ce-l dea-l 8-lea zbor pentru treapta primară B1051, care a fost și de această dată recuperată. După această lansare, numărul sateliților Starlink lansați de compania lui Elon Musk a depășit pragul de 1000, însă nu toți sunt funcționali.
+
+În 20 ianuarie, Electron a lansat prima misiune din 2021, denumită /Another one leaves the crust/. Satelitul GMS-T (cu o masă de 50 de kilograme) al companiai OHB a fost lansat pe orbită terestră joasă. A fost a 18-a lansare Electron, din 2017.
+
 ** Buletin Cosmic nr. 103 :sls:rs25:virginorbit:launcherone:juno:europa:crs21:iss:
 :PROPERTIES:
 :EXPORT_FILE_NAME: 103
@@ -5303,7 +5319,6 @@ China a încheiat lansările orbitale din acest an cu lansarea rachetei *Changzh
 ---
 
 A 8-a lansare orbitală a companiei europene Arianespace a fost și ultima lansare din acest an. O rachetă *Soyuz ST-A* a urcat pe orbită, în 29 decembrie, la ora 18:42, de la Kourou, satelitul militar francez CSO-2 (/Composante Spatiale Optique/). Satelitul de observație a fost plasat pe orbită heliosincronă, la 480 km altitudine.
-
 
 ** Buletin Cosmic nr. 101 :hayabusa2:angara5:starship:falcon9:
 :PROPERTIES:
