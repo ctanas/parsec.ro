@@ -729,48 +729,49 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 Lista tuturor lansatoarelor orbitale active folosite în prezent, împreună cu câteva statistici (configurație, țara operatorului principal, număr tentative de lansare, număr lansări reușit, număr eșecuri, data primului zbor orbital și data celei mai recente lansări). Sunt afișate toate configurațiile familiilor de rachete, chiar dacă unele configurații nu mai sunt folosite în prezent (înlăturarea lor ar cauza statistici incorecte pentru lansatorul respectiv). Este disponibilă și [[/r/rachete][lista exhaustivă a tuturor lansatoarelor orbitale]] folosite până în prezent.
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
-SELECT ROW_NUMBER() OVER (ORDER BY lv_type) AS "Nr.", lv_type as "Lansator", ls_state as "Țara",
-COUNT(*) AS "Tentative",
-SUM (CASE WHEN lv_outcome in ('S') then 1 else 0 end) AS "Lansări",
-SUM (CASE WHEN lv_outcome in ('F') then 1 else 0 end) AS "Eșecuri",
-min(launchJDate) as "Prima", max(launchJDate) as "Recentă"
-FROM launches
-WHERE 
-lv_type like 'Antares%' or lv_type like 'Angara%' or
-lv_type like 'Atlas V%' or
-lv_type like 'Delta 4H%' or
-lv_type like 'Electron%' or 
-lv_type like 'Falcon%' or
-lv_type like 'Minotaur%' or
-lv_type like 'Pegasus%' or
-lv_type like 'LauncherOne' or
-lv_type like 'Soyuz-2%' or
-lv_type like 'Proton-M%' or
-lv_type like 'Rockot%' or
-lv_type like 'Angara%' or
-lv_type like 'Ariane 5%' or
-lv_type like 'Vega%' or
-lv_type like 'CZ-2%' or
-lv_type like 'CZ-3%' or
-lv_type like 'CZ-4%' or
-lv_type like 'CZ-5%' or
-lv_type like 'CZ-6%' or
-lv_type like 'CZ-7%' or lv_type like 'CZ-8%' or
-lv_type like 'CZ-11%' or
-lv_type like 'Jielong%' or
-lv_type like 'Kuaizhou%' or
-lv_type like 'Ceres%' or
-lv_type like 'Epsilon%' or
-lv_type like 'H-2%' or
-lv_type like 'PSLV%' or
-lv_type like 'GSLV%' or
-lv_type like 'Unha%' or
-lv_type like 'Shaviyt%' or
-lv_type like 'Safir%' or
-lv_type like 'Simorgh' or
-lv_type like 'Qased'
-group by lv_type, ls_state
-order by lv_type
+  SELECT ROW_NUMBER() OVER (ORDER BY lv_type) AS "Nr.", lv_type as "Lansator", ls_state as "Țara",
+  COUNT(*) AS "Tentative",
+  SUM (CASE WHEN lv_outcome in ('S') then 1 else 0 end) AS "Lansări",
+  SUM (CASE WHEN lv_outcome in ('F') then 1 else 0 end) AS "Eșecuri",
+  min(launchJDate) as "Prima", max(launchJDate) as "Recentă"
+  FROM launches
+  WHERE 
+  lv_type like 'Antares%' or lv_type like 'Angara%' or
+  lv_type like 'Atlas V%' or
+  lv_type like 'Delta 4H%' or
+  lv_type like 'Electron%' or 
+  lv_type like 'Falcon%' or
+  lv_type like 'Minotaur%' or
+  lv_type like 'Pegasus%' or
+  lv_type like 'LauncherOne' or
+  lv_type like 'Soyuz-2%' or
+  lv_type like 'Proton-M%' or
+  lv_type like 'Rockot%' or
+  lv_type like 'Angara%' or
+  lv_type like 'Ariane 5%' or
+  lv_type like 'Vega%' or
+  lv_type like 'CZ-2%' or
+  lv_type like 'CZ-3%' or
+  lv_type like 'CZ-4%' or
+  lv_type like 'CZ-5%' or
+  lv_type like 'CZ-6%' or
+  lv_type like 'CZ-7%' or lv_type like 'CZ-8%' or
+  lv_type like 'CZ-11%' or
+  lv_type like 'Jielong%' or
+  lv_type like 'Kuaizhou%' or
+  lv_type like 'Shuang Quxian%' or
+  lv_type like 'Ceres%' or
+  lv_type like 'Epsilon%' or
+  lv_type like 'H-2%' or
+  lv_type like 'PSLV%' or
+  lv_type like 'GSLV%' or
+  lv_type like 'Unha%' or
+  lv_type like 'Shaviyt%' or
+  lv_type like 'Safir%' or
+  lv_type like 'Simorgh' or
+  lv_type like 'Qased'
+  group by lv_type, ls_state
+  order by lv_type
 #+end_src
 
 ** Lansatoare orbitale
