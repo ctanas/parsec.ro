@@ -16,6 +16,8 @@ Siteul de față reprezintă o colecție personală de materiale, articole și n
 
 | Data        | Lansator        | Serie   | Satelit                              | T  | Centru   | Rampă   | R. | Bul             |
 |-------------|-----------------|---------|--------------------------------------|----|----------|---------|----|-----------------|
+| 04.02 15:36 | CZ-3B/E         | 3B-Y76  | TJSW-6                               | CN | Xichang  | LC3     | S  | [105](/bul/105) |
+| 04.02 06:17 | Falcon 9        | B1060.5 | Starlink 1.0-L18                     | US | CC       | LC40    | S  | [105](/bul/105) |
 | 02.02 20:45 | Soyuz-2.1b      |         | Lotos-S1 No.4 / Kosmos 2549          | RU | Plesetsk | 43/4    | S  | [105](/bul/105) |
 | 01.02 08:15 | Shuang Quxian 1 | Y2      | Fangzhou-2                           | CN | Jiuquan  | LA4     | F  | [105](/bul/105) |
 | 29.01 04:47 | CZ-4C           | 4C-Y31  | Yaogan-31                            | US | Jiuquan  | SLS2    | S  | [104](/bul/104) |
@@ -24,8 +26,6 @@ Siteul de față reprezintă o colecție personală de materiale, articole și n
 | 20.01 07:26 | Electron        | 18      | GMS-& / Another one leaves the crust | US | Mahia    | LC1     | S  | [104](/bul/104) |
 | 19.01 16:25 | CZ-3B/E         | 3B-Y75  | Tiantong-1 03                        | CN | Xichang  | LC2     | S  | [104](/bul/104) |
 | 17.01 19:39 | LauncherOne     | F2      | CACTUS-1                             | US | MHV      | RW12/30 | S  | [103](/bul/103) |
-| 08.01 02:15 | Falcon 9        | B1060.4 | Turksat-5A                           | US | CC       | LC40    | S  | [103](/bul/103) |
-| 29.12 16:42 | Soyuz-ST-A      | VS25    | CSO-2                                | EU | Kourou   | ELS     | S  | [102](/bul/102) |
 
 Detalii cu privire la informațiile din tabel, pot fi găsite în secțiunea [Legendă tabele](/t/legenda_tabele). Data și ora sunt UTC.
 

@@ -1195,6 +1195,7 @@ WHERE lv_type LIKE ('Falcon%')
 | B1060.2 | 03.09.2020 | Starlink-11    | OCISLY               | Falcon 9   |
 | B1060.3 | 24.10.2020 | Starlink-14    | JRI                  | Falcon 9   |
 | B1060.4 | 08.01.2021 | Turksat-5A     | JRI                  | Falcon 9   |
+| B1060.5 | 04.02.2021 | Starlink-18    | OCISLY               | Falcon 9   |
 |---------+------------+----------------+----------------------+------------|
 | B1061.1 | 16.11.2020 | Dragon USCV-1  | JRI                  | Falcon 9   |
 |---------+------------+----------------+----------------------+------------|
@@ -5246,6 +5247,38 @@ SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD
 :EXPORT_HUGO_SECTION: bul
 :END:
 
+** Buletin Cosmic nr. 105
+:PROPERTIES:
+:EXPORT_FILE_NAME: 105
+:EXPORT_DATE: 2021-02-05
+:END:
+   
+După ce săptămâna trecută compania Axiom Space a anunțat primul echipaj privat care va ajunge la bordul Stației Spațiale Internaționale (în 2022), SpaceX a anunțat recent că pregătește, pentru finalul acestui an, prima misiune orbitală privată, condusă de miliardarul Jared Isaacman (37 ani). 
+
+Isaacman spune că va folosi această misiune în scop caritabil, pentru atragerea a 200 milioane de dolari pentru un spital de copii din statul american Tennessee, St. Jude Children Research Hospital. Celelalte trei locuri libere din capsula Dragon vor fi ocupate după cum urmează: de o femeie, a cărei identitate încă nu a fost dezvăluită, dar care lucrează la spitalul menționat anterior; un câștigător al unei loterii organizate pentru atragerea de fonduri pentru spitalul St. Jude și al patrulea loc va fi atribuit unui utilizator al platformei Shift4Shop, dezvoltată în trecut de Jared Issacman.
+
+Misiunea se va numi Inspiration4 și trebuie notat că echipajul nu va ajunge la bordul Stației Spațiale Internaționale, ei vor orbita Pământul pe orbită joasă, înainte să se întoarcă acasă. Pentru acest zbor, SpaceX va folosi capsula Dragon Resiliance, care se află acum andocată la ISS și cu care a ajuns în spațiu echipajul Crew-1 din 16 noiembrie 2020.
+
+---
+
+Axiom Space a anunțat că pregătește primul echipaj privat spre Stația Spațială Internațională!
+Acesta va decola la bordul unei capsule Dragon, în cadrul misiunii denumite Ax-1, nu mai devreme de ianuarie 2022, și este alcătuit din patru membri: Michael López-Alegría, Larry Connor, Mark Pathy și Eytan Stibbe.
+
+Dacă numele Michael López-Alegría vi se pare cunoscut este pentru că acesta este un fost experimentat astronaut NASA, extrem de activ, care a participat până acum la patru misiuni spațiale (trei cu naveta spațială și una cu capsula Soyuz), în care a efectuat nu mai puțin de 10 activități extravehiculare și care deține câteva recorduri greu de egalat. 
+
+Directorul Axiom Space este Michael Suffredini, fost director al programului ISS din cadrul NASA, între 2005 și 2015 (și fondator Axiom Space în 2016), iar din conducerea companiei mai face parte și Charles Bolden, fost astronaut și fost administrator NASA. Peggy Wilson, o veterană a zborurilor orbitale cu naveta spațială, va fi rezerva comandatului López-Alegría pentru misiunea Ax-1.
+
+Din 2020, Axiom Space are în derulare un contract pentru NASA pentru execuția unor module care urmează să fie cuplate la Stația Spațială Internațională (foto), iar înainte de retragerea ISS, aceste module vor fi decuplate și vor constitui o stație spațială privată.
+În cadrul misiunii Ax-1, Larry Connor, la 71 de ani, va deveni al doilea cel mai în vârstă astronaut, după John Glenn, care a ajuns pe orbită în 1998, la vârsta de 77 de ani. Zvonurile indicau faptul că Tom Cruise ar fi fost și el parte din echipajul Ax-1, dar se pare că acesta va ajunge pe orbită într-una din misiunile viitoare ale companiei Axiom Space: din cauza pandemiei, filmul care urma să fie realizat la bordul ISS a fost amânat cu câteva luni.
+
+---
+
+Victor Glover și Michael Hopkins au efectuat două activități extravehiculare în mai puțin de 1 săptămână: miercuri, 27 ianuarie și luni 1 ianuarie. Au fost realizate unele upgrade-uri necesare pentru modulul european Columbus, iar lui cei doi au terminat o operațiune începută în 2017, prin care au înlocuit acumulatorii externi ai stației spațiale: cei vechi foloseau tehnologie bazată pe nichel și au fost înlocuiți cu acumulatori mai noi și mai eficienți, cu tehnologie bazată pe litiu, iar miercuri astronauții au realizat conexiunile necesare între modulul european Columbus și submodulul Bartolomeo, lansat în martie 2020 și care urmează să fie folosit ca platformă pentru experimentele care au nevoie să fie expuse vidului cosmic. Până în prezent au avut loc 234 de activități extravehiculare de la bordul stației spațiale internaționale. 
+
+---
+
+Luni a avut loc prima lansare orbitală eșuată din acest an, când o rachetă chineză Hyperbola-1 a ratat înscrierea satelitului Fangzhou-2 pe orbită. În 2019, Hyperbola-1, în primul său zbor orbital, reușea să plaseze un satelit pe orbită, fiind prima rachetă dezvoltată de o companie privată chineză care efectua cu succes un zbor orbital (Beijing Interstellar Glory Space Technology Co sau i-Space). Deja în prima lună a anului am avut 8 tentative de lansări orbitale, din care 6 lansări reușite ale unor companii din Statele Unite, 2 tentative din China, din care una s-a încheiat din păcate cu un eșec.
+
 ** Buletin Cosmic nr. 104 :spacex:falcon9:boeing:cst100:rusia:starlink:electron:
 :PROPERTIES:
 :EXPORT_FILE_NAME: 104
@@ -5254,11 +5287,19 @@ SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD
 
 *SpaceX* a lansat duminică, 24 ianuarie, 143 de sateliți, stabilind astfel un nou record pentru numărul de sateliți lansați urcați pe orbită într-o singură lansare (recordul precedent era deținut de lansarea indiană PSLV-C37 din 15 februarie 2017, când au fost lansați 104 sateliți). 10 dintre cei 143 sateliți lansați duminică sunt sateliți Starlink iar restul sateliți de mici dimensiuni, pentru diverși parteneri privați. Prin această lansare, SpaceX dorește să creeze un cadru nou, prin care să poată lansa constant astfel de sateliți de mici dimensiuni, pentru diverse entități: companii comerciale, agenții guvernamentale (NASA) sau licee sau universități cu astfel de preocupări. Pentru această misiune (denumită Transporter-1), SpaceX a folosit treapta primară B1058, aflată la cel de-al 5-lea zbor. Lansarea a avut loc de pe rampa SLC-40 de la Cape Canaveral și a țintit o orbită polară, cu apogeul la 525 km. Treapta primară Falcon 9 a fost din nou recuperată pe barja /Of Course I Still Love You/, din Atlantic.
 
+---
+
 Al doilea test al capsulei *CST-100 Starliner* (misiune denumită OFT-2) a fost reprogramat pentru 25 martie, cu 4 zile mai devreme decât a fost planificat inițial(!). Misiunea OFT-2 va fi și prima lansare a rachetei Atlas V din acest an (ultimul zbor Atlas V a fost în 13 noiembrie 2020). Dacă misiunea OFT-1 din 19 decembrie 2019 decurgea bine, *Boeing* nu ar fi fost obligată de NASA să deruleze și această misiune suplimentară, dar în 2019 zborul capsulei Starliner s-a terminat prematur din cauza unei probleme de sincronizare a ceasului computerului de bord, lucru ce a dus la declanșarea propulsoarelor capsulei într-un moment în care acest eveniment nu trebuia să aibă loc. Boeing a declarat că un echipaj aflat la bordul capsulei nu s-ar fi aflat în pericol, deoarece ar fi detectat din timp problema și ar fi remediat-o din mers, în NASA a insistat ca înainte ca astronauții săi să se îmbarce la bordul Starliner, Boeing va trebui să demonstreze că această capsulă este capabilă să efectueze autonom o andocare cu Stația Spațială Internațională și o revenire în siguranță înapoi pe Pământ. Probabil că dacă misiunea decurge bine de această dată, s-ar putea ca la mijlocul anului să asistăm la o lansare cu echipaj la bord, Starliner fiind cea de-a doua capsulă contractată de NASA, alături de Dragon, pentru a transporta astronauți spre ISS, reenunțându-se astfel la contractul cu agenția spațială rusă, prin care astronauți americani și ruși zburau la bordul capsulelor Soyuz.
+
+---
 
 Dimitri Rogozin, șeful agenției spațiale ruse, a declarat că *Rusia* va începe un ambițios program spațial lunar în acest an, care urmează să trimită astronauți spre Lună în 2028. A mai precizat că sunt discuții avansate cu China pentru stabilirea unor baze lunare, ceea ce vine a ca o continuarea a declarațiilor părții chineze care vorbea despre o aliniere a misiunilor chinezești și rusești în ceea ce privește Luna. De menționat faptul că Rusia nu este parte a Acordurilor Artemis, o serie de memorandumuri între actualii parteneri internaționali implicați în proiectul Stației Spațiale Internaționale, care-și propun să contribuie colaborarea în viitoarele misiuni selenare din cadrul programului Artemis, iar NASA are interdicție de la Congresul SUA de a colabora cu China în materie de explorare spațială din cauza componentei militare a programului spațial chinezesc.
 
+---
+
 Cu 4 zile înainte de lansarea Transport-1, *SpaceX* a mai lansat alți 60 de sateliți *Starlink*, de pe rampa LC39A de la Kennedy Space Center. A fost ce-l dea-l 8-lea zbor pentru treapta primară B1051, care a fost și de această dată recuperată. După această lansare, numărul sateliților Starlink lansați de compania lui Elon Musk a depășit pragul de 1000, însă nu toți sunt funcționali.
+
+---
 
 În 20 ianuarie, Electron a lansat prima misiune din 2021, denumită /Another one leaves the crust/. Satelitul GMS-T (cu o masă de 50 de kilograme) al companiai OHB a fost lansat pe orbită terestră joasă. A fost a 18-a lansare Electron, din 2017.
 

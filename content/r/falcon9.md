@@ -119,6 +119,7 @@ draft = false
 | 2021-01-08 | Falcon 9     | B1060.4     | Turksat-5A                                 | CC         | LC40  | S |
 | 2021-01-20 | Falcon 9     | B1051.8     | Starlink 1.0-L16                           | KSC        | LC39A | S |
 | 2021-01-24 | Falcon 9     | B1058.5     | Transporter-1                              | CC         | LC40  | S |
+| 2021-02-04 | Falcon 9     | B1060.5     | Starlink 1.0-L18                           | CC         | LC40  | S |
 
 <div class="table-caption">
   <span class="table-number">Tabel 1</span>:
@@ -180,6 +181,7 @@ draft = false
 | B1060.2 | 03.09.2020 | Starlink-11    | OCISLY            | Falcon 9   |
 | B1060.3 | 24.10.2020 | Starlink-14    | JRI               | Falcon 9   |
 | B1060.4 | 08.01.2021 | Turksat-5A     | JRI               | Falcon 9   |
+| B1060.5 | 04.02.2021 | Starlink-18    | OCISLY            | Falcon 9   |
 | B1061.1 | 16.11.2020 | Dragon USCV-1  | JRI               | Falcon 9   |
 | B1062.1 | ??.11.2020 | GPS3-SV04      | ???               | Falcon 9   |
 | B1062.2 | ??.07.2021 | GPS3-SV05      | ???               | Falcon 9   |
