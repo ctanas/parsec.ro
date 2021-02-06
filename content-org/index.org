@@ -5253,31 +5253,38 @@ SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD
 :EXPORT_DATE: 2021-02-05
 :END:
    
-După ce săptămâna trecută compania Axiom Space a anunțat primul echipaj privat care va ajunge la bordul Stației Spațiale Internaționale (în 2022), SpaceX a anunțat recent că pregătește, pentru finalul acestui an, prima misiune orbitală privată, condusă de miliardarul Jared Isaacman (37 ani). 
+După ce săptămâna trecută compania *Axiom Space* a anunțat primul echipaj privat care va ajunge la bordul Stației Spațiale Internaționale (în 2022), SpaceX a anunțat recent că pregătește, pentru finalul acestui an, prima misiune orbitală privată, condusă de miliardarul Jared Isaacman (37 ani). 
 
 Isaacman spune că va folosi această misiune în scop caritabil, pentru atragerea a 200 milioane de dolari pentru un spital de copii din statul american Tennessee, St. Jude Children Research Hospital. Celelalte trei locuri libere din capsula Dragon vor fi ocupate după cum urmează: de o femeie, a cărei identitate încă nu a fost dezvăluită, dar care lucrează la spitalul menționat anterior; un câștigător al unei loterii organizate pentru atragerea de fonduri pentru spitalul St. Jude și al patrulea loc va fi atribuit unui utilizator al platformei Shift4Shop, dezvoltată în trecut de Jared Issacman.
 
-Misiunea se va numi Inspiration4 și trebuie notat că echipajul nu va ajunge la bordul Stației Spațiale Internaționale, ei vor orbita Pământul pe orbită joasă, înainte să se întoarcă acasă. Pentru acest zbor, SpaceX va folosi capsula Dragon Resiliance, care se află acum andocată la ISS și cu care a ajuns în spațiu echipajul Crew-1 din 16 noiembrie 2020.
+Misiunea se va numi *Inspiration4* și trebuie notat că echipajul nu va ajunge la bordul Stației Spațiale Internaționale, ei vor orbita Pământul pe orbită joasă, înainte să se întoarcă acasă. Pentru acest zbor, SpaceX va folosi capsula Dragon Resiliance, care se află acum andocată la ISS și cu care a ajuns în spațiu echipajul Crew-1 din 16 noiembrie 2020.
 
 ---
 
-Axiom Space a anunțat că pregătește primul echipaj privat spre Stația Spațială Internațională!
-Acesta va decola la bordul unei capsule Dragon, în cadrul misiunii denumite Ax-1, nu mai devreme de ianuarie 2022, și este alcătuit din patru membri: Michael López-Alegría, Larry Connor, Mark Pathy și Eytan Stibbe.
+Axiom Space a anunțat că pregătește primul echipaj privat spre Stația Spațială Internațională! Acesta va decola la bordul unei capsule Dragon, în cadrul misiunii denumite Ax-1, nu mai devreme de ianuarie 2022, și este alcătuit din patru membri: Michael López-Alegría, Larry Connor, Mark Pathy și Eytan Stibbe.
 
 Dacă numele Michael López-Alegría vi se pare cunoscut este pentru că acesta este un fost experimentat astronaut NASA, extrem de activ, care a participat până acum la patru misiuni spațiale (trei cu naveta spațială și una cu capsula Soyuz), în care a efectuat nu mai puțin de 10 activități extravehiculare și care deține câteva recorduri greu de egalat. 
 
 Directorul Axiom Space este Michael Suffredini, fost director al programului ISS din cadrul NASA, între 2005 și 2015 (și fondator Axiom Space în 2016), iar din conducerea companiei mai face parte și Charles Bolden, fost astronaut și fost administrator NASA. Peggy Wilson, o veterană a zborurilor orbitale cu naveta spațială, va fi rezerva comandatului López-Alegría pentru misiunea Ax-1.
 
 Din 2020, Axiom Space are în derulare un contract pentru NASA pentru execuția unor module care urmează să fie cuplate la Stația Spațială Internațională (foto), iar înainte de retragerea ISS, aceste module vor fi decuplate și vor constitui o stație spațială privată.
-În cadrul misiunii Ax-1, Larry Connor, la 71 de ani, va deveni al doilea cel mai în vârstă astronaut, după John Glenn, care a ajuns pe orbită în 1998, la vârsta de 77 de ani. Zvonurile indicau faptul că Tom Cruise ar fi fost și el parte din echipajul Ax-1, dar se pare că acesta va ajunge pe orbită într-una din misiunile viitoare ale companiei Axiom Space: din cauza pandemiei, filmul care urma să fie realizat la bordul ISS a fost amânat cu câteva luni.
+În cadrul misiunii *Ax-1*, Larry Connor, la 71 de ani, va deveni al doilea cel mai în vârstă astronaut, după John Glenn, care a ajuns pe orbită în 1998, la vârsta de 77 de ani. Zvonurile indicau faptul că Tom Cruise ar fi fost și el parte din echipajul Ax-1, dar se pare că acesta va ajunge pe orbită într-una din misiunile viitoare ale companiei Axiom Space: din cauza pandemiei, filmul care urma să fie realizat la bordul ISS a fost amânat cu câteva luni.
 
 ---
 
-Victor Glover și Michael Hopkins au efectuat două activități extravehiculare în mai puțin de 1 săptămână: miercuri, 27 ianuarie și luni 1 ianuarie. Au fost realizate unele upgrade-uri necesare pentru modulul european Columbus, iar lui cei doi au terminat o operațiune începută în 2017, prin care au înlocuit acumulatorii externi ai stației spațiale: cei vechi foloseau tehnologie bazată pe nichel și au fost înlocuiți cu acumulatori mai noi și mai eficienți, cu tehnologie bazată pe litiu, iar miercuri astronauții au realizat conexiunile necesare între modulul european Columbus și submodulul Bartolomeo, lansat în martie 2020 și care urmează să fie folosit ca platformă pentru experimentele care au nevoie să fie expuse vidului cosmic. Până în prezent au avut loc 234 de activități extravehiculare de la bordul stației spațiale internaționale. 
+Victor Glover și Michael Hopkins au efectuat două *activități extravehiculare* în mai puțin de 1 săptămână: miercuri, 27 ianuarie și luni 1 ianuarie. Au fost realizate unele upgrade-uri necesare pentru modulul european Columbus, iar lui cei doi au terminat o operațiune începută în 2017, prin care au înlocuit acumulatorii externi ai stației spațiale: cei vechi foloseau tehnologie bazată pe nichel și au fost înlocuiți cu acumulatori mai noi și mai eficienți, cu tehnologie bazată pe litiu, iar miercuri astronauții au realizat conexiunile necesare între modulul european Columbus și submodulul Bartolomeo, lansat în martie 2020 și care urmează să fie folosit ca platformă pentru experimentele care au nevoie să fie expuse vidului cosmic. Până în prezent au avut loc 234 de activități extravehiculare de la bordul stației spațiale internaționale. 
 
 ---
 
 Luni a avut loc prima lansare orbitală eșuată din acest an, când o rachetă chineză Hyperbola-1 a ratat înscrierea satelitului Fangzhou-2 pe orbită. În 2019, Hyperbola-1, în primul său zbor orbital, reușea să plaseze un satelit pe orbită, fiind prima rachetă dezvoltată de o companie privată chineză care efectua cu succes un zbor orbital (Beijing Interstellar Glory Space Technology Co sau i-Space). Deja în prima lună a anului am avut 8 tentative de lansări orbitale, din care 6 lansări reușite ale unor companii din Statele Unite, 2 tentative din China, din care una s-a încheiat din păcate cu un eșec.
+
+---
+
+În 2 februarie, la ora 22:45, de la cosmodromul militar de la Plesetsk din Rusia, o rachetă *Soyuz-2.1b* a lansat satelitul Lotos-S1 (No.4), parte a constelației de sateliți militari Liana, folosiți pentru interceptare de semnale de pe orbită. A fost prima lansare a Rusiei din acest an și primul zbor al unei rachete Soyuz din 2021.
+
+---
+
+SpaceX plănuia să lanseze două rachete Falcon 9 din Florida, la o diferență mai mică de 5 ore, însă până la urmă una dintre lansări a fost amânată. Totuși, lansarea Starlink-18 a avut loc joi, de la ora 08:19 minute, de pe rampa SLC-40 de la Cape Canaveral. Cei 60 de sateliți Starlink au ajuns pe orbita dorită, iar treapta primară B1060 a fost recuperată, pentru a 5-a oară, pe barja OCISLY din Atlantic. Cu ocazia acestei misiuni, SpaceX a stabilit un nou record: B1060 a zburat ultima dată acum 27 de zile (Türksat-5A, 8 ianuarie 2021), fiind cea mai rapidă refolosire a unei trepte primare Falcon 9.
 
 ** Buletin Cosmic nr. 104 :spacex:falcon9:boeing:cst100:rusia:starlink:electron:
 :PROPERTIES:
