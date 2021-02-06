@@ -5247,7 +5247,7 @@ SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD
 :EXPORT_HUGO_SECTION: bul
 :END:
 
-** Buletin Cosmic nr. 105
+** Buletin Cosmic nr. 105 :inspiration4:spacex:ax1:eva:iss:hyperbola:soyuz:
 :PROPERTIES:
 :EXPORT_FILE_NAME: 105
 :EXPORT_DATE: 2021-02-05
