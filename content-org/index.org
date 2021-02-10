@@ -205,7 +205,7 @@ Construcția ISS a însemnat asamblare pe orbită a [modulelor componente](https
 | Sergei Kud-Sverchkov | RSA  | Soyuz MS-17         | 14.10.2020 | Soyuz MS-17         | xx.04.2021 |
 | Kathleen Rubins      | NASA | Soyuz MS-17         | 14.10.2020 | Soyuz MS-17         | xx.04.2021 |
 |----------------------+------+---------------------+------------+---------------------+------------|
-| Mike Hpkins          | NASA | Dragon "Resilience" | 17.11.2020 | Dragon "Resilience" | xx.05.2021 |
+| Mike Hopkins         | NASA | Dragon "Resilience" | 17.11.2020 | Dragon "Resilience" | xx.05.2021 |
 | Victor Glover        | NASA | Dragon "Resilience" | 17.11.2020 | Dragon "Resilience" | xx.05.2021 |
 | Soichi Noguchi       | JAXA | Dragon "Resilience" | 17.11.2020 | Dragon "Resilience" | xx.05.2021 |
 | Shannon Walker       | NASA | Dragon "Resilience" | 17.11.2020 | Dragon "Resilience" | xx.05.2021 |
@@ -215,12 +215,9 @@ Construcția ISS a însemnat asamblare pe orbită a [modulelor componente](https
 
 | Vehicul             |    Lansare | Rachetă     | Port         |     Sosire | Plecare    | Recuperare |
 |---------------------+------------+-------------+--------------+------------+------------+------------|
-| Cygnus NG-14        | 03.10.2020 | Antares-230 | Unity        | 05.10.2020 | xx.12.2020 | NU         |
-| Progress MS-14      | 25.04.2020 | Soyuz-2.1a  | Zvezda       | 25.04.2020 | xx.12.2020 | NU         |
-| Progress MS-15      | 23.07.2020 | Soyuz-2.1a  | Pirs         | 23.07.2020 | xx.xx.2020 | NU         |
+| Progress MS-14      | 25.04.2020 | Soyuz-2.1a  | Zvezda       | 25.04.2020 | xx.04.2021 | NU         |
 | Soyuz MS-17         | 14.10.2020 | Soyuz-2.1a  | Rassvet      | 14.10.2020 | xx.04.2021 | DA         |
 | Dragon "Resilience" | 16.11.2020 | Falcon 9    | Harmony/IDA  | 17.11.2020 | xx.05.2021 | DA         |
-| Dragon CRS-21       | 06.12.2020 | Falcon 9    | Harmony/IDA3 | 07.12.2020 | xx.01.2021 | DA         |
 
 *** Câți astronauți sunt de obicei la bordul ISS?
 
@@ -234,14 +231,17 @@ Da! Datorită panourilor solare de mari dimensiuni, ISS poate fi văzută cu uș
 :EXPORT_FILE_NAME: jurnal
 :END:
 
+- 17.11.2020 :: Capsula Dragon C207 Resilience (SpX Crew-1: Mike Hopkins, Victor Glover, Soichi Noguchi, Shannon Walker) andochează la modulul /Harmony/ al ISS;
 - 22.10.2020 :: Soyuz MS-16 revine pe Pământ cu Anatoli Ivanishin, Ivan Vagner și Chris Cassidy.
 - 21.10.2020 :: Începe *Expediția 64*;
 ---    
+- 18.10.2020 :: EVA-232 (6 ore, 48 minute): Sergey Ryzhikov și Sergey Kud-Sverchkov, pentru pregătirea înlocuirii Pirs cu Nauka;
 - 14.10.2020 :: Soyuz MS-17 (Ryzhikov, Kud-Sverchkov, Rubins) este lansată și andocheză după 3 ore și 3 minute cu ISS la portul Rassvet;
 - 05.09.2020 :: Capsula Cygnus NG-14 a fost cuplată cu modulul /Unity/;
 - 18.08.2020 :: Vehiculul HTV-9 a fost desprins de ISS și a revenit distructiv prin atmosferă;
 - 02.08.2020 :: Capsula Crew Dragon "Endeavour" s-a desprins de modulul /Harmony/ și a revenit pe Pământ;
 - 23.07.2020 :: Progress MS-15 andochează cu modulul /Pirs;/
+- 21.07.2020 :: EVA-231 (5 ore, 20 minute): Cassidy și Behnken, operațiuni de mentenanță ISS;
 - 16.07.2020 :: EVA-230 (6 ore): Cassidy și Behnken, pentru schimbarea bateriilor ISS;
 - 08.07.2020 :: Progress MS-13 se desprinde de modulul Pirs la ora 18:22 și revine prin atmosferă la 22:05;
 - 01.07.2020 :: EVA-229 (6 ore, 1 minut): Cassidy și Behnken, pentru schimbarea bateriilor ISS;
@@ -2129,33 +2129,34 @@ Moștenirea programului Buran însă continuă și astăzi. Boosterele rachetei 
 
 În tabelul de mai jos sunt prezentate (în ordine complet aleatoare) sondele interplanetare active în acest moment. Asta înseamnă că nu apar în tabel sateliții aflați pe orbita Pământului (deci nu apare telescopul spațial Hubble, de exemplu), dar am decis să includ sondele din punctul Lagrange L2 Pământ-Lună (Spektr-RG și să sperăm că urmează și telescopul spațial JWST).
 
-| Nume sondă            |    Lansare | Agenție   | Rachetă        | Țintă   | EOM[fn:son1] |   Cost[fn:son2] | Stare                           |
-|-----------------------+------------+-----------+----------------+---------+--------------+-----------------+---------------------------------|
-| Mars2020/Perseverance | 30.07.2020 | NASA      | Atlas V 541    | Marte   |         20XX |            2400 | în drum spre Marte              |
-| Solar Orbiter         | 10.02.2020 | ESA       | Atlas V 411    | Soare   |         2027 |            1500 | în drum spre Soare              |
-| Chandrayaan-2         | 22.07.2019 | ISRO      | GSLV Mk.III    | Luna    |         2026 |             141 | pe orbita Lunii[fn:son3]        |
-| LRO                   | 18.06.2009 | NASA      | Atlas V 401    | Luna    |         202X |             583 | pe orbita Lunii                 |
-| Chang'E-3/Yutu        | 01.12.2013 | CNSA      | Changzheng-3B  | Luna    |         20?? |             ??? | lander/rover                    |
-| Parker                | 12.08.2018 | NASA      | Delta IV Heavy | Soare   |         2025 |            1500 | pe orbita Soarelui              |
-| BepiColombo           | 20.10.2018 | ESA/JAXA  | Ariane 5 ECA   | Mercur  |         2028 |            2000 | în drum spre Mercur             |
-| Akatsuki              | 20.05.2010 | JAXA      | H-2A 202       | Venus   |         20?? |             290 | pe orbita lui Venus[fn:son4]    |
-| Mars Odyssey          | 07.04.2001 | NASA      | Delta II       | Marte   |         2025 |             297 | pe orbita lui Marte[fn:son5]    |
-| Mars Express          | 02.06.2003 | ESA       | Soyuz-FG       | Marte   |         2022 |             345 | pe orbita lui Marte             |
-| MRO                   | 12.08.2005 | NASA      | Atlas V 401    | Marte   |         2030 |             720 | pe orbita lui Marte             |
-| Mangalayaan           | 05.11.2013 | ISRO      | PSLV-XL        | Marte   |         202X |              66 | pe orbita lui Marte             |
-| Trace Gas Orbiter     | 14.03.2016 | ESA       | Proton-M       | Marte   |         202X | (1400)[fn:son7] | pe orbita lui Marte             |
-| Hope (Al-Amal)        | 19.07.2020 | MRSC      | H-IIA          | Marte   |         20XX |             200 | pe orbita lui Marte             |
-| MSL/Curiosity         | 26.11.2011 | NASA      | Atlas V 541    | Marte   |         20XX |            2500 | pe suprafața lui Marte          |
-| MAVEN                 | 18.11.2013 | NASA      | Atlas V 401    | Marte   |         202X |             671 | pe orbita lui Marte             |
-| InSight               | 05.05.2018 | NASA      | Atlas V 401    | Marte   |         202X |             830 | lander                          |
-| Juno                  | 05.08.2011 | NASA      | Atlas V 551    | Jupiter |         2021 |            1100 | pe orbita lui Jupiter           |
-| OSRIS-REx             | 08.12.2016 | NASA      | Atlas V 441    | Bennu   |         2023 |             800 | în drum spre Pământ[fn:son6]    |
-| Hayabusa-2            | 03.12.2014 | JAXA      | H-2A 202       | Ryugu   |         2020 |             149 | în drum spre Pământ             |
-| TESS                  | 18.04.2018 | NASA      | Falcon 9 B4    | P/2     |         2028 |              75 | fucțională                      |
-| New Horizons          | 19.01.2006 | NASA      | Atlas V 551    | Pluto   |         20XX |             700 | dincolo de Ultima Thule         |
-| Voyager-1             | 05.09.1977 | NASA      | Titan IIIE     | spațiu  |         2025 |  (865)[fn:son8] | dincolo de Sistemul Solar       |
-| Voyager-2             | 20.08.1977 | NASA      | Titan IIIE     | spațiu  |         2025 |  (865)[fn:son8] | dincolo de Sistemul Solar       |
-|-----------------------+------------+-----------+----------------+---------+--------------+-----------------+---------------------------------|
+| Nume sondă            |    Lansare | Agenție  | Rachetă        | Țintă   | EOM[fn:son1] |   Cost[fn:son2] | Stare                        |
+|-----------------------+------------+----------+----------------+---------+--------------+-----------------+------------------------------|
+| Mars2020/Perseverance | 30.07.2020 | NASA     | Atlas V 541    | Marte   |         20XX |            2400 | în drum spre Marte           |
+| Solar Orbiter         | 10.02.2020 | ESA      | Atlas V 411    | Soare   |         2027 |            1500 | în drum spre Soare           |
+| Chandrayaan-2         | 22.07.2019 | ISRO     | GSLV Mk.III    | Luna    |         2026 |             141 | pe orbita Lunii[fn:son3]     |
+| LRO                   | 18.06.2009 | NASA     | Atlas V 401    | Luna    |         202X |             583 | pe orbita Lunii              |
+| Chang'E-3/Yutu        | 01.12.2013 | CNSA     | Changzheng-3B  | Luna    |         20?? |             ??? | lander/rover                 |
+| Parker                | 12.08.2018 | NASA     | Delta IV Heavy | Soare   |         2025 |            1500 | pe orbita Soarelui           |
+| BepiColombo           | 20.10.2018 | ESA/JAXA | Ariane 5 ECA   | Mercur  |         2028 |            2000 | în drum spre Mercur          |
+| Akatsuki              | 20.05.2010 | JAXA     | H-2A 202       | Venus   |         20?? |             290 | pe orbita lui Venus[fn:son4] |
+| Mars Odyssey          | 07.04.2001 | NASA     | Delta II       | Marte   |         2025 |             297 | pe orbita lui Marte[fn:son5] |
+| Mars Express          | 02.06.2003 | ESA      | Soyuz-FG       | Marte   |         2022 |             345 | pe orbita lui Marte          |
+| MRO                   | 12.08.2005 | NASA     | Atlas V 401    | Marte   |         2030 |             720 | pe orbita lui Marte          |
+| Mangalayaan           | 05.11.2013 | ISRO     | PSLV-XL        | Marte   |         202X |              66 | pe orbita lui Marte          |
+| Trace Gas Orbiter     | 14.03.2016 | ESA      | Proton-M       | Marte   |         202X | (1400)[fn:son7] | pe orbita lui Marte          |
+| Hope (Al-Amal)        | 19.07.2020 | MRSC     | H-IIA          | Marte   |         2023 |             200 | pe orbita lui Marte          |
+| Tianwen-1             | 23.07.2020 | CNSA     | CZ-5           | Marte   |         202X |             ??? | pe orbita lui Marte          |
+| MAVEN                 | 18.11.2013 | NASA     | Atlas V 401    | Marte   |         202X |             671 | pe orbita lui Marte          |
+| MSL/Curiosity         | 26.11.2011 | NASA     | Atlas V 541    | Marte   |         20XX |            2500 | pe suprafața lui Marte       |
+| InSight               | 05.05.2018 | NASA     | Atlas V 401    | Marte   |         202X |             830 | lander                       |
+| Juno                  | 05.08.2011 | NASA     | Atlas V 551    | Jupiter |         2021 |            1100 | pe orbita lui Jupiter        |
+| OSRIS-REx             | 08.12.2016 | NASA     | Atlas V 441    | Bennu   |         2023 |             800 | în drum spre Pământ[fn:son6] |
+| Hayabusa-2            | 03.12.2014 | JAXA     | H-2A 202       | Ryugu   |         2020 |             149 | în drum spre Pământ          |
+| TESS                  | 18.04.2018 | NASA     | Falcon 9 B4    | P/2     |         2028 |              75 | fucțională                   |
+| New Horizons          | 19.01.2006 | NASA     | Atlas V 551    | Pluto   |         20XX |             700 | dincolo de Ultima Thule      |
+| Voyager-1             | 05.09.1977 | NASA     | Titan IIIE     | spațiu  |         2025 |  (865)[fn:son8] | dincolo de Sistemul Solar    |
+| Voyager-2             | 20.08.1977 | NASA     | Titan IIIE     | spațiu  |         2025 |  (865)[fn:son8] | dincolo de Sistemul Solar    |
+|-----------------------+------------+----------+----------------+---------+--------------+-----------------+------------------------------|
 
 [fn:son1] End of Mission, anul în care se așteaptă ca sondă să devină nefuncțională, rezultat în principal din estimarea cantității de combustibil de la bord.
 [fn:son2] Costul estimat al sondei, în milioane de dolari (sau echivalent).

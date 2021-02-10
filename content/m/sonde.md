@@ -21,9 +21,10 @@ draft = false
 | MRO                   | 12.08.2005 | NASA     | Atlas V 401    | Marte   | 2030       | 720           | pe orbita lui Marte        |
 | Mangalayaan           | 05.11.2013 | ISRO     | PSLV-XL        | Marte   | 202X       | 66            | pe orbita lui Marte        |
 | Trace Gas Orbiter     | 14.03.2016 | ESA      | Proton-M       | Marte   | 202X       | (1400)[^fn:6] | pe orbita lui Marte        |
-| Hope (Al-Amal)        | 19.07.2020 | MRSC     | H-IIA          | Marte   | 20XX       | 200           | pe orbita lui Marte        |
-| MSL/Curiosity         | 26.11.2011 | NASA     | Atlas V 541    | Marte   | 20XX       | 2500          | pe suprafața lui Marte     |
+| Hope (Al-Amal)        | 19.07.2020 | MRSC     | H-IIA          | Marte   | 2023       | 200           | pe orbita lui Marte        |
+| Tianwen-1             | 23.07.2020 | CNSA     | CZ-5           | Marte   | 202X       | ???           | pe orbita lui Marte        |
 | MAVEN                 | 18.11.2013 | NASA     | Atlas V 401    | Marte   | 202X       | 671           | pe orbita lui Marte        |
+| MSL/Curiosity         | 26.11.2011 | NASA     | Atlas V 541    | Marte   | 20XX       | 2500          | pe suprafața lui Marte     |
 | InSight               | 05.05.2018 | NASA     | Atlas V 401    | Marte   | 202X       | 830           | lander                     |
 | Juno                  | 05.08.2011 | NASA     | Atlas V 551    | Jupiter | 2021       | 1100          | pe orbita lui Jupiter      |
 | OSRIS-REx             | 08.12.2016 | NASA     | Atlas V 441    | Bennu   | 2023       | 800           | în drum spre Pământ[^fn:7] |

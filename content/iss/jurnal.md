@@ -4,6 +4,9 @@ author = ["Claudiu"]
 draft = false
 +++
 
+17.11.2020
+: Capsula Dragon C207 Resilience (SpX Crew-1: Mike Hopkins, Victor Glover, Soichi Noguchi, Shannon Walker) andochează la modulul _Harmony_ al ISS;
+
 22.10.2020
 : Soyuz MS-16 revine pe Pământ cu Anatoli Ivanishin, Ivan Vagner și Chris Cassidy.
 
@@ -11,6 +14,9 @@ draft = false
 : Începe **Expediția 64**;
 
 ---
+
+18.10.2020
+: EVA-232 (6 ore, 48 minute): Sergey Ryzhikov și Sergey Kud-Sverchkov, pentru pregătirea înlocuirii Pirs cu Nauka;
 
 14.10.2020
 : Soyuz MS-17 (Ryzhikov, Kud-Sverchkov, Rubins) este lansată și andocheză după 3 ore și 3 minute cu ISS la portul Rassvet;
@@ -26,6 +32,9 @@ draft = false
 
 23.07.2020
 : Progress MS-15 andochează cu modulul _Pirs;_
+
+21.07.2020
+: EVA-231 (5 ore, 20 minute): Cassidy și Behnken, operațiuni de mentenanță ISS;
 
 16.07.2020
 : EVA-230 (6 ore): Cassidy și Behnken, pentru schimbarea bateriilor ISS;
