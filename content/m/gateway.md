@@ -18,7 +18,7 @@ Primul modul, **Power and Propulsion Element**, --PPE  va fi proiectat de JPL ș
 
 **Habitation and Logistics Outpost**, --HALO, este realizat de compania Northrop-Grumann și evoluat din capsula Cygnus, folosită în prezent pentru aprovizionarea Stației Spațiale Internaționale. HALO urmează să fie dotat cu porturi de andocare, antene de comunicații și va putea găzdui un echipaj Artemis pentru o perioadă de 30 de zile, deși va avea dimensiuni mai mici decât un modul al actualei ISS.
 
-Cele două module sunt suficiente pentru a susține operațiunile de aselenizare, dar NASA nu plănuiește să folosească Gateway pentru misiunea Artemis 3, prima care va transporta un echipaj pe suprafața Lunii. Primele două module vor fi lansate în 2023, folosind o singură rachetă comercială, ele fiind lansate gata cuplate, evitând astfel cuplarea lor automată pe orbita lunară și profitând de faptul că există companii comerciale care oferă un con protector suficient de spațios pentru a găzduit ambele module[^fn:2].
+Cele două module sunt suficiente pentru a susține operațiunile de aselenizare, dar NASA nu plănuiește să folosească Gateway pentru misiunea Artemis 3, prima care va transporta un echipaj pe suprafața Lunii. Primele două module vor fi lansate împreună în 2023[^fn:2], folosind o rachetă Falcon Heavy, ele fiind lansate gata cuplate, evitând astfel cuplarea lor automată pe orbita lunară și profitând de faptul că există companii comerciale care oferă un con protector suficient de spațios pentru a găzduit ambele module[^fn:3]. PPE și HALO for fi plasate inițial pe o orbită terestră alungită, după care, folosind propulsoarele modulului PPE, acestea vor porni singure spre Lună și se vor insera astfel pe orbită selenară.
 
 După 2024, sunt programate alte doi noi module, **European System Providing Refueling, Infrastructure and Telecommunications**, --ESPRIT (care va asigura propulsie, echipamente științifice și de comunicație, porturi pentru andocare) și **International Habitation Module**, --iHAB, o colaborare între ESA și JAXA pentru un modul care va mări volumul presurizat pe care echipajul îl va avea la dispoziție.
 
@@ -37,7 +37,7 @@ După 2024, sunt programate alte doi noi module, **European System Providing Ref
 
 ## Aprovizionare {#aprovizionare}
 
-Capsula **Dragon-XL** a comapaniei SpaceX a fost primul vehicul pe care NASA l-a desemnat pentru a face parte din soluțiile comerciale alese pentru aprovizionarea viitoarei stații spațiale Gateway[^fn:3]. Acest vehicul este derivat din versiunea Dragon2 Cargo și va folosi probabil propulsia cu motoare Draco (nu va fi nevoie de motoare SuperDraco), sistemul de andocare și softul de la bord, dar are unele particularități:
+Capsula **Dragon-XL** a comapaniei SpaceX a fost primul vehicul pe care NASA l-a desemnat pentru a face parte din soluțiile comerciale alese pentru aprovizionarea viitoarei stații spațiale Gateway[^fn:4]. Acest vehicul este derivat din versiunea Dragon2 Cargo și va folosi probabil propulsia cu motoare Draco (nu va fi nevoie de motoare SuperDraco), sistemul de andocare și softul de la bord, dar are unele particularități:
 
 -   va fi lansat exclusiv de o rachetă Flacon Heavy;
 -   va putea transporta aproximativ 5 tone încărăctură utilă spre Gateway;
@@ -47,5 +47,6 @@ Capsula **Dragon-XL** a comapaniei SpaceX a fost primul vehicul pe care NASA l-a
 -   partea presurizată nu se va desprinde de partea nepresurizată (cum se întâmplă cu restul capsulelor Dragon).
 
 [^fn:1]: <https://www.nasa.gov/press-release/nasa-awards-artemis-contract-for-lunar-gateway-power-propulsion>
-[^fn:2]: <https://spaceflightnow.com/2020/05/06/nasa-plans-to-launch-first-two-gateway-elements-on-same-rocket/>
-[^fn:3]: <https://www.nasa.gov/press-release/nasa-awards-artemis-contract-for-gateway-logistics-services>
+[^fn:2]: <https://www.nasa.gov/press-release/nasa-awards-contract-to-launch-initial-elements-for-lunar-outpost>
+[^fn:3]: <https://spaceflightnow.com/2020/05/06/nasa-plans-to-launch-first-two-gateway-elements-on-same-rocket/>
+[^fn:4]: <https://www.nasa.gov/press-release/nasa-awards-artemis-contract-for-gateway-logistics-services>
