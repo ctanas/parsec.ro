@@ -63,7 +63,7 @@ De ce parsec.ro? Din dorința de a prezenta știrile și evenimentele din domeni
 
 *** Colaborări și prezențe media
 
-Sunt Claudiu Tănăselia, fizician și cercetător științific, iar despre spațiu și rachete mă puteți auzi vorbind și la *Radio România Actualități* (săptămânal, în cadrul emisiunii [Printre stele](https://mega.nz/#F!tx01XK6T!_4vQ7DczBwS0KqjfAvkUhw) (din 2013) —realizator Alexandru Mironov, în fiecare luni, după ora 21:30) sau la *Radio România Cultural* (în cadrul emisiunii Știința în cuvinte potrivite (între 2018-2019) și [Știința 360](https://radioromaniacultural.ro/stiinta/) (din 2019) —realizator Corina Negrea, într-o rubrică realizată de Mihaela Ghiță, vineri, după ora 13:20). Din 2019 sunt consultant științific al emisiunii Teleenciclopedia de la *TVR*. Mă puteți citi lunar în revista [Știință&Tehnică](https://stiintasitehnica.com/author/claudiu-tanaselia/) (din 2011) și ocazional în revistele [Research and Education](http://researchandeducation.ro/2019/04/25/sonde-interplanetare.html) sau [Sinteza](https://revistasinteza.ro/urmatorul-salt-urias-pentru-omenire/).
+Sunt Claudiu Tănăselia, fizician și cercetător științific, iar despre spațiu și rachete mă puteți auzi vorbind și la *Radio România Actualități* (săptămânal, în cadrul emisiunii [Printre stele](https://mega.nz/#F!tx01XK6T!_4vQ7DczBwS0KqjfAvkUhw) (2013-2020) —realizator Alexandru Mironov, în fiecare luni, după ora 21:30) sau la *Radio România Cultural* (în cadrul emisiunii Știința în cuvinte potrivite (între 2018-2019) și [Știința 360](https://radioromaniacultural.ro/stiinta/) (din 2019) —realizator Corina Negrea, într-o rubrică realizată de Mihaela Ghiță, vineri, după ora 13:20). Din 2019 sunt consultant științific al emisiunii Teleenciclopedia de la *TVR*. Mă puteți citi lunar în revista [Știință&Tehnică](https://stiintasitehnica.com/author/claudiu-tanaselia/) (din 2011) și ocazional în revistele [Research and Education](http://researchandeducation.ro/2019/04/25/sonde-interplanetare.html) sau [Sinteza](https://revistasinteza.ro/urmatorul-salt-urias-pentru-omenire/).
 
 Ocazional am mai apărut și la *Digi24* și *Digiworld* în cadrul emisiunii [Jurnalul de Științe](https://mega.nz/#!wt831ZaA!KNcWQBwl3hfBW9UP8jH_1_B0h9GLU0-g7mRB1unBx4I) (corespondență de la Centrul Spațial Kennedy din Florida), la [Digipedia](https://youtu.be/J0S44WemN7E) —realizator Teodora Safta, la *Columna TV*, în cadrul emisiunii Noi și Cerul —realizator Valentin Grigore sau la *TVR1* în emisiunea [Garantat 100%](https://youtu.be/ryHDIKA_njU) —realizator Cătălin Ștefănescu.
 
@@ -729,49 +729,50 @@ Programul spațial iranian poate fi sintetizat în următorul tabel. Toate lans�
 Lista tuturor lansatoarelor orbitale active folosite în prezent, împreună cu câteva statistici (configurație, țara operatorului principal, număr tentative de lansare, număr lansări reușit, număr eșecuri, data primului zbor orbital și data celei mai recente lansări). Sunt afișate toate configurațiile familiilor de rachete, chiar dacă unele configurații nu mai sunt folosite în prezent (înlăturarea lor ar cauza statistici incorecte pentru lansatorul respectiv). Este disponibilă și [[/r/rachete][lista exhaustivă a tuturor lansatoarelor orbitale]] folosite până în prezent.
 
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
-  SELECT ROW_NUMBER() OVER (ORDER BY lv_type) AS "Nr.", lv_type as "Lansator", ls_state as "Țara",
-  COUNT(*) AS "Tentative",
-  SUM (CASE WHEN lv_outcome in ('S') then 1 else 0 end) AS "Lansări",
-  SUM (CASE WHEN lv_outcome in ('F') then 1 else 0 end) AS "Eșecuri",
-  min(launchJDate) as "Prima", max(launchJDate) as "Recentă"
-  FROM launches
-  WHERE 
-  lv_type like 'Antares%' or lv_type like 'Angara%' or
-  lv_type like 'Atlas V%' or
-  lv_type like 'Delta 4H%' or
-  lv_type like 'Electron%' or 
-  lv_type like 'Falcon%' or
-  lv_type like 'Minotaur%' or
-  lv_type like 'Pegasus%' or
-  lv_type like 'LauncherOne' or
-  lv_type like 'Soyuz-2%' or
-  lv_type like 'Proton-M%' or
-  lv_type like 'Rockot%' or
-  lv_type like 'Angara%' or
-  lv_type like 'Ariane 5%' or
-  lv_type like 'Vega%' or
-  lv_type like 'CZ-2%' or
-  lv_type like 'CZ-3%' or
-  lv_type like 'CZ-4%' or
-  lv_type like 'CZ-5%' or
-  lv_type like 'CZ-6%' or
-  lv_type like 'CZ-7%' or lv_type like 'CZ-8%' or
-  lv_type like 'CZ-11%' or
-  lv_type like 'Jielong%' or
-  lv_type like 'Kuaizhou%' or
-  lv_type like 'Shuang Quxian%' or
-  lv_type like 'Ceres%' or
-  lv_type like 'Epsilon%' or
-  lv_type like 'H-2%' or
-  lv_type like 'PSLV%' or
-  lv_type like 'GSLV%' or
-  lv_type like 'Unha%' or
-  lv_type like 'Shaviyt%' or
-  lv_type like 'Safir%' or
-  lv_type like 'Simorgh' or
-  lv_type like 'Qased'
-  group by lv_type, ls_state
-  order by lv_type
+    SELECT ROW_NUMBER() OVER (ORDER BY lv_type) AS "Nr.", lv_type as "Lansator", ls_state as "Țara",
+    COUNT(*) AS "Tentative",
+    SUM (CASE WHEN lv_outcome in ('S') then 1 else 0 end) AS "Lansări",
+    SUM (CASE WHEN lv_outcome in ('F') then 1 else 0 end) AS "Eșecuri",
+    min(launchJDate) as "Prima", max(launchJDate) as "Recentă"
+    FROM launches
+    WHERE 
+    lv_type like 'Antares%' or lv_type like 'Angara%' or
+    lv_type like 'Atlas V%' or
+    lv_type like 'Delta 4H%' or
+    lv_type like 'Electron%' or 
+    lv_type like 'Falcon%' or
+    lv_type like 'Minotaur%' or
+    lv_type like 'Pegasus%' or
+    lv_type like 'LauncherOne' or
+    lv_type like 'Rocket 3%' or
+    lv_type like 'Soyuz-2%' or
+    lv_type like 'Proton-M%' or
+    lv_type like 'Rockot%' or
+    lv_type like 'Angara%' or
+    lv_type like 'Ariane 5%' or
+    lv_type like 'Vega%' or
+    lv_type like 'CZ-2%' or
+    lv_type like 'CZ-3%' or
+    lv_type like 'CZ-4%' or
+    lv_type like 'CZ-5%' or
+    lv_type like 'CZ-6%' or
+    lv_type like 'CZ-7%' or lv_type like 'CZ-8%' or
+    lv_type like 'CZ-11%' or
+    lv_type like 'Jielong%' or
+    lv_type like 'Kuaizhou%' or
+    lv_type like 'Shuang Quxian%' or
+    lv_type like 'Ceres%' or
+    lv_type like 'Epsilon%' or
+    lv_type like 'H-2%' or
+    lv_type like 'PSLV%' or
+    lv_type like 'GSLV%' or
+    lv_type like 'Unha%' or
+    lv_type like 'Shaviyt%' or
+    lv_type like 'Safir%' or
+    lv_type like 'Simorgh' or
+    lv_type like 'Qased'
+    group by lv_type, ls_state
+    order by lv_type
 #+end_src
 
 ** Lansatoare orbitale
