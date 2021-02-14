@@ -4,6 +4,9 @@ author = ["Claudiu"]
 draft = false
 +++
 
+**Ultimul update: 13.06.2020** (material arhivat)
+
+
 ## Lista lansărilor Starlink {#lista-lansărilor-starlink}
 
 | Data lansării | Misiune    | Orbită | Încl. | Sat. | Vers. |

@@ -2116,7 +2116,7 @@ Colapsul Uniunii Sovietice a însemnat sfârșitul programului Buran. Fondurile 
 
 Programul Buran nu a fost suspendat niciodată oficial. Nu a existat un decret guvernamental care să marcheze finalul său, dar cei direct implicați au început să sesizeze schimbările. Piloții care se antrenau pentru Buran aveau să fie transferați spre alte programe iar celelalte resurse au fost redirecționate spre alte sectoare ale industriei spațiale rusești.
 
-Ce s-a întâmplat însă cu vehiculele deja construite? Poveste lor este una tristă. Buran, naveta care a zburat în spațiu, a fost depozitată la Baikonur, în Kazahstan, într-un hangar, împreună cu o replică a rachetei care a purtat-o pe orbită. În 2002 însă, acoperișul hangarului s-a prăbușit, în timpul unor operațiuni de renovare. Opt oameni și-au pierdut atunci viața, iar naveta a fost distrusă în totalitate. Au mai fost construite, în cadrul programului cu acelși nume, și alte vehicule, unele pentru teste atmosferice iar altele pentru a zbura în spațiu în anii următori zborului test. Acestea, aflate în diverse etape ale asamblării, sunt împrăștiate astăzi prin diverse locuri din lume și se află în stări de conservare mau mult sau mai puțin adecvate. În Moscova, în Parcul Gorki, poate fi admirat un vehicul complet, care a fost folosit pentru teste aerodinamice. Un altul se află în Kazahstan, la intrarea în cosmodromul de la Baikonur. Un alt vehicul care urma să fie simbolul măreției sovietice, a fost expus o perioadă la Sydney cu ocazia Jocurilor Olimpice de vară din 2000, trebuia să ajungă la un muzeu din Germania dar acum zace într-un depozit din Bahrain.
+Ce s-a întâmplat însă cu vehiculele deja construite? Poveste lor este una tristă. Buran, naveta care a zburat în spațiu, a fost depozitată la Baikonur, în Kazahstan, într-un hangar, împreună cu o replică a rachetei care a purtat-o pe orbită. În 2002 însă, acoperișul hangarului s-a prăbușit, în timpul unor operațiuni de renovare. Opt oameni și-au pierdut atunci viața, iar naveta a fost distrusă în totalitate. Au mai fost construite, în cadrul programului cu acelși nume, și alte vehicule, unele pentru teste atmosferice iar altele pentru a zbura în spațiu în anii următori zborului test. Acestea, aflate în diverse etape ale asamblării, sunt împrăștiate astăzi prin diverse locuri din lume și se află în stări de conservare mau mult sau mai puțin adecvate. În Moscova, în Parcul Gorki, a putut fi admirat un vehicul complet, care a fost folosit pentru teste aerodinamice și care în 2014 a fost mutat în cadrul expoziției permanente VDNKh. Un altul se află în Kazahstan, la intrarea în cosmodromul de la Baikonur. Un alt vehicul care urma să fie simbolul măreției sovietice, a fost expus o perioadă la Sydney cu ocazia Jocurilor Olimpice de vară din 2000, trebuia să ajungă la un muzeu din Germania dar acum zace într-un depozit din Bahrain.
 
 Moștenirea programului Buran însă continuă și astăzi. Boosterele rachetei Energia au fost sursă de inspirație pentru rachetele folosite în prezent de către compania Sea Launch iar viitoarea generație de rachete rusești Angara tot de acolo se inspiră. Sistemul de andocare proiectat pentru Buran a fost folosit pentru stația spațială MIR și continuă să fie folosit și astăzi la bordul ISS.
 
@@ -2331,6 +2331,8 @@ Capsula *Dragon-XL* a comapaniei SpaceX a fost primul vehicul pe care NASA l-a d
 :PROPERTIES:
 :EXPORT_FILE_NAME: starlink
 :END:
+
+*Ultimul update: 13.06.2020* (material arhivat)
 
 *** Lista lansărilor Starlink
 
