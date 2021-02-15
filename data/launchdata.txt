@@ -5956,24 +5956,24 @@
 2020-062    2020-09-03 12:46   Falcon 9                094/B1060.2          Starlink 1.0-L11                               US   KSC          LC39A      S 87
 2020-063    2020-09-04 07:30   Chang Zheng 2F          T3                   CSSHQ                                          CN   Jiuquan      Pad 921?   S 87
 2020-064    2020-09-07 05:57   Chang Zheng 4B          Y46                  Gao Fen 11-02                                  CN   Taiyuan      LC9        S 88
-2020-F07    2020-09-12 03:19   Rocket 3                3.1                  (Test)                                         US   Kodiak       LP3B       F 88
+2020-F07    2020-09-12 03:19   Astra Rocket 3.1        3                    Rocket 3.1                                     US   Kodiak       LP3B       F 88
 2020-F08    2020-09-12 05:02   Kuaizhou 1A             Y3                   Jilin-1 Gaofen-02C                             CN   Jiuquan      SLS2       F 88
 2020-065    2020-09-15 01:23   Chang Zheng 11H         Y2                   Jilin-1 Gaofen-03B                             CN   HHAI         Debo3      S 88
 2020-066    2020-09-21 05:40   Chang Zheng 4B          Y41                  HaiYang-2C                                     CN   Jiuquan      SLS2       S 89
 2020-067    2020-09-27 03:23   Chang Zheng 4B          Y42                  HuanJing-2                                     CN   Taiyuan      LC9        S 90
-2020-068    2020-09-28 11:20   Soyuz-2.1b                                   Gonets-M                                       RU   Plesetsk     43/3       S 90
-2020-069    2020-10-03 01:16   Antares-230+                                 Cygnus NG-14 SS Kalpana Chawla                 US   Wallops      LP-0A      S 91
+2020-068    2020-09-28 11:20   Soyuz-2.1b              T15000-025/112-501   Gonets-M                                       RU   Plesetsk     43/3       S 90
+2020-069    2020-10-03 01:16   Antares-230+            13                   Cygnus NG-14 / SS Kalpana Chawla               US   Wallops      LP-0A      S 91
 2020-070    2020-10-06 11:29   Falcon 9                095/B1058.3          Starlink 1.0-L12                               US   KSC          LC39A      S 91
-2020-071    2020-10-11 16:57   Chang Zheng 3B                               Gao Fen 13                                     CN   Xichang                 S 92
-2020-072    2020-10-14 05:45   Soyuz-2.1a                                   Soyuz MS-17                                    RU   Baikonur     31/6       S 92
+2020-071    2020-10-11 16:57   Chang Zheng 3B          Y63                  Gao Fen 13                                     CN   Xichang                 S 92
+2020-072    2020-10-14 05:45   Soyuz-2.1a              Kh15000-045          Soyuz MS-17                                    RU   Baikonur     31/6       S 92
 2020-073    2020-10-18 12:25   Falcon 9                096/B1051.6          Starlink 1.0-L13                               US   KSC          LC39A      S 93
 2020-074    2020-10-24 15:31   Falcon 9                097/B1060.3          Starlink 1.0-L14                               US   CC           LC40       S 94
-2020-075    2020-10-25 19:08   Soyuz-2.1b                                   Uragan-K No.15L                                RU   Plesetsk     43/3       S 94
+2020-075    2020-10-25 19:08   Soyuz-2.1b              G15000-031/112-12    Glonass-K No.15L                                RU   Plesetsk     43/3       S 94
 2020-076    2020-10-26 15:19   Chang Zheng 2C          2C-Y43               Yaogan 30-07                                   CN   Xichang      LC3        S 94
 2020-077    2020-10-28 21:21   Electron                15                   In Focus / CE-SAT-IIB                          US   Mahia        LC1        S 94
 2020-078    2020-11-05 23:24   Falcon 9                098/1062.1           GPS-III-SV04                                   US   CC           LC40       S 96
 2020-079    2020-11-06 03:18   Chang Zheng 6           Y4                   ÑuSat                                          CN   Taiyuan      LC16       S 96
-2020-080    2020-11-07 07:10   Ceres-1                                      Tianqi-11                                      CN   Jiuquan                 S 96
+2020-080    2020-11-07 07:10   Ceres-1                 1                    Tianqi-11                                      CN   Jiuquan                 S 96
 2020-081    2020-11-07 09:41   PSLV-DL                 C49                  EOS-01                                         IN   Satish       SLP        S 96
 2020-082    2020-11-12 15:59   Chang Zheng 3B/E        3B-Y73               Tiantong-1 02                                  CN   Xichang      LC2        S 97
 2020-083    2020-11-13 22:32   Atlas V 531             AV-090               NROL-101                                       US   CC           LC41       S 97
@@ -5983,31 +5983,31 @@
 2020-086    2020-11-21 17:17   Falcon 9                100/1063.1           Sentinel-6                                     US   Vandenberg   SLC4E      S 98
 2020-087    2020-11-23 20:30   Chang Zheng 5           Y5                   Chang'e-5                                      CN   Wenchang     LC1        S 98
 2020-088    2020-11-25 02:13   Falcon 9                101/1049.7           Starlink 1.0-L15                               US   CC           LC40       S 98
-2020-089    2020-11-29 07:25   H-IIA 202               H-IIA-43             JDRS-1                                         JP   Tanegashima  LA-Y1      S 99
+2020-089    2020-11-29 07:25   H-IIA 202               H-IIA-43             DRS-1                                          JP   Tanegashima  LA-Y1      S 99
 2020-090    2020-12-02 01:33   Soyuz-2.1a              VS24                 FalconEye-24                                   EU   Kourou       ELS        S 99
-2020-091    2020-12-03 01:14   Soyuz-2.1b                                   Gonets-M 20-22                                 RU   Plesetsk     43/3       S 99
-2020-092    2020-12-06 03:58   Chang Zheng 3B/E        3B-Y74               Gaofen-14                                      CN   Xichang                 S 100
-2020-093    2020-12-06 16:17   Falcon 9                101/1058.4           Dragon CRS-21                                  US   KSC          LC39A      S 100
+2020-091    2020-12-03 01:14   Soyuz-2.1b              N15000-045/112-502   Gonets-M 20-22                                 RU   Plesetsk     43/3       S 99
+2020-092    2020-12-06 03:58   Chang Zheng 3B/E        3B-Y70               Gaofen-14                                      CN   Xichang                 S 100
+2020-093    2020-12-06 16:17   Falcon 9                102/1058.4           Dragon CRS-21 / Dragon C208                    US   KSC          LC39A      S 100
 2020-094    2020-12-09 20:14   Chang Zheng 11          Y9                   GECAM                                          CN   Xichang      LC4        S 101
 2020-095    2020-12-11 01:09   Delta 4H                D-385                NROL-44 / USA-311                              US   CC           SLC37B     S 101
-2020-096    2020-12-13 17:30   Falcon 9                102/1051.7           Sirius SXM-7                                   US   CC           LC40       S 101
-2020-097    2020-12-14 05:50   Angara A5                                    IPM2                                           RU   Plesetsk     35/1       S 101
+2020-096    2020-12-13 17:30   Falcon 9                103/1051.7           Sirius SXM-7                                   US   CC           LC40       S 101
+2020-097    2020-12-14 05:50   Angara A5               71752(2LM)/88802     IPM2                                           RU   Plesetsk     35/1       S 101
 2020-098    2020-12-15 10:09   Electron                17                   StriX-a / The Owl Night Begin                  US   Mahia        LC1        S 101
-2020-F10    2020-12-15 20:55   Rocket 3                3.2                  (Test)                                         US   Kodiak       LP3B       F 101
+2020-F10    2020-12-15 20:55   Astra Rocket 3.2        4                    Rocket 3.2                                     US   Kodiak       LP3B       F 101
 2020-099    2020-12-17 10:11   PSLV-XL                 C50                  CMS-01 / GSAT-12R                              IN   Satish       SLP        S 102
-2020-100    2020-12-18 12:26   Soyuz-2.1b              ST29                 Oneweb                                         EU   Vostochny    1S         S 102
-2020-101    2020-12-19 14:00   Falcon 9                B1059.5              NROL-108 / USA-312 USA-313                     US   KSC          LC39A      S 102
+2020-100    2020-12-18 12:26   Soyuz-2.1b              ST29                 OneWeb L4                                      EU   Vostochny    1S         S 102
+2020-101    2020-12-19 14:00   Falcon 9                104/B1059.5          NROL-108 / USA-312 USA-313                     US   KSC          LC39A      S 102
 2020-102    2020-12-22 04:37   Chang Zheng 8           Y1                   XJY-7                                          CN   Wenchang     LC2        S 102
-2020-103    2020-12-27 15:44   Chang Zheng 4C                               Yaogan-33                                      CN   Jiuquan                 S 102
+2020-103    2020-12-27 15:44   Chang Zheng 4C          4C-Y35               Yaogan-33                                      CN   Jiuquan                 S 102
 2020-104    2020-12-29 16:42   Soyuz-ST-A              VS25                 CSO-2                                          EU   Kourou       ELS        S 102
-2021-001    2021-01-08 02:15   Falcon 9                B1060.4              Turksat-5A                                     US   CC           LC40       S 103
+2021-001    2021-01-08 02:15   Falcon 9                105/B1060.4          Turksat-5A                                     US   CC           LC40       S 103
 2021-002    2021-01-17 19:39   LauncherOne             F2                   CACTUS-1                                       US   MHV          RW12/30    S 103
-2021-003    2021-01-19 16:25   Chang Zheng 3B/E        3B-Y75               Tiantong-1 03                                  CN   Xichang      LC2        S 104
-2021-004    2021-01-20 07:26   Electron                18                   GMS-7 / Another one leaves the crust           US   Mahia        LC1        S 104
-2021-005    2021-01-20 13:02   Falcon 9                B1051.8              Starlink 1.0-L16                               US   KSC          LC39A      S 104
-2021-006    2021-01-24 15:00   Falcon 9                B1058.5              Transporter-1                                  US   CC           LC40       S 104
-2021-007    2021-01-29 04:47   Chang Zheng 4C          4C-Y31               Yaogan-31                                      US   Jiuquan      SLS2       S 104
+2021-003    2021-01-19 16:25   Chang Zheng 3B/E        3B-Y74               Tiantong-1 03                                  CN   Xichang      LC2        S 104
+2021-004    2021-01-20 07:26   Electron                18                   GMS-T / Another one leaves the crust           US   Mahia        LC1        S 104
+2021-005    2021-01-20 13:02   Falcon 9                106/B1051.8          Starlink 1.0-L16                               US   KSC          LC39A      S 104
+2021-006    2021-01-24 15:00   Falcon 9                107/B1058.5          Transporter-1                                  US   CC           LC40       S 104
+2021-007    2021-01-29 04:47   Chang Zheng 4C          4C-Y31               Yaogan-31-02                                   US   Jiuquan      SLS2       S 104
 2021-F01    2021-02-01 08:15   Shuang Quxian 1         Y2                   Fangzhou-2                                     CN   Jiuquan      LA4        F 105
-2021-008    2021-02-02 20:45   Soyuz-2.1b                                   Lotos-S1 No.4 / Kosmos 2549                    RU   Plesetsk     43/4       S 105
-2021-009    2021-02-04 06:17   Falcon 9                B1060.5              Starlink 1.0-L18                               US   CC           LC40       S 105
-2021-010    2021-02-04 15:36   Chang Zheng 3B/E        3B-Y76               TJSW-6                                         CN   Xichang      LC3        S 105
+2021-008    2021-02-02 20:45   Soyuz-2.1b                                   Lotos-S1 No.5 / Kosmos 2549                    RU   Plesetsk     43/4       S 105
+2021-009    2021-02-04 06:17   Falcon 9                108/B1060.5          Starlink 1.0-L18                               US   CC           LC40       S 105
+2021-010    2021-02-04 15:36   Chang Zheng 3B/E        3B-Y75               TJSW-6                                         CN   Xichang      LC3        S 105

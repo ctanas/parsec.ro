@@ -113,13 +113,13 @@ draft = false
 | 2020-11-16 | Falcon 9     | 099/1061.1  | USCV-1 / Dragon-2 C207                     | KSC        | LC39A | S |
 | 2020-11-21 | Falcon 9     | 100/1063.1  | Sentinel-6                                 | Vandenberg | SLC4E | S |
 | 2020-11-25 | Falcon 9     | 101/1049.7  | Starlink 1.0-L15                           | CC         | LC40  | S |
-| 2020-12-06 | Falcon 9     | 101/1058.4  | Dragon CRS-21                              | KSC        | LC39A | S |
-| 2020-12-13 | Falcon 9     | 102/1051.7  | Sirius SXM-7                               | CC         | LC40  | S |
-| 2020-12-19 | Falcon 9     | B1059.5     | NROL-108 / USA-312 USA-313                 | KSC        | LC39A | S |
-| 2021-01-08 | Falcon 9     | B1060.4     | Turksat-5A                                 | CC         | LC40  | S |
-| 2021-01-20 | Falcon 9     | B1051.8     | Starlink 1.0-L16                           | KSC        | LC39A | S |
-| 2021-01-24 | Falcon 9     | B1058.5     | Transporter-1                              | CC         | LC40  | S |
-| 2021-02-04 | Falcon 9     | B1060.5     | Starlink 1.0-L18                           | CC         | LC40  | S |
+| 2020-12-06 | Falcon 9     | 102/1058.4  | Dragon CRS-21 / Dragon C208                | KSC        | LC39A | S |
+| 2020-12-13 | Falcon 9     | 103/1051.7  | Sirius SXM-7                               | CC         | LC40  | S |
+| 2020-12-19 | Falcon 9     | 104/B1059.5 | NROL-108 / USA-312 USA-313                 | KSC        | LC39A | S |
+| 2021-01-08 | Falcon 9     | 105/B1060.4 | Turksat-5A                                 | CC         | LC40  | S |
+| 2021-01-20 | Falcon 9     | 106/B1051.8 | Starlink 1.0-L16                           | KSC        | LC39A | S |
+| 2021-01-24 | Falcon 9     | 107/B1058.5 | Transporter-1                              | CC         | LC40  | S |
+| 2021-02-04 | Falcon 9     | 108/B1060.5 | Starlink 1.0-L18                           | CC         | LC40  | S |
 
 <div class="table-caption">
   <span class="table-number">Tabel 1</span>:
