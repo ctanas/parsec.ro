@@ -1,3 +1,7 @@
+# Script for filtering the original launch.tsv file
+# Not indended for regular, periodical use
+# Intended for one-time update, then regular manual edits of the resulted file
+
 import sys
 import os
 import csv
@@ -34,12 +38,12 @@ for row in read_tsv:
 
   if "-S" not in Launch_Tag and "-A" not in Launch_Tag and "-M" not in Launch_Tag and "-U" not in Launch_Tag and "-W" not in Launch_Tag and "-Y" not in Launch_Tag and "-E" not in Launch_Tag and "-S" not in Launch_Tag and "2014-000" not in Launch_Tag and "#Launch_Tag" not in Launch_Tag:
   # ^filtering out non-orbital launches or pad explosions
-    
+
     if "F" in Launch_Tag: Launch_Code = "F"
     else: Launch_Code = "S"
 
     if "?" in Launch_Date: Launch_Date = Launch_Date.replace("?","")
-    if "Jan" in Launch_Date: Launch_Date = Launch_Date.replace(" Jan ", "-01-")                             
+    if "Jan" in Launch_Date: Launch_Date = Launch_Date.replace(" Jan ", "-01-")
     if "Feb" in Launch_Date: Launch_Date = Launch_Date.replace(" Feb ", "-02-")
     if "Mar" in Launch_Date: Launch_Date = Launch_Date.replace(" Mar ", "-03-")
     if "Apr" in Launch_Date: Launch_Date = Launch_Date.replace(" Apr ", "-04-")
@@ -58,39 +62,39 @@ for row in read_tsv:
     Launch_Date = data1 + ":" + data2
     if Launch_Date[len(Launch_Date)-1] == ":": Launch_Date = Launch_Date[:-1]
 
-    if (Flight != Mission) and  (Flight != "-") and (Mission != "-"): 
+    if (Flight != Mission) and  (Flight != "-") and (Mission != "-"):
       Flight = Flight + " / " + Mission
     
     if (Flight == "-"): Flight = Mission
 
-    if Launch_Site == "NIIP-5": 
+    if Launch_Site == "NIIP-5":
       Launch_Site = "Baikonur"
       if float(Launch_JD) < 2448254: ls_state = "SU"
       if float(Launch_JD) > 2448254: ls_state = "RU"
-    if Launch_Site == "GIK-5": 
+    if Launch_Site == "GIK-5":
       Launch_Site = "Baikonur"
       if float(Launch_JD) < 2448254: ls_state = "SU"
       if float(Launch_JD) > 2448254: ls_state = "RU"
-    if Launch_Site == "NIIP-53": 
+    if Launch_Site == "NIIP-53":
       Launch_Site = "Plesetsk"
       if float(Launch_JD) < 2448254: ls_state = "SU"
-      if float(Launch_JD) > 2448254: ls_state = "RU"        
-    if Launch_Site == "GIK-1" or Launch_Site == "GNIIP": 
+      if float(Launch_JD) > 2448254: ls_state = "RU"
+    if Launch_Site == "GIK-1" or Launch_Site == "GNIIP":
       Launch_Site = "Plesetsk"
       if float(Launch_JD) < 2448254: ls_state = "SU"
-      if float(Launch_JD) > 2448254: ls_state = "RU"         
-    if Launch_Site == "GNIIPV": 
+      if float(Launch_JD) > 2448254: ls_state = "RU"
+    if Launch_Site == "GNIIPV":
       Launch_Site = "Plesetsk"
       if float(Launch_JD) < 2448254: ls_state = "SU"
-      if float(Launch_JD) > 2448254: ls_state = "RU"            
+      if float(Launch_JD) > 2448254: ls_state = "RU"
     if Launch_Site == "V": Launch_Site = "VAFB"
     if Launch_Site == "VS": Launch_Site = "SVAFB"
     if Launch_Site == "MAHIA": Launch_Site = "Mahia"
     if Launch_Site == "WI" or Launch_Site == "WIMB": Launch_Site = "Wallops"
-    if Launch_Site == "GTsP-4" or Launch_Site == "GTsMP-4": 
+    if Launch_Site == "GTsP-4" or Launch_Site == "GTsMP-4":
       Launch_Site = "Kapustin"
       if float(Launch_JD) < 2448254: ls_state = "SU"
-      if float(Launch_JD) > 2448254: ls_state = "RU" 
+      if float(Launch_JD) > 2448254: ls_state = "RU"
     if Launch_Site == "KASC": Launch_Site = "Kagoshima"
     if Launch_Site == "USC": Launch_Site = "Kagoshima"
     if Launch_Site == "WOO": Launch_Site = "Woomera"
@@ -107,7 +111,7 @@ for row in read_tsv:
     if Launch_Site == "SHAR": Launch_Site = "Satish"
     if Launch_Site == "KLC": Launch_Site = "Kodiak"
     if Launch_Site == "SEM": Launch_Site = "Semnan"
-    
+
     US_Locations = ["CC", "KSC","VAFB", "SVAFB", "Mahia", "Wallops", "NOTS", "PA", "SMLC", "EAFB", "GANC", "SPFL","KMR", "Kodiak", "KAU", "MHV"]
     AU_Locations = ["Woomera"]
     EU_Locations = ["Kourou", "HMG"]
