@@ -6012,3 +6012,4 @@
 2021-009    2021-02-04 06:17   Falcon 9                108/B1060.5          Starlink 1.0-L18                               US   CC           LC40       S 105
 2021-010    2021-02-04 15:36   Chang Zheng 3B/E        3B-Y75               TJSW-6                                         CN   Xichang      LC3        S 105
 2021-011    2021-02-15 04:45   Soyuz-2.1a                                   Progress MS-16                                 RU   Baikonur     31/6       S 106
+2021-012    2021-02-16 03:59   Falcon 9                109/B1059.6          Starlink 1.0-L19                               US   CC           LC40       S 106

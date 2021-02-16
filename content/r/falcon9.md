@@ -120,6 +120,7 @@ draft = false
 | 2021-01-20 | Falcon 9     | 106/B1051.8 | Starlink 1.0-L16                           | KSC        | LC39A | S |
 | 2021-01-24 | Falcon 9     | 107/B1058.5 | Transporter-1                              | CC         | LC40  | S |
 | 2021-02-04 | Falcon 9     | 108/B1060.5 | Starlink 1.0-L18                           | CC         | LC40  | S |
+| 2021-02-16 | Falcon 9     | 109/B1059.6 | Starlink 1.0-L19                           | CC         | LC40  | S |
 
 <div class="table-caption">
   <span class="table-number">Tabel 1</span>:
@@ -177,6 +178,7 @@ draft = false
 | B1059.3 | 13.06.2020 | Starlink-8     | OCISLY            | Falcon 9   |
 | B1059.4 | 30.08.2020 | SACOCOM-1B     | LZ-1              | Falcon 9   |
 | B1059.5 | 19.12.2020 | NROL-108       | LZ-1              | Falcon 9   |
+| B1059.6 | 16.02.2021 | Starlink-8     | N/A [X]           | Falcon 9   |
 | B1060.1 | 30.06.2020 | GPS3-SV03      | JRI               | Falcon 9   |
 | B1060.2 | 03.09.2020 | Starlink-11    | OCISLY            | Falcon 9   |
 | B1060.3 | 24.10.2020 | Starlink-14    | JRI               | Falcon 9   |
