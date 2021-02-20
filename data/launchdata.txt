@@ -5962,7 +5962,7 @@ x1957 ALP    1957-10-04 19:28   Sputnik 8K71PS          M1-PS                PS-
 2020-066    2020-09-21 05:40   Chang Zheng 4B          Y41                  HaiYang-2C                                     CN   Jiuquan      SLS2       S 89
 2020-067    2020-09-27 03:23   Chang Zheng 4B          Y42                  HuanJing-2                                     CN   Taiyuan      LC9        S 90
 2020-068    2020-09-28 11:20   Soyuz-2.1b              T15000-025/112-501   Gonets-M                                       RU   Plesetsk     43/3       S 90
-2020-069    2020-10-03 01:16   Antares-230+            13                   Cygnus NG-14 / SS Kalpana Chawla               US   Wallops      LP-0A      S 91
+2020-069    2020-10-03 01:16   Antares 230+            13                   Cygnus NG-14 / SS Kalpana Chawla               US   Wallops      LP-0A      S 91
 2020-070    2020-10-06 11:29   Falcon 9                095/B1058.3          Starlink 1.0-L12                               US   KSC          LC39A      S 91
 2020-071    2020-10-11 16:57   Chang Zheng 3B          Y63                  Gao Fen 13                                     CN   Xichang                 S 92
 2020-072    2020-10-14 05:45   Soyuz-2.1a              Kh15000-045          Soyuz MS-17                                    RU   Baikonur     31/6       S 92
@@ -6013,3 +6013,4 @@ x1957 ALP    1957-10-04 19:28   Sputnik 8K71PS          M1-PS                PS-
 2021-010    2021-02-04 15:36   Chang Zheng 3B/E        3B-Y75               TJSW-6                                         CN   Xichang      LC3        S 105
 2021-011    2021-02-15 04:45   Soyuz-2.1a                                   Progress MS-16                                 RU   Baikonur     31/6       S 106
 2021-012    2021-02-16 03:59   Falcon 9                109/B1059.6          Starlink 1.0-L19                               US   CC           LC40       S 106
+2021-013    2021-02-20 17:36   Antares 230+            14                   Cygnus NG-15 / S.S. Katherine Johnson          US   Wallops      LP-0A      S 107

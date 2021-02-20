@@ -14,18 +14,18 @@ Siteul de față reprezintă o colecție personală de materiale, articole și n
 
 ## Ultimele lansări orbitale {#ultimele-lansări-orbitale}
 
-| Data        | Lansator        | Serie       | Satelit                              | T  | Centru   | Rampă | R. | Bul             |
-|-------------|-----------------|-------------|--------------------------------------|----|----------|-------|----|-----------------|
-| 16.02 03:59 | Falcon 9        | 109/B1059.6 | Starlink 1.0-L19                     | US | CC       | LC40  | S  | [106](/bul/106) |
-| 15.02 04:45 | Soyuz-2.1a      |             | Progress MS-16                       | RU | Baikonur | 31/6  | S  | [106](/bul/106) |
-| 04.02 15:36 | CZ-3B/E         | 3B-Y75      | TJSW-6                               | CN | Xichang  | LC3   | S  | [105](/bul/105) |
-| 04.02 06:17 | Falcon 9        | 108/B1060.5 | Starlink 1.0-L18                     | US | CC       | LC40  | S  | [105](/bul/105) |
-| 02.02 20:45 | Soyuz-2.1b      |             | Lotos-S1 No.5 / Kosmos 2549          | RU | Plesetsk | 43/4  | S  | [105](/bul/105) |
-| 01.02 08:15 | Shuang Quxian 1 | Y2          | Fangzhou-2                           | CN | Jiuquan  | LA4   | F  | [105](/bul/105) |
-| 29.01 04:47 | CZ-4C           | 4C-Y31      | Yaogan-31-02                         | US | Jiuquan  | SLS2  | S  | [104](/bul/104) |
-| 24.01 15:00 | Falcon 9        | 107/B1058.5 | Transporter-1                        | US | CC       | LC40  | S  | [104](/bul/104) |
-| 20.01 13:02 | Falcon 9        | 106/B1051.8 | Starlink 1.0-L16                     | US | KSC      | LC39A | S  | [104](/bul/104) |
-| 20.01 07:26 | Electron        | 18          | GMS-T / Another one leaves the crust | US | Mahia    | LC1   | S  | [104](/bul/104) |
+| Data        | Lansator        | Serie       | Satelit                               | T  | Centru   | Rampă | R. | Bul             |
+|-------------|-----------------|-------------|---------------------------------------|----|----------|-------|----|-----------------|
+| 20.02 17:36 | Antares 230+    | 14          | Cygnus NG-15 / S.S. Katherine Johnson | US | Wallops  | LP-0A | S  | [107](/bul/107) |
+| 16.02 03:59 | Falcon 9        | 109/B1059.6 | Starlink 1.0-L19                      | US | CC       | LC40  | S  | [106](/bul/106) |
+| 15.02 04:45 | Soyuz-2.1a      |             | Progress MS-16                        | RU | Baikonur | 31/6  | S  | [106](/bul/106) |
+| 04.02 15:36 | CZ-3B/E         | 3B-Y75      | TJSW-6                                | CN | Xichang  | LC3   | S  | [105](/bul/105) |
+| 04.02 06:17 | Falcon 9        | 108/B1060.5 | Starlink 1.0-L18                      | US | CC       | LC40  | S  | [105](/bul/105) |
+| 02.02 20:45 | Soyuz-2.1b      |             | Lotos-S1 No.5 / Kosmos 2549           | RU | Plesetsk | 43/4  | S  | [105](/bul/105) |
+| 01.02 08:15 | Shuang Quxian 1 | Y2          | Fangzhou-2                            | CN | Jiuquan  | LA4   | F  | [105](/bul/105) |
+| 29.01 04:47 | CZ-4C           | 4C-Y31      | Yaogan-31-02                          | US | Jiuquan  | SLS2  | S  | [104](/bul/104) |
+| 24.01 15:00 | Falcon 9        | 107/B1058.5 | Transporter-1                         | US | CC       | LC40  | S  | [104](/bul/104) |
+| 20.01 13:02 | Falcon 9        | 106/B1051.8 | Starlink 1.0-L16                      | US | KSC      | LC39A | S  | [104](/bul/104) |
 
 Detalii cu privire la informațiile din tabel, pot fi găsite în secțiunea [Legendă tabele](/t/legenda_tabele). Data și ora sunt UTC.
 

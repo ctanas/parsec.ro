@@ -50,6 +50,7 @@ Misiunea NG-12, parte a CRS2 (a doua parte a contractului de aprovizionare comer
 | NG-11   | 17.04.2019   | A-230    | RD-181   | C-30XL    | 19.04.2019   | 3436     | 06.08.2019   | 06.09.2019   | Unity   | Succ.   |
 | NG-12   | 02.11.2019   | A-230+   | RD-181   | C-30XL    | 04.11.2019   | 3750     | 31.01.2020   | 17.03.2020   | Unity   | Succ.   |
 | NG-13   | 15.02.2020   | A-230+   | RD-181   | C-30XL    | 18.02.2020   | 3377     | 11.05.2020   | 29.05.2020   | Unity   | Succ.   |
-| NG-14   | 03.10.2020   | A-230+   | RD-181   | C-30XL    | 05.10.2020   | 3519     | ??.12.2020   |              | Unity   | Succ.   |
+| NG-14   | 03.10.2020   | A-230+   | RD-181   | C-30XL    | 05.10.2020   | 3519     | 06.01.2021   | 26.01.2021   | Unity   | Succ.   |
+| NG-15   | 20.02.2020   | A-203+   | RD-181   | C-30XL    | 22.10.2020   | 3810     | ??.??.2021   | ??.??.2021   | Unity   | Succ.   |
 
 [^fn:1]: _Orbital Sciences_ a fost fondată în 1982 și în 2014 a fuzionat cu _Alliant Techsystems_ (ATK), formând compania _Orbital ATK_, care a funcționat ca atare până în 2017, când _Northrop Grumman_ a cumpărat _Orbital ATK_, astfel că fosta companie a ajuns o divizie în cadrul _Northrop Grumman_, denumită _Nortrop Grumman Innovation System_ (NGIS).
