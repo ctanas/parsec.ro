@@ -1,4 +1,4 @@
-1957 ALP    1957-10-04 19:28   Sputnik 8K71PS          M1-PS                PS-1                                           SU   Baikonur     LC1        S
+x1957 ALP    1957-10-04 19:28   Sputnik 8K71PS          M1-PS                PS-1                                           SU   Baikonur     LC1        S
 1957 BET    1957-11-03 02:30   Sputnik 8K71PS          M1-2PS               PS-2                                           SU   Baikonur     LC1        S
 1957-F01    1957-12-06 16:44   Vanguard                TV-3                 Vanguard TV3 / Vanguard Test Satellite         US   CC           LC18A      F
 1958 ALP    1958-02-01 03:47   Jupiter C               RS-29    UE          Explorer 1                                     US   CC           LC26A      S
@@ -5794,7 +5794,7 @@
 2019-F02    2019-02-05         Safir                   -                    Dousti                                         IR   Semnan       SAF        F
 2019-007    2019-02-05 21:01   Ariane 5ECA             VA247 (5106)         SGS-1-HS-4/GSAT-31 / SGS-1/GSAT-31             EU   Kourou       ELA3       S
 2019-008    2019-02-21 16:47   Soyuz-2.1b              E 15000-024/112-07   EgyptSat-A                                     RU   Baikonur     LC31       S
-2019-009    2019-02-22 01:45   Falcon 9                069/B1048.3          Nusantara Satu/Beresheet / PSN 6/Beresheet     US   CC           LC40       S
+2019-009    2019-02-22 01:45   Falcon 9                069/B1048.3          Nusantara Satu / Beresheet                     US   CC           LC40       S
 2019-010    2019-02-27 21:37   Soyuz-ST-B              U 15000-016/133-15   OneWeb F6                                      EU   Kourou       ELS        S
 2019-011    2019-03-02 07:49   Falcon 9                070/B1051            Crew Dragon DM-1 / Dragon C201                 US   KSC          LC39A      S
 2019-012    2019-03-09 16:28   Chang Zheng 3B          Y54                  Zhongxing 6C / ZX-6C                           CN   Xichang      LC3        S

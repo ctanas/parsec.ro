@@ -8,11 +8,11 @@ draft = false
 
 | Nume sondă            | Lansare    | Agenție  | Rachetă        | Țintă   | EOM[^fn:1] | Cost[^fn:2]   | Stare                      |
 |-----------------------|------------|----------|----------------|---------|------------|---------------|----------------------------|
-| Mars2020/Perseverance | 30.07.2020 | NASA     | Atlas V 541    | Marte   | 20XX       | 2400          | în drum spre Marte         |
 | Solar Orbiter         | 10.02.2020 | ESA      | Atlas V 411    | Soare   | 2027       | 1500          | în drum spre Soare         |
 | Chandrayaan-2         | 22.07.2019 | ISRO     | GSLV Mk.III    | Luna    | 2026       | 141           | pe orbita Lunii[^fn:3]     |
 | LRO                   | 18.06.2009 | NASA     | Atlas V 401    | Luna    | 202X       | 583           | pe orbita Lunii            |
-| Chang'E-3/Yutu        | 01.12.2013 | CNSA     | Changzheng-3B  | Luna    | 20??       | ???           | lander/rover               |
+| Chang'E-3/Yutu        | 01.12.2013 | CNSA     | Changzheng-3B  | Luna    | 20??       | ???           | pe suprafața Lunii         |
+| Chang'E-4/Yutu2       | 20.05.2018 | CNSA     | Changzheng-3B  | Luna    | 202?       | ???           | pe suprafața Lunii         |
 | Parker                | 12.08.2018 | NASA     | Delta IV Heavy | Soare   | 2025       | 1500          | pe orbita Soarelui         |
 | BepiColombo           | 20.10.2018 | ESA/JAXA | Ariane 5 ECA   | Mercur  | 2028       | 2000          | în drum spre Mercur        |
 | Akatsuki              | 20.05.2010 | JAXA     | H-2A 202       | Venus   | 20??       | 290           | pe orbita lui Venus[^fn:4] |
@@ -25,7 +25,8 @@ draft = false
 | Tianwen-1             | 23.07.2020 | CNSA     | CZ-5           | Marte   | 202X       | ???           | pe orbita lui Marte        |
 | MAVEN                 | 18.11.2013 | NASA     | Atlas V 401    | Marte   | 202X       | 671           | pe orbita lui Marte        |
 | MSL/Curiosity         | 26.11.2011 | NASA     | Atlas V 541    | Marte   | 20XX       | 2500          | pe suprafața lui Marte     |
-| InSight               | 05.05.2018 | NASA     | Atlas V 401    | Marte   | 202X       | 830           | lander                     |
+| InSight               | 05.05.2018 | NASA     | Atlas V 401    | Marte   | 202X       | 830           | pe suprafața lui Marte     |
+| Mars2020/Perseverance | 30.07.2020 | NASA     | Atlas V 541    | Marte   | 20XX       | 2400          | pe suprafața lui Marte     |
 | Juno                  | 05.08.2011 | NASA     | Atlas V 551    | Jupiter | 2021       | 1100          | pe orbita lui Jupiter      |
 | OSRIS-REx             | 08.12.2016 | NASA     | Atlas V 441    | Bennu   | 2023       | 800           | în drum spre Pământ[^fn:7] |
 | Hayabusa-2            | 03.12.2014 | JAXA     | H-2A 202       | Ryugu   | 2020       | 149           | în drum spre Pământ        |

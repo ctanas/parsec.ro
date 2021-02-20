@@ -1126,65 +1126,83 @@ FROM launches
 WHERE lv_type LIKE ('Falcon%')
 #+end_src
 
-#+CAPTION: Lista treptelor primare Falcon 1 Block 5
+*** Lista treptelor primare Falcon 9 Block 5 inactive
+
+**** B1046
+    
+| Booster |       Data | Misiunea     | Recuperare | Racheta  |
+|---------+------------+--------------+------------+----------|
+| B1046.1 | 11.05.2018 | Bangabadhu-1 | OCISLY     | Falcon 9 |
+| B1046.2 | 07.08.2018 | Merah Putih  | OCISLY     | Falcon 9 |
+| B1046.3 | 03.11.2018 | SSO-A        | JRTI       | Falcon 9 |
+| B1046.4 | 18.01.2020 | CC-Dev Test  | N/A [X]    | Falcon 9 |
+
+Boosterul a fost distrus în urma unui test al capsulei Dragon-2, în care aceasta s-a desprins de rachetă la câteva secunde după lansare, prin activarea sistemului de separarea în caz de urgență.
+
+**** B1047
+
 | Booster |       Data | Misiunea       | Recuperare           | Racheta    |
-|---------+------------+----------------+----------------------+------------|
-| B1046.1 | 11.05.2018 | Bangabadhu-1   | OCISLY               | Falcon 9   |
-| B1046.2 | 07.08.2018 | Merah Putih    | OCISLY               | Falcon 9   |
-| B1046.3 | 03.11.2018 | SSO-A          | JRTI                 | Falcon 9   |
-| B1046.4 | 18.01.2020 | CC-Dev Test    | N/A[fn:B1046] [X]    | Falcon 9   |
 |---------+------------+----------------+----------------------+------------|
 | B1047.1 | 22.07.2018 | Telstar-19V    | OCISLY               | Falcon 9   |
 | B1047.2 | 15.11.2019 | Es'hail-2      | OCISLY               | Falcon 9   |
 | B1047.3 | 06.08.2019 | AMOS-17        | N/A [X]              | Falcon 9   |
+
+**** B1048
+
+| Booster |       Data | Misiunea       | Recuperare           | Racheta    |
 |---------+------------+----------------+----------------------+------------|
 | B1048.1 | 25.07.2018 | Iridium-7      | JRTI                 | Falcon 9   |
 | B1048.2 | 08.10.2018 | SAOCOM-1A      | LZ4                  | Falcon 9   |
 | B1048.3 | 21.02.2019 | PSN-6          | OCISLY               | Falcon 9   |
 | B1048.4 | 11.11.2019 | Starlink-L1    | OCISLY               | Falcon 9   |
 | B1048.5 | 18.03.2020 | Starlink-5     | N/A [X]              | Falcon 9   |
+
+**** B1050
+
+| Booster |       Data | Misiunea      | Recuperare | Racheta  |
+|---------+------------+---------------+------------+----------|
+| B1050.1 | 05.12.2018 | Dragon CRS-16 | N/A [X]    | Falcon 9 |
+
+Programat să aterizeze pe LZ-1, în urma unei defecțiuni a ajuns în apa oceanului Atlantic, de unde a fost recuperat ulterior, avariat dar în mare parte intact, dar probabil nu va mai fi folosit
+
+**** B1054
+
+| Booster |       Data | Misiunea       | Recuperare           | Racheta    |
 |---------+------------+----------------+----------------------+------------|
-| B1049.1 | 10.09.2018 | Telstar-18V    | OCISLY               | Falcon 9   |
-| B1049.2 | 11.01.2019 | Iridium-8      | JRTI                 | Falcon 9   |
-| B1049.3 | 24.05.2019 | Starlink v.0.9 | OCISLY               | Falcon 9   |
-| B1049.4 | 07.01.2020 | Starlink-2     | OCISLY               | Falcon 9   |
-| B1049.5 | 04.06.2020 | Starlink-7     | JRTI                 | Falcon 9   |
-| B1049.6 | 18.08.2020 | Starlink-10    | OCISLY               | Falcon 9   |
-| B1049.7 | 25.11.2020 | Starlink-15    | OCISLY               | Falcon 9   |
+| B1054.1 | 23.12.2018 | GPS3-SV01      | N/A [X]              | Falcon 9   |
+
+Prima treaptă nu a fost recuperată, fiind nevoie de toată puterea disponibilă a rachetei.
+
+**** B1055
+
+| Booster |       Data | Misiunea       | Recuperare           | Racheta    |
 |---------+------------+----------------+----------------------+------------|
-| B1050.1 | 05.12.2018 | Dragon CRS-16  | (LZ1)[fn:B1050] [X]  | Falcon 9   |
-|---------+------------+----------------+----------------------+------------|
-| B1051.1 | 09.03.2019 | Dragon DM-1    | OCISLY               | Falcon 9   |
-| B1051.2 | 12.06.2019 | RADARSAT       | LZ-4                 | Falcon 9   |
-| B1051.3 | 29.01.2020 | Starlink-3     | OCISLY               | Falcon 9   |
-| B1051.4 | 22.04.2020 | Starlink-6     | OCISLY               | Falcon 9   |
-| B1051.5 | 07.08.2020 | Starlink-9     | OCISLY               | Falcon 9   |
-| B1051.6 | 18.10.2020 | Starlink-13    | OCISLY               | Falcon 9   |
-| B1051.7 | 13.12.2020 | Sirius SXM-7   | JRI                  | Falcon 9   |
-| B1051.8 | 20.01.2021 | Starlink-16    | JRI                  | Falcon 9   |
-|---------+------------+----------------+----------------------+------------|
-| B1052.1 | 12.04.2018 | Arabsat-6A     | LZ-1                 | FH lateral |
-| B1052.2 | 25.06.2019 | STP-2          | LZ-1                 | FH lateral |
-|---------+------------+----------------+----------------------+------------|
-| B1053.1 | 12.04.2018 | Arabsat-6A     | LZ-1                 | FH lateral |
-| B1053.2 | 25.06.2019 | STP-2          | LZ-1                 | FH lateral |
-|---------+------------+----------------+----------------------+------------|
-| B1054.1 | 23.12.2018 | GPS3-SV01      | N/A[fn:B1054] [X]    | Falcon 9   |
-|---------+------------+----------------+----------------------+------------|
-| B1055.1 | 12.04.2018 | Arabsat-6A     | OCISLY[fn:B1055] [X] | FH centru  |
+| B1055.1 | 12.04.2018 | Arabsat-6A     | OCISLY [X]           | FH centru  |
+
+Recuperat inițial pe barjă, dar pierdut ulterior datorită condițiilor meteo.
+
+**** B1056
+
+| Booster |       Data | Misiunea       | Recuperare           | Racheta    |
 |---------+------------+----------------+----------------------+------------|
 | B1056.1 | 05.04.2019 | Dragon CRS-17  | OCISLY               | Falcon 9   |
 | B1056.2 | 25.07.2019 | Dragon CRS-18  | OCISLY               | Falcon 9   |
 | B1056.3 | 17.12.2019 | JSCAT-18       | OCISLY               | Falcon 9   |
-| B1056.4 | 17.02.2020 | Starlink-4     | N/A[fn:B1056] [X]    | Falcon 9   |
+| B1056.4 | 17.02.2020 | Starlink-4     | N/A [X]              | Falcon 9   |
+
+Recuperarea pe barja OCISLY după misiunea Starlink-4 nu a reușit, boosterul ajungând în ocean, la câțiva zeci de metri de barjă.
+
+**** B1057
+
+| Booster |       Data | Misiunea       | Recuperare           | Racheta    |
 |---------+------------+----------------+----------------------+------------|
-| B1057.1 | 25.06.2019 | STP-2          | N/A[fn:B1057] [X]    | FH centru  |
-|---------+------------+----------------+----------------------+------------|
-| B1058.1 | 30.05.2020 | Dragon DM-2    | OCISLY               | Falcon 9   |
-| B1058.2 | 21.07.2020 | Anasis-II      | JRI                  | Falcon 9   |
-| B1058.3 | 18.10.2020 | Starlink-12    | OCISLY               | Falcon 9   |
-| B1058.4 | 06.12.2020 | Dragon CRS-21  | OCISLY               | Falcon 9   |
-| B1058.5 | 24.01.2021 | Transporter-1  | OCISLY               | Falcon 9   |
+| B1057.1 | 25.06.2019 | STP-2          | N/A [X]              | FH centru  |
+
+Recuperarea pe barja OCISLY nu a reușit.
+
+**** B1059
+
+| Booster |       Data | Misiunea       | Recuperare           | Racheta    |
 |---------+------------+----------------+----------------------+------------|
 | B1059.1 | 05.12.2019 | Dragon CRS-19  | OCISLY               | Falcon 9   |
 | B1059.2 | 07.03.2020 | Dragon CRS-20  | LZ-1                 | Falcon 9   |
@@ -1192,26 +1210,111 @@ WHERE lv_type LIKE ('Falcon%')
 | B1059.4 | 30.08.2020 | SACOCOM-1B     | LZ-1                 | Falcon 9   |
 | B1059.5 | 19.12.2020 | NROL-108       | LZ-1                 | Falcon 9   |
 | B1059.6 | 16.02.2021 | Starlink-8     | N/A [X]              | Falcon 9   |
-|---------+------------+----------------+----------------------+------------|
-| B1060.1 | 30.06.2020 | GPS3-SV03      | JRI                  | Falcon 9   |
-| B1060.2 | 03.09.2020 | Starlink-11    | OCISLY               | Falcon 9   |
-| B1060.3 | 24.10.2020 | Starlink-14    | JRI                  | Falcon 9   |
-| B1060.4 | 08.01.2021 | Turksat-5A     | JRI                  | Falcon 9   |
-| B1060.5 | 04.02.2021 | Starlink-18    | OCISLY               | Falcon 9   |
-|---------+------------+----------------+----------------------+------------|
-| B1061.1 | 16.11.2020 | Dragon USCV-1  | JRI                  | Falcon 9   |
-|---------+------------+----------------+----------------------+------------|
-| B1062.1 | ??.11.2020 | GPS3-SV04      | ???                  | Falcon 9   |
-| B1062.2 | ??.07.2021 | GPS3-SV05      | ???                  | Falcon 9   |
-|---------+------------+----------------+----------------------+------------|
-| B1063.1 | 21.11.2020 | Sentinel-6     | LZ-4                 | Falcon 9   |
-|---------+------------+----------------+----------------------+------------|
-| B1064.1 | ??.05.2021 | USSF-44        | ???                  | FH lateral |
-|---------+------------+----------------+----------------------+------------|
-| B1065.1 | ??.05.2021 | USSF-44        | ???                  | FH lateral |
-|---------+------------+----------------+----------------------+------------|
-| B1066.1 | ??.05.2021 | USSF-44        | ???                  | FH centru  |
-|---------+------------+----------------+----------------------+------------|
+
+Recuperarea pe barja OCISLY după misiunea Starlink-8 nu a reușit.
+
+
+*** Lista treptelor primare Falcon 9 Block 5 active
+
+**** B1049
+
+ | Booster |       Data | Misiunea       | Recuperare           | Racheta    |
+ |---------+------------+----------------+----------------------+------------|
+ | B1049.1 | 10.09.2018 | Telstar-18V    | OCISLY               | Falcon 9   |
+ | B1049.2 | 11.01.2019 | Iridium-8      | JRTI                 | Falcon 9   |
+ | B1049.3 | 24.05.2019 | Starlink v.0.9 | OCISLY               | Falcon 9   |
+ | B1049.4 | 07.01.2020 | Starlink-2     | OCISLY               | Falcon 9   |
+ | B1049.5 | 04.06.2020 | Starlink-7     | JRTI                 | Falcon 9   |
+ | B1049.6 | 18.08.2020 | Starlink-10    | OCISLY               | Falcon 9   |
+ | B1049.7 | 25.11.2020 | Starlink-15    | OCISLY               | Falcon 9   |
+
+**** B1051
+
+| Booster |       Data | Misiunea     | Recuperare | Racheta  |
+|---------+------------+--------------+------------+----------|
+| B1051.1 | 09.03.2019 | Dragon DM-1  | OCISLY     | Falcon 9 |
+| B1051.2 | 12.06.2019 | RADARSAT     | LZ-4       | Falcon 9 |
+| B1051.3 | 29.01.2020 | Starlink-3   | OCISLY     | Falcon 9 |
+| B1051.4 | 22.04.2020 | Starlink-6   | OCISLY     | Falcon 9 |
+| B1051.5 | 07.08.2020 | Starlink-9   | OCISLY     | Falcon 9 |
+| B1051.6 | 18.10.2020 | Starlink-13  | OCISLY     | Falcon 9 |
+| B1051.7 | 13.12.2020 | Sirius SXM-7 | JRI        | Falcon 9 |
+| B1051.8 | 20.01.2021 | Starlink-16  | JRI        | Falcon 9 |
+
+**** B1052
+
+| Booster |       Data | Misiunea   | Recuperare | Racheta    |
+|---------+------------+------------+------------+------------|
+| B1052.1 | 12.04.2018 | Arabsat-6A | LZ-1       | FH lateral |
+| B1052.2 | 25.06.2019 | STP-2      | LZ-1       | FH lateral |
+
+**** B1053
+
+| Booster |       Data | Misiunea   | Recuperare | Racheta    |
+|---------+------------+------------+------------+------------|
+| B1053.1 | 12.04.2018 | Arabsat-6A | LZ-1       | FH lateral |
+| B1053.2 | 25.06.2019 | STP-2      | LZ-1       | FH lateral |
+
+**** B1058
+
+| Booster |       Data | Misiunea      | Recuperare | Racheta  |
+|---------+------------+---------------+------------+----------|
+| B1058.1 | 30.05.2020 | Dragon DM-2   | OCISLY     | Falcon 9 |
+| B1058.2 | 21.07.2020 | Anasis-II     | JRI        | Falcon 9 |
+| B1058.3 | 18.10.2020 | Starlink-12   | OCISLY     | Falcon 9 |
+| B1058.4 | 06.12.2020 | Dragon CRS-21 | OCISLY     | Falcon 9 |
+| B1058.5 | 24.01.2021 | Transporter-1 | OCISLY     | Falcon 9 |
+
+**** B1060
+
+| Booster |       Data | Misiunea    | Recuperare | Racheta  |
+|---------+------------+-------------+------------+----------|
+| B1060.1 | 30.06.2020 | GPS3-SV03   | JRI        | Falcon 9 |
+| B1060.2 | 03.09.2020 | Starlink-11 | OCISLY     | Falcon 9 |
+| B1060.3 | 24.10.2020 | Starlink-14 | JRI        | Falcon 9 |
+| B1060.4 | 08.01.2021 | Turksat-5A  | JRI        | Falcon 9 |
+| B1060.5 | 04.02.2021 | Starlink-18 | OCISLY     | Falcon 9 |
+
+**** B1061
+
+| Booster |       Data | Misiunea      | Recuperare | Racheta  |
+|---------+------------+---------------+------------+----------|
+| B1061.1 | 16.11.2020 | Dragon USCV-1 | JRI        | Falcon 9 |
+
+**** B1062
+
+| Booster | Data       | Misiunea  | Recuperare | Racheta  |
+|---------+------------+-----------+------------+----------|
+| B1062.1 | 05.11.2020 | GPS3-SV04 | OCISLY     | Falcon 9 |
+| B1062.2 | ??.07.2021 | GPS3-SV05 | ???        | Falcon 9 |
+
+**** B1063
+
+| Booster |       Data | Misiunea   | Recuperare | Racheta  |
+|---------+------------+------------+------------+----------|
+| B1063.1 | 21.11.2020 | Sentinel-6 | LZ-4       | Falcon 9 |
+
+
+*** Lista treptelor primare Falcon 9 Block 5 viitoare
+
+**** B1064
+
+| Booster | Data       | Misiunea | Recuperare | Racheta    |
+|---------+------------+----------+------------+------------|
+| B1064.1 | ??.05.2021 | USSF-44  | ???        | FH lateral |
+
+**** B1065
+
+| Booster | Data       | Misiunea | Recuperare | Racheta    |
+|---------+------------+----------+------------+------------|
+| B1065.1 | ??.05.2021 | USSF-44  | ???        | FH lateral |
+
+**** B1066
+
+| Booster | Data       | Misiunea | Recuperare | Racheta   |
+|---------+------------+----------+------------+-----------|
+| B1066.1 | ??.05.2021 | USSF-44  | ???        | FH centru |
+
 
 **** Abrevieri
 
@@ -1222,15 +1325,6 @@ WHERE lv_type LIKE ('Falcon%')
 - LZ-1, LZ-2 :: *Landing Zone 1 și 2* Fostul complex LC13 de la Cape Canaveral, închiriat de SpaceX, care a construit două zone unde boosterele Falcon pot reveni controlat la sol.
 
 - LZ-4 :: Fostul complex SLC-4W de la baza aeriană Vandenberg, închiriat de SpaceX, care a construit o zonă în care boosterul Falcon 9 poate reveni controla la sol.
-
----
-
-[fn:B1046] Boosterul a fost distrus în urma unui test al capsulei Dragon-2, în care aceasta s-a desprins de rachetă la câteva secunde după lansare, prin activarea sistemului de separarea în caz de urgență.
-[fn:B1050] Programat să aterizeze pe LZ-1, în urma unei defecțiuni a ajuns în apa oceanului Atlantic, de unde a fost recuperat ulterior, avariat dar în mare parte intact, dar probabil nu va mai fi folosit
-[fn:B1054] Prima treaptă nu a fost recuperată, fiind nevoie de toată puterea disponibilă a rachetei.
-[fn:B1055] Recuperat inițial pe barjă, dar pierdut ulterior datorită condițiilor meteo.
-[fn:B1056] Recuperarea pe barja OCISLY nu a reușit, boosterul ajungând în ocean, la câțiva zeci de metri de barjă.
-[fn:B1057] Recuperarea pe barja OCISLY nu a reușit.
 
 ** Atlas V
 :PROPERTIES:
@@ -2133,11 +2227,11 @@ Moștenirea programului Buran însă continuă și astăzi. Boosterele rachetei 
 
 | Nume sondă            |    Lansare | Agenție  | Rachetă        | Țintă   | EOM[fn:son1] |   Cost[fn:son2] | Stare                        |
 |-----------------------+------------+----------+----------------+---------+--------------+-----------------+------------------------------|
-| Mars2020/Perseverance | 30.07.2020 | NASA     | Atlas V 541    | Marte   |         20XX |            2400 | în drum spre Marte           |
 | Solar Orbiter         | 10.02.2020 | ESA      | Atlas V 411    | Soare   |         2027 |            1500 | în drum spre Soare           |
 | Chandrayaan-2         | 22.07.2019 | ISRO     | GSLV Mk.III    | Luna    |         2026 |             141 | pe orbita Lunii[fn:son3]     |
 | LRO                   | 18.06.2009 | NASA     | Atlas V 401    | Luna    |         202X |             583 | pe orbita Lunii              |
-| Chang'E-3/Yutu        | 01.12.2013 | CNSA     | Changzheng-3B  | Luna    |         20?? |             ??? | lander/rover                 |
+| Chang'E-3/Yutu        | 01.12.2013 | CNSA     | Changzheng-3B  | Luna    |         20?? |             ??? | pe suprafața Lunii           |
+| Chang'E-4/Yutu2       | 20.05.2018 | CNSA     | Changzheng-3B  | Luna    |         202? |             ??? | pe suprafața Lunii           |
 | Parker                | 12.08.2018 | NASA     | Delta IV Heavy | Soare   |         2025 |            1500 | pe orbita Soarelui           |
 | BepiColombo           | 20.10.2018 | ESA/JAXA | Ariane 5 ECA   | Mercur  |         2028 |            2000 | în drum spre Mercur          |
 | Akatsuki              | 20.05.2010 | JAXA     | H-2A 202       | Venus   |         20?? |             290 | pe orbita lui Venus[fn:son4] |
@@ -2150,7 +2244,8 @@ Moștenirea programului Buran însă continuă și astăzi. Boosterele rachetei 
 | Tianwen-1             | 23.07.2020 | CNSA     | CZ-5           | Marte   |         202X |             ??? | pe orbita lui Marte          |
 | MAVEN                 | 18.11.2013 | NASA     | Atlas V 401    | Marte   |         202X |             671 | pe orbita lui Marte          |
 | MSL/Curiosity         | 26.11.2011 | NASA     | Atlas V 541    | Marte   |         20XX |            2500 | pe suprafața lui Marte       |
-| InSight               | 05.05.2018 | NASA     | Atlas V 401    | Marte   |         202X |             830 | lander                       |
+| InSight               | 05.05.2018 | NASA     | Atlas V 401    | Marte   |         202X |             830 | pe suprafața lui Marte       |
+| Mars2020/Perseverance | 30.07.2020 | NASA     | Atlas V 541    | Marte   |         20XX |            2400 | pe suprafața lui Marte       |
 | Juno                  | 05.08.2011 | NASA     | Atlas V 551    | Jupiter |         2021 |            1100 | pe orbita lui Jupiter        |
 | OSRIS-REx             | 08.12.2016 | NASA     | Atlas V 441    | Bennu   |         2023 |             800 | în drum spre Pământ[fn:son6] |
 | Hayabusa-2            | 03.12.2014 | JAXA     | H-2A 202       | Ryugu   |         2020 |             149 | în drum spre Pământ          |
