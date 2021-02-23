@@ -5346,6 +5346,21 @@ SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD
 :EXPORT_HUGO_SECTION: bul
 :END:
 
+** Buletin Cosmic nr. 107 :marte:perseverance:
+:PROPERTIES:
+:EXPORT_FILE_NAME: 107
+:EXPORT_DATE: 2021-02-23
+:END:
+
+Joi, 18 februarie, roverul Perseverance amartiza în craterul marțian Jezero de pe Marte. Este al 5-lea rover trimis de NASA pe Planeta Roșie și din ianuarie 2004 pe Marte există cel puțin un rover activ (Curiosity, ajuns pe Marte în 2012, este activ și astăzi și nu dă semne de oboseală).
+
+Perseverance cântărește peste o tonă și este o variantă îmbunătățită a lui Curiosity, trimis pe Marte pentru a găsi urme de viață. Din acest motiv, craterul Jezero nu a fost ales la întâmplare: aceasta este locul unei foste delte marțiene, pe vremea când condițiile de pe Marte permiteau existența apei lichide (acum 3 miliarde de ani). La bord se află 7 instrumente științifice, dar și posibilitatea de a preleva probe de sol marțian, pe care roverul le va lăsa în urma sa și care urmează să fie adunate de un viitor rover care să le aducă pe Pământ, pentru a fi studiate în detaliu. Pe Marte a ajuns cu această ocazie și un elicopter care va încerca, în premieră, să zboare într-o altă atmosferă decât cea a Pământului. Datele culese de Perseverance sunt trimise spre Pământ folosind sateliții americani și europeni aflați pe orbita marțiană: Mars Reconaissance Orbiter (MRO), MAVEN, Mars Express (MEX) și Trace Gas Orbiter (TGO). Pentru prima dată, pe orbita lui Marte se află 8 sonde, iar în lunile următoare un nou rover urmează să coboare pe suprafața planetei.
+
+Multitudinea de camere amplasate pe rover și pe modulul de amartizare [[https://images.nasa.gov/details-JPL-20210222-M2020f-0001-Perseverance%20Rover’s%20Descent%20and%20Touchdown%20on%20Mars][au înregistrat]] parcursul roverului prin atmosfera marțiană. Din păcate, microfonul nu a fost activat în timpul coborârii (probabil singurul lucru care nu funcționat în timpul amartizării), dar ulterior aceasta a reușit înregistrarea, în premieră, a brizelor marțiene. În perioada următoare, roverul își va activa și verifica echipamentele de la bord și misiunea științifică va putea începe.
+
+#+CAPTION: Roverul Perseverance, aflat la aproximativ 2 metri de suprafața planetei Marte, aflat la câteva secunde de desprinderea de macaraua spațială /(Sursa foto: [[https://www.nasa.gov/press-release/nasa-to-reveal-new-video-images-from-mars-perseverance-rover][NASA]])/
+[[/img/rover_drop.jpg]]
+
 ** Buletin Cosmic nr. 106 :spacex:starlink:marte:hope:tianwen1:progress:insight:
 :PROPERTIES:
 :EXPORT_FILE_NAME: 106
