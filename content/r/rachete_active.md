@@ -86,7 +86,7 @@ Lista tuturor lansatoarelor orbitale active folosite în prezent, împreună cu 
 | 76  | Minotaur V         | US   | 1         | 1       | 0       | 2013-09-07 | 2013-09-07 |
 | 77  | Minotaur-C 3210    | US   | 1         | 1       | 0       | 2017-10-31 | 2017-10-31 |
 | 78  | PSLV               | IN   | 26        | 25      | 1       | 1993-09-20 | 2019-05-22 |
-| 79  | PSLV-DL            | IN   | 2         | 2       | 0       | 2019-01-24 | 2020-11-07 |
+| 79  | PSLV-DL            | IN   | 3         | 3       | 0       | 2019-01-24 | 2021-02-28 |
 | 80  | PSLV-QL            | IN   | 2         | 2       | 0       | 2019-04-01 | 2019-12-11 |
 | 81  | PSLV-XL            | IN   | 22        | 22      | 0       | 2008-10-22 | 2020-12-17 |
 | 82  | Pegasus            | US   | 4         | 4       | 0       | 1990-04-05 | 1994-08-03 |
