@@ -16,6 +16,7 @@ Siteul de față reprezintă o colecție personală de materiale, articole și n
 
 | Data        | Lansator        | Serie       | Satelit                               | T  | Centru   | Rampă | R. | Bul             |
 |-------------|-----------------|-------------|---------------------------------------|----|----------|-------|----|-----------------|
+| 28.02 06:55 | Soyuz-2.1b      |             | Arktika-M No. 1                       | RU | Baikonur | 31/6  | S  | [108](/bul/108) |
 | 28.02 04:54 | PSLV-DL         | C51         | Amazonia-1                            | IN | Satish   | SLP   | S  | [108](/bul/108) |
 | 24.02 02:22 | CZ-4C           | 4C-Y31      | Yaogan-31                             | CN | Jiuquan  | SLS-2 | S  | [107](/bul/107) |
 | 20.02 17:36 | Antares 230+    | 14          | Cygnus NG-15 / S.S. Katherine Johnson | US | Wallops  | LP-0A | S  | [107](/bul/107) |
@@ -25,7 +26,6 @@ Siteul de față reprezintă o colecție personală de materiale, articole și n
 | 04.02 06:17 | Falcon 9        | 108/B1060.5 | Starlink 1.0-L18                      | US | CC       | LC40  | S  | [105](/bul/105) |
 | 02.02 20:45 | Soyuz-2.1b      |             | Lotos-S1 No.5 / Kosmos 2549           | RU | Plesetsk | 43/4  | S  | [105](/bul/105) |
 | 01.02 08:15 | Shuang Quxian 1 | Y2          | Fangzhou-2                            | CN | Jiuquan  | LA4   | F  | [105](/bul/105) |
-| 29.01 04:47 | CZ-4C           | 4C-Y31      | Yaogan-31-02                          | US | Jiuquan  | SLS2  | S  | [104](/bul/104) |
 
 Detalii cu privire la informațiile din tabel, pot fi găsite în secțiunea [Legendă tabele](/t/legenda_tabele). Data și ora sunt UTC.
 
