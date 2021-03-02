@@ -293,6 +293,7 @@ Recuperarea pe barja OCISLY după misiunea Starlink-8 nu a reușit.
 | Booster | Data       | Misiunea      | Recuperare | Racheta  |
 |---------|------------|---------------|------------|----------|
 | B1061.1 | 16.11.2020 | Dragon USCV-1 | JRI        | Falcon 9 |
+| B1061.2 | xx.04.2021 | Dragon USCV-2 | xxx        | Falcon 9 |
 
 
 ### B1062 {#b1062}

@@ -29,8 +29,8 @@ Boeing a anunțat că misiunea OFT va fi repetată[^fn:1], nu mai devreme de oct
 
 _Demo Mission 2_ (Dragon2 C206 "Endeavour")
 
--   **Bob Behnken** (pilot Endeavour STS-123, STS-130; 6 EVA = 37 ore)
--   **Doug Hurley** (pilot Atlantis STS-135, Endeavour STS-127)
+-   **Bob Behnken** (pilot Endeavour STS-123, STS-130; 6 EVA = 37 ore) --NASA
+-   **Doug Hurley** (pilot Atlantis STS-135, Endeavour STS-127) --NASA
 
 Misiunea, programată inițial pentru 27 mai, a fost amânată 3 zile din cauza condițiilor meteo nefavorabile.
 
@@ -39,22 +39,32 @@ Misiunea, programată inițial pentru 27 mai, a fost amânată 3 zile din cauza 
 
 _US Crew Vehicle 1_ (Dragon2 C207 "Resilience")
 
--   **Victor Glover** (primul zbor spațial)
--   **Mike Hopkins** (Soyuz TMA-10M, 166 zile ISS, 2 EVA)
--   **Shannon Walker** (Soyuz TMA-19, 163 zile ISS)
--   **Soichi Noguchi** (_JAXA_) (Discovery STS-114, Soyuz TMA-17, 177 zile ISS)
+-   **Victor Glover** (primul zbor spațial) --NASA
+-   **Mike Hopkins** (Soyuz TMA-10M, 166 zile ISS, 2 EVA) --NASA
+-   **Shannon Walker** (Soyuz TMA-19, 163 zile ISS)  --NASA
+-   **Soichi Noguchi** (Discovery STS-114, Soyuz TMA-17, 177 zile ISS) --JAXA
 
 
-## Boeing OFT-2 (2021) {#boeing-oft-2--2021}
+## Boeing OFT-2 (aprilie 2021) {#boeing-oft-2--aprilie-2021}
 
 _Orbital Flight Test 2_
 
 -   fără echipaj
 
 
-## Boeing CFT (2021) {#boeing-cft--2021}
+## SpaceX USCV-2 (20 aprilie 2020 +6 luni) {#spacex-uscv-2--20-aprilie-2020-plus-6-luni}
 
-_Crew Flight Test_
+_US Crew Vehicle 2_ (Dragon C206 "Endeavour")
+
+-   **Shane Kimbrough** (Endeavour STS-126, Soyuz MS-02) --NASA
+-   **Megan McArthur** (Atlantis STS-125) --NASA
+-   **Akihiko Hoshide** (Discovery STS-124, Soyuz TMA-05M) --JAXA
+-   **Thomas Pesquet** (Soyuz MS-03) --ESA
+
+
+## Boeing CFT (septembrie 2021) {#boeing-cft--septembrie-2021}
+
+_Crew Flight Test_ ("Calypso")
 
 -   **Michael Fincke** (Soyuz TMA-4, Soyuz TMA-13, Endeavour STS-134)
     -   l-a înlocuit pe Eric Boe, programat inițial pentru această misiune, dar care s-a retras din program în 2019 din motive medicale.
@@ -63,13 +73,14 @@ _Crew Flight Test_
 -   **Nicole Aunapu Mann** (primul zbor spațial)
 
 
-## Boeing PCM-1 (august 2021) {#boeing-pcm-1--august-2021}
+## Boeing PCM-1 (decembrie 2021) {#boeing-pcm-1--decembrie-2021}
 
-_Post Certification Mission 1_
+_Starliner-1_
 
 -   **John Cassada** (primul zbor spațial)
--   **Sunita Williams** (322 zile petrecute în spațiu, 7 EVA, Discovery STS-116, Atlantis STS-117, Soyuz TMA-05M)
--   **Thomas Pesquet** (196 zile petrecute în spațiu, Soyuz MS-03)
+-   **Sunita Williams** (Discovery STS-116, Atlantis STS-117, Soyuz TMA-05M)
+-   **Jeanette Epps** (primul zbor spațial)
+-   **Koichi Wakata** (Endeavour STS-72, Discovery STS-92, Discovery STS-119, Soyuz TMA-11M)
 
 
 ## Note {#note}
