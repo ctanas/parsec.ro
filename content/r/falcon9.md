@@ -121,6 +121,7 @@ draft = false
 | 2021-01-24 | Falcon 9     | 107/B1058.5 | Transporter-1                         | CC         | LC40  | S |
 | 2021-02-04 | Falcon 9     | 108/B1060.5 | Starlink 1.0-L18                      | CC         | LC40  | S |
 | 2021-02-16 | Falcon 9     | 109/B1059.6 | Starlink 1.0-L19                      | CC         | LC40  | S |
+| 2021-03-04 | Falcon 9     | 110/B1049.8 | Starlink 1.0-L17                      | KSC        | LC39A | S |
 
 
 ## Lista treptelor primare Falcon 9 Block 5 inactive {#lista-treptelor-primare-falcon-9-block-5-inactive}
