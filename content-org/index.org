@@ -1228,15 +1228,16 @@ Recuperarea pe barja OCISLY după misiunea Starlink-8 nu a reușit.
 
 **** B1049
 
- | Booster |       Data | Misiunea       | Recuperare           | Racheta    |
- |---------+------------+----------------+----------------------+------------|
- | B1049.1 | 10.09.2018 | Telstar-18V    | OCISLY               | Falcon 9   |
- | B1049.2 | 11.01.2019 | Iridium-8      | JRTI                 | Falcon 9   |
- | B1049.3 | 24.05.2019 | Starlink v.0.9 | OCISLY               | Falcon 9   |
- | B1049.4 | 07.01.2020 | Starlink-2     | OCISLY               | Falcon 9   |
- | B1049.5 | 04.06.2020 | Starlink-7     | JRTI                 | Falcon 9   |
- | B1049.6 | 18.08.2020 | Starlink-10    | OCISLY               | Falcon 9   |
- | B1049.7 | 25.11.2020 | Starlink-15    | OCISLY               | Falcon 9   |
+ | Booster |       Data | Misiunea       | Recuperare | Racheta  |
+ |---------+------------+----------------+------------+----------|
+ | B1049.1 | 10.09.2018 | Telstar-18V    | OCISLY     | Falcon 9 |
+ | B1049.2 | 11.01.2019 | Iridium-8      | JRTI       | Falcon 9 |
+ | B1049.3 | 24.05.2019 | Starlink v.0.9 | OCISLY     | Falcon 9 |
+ | B1049.4 | 07.01.2020 | Starlink-2     | OCISLY     | Falcon 9 |
+ | B1049.5 | 04.06.2020 | Starlink-7     | JRTI       | Falcon 9 |
+ | B1049.6 | 18.08.2020 | Starlink-10    | OCISLY     | Falcon 9 |
+ | B1049.7 | 25.11.2020 | Starlink-15    | OCISLY     | Falcon 9 |
+ | B1049.8 | 04.04.2021 | Starlink-17    | OCISLY     | Falcon 9 |
 
 **** B1051
 
