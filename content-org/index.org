@@ -5357,13 +5357,37 @@ SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD
 :EXPORT_HUGO_SECTION: bul
 :END:
 
+** Buletin Cosmic nr. 108 :pslv:soyuz:inspiration4:rocketlab:neutron:iss:eva:
+:PROPERTIES:
+:EXPORT_FILE_NAME: 108
+:EXPORT_DATE: 2021-04-04
+:END:
+   
+La 29 de ani, *Hayley Arceneaux* va deveni cel mai tânăr astronaut american care va ajunge pe orbită! Aceasta se va alătura echipajului Inspiration-4, misiune organizată și condusă de miliardarul Jared Isaacman. Prima misiune comercială orbitală va fi lansată cândva înainte de finalul anului 2021, la bordul unei capsule Dragon, cu o rachetă Falcon 9 a companiei SpaceX. De fapt, pentru *Inspiration-4* urmează să fie folosită chiar capsula care se află acum andocată la Stația Spațială Internațională (Resilience) și care va reveni pe Pământ în această primăvară (Inspiration-4 nu implică andocarea capsulei Dragon cu ISS, doar un zbor orbital al echipajului). Hayley Arceneaux este o fostă pacientă și în prezent medic în cadrul St. Jude Children’s Research Hospital (Tennessee), instituția pentru care Isaacman dorește să adune fonduri caritabile în cadrul misiunii Inspiration-4. Ocupanții celorlalte două locuri încă disponibile în capsula Dragon urmează să fie anunțați în viitorul apropiat.
+
+---
+
+*RocketLab* se extinde! După 18 lansări orbitale ale rachetei de calibru ușor Electron în ultimii 3 ani (din care două ratate), Peter Beck anunța listarea companiei la bursa NASDAQ (începând cu al doilea trimestru al anului, cu evaluare inițială de 4.1 miliarde de dolari —simbol $RKLB), dar și dezvoltarea unui lansator nou, de calibru mediu, reutilizabil, denumit *Neutron*, dedicat megaconstelațiilor, sondelor interplanetare, dar și zborurilor cu echipaj. Neutron urmează să debuteze în 2024 și va putea plasa 8 tone pe orbită terestră joasă (similar cu racheta Antares). Neutron urmează să folosească pentru lansare centrul spațial Wallops din Virginia (de unde în acest an va zbura și racheta Electron).
+
+---
+
+Luni, Kate Rubins și Victor Glover s-au aflat în afara stației spațiale internaționale, pentru o activitate extravehicualară dedicată pregătirii instalarării următoarelor 6 panouri solare de nouă generație, produse de Boeing, care urmează să ajungă la bordul *ISS* începând cu sfârșitul acestui an, cu ajutorul capsulelor Dragon. După instalare, noile panouri solare urmează să ofere cu 20-30% mai multă energie stației spațiale (cele vechi rămân la locul lor). Victor Glover și-a tăiat partea exterioară a degetului arătător al mănușii costumului de astronaut, dar acest incident nu a reprezentat un pericol pentru echipaj. Vineri v-a avea loc continuarea acestei activități extravehiculare.
+
+---
+
+Racheta indiană *PSLV-DL* a lansat azi-dimineață la ora 06:54, de la centrul spațial Satish Dhawan, satelitul brazilian de observații Amazônia-1, pe orbită heliosincronă (750 km altitudine), pentru agenția spațială braziliană. Misiunea PSLV-C51 a mai lansat și alți 12 sateliți SpaceBEE, de mici dimensiuni, pentru compania americană Swarm Technologies. A fost prima lansare orbitală pentru India din acest an și a 54-a lansare pentru racheta PSLV.
+
+---
+
+La doar câteva ore după lansarea din India, o rachetă *Soyuz-2.1b* (cu o treaptă superioară Fregat), a lansat de la cosmodromul din Baikonur, un satelit Arktika-M, dedicat prognozelor meteo de la latitudini ridicate. Lansarea a avut loc la ora 08:55 și satelitul de 2.1 tone a ajuns cu bine pe orbită Molniya. 
+   
 ** Buletin Cosmic nr. 107 :marte:perseverance:
 :PROPERTIES:
 :EXPORT_FILE_NAME: 107
 :EXPORT_DATE: 2021-02-23
 :END:
 
-Joi, 18 februarie, roverul Perseverance amartiza în craterul marțian Jezero de pe Marte. Este al 5-lea rover trimis de NASA pe Planeta Roșie și din ianuarie 2004 pe Marte există cel puțin un rover activ (Curiosity, ajuns pe Marte în 2012, este activ și astăzi și nu dă semne de oboseală).
+Joi, 18 februarie, roverul *Perseverance* amartiza în craterul marțian Jezero de pe Marte. Este al 5-lea rover trimis de NASA pe Planeta Roșie și din ianuarie 2004 pe Marte există cel puțin un rover activ (Curiosity, ajuns pe Marte în 2012, este activ și astăzi și nu dă semne de oboseală).
 
 Perseverance cântărește peste o tonă și este o variantă îmbunătățită a lui Curiosity, trimis pe Marte pentru a găsi urme de viață. Din acest motiv, craterul Jezero nu a fost ales la întâmplare: aceasta este locul unei foste delte marțiene, pe vremea când condițiile de pe Marte permiteau existența apei lichide (acum 3 miliarde de ani). La bord se află 7 instrumente științifice, dar și posibilitatea de a preleva probe de sol marțian, pe care roverul le va lăsa în urma sa și care urmează să fie adunate de un viitor rover care să le aducă pe Pământ, pentru a fi studiate în detaliu. Pe Marte a ajuns cu această ocazie și un elicopter care va încerca, în premieră, să zboare într-o altă atmosferă decât cea a Pământului. Datele culese de Perseverance sunt trimise spre Pământ folosind sateliții americani și europeni aflați pe orbita marțiană: Mars Reconaissance Orbiter (MRO), MAVEN, Mars Express (MEX) și Trace Gas Orbiter (TGO). Pentru prima dată, pe orbita lui Marte se află 8 sonde, iar în lunile următoare un nou rover urmează să coboare pe suprafața planetei.
 
@@ -5371,6 +5395,14 @@ Multitudinea de camere amplasate pe rover și pe modulul de amartizare [[https:/
 
 #+CAPTION: Roverul Perseverance, aflat la aproximativ 2 metri de suprafața planetei Marte, aflat la câteva secunde de desprinderea de macaraua spațială /(Sursa foto: [[https://www.nasa.gov/press-release/nasa-to-reveal-new-video-images-from-mars-perseverance-rover][NASA]])/
 [[/img/rover_drop.jpg]]
+
+---
+
+Miercuri, la ora 04:22, o rachetă *Changzheng-4C* a lansat de la centrul spațial Jiuquan trei sateliți militari Yaogan-31, care au ajuns pe orbită terestră joasă. A fost a 4-a lansare orbitală din China din acest an și a 361-a lansare a unei rachete Changzheng.
+
+---
+
+Northrop Grumman a lansat sâmbătă, 20 februarie, racheta *Antares* (varianta curentă, 230+) cu capsula Cygnus NG-15 (S.S. Katherine Johnson), încărcată cu peste 3.8 tone de echipamente, experimente științifice și provizii pentru Stația Spațială Internațională. Lansarea a avut loc la ora 19:36 de pe rampa 0A de la centrul spațial Wallops al NASA (Virginia). Cygnus NG-15 a ajuns în vecinătatea ISS luni, iar cuplarea cu modulul Unity va avea loc în jurul prânzului, folosind brațul robotic al stației (Canadarm2).
 
 ** Buletin Cosmic nr. 106 :spacex:starlink:marte:hope:tianwen1:progress:insight:
 :PROPERTIES:
