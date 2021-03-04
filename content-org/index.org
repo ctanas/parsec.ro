@@ -2357,7 +2357,7 @@ Din păcate, toți cei 9 sau 10 meteoriți românești sunt condrite, adică cei
 |   5 | Zsadany      | 1875 | Cornești, TM    | 45°55'N, 21°13'E | H5   | 552 g    | /fall/ |
 |   6 | Tuzla        | 1920 | Tuzla, CT       | 44°01'N, 28°38'E | L6   | 236 g    | /find/ |
 |   7 | Sopot        | 1927 | Sopot, DJ       | 44°25'N, 23°30'E | OC   | 958 g    | /fall/ |
-|   8 | Tauti        | 1937 | Tauti CJ/AR/BH? | 46°43'N, 23°30'E | L6   | 21 kg    | /fall/ |
+|   8 | Tauti        | 1937 | Tauti, AR       | 46°43'N, 23°30'E | L6   | 21 kg    | /fall/ |
 |   9 | Gresia       | 1990 | Gresia, TR      | 44°10'N, 24°55'E | H4   | 26.9 kg  | /find/ |
 |  10 | Pleșcoi      | 2008 | Pleșcoi, BZ     | 45°16'N, 26°42'E | L5-6 | 6.91 kg  | /fall/ |
 |-----+--------------+------+-----------------+------------------+------+----------+------|

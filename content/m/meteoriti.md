@@ -33,18 +33,18 @@ Din păcate, toți cei 9 sau 10 meteoriți românești sunt condrite, adică cei
 
 În tabelul următor sunt listați toți meteoriți românești identificați până în prezent, conform bazei de date oficiale[^fn:1], plus corecțiile ulterioare[^fn:2].
 
-| Nr. | Nume         | An   | Localitate      | Coordonate       | Tip  | Masă     | Obs.   |
-|-----|--------------|------|-----------------|------------------|------|----------|--------|
-| 1   | Mezö-Madaras | 1852 | Mădăraș, MS     | 46˚36'N, 24˚26'E | L3.7 | 22.70 kg | _fall_ |
-| 2   | Ohaba        | 1857 | Ohaba, AB       | 46˚04'N, 23˚47'E | H5   | 16.25 kg | _fall_ |
-| 3   | Kakowa       | 1858 | Grădinari, CS   | 45°08'N, 21°40'E | L6   | 577 g    | _fall_ |
-| 4   | Mocs         | 1882 | Mociu, CJ       | 46°48'N, 24°02'E | L5-6 | 300 kg   | _fall_ |
-| 5   | Zsadany      | 1875 | Cornești, TM    | 45°55'N, 21°13'E | H5   | 552 g    | _fall_ |
-| 6   | Tuzla        | 1920 | Tuzla, CT       | 44°01'N, 28°38'E | L6   | 236 g    | _find_ |
-| 7   | Sopot        | 1927 | Sopot, DJ       | 44°25'N, 23°30'E | OC   | 958 g    | _fall_ |
-| 8   | Tauti        | 1937 | Tauti CJ/AR/BH? | 46°43'N, 23°30'E | L6   | 21 kg    | _fall_ |
-| 9   | Gresia       | 1990 | Gresia, TR      | 44°10'N, 24°55'E | H4   | 26.9 kg  | _find_ |
-| 10  | Pleșcoi      | 2008 | Pleșcoi, BZ     | 45°16'N, 26°42'E | L5-6 | 6.91 kg  | _fall_ |
+| Nr. | Nume         | An   | Localitate    | Coordonate       | Tip  | Masă     | Obs.   |
+|-----|--------------|------|---------------|------------------|------|----------|--------|
+| 1   | Mezö-Madaras | 1852 | Mădăraș, MS   | 46˚36'N, 24˚26'E | L3.7 | 22.70 kg | _fall_ |
+| 2   | Ohaba        | 1857 | Ohaba, AB     | 46˚04'N, 23˚47'E | H5   | 16.25 kg | _fall_ |
+| 3   | Kakowa       | 1858 | Grădinari, CS | 45°08'N, 21°40'E | L6   | 577 g    | _fall_ |
+| 4   | Mocs         | 1882 | Mociu, CJ     | 46°48'N, 24°02'E | L5-6 | 300 kg   | _fall_ |
+| 5   | Zsadany      | 1875 | Cornești, TM  | 45°55'N, 21°13'E | H5   | 552 g    | _fall_ |
+| 6   | Tuzla        | 1920 | Tuzla, CT     | 44°01'N, 28°38'E | L6   | 236 g    | _find_ |
+| 7   | Sopot        | 1927 | Sopot, DJ     | 44°25'N, 23°30'E | OC   | 958 g    | _fall_ |
+| 8   | Tauti        | 1937 | Tauti, AR     | 46°43'N, 23°30'E | L6   | 21 kg    | _fall_ |
+| 9   | Gresia       | 1990 | Gresia, TR    | 44°10'N, 24°55'E | H4   | 26.9 kg  | _find_ |
+| 10  | Pleșcoi      | 2008 | Pleșcoi, BZ   | 45°16'N, 26°42'E | L5-6 | 6.91 kg  | _fall_ |
 
 [^fn:1]: [Meteoritical Bulletin Database, Romanian Meteorites](https://www.lpi.usra.edu/meteor/metbull.php?sea=&sfor=names&ants=&nwas=&falls=&valids=&stype=contains&lrec=50&map=ge&browse=&country=Romania&srt=name&categ=All&mblist=All&rect=&phot=&strewn=&snew=0&pnt=Normal%20table&dr=&page=0)
 [^fn:2]: [Luttge-Pop D., Andrei R., Har N., Historical Romanian meteorites: emendations of official catalogue records, Studia UBB Geologia 58 (2): 41-45, 2013 ](https://scholarcommons.usf.edu/geologia/vol58/iss2/art5/)
