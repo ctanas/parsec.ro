@@ -5372,7 +5372,7 @@ SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD
 ** Buletin Cosmic nr. 108 :pslv:soyuz:inspiration4:rocketlab:neutron:iss:eva:
 :PROPERTIES:
 :EXPORT_FILE_NAME: 108
-:EXPORT_DATE: 2021-04-04
+:EXPORT_DATE: 2021-03-04
 :END:
    
 La 29 de ani, *Hayley Arceneaux* va deveni cel mai tânăr astronaut american care va ajunge pe orbită! Aceasta se va alătura echipajului Inspiration-4, misiune organizată și condusă de miliardarul Jared Isaacman. Prima misiune comercială orbitală va fi lansată cândva înainte de finalul anului 2021, la bordul unei capsule Dragon, cu o rachetă Falcon 9 a companiei SpaceX. De fapt, pentru *Inspiration-4* urmează să fie folosită chiar capsula care se află acum andocată la Stația Spațială Internațională (Resilience) și care va reveni pe Pământ în această primăvară (Inspiration-4 nu implică andocarea capsulei Dragon cu ISS, doar un zbor orbital al echipajului). Hayley Arceneaux este o fostă pacientă și în prezent medic în cadrul St. Jude Children’s Research Hospital (Tennessee), instituția pentru care Isaacman dorește să adune fonduri caritabile în cadrul misiunii Inspiration-4. Ocupanții celorlalte două locuri încă disponibile în capsula Dragon urmează să fie anunțați în viitorul apropiat.
