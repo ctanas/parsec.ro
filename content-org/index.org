@@ -2489,6 +2489,18 @@ Capsula *Dragon-XL* a comapaniei SpaceX a fost primul vehicul pe care NASA l-a d
 + [[https://james.darpinian.com/satellites/?special=starlink][James Darpinian]] (site web, folosește Google Street View, pentru o orientare și mai simplă)
 + [[https://gosoftworks.com/apps/gosatwatch/][GoSatWatch]] (aplicație iOS, care permite folosirea TLE de la Celestrak, inclusiv Starlink)
 
+
+** Motoare
+:PROPERTIES:
+:EXPORT_FILE_NAME: motoare
+:END:
+
+| Denumire | Producător | Folosit  | Comb.   |   MR | Forță (MN)    |  F/m | P (MPa) | Isp (s)     | L x D (m) | Masă (kg) | An |
+|----------+------------+----------+---------+------+---------------+------+---------+-------------+-----------+-----------+----|
+| RS-25    | Aerojet    | STS,SLS  | LOX/LH  | 6.03 | 2.279 (1.86)  | 73.1 |   20.64 | 452.3 (366) | 4.3 x 2.4 |      3177 |    |
+| F-1      | Rocketdyne | Saturn-V | LOX/RP1 | 2.27 | 7.770 (6.770) | 94.1 |    7.00 | 304 (263)   | 5.6 x 3.7 |      8400 |    |
+|          |            |          |         |      |               |      |         |             |           |           |    |
+   
 ** Media
 :PROPERTIES:
 :EXPORT_FILE_NAME: media
