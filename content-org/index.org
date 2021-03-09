@@ -5369,6 +5369,27 @@ SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD
 :EXPORT_HUGO_SECTION: bul
 :END:
 
+** Buletin Cosmic nr. 109 :Winchcombe:starship:dearmoon:starlink:falcon9:
+:PROPERTIES:
+:EXPORT_FILE_NAME: 109
+:EXPORT_DATE: 2021-03-09
+:END:
+
+După ce un bolid spectaculos a fost observat deasupra sudului Marii Britanii în 28 februarie, un fragment din acesta a fost recuperat de la sol, în preajma localității *Winchcombe*, o premieră în Anglia în ultimii 30 de ani. Meteoritul a fost primul meteorit de tip condrită carbonatică recuperat din Anglia, ceea ce înseamnă că acesta conține formațiuni mai vechi decât planetele din jurul nostru și ne poate oferi informații cu privire la compoziția sistemului solar de acum aproximativ 4.5 miliarde de ani.
+
+---
+
+Yusaku Maezawa, miliardarul japonez care a cumpărat toate locurile disponibile într-o navă Starship, [[https://youtu.be/h_L3wLmrMuA][își caută un echipaj format din 8 persoane]], de pe tot cuprinsul lumii, pentru a-l însoți într-o călătorie în jurul Lunii la bordul navei lui Elon Musk, cândva după 2023, în cadrul proiectului #dearMoon. Zborul va dura 6 zile și îi va transporta pe membri echipajului mai departe de Pământ decât oricare altă misiune spațială de până acum. [[https://dearmoon.earth][Înscrierile continuă]] pănă duminică, 14 martie, iar numele celor 8 norocoși vor fi anunțate în luna mai, deși criteriile de selecție nu sunt deloc clare. S-au înscris aproximativ 1 milion de persoane, dintre care căteva mii sunt din România. Ultimul test *Starship* a avut loc săptămâna trecută, când prototipul SN10 a zburat până la aproximativ 10 km altitudine, după care a revenit la sol și, pentru prima dată după două încercări trecute ratate, a reușit aterizarea, deși aceasta a fost mai dură decât se așteptau inginerii SpaceX, iar la câteva minute a avut loc o explozie care a distrus complet prototipul SN10.
+
+#+CAPTION: Prototipul SN10, cu câteva secunde înainte de revenirea la sol, după al treilea zbor până la altitudinea de 10 km din cadrul programului Starship al companiei SpaceX. SN10 a explodat la scurt timp după ce acesta aterizase aparent în siguranță la sol. /Sursa foto: [[https://www.flickr.com/photos/spacex/51007202541/][SpaceX]]/
+[[/img/sn10.jpg]]
+
+---
+
+După mai multe amânări, *SpaceX* a lansat până la urmă misiunea *Starlink-17* (după Starlink-18 și Starlink-19), plasând încă 60 de sateliți Starlink pe orbită. Lansarea a avut loc în 4 martie, la ora 10:24, de pe rampa LC-39A, de la centrul spațial Kennedy, din Florida. Deși camera plasată pe prima treaptă (B1048) nu a funcționat, aceasta a fost recuperată, pentru a 8-a oară, fiind a 75-a recuperare a unei trepte primare Falcon 9. Lansarea SpaceX precedentă (Starlink-10) s-a realizat fără recuperarea primei trepte B1059, pentru că unul dintre motoarele Merlin a cedat în timpul urcării spre orbită, datorită uzurii acestuia, însă misiunea s-a terminat cu bine, pentru că celelalte opt motoare au compensat pierderea. Revenirea treptei primare prin atmosferă nu s-a mai putut face controlat și ca urmare acesta nu a mai fost recuperat.
+
+În total, au fost lansați 1205 sateliți Starlink, din care probabil 1122 sunt funcționali: 55 au fost deorbitați activ, 8 au reintrat pasiv prin atmosferă, 17 par să nu fie manevrabili și 3 par să fie în curs de deorbitare.
+
 ** Buletin Cosmic nr. 108 :pslv:soyuz:inspiration4:rocketlab:neutron:iss:eva:
 :PROPERTIES:
 :EXPORT_FILE_NAME: 108
