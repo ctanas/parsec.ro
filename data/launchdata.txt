@@ -6018,3 +6018,4 @@ x1957 ALP    1957-10-04 19:28   Sputnik 8K71PS          M1-PS                PS-
 2021-015    2021-02-28 04:54   PSLV-DL                 C51                  Amazonia-1                                     IN   Satish       SLP        S 108
 2021-016    2021-02-28 06:55   Soyuz-2.1b                                   Arktika-M No. 1                                RU   Baikonur     31/6       S 108
 2021-017    2021-03-04 08:25   Falcon 9                110/B1049.8          Starlink 1.0-L17                               US   KSC          LC39A      S 109
+2021-018    2021-03-11 08:13   Falcon 9                111/B1058.6          Starlink 1.0-L20                               US   CC           LC40       S 110

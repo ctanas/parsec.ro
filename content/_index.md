@@ -16,6 +16,7 @@ Siteul de față reprezintă o colecție personală de materiale, articole și n
 
 | Data        | Lansator     | Serie       | Satelit                               | T  | Centru   | Rampă | R. | Bul             |
 |-------------|--------------|-------------|---------------------------------------|----|----------|-------|----|-----------------|
+| 11.03 08:13 | Falcon 9     | 111/B1058.6 | Starlink 1.0-L20                      | US | CC       | LC40  | S  | [110](/bul/110) |
 | 04.03 08:25 | Falcon 9     | 110/B1049.8 | Starlink 1.0-L17                      | US | KSC      | LC39A | S  | [109](/bul/109) |
 | 28.02 06:55 | Soyuz-2.1b   |             | Arktika-M No. 1                       | RU | Baikonur | 31/6  | S  | [108](/bul/108) |
 | 28.02 04:54 | PSLV-DL      | C51         | Amazonia-1                            | IN | Satish   | SLP   | S  | [108](/bul/108) |
@@ -25,7 +26,6 @@ Siteul de față reprezintă o colecție personală de materiale, articole și n
 | 15.02 04:45 | Soyuz-2.1a   |             | Progress MS-16                        | RU | Baikonur | 31/6  | S  | [106](/bul/106) |
 | 04.02 15:36 | CZ-3B/E      | 3B-Y75      | TJSW-6                                | CN | Xichang  | LC3   | S  | [105](/bul/105) |
 | 04.02 06:17 | Falcon 9     | 108/B1060.5 | Starlink 1.0-L18                      | US | CC       | LC40  | S  | [105](/bul/105) |
-| 02.02 20:45 | Soyuz-2.1b   |             | Lotos-S1 No.5 / Kosmos 2549           | RU | Plesetsk | 43/4  | S  | [105](/bul/105) |
 
 Detalii cu privire la informațiile din tabel, pot fi găsite în secțiunea [Legendă tabele](/t/legenda_tabele). Data și ora sunt UTC.
 
