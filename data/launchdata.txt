@@ -5535,7 +5535,7 @@ x1957 ALP    1957-10-04 19:28   Sputnik 8K71PS          M1-PS                PS-
 2016-039    2016-06-18 21:38   Ariane 5ECA             VA230 (584)          Echostar 18/BRISAT                             EU   Kourou       ELA3       S
 2016-040    2016-06-22 03:55   PSLV-XL                 PSLV-C34             Cartosat-2(S) / Cartosat-2C                    IN   Satish       SLP        S
 2016-041    2016-06-24 14:30   Atlas V 551             AV-063               MUOS 5                                         US   CC           SLC41      S
-2016-042    2016-06-25 12:00   Chang Zheng 7/YZ-1A     Y1                   Fanhui Cang / FC/Aoxiang                       CN   Wenchang     LC201      S
+2016-042    2016-06-25 12:00   Chang Zheng 7           Y1                   Fanhui Cang / FC/Aoxiang                       CN   Wenchang     LC201      S
 2016-043    2016-06-29 03:21   Chang Zheng 4B          Y35                  SJ-16-02                                       CN   Jiuquan      Pad 603    S
 2016-044    2016-07-07 01:36   Soyuz-FG                R 15000-056 056      Soyuz MS-01 / Soyuz 11F732A48 No. 731          RU   Baikonur     LC1        S
 2016-045    2016-07-16 21:41   Soyuz-U-PVB             G 15000-147 147      Progress MS-03 / Progress 7K-TGM No. 433       RU   Baikonur     LC31       S
@@ -6020,3 +6020,4 @@ x1957 ALP    1957-10-04 19:28   Sputnik 8K71PS          M1-PS                PS-
 2021-017    2021-03-04 08:25   Falcon 9                110/B1049.8          Starlink 1.0-L17                               US   KSC          LC39A      S 109
 2021-018    2021-03-11 08:13   Falcon 9                111/B1058.6          Starlink 1.0-L20                               US   CC           LC40       S 110
 2021-019    2021-03-11 17:51   Chang Zheng 7A          Y2                   Shiyan-9                                       CN   Wenchang     LC-2       S 110
+2021-020    2021-03-13 02:19   Chang Zheng 4C          4C-Y42               Yaogan-31-04                                   CN   Jiuquan      SLS-2      S 110
