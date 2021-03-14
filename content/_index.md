@@ -16,6 +16,7 @@ Siteul de față reprezintă o colecție personală de materiale, articole și n
 
 | Data        | Lansator     | Serie       | Satelit                               | T  | Centru   | Rampă | R. | Bul             |
 |-------------|--------------|-------------|---------------------------------------|----|----------|-------|----|-----------------|
+| 14.03 10:01 | Falcon 9     | 112/B1051.9 | Starlink 1.0-L21                      | US | KSC      | LC39A | S  | [110](/bul/110) |
 | 13.03 02:19 | CZ-4C        | 4C-Y42      | Yaogan-31-04                          | CN | Jiuquan  | SLS-2 | S  | [110](/bul/110) |
 | 11.03 17:51 | CZ-7A        | Y2          | Shiyan-9                              | CN | Wenchang | LC-2  | S  | [110](/bul/110) |
 | 11.03 08:13 | Falcon 9     | 111/B1058.6 | Starlink 1.0-L20                      | US | CC       | LC40  | S  | [110](/bul/110) |
@@ -25,7 +26,6 @@ Siteul de față reprezintă o colecție personală de materiale, articole și n
 | 24.02 02:22 | CZ-4C        | 4C-Y31      | Yaogan-31                             | CN | Jiuquan  | SLS-2 | S  | [107](/bul/107) |
 | 20.02 17:36 | Antares 230+ | 14          | Cygnus NG-15 / S.S. Katherine Johnson | US | Wallops  | LP-0A | S  | [107](/bul/107) |
 | 16.02 03:59 | Falcon 9     | 109/B1059.6 | Starlink 1.0-L19                      | US | CC       | LC40  | S  | [106](/bul/106) |
-| 15.02 04:45 | Soyuz-2.1a   |             | Progress MS-16                        | RU | Baikonur | 31/6  | S  | [106](/bul/106) |
 
 Detalii cu privire la informațiile din tabel, pot fi găsite în secțiunea [Legendă tabele](/t/legenda_tabele). Data și ora sunt UTC.
 

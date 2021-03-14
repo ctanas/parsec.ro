@@ -68,7 +68,7 @@ Lista tuturor lansatoarelor orbitale active folosite în prezent, împreună cu 
 | 58  | Electron           | US   | 18        | 16      | 2       | 2017-05-25 | 2021-01-20 |
 | 59  | Epsilon            | JP   | 4         | 4       | 0       | 2013-09-14 | 2019-01-18 |
 | 60  | Falcon 1           | US   | 5         | 2       | 3       | 2006-03-24 | 2009-07-14 |
-| 61  | Falcon 9           | US   | 109       | 108     | 1       | 2010-06-04 | 2021-03-11 |
+| 61  | Falcon 9           | US   | 110       | 109     | 1       | 2010-06-04 | 2021-03-14 |
 | 62  | Falcon Heavy       | US   | 3         | 3       | 0       | 2018-02-06 | 2019-06-25 |
 | 63  | GSLV Mk I          | IN   | 6         | 4       | 2       | 2001-04-18 | 2010-12-25 |
 | 64  | GSLV Mk II         | IN   | 7         | 6       | 1       | 2010-04-15 | 2018-12-19 |
