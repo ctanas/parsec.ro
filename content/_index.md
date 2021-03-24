@@ -16,7 +16,8 @@ Siteul de față reprezintă o colecție personală de materiale, articole și n
 
 | Data        | Lansator   | Serie       | Satelit                        | T  | Centru   | Rampă | R. | Bul             |
 |-------------|------------|-------------|--------------------------------|----|----------|-------|----|-----------------|
-| 22.03 22:30 | Electron   | 19          | Pathstone / They go up so fast | US | mahia    | LC1   | S  | [110](/bul/110) |
+| 24.03 08:28 | Falcon 9   | 113/B1060.6 | Starlink 1.0-L22               | US | CC       | LC40  | S  | [110](/bul/110) |
+| 22.03 22:30 | Electron   | 19          | Pathstone / They go up so fast | US | Mahia    | LC1   | S  | [110](/bul/110) |
 | 22.03 06:07 | Soyuz-2.1b |             | CAS500-1                       | RU | Baikonur | 31/6  | S  | [110](/bul/110) |
 | 14.03 10:01 | Falcon 9   | 112/B1051.9 | Starlink 1.0-L21               | US | KSC      | LC39A | S  | [110](/bul/110) |
 | 13.03 02:19 | CZ-4C      | 4C-Y42      | Yaogan-31-04                   | CN | Jiuquan  | SLS-2 | S  | [110](/bul/110) |
@@ -25,7 +26,6 @@ Siteul de față reprezintă o colecție personală de materiale, articole și n
 | 04.03 08:25 | Falcon 9   | 110/B1049.8 | Starlink 1.0-L17               | US | KSC      | LC39A | S  | [109](/bul/109) |
 | 28.02 06:55 | Soyuz-2.1b |             | Arktika-M No. 1                | RU | Baikonur | 31/6  | S  | [108](/bul/108) |
 | 28.02 04:54 | PSLV-DL    | C51         | Amazonia-1                     | IN | Satish   | SLP   | S  | [108](/bul/108) |
-| 24.02 02:22 | CZ-4C      | 4C-Y31      | Yaogan-31                      | CN | Jiuquan  | SLS-2 | S  | [107](/bul/107) |
 
 Detalii cu privire la informațiile din tabel, pot fi găsite în secțiunea [Legendă tabele](/t/legenda_tabele). Data și ora sunt UTC.
 
