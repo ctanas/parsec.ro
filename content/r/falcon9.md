@@ -125,6 +125,7 @@ draft = false
 | 2021-03-11 | Falcon 9     | 111/B1058.6 | Starlink 1.0-L20                      | CC         | LC40  | S |
 | 2021-03-14 | Falcon 9     | 112/B1051.9 | Starlink 1.0-L21                      | KSC        | LC39A | S |
 | 2021-03-24 | Falcon 9     | 113/B1060.6 | Starlink 1.0-L22                      | CC         | LC40  | S |
+| 2021-04-07 | Falcon 9     | 114/B1058   | Starlink 1.0-L23                      | CC         | LC40  | S |
 
 
 ## Lista treptelor primare Falcon 9 Block 5 inactive {#lista-treptelor-primare-falcon-9-block-5-inactive}
@@ -282,6 +283,7 @@ Recuperarea pe barja OCISLY după misiunea Starlink-8 nu a reușit.
 | B1058.4 | 06.12.2020 | Dragon CRS-21 | OCISLY     | Falcon 9 |
 | B1058.5 | 24.01.2021 | Transporter-1 | OCISLY     | Falcon 9 |
 | B1058.6 | 11.03.2021 | Starlink-20   | JRI        | Falcon 9 |
+| B1058.7 | 07.04.2021 | Starlink-23   | OCISLY     | Falcon 9 |
 
 
 ### B1060 {#b1060}

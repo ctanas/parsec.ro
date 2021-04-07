@@ -16,6 +16,7 @@ Siteul de față reprezintă o colecție personală de materiale, articole și n
 
 | Data        | Lansator   | Serie       | Satelit                        | T  | Centru    | Rampă | R. | Bul             |
 |-------------|------------|-------------|--------------------------------|----|-----------|-------|----|-----------------|
+| 07.04 16:34 | Falcon 9   | 114/B1058   | Starlink 1.0-L23               | US | CC        | LC40  | S  | [112](/bul/112) |
 | 30.03 22:45 | CZ-4C      | 4C-Y36      | Gaofen-12-02                   | CN | Jiuquan   | SLS-2 | S  | [112](/bul/112) |
 | 25.03 04:01 | Soyuz-2.1b | ST30        | OneWeb                         | EU | Vostochny | 1S    | S  | [111](/bul/111) |
 | 24.03 08:28 | Falcon 9   | 113/B1060.6 | Starlink 1.0-L22               | US | CC        | LC40  | S  | [111](/bul/111) |
@@ -25,7 +26,6 @@ Siteul de față reprezintă o colecție personală de materiale, articole și n
 | 13.03 02:19 | CZ-4C      | 4C-Y42      | Yaogan-31-04                   | CN | Jiuquan   | SLS-2 | S  | [110](/bul/110) |
 | 11.03 17:51 | CZ-7A      | Y2          | Shiyan-9                       | CN | Wenchang  | LC-2  | S  | [110](/bul/110) |
 | 11.03 08:13 | Falcon 9   | 111/B1058.6 | Starlink 1.0-L20               | US | CC        | LC40  | S  | [110](/bul/110) |
-| 04.03 08:25 | Falcon 9   | 110/B1049.8 | Starlink 1.0-L17               | US | KSC       | LC39A | S  | [109](/bul/109) |
 
 Detalii cu privire la informațiile din tabel, pot fi găsite în secțiunea [Legendă tabele](/t/legenda_tabele). Data și ora sunt UTC.
 
