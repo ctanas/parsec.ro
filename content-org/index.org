@@ -41,12 +41,11 @@ Detalii cu privire la informațiile din tabel, pot fi găsite în secțiunea [[/
 
 ** Stația Spațială Internațională (ISS) 
 
-+ Lista [[/iss/iss/][astronauților aflați la bord și a vehicule andocate]];
++ Lista [[/iss/iss/][astronauților aflați la bord și a vehiculelor andocate]];
 + [[/iss/jurnal][Jurnal de activități]];
 + Zboruri comerciale cu echipaj ([[/iss/ccdev][CC-Dev]]);
 + Detalii despre [[/iss/module][modulele ISS]];
 + Oportunități de [[https://www.heavens-above.com/PassSummary.aspx?satid=25544&lat=46.7712&lng=23.6236&loc=Cluj-Napoca&alt=0&tz=EET][observare]] a ISS. 
-
 
 * About
 :PROPERTIES:
@@ -210,14 +209,20 @@ Construcția ISS a însemnat asamblare pe orbită a [modulelor componente](https
 | Soichi Noguchi       | JAXA | Dragon "Resilience" | 17.11.2020 | Dragon "Resilience" | xx.05.2021 |
 | Shannon Walker       | NASA | Dragon "Resilience" | 17.11.2020 | Dragon "Resilience" | xx.05.2021 |
 |----------------------+------+---------------------+------------+---------------------+------------|
+| Oleg Novitsky        | RSA  | Soyuz MS-18         | 09.04.2021 | Soyuz MS-18         | 13.10.2021 |
+| Piotr Dubrov         | RSA  | Soyuz MS-18         | 09.04.2021 | Soyuz MS-19         | 28.03.2022 |
+| Mark T. Vande Hei    | NASA | Soyuz MS-18         | 09.04.2021 | Soyuz MS-19         | 28.03.2022 |
 
 *** Câte vehicule sunt în prezent andocate la ISS?
 
-| Vehicul             |    Lansare | Rachetă     | Port         |     Sosire | Plecare    | Recuperare |
-|---------------------+------------+-------------+--------------+------------+------------+------------|
-| Progress MS-14      | 25.04.2020 | Soyuz-2.1a  | Zvezda       | 25.04.2020 | xx.04.2021 | NU         |
-| Soyuz MS-17         | 14.10.2020 | Soyuz-2.1a  | Rassvet      | 14.10.2020 | xx.04.2021 | DA         |
-| Dragon "Resilience" | 16.11.2020 | Falcon 9    | Harmony/IDA  | 17.11.2020 | xx.05.2021 | DA         |
+| Vehicul             |    Lansare | Rachetă      | Port        |     Sosire |    Plecare | Recuperare |
+|---------------------+------------+--------------+-------------+------------+------------+------------|
+| Progress MS-14      | 25.04.2020 | Soyuz-2.1a   | Zvezda      | 25.04.2020 | 30.04.2021 | NU         |
+| Progress MS-16      | 15.02.2021 | Soyuz-2.1    | Pirs        | 17.02.2021 | xx.07.2021 | NU         |
+| Soyuz MS-17         | 14.10.2020 | Soyuz-2.1a   | Rassvet     | 14.10.2020 | 17.04.2021 | DA         |
+| Dragon "Resilience" | 16.11.2020 | Falcon 9     | Harmony/IDA | 17.11.2020 | 28.04.2021 | DA         |
+| Cygnus NG-15        | 20.02.2021 | Antares-230+ | Unity       | 22.02.2021 | xx.05.2021 | NU         |
+| Soyuz MS-18         | 09.04.2021 | Soyuz-2.1a   | Rassvet     | 09.04.2021 | 13.10.2021 | DA         |
 
 *** Câți astronauți sunt de obicei la bordul ISS?
 
@@ -231,16 +236,34 @@ Da! Datorită panourilor solare de mari dimensiuni, ISS poate fi văzută cu uș
 :EXPORT_FILE_NAME: jurnal
 :END:
 
-- 17.11.2020 :: Capsula Dragon C207 Resilience (SpX Crew-1: Mike Hopkins, Victor Glover, Soichi Noguchi, Shannon Walker) andochează la modulul /Harmony/ al ISS;
-- 22.10.2020 :: Soyuz MS-16 revine pe Pământ cu Anatoli Ivanishin, Ivan Vagner și Chris Cassidy.
+- 16.04.2021 :: Începe *Expediția 65*;
+
+---
+
+- 09.04.2021 :: Soyuz MS-18 (Novitski, Dubrov, Vande Hei) andochează la modulul /Rassvet/;
+- 05.04.2021 :: Capsula Dragon "Resilience" se decuplează de portul IDA-2 și reandochează după 45 minute la IDA-3, la același modul /Harmony/;
+- 19.03.2021 :: Soyuz MS-17 s-a decuplat de Rassvet și a andocat la /Poisk/;
+- 13.03.2021 :: EVA-237 (6 ore, 47 minute): Hopkins și Glover, activarea și instalarea platformei europene Bartolomeo;
+- 05.03.2021 :: EVA-236 (6 ore, 56 minute): Hopkins și Glover, instalare baterie nouă pe grinda P-4;
+- 28.02.2021 :: EVA-235 (7 ore, 04 minute): Rubins și Glover, pregătire pentru viitoarele panouri solare noi;
+- 22.02.2021 :: Cygnus NG-15 a fost cuplată la modulul /Unity/;
+- 17.02.2021 :: Progress MS-17 andochează la modulul /Pirs/;
+- 09.02.2021 :: Progress MS-15 se desprinde de modulul /Pirs/ și revine distructiv prin atmosferă;
+- 01.02.2021 :: EVA-234 (5 ore, 20 minute): Rubins și Noguchi, pregătire pentru viitoarele panouri solare noi;
+- 27.01.2021 :: EVA-233 (6 ore, 56 minute): Hpkins și Glover, mentenanță;
+- 06.01.2021 :: Capsula Cygnus NG-14 a fost desprinsă de modulul /Unity/;
+- 18.11.2020 :: EVA-232 (6 ore, 48 minute): Sergey Ryzhikov și Sergey Kud-Sverchkov, pentru pregătirea înlocuirii Pirs cu Nauka;
+- 17.11.2020 :: Capsula Dragon "Resilience" (SpX Crew-1: Mike Hopkins, Victor Glover, Soichi Noguchi, Shannon Walker) andochează la modulul /Harmony/ al ISS;
+- 22.10.2020 :: Soyuz MS-16 revine pe Pământ cu Anatoli Ivanishin, Ivan Vagner și Chris Cassidy;
 - 21.10.2020 :: Începe *Expediția 64*;
+
 ---    
-- 18.10.2020 :: EVA-232 (6 ore, 48 minute): Sergey Ryzhikov și Sergey Kud-Sverchkov, pentru pregătirea înlocuirii Pirs cu Nauka;
+
 - 14.10.2020 :: Soyuz MS-17 (Ryzhikov, Kud-Sverchkov, Rubins) este lansată și andocheză după 3 ore și 3 minute cu ISS la portul Rassvet;
 - 05.09.2020 :: Capsula Cygnus NG-14 a fost cuplată cu modulul /Unity/;
 - 18.08.2020 :: Vehiculul HTV-9 a fost desprins de ISS și a revenit distructiv prin atmosferă;
-- 02.08.2020 :: Capsula Crew Dragon "Endeavour" s-a desprins de modulul /Harmony/ și a revenit pe Pământ;
-- 23.07.2020 :: Progress MS-15 andochează cu modulul /Pirs;/
+- 02.08.2020 :: Capsula Dragon "Endeavour" s-a desprins de modulul /Harmony/ și a revenit pe Pământ;
+- 23.07.2020 :: Progress MS-15 andochează la modulul /Pirs;/
 - 21.07.2020 :: EVA-231 (5 ore, 20 minute): Cassidy și Behnken, operațiuni de mentenanță ISS;
 - 16.07.2020 :: EVA-230 (6 ore): Cassidy și Behnken, pentru schimbarea bateriilor ISS;
 - 08.07.2020 :: Progress MS-13 se desprinde de modulul Pirs la ora 18:22 și revine prin atmosferă la 22:05;
@@ -252,7 +275,9 @@ Da! Datorită panourilor solare de mari dimensiuni, ISS poate fi văzută cu uș
 - 25.04.2020 :: Progress MS-14 andochează la modulul /Zvezda/, la 3 ore și 21 de minute după lansare[fn::https://blogs.nasa.gov/spacestation/2020/04/25/progress-cargo-ship-docked-to-station/];
 - 19.04.2020 :: Modulul Zvezda și-a activat motoarele pentru 58.5 secunde pentru a reduce viteza ISS cu 0.97 m/s și coborând altitudinea (417.69x436.62 km), ajustând orbita pentru lansarea Progress MS-14[fn::https://www.roscosmos.ru/28413];
 - 17.04.2020 :: Începe *Expediția 63*;
+
 ---
+
 - 17.04.2020 :: Soyuz MS-15 revine pe Pământ, cu Skripochka, Meir, Morgan;
 - 09.04.2020 :: Soyuz MS-16 (Ivanishin, Vagner, Cassidy) este lansată și andochează după 6 ore cu ISS la portul /Poisk/;
 - 07.04.2020 :: Capsula Dragon CRS-10 se desprinde de modulul /Harmony/ și revine cu bine pe Pământ; este ultima capsulă Dragon de primă generație folosită;
@@ -261,7 +286,9 @@ Da! Datorită panourilor solare de mari dimensiuni, ISS poate fi văzută cu uș
 - 09.03.2020 :: Capsula Dragon CRS-20 andochează la portul /Harmony/, după lansarea din 09.03.2020.
 - 18.02.2020 :: Capsula Cygnus NG-13 este atașată de modulul /Unity/, după lansarea din 15.02.2020;
 - 06.02.2020 :: Începe *Expediția 62*;
+
 ---
+
 - 06.02.2020 :: Soyuz MS-13 revine pe Pământ cu Koch, Skvortsov, Parmitano;
 - 31.01.2020 :: Capsula Cygnus NG-12 se desprinde de ISS;
 - 25.01.2020 :: EVA-227 (6 ore, 16 minute): Morgan și Parmitano, pentru întreținerea AMS-02;
@@ -281,7 +308,9 @@ Da! Datorită panourilor solare de mari dimensiuni, ISS poate fi văzută cu uș
 - 11.10.2019 :: EVA-220 (6 ore, 45 minute): Morgan și Koch, pentru înlocuirea bateriile ISS;
 - 06.10.2019 :: EVA-219 (7 ore, 1 minut): Koch și Morgan, pentru înlocuirea bateriilor ISS;
 - 03.10.2019 :: Începe *Expediția 61*;
+
 ---
+
 - 03.10.2019 :: Soyuz MS-12 revine pe Pământ cu Ovcinin, Hague, Mansouri;
 - 28.09.2019 :: HTV-8 andochează la portul /Harmony nadir/, după ce a fost lansată în 24.09.2010;
 - 25.09.2019 :: Soyuz MS-15 (Skripochka, Meir, Mansouri) este lansată și andochează după 6 ore cu ISS;

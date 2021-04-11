@@ -46,7 +46,7 @@ Detalii cu privire la informațiile din tabel, pot fi găsite în secțiunea [Le
 
 ## Stația Spațială Internațională (ISS) {#stația-spațială-internațională--iss}
 
--   Lista [astronauților aflați la bord și a vehicule andocate](/iss/iss/);
+-   Lista [astronauților aflați la bord și a vehiculelor andocate](/iss/iss/);
 -   [Jurnal de activități](/iss/jurnal);
 -   Zboruri comerciale cu echipaj ([CC-Dev](/iss/ccdev));
 -   Detalii despre [modulele ISS](/iss/module);

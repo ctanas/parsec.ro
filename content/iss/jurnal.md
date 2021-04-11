@@ -4,19 +4,60 @@ author = ["Claudiu"]
 draft = false
 +++
 
+16.04.2021
+: Începe **Expediția 65**;
+
+---
+
+09.04.2021
+: Soyuz MS-18 (Novitski, Dubrov, Vande Hei) andochează la modulul _Rassvet_;
+
+05.04.2021
+: Capsula Dragon "Resilience" se decuplează de portul IDA-2 și reandochează după 45 minute la IDA-3, la același modul _Harmony_;
+
+19.03.2021
+: Soyuz MS-17 s-a decuplat de Rassvet și a andocat la _Poisk_;
+
+13.03.2021
+: EVA-237 (6 ore, 47 minute): Hopkins și Glover, activarea și instalarea platformei europene Bartolomeo;
+
+05.03.2021
+: EVA-236 (6 ore, 56 minute): Hopkins și Glover, instalare baterie nouă pe grinda P-4;
+
+28.02.2021
+: EVA-235 (7 ore, 04 minute): Rubins și Glover, pregătire pentru viitoarele panouri solare noi;
+
+22.02.2021
+: Cygnus NG-15 a fost cuplată la modulul _Unity_;
+
+17.02.2021
+: Progress MS-17 andochează la modulul _Pirs_;
+
+09.02.2021
+: Progress MS-15 se desprinde de modulul _Pirs_ și revine distructiv prin atmosferă;
+
+01.02.2021
+: EVA-234 (5 ore, 20 minute): Rubins și Noguchi, pregătire pentru viitoarele panouri solare noi;
+
+27.01.2021
+: EVA-233 (6 ore, 56 minute): Hpkins și Glover, mentenanță;
+
+06.01.2021
+: Capsula Cygnus NG-14 a fost desprinsă de modulul _Unity_;
+
+18.11.2020
+: EVA-232 (6 ore, 48 minute): Sergey Ryzhikov și Sergey Kud-Sverchkov, pentru pregătirea înlocuirii Pirs cu Nauka;
+
 17.11.2020
-: Capsula Dragon C207 Resilience (SpX Crew-1: Mike Hopkins, Victor Glover, Soichi Noguchi, Shannon Walker) andochează la modulul _Harmony_ al ISS;
+: Capsula Dragon "Resilience" (SpX Crew-1: Mike Hopkins, Victor Glover, Soichi Noguchi, Shannon Walker) andochează la modulul _Harmony_ al ISS;
 
 22.10.2020
-: Soyuz MS-16 revine pe Pământ cu Anatoli Ivanishin, Ivan Vagner și Chris Cassidy.
+: Soyuz MS-16 revine pe Pământ cu Anatoli Ivanishin, Ivan Vagner și Chris Cassidy;
 
 21.10.2020
 : Începe **Expediția 64**;
 
 ---
-
-18.10.2020
-: EVA-232 (6 ore, 48 minute): Sergey Ryzhikov și Sergey Kud-Sverchkov, pentru pregătirea înlocuirii Pirs cu Nauka;
 
 14.10.2020
 : Soyuz MS-17 (Ryzhikov, Kud-Sverchkov, Rubins) este lansată și andocheză după 3 ore și 3 minute cu ISS la portul Rassvet;
@@ -28,10 +69,10 @@ draft = false
 : Vehiculul HTV-9 a fost desprins de ISS și a revenit distructiv prin atmosferă;
 
 02.08.2020
-: Capsula Crew Dragon "Endeavour" s-a desprins de modulul _Harmony_ și a revenit pe Pământ;
+: Capsula Dragon "Endeavour" s-a desprins de modulul _Harmony_ și a revenit pe Pământ;
 
 23.07.2020
-: Progress MS-15 andochează cu modulul _Pirs;_
+: Progress MS-15 andochează la modulul _Pirs;_
 
 21.07.2020
 : EVA-231 (5 ore, 20 minute): Cassidy și Behnken, operațiuni de mentenanță ISS;
