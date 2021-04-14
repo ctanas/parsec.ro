@@ -413,7 +413,7 @@ Boeing a anunțat că misiunea OFT va fi repetată[fn:reoft1], nu mai devreme de
 
 Misiunea, programată inițial pentru 27 mai, a fost amânată 3 zile din cauza condițiilor meteo nefavorabile.
 
-*** SpaceX USCV-1 (16 noiembrie 2020 +6luni)
+*** SpaceX USCV-1 (16 noiembrie 2020 -- 28 aprilie 2021)
 /US Crew Vehicle 1/ (Dragon2 C207 "Resilience")
 
 - *Victor Glover* (primul zbor spațial) --NASA
@@ -421,11 +421,7 @@ Misiunea, programată inițial pentru 27 mai, a fost amânată 3 zile din cauza 
 - *Shannon Walker* (Soyuz TMA-19, 163 zile ISS)  --NASA
 - *Soichi Noguchi* (Discovery STS-114, Soyuz TMA-17, 177 zile ISS) --JAXA
 
-*** Boeing OFT-2 (aprilie 2021) 
-/Orbital Flight Test 2/
-- fără echipaj
-
-*** SpaceX USCV-2 (20 aprilie 2020 +6 luni)
+*** SpaceX USCV-2 (22 aprilie 2020 +6 luni)
 /US Crew Vehicle 2/ (Dragon C206 "Endeavour")
 
 - *Shane Kimbrough* (Endeavour STS-126, Soyuz MS-02) --NASA
@@ -433,7 +429,11 @@ Misiunea, programată inițial pentru 27 mai, a fost amânată 3 zile din cauza 
 - *Akihiko Hoshide* (Discovery STS-124, Soyuz TMA-05M) --JAXA
 - *Thomas Pesquet* (Soyuz MS-03) --ESA
 
-*** Boeing CFT (septembrie 2021)
+*** Boeing OFT-2 (august 2021) 
+/Orbital Flight Test 2/
+- fără echipaj
+
+*** Boeing CFT (februarie 2022)
 /Crew Flight Test/ ("Calypso")
 
 - *Michael Fincke* (Soyuz TMA-4, Soyuz TMA-13, Endeavour STS-134)
@@ -442,7 +442,7 @@ Misiunea, programată inițial pentru 27 mai, a fost amânată 3 zile din cauza 
   - l-a înlocuit pe Chris Ferguson, programat inițial pentru această misiune, dar care s-a retras din program în octombrie 2020, din motive medicale. 
 - *Nicole Aunapu Mann* (primul zbor spațial)
 
-*** Boeing PCM-1 (decembrie 2021)
+*** Boeing PCM-1 (2022)
 /Starliner-1/
 
 - *John Cassada* (primul zbor spațial)
@@ -2524,7 +2524,6 @@ Capsula *Dragon-XL* a comapaniei SpaceX a fost primul vehicul pe care NASA l-a d
 + [[https://findstarlink.com/][Find Starlink]] (site web și aplicații mobile, interfață simplă)
 + [[https://james.darpinian.com/satellites/?special=starlink][James Darpinian]] (site web, folosește Google Street View, pentru o orientare și mai simplă)
 + [[https://gosoftworks.com/apps/gosatwatch/][GoSatWatch]] (aplicație iOS, care permite folosirea TLE de la Celestrak, inclusiv Starlink)
-
 
 ** Motoare
 :PROPERTIES:
