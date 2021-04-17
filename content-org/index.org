@@ -201,10 +201,6 @@ Construcția ISS a însemnat asamblare pe orbită a [modulelor componente](https
 
 | Nume                 | Agn  | Sosire              |       Data | Plecare             | Data       |
 |----------------------+------+---------------------+------------+---------------------+------------|
-| Sergei Ryzhikov      | RSA  | Soyuz MS-17         | 14.10.2020 | Soyuz MS-17         | xx.04.2021 |
-| Sergei Kud-Sverchkov | RSA  | Soyuz MS-17         | 14.10.2020 | Soyuz MS-17         | xx.04.2021 |
-| Kathleen Rubins      | NASA | Soyuz MS-17         | 14.10.2020 | Soyuz MS-17         | xx.04.2021 |
-|----------------------+------+---------------------+------------+---------------------+------------|
 | Mike Hopkins         | NASA | Dragon "Resilience" | 17.11.2020 | Dragon "Resilience" | xx.05.2021 |
 | Victor Glover        | NASA | Dragon "Resilience" | 17.11.2020 | Dragon "Resilience" | xx.05.2021 |
 | Soichi Noguchi       | JAXA | Dragon "Resilience" | 17.11.2020 | Dragon "Resilience" | xx.05.2021 |
@@ -220,7 +216,6 @@ Construcția ISS a însemnat asamblare pe orbită a [modulelor componente](https
 |---------------------+------------+--------------+-------------+------------+------------+------------|
 | Progress MS-14      | 25.04.2020 | Soyuz-2.1a   | Zvezda      | 25.04.2020 | 30.04.2021 | NU         |
 | Progress MS-16      | 15.02.2021 | Soyuz-2.1    | Pirs        | 17.02.2021 | xx.07.2021 | NU         |
-| Soyuz MS-17         | 14.10.2020 | Soyuz-2.1a   | Rassvet     | 14.10.2020 | 17.04.2021 | DA         |
 | Dragon "Resilience" | 16.11.2020 | Falcon 9     | Harmony/IDA | 17.11.2020 | 28.04.2021 | DA         |
 | Cygnus NG-15        | 20.02.2021 | Antares-230+ | Unity       | 22.02.2021 | xx.05.2021 | NU         |
 | Soyuz MS-18         | 09.04.2021 | Soyuz-2.1a   | Rassvet     | 09.04.2021 | 13.10.2021 | DA         |
@@ -237,13 +232,14 @@ Da! Datorită panourilor solare de mari dimensiuni, ISS poate fi văzută cu uș
 :EXPORT_FILE_NAME: jurnal
 :END:
 
+- 17.04.2021 :: Soyuz MS-17 (Ryzhikov, Kud-Sverchkov, Rubins) se desprinde de modulul /Poisk/ și revine cu bine pe Pământ;
 - 16.04.2021 :: Începe *Expediția 65*;
 
 ---
 
 - 09.04.2021 :: Soyuz MS-18 (Novitski, Dubrov, Vande Hei) andochează la modulul /Rassvet/;
 - 05.04.2021 :: Capsula Dragon "Resilience" se decuplează de portul IDA-2 și reandochează după 45 minute la IDA-3, la același modul /Harmony/;
-- 19.03.2021 :: Soyuz MS-17 s-a decuplat de Rassvet și a andocat la /Poisk/;
+- 19.03.2021 :: Soyuz MS-17 s-a decuplat de /Rassvet/ și a andocat la /Poisk/;
 - 13.03.2021 :: EVA-237 (6 ore, 47 minute): Hopkins și Glover, activarea și instalarea platformei europene Bartolomeo;
 - 05.03.2021 :: EVA-236 (6 ore, 56 minute): Hopkins și Glover, instalare baterie nouă pe grinda P-4;
 - 28.02.2021 :: EVA-235 (7 ore, 04 minute): Rubins și Glover, pregătire pentru viitoarele panouri solare noi;

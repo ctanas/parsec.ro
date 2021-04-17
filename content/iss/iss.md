@@ -15,18 +15,15 @@ Construcția ISS a însemnat asamblare pe orbită a [modulelor componente](<http
 
 În prezent sunt 7 astronauți la bordul Stației Spațiale Internaționale, parte a Expdiției 64:
 
-| Nume                 | Agn  | Sosire              | Data       | Plecare             | Data       |
-|----------------------|------|---------------------|------------|---------------------|------------|
-| Sergei Ryzhikov      | RSA  | Soyuz MS-17         | 14.10.2020 | Soyuz MS-17         | xx.04.2021 |
-| Sergei Kud-Sverchkov | RSA  | Soyuz MS-17         | 14.10.2020 | Soyuz MS-17         | xx.04.2021 |
-| Kathleen Rubins      | NASA | Soyuz MS-17         | 14.10.2020 | Soyuz MS-17         | xx.04.2021 |
-| Mike Hopkins         | NASA | Dragon "Resilience" | 17.11.2020 | Dragon "Resilience" | xx.05.2021 |
-| Victor Glover        | NASA | Dragon "Resilience" | 17.11.2020 | Dragon "Resilience" | xx.05.2021 |
-| Soichi Noguchi       | JAXA | Dragon "Resilience" | 17.11.2020 | Dragon "Resilience" | xx.05.2021 |
-| Shannon Walker       | NASA | Dragon "Resilience" | 17.11.2020 | Dragon "Resilience" | xx.05.2021 |
-| Oleg Novitsky        | RSA  | Soyuz MS-18         | 09.04.2021 | Soyuz MS-18         | 13.10.2021 |
-| Piotr Dubrov         | RSA  | Soyuz MS-18         | 09.04.2021 | Soyuz MS-19         | 28.03.2022 |
-| Mark T. Vande Hei    | NASA | Soyuz MS-18         | 09.04.2021 | Soyuz MS-19         | 28.03.2022 |
+| Nume              | Agn  | Sosire              | Data       | Plecare             | Data       |
+|-------------------|------|---------------------|------------|---------------------|------------|
+| Mike Hopkins      | NASA | Dragon "Resilience" | 17.11.2020 | Dragon "Resilience" | xx.05.2021 |
+| Victor Glover     | NASA | Dragon "Resilience" | 17.11.2020 | Dragon "Resilience" | xx.05.2021 |
+| Soichi Noguchi    | JAXA | Dragon "Resilience" | 17.11.2020 | Dragon "Resilience" | xx.05.2021 |
+| Shannon Walker    | NASA | Dragon "Resilience" | 17.11.2020 | Dragon "Resilience" | xx.05.2021 |
+| Oleg Novitsky     | RSA  | Soyuz MS-18         | 09.04.2021 | Soyuz MS-18         | 13.10.2021 |
+| Piotr Dubrov      | RSA  | Soyuz MS-18         | 09.04.2021 | Soyuz MS-19         | 28.03.2022 |
+| Mark T. Vande Hei | NASA | Soyuz MS-18         | 09.04.2021 | Soyuz MS-19         | 28.03.2022 |
 
 
 ## Câte vehicule sunt în prezent andocate la ISS? {#câte-vehicule-sunt-în-prezent-andocate-la-iss}
@@ -35,7 +32,6 @@ Construcția ISS a însemnat asamblare pe orbită a [modulelor componente](<http
 |---------------------|------------|--------------|-------------|------------|------------|------------|
 | Progress MS-14      | 25.04.2020 | Soyuz-2.1a   | Zvezda      | 25.04.2020 | 30.04.2021 | NU         |
 | Progress MS-16      | 15.02.2021 | Soyuz-2.1    | Pirs        | 17.02.2021 | xx.07.2021 | NU         |
-| Soyuz MS-17         | 14.10.2020 | Soyuz-2.1a   | Rassvet     | 14.10.2020 | 17.04.2021 | DA         |
 | Dragon "Resilience" | 16.11.2020 | Falcon 9     | Harmony/IDA | 17.11.2020 | 28.04.2021 | DA         |
 | Cygnus NG-15        | 20.02.2021 | Antares-230+ | Unity       | 22.02.2021 | xx.05.2021 | NU         |
 | Soyuz MS-18         | 09.04.2021 | Soyuz-2.1a   | Rassvet     | 09.04.2021 | 13.10.2021 | DA         |

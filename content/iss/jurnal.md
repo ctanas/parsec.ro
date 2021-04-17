@@ -4,6 +4,9 @@ author = ["Claudiu"]
 draft = false
 +++
 
+17.04.2021
+: Soyuz MS-17 (Ryzhikov, Kud-Sverchkov, Rubins) se desprinde de modulul _Poisk_ și revine cu bine pe Pământ;
+
 16.04.2021
 : Începe **Expediția 65**;
 
@@ -16,7 +19,7 @@ draft = false
 : Capsula Dragon "Resilience" se decuplează de portul IDA-2 și reandochează după 45 minute la IDA-3, la același modul _Harmony_;
 
 19.03.2021
-: Soyuz MS-17 s-a decuplat de Rassvet și a andocat la _Poisk_;
+: Soyuz MS-17 s-a decuplat de _Rassvet_ și a andocat la _Poisk_;
 
 13.03.2021
 : EVA-237 (6 ore, 47 minute): Hopkins și Glover, activarea și instalarea platformei europene Bartolomeo;
