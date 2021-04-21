@@ -45,6 +45,11 @@ Ye Guangfu (primul zbor)
 ## Tianzhou-5 (octobrie 2022) {#tianzhou-5--octobrie-2022}
 
 
-## Shenzhou 15: (noiembrie 2022) {#shenzhou-15--noiembrie-2022}
+## Shenzhou 15 (noiembrie 2022) {#shenzhou-15--noiembrie-2022}
 
 Echipajul  va prelua comanda stației spațiale de la echipajul Shanzhou-14.
+
+
+## Telescopul spațial al stației spațiale chineze --CSST (2025) {#telescopul-spațial-al-stației-spațiale-chineze-csst--2025}
+
+CSST va fi un telescop cu un diametru al oglinzii principale de 2 metri (pentru observații în domeniul vizibil și NUV) și va fi plasat în vecinătatea Stației Spațiale Chineze, cu care va putea andoca, pentru operațiuni de service și upgrade (telescopul este unul modular, ceea ce îl va face ușor de upgradat).

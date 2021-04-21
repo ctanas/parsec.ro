@@ -17,10 +17,10 @@ Construcția ISS a însemnat asamblare pe orbită a [modulelor componente](<http
 
 | Nume              | Agn  | Sosire              | Data       | Plecare             | Data       |
 |-------------------|------|---------------------|------------|---------------------|------------|
-| Mike Hopkins      | NASA | Dragon "Resilience" | 17.11.2020 | Dragon "Resilience" | xx.05.2021 |
-| Victor Glover     | NASA | Dragon "Resilience" | 17.11.2020 | Dragon "Resilience" | xx.05.2021 |
-| Soichi Noguchi    | JAXA | Dragon "Resilience" | 17.11.2020 | Dragon "Resilience" | xx.05.2021 |
-| Shannon Walker    | NASA | Dragon "Resilience" | 17.11.2020 | Dragon "Resilience" | xx.05.2021 |
+| Mike Hopkins      | NASA | Dragon "Resilience" | 17.11.2020 | Dragon "Resilience" | 29.04.2021 |
+| Victor Glover     | NASA | Dragon "Resilience" | 17.11.2020 | Dragon "Resilience" | 29.04.2021 |
+| Soichi Noguchi    | JAXA | Dragon "Resilience" | 17.11.2020 | Dragon "Resilience" | 29.04.2021 |
+| Shannon Walker    | NASA | Dragon "Resilience" | 17.11.2020 | Dragon "Resilience" | 29.04.2021 |
 | Oleg Novitsky     | RSA  | Soyuz MS-18         | 09.04.2021 | Soyuz MS-18         | 13.10.2021 |
 | Piotr Dubrov      | RSA  | Soyuz MS-18         | 09.04.2021 | Soyuz MS-19         | 28.03.2022 |
 | Mark T. Vande Hei | NASA | Soyuz MS-18         | 09.04.2021 | Soyuz MS-19         | 28.03.2022 |

@@ -202,10 +202,10 @@ Construcția ISS a însemnat asamblare pe orbită a [modulelor componente](https
 
 | Nume                 | Agn  | Sosire              |       Data | Plecare             | Data       |
 |----------------------+------+---------------------+------------+---------------------+------------|
-| Mike Hopkins         | NASA | Dragon "Resilience" | 17.11.2020 | Dragon "Resilience" | xx.05.2021 |
-| Victor Glover        | NASA | Dragon "Resilience" | 17.11.2020 | Dragon "Resilience" | xx.05.2021 |
-| Soichi Noguchi       | JAXA | Dragon "Resilience" | 17.11.2020 | Dragon "Resilience" | xx.05.2021 |
-| Shannon Walker       | NASA | Dragon "Resilience" | 17.11.2020 | Dragon "Resilience" | xx.05.2021 |
+| Mike Hopkins         | NASA | Dragon "Resilience" | 17.11.2020 | Dragon "Resilience" | 29.04.2021 |
+| Victor Glover        | NASA | Dragon "Resilience" | 17.11.2020 | Dragon "Resilience" | 29.04.2021 |
+| Soichi Noguchi       | JAXA | Dragon "Resilience" | 17.11.2020 | Dragon "Resilience" | 29.04.2021 |
+| Shannon Walker       | NASA | Dragon "Resilience" | 17.11.2020 | Dragon "Resilience" | 29.04.2021 |
 |----------------------+------+---------------------+------------+---------------------+------------|
 | Oleg Novitsky        | RSA  | Soyuz MS-18         | 09.04.2021 | Soyuz MS-18         | 13.10.2021 |
 | Piotr Dubrov         | RSA  | Soyuz MS-18         | 09.04.2021 | Soyuz MS-19         | 28.03.2022 |
@@ -410,7 +410,7 @@ Boeing a anunțat că misiunea OFT va fi repetată[fn:reoft1], nu mai devreme de
 
 Misiunea, programată inițial pentru 27 mai, a fost amânată 3 zile din cauza condițiilor meteo nefavorabile.
 
-*** SpaceX USCV-1 (16 noiembrie 2020 -- 28 aprilie 2021)
+*** SpaceX USCV-1 (16 noiembrie 2020 -- 29 aprilie 2021)
 /US Crew Vehicle 1/ (Dragon2 C207 "Resilience")
 
 - *Victor Glover* (primul zbor spațial) --NASA
@@ -418,7 +418,7 @@ Misiunea, programată inițial pentru 27 mai, a fost amânată 3 zile din cauza 
 - *Shannon Walker* (Soyuz TMA-19, 163 zile ISS)  --NASA
 - *Soichi Noguchi* (Discovery STS-114, Soyuz TMA-17, 177 zile ISS) --JAXA
 
-*** SpaceX USCV-2 (22 aprilie 2020 +6 luni)
+*** SpaceX USCV-2 (23 aprilie 2020 +6 luni)
 /US Crew Vehicle 2/ (Dragon C206 "Endeavour")
 
 - *Shane Kimbrough* (Endeavour STS-126, Soyuz MS-02) --NASA
@@ -426,11 +426,11 @@ Misiunea, programată inițial pentru 27 mai, a fost amânată 3 zile din cauza 
 - *Akihiko Hoshide* (Discovery STS-124, Soyuz TMA-05M) --JAXA
 - *Thomas Pesquet* (Soyuz MS-03) --ESA
 
-*** Boeing OFT-2 (august 2021) 
+*** Boeing OFT-2 (septembrie 2021) 
 /Orbital Flight Test 2/
 - fără echipaj
 
-*** Boeing CFT (februarie 2022)
+*** Boeing CFT (martie 2022)
 /Crew Flight Test/ ("Calypso")
 
 - *Michael Fincke* (Soyuz TMA-4, Soyuz TMA-13, Endeavour STS-134)
@@ -1937,8 +1937,11 @@ Ye Guangfu (primul zbor)
 
 *** Tianzhou-5 (octobrie 2022)
 
-*** Shenzhou 15: (noiembrie 2022)
+*** Shenzhou 15 (noiembrie 2022)
 Echipajul  va prelua comanda stației spațiale de la echipajul Shanzhou-14.
+
+*** Telescopul spațial al stației spațiale chineze --CSST (2025)
+CSST va fi un telescop cu un diametru al oglinzii principale de 2 metri (pentru observații în domeniul vizibil și NUV) și va fi plasat în vecinătatea Stației Spațiale Chineze, cu care va putea andoca, pentru operațiuni de service și upgrade (telescopul este unul modular, ceea ce îl va face ușor de upgradat).
 
 ** Calendar Cosmic
 :PROPERTIES:

@@ -35,7 +35,7 @@ _Demo Mission 2_ (Dragon2 C206 "Endeavour")
 Misiunea, programată inițial pentru 27 mai, a fost amânată 3 zile din cauza condițiilor meteo nefavorabile.
 
 
-## SpaceX USCV-1 (16 noiembrie 2020 -- 28 aprilie 2021) {#spacex-uscv-1--16-noiembrie-2020-28-aprilie-2021}
+## SpaceX USCV-1 (16 noiembrie 2020 -- 29 aprilie 2021) {#spacex-uscv-1--16-noiembrie-2020-29-aprilie-2021}
 
 _US Crew Vehicle 1_ (Dragon2 C207 "Resilience")
 
@@ -45,7 +45,7 @@ _US Crew Vehicle 1_ (Dragon2 C207 "Resilience")
 -   **Soichi Noguchi** (Discovery STS-114, Soyuz TMA-17, 177 zile ISS) --JAXA
 
 
-## SpaceX USCV-2 (22 aprilie 2020 +6 luni) {#spacex-uscv-2--22-aprilie-2020-plus-6-luni}
+## SpaceX USCV-2 (23 aprilie 2020 +6 luni) {#spacex-uscv-2--23-aprilie-2020-plus-6-luni}
 
 _US Crew Vehicle 2_ (Dragon C206 "Endeavour")
 
@@ -55,14 +55,14 @@ _US Crew Vehicle 2_ (Dragon C206 "Endeavour")
 -   **Thomas Pesquet** (Soyuz MS-03) --ESA
 
 
-## Boeing OFT-2 (august 2021) {#boeing-oft-2--august-2021}
+## Boeing OFT-2 (septembrie 2021) {#boeing-oft-2--septembrie-2021}
 
 _Orbital Flight Test 2_
 
 -   fără echipaj
 
 
-## Boeing CFT (februarie 2022) {#boeing-cft--februarie-2022}
+## Boeing CFT (martie 2022) {#boeing-cft--martie-2022}
 
 _Crew Flight Test_ ("Calypso")
 
