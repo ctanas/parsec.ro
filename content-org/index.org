@@ -198,7 +198,7 @@ Construcția ISS a însemnat asamblare pe orbită a [modulelor componente](https
 
 *** Câți astronauți sunt acum pe orbită?
 
-În prezent sunt 7 astronauți la bordul Stației Spațiale Internaționale, parte a Expdiției 64:
+În prezent sunt 11 astronauți la bordul Stației Spațiale Internaționale, parte a Expdiției 64:
 
 | Nume              | Agn  | Sosire              |       Data | Plecare             |       Data |
 |-------------------+------+---------------------+------------+---------------------+------------|
@@ -436,6 +436,14 @@ Misiunea, programată inițial pentru 27 mai, a fost amânată 3 zile din cauza 
 /Orbital Flight Test 2/
 - fără echipaj
 
+*** SpaceX USCV-3 (octombrie 2021 +6 luni)
+/US Crew Vehicle 3/
+
+- Raja Chari --NASA
+- Thomas Marshburn (Endeavour STS-127)  --NASA
+- Matthias Maurer --ESA
+- ??
+    
 *** Boeing CFT (martie 2022)
 /Crew Flight Test/ ("Calypso")
 

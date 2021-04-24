@@ -62,6 +62,16 @@ _Orbital Flight Test 2_
 -   fără echipaj
 
 
+## SpaceX USCV-3 (octombrie 2021 +6 luni) {#spacex-uscv-3--octombrie-2021-plus-6-luni}
+
+_US Crew Vehicle 3_
+
+-   Raja Chari --NASA
+-   Thomas Marshburn (Endeavour STS-127)  --NASA
+-   Matthias Maurer --ESA
+-   ??
+
+
 ## Boeing CFT (martie 2022) {#boeing-cft--martie-2022}
 
 _Crew Flight Test_ ("Calypso")
