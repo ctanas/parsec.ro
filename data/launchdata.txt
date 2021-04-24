@@ -6029,4 +6029,5 @@
 2021-025    2021-03-30 22:45   Chang Zheng 4C          4C-Y36               Gaofen-12-02                                   CN   Jiuquan      SLS-2      S 112
 2021-026    2021-04-07 16:34   Falcon 9                114/B1058            Starlink 1.0-L23                               US   CC           LC40       S 112
 2021-027    2021-04-08 23:01   Chang Zheng 4B          4B-Y49               Shiyan-6-03                                    CN   Taiyuan      SLC-40     S 112
-2021-028    2021-05-09 07:42   Soyuz-2.1a                                   Soyuz MS-18                                    RU   Baikonur     31/6       S 112
+2021-028    2021-04-09 07:42   Soyuz-2.1a                                   Soyuz MS-18                                    RU   Baikonur     31/6       S 112
+2021-029    2021-04-23 09:49   Falcon 9                115/B1061.2          USCV-2 / Dragon "Endeavour"                    US   KSC          LC39A      S 113

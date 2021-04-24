@@ -126,6 +126,7 @@ draft = false
 | 2021-03-14 | Falcon 9     | 112/B1051.9 | Starlink 1.0-L21                      | KSC        | LC39A | S |
 | 2021-03-24 | Falcon 9     | 113/B1060.6 | Starlink 1.0-L22                      | CC         | LC40  | S |
 | 2021-04-07 | Falcon 9     | 114/B1058   | Starlink 1.0-L23                      | CC         | LC40  | S |
+| 2021-04-23 | Falcon 9     | 115/B1061.2 | USCV-2 / Dragon "Endeavour"           | KSC        | LC39A | S |
 
 
 ## Lista treptelor primare Falcon 9 Block 5 inactive {#lista-treptelor-primare-falcon-9-block-5-inactive}
@@ -303,7 +304,7 @@ Recuperarea pe barja OCISLY după misiunea Starlink-8 nu a reușit.
 | Booster | Data       | Misiunea      | Recuperare | Racheta  |
 |---------|------------|---------------|------------|----------|
 | B1061.1 | 16.11.2020 | Dragon USCV-1 | JRI        | Falcon 9 |
-| B1061.2 | xx.04.2021 | Dragon USCV-2 | xxx        | Falcon 9 |
+| B1061.2 | 23.04.2021 | Dragon USCV-2 | OCISLY     | Falcon 9 |
 
 
 ### B1062 {#b1062}

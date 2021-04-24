@@ -1333,10 +1333,10 @@ Recuperarea pe barja OCISLY după misiunea Starlink-8 nu a reușit.
 
 **** B1061
 
-| Booster | Data       | Misiunea      | Recuperare | Racheta  |
+| Booster |       Data | Misiunea      | Recuperare | Racheta  |
 |---------+------------+---------------+------------+----------|
 | B1061.1 | 16.11.2020 | Dragon USCV-1 | JRI        | Falcon 9 |
-| B1061.2 | xx.04.2021 | Dragon USCV-2 | xxx        | Falcon 9 |
+| B1061.2 | 23.04.2021 | Dragon USCV-2 | OCISLY     | Falcon 9 |
 
 **** B1062
 
@@ -5456,10 +5456,10 @@ SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD
 :END:
 
 
-** Buletin Cosmic nr. 113 :mev2:soyuz:
+** Buletin Cosmic nr. 113 :mev2:soyuz:crew2:spacex:dragon:
 :PROPERTIES:
 :EXPORT_FILE_NAME: 113
-:EXPORT_DATE: 2021-04-18
+:EXPORT_DATE: 2021-04-24
 :END:
 
 MEV-2 a andocat luni, 12 aprilie, cu satelitul Intelsat 10-02! Este pentru a doua oară când un satelit MEV al Northrop Grumman se cuplează cu un satelit de telecomunicații aflat pe orbită geostaționară și pentru prima dată când acest lucru se întâmplă cu un satelit activ[fn::https://news.northropgrumman.com/news/releases/northrop-grumman-and-intelsat-make-history-with-docking-of-second-mission-extension-vehicle-to-extend-life-of-satellite]. Anul trecut, MEV-1 a andocat cu Intelsat 901, satelit inactiv, care astfel a redevenit funcțional[fn::https://www.intelsat.com/global-network/satellite-network/launches/intelsat-901/]. MEV-2 (Mission Extension Vehicle 2) a fost lansat în 15 august 2020 de o rachetă europeană Ariane-5 și în ultimele luni a efectuat mai multe manevre în jurul satelitului Intelsat 10-02. Intelsat 10-02 a fost lansat în 2004 și deja depășise cei 15 ani de activitate care au fost planificați inițial. Acum satelitul are combustibil și practic un nou motor pentru o nouă viață, iar costul MEV-2 este mai scăzut decât costul unui satelit de telecomunicații nou.
@@ -5471,6 +5471,22 @@ Ingenuity are nevoie de un update al softului de bord[fn::https://mars.nasa.gov/
 ---
 
 După doar 2 orbite și aproximativ 3 ore după lansare, capsula Soyuz MS-18 andocat vineri, 9 aprilie, la portul Rassvet al Stației Spațiale Internaționale, la ora 14:05 ora României[fn::https://blogs.nasa.gov/spacestation/2021/04/09/soyuz-crew-ship-docks-to-station-with-expedition-65-trio/]. Astfel, Oleg Novitski (RSA), Pyotr Dubrov (RSA) și Mark Vande Hei (NASA) au ajuns pe ISS. La bordul stației se află 10 persoane (5 americani, 4 ruși, 1 japonez), cu doar 3 mai puțini decât recordul de 13 astronauți prezenți pe ISS, număr atins de 3 ori până acum, pe durata misiunilor STS-127, STS-128 și STS-131.
+
+---
+
+SpaceX a câștigat competiția organizată de NASA pentru un lander lunar pentru viitorii astronauți din cadrul programului Artemis! NASA a ales soluția SpaceX (Starship) în detrimentul propunerilor ceva mai tradiționale din partea National Team (Blue Origin, Lockheed Martin, Northrop Grumman, Draper) sau Dynetics / Sierra Nevada. Astfel, SpaceX va primi 2.9 miliarde de dolari pentru a transporta astronauții americani pe suprafața Lunii (soluția oferită de SpaceX a fost și cea mai ieftină dintre cele trei propuneri).
+
+---
+
+Rusia va face o inspecție tehnică a modulelor proprii din cadrul Stației Spațiale Internaționale, pentru a decide dacă se poate retrage din proiect în 2025, pentru a forma o stație spațială proprie (Russian Orbital Space Station —ROSS). Vicepremierul Iuri Borisov declară că vârsta modulelor ISS pune în pericol viața cosmonauților de la bord, deci e nevoie de o nouă stație spațială, iar directorul Roscosmos, Dimitri Rogozin, spune că noul modul NEM (care inițial urma să fie atașat la ISS), va fi lansat în 2025 și va deveni nucleul în jurul căruia se va construi viitoarea stație spațială rusă.
+
+---
+
+Primul zbor al elicopterului marțian Ingenuity a avut loc luni, 19 aprilie, și a durat 39 de secunde. Acesta s-a ridicat de la sol până la o înălțime de 3 metri, după care a revenit înapoi. NASA pregătește și alte zboruri, mult mai îndrăznește, pentru următoarele 2 săptămâni.
+
+---
+
+Racheta Falcon 9 a lansat vineri, 23 aprilie, ora 12:49, capsula Dragon "Endeavour" spre Stația Spațială Internațională, avându-i la bord pe Shane Kimbrough (NASA), Megan McArthur (NASA), Akihiko Hoshide (JAXA), Thomas Pesquet (ESA). Andocare a avut loc o zi mai târziu, după deschiderea sasului pe ISS fiind prezente 11 astronauți. A fost prima dată când o rachetă Falcon 9 refolosită a fost folosită pentru o lansare a unui echipaj pe orbită și, în același timp, și capsula Dragon "Endeavour" s-a aflat la cel de-al doilea zbor, după SpaceX DM-1. Mai mult, Meghan McArthur este soția lui Bob Behnken, unul dintre cei doi astronauți din misiunea DM-1.
 
 ** Buletin Cosmic nr. 112 :dreamchaser:ingenuity:dragon:oneweb:spacex: 
 :PROPERTIES:

@@ -68,7 +68,7 @@ Lista tuturor lansatoarelor orbitale active folosite în prezent, împreună cu 
 | 58  | Electron           | US   | 19        | 17      | 2       | 2017-05-25 | 2021-03-22 |
 | 59  | Epsilon            | JP   | 4         | 4       | 0       | 2013-09-14 | 2019-01-18 |
 | 60  | Falcon 1           | US   | 5         | 2       | 3       | 2006-03-24 | 2009-07-14 |
-| 61  | Falcon 9           | US   | 112       | 111     | 1       | 2010-06-04 | 2021-04-07 |
+| 61  | Falcon 9           | US   | 113       | 112     | 1       | 2010-06-04 | 2021-04-23 |
 | 62  | Falcon Heavy       | US   | 3         | 3       | 0       | 2018-02-06 | 2019-06-25 |
 | 63  | GSLV Mk I          | IN   | 6         | 4       | 2       | 2001-04-18 | 2010-12-25 |
 | 64  | GSLV Mk II         | IN   | 7         | 6       | 1       | 2010-04-15 | 2018-12-19 |
@@ -101,7 +101,7 @@ Lista tuturor lansatoarelor orbitale active folosite în prezent, împreună cu 
 | 91  | Shuang Quxian 1    | CN   | 2         | 1       | 1       | 2019-07-25 | 2021-02-01 |
 | 92  | Simorgh            | IR   | 3         | 0       | 3       | 2017-07-27 | 2020-02-09 |
 | 93  | Soyuz-2-1V         | RU   | 6         | 6       | 0       | 2013-12-28 | 2019-11-25 |
-| 94  | Soyuz-2.1a         | RU   | 42        | 42      | 0       | 2006-10-19 | 2021-05-09 |
+| 94  | Soyuz-2.1a         | RU   | 42        | 42      | 0       | 2006-10-19 | 2021-04-09 |
 | 95  | Soyuz-2.1a         | EU   | 1         | 1       | 0       | 2020-12-02 | 2020-12-02 |
 | 96  | Soyuz-2.1b         | EU   | 2         | 2       | 0       | 2020-12-18 | 2021-03-25 |
 | 97  | Soyuz-2.1b         | RU   | 43        | 41      | 2       | 2006-12-27 | 2021-03-22 |
