@@ -18,3 +18,4 @@ draft = false
 | 2018-08-12 | Delta 4H/Star 48BV | D4-37/D380 | Parker Solar Probe / Solar Probe Plus      | CC         | SLC37B | S |
 | 2019-01-19 | Delta 4H           | D4-38/D382 | USA 290 / Improved CRYSTAL?                | Vandenberg | SLC6   | S |
 | 2020-12-11 | Delta 4H           | D-385      | NROL-44 / USA-311                          | CC         | SLC37B | S |
+| 2021-04-26 | Delta 4H           | D-386      | NROL-82                                    | Vandenberg | SLC6   | S |
