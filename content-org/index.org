@@ -1330,6 +1330,7 @@ Recuperarea pe barja OCISLY după misiunea Starlink-8 nu a reușit.
 | B1060.4 | 08.01.2021 | Turksat-5A  | JRI        | Falcon 9 |
 | B1060.5 | 04.02.2021 | Starlink-18 | OCISLY     | Falcon 9 |
 | B1060.6 | 24.03.2021 | Starlink-22 | OCISLY     | Falcon 9 |
+| B1060.7 | 29.04.2021 | Starlink-24 | JRI        | Falcon 9 |
 
 **** B1061
 
