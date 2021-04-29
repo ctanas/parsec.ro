@@ -14,18 +14,18 @@ Siteul de față reprezintă o colecție personală de materiale, articole și n
 
 ## Ultimele lansări orbitale {#ultimele-lansări-orbitale}
 
-| Data        | Lansator   | Serie       | Satelit                        | T  | Centru     | Rampă  | R. | Bul             |
-|-------------|------------|-------------|--------------------------------|----|------------|--------|----|-----------------|
-| 27.04 03:20 | CZ-6       | Y5          | Qilu                           | CN | Taiyuan    | LC16   | S  | [113](/bul/113) |
-| 26.04 20:47 | Delta 4H   | D-386       | NROL-82                        | US | Vandenberg | SLC6   | S  | [113](/bul/113) |
-| 23.04 09:49 | Falcon 9   | 115/B1061.2 | USCV-2 / Dragon "Endeavour"    | US | KSC        | LC39A  | S  | [113](/bul/113) |
-| 09.04 07:42 | Soyuz-2.1a |             | Soyuz MS-18                    | RU | Baikonur   | 31/6   | S  | [112](/bul/112) |
-| 08.04 23:01 | CZ-4B      | 4B-Y49      | Shiyan-6-03                    | CN | Taiyuan    | SLC-40 | S  | [112](/bul/112) |
-| 07.04 16:34 | Falcon 9   | 114/B1058   | Starlink 1.0-L23               | US | CC         | LC40   | S  | [112](/bul/112) |
-| 30.03 22:45 | CZ-4C      | 4C-Y36      | Gaofen-12-02                   | CN | Jiuquan    | SLS-2  | S  | [112](/bul/112) |
-| 25.03 04:01 | Soyuz-2.1b | ST30        | OneWeb                         | EU | Vostochny  | 1S     | S  | [111](/bul/111) |
-| 24.03 08:28 | Falcon 9   | 113/B1060.6 | Starlink 1.0-L22               | US | CC         | LC40   | S  | [111](/bul/111) |
-| 22.03 22:30 | Electron   | 19          | Pathstone / They go up so fast | US | Mahia      | LC1    | S  | [111](/bul/111) |
+| Data        | Lansator   | Serie       | Satelit                     | T  | Centru     | Rampă  | R. | Bul             |
+|-------------|------------|-------------|-----------------------------|----|------------|--------|----|-----------------|
+| 29.04 03:44 | Falcon 9   | 116/B1060.7 | Starlink 1.0-L24            | US | CC         | LC40   | S  | [113](/bul/113) |
+| 29.04 03:23 | CZ-5B      | 5B-Y2       | Tianhe                      | CN | Wenchang   | LC1    | S  | [113](/bul/113) |
+| 29.04 01:50 | Vega       | VV18        | Pleiades                    | EU | Kourou     | ELV    | S  | [113](/bul/113) |
+| 27.04 03:20 | CZ-6       | Y5          | Qilu                        | CN | Taiyuan    | LC16   | S  | [113](/bul/113) |
+| 26.04 20:47 | Delta 4H   | D-386       | NROL-82                     | US | Vandenberg | SLC6   | S  | [113](/bul/113) |
+| 23.04 09:49 | Falcon 9   | 115/B1061.2 | USCV-2 / Dragon "Endeavour" | US | KSC        | LC39A  | S  | [113](/bul/113) |
+| 09.04 07:42 | Soyuz-2.1a |             | Soyuz MS-18                 | RU | Baikonur   | 31/6   | S  | [112](/bul/112) |
+| 08.04 23:01 | CZ-4B      | 4B-Y49      | Shiyan-6-03                 | CN | Taiyuan    | SLC-40 | S  | [112](/bul/112) |
+| 07.04 16:34 | Falcon 9   | 114/B1058   | Starlink 1.0-L23            | US | CC         | LC40   | S  | [112](/bul/112) |
+| 30.03 22:45 | CZ-4C      | 4C-Y36      | Gaofen-12-02                | CN | Jiuquan    | SLS-2  | S  | [112](/bul/112) |
 
 Detalii cu privire la informațiile din tabel, pot fi găsite în secțiunea [Legendă tabele](/t/legenda_tabele). Data și ora sunt UTC.
 

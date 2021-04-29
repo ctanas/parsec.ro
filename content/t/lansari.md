@@ -6,7 +6,7 @@ draft = false
 
 Scopul acestei pagini este afișarea lansărilor (și a tentativelor de lansări) orbitale din fiecare an calendaristic, într-un tabel cât mai concis.
 
-Din 1957 și până în prezent, au avut loc `6035` tentative de lansări orbitale: `5674` au fost lansări care s-au încheiat cu succes (încărcătura primară a ajuns pe orbită), în timp ce `360` lansări s-au încheiat cu un eșec.
+Din 1957 și până în prezent, au avut loc `6038` tentative de lansări orbitale: `5677` au fost lansări care s-au încheiat cu succes (încărcătura primară a ajuns pe orbită), în timp ce `360` lansări s-au încheiat cu un eșec.
 
 Tabele anuale cu lansări orbitale:
 
@@ -29,10 +29,10 @@ Un clasament general al lansărilor orbitale, începând cu 1957, în funcție d
 | Țara | Tentative | Lansări | Eșecuri |
 |------|-----------|---------|---------|
 | SU   | 2383      | 2256    | 127     |
-| US   | 1788      | 1655    | 133     |
+| US   | 1789      | 1656    | 133     |
 | RU   | 925       | 894     | 31      |
-| CN   | 395       | 373     | 21      |
-| EU   | 312       | 296     | 16      |
+| CN   | 396       | 374     | 21      |
+| EU   | 313       | 297     | 16      |
 | JP   | 122       | 113     | 9       |
 | IN   | 77        | 70      | 7       |
 | IR   | 12        | 5       | 7       |
