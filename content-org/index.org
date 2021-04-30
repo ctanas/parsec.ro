@@ -5460,15 +5460,14 @@ SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD
 ** Buletin Cosmic nr. 113 :mev2:soyuz:crew2:spacex:dragon:
 :PROPERTIES:
 :EXPORT_FILE_NAME: 113
-:EXPORT_DATE: 2021-04-24
+:EXPORT_DATE: 2021-04-30
 :END:
 
 MEV-2 a andocat luni, 12 aprilie, cu satelitul Intelsat 10-02! Este pentru a doua oară când un satelit MEV al Northrop Grumman se cuplează cu un satelit de telecomunicații aflat pe orbită geostaționară și pentru prima dată când acest lucru se întâmplă cu un satelit activ[fn::https://news.northropgrumman.com/news/releases/northrop-grumman-and-intelsat-make-history-with-docking-of-second-mission-extension-vehicle-to-extend-life-of-satellite]. Anul trecut, MEV-1 a andocat cu Intelsat 901, satelit inactiv, care astfel a redevenit funcțional[fn::https://www.intelsat.com/global-network/satellite-network/launches/intelsat-901/]. MEV-2 (Mission Extension Vehicle 2) a fost lansat în 15 august 2020 de o rachetă europeană Ariane-5 și în ultimele luni a efectuat mai multe manevre în jurul satelitului Intelsat 10-02. Intelsat 10-02 a fost lansat în 2004 și deja depășise cei 15 ani de activitate care au fost planificați inițial. Acum satelitul are combustibil și practic un nou motor pentru o nouă viață, iar costul MEV-2 este mai scăzut decât costul unui satelit de telecomunicații nou.
 
 ---
 
-Ingenuity are nevoie de un update al softului de bord[fn::https://mars.nasa.gov/technology/helicopter/status/291/mars-helicopter-flight-delayed-to-no-earlier-than-april-14/]. JPL a dezvoltat deja o soluție pentru problema întâmpinată în ultimele teste, dar validarea update-ului, trimiterea lui și încărcarea la bordul elicopterului marțian va mai dura câteva zile. O nouă estimare a unei date pentru primul zbor al lui Ingenuity vom avea săptămâna viitoare. În afară de asta, elicopterul este într-o stare bună.
-
+Ingenuity a avut nevoie de un update al softului de bord[fn::https://mars.nasa.gov/technology/helicopter/status/291/mars-helicopter-flight-delayed-to-no-earlier-than-april-14/] înainte de primul zbor. JPL a dezvoltat deja o soluție pentru problema întâmpinată, iar validarea update-ului, trimiterea lui și încărcarea la bordul elicopterului marțian a mai întârziat cu câteva zile zborul. Primul zbor a avut loc în 19 aprilie (39.1 secunde), urmat de alte două zboruri, în 22 aprilie (51.9 secunde) și 25 aprilie (80 secunde). JPL mai are programate două zboruri pentru elicopterul marțian, după care Perseverance își va continua misiunea și îl va lăsa pe Ingenuity în urmă.
 ---
 
 După doar 2 orbite și aproximativ 3 ore după lansare, capsula Soyuz MS-18 andocat vineri, 9 aprilie, la portul Rassvet al Stației Spațiale Internaționale, la ora 14:05 ora României[fn::https://blogs.nasa.gov/spacestation/2021/04/09/soyuz-crew-ship-docks-to-station-with-expedition-65-trio/]. Astfel, Oleg Novitski (RSA), Pyotr Dubrov (RSA) și Mark Vande Hei (NASA) au ajuns pe ISS. La bordul stației se află 10 persoane (5 americani, 4 ruși, 1 japonez), cu doar 3 mai puțini decât recordul de 13 astronauți prezenți pe ISS, număr atins de 3 ori până acum, pe durata misiunilor STS-127, STS-128 și STS-131.
@@ -5483,11 +5482,27 @@ Rusia va face o inspecție tehnică a modulelor proprii din cadrul Stației Spa�
 
 ---
 
-Primul zbor al elicopterului marțian Ingenuity a avut loc luni, 19 aprilie, și a durat 39 de secunde. Acesta s-a ridicat de la sol până la o înălțime de 3 metri, după care a revenit înapoi. NASA pregătește și alte zboruri, mult mai îndrăznește, pentru următoarele 2 săptămâni.
+Racheta Falcon 9 a lansat vineri, 23 aprilie, ora 12:49, capsula Dragon "Endeavour" spre Stația Spațială Internațională, avându-i la bord pe Shane Kimbrough (NASA), Megan McArthur (NASA), Akihiko Hoshide (JAXA), Thomas Pesquet (ESA). Andocare a avut loc o zi mai târziu, după deschiderea sasului pe ISS fiind prezente 11 astronauți. A fost prima dată când o rachetă Falcon 9 refolosită a fost folosită pentru o lansare a unui echipaj pe orbită și, în același timp, și capsula Dragon "Endeavour" s-a aflat la cel de-al doilea zbor, după SpaceX DM-1. Mai mult, Meghan McArthur este soția lui Bob Behnken, unul dintre cei doi astronauți din misiunea DM-1.
 
 ---
 
-Racheta Falcon 9 a lansat vineri, 23 aprilie, ora 12:49, capsula Dragon "Endeavour" spre Stația Spațială Internațională, avându-i la bord pe Shane Kimbrough (NASA), Megan McArthur (NASA), Akihiko Hoshide (JAXA), Thomas Pesquet (ESA). Andocare a avut loc o zi mai târziu, după deschiderea sasului pe ISS fiind prezente 11 astronauți. A fost prima dată când o rachetă Falcon 9 refolosită a fost folosită pentru o lansare a unui echipaj pe orbită și, în același timp, și capsula Dragon "Endeavour" s-a aflat la cel de-al doilea zbor, după SpaceX DM-1. Mai mult, Meghan McArthur este soția lui Bob Behnken, unul dintre cei doi astronauți din misiunea DM-1.
+În 27 aprilie, la ora 06:20, o rachetă Changzheng-6  a lansat 9 sateliți comerciali, de mici dimensiuni, pe orbită heliosincronă, de la centrul spațial Taiyuan. Changzheng-6 este o rachetă de calibru ușor, cu combustibil lichid, capabilă să lanseze aproximativ 1 tonă pe orbită heliosincronă, la 700 km altitudine. A fost al 5-lea zbor al acestei rachete (de la inaugurarea din 2015) și prima astfel de lansare din acest an. Toate cele 5 lansări de până acum s-au desfășurat fără incidente.
+
+---
+
+După ce 2 din ultimele 3 lansări s-au soldat cu un eșec pentru lansatorul european de calibru ușor, joi, la ora 04:50, de la centrul spațial Kourou din Guiana Franceză, o rachetă Vega urcat pe orbită heliosincronă 6 sateliți de mici dimensiuni (în total, cântărind sub 1 tonă), de această dată lansarea fiind un succes pentru Arianespace;
+
+---
+
+Și tot joi, racheta Changzheng-5B a lansat pe orbită primul modul (Tianhe) al Stației Spațiale Chineze (CSS); lansarea a avut loc la ora 06:23 de la centrul spațial Wenchang și a fost un succes: Tianhe, cu o masă de 22 de tone, a ajuns pe orbita planificată și panourile solare au fost activate;
+
+---
+
+La doar câteva minute după lansarea din China, la ora 06:44, o rachetă Falcon-9 a lansat încă un set de 60 de sateliți Starlink de pe rampa SLC-40 de la Cape Canaveral; a fost al 7-lea zbor pentru treapta primară B1060, care a fost recuperată și de această dată pe barja Just Read the Instructions din Oceanul Atlantic.
+
+---
+
+United Launch Alliance a lansat în 26 aprilie, ora 23:47, satelitul NROL-82 (probabil KH-11-18, probabil pe orbită heliosincronă) pentru National Reconnaissance Office, de pe rampa SLC-6 de la baza aeriană Vandenberg, folosind o rachetă Delta IV Heavy.
 
 ** Buletin Cosmic nr. 112 :dreamchaser:ingenuity:dragon:oneweb:spacex: 
 :PROPERTIES:
