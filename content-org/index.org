@@ -5456,6 +5456,13 @@ SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD
 :EXPORT_HUGO_SECTION: bul
 :END:
 
+** Buletin Cosmic nr. 114 :cz4c:
+:PROPERTIES:
+:EXPORT_FILE_NAME: 114
+:EXPORT_DATE: 2021-05-01 
+:END:
+
+Vineri dimineața, la ora 11:27, de la centrul spațial Jiuquan, China a lansat un satelit militar, Yaogan-34[fn::http://www.xinhuanet.com/english/2021-04/30/c_139917151.htm], folosind o rachetă Changzheng-4C. Observațiile efectuate de satelit vor fi utile și pentru sectorul civil, în special pentru dezvoltarea proiectului /Belt and Road/. A fost prima lansare de la Jiuquan a unei rachete Changzheng-4C cu un con protector upgradat (diametru de 4 metri), astfel de lansări având de obicei loc până acum de la centrul spațial Taiyuan. Satelitul a ajuns pe o orbită terestră joasă, cu înclinație de 63 de grade (specifică sateliților Yaogan).
 
 ** Buletin Cosmic nr. 113 :mev2:soyuz:crew2:spacex:dragon:
 :PROPERTIES:
