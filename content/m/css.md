@@ -4,7 +4,7 @@ author = ["Claudiu"]
 draft = false
 +++
 
-Stația spațială chineză (CSS) va fi compusă din trei module principale permanente: **Tianhe** (2021), **Wentian** (2022) și **Mengtian** (2022), lansate cu racheta Changzheng-5B de la cetrul spațial Wenchang, cea mai puternică rachetă chineză, în varianta adaptată pentru zboruri spre orbita terestră joasă. CSS va orbita Pământul la o altitudine de 350-450 km și o înclinație orbitală de 42-43 grade.
+Stația spațială chineză (CSS) va fi compusă din trei module principale permanente: **Tianhe** (2021), **Wentian** (2022) și **Mengtian** (2022), lansate cu racheta Changzheng-5B de la cetrul spațial Wenchang, cea mai puternică rachetă chineză, în varianta adaptată pentru zboruri spre orbita terestră joasă. CSS va orbita Pământul la o altitudine de 360 km și o înclinație orbitală de 41.5 grade.
 
 Pentru provizii, se va folosi nava cargo Tianzhou, care după fiecare misiune va reveni distructiv prin atmosferă (nu este reutilizabilă). Lansările Tianzhou au loc cu racheta Changzheng-7, de la centrul spațial Wenchang.
 
@@ -12,6 +12,8 @@ Zborurile cu echipaj se efectuează cu racheta Changzheg-2F, de la centrul spaț
 
 
 ## Tianhe (29 aprilie 2021) --modul permanent {#tianhe--29-aprilie-2021--modul-permanent}
+
+Tianhe a fost lansat în 29 aprilie 2021 de o rachetă Changzheng-5B pe o orbită 352 x 385 km, înclinație 41.5 grade.
 
 
 ## Tianzhou-2 (20 mai 2021) {#tianzhou-2--20-mai-2021}
