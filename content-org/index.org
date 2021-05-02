@@ -198,14 +198,9 @@ Construcția ISS a însemnat asamblare pe orbită a [modulelor componente](https
 
 *** Câți astronauți sunt acum pe orbită?
 
-În prezent sunt 11 astronauți la bordul Stației Spațiale Internaționale, parte a Expdiției 64:
+În prezent sunt 7 astronauți la bordul Stației Spațiale Internaționale, parte a Expdiției 64:
 
 | Nume              | Agn  | Sosire              |       Data | Plecare             |       Data |
-|-------------------+------+---------------------+------------+---------------------+------------|
-| Mike Hopkins      | NASA | Dragon "Resilience" | 17.11.2020 | Dragon "Resilience" | 29.04.2021 |
-| Victor Glover     | NASA | Dragon "Resilience" | 17.11.2020 | Dragon "Resilience" | 29.04.2021 |
-| Soichi Noguchi    | JAXA | Dragon "Resilience" | 17.11.2020 | Dragon "Resilience" | 29.04.2021 |
-| Shannon Walker    | NASA | Dragon "Resilience" | 17.11.2020 | Dragon "Resilience" | 29.04.2021 |
 |-------------------+------+---------------------+------------+---------------------+------------|
 | Oleg Novitsky     | RSA  | Soyuz MS-18         | 09.04.2021 | Soyuz MS-18         | 13.10.2021 |
 | Piotr Dubrov      | RSA  | Soyuz MS-18         | 09.04.2021 | Soyuz MS-19         | 28.03.2022 |
@@ -222,7 +217,6 @@ Construcția ISS a însemnat asamblare pe orbită a [modulelor componente](https
 |---------------------+------------+--------------+---------+------------+------------+------------|
 | Progress MS-14      | 25.04.2020 | Soyuz-2.1a   | Zvezda  | 25.04.2020 | 30.04.2021 | NU         |
 | Progress MS-16      | 15.02.2021 | Soyuz-2.1    | Pirs    | 17.02.2021 | xx.07.2021 | NU         |
-| Dragon "Resilience" | 16.11.2020 | Falcon 9     | Harmony | 17.11.2020 | 28.04.2021 | DA         |
 | Cygnus NG-15        | 20.02.2021 | Antares-230+ | Unity   | 22.02.2021 | xx.05.2021 | NU         |
 | Soyuz MS-18         | 09.04.2021 | Soyuz-2.1a   | Rassvet | 09.04.2021 | 13.10.2021 | DA         |
 | Dragon "Endeavour"  | 23.04.2021 | Falcon 9     | Harmony | 24.04.2021 | xx.10.2021 | DA         |
@@ -233,12 +227,13 @@ Construcția ISS a însemnat asamblare pe orbită a [modulelor componente](https
 
 *** Poate fi văzută ISS cu ochiul liber?
 
-Da! Datorită panourilor solare de mari dimensiuni, ISS poate fi văzută cu ușurință pe boltă, când trece deasupra noastră. Ea poate fi cel mai strălucitor obiect de pe cer, după Soare și Lună. Există mai multe aplicații pentru orice smartphone care pot indica poziția ISS în timp real, dar și oportunitățile de observare deasupra unei anumite locații. Sau puteți intra pe site-ul [[https://www.heavens-above.com][Heavens Above]], setați locația, după care găsiți mai multe detalii cu privire la minutul și ora la care are loc următoarea trecere (magnitudinea aparentă mai mică înseamnă că ISS se va vedea mai clar pe cer, de exemplu o observație cu magnitudinea aparentă de -3.9 este de preferat unei observații cu magnitudinea aparentă de 1.4).
+    Da! Datorită panourilor solare de mari dimensiuni, ISS poate fi văzută cu ușurință pe boltă, când trece deasupra noastră. Ea poate fi cel mai strălucitor obiect de pe cer, după Soare și Lună. Există mai multe aplicații pentru orice smartphone care pot indica poziția ISS în timp real, dar și oportunitățile de observare deasupra unei anumite locații. Sau puteți intra pe site-ul [[https://www.heavens-above.com][Heavens Above]], setați locația, după care găsiți mai multe detalii cu privire la minutul și ora la care are loc următoarea trecere (magnitudinea aparentă mai mică înseamnă că ISS se va vedea mai clar pe cer, de exemplu o observație cu magnitudinea aparentă de -3.9 este de preferat unei observații cu magnitudinea aparentă de 1.4).
 ** Jurnal de activități
 :PROPERTIES:
 :EXPORT_FILE_NAME: jurnal
 :END:
 
+- 02.05.2021 :: Capsula Dragon "Resiliance" (Mike Hopkins, Victor Glover, Soichi Noguchi, Shannon Walker) revine cu bine pe Pământ;
 - 17.04.2021 :: Soyuz MS-17 (Ryzhikov, Kud-Sverchkov, Rubins) se desprinde de modulul /Poisk/ și revine cu bine pe Pământ;
 - 16.04.2021 :: Începe *Expediția 65*;
 

@@ -4,6 +4,9 @@ author = ["Claudiu"]
 draft = false
 +++
 
+02.05.2021
+: Capsula Dragon "Resiliance" (Mike Hopkins, Victor Glover, Soichi Noguchi, Shannon Walker) revine cu bine pe Pământ;
+
 17.04.2021
 : Soyuz MS-17 (Ryzhikov, Kud-Sverchkov, Rubins) se desprinde de modulul _Poisk_ și revine cu bine pe Pământ;
 
