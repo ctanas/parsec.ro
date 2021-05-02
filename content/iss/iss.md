@@ -28,16 +28,16 @@ Construcția ISS a însemnat asamblare pe orbită a [modulelor componente](<http
 
 ## Câte vehicule sunt în prezent andocate la ISS? {#câte-vehicule-sunt-în-prezent-andocate-la-iss}
 
-| Port          | Vehicul            | Lansare    | Rachetă      | Sosire     | Plecare    |
-|---------------|--------------------|------------|--------------|------------|------------|
-| Zvezda        | Progress MS-14     | 25.04.2020 | Soyuz-2.1a   | 25.04.2020 | 30.04.2021 |
-| Pirs          | Progress MS-16     | 15.02.2021 | Soyuz-2.1    | 17.02.2021 | xx.07.2021 |
-| Poisk         | -                  | -          | -            | -          | -          |
-| Rassvet       | Soyuz MS-18        | 09.04.2021 | Soyuz-2.1a   | 09.04.2021 | 13.10.2021 |
-| IDA-2/PMA-2   | Dragon "Endeavour" | 23.04.2021 | Falcon 9     | 24.04.2021 | xx.10.2021 |
-| IDA-3/PMA-3   | -                  | -          | -            | -          | -          |
-| Unity nadir   | Cygnus NG-15       | 20.02.2021 | Antares-230+ | 22.02.2021 | xx.05.2021 |
-| Harmony nadir | -                  | -          | -            | -          | -          |
+| Port            | Vehicul            | Lansare    | Rachetă      | Sosire     | Plecare    |
+|-----------------|--------------------|------------|--------------|------------|------------|
+| Zvezda          | Progress MS-14     | 25.04.2020 | Soyuz-2.1a   | 25.04.2020 | 30.04.2021 |
+| Pirs            | Progress MS-16     | 15.02.2021 | Soyuz-2.1    | 17.02.2021 | xx.07.2021 |
+| Poisk           | -                  | -          | -            | -          | -          |
+| Rassvet         | Soyuz MS-18        | 09.04.2021 | Soyuz-2.1a   | 09.04.2021 | 13.10.2021 |
+| IDA-2/PMA-2     | Dragon "Endeavour" | 23.04.2021 | Falcon 9     | 24.04.2021 | xx.10.2021 |
+| IDA-3/PMA-3     | -                  | -          | -            | -          | -          |
+| Unity _nadir_   | Cygnus NG-15       | 20.02.2021 | Antares-230+ | 22.02.2021 | xx.05.2021 |
+| Harmony _nadir_ | -                  | -          | -            | -          | -          |
 
 
 ## Câți astronauți sunt de obicei la bordul ISS? {#câți-astronauți-sunt-de-obicei-la-bordul-iss}
