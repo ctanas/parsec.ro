@@ -415,16 +415,16 @@ Boeing a anunțat că misiunea OFT va fi repetată[fn:reoft1], nu mai devreme de
 
 Misiunea, programată inițial pentru 27 mai, a fost amânată 3 zile din cauza condițiilor meteo nefavorabile.
 
-*** SpaceX USCV-1 (16 noiembrie 2020 -- 29 aprilie 2021)
-/US Crew Vehicle 1/ (Dragon2 C207 "Resilience")
+*** SpaceX Crew-1 (16 noiembrie 2020 -- 29 aprilie 2021)
+Dragon2 C207 "Resilience"
 
 - *Victor Glover* (primul zbor spațial) --NASA
 - *Mike Hopkins* (Soyuz TMA-10M, 166 zile ISS, 2 EVA) --NASA
 - *Shannon Walker* (Soyuz TMA-19, 163 zile ISS)  --NASA
 - *Soichi Noguchi* (Discovery STS-114, Soyuz TMA-17, 177 zile ISS) --JAXA
 
-*** SpaceX USCV-2 (23 aprilie 2020 +6 luni)
-/US Crew Vehicle 2/ (Dragon C206 "Endeavour")
+*** SpaceX Crew-2 (23 aprilie 2020 +6 luni)
+Dragon C206 "Endeavour"
 
 - *Shane Kimbrough* (Endeavour STS-126, Soyuz MS-02) --NASA
 - *Megan McArthur* (Atlantis STS-125) --NASA
@@ -435,13 +435,12 @@ Misiunea, programată inițial pentru 27 mai, a fost amânată 3 zile din cauza 
 /Orbital Flight Test 2/
 - fără echipaj
 
-*** SpaceX USCV-3 (octombrie 2021 +6 luni)
-/US Crew Vehicle 3/
+*** SpaceX Crew-3 (octombrie 2021 +6 luni)
 
 - Raja Chari --NASA
 - Thomas Marshburn (Endeavour STS-127)  --NASA
 - Matthias Maurer --ESA
-- ??
+- Kayla Barron --NASA
     
 *** Boeing CFT (martie 2022)
 /Crew Flight Test/ ("Calypso")
@@ -6394,6 +6393,7 @@ MEV-2 a andocat luni, 12 aprilie, cu satelitul Intelsat 10-02! Este pentru a dou
 ---
 
 Ingenuity a avut nevoie de un update al softului de bord[fn::https://mars.nasa.gov/technology/helicopter/status/291/mars-helicopter-flight-delayed-to-no-earlier-than-april-14/] înainte de primul zbor. JPL a dezvoltat deja o soluție pentru problema întâmpinată, iar validarea update-ului, trimiterea lui și încărcarea la bordul elicopterului marțian a mai întârziat cu câteva zile zborul. Primul zbor a avut loc în 19 aprilie (39.1 secunde), urmat de alte două zboruri, în 22 aprilie (51.9 secunde) și 25 aprilie (80 secunde). JPL mai are programate două zboruri pentru elicopterul marțian, după care Perseverance își va continua misiunea și îl va lăsa pe Ingenuity în urmă.
+
 ---
 
 După doar 2 orbite și aproximativ 3 ore după lansare, capsula Soyuz MS-18 andocat vineri, 9 aprilie, la portul Rassvet al Stației Spațiale Internaționale, la ora 14:05 ora României[fn::https://blogs.nasa.gov/spacestation/2021/04/09/soyuz-crew-ship-docks-to-station-with-expedition-65-trio/]. Astfel, Oleg Novitski (RSA), Pyotr Dubrov (RSA) și Mark Vande Hei (NASA) au ajuns pe ISS. La bordul stației se află 10 persoane (5 americani, 4 ruși, 1 japonez), cu doar 3 mai puțini decât recordul de 13 astronauți prezenți pe ISS, număr atins de 3 ori până acum, pe durata misiunilor STS-127, STS-128 și STS-131.

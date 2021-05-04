@@ -35,9 +35,9 @@ _Demo Mission 2_ (Dragon2 C206 "Endeavour")
 Misiunea, programată inițial pentru 27 mai, a fost amânată 3 zile din cauza condițiilor meteo nefavorabile.
 
 
-## SpaceX USCV-1 (16 noiembrie 2020 -- 29 aprilie 2021) {#spacex-uscv-1--16-noiembrie-2020-29-aprilie-2021}
+## SpaceX Crew-1 (16 noiembrie 2020 -- 29 aprilie 2021) {#spacex-crew-1--16-noiembrie-2020-29-aprilie-2021}
 
-_US Crew Vehicle 1_ (Dragon2 C207 "Resilience")
+Dragon2 C207 "Resilience"
 
 -   **Victor Glover** (primul zbor spațial) --NASA
 -   **Mike Hopkins** (Soyuz TMA-10M, 166 zile ISS, 2 EVA) --NASA
@@ -45,9 +45,9 @@ _US Crew Vehicle 1_ (Dragon2 C207 "Resilience")
 -   **Soichi Noguchi** (Discovery STS-114, Soyuz TMA-17, 177 zile ISS) --JAXA
 
 
-## SpaceX USCV-2 (23 aprilie 2020 +6 luni) {#spacex-uscv-2--23-aprilie-2020-plus-6-luni}
+## SpaceX Crew-2 (23 aprilie 2020 +6 luni) {#spacex-crew-2--23-aprilie-2020-plus-6-luni}
 
-_US Crew Vehicle 2_ (Dragon C206 "Endeavour")
+Dragon C206 "Endeavour"
 
 -   **Shane Kimbrough** (Endeavour STS-126, Soyuz MS-02) --NASA
 -   **Megan McArthur** (Atlantis STS-125) --NASA
@@ -62,14 +62,12 @@ _Orbital Flight Test 2_
 -   fără echipaj
 
 
-## SpaceX USCV-3 (octombrie 2021 +6 luni) {#spacex-uscv-3--octombrie-2021-plus-6-luni}
-
-_US Crew Vehicle 3_
+## SpaceX Crew-3 (octombrie 2021 +6 luni) {#spacex-crew-3--octombrie-2021-plus-6-luni}
 
 -   Raja Chari --NASA
 -   Thomas Marshburn (Endeavour STS-127)  --NASA
 -   Matthias Maurer --ESA
--   ??
+-   Kayla Barron --NASA
 
 
 ## Boeing CFT (martie 2022) {#boeing-cft--martie-2022}
