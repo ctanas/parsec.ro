@@ -125,6 +125,7 @@ draft = false
 | 2021-03-11 | Falcon 9     | 111/B1058.6 | Starlink 1.0-L20                      | CC         | LC40  | S |
 | 2021-03-14 | Falcon 9     | 112/B1051.9 | Starlink 1.0-L21                      | KSC        | LC39A | S |
 | 2021-03-24 | Falcon 9     | 113/B1060.6 | Starlink 1.0-L22                      | CC         | LC40  | S |
+| 2021-04-04 | Falcon 9     | 117/B1049.9 | Starlink 1.0-L25                      | KSC        | LC39A | S |
 | 2021-04-07 | Falcon 9     | 114/B1058   | Starlink 1.0-L23                      | CC         | LC40  | S |
 | 2021-04-23 | Falcon 9     | 115/B1061.2 | USCV-2 / Dragon "Endeavour"           | KSC        | LC39A | S |
 | 2021-04-29 | Falcon 9     | 116/B1060.7 | Starlink 1.0-L24                      | CC         | LC40  | S |
@@ -241,7 +242,8 @@ Recuperarea pe barja OCISLY după misiunea Starlink-8 nu a reușit.
 | B1049.5 | 04.06.2020 | Starlink-7     | JRTI       | Falcon 9 |
 | B1049.6 | 18.08.2020 | Starlink-10    | OCISLY     | Falcon 9 |
 | B1049.7 | 25.11.2020 | Starlink-15    | OCISLY     | Falcon 9 |
-| B1049.8 | 04.04.2021 | Starlink-17    | OCISLY     | Falcon 9 |
+| B1049.8 | 04.03.2021 | Starlink-17    | OCISLY     | Falcon 9 |
+| B1049.9 | 04.05.2021 | Starlink-25    | OCISLY     | Falcon 9 |
 
 
 ### B1051 {#b1051}
