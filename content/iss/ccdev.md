@@ -55,9 +55,9 @@ Dragon C206 "Endeavour"
 -   **Thomas Pesquet** (Soyuz MS-03) --ESA
 
 
-## Boeing OFT-2 (septembrie 2021) {#boeing-oft-2--septembrie-2021}
+## Boeing OFT-2 (iulie 2021) {#boeing-oft-2--iulie-2021}
 
-_Orbital Flight Test 2_
+_Orbital Flight Test 2_ (Spacecraft 3)
 
 -   fără echipaj
 

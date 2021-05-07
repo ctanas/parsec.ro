@@ -431,9 +431,9 @@ Dragon C206 "Endeavour"
 - *Akihiko Hoshide* (Discovery STS-124, Soyuz TMA-05M) --JAXA
 - *Thomas Pesquet* (Soyuz MS-03) --ESA
 
-*** Boeing OFT-2 (septembrie 2021) 
-/Orbital Flight Test 2/
-- fără echipaj
+*** Boeing OFT-2 (iulie 2021) 
+/Orbital Flight Test 2/ (Spacecraft 3)
+ - fără echipaj
 
 *** SpaceX Crew-3 (octombrie 2021 +6 luni)
 
@@ -6378,10 +6378,22 @@ SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD
 ** Buletin Cosmic nr. 114 :cz4c:
 :PROPERTIES:
 :EXPORT_FILE_NAME: 114
-:EXPORT_DATE: 2021-05-01 
+:EXPORT_DATE: 2021-05-05 
 :END:
 
 Vineri dimineața, la ora 11:27, de la centrul spațial Jiuquan, China a lansat un satelit militar, Yaogan-34[fn::http://www.xinhuanet.com/english/2021-04/30/c_139917151.htm], folosind o rachetă Changzheng-4C. Observațiile efectuate de satelit vor fi utile și pentru sectorul civil, în special pentru dezvoltarea proiectului /Belt and Road/. A fost prima lansare de la Jiuquan a unei rachete Changzheng-4C cu un con protector upgradat (diametru de 4 metri), astfel de lansări având de obicei loc până acum de la centrul spațial Taiyuan. Satelitul a ajuns pe o orbită terestră joasă, cu înclinație de 63 de grade (specifică sateliților Yaogan).
+
+---
+
+După un survol al planetei Venus în 20 februarie, pentru o ajustare a orbitei, sonda Parker s-a apropiat în 29 aprilie până la 10.4 milioane de kilometri de Soare, cu o viteză de 532000 km/h. A fost al 8-lea periheliu pentru Parker din cele 24 programate pentru studierea astrului din centrul sistemului nostru solar. Sonda a stabilit noi recorduri pentru viteză și pentru distanță minimă față de Soare.
+
+---
+
+Shannon Walker, Victor Glover, Mike Hopkins și Soichi Noguchi au revenit sâmbătă cu bine pe Pământ, după 167 de zile petrecute în spațiu. Decuplarea capsulei Dragon "Resilience" de Stația Spațială Internațională a avut loc în noaptea de vineri spre sâmbătă și amerizarea 6 ore mai târziu, în Golful Mexic. A fost prima amerizare a unei capsule pe timp de noapte, după misiunea Apollo 8 din 1967. În acest moment, la bordul Stației Spațiale Internaționale se află 7 astronauți, alte două echipaje fiind programate pentru lansare abia în luna octombrie.
+
+---
+
+Starlink
 
 ** Buletin Cosmic nr. 113 :mev2:soyuz:crew2:spacex:dragon:
 :PROPERTIES:
