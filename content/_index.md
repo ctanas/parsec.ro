@@ -36,14 +36,13 @@ Detalii cu privire la informațiile din tabel, pot fi găsite în secțiunea [Le
 -   [Lista completă a lansărilor orbitale](/t/lansari);
 -   [Lista lansărilor spațiale cu echipaj uman](/m/hsl);
 -   [Lista rachetelor active](/r/rachete_active) --cu detalii despre [Atlas V](/r/atlasv), [Antares](/r/antares), [Epsilon](/r/epsilon), [Soyuz-2](/r/soyuz-2) și [Falcon 9](/r/falcon9);
--   [Lista completă a rachetelor](/r/rachete) folosite până în prezent -- inclusiv cele inactive;
--   [Rachete aflate în dezvoltare](/r/viitor) _(draft)_;
+-   [Lista completă a rachetelor](/r/rachete) folosite până în prezent --inclusiv cele inactive;
 -   [Lista sondelor interplanetare active](/m/sonde);
--   [Meteoriți](/m/meteoriti) --informații generale și lista meteoriților românești (_draft_);
--   [X-37B](/m/x37b) --naveta spațială autonomă a Forțelor Aeriene ale SUA;
+-   [Meteoriți](/m/meteoriti) --informații generale și lista meteoriților românești;
+-   [X-37B](/m/x37b) --avionul spațial autonom al Forțelor Aeriene ale SUA;
 -   [Gateway](/m/gateway) --viitoarea stație spațială de pe orbita Lunii;
 -   [Stația Spațială Chineză](/m/css) --detalii, calendar de zbor, taikonauți;
--   [Media](/m/media) -- o listă cu filme, seriale, podcasts și jocuri video despre explorarea spațiului.
+-   [Media](/m/media) --o listă cu filme, seriale, podcasts și jocuri video despre explorarea spațiului.
 
 
 ## Stația Spațială Internațională (ISS) {#stația-spațială-internațională--iss}

@@ -32,14 +32,13 @@ Detalii cu privire la informațiile din tabel, pot fi găsite în secțiunea [[/
 + [[/t/lansari][Lista completă a lansărilor orbitale]];
 + [[/m/hsl][Lista lansărilor spațiale cu echipaj uman]];
 + [[/r/rachete_active][Lista rachetelor active]] --cu detalii despre [[/r/atlasv][Atlas V]], [[/r/antares][Antares]], [[/r/epsilon][Epsilon]], [[/r/soyuz-2][Soyuz-2]] și [[/r/falcon9][Falcon 9]];
-+ [[/r/rachete][Lista completă a rachetelor]] folosite până în prezent -- inclusiv cele inactive;
-+ [[/r/viitor][Rachete aflate în dezvoltare]] /(draft)/;
++ [[/r/rachete][Lista completă a rachetelor]] folosite până în prezent --inclusiv cele inactive;
 + [[/m/sonde][Lista sondelor interplanetare active]];
-+ [[/m/meteoriti][Meteoriți]] --informații generale și lista meteoriților românești (/draft/);
-+ [[/m/x37b][X-37B]] --naveta spațială autonomă a Forțelor Aeriene ale SUA;
++ [[/m/meteoriti][Meteoriți]] --informații generale și lista meteoriților românești;
++ [[/m/x37b][X-37B]] --avionul spațial autonom al Forțelor Aeriene ale SUA;
 + [[/m/gateway][Gateway]] --viitoarea stație spațială de pe orbita Lunii;
 + [[/m/css][Stația Spațială Chineză]] --detalii, calendar de zbor, taikonauți;
-+ [[/m/media][Media]] -- o listă cu filme, seriale, podcasts și jocuri video despre explorarea spațiului.
++ [[/m/media][Media]] --o listă cu filme, seriale, podcasts și jocuri video despre explorarea spațiului.
 
 ** Stația Spațială Internațională (ISS) 
 
@@ -47,8 +46,7 @@ Detalii cu privire la informațiile din tabel, pot fi găsite în secțiunea [[/
 + [[/iss/jurnal][Jurnal de activități]];
 + Zboruri comerciale cu echipaj ([[/iss/ccdev][CC-Dev]]);
 + Detalii despre [[/iss/module][modulele ISS]];
-+ Oportunități de [[https://www.heavens-above.com/PassSummary.aspx?satid=25544&lat=46.7712&lng=23.6236&loc=Cluj-Napoca&alt=0&tz=EET][observare]] a ISS. 
-
++ Oportunități de [[https://www.heavens-above.com/PassSummary.aspx?satid=25544&lat=46.7712&lng=23.6236&loc=Cluj-Napoca&alt=0&tz=EET][observare]] a ISS.
 
 * About
 :PROPERTIES:
