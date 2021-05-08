@@ -48,6 +48,7 @@ Detalii cu privire la informațiile din tabel, pot fi găsite în secțiunea [[/
 + Detalii despre [[/iss/module][modulele ISS]];
 + Oportunități de [[https://www.heavens-above.com/PassSummary.aspx?satid=25544&lat=46.7712&lng=23.6236&loc=Cluj-Napoca&alt=0&tz=EET][observare]] a ISS.
 
+
 * About
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: /
@@ -63,9 +64,11 @@ De ce parsec.ro? Din dorința de a prezenta știrile și evenimentele din domeni
 
 *** Colaborări și prezențe media
 
-Sunt Claudiu Tănăselia, fizician și cercetător științific, iar despre spațiu și rachete mă puteți auzi vorbind și la *Radio România Actualități* (săptămânal, în cadrul emisiunii [Printre stele](https://mega.nz/#F!tx01XK6T!_4vQ7DczBwS0KqjfAvkUhw) (2013-2020) —realizator Alexandru Mironov, în fiecare luni, după ora 21:30) sau la *Radio România Cultural* (în cadrul emisiunii Știința în cuvinte potrivite (între 2018-2019) și [Știința 360](https://radioromaniacultural.ro/stiinta/) (din 2019) —realizator Corina Negrea, într-o rubrică realizată de Mihaela Ghiță, vineri, după ora 13:20). Din 2019 sunt consultant științific al emisiunii Teleenciclopedia de la *TVR*. Mă puteți citi lunar în revista [Știință&Tehnică](https://stiintasitehnica.com/author/claudiu-tanaselia/) (din 2011) și ocazional în revistele [Research and Education](http://researchandeducation.ro/2019/04/25/sonde-interplanetare.html) sau [Sinteza](https://revistasinteza.ro/urmatorul-salt-urias-pentru-omenire/).
+Sunt Claudiu Tănăselia, fizician și cercetător științific, iar despre spațiu și rachete mă puteți auzi vorbind săptămânal la *Radio România Cultural* (în cadrul emisiunii [Știința 360](https://radioromaniacultural.ro/stiinta/) (din 2018) —realizator Corina Negrea, într-o rubrică realizată de Mihaela Ghiță, în fiecare vineri, după ora 13:00). Din 2019 sunt consultant științific al emisiunii Teleenciclopedia de la *TVR*. În trecut, povesteam despre spațiu la *Radio România Actualități*, săptămânal, în cadrul emisiunii [Printre stele](https://mega.nz/#F!tx01XK6T!_4vQ7DczBwS0KqjfAvkUhw) (2013-2020) —realizator Alexandru Mironov.
 
-Ocazional am mai apărut și la *Digi24* și *Digiworld* în cadrul emisiunii [Jurnalul de Științe](https://mega.nz/#!wt831ZaA!KNcWQBwl3hfBW9UP8jH_1_B0h9GLU0-g7mRB1unBx4I) (corespondență de la Centrul Spațial Kennedy din Florida), la [Digipedia](https://youtu.be/J0S44WemN7E) —realizator Teodora Safta, la *Columna TV*, în cadrul emisiunii Noi și Cerul —realizator Valentin Grigore sau la *TVR1* în emisiunea [Garantat 100%](https://youtu.be/ryHDIKA_njU) —realizator Cătălin Ștefănescu.
+Mă puteți citi lunar în revista [Știință&Tehnică](https://stiintasitehnica.com/author/claudiu-tanaselia/) (din 2011) și ocazional în revistele [Research and Education](http://researchandeducation.ro/2019/04/25/sonde-interplanetare.html) sau [Sinteza](https://revistasinteza.ro/urmatorul-salt-urias-pentru-omenire/).
+
+Ocazional am mai apărut și la *Digi24* și *Digiworld* în cadrul emisiunii [Jurnalul de Științe](https://mega.nz/#!wt831ZaA!KNcWQBwl3hfBW9UP8jH_1_B0h9GLU0-g7mRB1unBx4I) (corespondență de la Centrul Spațial Kennedy din Florida), la [Digipedia](https://youtu.be/J0S44WemN7E) —realizator Teodora Safta sau ocazional ([[https://youtu.be/c33xKAcqXi8][aici despre treapta primară a rachetei Changzheng-5B]]), la *Columna TV*, în cadrul emisiunii Noi și Cerul —realizator Valentin Grigore sau la *TVR1* în emisiunea [Garantat 100%](https://youtu.be/ryHDIKA_njU) —realizator Cătălin Ștefănescu sau pe împreună cu Cristian Presură, pe canalul său de [[https://youtu.be/u8cvD01hS5Q][YouTube]].
 
 *** Donații
 parsec.ro este un proiect în care investesc de peste 10 ani timp, energie și resurse financiare, așa că orice donație din partea cititorilor este oricând binevenită și nu va face altceva decât să mă motiveze să scriu mai departe, mai mult și mai bine. 
@@ -6379,11 +6382,11 @@ SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD
 :EXPORT_DATE: 2021-05-07
 :END:
 
-Vineri dimineața, la ora 11:27, de la centrul spațial Jiuquan, China a lansat un satelit militar, Yaogan-34[fn::http://www.xinhuanet.com/english/2021-04/30/c_139917151.htm], folosind o rachetă Changzheng-4C. Observațiile efectuate de satelit vor fi utile și pentru sectorul civil, în special pentru dezvoltarea proiectului /Belt and Road/. A fost prima lansare de la Jiuquan a unei rachete Changzheng-4C cu un con protector upgradat (diametru de 4 metri), astfel de lansări având de obicei loc până acum de la centrul spațial Taiyuan. Satelitul a ajuns pe o orbită terestră joasă, cu înclinație de 63 de grade (specifică sateliților Yaogan).
+Vineri, 30 aprilie, la ora 11:27, de la centrul spațial Jiuquan, China a lansat un satelit militar, Yaogan-34[fn::http://www.xinhuanet.com/english/2021-04/30/c_139917151.htm], folosind o rachetă Changzheng-4C. Observațiile efectuate de satelit vor fi utile și pentru sectorul civil, în special pentru dezvoltarea proiectului /Belt and Road/. A fost prima lansare de la Jiuquan a unei rachete Changzheng-4C cu un con protector upgradat (diametru de 4 metri), astfel de lansări având de obicei loc până acum de la centrul spațial Taiyuan. Satelitul a ajuns pe o orbită terestră joasă, cu înclinație de 63 de grade (specifică sateliților Yaogan).
 
 ---
 
-După ce NASA a suspendat contractul cu SpaceX privind realizarea unui lander lunar derivat din Starship, SpaceX a reușit să efectueze un zbor al Starship SN15, prototip care s-a întors cu bine, pentru prima dată, înapoi la sol. Zborul a avut loc în 6 mai 2021 și Elon Musk a declarat că s-ar putea ca acest vehicul să mai efectueze încă un astfel de test, în perioada următoare.
+După ce NASA a suspendat contractul cu SpaceX privind realizarea unui lander lunar derivat din Starship, SpaceX a reușit să efectueze un zbor al Starship SN15, prototip care s-a întors cu bine, pentru prima dată, înapoi la sol. [[https://youtu.be/z9eoubnO-pE?t=355][Zborul]] a avut loc în 6 mai 2021 și Elon Musk a declarat că s-ar putea ca acest vehicul să mai efectueze încă un astfel de test, în perioada următoare.
 
 #+CAPTION: Starship SN15 intactă, după aterizare. Sursă: [[https://twitter.com/TrevorMahlmann/status/1390480401957892099][Trevor Mahlmann]].
 [[/img/starshipsn15.jpg]]
