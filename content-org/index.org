@@ -1282,17 +1282,18 @@ Recuperarea pe barja OCISLY după misiunea Starlink-8 nu a reușit.
 
 **** B1051
 
-| Booster |       Data | Misiunea     | Recuperare | Racheta  |
-|---------+------------+--------------+------------+----------|
-| B1051.1 | 09.03.2019 | Dragon DM-1  | OCISLY     | Falcon 9 |
-| B1051.2 | 12.06.2019 | RADARSAT     | LZ-4       | Falcon 9 |
-| B1051.3 | 29.01.2020 | Starlink-3   | OCISLY     | Falcon 9 |
-| B1051.4 | 22.04.2020 | Starlink-6   | OCISLY     | Falcon 9 |
-| B1051.5 | 07.08.2020 | Starlink-9   | OCISLY     | Falcon 9 |
-| B1051.6 | 18.10.2020 | Starlink-13  | OCISLY     | Falcon 9 |
-| B1051.7 | 13.12.2020 | Sirius SXM-7 | JRI        | Falcon 9 |
-| B1051.8 | 20.01.2021 | Starlink-16  | JRI        | Falcon 9 |
-| B1051.9 | 14.03.2021 | Starlink-21  | OCISLY     | Falcon 9 |
+| Booster  |       Data | Misiunea     | Recuperare | Racheta  |
+|----------+------------+--------------+------------+----------|
+| B1051.1  | 09.03.2019 | Dragon DM-1  | OCISLY     | Falcon 9 |
+| B1051.2  | 12.06.2019 | RADARSAT     | LZ-4       | Falcon 9 |
+| B1051.3  | 29.01.2020 | Starlink-3   | OCISLY     | Falcon 9 |
+| B1051.4  | 22.04.2020 | Starlink-6   | OCISLY     | Falcon 9 |
+| B1051.5  | 07.08.2020 | Starlink-9   | OCISLY     | Falcon 9 |
+| B1051.6  | 18.10.2020 | Starlink-13  | OCISLY     | Falcon 9 |
+| B1051.7  | 13.12.2020 | Sirius SXM-7 | JRI        | Falcon 9 |
+| B1051.8  | 20.01.2021 | Starlink-16  | JRI        | Falcon 9 |
+| B1051.9  | 14.03.2021 | Starlink-21  | OCISLY     | Falcon 9 |
+| B1051.10 | 09.05.2021 | Starlink-26  | JRI        | Falcon 9 |
 
 **** B1052
 
