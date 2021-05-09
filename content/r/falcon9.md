@@ -129,7 +129,7 @@ draft = false
 | 2021-04-23 | Falcon 9     | 115/B1061.2  | USCV-2 / Dragon "Endeavour"           | KSC        | LC39A | S |
 | 2021-04-29 | Falcon 9     | 116/B1060.7  | Starlink 1.0-L24                      | CC         | LC40  | S |
 | 2021-05-04 | Falcon 9     | 117/B1049.9  | Starlink 1.0-L25                      | KSC        | LC39A | S |
-| 2021-05-09 | Falcon 9     | 118/B1051.10 | Starlink 1.0-L26                      | CC         | LC40  | S |
+| 2021-05-09 | Falcon 9     | 118/B1051.10 | Starlink 1.0-L27                      | CC         | LC40  | S |
 
 
 ## Lista treptelor primare Falcon 9 Block 5 inactive {#lista-treptelor-primare-falcon-9-block-5-inactive}
