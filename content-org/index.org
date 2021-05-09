@@ -1293,7 +1293,7 @@ Recuperarea pe barja OCISLY după misiunea Starlink-8 nu a reușit.
 | B1051.7  | 13.12.2020 | Sirius SXM-7 | JRI        | Falcon 9 |
 | B1051.8  | 20.01.2021 | Starlink-16  | JRI        | Falcon 9 |
 | B1051.9  | 14.03.2021 | Starlink-21  | OCISLY     | Falcon 9 |
-| B1051.10 | 09.05.2021 | Starlink-26  | JRI        | Falcon 9 |
+| B1051.10 | 09.05.2021 | Starlink-27  | JRI        | Falcon 9 |
 
 **** B1052
 
