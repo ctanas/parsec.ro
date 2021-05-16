@@ -1320,6 +1320,7 @@ Recuperarea pe barja OCISLY după misiunea Starlink-8 nu a reușit.
 | B1058.5 | 24.01.2021 | Transporter-1 | OCISLY     | Falcon 9 |
 | B1058.6 | 11.03.2021 | Starlink-20   | JRI        | Falcon 9 |
 | B1058.7 | 07.04.2021 | Starlink-23   | OCISLY     | Falcon 9 |
+| B1058.8 | 15.05.2021 | Starlink-26   | OCISLY     | Falcon 9 |
 
 **** B1060
 

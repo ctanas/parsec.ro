@@ -6040,3 +6040,5 @@
 2021-036    2021-05-04 19:01   Falcon 9                117/B1049.9          Starlink 1.0-L25                               US   KSC          LC39A      S 114
 2021-037    2021-05-06 18:11   Chang Zheng 2C          2C-Y47               Yaogan-30-08                                   CN   Xichang      LC3        S 114
 2021-038    2021-05-09 06:42   Falcon 9                118/B1051.10         Starlink 1.0-L27                               US   CC           LC40       S 115
+2021-F02    2021-05-15 11:11   Electron                20                   BlackSky / Running out of toes                 US   Mahia        LC-1       F 116
+2021-039    2021-05-15 22:56   Falcon 9                119/1058.8           Starlink 1.0-L26 / Capella-6                   US   KSC          LC39A      S 116
