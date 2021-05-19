@@ -9,6 +9,8 @@ title = "parsec.ro"
 toc = true
 DefaultContentLanguage = "ro"
 googleAnalytics = "UA-19421559-1"
+
+[blackfriday]
 fractions = false
 
 [params]
