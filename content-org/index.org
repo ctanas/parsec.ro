@@ -3268,6 +3268,7 @@ Moștenirea programului Buran însă continuă și astăzi. Boosterele rachetei 
 | Trace Gas Orbiter     | 14.03.2016 | ESA      | Proton-M       | Marte   |         202X | (1400)[fn:son7] | pe orbita lui Marte          |
 | Hope (Al-Amal)        | 19.07.2020 | MRSC     | H-IIA          | Marte   |         2023 |             200 | pe orbita lui Marte          |
 | Tianwen-1             | 23.07.2020 | CNSA     | CZ-5           | Marte   |         202X |             ??? | pe orbita lui Marte          |
+| Zhurong/platformă     | 23.07.2020 | CNSA     | CZ-5           | Marte   |         202X |             ??? | pe suprafața lui Marte       |
 | MAVEN                 | 18.11.2013 | NASA     | Atlas V 401    | Marte   |         202X |             671 | pe orbita lui Marte          |
 | MSL/Curiosity         | 26.11.2011 | NASA     | Atlas V 541    | Marte   |         20XX |            2500 | pe suprafața lui Marte       |
 | InSight               | 05.05.2018 | NASA     | Atlas V 401    | Marte   |         202X |             830 | pe suprafața lui Marte       |
@@ -6384,7 +6385,7 @@ SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD
 :EXPORT_HUGO_SECTION: bul
 :END:
 
-** Buletin Cosmic nr. 115
+** Buletin Cosmic nr. 115 :zhurong:marte:falcon9:spacex:cz4b:electron:
 :PROPERTIES:
 :EXPORT_FILE_NAME: 115
 :EXPORT_DATE: 2021-05-20
@@ -6392,12 +6393,16 @@ SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD
 
 În 09.05.2021, la ora 09:42 ora României, SpaceX a mai realizat o premieră: a zecea lansarea a unei trepte primare Falcon 9[fn::https://www.spacex.com/updates/starlink-mission-05-09-2021/index.html]. Treapta B1051 a fost recuperată și de această dată, pe barja /Just Read the Instructions/. Cu această ocazie, pe orbită au ajuns încă alți 60 de sateliți Starlink, lansarea având loc de pe rampa SLC-40 de la Cape Canaveral. A fost a 14-a lansare orbiatală din 2021 pentru SpaceX.
 
+#+CAPTION: A 10-a lansare a treptei primare B1051 a unei rachete Falcon 9, care a urcat pe orbită alți 60 de sateliți Starlink. Sursa foto: [[https://www.flickr.com/photos/spacex/51171344450/][SpaceX]].
+[[/img/starlink27.jpg]]
+
 ---
 
 În 15.05.2021, o rachetă Electron a suferit un nou eșec: imediat după separarea de prima treaptă, motorul treptei secundare a fost activat, dar orientarea rachetei suferit imediat schimbări bruște, după care motorul s-a oprit si RocketLab a pierdut telemetria. Cei doi sateliți BlackSky care urmau să ajungă pe orbită terestră heliosincronă[fn::https://www.rocketlabusa.com/missions/completed-missions/running-out-of-toes/] au fost pierduți. Lansarea a avut loc la ora 14:11 ora României, de pe rampa LC-1A din Mahia, Noua Zeelandă. Este al doilea eșec Electron din ultimul an, după lansarea ratată din 4 iulie 2020, însă, din fericire pentru compania lui Peter Beck, tentativa de recuperare a primei trepte, din apele oceanului, a reușit.
 
-#+CAPTION: A 10-a lansare a treptei primare B1051 a unei rachete Falcon 9, care a urcat pe orbită alți 60 de sateliți Starlink. Sursa foto: [[https://www.flickr.com/photos/spacex/51171344450/][SpaceX]].
-[[/img/starlink27.jpg]]
+---
+
+Și tot în 15.05.2021, platforma staționară chineză și roverul Zhurong s-a desprins de sonda orbitală Tianwen-1 și au coborât în siguranță pe suprafața planetei Marte, în zona Utopia Planitia[fn::http://www.xinhuanet.com/english/2021-05/15/c_139946987.htm]. La o săptămână după aterizare, Zhurong a coborât de pe platformă[fn::http://www.xinhuanet.com/english/2021-05/22/c_139963090.htm] (care deocamdată nu are un nume) și și-a început misiunea științifică pe suprafața marțiană. China a devenit a treia națiune care e reușit plasarea unei sonde pe Marte (după SUA și URSS, deși tentativa URSS este una discutabilă), iar Zhurong a fost prima sondă marțiană care a trimis imagini de pe suprafața planetei și care nu a fost construită de Jet Propulsion Laboratory (JPL/NASA).
 
 ---
 

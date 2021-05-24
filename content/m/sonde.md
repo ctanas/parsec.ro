@@ -23,6 +23,7 @@ draft = false
 | Trace Gas Orbiter     | 14.03.2016 | ESA      | Proton-M       | Marte   | 202X       | (1400)[^fn:6] | pe orbita lui Marte        |
 | Hope (Al-Amal)        | 19.07.2020 | MRSC     | H-IIA          | Marte   | 2023       | 200           | pe orbita lui Marte        |
 | Tianwen-1             | 23.07.2020 | CNSA     | CZ-5           | Marte   | 202X       | ???           | pe orbita lui Marte        |
+| Zhurong/platformă     | 23.07.2020 | CNSA     | CZ-5           | Marte   | 202X       | ???           | pe suprafața lui Marte     |
 | MAVEN                 | 18.11.2013 | NASA     | Atlas V 401    | Marte   | 202X       | 671           | pe orbita lui Marte        |
 | MSL/Curiosity         | 26.11.2011 | NASA     | Atlas V 541    | Marte   | 20XX       | 2500          | pe suprafața lui Marte     |
 | InSight               | 05.05.2018 | NASA     | Atlas V 401    | Marte   | 202X       | 830           | pe suprafața lui Marte     |
