@@ -6390,7 +6390,26 @@ SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD
 :EXPORT_DATE: 2021-05-20
 :END:   
 
-/Buletin în lucru/
+În 09.05.2021, la ora 09:42 ora României, SpaceX a mai realizat o premieră: a zecea lansarea a unei trepte primare Falcon 9[fn::https://www.spacex.com/updates/starlink-mission-05-09-2021/index.html]. Treapta B1051 a fost recuperată și de această dată, pe barja /Just Read the Instructions/. Cu această ocazie, pe orbită au ajuns încă alți 60 de sateliți Starlink, lansarea având loc de pe rampa SLC-40 de la Cape Canaveral. A fost a 14-a lansare orbiatală din 2021 pentru SpaceX.
+
+---
+
+În 15.05.2021, o rachetă Electron a suferit un nou eșec: imediat după separarea de prima treaptă, motorul treptei secundare a fost activat, dar orientarea rachetei suferit imediat schimbări bruște, după care motorul s-a oprit si RocketLab a pierdut telemetria. Cei doi sateliți BlackSky care urmau să ajungă pe orbită terestră heliosincronă[fn::https://www.rocketlabusa.com/missions/completed-missions/running-out-of-toes/] au fost pierduți. Lansarea a avut loc la ora 14:11 ora României, de pe rampa LC-1A din Mahia, Noua Zeelandă. Este al doilea eșec Electron din ultimul an, după lansarea ratată din 4 iulie 2020, însă, din fericire pentru compania lui Peter Beck, tentativa de recuperare a primei trepte, din apele oceanului, a reușit.
+
+#+CAPTION: A 10-a lansare a treptei primare B1051 a unei rachete Falcon 9, care a urcat pe orbită alți 60 de sateliți Starlink. Sursa foto: [[https://www.flickr.com/photos/spacex/51171344450/][SpaceX]].
+[[/img/starlink27.jpg]]
+
+---
+
+În 16.05.2021, SpaceX a reușit a treia lansare în doar 11 zile: o nouă misiune Starlink, însă care a urcat pe orbită 52 de sateliți Starlink și alți doi sateliți comerciali: Capella Whitney 4 și Tyvak-0130. Lansarea a avut loc de pe rampa LC-39A de la Kennedy Space Center, la ora 01:54 ora României. Pentru această misiune s-a folosit treapta primară B1058 a rachetei Falcon 9, care a zburat de această dată a 8-a oară, fiind recuperată pe barja /Of Course I Still Love You/.
+
+---
+
+Racheta Atlas V a lansat în data de 18.05.2021, la ora 20:37 ora României, satelitul SBIRS GEO 5, de la Cape Canaveral. A fost a 669-a lansare a unei rachete Atlas din 1957 și a 87-a lansare Atlas V (a 8-a în configurația 421). Din 2011 și până în 2018, au avut loc 4 lansări SBIRS-GEO, toate efectuate de racheta Atlas V a companiei United Launch Alliance (ULA), rachetă folosită pentru aceste misiuni în două configurații: 401 pentru primele trei lansări și respectiv 411 pentru a patra lansare (401 înseamnă un diametru de 4 metri al conului protector, a doua cifră –0 sau 1– numărul de boostere auxiliare cu combustibil solid și ultima cifră reprezintă numărul de motoare ale treptei superioare Centaur). Da, 411 înseamnă o configurație asimetrică, cu un singur booster auxiliar, ceea ce face ca lansarea să fie una destul de spectaculoasă din acest punct de vedere. Nu cunoaștem detalii cu privire la sateliții SBIRS-GEO, dar știm că o rachetă Atlas V 421 poate urca 6.89 tone pe orbită geostaționară[fn::https://www.ulalaunch.com/docs/default-source/launch-booklets/mobrochure_sbirsgeo5.pdf] și știm că satelitul încape în interiorul conului protector care are un diametru de 4 metri (deși se estimează să satelitul probabil cântărește 4.5 tone). Racheta Atlas V are o primă treaptă înaltă de 32.5 metri (3.81 metri diametru), o treaptă secundară Centaur înaltă de 12.6 metri (3 metri diametru) peste care se adaugă satelitul încapsulat în cele două jumătăți ale conului protector care mai adaugă 14 metri, care face ca racheta să fie înaltă de 59.1 metri.
+
+---
+
+În 19.05.2021, o rachetă chineză Changzheng-4B a urcat pe orbită heliosincronă satelitul pentru observații oceanice Haiyang-2D, proiectat și asamblat de /China Academy of Science/ --CAST. Lansarea a avut loc de la centrul spațial Jiuquan la ora 07:03 ora României.
 
 ** Buletin Cosmic nr. 114 :cz4c:yaogan:parker:dragon:starlink:starship:starliner:
 :PROPERTIES:
