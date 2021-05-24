@@ -6398,7 +6398,7 @@ SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD
 
 ---
 
-În 15.05.2021, o rachetă Electron a suferit un nou eșec: imediat după separarea de prima treaptă, motorul treptei secundare a fost activat, dar orientarea rachetei suferit imediat schimbări bruște, după care motorul s-a oprit si RocketLab a pierdut telemetria. Cei doi sateliți BlackSky care urmau să ajungă pe orbită terestră heliosincronă[fn::https://www.rocketlabusa.com/missions/completed-missions/running-out-of-toes/] au fost pierduți. Lansarea a avut loc la ora 14:11 ora României, de pe rampa LC-1A din Mahia, Noua Zeelandă. Este al doilea eșec Electron din ultimul an, după lansarea ratată din 4 iulie 2020, însă, din fericire pentru compania lui Peter Beck, tentativa de recuperare a primei trepte, din apele oceanului, a reușit.
+În 15.05.2021, o rachetă Electron a suferit un nou eșec: imediat după separarea de prima treaptă, motorul treptei secundare a fost activat, dar orientarea rachetei suferit imediat schimbări bruște, după care motorul s-a oprit si RocketLab a pierdut telemetria. Cei doi sateliți BlackSky care urmau să ajungă pe orbită terestră heliosincronă[fn::https://www.rocketlabusa.com/missions/completed-missions/running-out-of-toes] au fost pierduți. Lansarea a avut loc la ora 14:11 ora României, de pe rampa LC-1A din Mahia, Noua Zeelandă. Este al doilea eșec Electron din ultimul an, după lansarea ratată din 4 iulie 2020, însă, din fericire pentru compania lui Peter Beck, tentativa de recuperare a primei trepte, din apele oceanului, a reușit.
 
 ---
 
