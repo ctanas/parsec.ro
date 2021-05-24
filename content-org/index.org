@@ -69,7 +69,7 @@ Sunt Claudiu Tănăselia, fizician și cercetător științific, iar despre spa�
 Mă puteți citi lunar în revista [Știință&Tehnică](https://stiintasitehnica.com/author/claudiu-tanaselia/) (din 2011) și ocazional în revistele [Research and Education](http://researchandeducation.ro/2019/04/25/sonde-interplanetare.html) sau [Sinteza](https://revistasinteza.ro/urmatorul-salt-urias-pentru-omenire/).
 
 Ocazional am mai apărut și la
-- *Digi24* (și *Digiworld),* în cadrul emisiunii [Jurnalul de Științe](https://mega.nz/#!wt831ZaA!KNcWQBwl3hfBW9UP8jH_1_B0h9GLU0-g7mRB1unBx4I) (corespondență de la Centrul Spațial Kennedy din Florida); la [[https://youtu.be/c33xKAcqXi8][Jurnalul de Seară]], -realizator Cosmin Prelipceanu; la [Digipedia](https://youtu.be/J0S44WemN7E) —realizator Teodora Safta;
+- *Digi24* (și *Digiworld*) în cadrul emisiunii [Jurnalul de Științe](https://mega.nz/#!wt831ZaA!KNcWQBwl3hfBW9UP8jH_1_B0h9GLU0-g7mRB1unBx4I) (corespondență de la Centrul Spațial Kennedy din Florida); la [[https://youtu.be/c33xKAcqXi8][Jurnalul de Seară]], -realizator Cosmin Prelipceanu; la [Digipedia](https://youtu.be/J0S44WemN7E) —realizator Teodora Safta;
 - *Columna TV*, în cadrul emisiunii Noi și Cerul —realizator Valentin Grigore;
 - *Pro TV*, în emisiunea [[https://stirileprotv.ro/stiri/ilikeit/detalii-nestiute-despre-misiunea-peseverance-de-pe-marte-in-emisiunea-ilikeit-cu-iulia-ionescu-si-fizicianul-claudiu-tanas.html][I Like IT]];
 - *TVR1* în emisiunea [Garantat 100%](https://youtu.be/ryHDIKA_njU) —realizator Cătălin Ștefănescu;
@@ -6383,6 +6383,14 @@ SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: bul
 :END:
+
+** Buletin Cosmic nr. 115
+:PROPERTIES:
+:EXPORT_FILE_NAME: 115
+:EXPORT_DATE: 2021-05-20
+:END:   
+
+/Buletin în lucru/
 
 ** Buletin Cosmic nr. 114 :cz4c:yaogan:parker:dragon:starlink:starship:starliner:
 :PROPERTIES:

@@ -19,7 +19,7 @@ Mă puteți citi lunar în revista [Știință&Tehnică](<https://stiintasitehni
 
 Ocazional am mai apărut și la
 
--   **Digi24** (și **Digiworld),** în cadrul emisiunii [Jurnalul de Științe](<https://mega.nz/#!wt831ZaA!KNcWQBwl3hfBW9UP8jH%5F1%5FB0h9GLU0-g7mRB1unBx4I>) (corespondență de la Centrul Spațial Kennedy din Florida); la [Jurnalul de Seară](https://youtu.be/c33xKAcqXi8), -realizator Cosmin Prelipceanu; la [Digipedia](<https://youtu.be/J0S44WemN7E>) —realizator Teodora Safta;
+-   **Digi24** (și **Digiworld**) în cadrul emisiunii [Jurnalul de Științe](<https://mega.nz/#!wt831ZaA!KNcWQBwl3hfBW9UP8jH%5F1%5FB0h9GLU0-g7mRB1unBx4I>) (corespondență de la Centrul Spațial Kennedy din Florida); la [Jurnalul de Seară](https://youtu.be/c33xKAcqXi8), -realizator Cosmin Prelipceanu; la [Digipedia](<https://youtu.be/J0S44WemN7E>) —realizator Teodora Safta;
 -   **Columna TV**, în cadrul emisiunii Noi și Cerul —realizator Valentin Grigore;
 -   **Pro TV**, în emisiunea [I Like IT](https://stirileprotv.ro/stiri/ilikeit/detalii-nestiute-despre-misiunea-peseverance-de-pe-marte-in-emisiunea-ilikeit-cu-iulia-ionescu-si-fizicianul-claudiu-tanas.html);
 -   **TVR1** în emisiunea [Garantat 100%](<https://youtu.be/ryHDIKA%5FnjU>) —realizator Cătălin Ștefănescu;
