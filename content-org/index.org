@@ -6402,7 +6402,7 @@ SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD
 
 ---
 
-Și tot în 15.05.2021, platforma staționară chineză și roverul Zhurong s-a desprins de sonda orbitală Tianwen-1 și au coborât în siguranță pe suprafața planetei Marte, în zona Utopia Planitia[fn::http://www.xinhuanet.com/english/2021-05/15/c_139946987.htm]. La o săptămână după aterizare, Zhurong a coborât de pe platformă[fn::http://www.xinhuanet.com/english/2021-05/22/c_139963090.htm] (care deocamdată nu are un nume) și și-a început misiunea științifică pe suprafața marțiană. China a devenit a treia națiune care e reușit plasarea unei sonde pe Marte (după SUA și URSS, deși tentativa URSS este una discutabilă), iar Zhurong a fost prima sondă marțiană care a trimis imagini de pe suprafața planetei și care nu a fost construită de Jet Propulsion Laboratory (JPL/NASA).
+Și tot în 15.05.2021, platforma staționară chineză și roverul Zhurong s-a desprins de sonda orbitală Tianwen-1 și au coborât în siguranță pe suprafața planetei Marte, în zona Utopia Planitia[fn::http://www.xinhuanet.com/english/2021-05/15/c_139946987.htm]. La o săptămână după aterizare, Zhurong a coborât de pe platformă[fn::http://www.xinhuanet.com/english/2021-05/22/c_139963090.htm],care deocamdată nu are un nume, și și-a început misiunea științifică pe suprafața marțiană. China a devenit a treia națiune care e reușit plasarea unei sonde pe Marte (după SUA și URSS, deși tentativa URSS este una discutabilă), iar Zhurong a fost prima sondă marțiană care a trimis imagini de pe suprafața planetei și care nu a fost construită de Jet Propulsion Laboratory (JPL/NASA).
 
 ---
 
