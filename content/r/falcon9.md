@@ -131,6 +131,7 @@ draft = false
 | 2021-05-04 | Falcon 9     | 117/B1049.9  | Starlink 1.0-L25                      | KSC        | LC39A | S |
 | 2021-05-09 | Falcon 9     | 118/B1051.10 | Starlink 1.0-L27                      | CC         | LC40  | S |
 | 2021-05-15 | Falcon 9     | 119/1058.8   | Starlink 1.0-L26 / Capella-6          | KSC        | LC39A | S |
+| 2021-05-26 | Falcon 9     | 120/1063.2   | Starlink 1.0-L28                      | CC         | LC40  | S |
 
 
 ## Lista treptelor primare Falcon 9 Block 5 inactive {#lista-treptelor-primare-falcon-9-block-5-inactive}
@@ -325,9 +326,10 @@ Recuperarea pe barja OCISLY după misiunea Starlink-8 nu a reușit.
 
 ### B1063 {#b1063}
 
-| Booster | Data       | Misiunea   | Recuperare | Racheta  |
-|---------|------------|------------|------------|----------|
-| B1063.1 | 21.11.2020 | Sentinel-6 | LZ-4       | Falcon 9 |
+| Booster | Data       | Misiunea    | Recuperare | Racheta  |
+|---------|------------|-------------|------------|----------|
+| B1063.1 | 21.11.2020 | Sentinel-6  | LZ-4       | Falcon 9 |
+| B1063.2 | 26.05.2021 | Starlink-28 | JRI        | Falcon 9 |
 
 
 ## Lista treptelor primare Falcon 9 Block 5 viitoare {#lista-treptelor-primare-falcon-9-block-5-viitoare}
