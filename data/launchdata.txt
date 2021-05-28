@@ -5893,7 +5893,7 @@
 2020-005    2020-01-16 21:05   Ariane 5ECA+            VA251 (5110)         Eutelsat Konnect/GSAT-30                       EU   Kourou       ELA3       S 59
 2020-006    2020-01-29 14:06   Falcon 9                081/B1051.3          Starlink 1.0-L3                                US   CC           LC40       S 60
 2020-007    2020-01-31 02:56   Electron                11                   Birds of a Feather / NROL-151                  US   Mahia        LC1A       S 61
-2020-008    2020-02-06 21:42   Soyuz-2.1b              U 15000-048/123-01   OneWeb L2                                      RU   Baikonur     LC31       S 62
+2020-008    2020-02-06 21:42   Soyuz-2.1b              U 15000-048/123-01   OneWeb-3                                       RU   Baikonur     LC31       S 62
 2020-009    2020-02-09 01:34   H-IIA 202               H-IIA-41             IGS O-7                                        JP   Tanegashima  Y          S 62
 2020-F01    2020-02-09 15:48   Simorgh                 4 MRS.C001           Zafar                                          IR   Semnan       -          F 62
 2020-010    2020-02-10 04:03   Atlas V 411             AV-087               Solar Orbiter                                  US   CC           SLC41      S 62
@@ -5907,7 +5907,7 @@
 2020-F02    2020-03-16 13:34   Chang Zheng 7A          Y1                   XYZ-6                                          CN   Wenchang     LC201      F 67
 2020-018    2020-03-16 18:28   Soyuz-2.1b              760-58- 145/112-11   Kosmos-2545 / Uragan-M No. 760                 RU   Plesetsk     LC43/4     S 67
 2020-019    2020-03-18 12:16   Falcon 9                084/B1048.5          Starlink 1.0-L5                                US   KSC          LC39A      S 67
-2020-020    2020-03-21 17:06   Soyuz-2.1b              N 15000-049/123-02   One Web L3 / OneWeb L3                         RU   Baikonur     LC31       S 68
+2020-020    2020-03-21 17:06   Soyuz-2.1b              N 15000-049/123-02   OneWeb-4                                       RU   Baikonur     LC31       S 68
 2020-021    2020-03-24 03:43   Chang Zheng 2C          Y42                  Yaogan 30 06 zu / YG-30-06                     CN   Xichang      -          S 68
 2020-022    2020-03-26 20:18   Atlas V 551             AV-086               AEHF 6                                         US   CC           SLC41      S 69
 2020-023    2020-04-09 08:05   Soyuz-2.1a              V 15000-042          Soyuz MS-16 / Soyuz 11F732A48 No. 745          RU   Baikonur     LC31       S 71
@@ -5995,7 +5995,7 @@
 2020-098    2020-12-15 10:09   Electron                17                   StriX-a / The Owl Night Begin                  US   Mahia        LC1        S 101
 2020-F10    2020-12-15 20:55   Astra Rocket 3.2        4                    Rocket 3.2                                     US   Kodiak       LP3B       F 101
 2020-099    2020-12-17 10:11   PSLV-XL                 C50                  CMS-01 / GSAT-12R                              IN   Satish       SLP        S 102
-2020-100    2020-12-18 12:26   Soyuz-2.1b              ST29                 OneWeb L4                                      EU   Vostochny    1S         S 102
+2020-100    2020-12-18 12:26   Soyuz-2.1b              ST29                 OneWeb-5                                       EU   Vostochny    1S         S 102
 2020-101    2020-12-19 14:00   Falcon 9                104/B1059.5          NROL-108 / USA-312 USA-313                     US   KSC          LC39A      S 102
 2020-102    2020-12-22 04:37   Chang Zheng 8           Y1                   XJY-7                                          CN   Wenchang     LC2        S 102
 2020-103    2020-12-27 15:44   Chang Zheng 4C          4C-Y35               Yaogan-33                                      CN   Jiuquan                 S 102
@@ -6025,7 +6025,7 @@
 2021-022    2021-03-22 06:07   Soyuz-2.1b                                   CAS500-1                                       RU   Baikonur     31/6       S 111
 2021-022    2021-03-22 22:30   Electron                19                   Pathstone / They go up so fast                 US   Mahia        LC1        S 111
 2021-023    2021-03-24 08:28   Falcon 9                113/B1060.6          Starlink 1.0-L22                               US   CC           LC40       S 111
-2021-024    2021-03-25 04:01   Soyuz-2.1b              ST30                 OneWeb                                         EU   Vostochny    1S         S 111
+2021-024    2021-03-25 04:01   Soyuz-2.1b              ST30                 OneWeb-6                                       EU   Vostochny    1S         S 111
 2021-025    2021-03-30 22:45   Chang Zheng 4C          4C-Y36               Gaofen-12-02                                   CN   Jiuquan      SLS-2      S 112
 2021-026    2021-04-07 16:34   Falcon 9                114/B1058            Starlink 1.0-L23                               US   CC           LC40       S 112
 2021-027    2021-04-08 23:01   Chang Zheng 4B          4B-Y49               Shiyan-6-03                                    CN   Taiyuan      SLC-40     S 112
@@ -6045,3 +6045,4 @@
 2021-040    2021-05-18 17:37   Atlas V 421             AV-091               SBIRS-GEO-5                                    US   CC           LC41       S 115
 2021-041    2021-05-19 17:35   Chang Zheng 4B          4B-Y48               HaiYang-2D                                     CN   Jiuquan      SLS-2      S 115
 2021-042    2021-05-26 18:59   Falcon 9                120/1063.2           Starlink 1.0-L28                               US   CC           LC40       S 116
+2021-043    2021-05-28 17:38   Soyuz-2.1b              ST32                 OneWeb-7                                       EU   Vostochny    1S         S 116
