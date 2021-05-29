@@ -310,10 +310,10 @@ Recuperarea pe barja OCISLY după misiunea Starlink-8 nu a reușit.
 
 ### B1061 {#b1061}
 
-| Booster | Data       | Misiunea      | Recuperare | Racheta  |
-|---------|------------|---------------|------------|----------|
-| B1061.1 | 16.11.2020 | Dragon USCV-1 | JRI        | Falcon 9 |
-| B1061.2 | 23.04.2021 | Dragon USCV-2 | OCISLY     | Falcon 9 |
+| Booster | Data       | Misiunea | Recuperare | Racheta  |
+|---------|------------|----------|------------|----------|
+| B1061.1 | 16.11.2020 | Crew-1   | JRI        | Falcon 9 |
+| B1061.2 | 23.04.2021 | Crew-2   | OCISLY     | Falcon 9 |
 
 
 ### B1062 {#b1062}
@@ -339,21 +339,30 @@ Recuperarea pe barja OCISLY după misiunea Starlink-8 nu a reușit.
 
 | Booster | Data       | Misiunea | Recuperare | Racheta    |
 |---------|------------|----------|------------|------------|
-| B1064.1 | ??.05.2021 | USSF-44  | ???        | FH lateral |
+| B1064.1 | ??.10.2021 | USSF-44  | ???        | FH lateral |
 
 
 ### B1065 {#b1065}
 
 | Booster | Data       | Misiunea | Recuperare | Racheta    |
 |---------|------------|----------|------------|------------|
-| B1065.1 | ??.05.2021 | USSF-44  | ???        | FH lateral |
+| B1065.1 | ??.10.2021 | USSF-44  | ???        | FH lateral |
 
 
 ### B1066 {#b1066}
 
 | Booster | Data       | Misiunea | Recuperare | Racheta   |
 |---------|------------|----------|------------|-----------|
-| B1066.1 | ??.05.2021 | USSF-44  | ???        | FH centru |
+| B1066.1 | ??.10.2021 | USSF-44  | ???        | FH centru |
+
+
+### B1067 {#b1067}
+
+| Booster | Data       | Misiunea     | Recuperare | Racheta  |
+|---------|------------|--------------|------------|----------|
+| B1067.1 | ??.06.2021 | CRS-22       | ???        | Falcon 9 |
+| B1067.2 | ??.09.2021 | Inspiration4 | ???        | Falcon 9 |
+| B1067.3 | ??.10.2021 | Crew-3       | ???        | Falcon 9 |
 
 
 ### Abrevieri {#abrevieri}

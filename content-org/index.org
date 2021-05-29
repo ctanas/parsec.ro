@@ -1342,10 +1342,10 @@ Recuperarea pe barja OCISLY după misiunea Starlink-8 nu a reușit.
 
 **** B1061
 
-| Booster |       Data | Misiunea      | Recuperare | Racheta  |
-|---------+------------+---------------+------------+----------|
-| B1061.1 | 16.11.2020 | Dragon USCV-1 | JRI        | Falcon 9 |
-| B1061.2 | 23.04.2021 | Dragon USCV-2 | OCISLY     | Falcon 9 |
+| Booster |       Data | Misiunea | Recuperare | Racheta  |
+|---------+------------+----------+------------+----------|
+| B1061.1 | 16.11.2020 | Crew-1   | JRI        | Falcon 9 |
+| B1061.2 | 23.04.2021 | Crew-2   | OCISLY     | Falcon 9 |
 
 **** B1062
 
@@ -1368,20 +1368,27 @@ Recuperarea pe barja OCISLY după misiunea Starlink-8 nu a reușit.
 
 | Booster | Data       | Misiunea | Recuperare | Racheta    |
 |---------+------------+----------+------------+------------|
-| B1064.1 | ??.05.2021 | USSF-44  | ???        | FH lateral |
+| B1064.1 | ??.10.2021 | USSF-44  | ???        | FH lateral |
 
 **** B1065
 
 | Booster | Data       | Misiunea | Recuperare | Racheta    |
 |---------+------------+----------+------------+------------|
-| B1065.1 | ??.05.2021 | USSF-44  | ???        | FH lateral |
+| B1065.1 | ??.10.2021 | USSF-44  | ???        | FH lateral |
 
 **** B1066
 
 | Booster | Data       | Misiunea | Recuperare | Racheta   |
 |---------+------------+----------+------------+-----------|
-| B1066.1 | ??.05.2021 | USSF-44  | ???        | FH centru |
+| B1066.1 | ??.10.2021 | USSF-44  | ???        | FH centru |
 
+**** B1067
+     
+| Booster | Data       | Misiunea     | Recuperare | Racheta  |
+|---------+------------+--------------+------------+----------|
+| B1067.1 | ??.06.2021 | CRS-22       | ???        | Falcon 9 |
+| B1067.2 | ??.09.2021 | Inspiration4 | ???        | Falcon 9 |
+| B1067.3 | ??.10.2021 | Crew-3       | ???        | Falcon 9 |
 
 **** Abrevieri
 
@@ -6386,7 +6393,7 @@ SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD
 :EXPORT_HUGO_SECTION: bul
 :END:
 
-** Buletin Cosmic nr. 116 :spacex:starlink:falcon9:
+** Buletin Cosmic nr. 116 :spacex:starlink:falcon9:artemis:
 :PROPERTIES:
 :EXPORT_FILE_NAME: 116
 :EXPORT_DATE: 2021-05-26
@@ -6398,7 +6405,11 @@ O rachetă *Falcon 9* a fost lansată în 26.05.2021, ora 21:59 EEST, de pe ramp
 
 ---
 
-Lockheed Martin și General Motors vor construi un rover lunar[fn::https://www.lockheedmartin.com/en-us/news/features/2021/lunar-terrain-vehicle.html], care va putea fi folosit de viitoarele echipaje Artemis, [[https://www.youtube.com/watch?v=5869l2cKLZw][pe suprafața Lunii]]. Între 1971 și 1972, pe Lună au ajuns trei rovere care au ajutat echipajele Apollo 15, 16 și 17 să parcurgă distanțe mai lungi în timpul explorării suprafeței selenare. Acestea au fost construite tot de General Motors, însă în colaborare cu Boeing.
+*Lockheed Martin* și *General Motors* vor construi un rover lunar[fn::https://www.lockheedmartin.com/en-us/news/features/2021/lunar-terrain-vehicle.html], care va putea fi folosit de viitoarele echipaje *Artemis*, [[https://www.youtube.com/watch?v=5869l2cKLZw][pe suprafața Lunii]]. Între 1971 și 1972, pe Lună au ajuns trei rovere care au ajutat echipajele Apollo 15, 16 și 17 să parcurgă distanțe mai lungi în timpul explorării suprafeței selenare. Acestea au fost construite tot de General Motors, însă în colaborare cu Boeing.
+
+---
+
+La doar două zile de la ultima lansare Starlink, compania *Arianespace* a lansat ieri la 20:38 EEST un nou set de 36 de sateliți *OneWeb*, folosind o rachetă *Soyuz-2.1b* (cu o treaptă superioară Fregat), de la centrul spațial rusesc Vostochny. A fost a 7-a lansare OneWeb, constelație care acum are 218 sateliți activi, următoarea lansare fiind programată la începutul lunii iulie. Sateliții OneWeb au același rol ca și cei Starlink: asigurarea unei conexiuni la internet cu o latență seminificativ mai mică decât cea furnizată de sateliții geostaționari, însă OneWeb vor folosi oribite mai înalte decât Starlink (1200 km față de 550 km folosiți de Starlink), motiv pentru care numărul de sateliți necesari este mai mic.
 
 ** Buletin Cosmic nr. 115 :zhurong:marte:falcon9:spacex:cz4b:electron:
 :PROPERTIES:
