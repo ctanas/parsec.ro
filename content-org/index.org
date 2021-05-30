@@ -14,7 +14,7 @@
 
 Siteul de față reprezintă o colecție personală de materiale, articole și notițe (mai mult sau mai puțin structurate) despre explorarea spațiului cosmic, adusă frecvent la zi și mereu extinsă, cu un accent pe rachete și lansări orbitale. 
 
-Știrile sunt grupate în [[/bul][Buletine Cosmice]] (cu o frecvență aproximativ săptămânală), materiale care conțin detalii despre lansările orbitale, dar și noutăți cu privire la explorarea spațiului cosmic.
+Știrile sunt grupate în [[/bul][Buletine Cosmice]] (cu o frecvență aproximativ săptămânală), materiale care conțin detalii despre lansările orbitale, dar și noutăți cu privire la explorarea spațiului cosmic. Există și un [[https://parsec.ro/g][glosar de termeni]], pentru câteva cuvinte al căror sens este neclar sau folosit de multe ori greșit.
 
 ** Ultimele lansări orbitale
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
@@ -3597,7 +3597,7 @@ Secțiune care are rolul de a explica o serie de termeni specifici folosiți în
 
 ** Navă, navetă, capsulă, sondă, rover
 :PROPERTIES:
-:EXPORT_FILE_NAME: aterizare
+:EXPORT_FILE_NAME: naveta
 :END:
    
 *NAVETĂ SPAȚIALĂ*, /navete spațiale/, s.f. -- Vehicul spațial cu echipaj uman care se lansează în spațiu cu ajutorul unei rachete puternice și revine pe Pământ cu mijloacele proprii de bord[fn::https://dexonline.ro/definitie/navetă]. Având în vedere și sensul "vehicul de transport în comun care asigură legătura între două puncte relativ apropiate, efectuând regulat drumuri dus și întors", naveta spațială înseamnă vehicule reutilizabile, folosite în mai multe misiuni spațiale. Capsulele refolosibile (Dragon, New Shepard) nu pot reveni la sol prin mijloace proprii de bord (nu au control activ), motiv pentru care nu intră sub această definiție. _Exemple_: vehiculul orbital din programul american STS (Columbia, Challenger, Discovery, Atlantis, Endeavour) sau vehiculul sovietic Buran (chiar dacă acesta nu a efectuat un zbor cosmic cu echipaj, însă a fost proiectat pentru acest lucru); prin extensie, și navetele Enterprise și Ptichka (Burya) sunt numite navete spațiale, chiar dacă nu au zburat în spațiu, însă aparțin aceleași clase de vehicule. _Contraexemple_: capsulele Soyuz, Dragon, navele Progress, ATV, Tianzhou, X-37B.
