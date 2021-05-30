@@ -14,7 +14,7 @@
 
 Siteul de față reprezintă o colecție personală de materiale, articole și notițe (mai mult sau mai puțin structurate) despre explorarea spațiului cosmic, adusă frecvent la zi și mereu extinsă, cu un accent pe rachete și lansări orbitale. 
 
-Știrile sunt grupate în [[/bul][Buletine Cosmice]] (cu o frecvență aproximativ săptămânală), materiale care conțin detalii despre lansările orbitale, dar și noutăți cu privire la explorarea spațiului cosmic. Există și un [[https://parsec.ro/g][glosar de termeni]], pentru câteva cuvinte al căror sens este neclar sau folosit de multe ori greșit.
+Știrile sunt grupate în [[/bul][Buletine Cosmice]] (cu o frecvență aproximativ săptămânală), materiale care conțin detalii despre lansările orbitale, dar și noutăți cu privire la explorarea spațiului cosmic. [[https://parsec.ro/g][Glosarul de termeni]] încearcă să lămurească și să explice anumite alegeri ale sensului unor termeni folosiți frecevent în domeniul explorării spațiului. 
 
 ** Ultimele lansări orbitale
 #+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
@@ -3566,6 +3566,7 @@ Câteva dintre cele mai reușite documentare, dramatizări, podcasts și jocuri 
 
 * Glosar
 :PROPERTIES:
+:EXPORT_TITLE: Glosar de termeni
 :EXPORT_HUGO_SECTION: g
 :END:
 
