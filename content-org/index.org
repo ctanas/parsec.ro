@@ -6443,13 +6443,11 @@ SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD
 :EXPORT_HUGO_SECTION: bul
 :END:
 
-** Buletin Cosmic nr. 116 :spacex:starlink:falcon9:artemis:
+** Buletin Cosmic nr. 116 :spacex:starlink:falcon9:artemis:ariane5:jwst:eva:iss:
 :PROPERTIES:
 :EXPORT_FILE_NAME: 116
 :EXPORT_DATE: 2021-05-26
 :END:   
-
-⋮⋮⋮ *CONȚINUT PROVIZORIU & INCOMPLET, BULETIN ÎN LUCRU* ⋮⋮⋮
 
 O rachetă *Falcon 9* a fost lansată în 26.05.2021, ora 21:59 EEST, de pe rampa de lansare SLC-40 de la Cape Canaveral, pentru o nouă misiune *Starlink*. A fost doar al doilea zbor pentru treapta primară B1063, care a mai fost folosită o singură dată, pentru lansarea satelitului Sentinel-6 de la baza aeriană Vandenberg; după acea lansare, racheta a revenit la sol. După lansarea din 26.05.2021, prima treaptă a revenit pe barja /Just Read the Instructions/. Este și cea mai nouă treaptă primară folosită de *SpaceX*. După lansarea Sentinel-6, treapta primară a fost transportată din California în Florida și probabil i-au fost schimbate cel puțin un motor Merlin, pentru că am avut parte și de un test static al propulsoarelor, lucru relativ rar pentru lansări Starlink. În aceeași ordine de idei, lansările Starlink de obicei aveau loc cu trepte primare cu mai multe misiuni la activ. Ultima lansare ratată pentru SpaceX a fost în iunie 2015, când problemele tehnice ale treptei secundare a dus la pierderea capsulei Dragon în Oceanul Atlantic. De atunci au avut loc 100 de lansări efectuate cu succes de racheta Falcon 9 (nu luăm în calcul misiunea Amos-6, când racheta a explodat pe rampă, înainte de lansare). În 2021 au avut loc până acum nu mai puțin de 16 lansări SpaceX, ceea ce înseamnă, în medie, câte o lansare la fiecare 9 zile (sau a 6-a lansare în ultimele 33 de zile, adică o lansare la fiecare 5 zile). Având în vedere că masa unui satelit Starlink este de 260 kg și pentru că acum avem 1664 de sateliți Starlink pe orbită, înseamnă că masa totală lansată de SpaceX în cadrul acestui proiect depășește 430 de tone; spre comparație, masa Stației Spațiale Internaționale este de aproximativ 420 de tone.
 
@@ -6459,7 +6457,22 @@ O rachetă *Falcon 9* a fost lansată în 26.05.2021, ora 21:59 EEST, de pe ramp
 
 ---
 
-La doar două zile de la ultima lansare Starlink, compania *Arianespace* a lansat ieri la 20:38 EEST un nou set de 36 de sateliți *OneWeb*, folosind o rachetă *Soyuz-2.1b* (cu o treaptă superioară Fregat), de la centrul spațial rusesc Vostochny. A fost a 7-a lansare OneWeb, constelație care acum are 218 sateliți activi, următoarea lansare fiind programată la începutul lunii iulie. Sateliții OneWeb au același rol ca și cei Starlink: asigurarea unei conexiuni la internet cu o latență seminificativ mai mică decât cea furnizată de sateliții geostaționari, însă OneWeb vor folosi oribite mai înalte decât Starlink (1200 km față de 550 km folosiți de Starlink), motiv pentru care numărul de sateliți necesari este mai mic.
+La doar două zile de la ultima lansare Starlink, compania *Arianespace* a lansat ieri la 20:38 EEST un nou set de 36 de sateliți *OneWeb*, folosind o rachetă *Soyuz-2.1b* (cu o treaptă superioară Fregat), de la centrul spațial rusesc Vostochny[fn::https://www.arianespace.com/mission/soyuz-flight-st32/]. A fost a 7-a lansare OneWeb, constelație care acum are 218 sateliți activi, următoarea lansare fiind programată la începutul lunii iulie. Sateliții OneWeb au același rol ca și cei Starlink: asigurarea unei conexiuni la internet cu o latență seminificativ mai mică decât cea furnizată de sateliții geostaționari, însă OneWeb vor folosi oribite mai înalte decât Starlink (1200 km față de 550 km folosiți de Starlink), motiv pentru care numărul de sateliți necesari este mai mic.
+
+---
+
+Este posibil ca lansarea telescopului spațial *James Webb (JWST)* să fie, din nou, amânată, datorită unor probleme identificate la racheta Ariane 5[fn::https://spacenews.com/ariane-5-issue-could-delay-jwst/]. Ultima dată când o rachetă Ariane 5 a părăsit o rampă de lansare a fost  în luna august anul trecut[fn::https://www.arianespace.com/mission/ariane-flight-va253/] și au început să apară suspiciuni că pauza atât de lungă este cauzată de probleme ale rachetei europene. *Arianespace* a recunoscut că a identificat, în ultimele două lansări, probleme cu separarea conului protector al încărcăturii, care ar fi cauzat vibrații peste limitele acceptate și posibil periculoase. Ultimii sateliți lansați nu au fost afectați, dar pentru a evita problemele în viitor, s-a decis investigarea problemei. JWST este probabil cel mai scump satelit lansat vreodată în spațiu, costul proiectului depășind 10 miliarde de dolari, așa că Arianespace vrea să se asigure că nu vor fi nici un fel de probleme în timpul lansării. În acest context, lansarea programată pentru 31 octombrie va fi probabil amânată cu cel puțin câteva săptămâni.
+
+#+CAPTION: Ultima lansare a rachetei Ariane 5, din 15 august 2020. Sursa foto: [[https://www.arianespace.com/gallery/?taxonomy%5Barianespace-gallery-category%5D=ariane-5][Arianespace]].
+[[/img/VA253.jpg]]
+
+---
+
+În 29 mai, la ora 15:56 EEST, o rachetă chineză *Changzheng-7* a lansat pe orbită nava cargo *Tianzhou-2*, care, la doar 8 ore și 6 minute după lansare, a andocat automat cu modulul Tianhe al Stației Spațiale Chineze[fn::https://youtu.be/cno1FM_B1WM]. Lansarea a avut loc de pe rampa de lansare de la centrul spațial Wenchang. Treapta secundară a rachetei Changzheng-7 a rămas pe orbită (196 km x 321 km, înclinație 41.5°).
+
+---
+
+Cosmonauții Oleg Novitski și Piotr Dubrov au efectuat miercuri, 2 iunie, începând în jurul orei 09:00 ora României, cea de-a 238-a *activitate extravehiculară* de la bordul Stației Spațiale Internaționale (a 48-a activitate extravehiculară rusă). Cei dou cosmonauți au pregătit modulul Pirs pentru despărțirea de *Stația Spațială Internațoinală*, care va avea loc în această vară, pentru a face loc mult mai încăpătorului modul Nauka[fn::https://blogs.nasa.gov/spacestation/2021/06/02/cosmonauts-finish-spacewalk-to-ready-station-for-new-module/]. Nauka este pregătit pentru a fi lansat spre ISS în jurul datei de 15 iulie. Activitatea extravehiculară a durat 7 ore și 19 minute.
 
 ** Buletin Cosmic nr. 115 :zhurong:marte:falcon9:spacex:cz4b:electron:
 :PROPERTIES:
