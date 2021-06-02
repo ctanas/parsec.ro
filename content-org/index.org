@@ -6457,6 +6457,10 @@ O rachetă *Falcon 9* a fost lansată în 26.05.2021, ora 21:59 EEST, de pe ramp
 
 ---
 
+Până în 2023, *SpaceX* va lansa 4 misiuni cu echipaj pentru compania *Axiom Space*. Prima misiune a fost deja contractată pentru începutul anului viitor (Michael López-Alegría, Larry Connor, Mark Pathy și Eytan Stibbe), contract care a fost extins pentru alte trei misiuni, care vor fi programate în funcție de disponibilitatea NASA de a primi turiști spațiali[fn::https://www.axiomspace.com/press-release/axiom-spacex-deal]. Turiștii (sau astronauții privați?) vor ajunge la bordul ISS folosind capsule Dragon, așa cum era de așteptat. A doua misiune Axiom (Ax-2) este programată pentru toamna anului 2022 și sunt cunoscuți până acum doar 2 din ce 4 membri ai echipajului: Peggy Whitson (care deține mai multe recorduri stabilite în cele 3 misiuni spațiale precedente) și John Shoffner[fn::https://www.spacex.com/updates/axiom-announcement/index.html], în timp ce un al treilea membru al echipajului va fi câștigătorul concursului /Who Wants to Be an Astronaut?/ derulat de canalul TV Discovery sub forma unui reality-show.
+
+---
+
 La doar două zile de la ultima lansare Starlink, compania *Arianespace* a lansat ieri la 20:38 EEST un nou set de 36 de sateliți *OneWeb*, folosind o rachetă *Soyuz-2.1b* (cu o treaptă superioară Fregat), de la centrul spațial rusesc Vostochny[fn::https://www.arianespace.com/mission/soyuz-flight-st32/]. A fost a 7-a lansare OneWeb, constelație care acum are 218 sateliți activi, următoarea lansare fiind programată la începutul lunii iulie. Sateliții OneWeb au același rol ca și cei Starlink: asigurarea unei conexiuni la internet cu o latență seminificativ mai mică decât cea furnizată de sateliții geostaționari, însă OneWeb vor folosi oribite mai înalte decât Starlink (1200 km față de 550 km folosiți de Starlink), motiv pentru care numărul de sateliți necesari este mai mic.
 
 ---
