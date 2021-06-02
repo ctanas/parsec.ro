@@ -16,6 +16,7 @@ Siteul de față reprezintă o colecție personală de materiale, articole și n
 
 | Data        | Lansator    | Serie        | Satelit                        | T  | Centru    | Rampă | R. | Bul             |
 |-------------|-------------|--------------|--------------------------------|----|-----------|-------|----|-----------------|
+| 02.06 16:17 | CZ-3B       | 3B-Y72       | Fengyun-4B                     | CN | Xichang   | LC-2  | S  | [117](/bul/117) |
 | 29.05 12:56 | CZ-7        | Y3           | Tianzhou-2                     | CN | Wenchang  | LC-2  | S  | [116](/bul/116) |
 | 28.05 17:38 | Soyuz-2.1b  | ST32         | OneWeb-7                       | EU | Vostochny | 1S    | S  | [116](/bul/116) |
 | 26.05 18:59 | Falcon 9    | 120/1063.2   | Starlink 1.0-L28               | US | CC        | LC40  | S  | [116](/bul/116) |
@@ -25,7 +26,6 @@ Siteul de față reprezintă o colecție personală de materiale, articole și n
 | 15.05 11:11 | Electron    | 20           | BlackSky / Running out of toes | US | Mahia     | LC-1  | F  | [115](/bul/115) |
 | 09.05 06:42 | Falcon 9    | 118/B1051.10 | Starlink 1.0-L27               | US | CC        | LC40  | S  | [115](/bul/115) |
 | 06.05 18:11 | CZ-2C       | 2C-Y47       | Yaogan-30-08                   | CN | Xichang   | LC3   | S  | [114](/bul/114) |
-| 04.05 19:01 | Falcon 9    | 117/B1049.9  | Starlink 1.0-L25               | US | KSC       | LC39A | S  | [114](/bul/114) |
 
 Detalii cu privire la informațiile din tabel, pot fi găsite în secțiunea [Legendă tabele](/t/legenda_tabele). Data și ora sunt UTC.
 

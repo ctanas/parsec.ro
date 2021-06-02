@@ -6443,10 +6443,20 @@ SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD
 :EXPORT_HUGO_SECTION: bul
 :END:
 
+** Buletin Cosmic nr. 117 :cz3b:
+:PROPERTIES:
+:EXPORT_FILE_NAME: 117
+:EXPORT_DATE: 2021-06-03
+:END:   
+
+*⋮⋮⋮ BULETIN ÎN LUCRU, CONȚINUT INCOMPLET ⋮⋮⋮*
+
+Miercuri, 2 iunie, la ora 19:17, o rachetă Changzheng-3B a lansat pe orbită geosincronă satelitul de observații meteorologice Fengyun-4B de pe rampa LC-2 a centrului spațial Xichang[fn::http://www.xinhuanet.com/english/2021-06/03/c_139985725.htm], după o amânare de 24 de ore. A fost a 372-a lansare a unei rachete chineze Chang Zheng.
+   
 ** Buletin Cosmic nr. 116 :spacex:starlink:falcon9:artemis:ariane5:jwst:eva:iss:
 :PROPERTIES:
 :EXPORT_FILE_NAME: 116
-:EXPORT_DATE: 2021-05-26
+:EXPORT_DATE: 2021-06-02
 :END:   
 
 O rachetă *Falcon 9* a fost lansată în 26.05.2021, ora 21:59 EEST, de pe rampa de lansare SLC-40 de la Cape Canaveral, pentru o nouă misiune *Starlink*. A fost doar al doilea zbor pentru treapta primară B1063, care a mai fost folosită o singură dată, pentru lansarea satelitului Sentinel-6 de la baza aeriană Vandenberg; după acea lansare, racheta a revenit la sol. După lansarea din 26.05.2021, prima treaptă a revenit pe barja /Just Read the Instructions/. Este și cea mai nouă treaptă primară folosită de *SpaceX*. După lansarea Sentinel-6, treapta primară a fost transportată din California în Florida și probabil i-au fost schimbate cel puțin un motor Merlin, pentru că am avut parte și de un test static al propulsoarelor, lucru relativ rar pentru lansări Starlink. În aceeași ordine de idei, lansările Starlink de obicei aveau loc cu trepte primare cu mai multe misiuni la activ. Ultima lansare ratată pentru SpaceX a fost în iunie 2015, când problemele tehnice ale treptei secundare a dus la pierderea capsulei Dragon în Oceanul Atlantic. De atunci au avut loc 100 de lansări efectuate cu succes de racheta Falcon 9 (nu luăm în calcul misiunea Amos-6, când racheta a explodat pe rampă, înainte de lansare). În 2021 au avut loc până acum nu mai puțin de 16 lansări SpaceX, ceea ce înseamnă, în medie, câte o lansare la fiecare 9 zile (sau a 6-a lansare în ultimele 33 de zile, adică o lansare la fiecare 5 zile). Având în vedere că masa unui satelit Starlink este de 260 kg și pentru că acum avem 1664 de sateliți Starlink pe orbită, înseamnă că masa totală lansată de SpaceX în cadrul acestui proiect depășește 430 de tone; spre comparație, masa Stației Spațiale Internaționale este de aproximativ 420 de tone.
