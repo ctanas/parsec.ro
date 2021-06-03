@@ -132,6 +132,7 @@ draft = false
 | 2021-05-09 | Falcon 9     | 118/B1051.10 | Starlink 1.0-L27                      | CC         | LC40  | S |
 | 2021-05-15 | Falcon 9     | 119/1058.8   | Starlink 1.0-L26 / Capella-6          | KSC        | LC39A | S |
 | 2021-05-26 | Falcon 9     | 120/1063.2   | Starlink 1.0-L28                      | CC         | LC40  | S |
+| 2021-06-03 | Falcon 9     | 121/1067.1   | Dragon CRS-23 / Dragon C209           | KSC        | LC39A | S |
 
 
 ## Lista treptelor primare Falcon 9 Block 5 inactive {#lista-treptelor-primare-falcon-9-block-5-inactive}
@@ -332,9 +333,6 @@ Recuperarea pe barja OCISLY după misiunea Starlink-8 nu a reușit.
 | B1063.2 | 26.05.2021 | Starlink-28 | JRI        | Falcon 9 |
 
 
-## Lista treptelor primare Falcon 9 Block 5 viitoare {#lista-treptelor-primare-falcon-9-block-5-viitoare}
-
-
 ### B1064 {#b1064}
 
 | Booster | Data       | Misiunea | Recuperare | Racheta    |
@@ -360,7 +358,7 @@ Recuperarea pe barja OCISLY după misiunea Starlink-8 nu a reușit.
 
 | Booster | Data       | Misiunea     | Recuperare | Racheta  |
 |---------|------------|--------------|------------|----------|
-| B1067.1 | ??.06.2021 | CRS-22       | ???        | Falcon 9 |
+| B1067.1 | 03.06.2021 | CRS-22       | OCISLY     | Falcon 9 |
 | B1067.2 | ??.09.2021 | Inspiration4 | ???        | Falcon 9 |
 | B1067.3 | ??.10.2021 | Crew-3       | ???        | Falcon 9 |
 
@@ -381,3 +379,6 @@ LZ-1, LZ-2
 
 LZ-4
 : Fostul complex SLC-4W de la baza aeriană Vandenberg, închiriat de SpaceX, care a construit o zonă în care boosterul Falcon 9 poate reveni controla la sol.
+
+
+## Lista treptelor primare Falcon 9 Block 5 viitoare {#lista-treptelor-primare-falcon-9-block-5-viitoare}

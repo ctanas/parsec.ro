@@ -1362,8 +1362,6 @@ Recuperarea pe barja OCISLY după misiunea Starlink-8 nu a reușit.
 | B1063.2 | 26.05.2021 | Starlink-28 | JRI        | Falcon 9 |
 
 
-*** Lista treptelor primare Falcon 9 Block 5 viitoare
-
 **** B1064
 
 | Booster | Data       | Misiunea | Recuperare | Racheta    |
@@ -1386,7 +1384,7 @@ Recuperarea pe barja OCISLY după misiunea Starlink-8 nu a reușit.
      
 | Booster | Data       | Misiunea     | Recuperare | Racheta  |
 |---------+------------+--------------+------------+----------|
-| B1067.1 | ??.06.2021 | CRS-22       | ???        | Falcon 9 |
+| B1067.1 | 03.06.2021 | CRS-22       | OCISLY     | Falcon 9 |
 | B1067.2 | ??.09.2021 | Inspiration4 | ???        | Falcon 9 |
 | B1067.3 | ??.10.2021 | Crew-3       | ???        | Falcon 9 |
 
@@ -1399,6 +1397,8 @@ Recuperarea pe barja OCISLY după misiunea Starlink-8 nu a reușit.
 - LZ-1, LZ-2 :: *Landing Zone 1 și 2* Fostul complex LC13 de la Cape Canaveral, închiriat de SpaceX, care a construit două zone unde boosterele Falcon pot reveni controlat la sol.
 
 - LZ-4 :: Fostul complex SLC-4W de la baza aeriană Vandenberg, închiriat de SpaceX, care a construit o zonă în care boosterul Falcon 9 poate reveni controla la sol.
+
+*** Lista treptelor primare Falcon 9 Block 5 viitoare
 
 ** Atlas V
 :PROPERTIES:
