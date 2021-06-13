@@ -79,4 +79,4 @@ Ce s-a întâmplat însă cu vehiculele deja construite? Povestea lor este una t
 
 Moștenirea programului Buran însă continuă și astăzi. Boosterele rachetei Energia au fost sursă de inspirație pentru rachetele folosite în prezent de către compania Sea Launch iar viitoarea generație de rachete rusești Angara tot de acolo se inspiră. Sistemul de andocare proiectat pentru Buran a fost folosit pentru stația spațială MIR și continuă să fie folosit și astăzi la bordul ISS.
 
-_Articol publicat inițial în revista Știință&Tehnică, iulie 2013_.
+_Articol publicat inițial în revista Știință&Tehnică, iulie 2013_ _și adus la zi ulterior_.
