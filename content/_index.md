@@ -14,18 +14,18 @@ Siteul de față reprezintă o colecție personală de materiale, articole și n
 
 ## Ultimele lansări orbitale {#ultimele-lansări-orbitale}
 
-| Data        | Lansator    | Serie      | Satelit                      | T  | Centru     | Rampă | R. | Bul             |
-|-------------|-------------|------------|------------------------------|----|------------|-------|----|-----------------|
-| 13.06 08:11 | Pegasus XL  | F45        | TacRL-2 / Odyssey            | US | Vandenberg | RW??  | S  | [117](/bul/117) |
-| 11.06 03:03 | CZ-2D       | 2D-Y54     | Beijing-3-01                 | CN | Taiyuan    | LC-9  | S  | [117](/bul/117) |
-| 03.06 17:29 | Falcon 9    | 121/1067.1 | Dragon CRS-23 / Dragon C209  | US | KSC        | LC39A | S  | [117](/bul/117) |
-| 02.06 16:17 | CZ-3B       | 3B-Y72     | Fengyun-4B                   | CN | Xichang    | LC-2  | S  | [117](/bul/117) |
-| 29.05 12:56 | CZ-7        | Y3         | Tianzhou-2                   | CN | Wenchang   | LC-2  | S  | [116](/bul/116) |
-| 28.05 17:38 | Soyuz-2.1b  | ST32       | OneWeb-7                     | EU | Vostochny  | 1S    | S  | [116](/bul/116) |
-| 26.05 18:59 | Falcon 9    | 120/1063.2 | Starlink 1.0-L28             | US | CC         | LC40  | S  | [116](/bul/116) |
-| 19.05 17:35 | CZ-4B       | 4B-Y48     | HaiYang-2D                   | CN | Jiuquan    | SLS-2 | S  | [115](/bul/115) |
-| 18.05 17:37 | Atlas V 421 | AV-091     | SBIRS-GEO-5                  | US | CC         | LC41  | S  | [115](/bul/115) |
-| 15.05 22:56 | Falcon 9    | 119/1058.8 | Starlink 1.0-L26 / Capella-6 | US | KSC        | LC39A | S  | [115](/bul/115) |
+| Data        | Lansator    | Serie      | Satelit                     | T  | Centru     | Rampă | R. | Bul             |
+|-------------|-------------|------------|-----------------------------|----|------------|-------|----|-----------------|
+| 15.06 13:35 | Minotaur 1  |            | NROL-111                    | US | Wallops    | LP-0B | S  | [117](/bul/117) |
+| 13.06 08:11 | Pegasus XL  | F45        | TacRL-2 / Odyssey           | US | Vandenberg | RW??  | S  | [117](/bul/117) |
+| 11.06 03:03 | CZ-2D       | 2D-Y54     | Beijing-3-01                | CN | Taiyuan    | LC-9  | S  | [117](/bul/117) |
+| 03.06 17:29 | Falcon 9    | 121/1067.1 | Dragon CRS-23 / Dragon C209 | US | KSC        | LC39A | S  | [117](/bul/117) |
+| 02.06 16:17 | CZ-3B       | 3B-Y72     | Fengyun-4B                  | CN | Xichang    | LC-2  | S  | [117](/bul/117) |
+| 29.05 12:56 | CZ-7        | Y3         | Tianzhou-2                  | CN | Wenchang   | LC-2  | S  | [116](/bul/116) |
+| 28.05 17:38 | Soyuz-2.1b  | ST32       | OneWeb-7                    | EU | Vostochny  | 1S    | S  | [116](/bul/116) |
+| 26.05 18:59 | Falcon 9    | 120/1063.2 | Starlink 1.0-L28            | US | CC         | LC40  | S  | [116](/bul/116) |
+| 19.05 17:35 | CZ-4B       | 4B-Y48     | HaiYang-2D                  | CN | Jiuquan    | SLS-2 | S  | [115](/bul/115) |
+| 18.05 17:37 | Atlas V 421 | AV-091     | SBIRS-GEO-5                 | US | CC         | LC41  | S  | [115](/bul/115) |
 
 Detalii cu privire la informațiile din tabel, pot fi găsite în secțiunea [Legendă tabele](/t/legenda_tabele). Data și ora sunt UTC.
 
