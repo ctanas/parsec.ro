@@ -6471,6 +6471,19 @@ SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD
 :EXPORT_DATE: 2021-06-17
 :END:   
 
+---
+
+În dimineața zilei de 6 iunie, la ora 07:26, o rachetă Falcon 9 a lansat satelitul de telecomunicații Sirius-XM (SXM-8), construit de compania Maxar[fn::https://blog.maxar.com/space-infrastructure/2021/preparing-for-launch-sxm-8-arrives-at-launch-base], pentru asigurarea de programe radio pentru continentul nord-american, de pe rampa SLC-40 de la Cape Canaveral. Pentru lansare a fost folosită treapta primară B1061, cea care în prealabil lansase și misiunile Crew-1 și Crew-2 pentru NASA. Satelitul Sirius precedent, SXM-7, lansat tot de SpaceX în decembrie 2020, nu a mai putut fi folosit după ce a ajuns pe orbita geostaționară, din cauza unei defecțiuni tehnice. Treapta primară B1061 a revenit și de această dată pe barja /Just Read the Instructions/.
+
+---
+
+Capsula cargo Dragon CRS-22, lansată în data de 3 iunie de o rachetă Falcon 9, a andocat la modulul Harmony (sasul IDA-3) în 5 iunie, la ora 12:09[fn::https://blogs.nasa.gov/spacexcrs22/2021/06/03/spacexs-22nd-cargo-resupply-mission-underway-as-dragon-journeys-to-station/]. Aceasta a transportat spre ISS peste 3.3 tone de echipamente și provizii, din care aproape 1.4 tone reprezintă cele două panouri solare de nouă generație (IROSA), care urmează să fie montate de Shane Kimbrough și Thomas Pesquet, pe parcursul a două activități extravehiculare, care vor avea loc în 16 și 20 iunie.
+
+#+CAPTION: Capsula Dragon CRS-22 apropiindu-se de sasul IDA-3 al modulului Harmony pentru andocare, în timp ce în plan apropiat se vede andocată capsula Dragon Endeavour, folosită de echipajul misiunii Crew-2 (Sursa foto: NASA)
+[[/img/CRS22.jpg]]
+
+---
+
 Miercuri, 2 iunie, la ora 19:17, o rachetă *Changzheng-3B* a lansat pe orbită geosincronă satelitul de observații meteorologice Fengyun-4B de pe rampa LC-2 a centrului spațial Xichang[fn::http://www.xinhuanet.com/english/2021-06/03/c_139985725.htm], după o amânare de 24 de ore. A fost a 372-a lansare a unei rachete chineze Chang Zheng.
 
 ---
