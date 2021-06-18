@@ -25,6 +25,14 @@ Construcția ISS a însemnat asamblare pe orbită a [modulelor componente](<http
 | Akihiko Hoshide   | JAXA | Dragon "Endeavour" | 24.04.2021 | Dragon "Endeavour" | xx.10.2021 |
 | Thomas Pesquet    | ESA  | Dragon "Endeavour" | 24.04.2021 | Dragon "Endeavour" | xx.10.2021 |
 
+Pe stația spațială chineză se află în prezent 3 taikonauți:
+
+| Nume         | Vehicul     | Dată sosire | Dată plecare |
+|--------------|-------------|-------------|--------------|
+| Nie Haisheng | Shenzhou-12 | 17.06.2021  | xx.09.2021   |
+| Liu Boming   | Shenzhou-12 | 17.06.2021  | xx.09.2021   |
+| Tang Hongbo  | Shenzhou-12 | 17.06.2021  | xx.09.2021   |
+
 
 ## Câte vehicule sunt în prezent andocate la ISS? {#câte-vehicule-sunt-în-prezent-andocate-la-iss}
 

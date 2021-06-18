@@ -6055,3 +6055,4 @@
 2021-050    2021-06-15 13:35   Minotaur 1                                   NROL-111                                       US   Wallops      LP-0B      S 117
 2021-051    2021-06-17 01:22   Chang Zheng 2F          2F-Y12               Shenzhou-12                                    CN   Jiuquan      SLS-1      S 118
 2021-052    2021-06-17 16:09   Falcon 9                122/1062.2           GPS-III-SV05                                   US   CC           LC40       S 118
+2021-053    2021-06-18 06:30   Chang Zheng 2C          2C-Y48               Yaogan-30                                      CN   Xichang      LC-3       S 118

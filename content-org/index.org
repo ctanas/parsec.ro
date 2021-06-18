@@ -219,6 +219,14 @@ Construcția ISS a însemnat asamblare pe orbită a [modulelor componente](https
 | Akihiko Hoshide   | JAXA | Dragon "Endeavour"  | 24.04.2021 | Dragon "Endeavour"  | xx.10.2021 |
 | Thomas Pesquet    | ESA  | Dragon "Endeavour"  | 24.04.2021 | Dragon "Endeavour"  | xx.10.2021 |
 
+Pe stația spațială chineză se află în prezent 3 taikonauți:
+
+| Nume         | Vehicul     | Dată sosire | Dată plecare |
+|--------------+-------------+-------------+--------------|
+| Nie Haisheng | Shenzhou-12 |  17.06.2021 | xx.09.2021   |
+| Liu Boming   | Shenzhou-12 |  17.06.2021 | xx.09.2021   |
+| Tang Hongbo  | Shenzhou-12 |  17.06.2021 | xx.09.2021   |
+
 *** Câte vehicule sunt în prezent andocate la ISS?
 
 | Port          | Vehicul            |    Lansare | Rachetă      |     Sosire | Plecare    |
@@ -1269,7 +1277,6 @@ Recuperarea pe barja OCISLY nu a reușit.
 
 Recuperarea pe barja OCISLY după misiunea Starlink-8 nu a reușit.
 
-
 *** Lista treptelor primare Falcon 9 Block 5 active
 
 **** B1049
@@ -1342,17 +1349,18 @@ Recuperarea pe barja OCISLY după misiunea Starlink-8 nu a reușit.
 
 **** B1061
 
-| Booster |       Data | Misiunea | Recuperare | Racheta  |
-|---------+------------+----------+------------+----------|
-| B1061.1 | 16.11.2020 | Crew-1   | JRI        | Falcon 9 |
-| B1061.2 | 23.04.2021 | Crew-2   | OCISLY     | Falcon 9 |
+| Booster |       Data | Misiunea   | Recuperare | Racheta  |
+|---------+------------+------------+------------+----------|
+| B1061.1 | 16.11.2020 | Crew-1     | JRI        | Falcon 9 |
+| B1061.2 | 23.04.2021 | Crew-2     | OCISLY     | Falcon 9 |
+| B1061.3 | 06.06.2021 | Sirius-XM8 | JRI        | Falcon 9 |
 
 **** B1062
 
-| Booster | Data       | Misiunea  | Recuperare | Racheta  |
+| Booster |       Data | Misiunea  | Recuperare | Racheta  |
 |---------+------------+-----------+------------+----------|
 | B1062.1 | 05.11.2020 | GPS3-SV04 | OCISLY     | Falcon 9 |
-| B1062.2 | ??.07.2021 | GPS3-SV05 | ???        | Falcon 9 |
+| B1062.2 | 17.06.2021 | GPS3-SV05 | JRI        | Falcon 9 |
 
 **** B1063
 
@@ -1360,7 +1368,6 @@ Recuperarea pe barja OCISLY după misiunea Starlink-8 nu a reușit.
 |---------+------------+-------------+------------+----------|
 | B1063.1 | 21.11.2020 | Sentinel-6  | LZ-4       | Falcon 9 |
 | B1063.2 | 26.05.2021 | Starlink-28 | JRI        | Falcon 9 |
-
 
 **** B1064
 
@@ -2510,6 +2517,7 @@ WHERE lv_type LIKE ('Delta 4H%')
 | 567 | Sergey Kud-Sverchkov         | Rusia          |     14.10.2020 | Soyuz MS-17      |
 | 568 | Victor Glover                | SUA            |     15.11.2020 | SpaceX Crew-1    |
 | 569 | Pyotr Dubrov                 | Rusia          |     09.04.2021 | Soyuz MS-18      |
+| 570 | Tang Hongbo                  | China          |     17.06.2021 | Shenzhou-12      |
 
 ** Lansări cu echipaj uman
 :PROPERTIES:

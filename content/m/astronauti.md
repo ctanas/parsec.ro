@@ -575,3 +575,4 @@ draft = false
 | 567 | Sergey Kud-Sverchkov         | Rusia          | 14.10.2020     | Soyuz MS-17      |
 | 568 | Victor Glover                | SUA            | 15.11.2020     | SpaceX Crew-1    |
 | 569 | Pyotr Dubrov                 | Rusia          | 09.04.2021     | Soyuz MS-18      |
+| 570 | Tang Hongbo                  | China          | 17.06.2021     | Shenzhou-12      |
