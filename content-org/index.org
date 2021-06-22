@@ -6465,13 +6465,29 @@ SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD
 :EXPORT_HUGO_SECTION: bul
 :END:
 
-** Buletin Cosmic nr. 118
+** Buletin Cosmic nr. 118 :spacex:falcon9:gps:ariane6:
 :PROPERTIES:
 :EXPORT_FILE_NAME: 118
 :EXPORT_DATE: 2021-06-18
 :END:
 
 *⋮⋮⋮ BULETIN ÎN LUCRU, CONȚINUT INCOMPLET ⋮⋮⋮*
+
+După o pauză de aproape 5 ani, China lansează pe orbită un nou echipaj de taikonauți (Nie Haisheng, Liu Boming și Tang Hongbo), la bordul capsulei Shenzhou-12, folosind singura rachetă chinezească certificată pentru zboruri cu echipaj, Changzheng-2F. Lansarea a avut loc în 17 iunie, ora 04:22 ora României, de la centrul spațial din Jiuquan. Capsula Shenzhou-12 a andocat la modulul Tianhe al stației spațiale chineze Tiangong la ora 10:54, iar sasul dintre cele două vehicule a fost deschis la ora 13:48. Cei trei taikonauți vor petrece aproximativ 3 luni la bordul Tiangong, timp în care vor efectua și o activitate extravehiculară.
+
+---
+
+O rachetă Changzheng-2C a lansat, în 18 iunie, trei sateliți Yaogan-30 de la centrul spațial Xichang din China. Nu avem detalii despre acești sateliți, dar deși China susține că ei sunt folosiți în scopuri științifice, comunitatea internațională crede că ei sunt folosiți pentru spionaj militar. Acest lucru derivă și din orbita sateliților, care se află la o altitudine de 600 km și înclinație orbitală de 35 de grade. Împreună cu acești sateliți, a ajuns în spațiu și un satelit de mici dimensiuni, Tianqi-14. Un nou set de sateliți Yaogan-30 vor fi lansați luna viitoare, folosind același tip de rachetă, Changzheng-2C. Până acum au fost lansați 27 de sateliți Yaogan-30.
+
+---
+
+În 17 iunie, o rachetă Falcon 9 a lansat pe orbită terestră medie un nou satelit GPS (GPS-III-SV05, cu o masă de 4331 kg). A fost pentru prima dată când SpaceX a folosit o treaptă primară recuperată pentru o misiune Space Force, după ce în noiembrie 2020, treapta B1062 a lansat precedentul satelit GPS (SV04). Sateliții GPS-III sunt a treia generație de sateliți Navstar, care pentru început vor înlocui câțiva sateliți mai vechi, urmând ca întreaga constelație de sateliți GPS-II să fie înlocuiți cu GPS-III. În prezent, pe orbită sunt 31 de sateliți GPS, iar unii sunt funcționali de la sfârșitul anilor '90[fn::https://www.lockheedmartin.com/en-us/news/features/2021/fifth-gps-iii-satellite-launch.html]. Treapta primară B1062 a fost din nou recuperată, pe barja /Just Read the Instructions/.
+
+---
+
+După ce inițial trebuia să fie inaugurat în 2020, noul lansator european Ariane 6, a cărui dezvoltare a început din 2014, se va lăsa așteptat. Prima lansare a fost amânată pentru finalul anului următor[fn::https://arstechnica.com/science/2021/06/europes-space-chief-appoints-task-force-to-assess-ariane-6-schedule-concerns/], cu mari șanse ca aceasta să ajungă să aibă loc în 2023. Ariane 6 urmează să înlocuiască racheta Ariane 5 și să ofere lansări mai ieftine, între 75-115 milioane de euro, în funcție de configurație. Ariane 6 va putea urca cel mult 5 tone pe orbită geostaționară și maximum 21.6 tone pe orbită terestră joasă.
+
+---
 
 ** Buletin Cosmic nr. 117 :cz3b:venus:envision:blueorigin:minotaur1:pegasusxl:juno:
 :PROPERTIES:
