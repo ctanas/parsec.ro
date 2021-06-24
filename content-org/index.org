@@ -6483,8 +6483,8 @@ După o pauză de aproape 5 ani, China lansează pe orbită un nou echipaj de ta
 
 ---
 
-În 12 iunie, *Iranul* a avut o nouă tentativă de lansare orbitală[fn::https://www.france24.com/en/live-news/20210623-iran-satellite-launch-in-early-june-failed-pentagon?fbclid=IwAR34S04N4Wq6PBX3l73tXvh4VLDrKJKZlWBHCjtcHsVdZMLcBuLAa9rL5Hw], aparent folosind o rachetă *Simorgh* (cu combustibil lichid). 
-Tentativa a fost una eșuată, dar nu se cunosc detalii, nu știm în ce stadiu al zborului au apărut problemele care au împiedicat satelitul să ajungă pe orbită. Din imaginile înregistrate (și) de sateliții comerciali care zboară deasupra Iranului, se pare că o nouă tentativă de lansare este iminentă.
+În 12 iunie, *Iranul* a avut o nouă tentativă de lansare orbitală[fn::https://www.france24.com/en/live-news/20210623-iran-satellite-launch-in-early-june-failed-pentagon], aparent folosind o rachetă *Simorgh* (cu combustibil lichid). Pentagonul a confirmat în 24 iunie că a urmărit lansarea[fn::https://edition.cnn.com/2021/06/22/politics/iran-failed-satellite-launch/index.html].
+Tentativa a fost una eșuată și nu se cunosc detalii, nu știm în ce stadiu al zborului au apărut problemele care au împiedicat satelitul să ajungă pe orbită. Din imaginile înregistrate (și) de sateliții comerciali care zboară deasupra Iranului, se pare că o nouă tentativă de lansare este iminentă.
 A fost al 5-lea zbor al rachetei Simorgh și al 4-lea eșec consecutiv pentru lansatorul derivat din racheta Safir-1. Ultima dată când Iranul a lansat un satelit pe orbită a fost anul trecut, în 22 aprilie, însă folosind o rachetă cu combustibil solid Qased, operată de armata iraniană (spre deosebire de Simorgh, care este operată de agenția spațială ISA, o organizație guvernamentală civilă).
 
 #+CAPTION: Imagine cu rampa de lansare de la centrul spațial Semnan din Iran, surprinsă de un satelit de observație comercial (Dove), al companiei Planet. 
