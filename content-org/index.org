@@ -6465,7 +6465,7 @@ SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD
 :EXPORT_HUGO_SECTION: bul
 :END:
 
-** Buletin Cosmic nr. 118 :spacex:falcon9:gps:ariane6:
+** Buletin Cosmic nr. 118 :spacex:falcon9:gps:ariane6:china:
 :PROPERTIES:
 :EXPORT_FILE_NAME: 118
 :EXPORT_DATE: 2021-06-18
@@ -6474,6 +6474,15 @@ SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD
 *⋮⋮⋮ BULETIN ÎN LUCRU, CONȚINUT INCOMPLET ⋮⋮⋮*
 
 După o pauză de aproape 5 ani, China lansează pe orbită un nou echipaj de taikonauți (Nie Haisheng, Liu Boming și Tang Hongbo), la bordul capsulei Shenzhou-12, folosind singura rachetă chinezească certificată pentru zboruri cu echipaj, Changzheng-2F. Lansarea a avut loc în 17 iunie, ora 04:22 ora României, de la centrul spațial din Jiuquan. Capsula Shenzhou-12 a andocat la modulul Tianhe al stației spațiale chineze Tiangong la ora 10:54, iar sasul dintre cele două vehicule a fost deschis la ora 13:48. Cei trei taikonauți vor petrece aproximativ 3 luni la bordul Tiangong, timp în care vor efectua și o activitate extravehiculară.
+
+---
+
+În 12 iunie, Iranul a avut o nouă tentativă de lansare orbitală[fn::https://www.france24.com/en/live-news/20210623-iran-satellite-launch-in-early-june-failed-pentagon?fbclid=IwAR34S04N4Wq6PBX3l73tXvh4VLDrKJKZlWBHCjtcHsVdZMLcBuLAa9rL5Hw], aparent folosind o rachetă Simorgh (cu combustibil lichid). 
+Tentativa a fost una eșuată, dar nu se cunosc detalii, nu știm în ce stadiu al zborului au apărut problemele care au împiedicat satelitul să ajungă pe orbită. Din imaginile înregistrate (și) de sateliții comerciali care zboară deasupra Iranului, se pare că o nouă tentativă de lansare este iminentă.
+A fost al 5-lea zbor al rachetei Simorgh și al 4-lea eșec consecutiv pentru lansatorul derivat din racheta Safir-1. Ultima dată când Iranul a lansat un satelit pe orbită a fost anul trecut, în 22 aprilie, însă folosind o rachetă cu combustibil solid Qased, operată de armata iraniană (spre deosebire de Simorgh, care este operată de agenția spațială ISA, o organizație guvernamentală civilă).
+
+#+CAPTION: Imagine cu rampa de lansare de la centrul spațial Semnan din Iran, surprinsă de un satelit de observație comercial (Dove), al companiei Planet. 
+[[/img/semnan.jpg]]
 
 ---
 
@@ -6488,6 +6497,20 @@ O rachetă Changzheng-2C a lansat, în 18 iunie, trei sateliți Yaogan-30 de la 
 După ce inițial trebuia să fie inaugurat în 2020, noul lansator european Ariane 6, a cărui dezvoltare a început din 2014, se va lăsa așteptat. Prima lansare a fost amânată pentru finalul anului următor[fn::https://arstechnica.com/science/2021/06/europes-space-chief-appoints-task-force-to-assess-ariane-6-schedule-concerns/], cu mari șanse ca aceasta să ajungă să aibă loc în 2023. Ariane 6 urmează să înlocuiască racheta Ariane 5 și să ofere lansări mai ieftine, între 75-115 milioane de euro, în funcție de configurație. Ariane 6 va putea urca cel mult 5 tone pe orbită geostaționară și maximum 21.6 tone pe orbită terestră joasă.
 
 ---
+
+În cadrul unei conferințe desfășurate la Hong Kong, China a făcut publice planurile sale pentru viitoarele lansatoare de calibru greu. Astfel, viitoarea rachetă Changzheng-9 a fost complet reproiectată, iar așa-numita "Rachetă 921", o altă rachetă de calibru greu, este acum numită Changzheng-5DY (DY provine de la inițialele în mandarină pentru "lander lunar").
+
+*Changzheng-5DY* va avea 3 trepte: o primă treaptă cu 7 motoare YF-100K (derivate din motoarele YF-100, cu kerosen —RP1/LOX, folosite de noua generație de lansatoare CZ-5, CZ-6, CZ-7 și CZ-8), o a doua treaptă cu 2 motoare YF-100M (varianta YF-100K optimizată pentru vid) și o a treia treaptă cu 3 motoare YF-75D (alimentate cu LH2/LOX, motoare folosite în prezent de a doua treaptă a rachetei CZ-5). Această rachetă va putea urca 70 tone pe orbită terestră joasă (LEO) și 27 tone spre Lună (performanțe selenare identice cu SLS Block 1). Fără a treia treaptă, racheta va putea urca 20 de tone pe orbită terestră joasă și va fi folosită pentru a lansa capsula cu echipaj care în viitor va înlocui capsula Shenzhou. Debutul acestei rachete este așteptat în 2025.
+
+Noua *Changzheng-9* va folosi 16 motoare YF-135 pentru prima treaptă (3.6 MN, RP1/LOX). Această primă treaptă va avea un diametru de 10.6 metri (Saturn V avea 10.1 metri diametru maxim). A doua treaptă va folosi 4 motoare YF-77 (LH2/LOX, folosite de treapta primară CZ-5) iar a treia treaptă (opțională) va avea 1 motor YF-77. Changzheng-9 va fi înaltă de 108 metri și va putea trimite 150 tone to orbită terestră joasă și 53 tone spre Lună (comparabilă cu SLS Block 2).
+
+---
+
+Roscosmos a inițiat discuțiile cu autoritățile franceze pentru ca, în viitor, rampa ELS de la centrul spațial din Guiana Franceză să poată fi folosită pentru lansări ale rachetei Soyuz-2 cu echipaj uman[fn::https://www.roscosmos.ru/31532/]. Din Guiana Franceză, o capsulă Soyuz ar putea fi lansată spre stația spațială chineză.
+
+---
+
+Computerul care controlează camera și restul echipamentelor științifice de la bordul telescopului spațial Hubble a suferit o problemă tehnică duminica trecută (13 iunie) și a intrat în safe-mode. Inițial inginerii NASA a crezut că de vină este un modul de memorie defect[fn::https://www.nasa.gov/feature/goddard/2021/operations-underway-to-restore-payload-computer-on-nasas-hubble-space-telescope], așa că au reîncercat reinițializarea computerului folosind un modul de memorie de rezervă, însă această operațiune nu a reușit. Momentan, toate operațiunile științifice ale lui Hubble sunt suspendate până la remedierea problemei.
 
 ** Buletin Cosmic nr. 117 :cz3b:venus:envision:blueorigin:minotaur1:pegasusxl:juno:
 :PROPERTIES:
