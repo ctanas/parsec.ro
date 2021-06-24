@@ -21,11 +21,11 @@ Siteul de față reprezintă o colecție personală de materiale, articole și n
 | 17.06 01:22 | CZ-2F      | 2F-Y12     | Shenzhou-12                 | CN | Jiuquan    | SLS-1 | S  | [118](/bul/118) |
 | 15.06 13:35 | Minotaur 1 |            | NROL-111                    | US | Wallops    | LP-0B | S  | [117](/bul/117) |
 | 13.06 08:11 | Pegasus XL | F45        | TacRL-2 / Odyssey           | US | Vandenberg | RW??  | S  | [117](/bul/117) |
+| 12.06 00:00 | Simorgh    |            | Zafar                       | IR | Semnan     | LP-2  | F  | [118](/bul/118) |
 | 11.06 03:03 | CZ-2D      | 2D-Y54     | Beijing-3-01                | CN | Taiyuan    | LC-9  | S  | [117](/bul/117) |
 | 06.06 04:26 | Falcon 9   | 121/1061.3 | SiriusXM-8                  | US | CC         | LC40  | S  | [117](/bul/117) |
 | 03.06 17:29 | Falcon 9   | 120/1067.1 | Dragon CRS-23 / Dragon C209 | US | KSC        | LC39A | S  | [117](/bul/117) |
 | 02.06 16:17 | CZ-3B      | 3B-Y72     | Fengyun-4B                  | CN | Xichang    | LC-2  | S  | [117](/bul/117) |
-| 29.05 12:56 | CZ-7       | Y3         | Tianzhou-2                  | CN | Wenchang   | LC-2  | S  | [116](/bul/116) |
 
 Detalii cu privire la informațiile din tabel, pot fi găsite în secțiunea [Legendă tabele](/t/legenda_tabele). Data și ora sunt UTC.
 
