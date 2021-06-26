@@ -6466,13 +6466,19 @@ SELECT ROW_NUMBER() OVER (ORDER BY launchDate) AS "Nr.", to_char(launchDate, 'DD
 :EXPORT_HUGO_SECTION: bul
 :END:
 
-** Buletin Cosmic nr. 119
+** Buletin Cosmic nr. 119 :soyuz:pion:
 :PROPERTIES:
 :EXPORT_FILE_NAME: 119
 :EXPORT_DATE: 2021-06-25
 :END:
 
 ⋮⋮⋮ BULETIN ÎN LUCRU, CONȚINUT INCOMPLET ⋮⋮⋮
+
+În 26 iunie, la 22:50, o rachetă Soyuz-2.1b a lansat un satelit militar Pion-NKS (Kosmos-2550 sau 14F139 No. 901) de la cosmodromul militar de la Plesetsk (rampa 43/4), după o amânare de câțiva ani. Acesta este primul dintr-o constelație modernă de sateliți radar pentru ghidarea rachetelor balistice pentru marina rusă. Satelitul, fabricat de KB Arsenal și TsSKB-Progress, cântărește 6.5 tone și a ajuns pe o orbită 195x466 km, înclinație 67.1 grade, urmând ca la câteva ore după lansare să aibă probabil loc manevre de corecție prin care satelitul să ajungă pe orbită circulară, cu o altitudine de aproximativ 500 de km. Pion este o variantă modernă a sateliților Lotos, care fac parte din constelația Liana, dedicată operațiunilor miltare ruse (terestre și marine).
+
+---
+
+Probabil cea mai mare cometă detectată vreodată (cel puțin în epoca modernă) se apropie de Soare! Are un diametru între 100-200 km, de 10 ori mai mare decât o cometă obișnuită[fn::https://noirlab.edu/public/news/noirlab2119/]. În prezent, cometa C/2014 UN271 (Bernardinelli-Bernstein) se află la aproximativ 3 miliarde de kilometri (20 UA, dincolo de orbita lui Uranus) și vine spre Soare. Din fericire, cometa (care se pare că vine din norul lui Oort pe o traiectorie aproape perpendiculară pe planul sistemului solar), nu se va apropia decât până la aproximativ 11 UA de Soare (dincolo de orbita lui Saturn) în 2031, după care se va întoarce la periferia sistemului solar, un drum care durează milioane de ani.
 
 ** Buletin Cosmic nr. 118 :spacex:falcon9:gps:ariane6:china:iran:cz9:cz5dy:
 :PROPERTIES:
