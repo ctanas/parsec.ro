@@ -10,9 +10,10 @@ Data (coloana 2) este în formatul AAAA.LL.ZZ, după care urmează racheta folos
 
 | Nr. | Data       | Lansator      | Misiune/Vehicul  | Indicativ                 | E | Andocare     |
 |-----|------------|---------------|------------------|---------------------------|---|--------------|
+| 329 | 2021.06.17 | Changzheng-2F | Shanzhou-12      | Shenzhou-12               | 3 | Tianhe       |
 | 328 | 2021.04.23 | Falcon-9      | Dragon/Crew-2    | Endeavour                 | 4 | ISS          |
 | 327 | 2021.04.09 | Soyuz-2.1a    | Soyuz MS-18      | Gagarin                   | 3 | ISS          |
-| 326 | 2020.11.06 | Falcon-9      | Dragon/Crew-1    | Resiliance                | 4 | ISS          |
+| 326 | 2020.11.06 | Falcon-9      | Dragon/Crew-1    | Resilience                | 4 | ISS          |
 | 325 | 2020.10.14 | Soyuz-2.1a    | Soyuz MS-17      | Favor                     | 3 | ISS          |
 | 324 | 2020.05.30 | Falcon-9      | Dragon/DM2       | Endeavour                 | 2 | ISS          |
 | 323 | 2020.04.09 | Soyuz-2.1a    | Soyuz MS-16      | Irkut                     | 3 | ISS          |
