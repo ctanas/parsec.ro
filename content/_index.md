@@ -14,18 +14,18 @@ Siteul de față reprezintă o colecție personală de materiale, articole și n
 
 ## Ultimele lansări orbitale {#ultimele-lansări-orbitale}
 
-| Data        | Lansator   | Serie      | Satelit                     | T  | Centru     | Rampă | R. | Bul             |
-|-------------|------------|------------|-----------------------------|----|------------|-------|----|-----------------|
-| 18.06 06:30 | CZ-2C      | 2C-Y48     | Yaogan-30                   | CN | Xichang    | LC-3  | S  | [118](/bul/118) |
-| 17.06 16:09 | Falcon 9   | 122/1062.2 | GPS-III-SV05                | US | CC         | LC40  | S  | [118](/bul/118) |
-| 17.06 01:22 | CZ-2F      | 2F-Y12     | Shenzhou-12                 | CN | Jiuquan    | SLS-1 | S  | [118](/bul/118) |
-| 15.06 13:35 | Minotaur 1 |            | NROL-111                    | US | Wallops    | LP-0B | S  | [117](/bul/117) |
-| 13.06 08:11 | Pegasus XL | F45        | TacRL-2 / Odyssey           | US | Vandenberg | RW??  | S  | [117](/bul/117) |
-| 12.06 00:00 | Simorgh    |            | Zafar                       | IR | Semnan     | LP-2  | F  | [118](/bul/118) |
-| 11.06 03:03 | CZ-2D      | 2D-Y54     | Beijing-3-01                | CN | Taiyuan    | LC-9  | S  | [117](/bul/117) |
-| 06.06 04:26 | Falcon 9   | 121/1061.3 | SiriusXM-8                  | US | CC         | LC40  | S  | [117](/bul/117) |
-| 03.06 17:29 | Falcon 9   | 120/1067.1 | Dragon CRS-23 / Dragon C209 | US | KSC        | LC39A | S  | [117](/bul/117) |
-| 02.06 16:17 | CZ-3B      | 3B-Y72     | Fengyun-4B                  | CN | Xichang    | LC-2  | S  | [117](/bul/117) |
+| Data        | Lansator   | Serie      | Satelit                           | T  | Centru     | Rampă | R. | Bul             |
+|-------------|------------|------------|-----------------------------------|----|------------|-------|----|-----------------|
+| 26.06 19:50 | Soyuz-2.1b |            | Pion 14F139 No. 901 / Kosmos-2550 | RU | Plesetsk   | 43/3  | S  | [119](/bul/119) |
+| 18.06 06:30 | CZ-2C      | 2C-Y48     | Yaogan-30                         | CN | Xichang    | LC-3  | S  | [118](/bul/118) |
+| 17.06 16:09 | Falcon 9   | 122/1062.2 | GPS-III-SV05                      | US | CC         | LC40  | S  | [118](/bul/118) |
+| 17.06 01:22 | CZ-2F      | 2F-Y12     | Shenzhou-12                       | CN | Jiuquan    | SLS-1 | S  | [118](/bul/118) |
+| 15.06 13:35 | Minotaur 1 |            | NROL-111                          | US | Wallops    | LP-0B | S  | [117](/bul/117) |
+| 13.06 08:11 | Pegasus XL | F45        | TacRL-2 / Odyssey                 | US | Vandenberg | RW??  | S  | [117](/bul/117) |
+| 12.06 00:00 | Simorgh    |            | Zafar                             | IR | Semnan     | LP-2  | F  | [118](/bul/118) |
+| 11.06 03:03 | CZ-2D      | 2D-Y54     | Beijing-3-01                      | CN | Taiyuan    | LC-9  | S  | [117](/bul/117) |
+| 06.06 04:26 | Falcon 9   | 121/1061.3 | SiriusXM-8                        | US | CC         | LC40  | S  | [117](/bul/117) |
+| 03.06 17:29 | Falcon 9   | 120/1067.1 | Dragon CRS-23 / Dragon C209       | US | KSC        | LC39A | S  | [117](/bul/117) |
 
 Detalii cu privire la informațiile din tabel, pot fi găsite în secțiunea [Legendă tabele](/t/legenda_tabele). Data și ora sunt UTC.
 
