@@ -135,6 +135,7 @@ draft = false
 | 2021-06-03 | Falcon 9     | 120/1067.1   | Dragon CRS-23 / Dragon C209           | KSC        | LC39A | S |
 | 2021-06-06 | Falcon 9     | 121/1061.3   | SiriusXM-8                            | CC         | LC40  | S |
 | 2021-06-17 | Falcon 9     | 122/1062.2   | GPS-III-SV05                          | CC         | LC40  | S |
+| 2021-06-30 | Falcon 9     | 123/1060.8   | Transporter-2                         | CC         | LC40  | S |
 
 
 ## Lista treptelor primare Falcon 9 Block 5 inactive {#lista-treptelor-primare-falcon-9-block-5-inactive}
@@ -309,7 +310,7 @@ Recuperarea pe barja OCISLY după misiunea Starlink-8 nu a reușit.
 | B1060.5 | 04.02.2021 | Starlink-18   | OCISLY     | Falcon 9 |
 | B1060.6 | 24.03.2021 | Starlink-22   | OCISLY     | Falcon 9 |
 | B1060.7 | 29.04.2021 | Starlink-24   | JRI        | Falcon 9 |
-| B1060.8 | 01.06.2021 | Transporter-2 | LZ-1       | Falcon 9 |
+| B1060.8 | 30.06.2021 | Transporter-2 | LZ-1       | Falcon 9 |
 
 
 ### B1061 {#b1061}

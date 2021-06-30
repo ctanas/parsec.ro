@@ -6060,3 +6060,4 @@
 2021-053    2021-06-26 19:50   Soyuz-2.1b                                   Pion 14F139 No. 901 / Kosmos-2550              RU   Plesetsk     43/3       S 119
 2021-054    2021-06-29 23:27   Soyuz-2.1a                                   Progress MS-17                                 RU   Baikonur     31/6       S 119
 2021-055    2021-06-30 13:00   LauncherOne             F3                   Tubular Bells, Part 1                          US   MHV          RW12/30    S 119
+2021-056    2021-06-30 19:31   Falcon 9                123/1060.8           Transporter-2                                  US   CC           LC40       S 119
