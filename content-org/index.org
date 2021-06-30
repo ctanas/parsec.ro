@@ -1407,8 +1407,6 @@ Recuperarea pe barja OCISLY după misiunea Starlink-8 nu a reușit.
 
 - LZ-4 :: Fostul complex SLC-4W de la baza aeriană Vandenberg, închiriat de SpaceX, care a construit o zonă în care boosterul Falcon 9 poate reveni controla la sol.
 
-*** Lista treptelor primare Falcon 9 Block 5 viitoare
-
 ** Atlas V
 :PROPERTIES:
 :EXPORT_FILE_NAME: atlasv 

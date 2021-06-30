@@ -384,6 +384,3 @@ LZ-1, LZ-2
 
 LZ-4
 : Fostul complex SLC-4W de la baza aeriană Vandenberg, închiriat de SpaceX, care a construit o zonă în care boosterul Falcon 9 poate reveni controla la sol.
-
-
-## Lista treptelor primare Falcon 9 Block 5 viitoare {#lista-treptelor-primare-falcon-9-block-5-viitoare}
