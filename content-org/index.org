@@ -31,7 +31,7 @@ Detalii cu privire la informațiile din tabel, pot fi găsite în secțiunea [[/
 + [[/t/l2021][Lista lansărilor orbitale din 2021]];
 + [[/t/lansari][Lista completă a lansărilor orbitale]];
 + [[/m/hsl][Lista lansărilor spațiale cu echipaj uman]];
-+ [[/r/rachete_active][Lista rachetelor active]] --cu detalii despre [[/r/atlasv][Atlas V]], [[/r/antares][Antares]], [[/r/epsilon][Epsilon]], [[/r/soyuz-2][Soyuz-2]] și [[/r/falcon9][Falcon 9]];
++ [[/r/rachete_active][Lista rachetelor active]] --cu detalii despre [[/r/atlasv][Atlas V]], [[/r/antares][Antares]], [[/r/launcherone][LauncherOne]], [[/r/epsilon][Epsilon]], [[/r/soyuz-2][Soyuz-2]] și [[/r/falcon9][Falcon 9]];
 + [[/r/rachete][Lista completă a rachetelor]] folosite până în prezent --inclusiv cele inactive;
 + [[/m/sonde][Lista sondelor interplanetare active]];
 + [[/m/meteoriti][Meteoriți]] --informații generale și lista meteoriților românești;
