@@ -1600,6 +1600,21 @@ WHERE lv_type LIKE ('Delta 4H%')
 | 2018-08-12 | Delta 4H/Star 48BV | D4-37/D380 | Parker Solar Probe  | CC     | SLC37B | EEO    | S |
 | 2019-01-19 | Delta 4H           | D4-38/D382 | USA 290             | SVAFB  | SLC6   | LLEO/I | S |
 
+** LauncherOne
+:PROPERTIES:
+:EXPORT_FILE_NAME: launcherone
+:END:
+
+LauncherOne este o rachetă cu două trepte, lansată de pe un avion Boeing 747-400, fost avion de linie al companiei aeriene Virgin Atlantic, dar scos din uz acum câțiva ani și modificat special pentru acest tip de misiuni (și denumit /Cosmic Girl/). Racheta este lungă de 21.3 metri și cântărește înainte de lansare aproximativ 30 de tone. Poate lansa până la 300 de kilograme pe orbită cu altitudinea 500 km (heliosincronă) sau 500 de kilograme până la 230 km altitudine. Prima treaptă folosește un motor Newton3, iar a treia treaptă un motor Newton4, ambele alimentate combustibil lichid: kerosen și oxigen (RP-1/LOX) –spre deosebire de Pegasus, cealaltă rachetă activă care este lansată de pe un avion și care folosește combustibil solid.
+   
+#+CAPTION: Lista lansărilor orbitale Virgin Orbit
+#+begin_src sql :engine postgresql :cmdline "-U claudiu -d launchesdb" :exports results
+SELECT DISTINCT ON (launchJDate) launchJDate AS "Data", lv_type AS "Racheta", lv_serial AS "Tip", lv_Payload AS "Satelit primar", lv_name AS "Centru", lv_launchPad AS "Rampă", lv_outcome AS "R"
+FROM launches
+WHERE lv_type LIKE ('LauncherOne')
+#+end_src
+
+   
 ** Lansări orbitale (arhivă)
 *** Lansări orbitale 2020
 :PROPERTIES:
