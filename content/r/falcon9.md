@@ -300,15 +300,16 @@ Recuperarea pe barja OCISLY după misiunea Starlink-8 nu a reușit.
 
 ### B1060 {#b1060}
 
-| Booster | Data       | Misiunea    | Recuperare | Racheta  |
-|---------|------------|-------------|------------|----------|
-| B1060.1 | 30.06.2020 | GPS3-SV03   | JRI        | Falcon 9 |
-| B1060.2 | 03.09.2020 | Starlink-11 | OCISLY     | Falcon 9 |
-| B1060.3 | 24.10.2020 | Starlink-14 | JRI        | Falcon 9 |
-| B1060.4 | 08.01.2021 | Turksat-5A  | JRI        | Falcon 9 |
-| B1060.5 | 04.02.2021 | Starlink-18 | OCISLY     | Falcon 9 |
-| B1060.6 | 24.03.2021 | Starlink-22 | OCISLY     | Falcon 9 |
-| B1060.7 | 29.04.2021 | Starlink-24 | JRI        | Falcon 9 |
+| Booster | Data       | Misiunea      | Recuperare | Racheta  |
+|---------|------------|---------------|------------|----------|
+| B1060.1 | 30.06.2020 | GPS3-SV03     | JRI        | Falcon 9 |
+| B1060.2 | 03.09.2020 | Starlink-11   | OCISLY     | Falcon 9 |
+| B1060.3 | 24.10.2020 | Starlink-14   | JRI        | Falcon 9 |
+| B1060.4 | 08.01.2021 | Turksat-5A    | JRI        | Falcon 9 |
+| B1060.5 | 04.02.2021 | Starlink-18   | OCISLY     | Falcon 9 |
+| B1060.6 | 24.03.2021 | Starlink-22   | OCISLY     | Falcon 9 |
+| B1060.7 | 29.04.2021 | Starlink-24   | JRI        | Falcon 9 |
+| B1060.8 | 01.06.2021 | Transporter-2 | LZ-1       | Falcon 9 |
 
 
 ### B1061 {#b1061}

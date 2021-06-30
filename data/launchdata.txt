@@ -6058,3 +6058,4 @@
 2021-052    2021-06-17 16:09   Falcon 9                122/1062.2           GPS-III-SV05                                   US   CC           LC40       S 118
 2021-053    2021-06-18 06:30   Chang Zheng 2C          2C-Y48               Yaogan-30                                      CN   Xichang      LC-3       S 118
 2021-053    2021-06-26 19:50   Soyuz-2.1b                                   Pion 14F139 No. 901 / Kosmos-2550              RU   Plesetsk     43/3       S 119
+2021-054    2021-06-29 23:27   Soyuz-2.1a                                   Progress MS-17                                 RU   Baikonur     31/6       S 119
