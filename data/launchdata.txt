@@ -6064,3 +6064,4 @@
 2021-057    2021-07-01 12:48   Soyuz-2.1b              ST33                 OneWeb-8                                       EU   Vostochny    1S         S 120
 2021-058    2021-07-03 02:51   Chang Zheng 2D          2D-Y59               Jilin-1                                        CN   Taiyuan      LC-9       S 120
 2021-059    2021-07-04 23:28   Chang Zheng 4C          4C-Y43               Fengyun-3E                                     CN   Jiuquan      SLS-2      S 120
+2021-060    2021-07-06 15:53   Chang Zheng 3C          3C-Y18               Tianlian I-05                                  CN   Xichang      LC-2       S 120
