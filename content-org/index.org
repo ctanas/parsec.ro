@@ -817,7 +817,7 @@ Lista tuturor lansatoarelor orbitale active folosite în prezent, împreună cu 
   lv_type like 'CZ-2D' or
   lv_type like 'CZ-2F' or
   lv_type like 'CZ-3A' or
-  lv_type like 'CZ-3B/E' or
+  lv_type like 'CZ-3B%' or
   lv_type like 'CZ-3C%' or
   lv_type like 'CZ-4B' or
   lv_type like 'CZ-4C' or
