@@ -4169,7 +4169,7 @@
 1997-074    1997-11-27 21:27   H-II                    H-II-6F              TRMM/ETS-7 / TRMM                              JP   Tanegashima  Y          S
 1997-075    1997-12-02 22:52   Ariane 44P              V103 L473            JCSAT-5/Equator-S / JCSAT 5                    EU   Kourou       ELA2       S
 1997-076    1997-12-02 23:10   Proton-K/DM-2M          382-02               Astra 1G                                       RU   Baikonur     LC81/23    S
-1997-077    1997-12-08 07:16   Chang Zheng 2C-III/SD   Y2       (49)        Iridium 42/44 / Iridium SV042                  CN   Taiyuan      LC7        S
+1997-077    1997-12-08 07:16   Chang Zheng 2C          Y2       (49)        Iridium 42/44 / Iridium SV042                  CN   Taiyuan      LC7        S
 1997-078    1997-12-08 23:52   Atlas IIAS              AC-149               Galaxy 8i / Galaxy 8-i                         US   CC           LC36B      S
 1997-079    1997-12-09 07:17   Tsiklon-2               670-33-  303         Kosmos-2347 / US-PU                            RU   Baikonur     LC90/19    S
 1997-080    1997-12-15 15:40   Soyuz-U-PVB             76024  -763          Kosmos-2348 / Kobal't                          RU   Plesetsk     LC16/2     S
@@ -4197,7 +4197,7 @@
 1998-015    1998-03-14 22:45   Soyuz-U-PVB             S 15000-656          Progress M-38 / Progress 7K-TGM No 240         RU   Baikonur     LC1        S
 1998-016    1998-03-16 21:32   Atlas II                AC-132               USA 138 (UHF F8) / UFO F8                      US   CC           SLC36A     S
 1998-017    1998-03-24 01:46   Ariane 40               V107 L477b           SPOT 4 / SPOT-4                                EU   Kourou       ELA2       S
-1998-018    1998-03-25 17:01   Chang Zheng 2C-III/SD   Y3       (50)        Iridium 51/61 / Iridium SV051                  CN   Taiyuan      LC7        S
+1998-018    1998-03-25 17:01   Chang Zheng 2C          Y3       (50)        Iridium 51/61 / Iridium SV051                  CN   Taiyuan      LC7        S
 1998-019    1998-03-30 06:02   Delta 7920-10C          D255                 Iridium MS-8 / Iridium SV055                   US   VAFB         SLC2W      S
 1998-020    1998-04-02 02:42   Pegasus XL              F21                  TRACE                                          US   VAFB         RW30/12    S
 1998-021    1998-04-07 02:13   Proton-K/17S40          391-02               Iridium / Iridium SV062                        RU   Baikonur     LC81/23    S
@@ -4205,7 +4205,7 @@
 1998-023    1998-04-24 22:38   Delta 7420-10C          D256                 Globalstar 5-8 / Globalstar M014               US   CC           LC17A      S
 1998-024    1998-04-28 22:53   Ariane 44P              V108 L478b           Nilesat 101/BSAT 1b / Nilesat 101              EU   Kourou       ELA2       S
 1998-025    1998-04-29 04:36   Proton-K/DM-2           384-02               Kosmos-2350 / Oko-1 No. 7122                   RU   Baikonur     LC200/39   S
-1998-026    1998-05-02 09:16   Chang Zheng 2C-III/SD   Y4       (51)        Iridium 69/71 / Iridium SV069                  CN   Taiyuan      LC7        S
+1998-026    1998-05-02 09:16   Chang Zheng 2C          Y4       (51)        Iridium 69/71 / Iridium SV069                  CN   Taiyuan      LC7        S
 1998-027    1998-05-07 08:53   Molniya 8K78M           78051  -676          Kosmos-2351 / Oko                              RU   Plesetsk     LC16/2     S
 1998-028    1998-05-07 23:45   Proton-K/DM-2M          393-02               Echostar 4                                     RU   Baikonur     LC81/23    S
 1998-029    1998-05-09 01:38   Titan 401B/Centaur      4B-25/TC-18 (K-25)   USA 139      [RH8] / ORION 4                   US   CC           LC40       S
@@ -4228,7 +4228,7 @@
 1998-046    1998-08-02 16:24   Pegasus XL              F22                  Orbcomm B1-B8 / Orbcomm FM17                   US   Wallops      RW04/22?   S
 1998-F02    1998-08-12 11:30   Titan 401A/Centaur      4A-20/TC-9 (K-17)    -            [CY16] / MERCURY 3                US   CC           LC41       F
 1998-047    1998-08-13 09:43   Soyuz-U-PVB             M 15000-658          Soyuz TM-28 / Soyuz 7K-STM No. 77              RU   Baikonur     LC1        S
-1998-048    1998-08-19 23:01   Chang Zheng 2C-III/SD   Y5       (54)        Iridium 78/76 / Iridium SV078                  CN   Taiyuan      LC7        S
+1998-048    1998-08-19 23:01   Chang Zheng 2C          Y5       (54)        Iridium 78/76 / Iridium SV078                  CN   Taiyuan      LC7        S
 1998-049    1998-08-25 23:07   Ariane 44P              V109 L479c           ST-1 / Singapore-Taiwan 1                      EU   Kourou       ELA2       S
 1998-F03    1998-08-27 01:17   Delta 8930              D259                 Galaxy X                                       US   CC           LC17B      F
 1998-050    1998-08-30 00:31   Proton-K/DM-2M          383-01               Astra 2A                                       RU   Baikonur     LC81/23    S
@@ -4257,7 +4257,7 @@
 1998-071    1998-12-06 00:57   Pegasus XL              F25                  SWAS                                           US   VAFB         RW30/12    S
 1998-072    1998-12-10 11:57   Kosmos 11K65M           53713-320            Nadezhda/Astrid-2 / Nadezhda 17F118            RU   Plesetsk     LC132/1    S
 1998-073    1998-12-11 18:45   Delta 7425-9.5          D264                 Mars Climate Orbiter / MCO                     US   CC           SLC17A     S
-1998-074    1998-12-19 11:39   Chang Zheng 2C-III/SD   Y6       (55)        Iridium 88/89 / Iridium SV088?                 CN   Taiyuan      LC7        S
+1998-074    1998-12-19 11:39   Chang Zheng 2C          Y6       (55)        Iridium 88/89 / Iridium SV088?                 CN   Taiyuan      LC7        S
 1998-075    1998-12-22 01:08   Ariane 42L              V115 L484d           PAS 6B                                         EU   Kourou       ELA2       S
 1998-076    1998-12-24 20:02   Kosmos 11K65M           47164-504            Kosmos-2361 / Parus                            RU   Plesetsk     LC132/1    S
 1998-077    1998-12-30 18:35   Proton-K/DM-2           385-02               Kosmos-2362/2364 / Uragan No. 86L              RU   Baikonur     LC200/39   S
@@ -4293,7 +4293,7 @@
 1999-029    1999-05-26 06:22   PSLV                    PSLV-C2              IRS-P4 / KITSAT-3                              IN   Satish       FLP        S
 1999-030    1999-05-27 10:49   Space Shuttle           STS-96               ISS 2A.1 (Spacehab) / OV-103 ISS               US   KSC          LC39B      S
 1999-031    1999-06-10 13:48   Delta 7420-10C          D270                 Globalstar-3 / Globalstar M025                 US   CC           SLC17B     S
-1999-032    1999-06-11 17:15   Chang Zheng 2C-III/SD   Y7       (57)        Iridium 14A/21A / Iridium SV092                CN   Taiyuan      LC7        S
+1999-032    1999-06-11 17:15   Chang Zheng 2C          Y7       (57)        Iridium 14A/21A / Iridium SV092                CN   Taiyuan      LC7        S
 1999-033    1999-06-18 01:49   Proton-K/DM-2M          397-02               Astra 1H                                       RU   Baikonur     LC81/23    S
 1999-034    1999-06-20 02:15   Titan II SLV            23G-7                Quikscat / QuikScat                            US   Vandenberg   SLC4W      S
 1999-035    1999-06-24 15:44   Delta 7320-10           D271                 FUSE / Far UV Spec. Explorer                   US   CC           SLC17A     S
