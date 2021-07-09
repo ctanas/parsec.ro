@@ -813,9 +813,14 @@ Lista tuturor lansatoarelor orbitale active folosite în prezent, împreună cu 
   lv_type like 'Angara%' or
   lv_type like 'Ariane 5%' or
   lv_type like 'Vega%' or
-  lv_type like 'CZ-2%' or
-  lv_type like 'CZ-3%' or
-  lv_type like 'CZ-4%' or
+  lv_type like 'CZ-2C' or
+  lv_type like 'CZ-2D' or
+  lv_type like 'CZ-2F' or
+  lv_type like 'CZ-3A' or
+  lv_type like 'CZ-3B/E' or
+  lv_type like 'CZ-3C%' or
+  lv_type like 'CZ-4B' or
+  lv_type like 'CZ-4C' or
   lv_type like 'CZ-5%' or
   lv_type like 'CZ-6%' or
   lv_type like 'CZ-7%' or lv_type like 'CZ-8%' or
