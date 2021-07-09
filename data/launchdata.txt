@@ -3622,7 +3622,7 @@
 1991-048    1991-07-09 09:40   Soyuz-U-PVB             78023  -818          Kosmos-2152 / Oblik                            RU   Plesetsk     LC43/4     S
 1991-049    1991-07-10 14:00   Soyuz-U                 77059  -726          Kosmos-2153 / Yantar'-4KS1M                    RU   Baikonur     LC31       S
 1991-050    1991-07-17 01:46   Ariane 40               V44 L416a            ERS 1/ASAP 2 / ERS-1                           EU   Kourou       ELA2       S
-1991-051    1991-07-17 17:33   Pegasus/HAPS            002/F2               Microsat / Microsat 1                          US   EAFB         RW04/22    S
+1991-051    1991-07-17 17:33   Pegasus                 002/F2               Microsat / Microsat 1                          US   EAFB         RW04/22    S
 1991-052    1991-07-23 09:05   Soyuz-U                 78012  -152          Resurs-F / Resurs-F1 14F43 No. 53              RU   Plesetsk     LC43/3     S
 1991-053    1991-08-01 11:53   Molniya 8K78M           76035  -533          Molniya-1 / Molniya-1T No. 76                  RU   Plesetsk     LC43/4     S
 1991-054    1991-08-02 15:02   Space Shuttle           STS-43               TDRS-E / OV-104 IUS deploy                     US   KSC          LC39A      S
@@ -3870,7 +3870,7 @@
 1994-026    1994-05-03 15:55   Titan 401A/Centaur      K-7/TC-10   (45E-1)  USA 103      [JS8] / TRUMPET 1                 US   CC           LC41       S
 1994-027    1994-05-04 00:00   ASLV                    ASLV-D4              SROSS C2 / SROSS-C2                            IN   Satish       SLV        S
 1994-028    1994-05-09 02:47   Scout G-1               S218C                MSTI 2 / MSTI-2                                US   Vandenberg   SLC5       S
-1994-029    1994-05-19 17:03   Pegasus/HAPS            005/F5               STEP 2                                         US   EAFB         RW04/22    S
+1994-029    1994-05-19 17:03   Pegasus                 005/F5               STEP 2                                         US   EAFB         RW04/22    S
 1994-030    1994-05-20 02:01   Proton-K/DM-2           357-01               Gorizont / Gorizont No. 42L                    RU   Baikonur     LC81/23    S
 1994-031    1994-05-22 04:30   Soyuz-U2                76024  -355 (ex-U2)  Progress M-23 / Progress 7K-TGM No. 223        RU   Baikonur     LC1        S
 1994-F02    1994-05-25 10:15   Tsiklon-3               51082-802            Tselina-D                                      RU   Plesetsk     LC32/2     F
@@ -4176,7 +4176,7 @@
 1997-081    1997-12-20 08:45   Soyuz-U                 S 15000-654          Progress M-37 / Progress 7K-TGM No 236         RU   Baikonur     LC1        S
 1997-082    1997-12-20 13:16   Delta 7920-10C          D251                 Iridium MS-6 / Iridium SV045                   US   VAFB         SLC2W      S
 1997-083    1997-12-22 00:16   Ariane 42L              V104 L474b           Intelsat 804 / INTELSAT 804                    EU   Kourou       ELA2       S
-1997-084    1997-12-23 19:11   Pegasus XL/HAPS         F19                  Orbcomm A1-A8 / Orbcomm FM5                    US   Wallops      RW04/22?   S
+1997-084    1997-12-23 19:11   Pegasus XL              F19                  Orbcomm A1-A8 / Orbcomm FM5                    US   Wallops      RW04/22?   S
 1997-085    1997-12-24 13:32   Start-1                 -                    EarlyBird                                      RU   GIK-2        LC5        S
 1997-086    1997-12-24 23:19   Proton-K/DM-2M          394-01               Asiasat 3                                      RU   Baikonur     LC81/23    S
 1998-001    1998-01-07 02:28   Athena-2                LM-004               Lunar Prospector / LP                          US   SPFL         SLC46      S
@@ -4225,7 +4225,7 @@
 1998-043    1998-07-10 06:30   Zenit-2                 67021-803/18NI       Resurs-O1 No. 4 / Resurs-O1 No. 4L             RU   Baikonur     LC45/1     S
 1998-044    1998-07-18 09:20   Chang Zheng 3B          Y4       (53)        Sinosat / xinnuo yihao                         CN   Xichang      LC2        S
 1998-045    1998-07-28 09:15   Zenit-2                 45092-803/1-98       Kosmos-2360 / Tselina-2 No. 14L                RU   Baikonur     LC45/1     S
-1998-046    1998-08-02 16:24   Pegasus XL/HAPS         F22                  Orbcomm B1-B8 / Orbcomm FM17                   US   Wallops      RW04/22?   S
+1998-046    1998-08-02 16:24   Pegasus XL              F22                  Orbcomm B1-B8 / Orbcomm FM17                   US   Wallops      RW04/22?   S
 1998-F02    1998-08-12 11:30   Titan 401A/Centaur      4A-20/TC-9 (K-17)    -            [CY16] / MERCURY 3                US   CC           LC41       F
 1998-047    1998-08-13 09:43   Soyuz-U-PVB             M 15000-658          Soyuz TM-28 / Soyuz 7K-STM No. 77              RU   Baikonur     LC1        S
 1998-048    1998-08-19 23:01   Chang Zheng 2C-III/SD   Y5       (54)        Iridium 78/76 / Iridium SV078                  CN   Taiyuan      LC7        S
@@ -4236,7 +4236,7 @@
 1998-051    1998-09-08 21:13   Delta 7920-10C          D260                 Iridium MS-10 / Iridium SV082                  US   VAFB         SLC2W      S
 1998-F05    1998-09-09 20:29   Zenit-2 11K77.05        67047-801/22L        Globalstar / Globalstar FM5                    RU   Baikonur     LC45/1     F
 1998-052    1998-09-16 06:31   Ariane 44LP             V110 L480f           PAS 7                                          EU   Kourou       ELA2       S
-1998-053    1998-09-23 05:06   Pegasus XL/HAPS         F23                  Orbcomm C1-C8 / Orbcomm FM21                   US   Wallops      RW04/22?   S
+1998-053    1998-09-23 05:06   Pegasus XL              F23                  Orbcomm C1-C8 / Orbcomm FM21                   US   Wallops      RW04/22?   S
 1998-054    1998-09-28 23:41   Molniya 8K78M           Kh15000-030          Molniya-1T / Molniya-1T No. 99                 RU   Plesetsk     LC43/3     S
 1998-055    1998-10-03 10:04   ARPA Taurus             T3 1110              STEX/USA 141 / STEX                            US   VAFB         576E       S
 1998-056    1998-10-05 22:51   Ariane 44L              V111 L481f           Eutelsat W2/Sirius 3 / Eutelsat W2             EU   Kourou       ELA2       S
@@ -4287,7 +4287,7 @@
 1999-023    1999-04-30 16:30   Titan 401B/Centaur      4B-32/TC-14 (K-26)   USA 143 (Milstar 3) / Milstar DFS-3            US   CC           LC40       S
 1999-024    1999-05-05 01:00   Delta 8930              D269                 Orion 3                                        US   CC           SLC17B     S
 1999-025    1999-05-10 01:33   Chang Zheng 4B          Y2       (56)        FY-1C/SJ-5 / Feng Yun Yi Beng                  CN   Taiyuan      LC7        S
-1999-026    1999-05-18 05:09   Pegasus XL/HAPS         F27                  TERRIERS/MUBLCOM / TERRIERS                    US   VAFB         RW30/12    S
+1999-026    1999-05-18 05:09   Pegasus XL              F27                  TERRIERS/MUBLCOM / TERRIERS                    US   VAFB         RW30/12    S
 1999-027    1999-05-20 22:30   Proton-K/DM-2M          396-02               Nimiq / Telesat DTH-1                          RU   Baikonur     LC81/23    S
 1999-028    1999-05-22 09:36   Titan 404B              4B-12                USA 144      [MIST2] / MISTY 2?                US   Vandenberg   SLC4E      S
 1999-029    1999-05-26 06:22   PSLV                    PSLV-C2              IRS-P4 / KITSAT-3                              IN   Satish       FLP        S
@@ -4329,7 +4329,7 @@
 1999-062    1999-11-22 16:20   Soyuz-U-PVB             M 15000-063     ST06 Globalstar S-6 / Globalstar M039               RU   Baikonur     LC1        S
 1999-063    1999-11-23 04:06   Atlas IIA               AC-136               USA 146 (UHF F10) / UFO 10                     US   CC           SLC36B     S
 1999-064    1999-12-03 16:22   Ariane 40               V124 L492            Helios 1B/Clementine / Helios 1B               EU   Kourou       ELA2       S
-1999-065    1999-12-04 18:53   Pegasus XL/HAPS         F28                  Orbcomm D1-D7 / Orbcomm FM30                   US   Wallops      RW22       S
+1999-065    1999-12-04 18:53   Pegasus XL              F28                  Orbcomm D1-D7 / Orbcomm FM30                   US   Wallops      RW22       S
 1999-066    1999-12-10 14:32   Ariane 5G               V119 (504a)          XMM                                            EU   Kourou       ELA3       S
 1999-F05    1999-12-11 18:25   VLS-1                   V02                  SACI-2                                         BR   ALCA         VLS        F
 1999-067    1999-12-12 17:38   Titan II SLV            23G-8                USA 147 (DMSP F15) / DMSP Block 5D-3 S-15      US   Vandenberg   SLC4W      S
@@ -4675,7 +4675,7 @@
 2005-011    2005-04-11 13:35   Minotaur 1              3                    XSS-11 / USA 165 (XSS-11)                      US   Vandenberg   SLC8       S
 2005-012    2005-04-12 12:00   Chang Zheng 3B          Y6       (84)        Apstar 6                                       CN   Xichang      LC2        S
 2005-013    2005-04-15 00:46   Soyuz-FG                Zh15000-014 014      Soyuz TMA-6 / Soyuz 11F732 No. 216             RU   Baikonur     LC1        S
-2005-014    2005-04-15 17:26   Pegasus XL/HAPS         F36                  DART / DART/HAPS                               US   VAFB         RW30/12    S
+2005-014    2005-04-15 17:26   Pegasus XL              F36                  DART / DART/HAPS                               US   VAFB         RW30/12    S
 2005-015    2005-04-26 07:31   Zenit-3SL               SL18/DM-SL-19L       SL15 Spaceway 1 / Spaceway 1                   RU   KLA          -          S
 2005-016    2005-04-30 00:50   Titan 405B              4B-30                USA 182      [LAC5] / ONYX 5                   US   CC           SLC40      S
 2005-017    2005-05-05 04:45   PSLV                    PSLV-C6              Cartosat / Cartosat-1                          IN   Satish       SLP        S
@@ -5426,7 +5426,7 @@
 2015-016    2015-03-27 19:42   Soyuz-FG                G 15000-053 053      Soyuz TMA-16M / Soyuz 11F732A47 No.716         RU   Baikonur     LC1        S
 2015-017    2015-03-27 21:46   Soyuz-ST-B              T 15000-008/133-02   Galileo FOC 3/4 / GalileoSat 7-8               EU   Kourou       ELS        S
 2015-018    2015-03-28 11:49   PSLV-XL                 PSLV-C27             IRNSS-1D                                       IN   Satish       FLP        S
-2015-019    2015-03-30 13:52   Chang Zheng 3C/YZ-1     Y11                  Beidou DW17 / Beidou I1-S                      CN   Xichang      LC2        S
+2015-019    2015-03-30 13:52   Chang Zheng 3C          Y11                  Beidou DW17 / Beidou I1-S                      CN   Xichang      LC2        S
 2015-020    2015-03-31 13:47   Rokot                   492-9794-554/72526   Gonets-M/ Kosmos-2504 / Gonets-M               RU   Plesetsk     LC133/3    S
 2015-021    2015-04-14 20:10   Falcon 9                017                  Dragon CRS-6 / Dragon C108                     US   CC           LC40       S
 2015-022    2015-04-26 20:00   Ariane 5ECA             VA222 (576)          Sicral 2/Thor 7                                EU   Kourou       ELA3       S
@@ -5446,7 +5446,7 @@
 2015-034    2015-07-15 21:42   Ariane 5ECA             VA224 (578)          Star One C4/MSG 4                              EU   Kourou       ELA3       S
 2015-035    2015-07-22 21:02   Soyuz-FG                G 15000-052 052      Soyuz TMA-17M / Soyuz 11F732A47 No. 717        RU   Baikonur     LC1        S
 2015-036    2015-07-24 00:07   Delta 4M+(5,4)          D4-30/D372           WGS 7 / Wideband Global Satcom 7               US   CC           SLC37B     S
-2015-037    2015-07-25 12:29   Chang Zheng 3B/YZ-1     Y26                  Beidou 18/19 / Beidou M1S?M2S                  CN   Xichang      LC2        S
+2015-037    2015-07-25 12:29   Chang Zheng 3B          Y26                  Beidou 18/19 / Beidou M1S?M2S                  CN   Xichang      LC2        S
 2015-038    2015-08-19 11:50   H-IIB                   H-IIB-F5             HTV-5 / HTV 5                                  JP   Tanegashima  Y2         S
 2015-039    2015-08-20 20:34   Ariane 5ECA             VA225 (579)          Eutelsat 8WB/IS-34                             EU   Kourou       ELA3       S
 2015-040    2015-08-27 02:31   Chang Zheng 4C          Y18                  Yaogan 27 / YG-27                              CN   Taiyuan      LC9        S
@@ -5499,7 +5499,7 @@
 2016-003    2016-01-20 04:01   PSLV-XL                 PSLV-C31             IRNSS-1E                                       IN   Satish       SLP        S
 2016-004    2016-01-27 23:20   Ariane 5ECA             VA228 (583)          Intelsat 29e                                   EU   Kourou       ELA3       S
 2016-005    2016-01-29 22:20   Proton-M/Briz-M         935-58/99558         Eutelsat 9B                                    RU   Baikonur     LC200/39   S
-2016-006    2016-02-01 07:29   Chang Zheng 3C/YZ-1     Y14                  Beidou DW21 / Beidou M3-S                      CN   Xichang      LC2?       S
+2016-006    2016-02-01 07:29   Chang Zheng 3C          Y14                  Beidou DW21 / Beidou M3-S                      CN   Xichang      LC2?       S
 2016-007    2016-02-05 13:38   Atlas V 401             AV-057               GPS II F-12 / GPS SVN 70                       US   CC           SLC41      S
 2016-008    2016-02-07 00:21   Soyuz-2.1b              G 15000-030/112-03   Kosmos-2513 / Uragan-M                         RU   Plesetsk     LC43/4     S
 2016-009    2016-02-07 00:30   Kwangmyongsong          5                    Kwangmyongsong-4 / KMS-4 Unit 1                KP   SOHAE        LC1        S
@@ -5559,7 +5559,7 @@
 2016-062    2016-10-17 23:45   Antares 230             2TRS2S1.7  (6)       S.S. Alan Poindexter / Cygnus OA-5             US   Wallops      Pad 0A     S
 2016-063    2016-10-19 08:05   Soyuz-FG                R 15000-059 059      Soyuz MS-02 / Soyuz 11F732A48 No. 732          RU   Baikonur     LC31       S
 2016-064    2016-11-02 06:20   H-IIA 202               H-IIA-31             Himawari 9                                     JP   Tanegashima  Y          S
-2016-065    2016-11-03 12:43   Chang Zheng 5/YZ-2      Y1                   Shi Jian 17 / SJ-17                            CN   Wenchang     LC101      S
+2016-065    2016-11-03 12:43   Chang Zheng 5           Y1                   Shi Jian 17 / SJ-17                            CN   Wenchang     LC101      S
 2016-066    2016-11-09 23:42   Chang Zheng 11          Y2                   MXSW                                           CN   Jiuquan      LC43/95    S
 2016-067    2016-11-11 18:30   Atlas V 401             AV-062               WorldView-4                                    US   Vandenberg   SLC3E      S
 2016-068    2016-11-11 23:14   Chang Zheng 2D          Y34                  Yunhai-1 01                                    CN   Jiuquan      Pad 603    S
@@ -5650,8 +5650,8 @@
 2017-065    2017-10-14 08:46   Soyuz-2.1a              U 15000-029          Progress MS-07 / Progress 7K-TGM No. 437       RU   Baikonur     LC31       S
 2017-066    2017-10-15 07:28   Atlas V 421             AV-075               USA 279 / QUASAR 20?                           US   CC           SLC41      S
 2017-067    2017-10-30 19:34   Falcon 9                045/B1042            Koreasat-5A                                    US   KSC          LC39A      S
-2017-068    2017-10-31 21:37   Minotaur-C 3210         T10 (XL)             Skysat-8-13/Flock 3m / Planet Express          US   VAFB         576E       S
-2017-069    2017-11-05 11:45   Chang Zheng 3B/YZ-1     Y46                  Beidou DW24/25 / Beidou-3                      CN   Xichang      LC3        S
+2017-068    2017-10-31 21:37   Minotaur-C              T10 (XL)             Skysat-8-13/Flock 3m / Planet Express          US   VAFB         576E       S
+2017-069    2017-11-05 11:45   Chang Zheng 3B          Y46                  Beidou DW24/25 / Beidou-3                      CN   Xichang      LC3        S
 2017-070    2017-11-08 01:42   Vega                    VV11                 Mohammed VI-A                                  EU   Kourou       ZLV        S
 2017-071    2017-11-12 12:19   Antares 230             2TRS2S1.8  (7)       S.S. Gene Cernan / Cygnus OA-8                 US   Wallops      Pad 0A     S
 2017-072    2017-11-14 18:35   Chang Zheng 4C          Y21                  Fengyun 3 04                                   CN   Taiyuan      LC9        S
@@ -5672,7 +5672,7 @@
 2017-086    2017-12-26 19:00   Zenit-3SLBF             SLB80.5/2006         Angosat                                        RU   Baikonur     LC45/1     S
 2018-001    2018-01-08 01:00   Falcon 9                048/B1043            Zuma                                           US   CC           LC40       S
 2018-002    2018-01-09 03:24   Chang Zheng 2D          Y40                  Gaojing-1 3/4 / Superview 3/4                  CN   Taiyuan      LC9        S
-2018-003    2018-01-11 23:18   Chang Zheng 3B/YZ-1     Y45                  Beidou DW26/27 / Beidou-3                      CN   Xichang      LC3        S
+2018-003    2018-01-11 23:18   Chang Zheng 3B          Y45                  Beidou DW26/27 / Beidou-3                      CN   Xichang      LC3        S
 2018-004    2018-01-12 03:59   PSLV-XL                 PSLV-C40             Cartosat-2(S)/Cubesats / Cartosat-2ER          IN   Satish       FLP        S
 2018-005    2018-01-12 22:11   Delta 4M+(5,2)          D4-36/D379           USA 281 / TOPAZ 5?                             US   Vandenberg   SLC6       S
 2018-006    2018-01-13 07:10   Chang Zheng 2D          Y49                  Ludi Kancha Weixing 3 / LKW-3                  CN   Jiuquan      Pad 603    S
@@ -5687,7 +5687,7 @@
 2018-015    2018-02-02 07:51   Chang Zheng 2D          Y13                  Zhang Heng 1 / CSES                            CN   Jiuquan      Pad 603    S
 2018-016    2018-02-03 05:03   SS-520                  SS-520-5             Tasuki / TRICOM-1R                             JP   Kagoshima    K          S
 2018-017    2018-02-06 20:45   Falcon Heavy            001                  Tesla Roadster                                 US   KSC          LC39A      S
-2018-018    2018-02-12 05:03   Chang Zheng 3B/YZ-1     Y47                  Beidou DW28/29 / Beidou-3                      CN   Xichang      LC2        S
+2018-018    2018-02-12 05:03   Chang Zheng 3B          Y47                  Beidou DW28/29 / Beidou-3                      CN   Xichang      LC2        S
 2018-019    2018-02-13 08:13   Soyuz-2.1a              U 15000-030          Progress MS-08 / Progress 7K-TGM No. 438       RU   Baikonur     LC31       S
 2018-020    2018-02-22 14:17   Falcon 9                050/B1038.2          PAZ / PAZ/SpaceX Demo                          US   Vandenberg   SLC4E      S
 2018-021    2018-02-27 04:34   H-IIA 202               H-IIA-38             IGS O-6                                        JP   Tanegashima  Y          S
@@ -5698,7 +5698,7 @@
 2018-026    2018-03-21 17:44   Soyuz-FG                N 15000-066          Soyuz MS-08 / Soyuz 11F732A48 No. 738          RU   Baikonur     LC1        S
 2018-027    2018-03-29 11:26   GSLV Mk II              GSLV-F08             GSAT-6A                                        IN   Satish       SLP        S
 2018-028    2018-03-29 17:38   Soyuz-2-1V              780-72- 005          Kosmos-2525 / EMKA                             RU   Plesetsk     LC43/4     S
-2018-029    2018-03-29 17:56   Chang Zheng 3B/YZ-1     Y48                  Beidou DW30/31 / Beidou-3                      CN   Xichang      LC2        S
+2018-029    2018-03-29 17:56   Chang Zheng 3B          Y48                  Beidou DW30/31 / Beidou-3                      CN   Xichang      LC2        S
 2018-030    2018-03-30 14:13   Falcon 9                052/B1041.2          Iridium-5 / Iridium Next SV41-50               US   Vandenberg   SLC4E      S
 2018-031    2018-03-31 03:22   Chang Zheng 4C          Y26                  Gao Fen 1-02/03/04 / GF-1 02,03,04             CN   Taiyuan      LC9        S
 2018-032    2018-04-02 20:30   Falcon 9                053/B1039.2          Dragon CRS-14 / Dragon C110.2                  US   CC           LC40       S
@@ -5731,24 +5731,24 @@
 2018-059    2018-07-22 05:50   Falcon 9                059/B1047            Telstar 19V                                    US   CC           LC40       S
 2018-060    2018-07-25 11:25   Ariane 5ES              VA244 (596)          Galileo FOC-M8 / Galileosat 23-26              EU   Kourou       ELA3       S
 2018-061    2018-07-25 11:39   Falcon 9                060/B1048            Iridium-7                                      US   Vandenberg   SLC4E      S
-2018-062    2018-07-29 01:48   Chang Zheng 3B/YZ-1     Y49                  Beidou DW33/34 / Beidou-3                      CN   Xichang      LC3        S
+2018-062    2018-07-29 01:48   Chang Zheng 3B          Y49                  Beidou DW33/34 / Beidou-3                      CN   Xichang      LC3        S
 2018-063    2018-07-31 03:00   Chang Zheng 4B          Y37                  Gao Fen 11                                     CN   Taiyuan      LC9        S
 2018-064    2018-08-07 05:18   Falcon 9                061/B1046.2          Merah Putih / Telkom 4                         US   CC           LC40       S
-2018-065    2018-08-12 07:31   Delta 4H/Star 48BV      D4-37/D380           Parker Solar Probe / Solar Probe Plus          US   CC           SLC37B     S
+2018-065    2018-08-12 07:31   Delta 4H                D4-37/D380           Parker Solar Probe / Solar Probe Plus          US   CC           SLC37B     S
 2018-066    2018-08-22 21:20   Vega                    VV12                 Aeolus / ADM-Aeolus                            EU   Kourou       ZLV        S
-2018-067    2018-08-24 23:52   Chang Zheng 3B/YZ-1     Y50                  Beidou DW35/36 / Beidou-3                      CN   Xichang      LC3        S
+2018-067    2018-08-24 23:52   Chang Zheng 3B          Y50                  Beidou DW35/36 / Beidou-3                      CN   Xichang      LC3        S
 2018-068    2018-09-07 03:15   Chang Zheng 2C          Y39                  Haiyang 1C                                     CN   Taiyuan      LC9?       S
 2018-069    2018-09-10 04:45   Falcon 9                062/B1049            Telstar 18V                                    US   CC           LC40       S
 2018-070    2018-09-12 13:02   Delta 7420-10C          D381                 ICESAT-2                                       US   VAFB         SLC2W      S
 2018-071    2018-09-16 16:38   PSLV                    PSLV-C42             NovaSAR-S/S1-4 / NovaSar-S/S1-4                IN   Satish       FLP        S
-2018-072    2018-09-19 14:07   Chang Zheng 3B/YZ-1     Y51                  Beidou DW37/38 / Beidou-3                      CN   Xichang      LC2        S
+2018-072    2018-09-19 14:07   Chang Zheng 3B          Y51                  Beidou DW37/38 / Beidou-3                      CN   Xichang      LC2        S
 2018-073    2018-09-22 17:52   H-IIB                   H-IIB-F7             HTV-7 / HTV 7                                  JP   Tanegashima  Y2         S
 2018-074    2018-09-25 22:38   Ariane 5ECA             VA243 (5103)         Horizons-3e/Azerspace-2                        EU   Kourou       ELA3       S
 2018-075    2018-09-29 04:13   Kuaizhou-1A             Y8                   Centispace-1-1S                                CN   Jiuquan      LC43/95    S
 2018-076    2018-10-08 02:21   Falcon 9                063/B1048.2          SAOCOM-1A                                      US   Vandenberg   SLC4E      S
-2018-077    2018-10-08 02:43   Chang Zheng 2C/YZ-1S    Y38                  Yaogan 32 01 zu / YG-32-01                     CN   Jiuquan      Pad 603    S
+2018-077    2018-10-08 02:43   Chang Zheng 2C          Y38                  Yaogan 32 01 zu / YG-32-01                     CN   Jiuquan      Pad 603    S
 2018-F01    2018-10-11 08:40   Soyuz-FG                U 15000-062          Soyuz MS-10 / Soyuz 11F732A48 No. 740          RU   Baikonur     LC1        F
-2018-078    2018-10-15 04:23   Chang Zheng 3B/YZ-1     Y52                  Beidou DW39/40 / Beidou-3                      CN   Xichang      LC3        S
+2018-078    2018-10-15 04:23   Chang Zheng 3B          Y52                  Beidou DW39/40 / Beidou-3                      CN   Xichang      LC3        S
 2018-079    2018-10-17 04:15   Atlas V 551             AV-073               AEHF-4 / AEHF 4                                US   CC           SLC41      S
 2018-080    2018-10-20 01:45   Ariane 5ECA             VA245 (5105)         BepiColombo                                    EU   Kourou       ELA3       S
 2018-081    2018-10-24 22:57   Chang Zheng 4B          Y34                  Haiyang 2B                                     CN   Taiyuan      LC9        S
@@ -5764,7 +5764,7 @@
 2018-090    2018-11-15 20:46   Falcon 9                064/B1047.2          Es'hail 2                                      US   KSC          LC39A      S
 2018-091    2018-11-16 18:14   Soyuz-FG                N 15000-068          Progress MS-10 / Progress 7K-TGM No. 440       RU   Baikonur     LC1        S
 2018-092    2018-11-17 09:01   Antares 230             2TRS2S1.9  (9)       S.S. John Young / Cygnus NG-10                 US   Wallops      Pad 0A     S
-2018-093    2018-11-18 18:07   Chang Zheng 3B/YZ-1     Y53                  Beidou DW42/43 / Beidou-3                      CN   Xichang      LC3        S
+2018-093    2018-11-18 18:07   Chang Zheng 3B          Y53                  Beidou DW42/43 / Beidou-3                      CN   Xichang      LC3        S
 2018-094    2018-11-19 23:40   Chang Zheng 2D          Y28                  Shiyan 6                                       CN   Jiuquan      Pad 603    S
 2018-095    2018-11-21 01:42   Vega                    VV13                 Mohammed VI-B                                  EU   Kourou       ZLV        S
 2018-096    2018-11-29 04:27   PSLV                    PSLV-C43             HySIS/Cubesats / HySIS                         IN   Satish       FLP        S
@@ -5783,7 +5783,7 @@
 2018-109    2018-12-23 13:51   Falcon 9                067/B1054            GPS III SV01                                   US   CC           LC40       S
 2018-110    2018-12-24 16:53   Chang Zheng 3C          Y17                  TJS 3                                          CN   Xichang      -          S
 2018-111    2018-12-27 02:07   Soyuz-2.1a              Ya15000-003/122-06   Kanopus-V-5,6                                  RU   Vostochny    PU1S       S
-2018-112    2018-12-29 08:00   Chang Zheng 2D/YZ-3     Y35                  Hongyan-1                                      CN   Jiuquan      Pad 603    S
+2018-112    2018-12-29 08:00   Chang Zheng 2D          Y35                  Hongyan-1                                      CN   Jiuquan      Pad 603    S
 2019-001    2019-01-10 17:11   Chang Zheng 3B          Y56                  Zhongxing 2D / Shentou-2?                      CN   Xichang      LC2        S
 2019-002    2019-01-11 15:31   Falcon 9                068/B1049.2          Iridium-8                                      US   Vandenberg   SLC4E      S
 2019-F01    2019-01-15 00:30   Simorgh                 3                    Payam                                          IR   Semnan       -          F
@@ -5849,7 +5849,7 @@
 2019-058    2019-08-30 23:41   Kuaizhou-1A             Y10                  KX-09                                          CN   Jiuquan      LC43/95    S
 2019-059    2019-09-12 03:26   Chang Zheng 4B          Y39                  ZY1-02D                                        CN   Taiyuan      LC9        S
 2019-060    2019-09-19 06:42   Chang Zheng 11          Y7                   Zhuhai-1 03 zu                                 CN   Jiuquan      LC43/95    S
-2019-061    2019-09-22 21:10   Chang Zheng 3B/YZ-1     Y65                  Beidow DW47/48 / Beidou-3 M23/M24              CN   Xichang      LC2        S
+2019-061    2019-09-22 21:10   Chang Zheng 3B          Y65                  Beidow DW47/48 / Beidou-3 M23/M24              CN   Xichang      LC2        S
 2019-062    2019-09-24 16:05   H-IIB                   H-IIB-F8             HTV-8 / HTV 8                                  JP   Tanegashima  Y2         S
 2019-063    2019-09-25 00:54   Chang Zheng 2D          Y43                  Yunhai-1 02                                    CN   Jiuquan      -          S
 2019-064    2019-09-25 13:57   Soyuz-FG                Ya15000-071          Soyuz MS-15 / Soyuz 11F732A48 No. 744          RU   Baikonur     LC1        S
@@ -5866,7 +5866,7 @@
 2019-075    2019-11-13 03:40   Kuaizhou-1A             Y11                  Jilin-1 Gaofen 02A                             CN   Jiuquan      LC43/95    S
 2019-076    2019-11-13 06:35   Chang Zheng 6           Y3                   Ningxia-1                                      CN   Taiyuan      -          S
 2019-077    2019-11-17 10:00   Kuaizhou-1A             Y7                   KL-Alpha-A/B                                   CN   Jiuquan      LC43/95    S
-2019-078    2019-11-23 00:55   Chang Zheng 3B/YZ-1     Y66                  Beidou DW50/51 / Beidou-3 M21/M22              CN   Xichang      LC3        S
+2019-078    2019-11-23 00:55   Chang Zheng 3B          Y66                  Beidou DW50/51 / Beidou-3 M21/M22              CN   Xichang      LC3        S
 2019-079    2019-11-25 17:52   Soyuz-2-1V              780-21 -121/004      Kosmos-2542 / Nivelir?                         RU   Plesetsk     LC43/4     S
 2019-080    2019-11-26 21:23   Ariane 5ECA             VA250 (5108)         TIBA-1/Inmarsat GX5                            EU   Kourou       ELA3       S
 2019-081    2019-11-27 03:58   PSLV-XL                 PSLV-C47             Cartosat-3                                     IN   Satish       SLP        S
@@ -5878,7 +5878,7 @@
 2019-087    2019-12-07 08:52   Kuaizhou-1A             Y12                  HEAD/Tianqi                                    CN   Taiyuan      -          S
 2019-088    2019-12-11 08:54   Soyuz-2.1b              N 15000-046/112-10   Kosmos-2544 / Uragan-M No. 759                 RU   Plesetsk     LC43/3     S
 2019-089    2019-12-11 09:55   PSLV-QL                 PSLV-C48             RISAT-2BR1                                     IN   Satish       FLP        S
-2019-090    2019-12-16 07:22   Chang Zheng 3B/YZ-1     Y67                  Beidou DW52/53 / Beidou-3 M19/M20              CN   Xichang      LC3        S
+2019-090    2019-12-16 07:22   Chang Zheng 3B          Y67                  Beidou DW52/53 / Beidou-3 M19/M20              CN   Xichang      LC3        S
 2019-091    2019-12-17 00:10   Falcon 9                078/B1056.3          JCSAT-18-Kacific-1                             US   CC           LC40       S
 2019-092    2019-12-18 08:54   Soyuz-ST-A              R 15000-008/133-12   CSG-1/CHEOPS                                   EU   Kourou       ELS        S
 2019-093    2019-12-20 03:22   Chang Zheng 4B          Y44                  CBERS-4A                                       CN   Taiyuan      -          S
@@ -5956,8 +5956,8 @@
 2020-062    2020-09-03 12:46   Falcon 9                093/B1060.2          Starlink 1.0-L11                               US   KSC          LC39A      S 87
 2020-063    2020-09-04 07:30   Chang Zheng 2F          T3                   CSSHQ                                          CN   Jiuquan      Pad 921?   S 87
 2020-064    2020-09-07 05:57   Chang Zheng 4B          Y46                  Gao Fen 11-02                                  CN   Taiyuan      LC9        S 88
-2020-F07    2020-09-12 03:19   Astra Rocket 3.1        3                    Rocket 3.1                                     US   Kodiak       LP3B       F 88
-2020-F08    2020-09-12 05:02   Kuaizhou 1A             Y3                   Jilin-1 Gaofen-02C                             CN   Jiuquan      SLS2       F 88
+2020-F07    2020-09-12 03:19   Astra Rocket 3          3                    Rocket 3.1                                     US   Kodiak       LP3B       F 88
+2020-F08    2020-09-12 05:02   Kuaizhou-1A             Y3                   Jilin-1 Gaofen-02C                             CN   Jiuquan      SLS2       F 88
 2020-065    2020-09-15 01:23   Chang Zheng 11H         Y2                   Jilin-1 Gaofen-03B                             CN   HHAI         Debo3      S 88
 2020-066    2020-09-21 05:40   Chang Zheng 4B          Y41                  HaiYang-2C                                     CN   Jiuquan      SLS2       S 89
 2020-067    2020-09-27 03:23   Chang Zheng 4B          Y42                  HuanJing-2                                     CN   Taiyuan      LC9        S 90
@@ -5993,7 +5993,7 @@
 2020-096    2020-12-13 17:30   Falcon 9                102/1051.7           Sirius SXM-7                                   US   CC           LC40       S 101
 2020-097    2020-12-14 05:50   Angara A5               71752(2LM)/88802     IPM2                                           RU   Plesetsk     35/1       S 101
 2020-098    2020-12-15 10:09   Electron                17                   StriX-a / The Owl Night Begin                  US   Mahia        LC1        S 101
-2020-F10    2020-12-15 20:55   Astra Rocket 3.2        4                    Rocket 3.2                                     US   Kodiak       LP3B       F 101
+2020-F10    2020-12-15 20:55   Astra Rocket            4                    Rocket 3.2                                     US   Kodiak       LP3B       F 101
 2020-099    2020-12-17 10:11   PSLV-XL                 C50                  CMS-01 / GSAT-12R                              IN   Satish       SLP        S 102
 2020-100    2020-12-18 12:26   Soyuz-2.1b              ST29                 OneWeb-5                                       EU   Vostochny    1S         S 102
 2020-101    2020-12-19 14:00   Falcon 9                103/B1059.5          NROL-108 / USA-312 USA-313                     US   KSC          LC39A      S 102
